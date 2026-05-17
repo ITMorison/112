@@ -6,85 +6,27 @@ const connectionString = "postgresql://neondb_owner:npg_ibA5nXxpJo0c@ep-still-sm
 const dataFolder = path.join(__dirname, 'src', 'data');
 
 /**
- * Convert the broken array content into valid JSON.
- * 
- * The files have a specific breakage pattern:
- *   "title": "data:image/svg+xml,<svg xmlns="http://...">
- * 
- * Here `=`+`"` together (like in `xmlns="`) terminates the outer JS string early,
- * causing a parse error. We need to find these cases and insert an escape `\"`.
- * 
+ * Universal parser for JS array literals with broken quotes.
  * Strategy:
- * 1. Track string context (quote-delimited)
- * 2. Replace ALL `="` sequences with `=\"` inside strings
- *    (since `="` is the specific way the break occurs: assignment of string that
- *     itself starts with `"`)
- * 
- * More general: any bare " that appears after `=` inside a string breaks it.
- * So: replace `="` with `=\"` when inside a string context.
+ * 1. Extract the = [...] assignment
+ * 2. Replace export with const __data =
+ * 3. Escape all ="..." patterns with =\"...\" (handles SVG data URIs)
+ * 4. Execute via Function constructor
  */
-
-function convertBrokenJSArray(arrContent) {
-  let i = 0;
-  const out = [];
-  let inStr = false, strDelim = '';
-  let inLineComment = false, inBlockComment = false;
-
-  while (i < arrContent.length) {
-    const ch = arrContent[i];
-
-    // Comments
-    if (inBlockComment) {
-      if (ch === '*' && arrContent[i+1] === '/') { out.push('  '); i += 2; inBlockComment = false; continue; }
-      out.push(' '); i++; continue;
-    }
-    if (inLineComment) {
-      if (ch === '\n') { inLineComment = false; out.push('\n'); }
-      else { out.push(' '); }
-      i++; continue;
-    }
-    if (!inStr) {
-      if (ch === '/' && arrContent[i+1] === '/') { inLineComment = true; i += 2; continue; }
-      if (ch === '/' && arrContent[i+1] === '*') { inBlockComment = true; i += 2; continue; }
-    }
-
-    // Inside a string
-    if (inStr) {
-      if (ch === '=' && arrContent[i+1] === '"') {
-        // `="` appears — this is the specific breakage pattern!
-        // Replace with `=\"` so the string stays open
-        out.push('=\\"');
-        i += 2;
-        continue;
-      }
-      if (ch === '\\' && arrContent[i+1]) {
-        out.push(ch); i++; out.push(arrContent[i]); i++;
-        continue;
-      }
-      if (ch === strDelim) {
-        inStr = false;
-        out.push(ch);
-        i++;
-        continue;
-      }
-      out.push(ch); i++;
-      continue;
-    }
-
-    // Start of string
-    if (ch === '"' || ch === "'") {
-      inStr = true; strDelim = ch; out.push(ch); i++; continue;
-    }
-    if (ch === ':') { out.push(ch); i++; continue; }
-    if (/[\n\r,\s]/.test(ch)) { out.push(ch); i++; continue; }
-    if (ch === ',') {
-      if (arrContent[i+1] === ']' || arrContent[i+1] === '}') { i++; continue; }
-      out.push(ch); i++; continue;
-    }
-    out.push(ch); i++;
-  }
-
-  return out.join('');
+function parseDataFile(content) {
+  const exportIdx = content.indexOf('export const');
+  if (exportIdx === -1) return null;
+  
+  // Get everything from export onwards
+  const body = content.substring(exportIdx);
+  
+  // Replace 'export const XX = [' with 'const __data = ['
+  const replaced = body.replace(/^export\s+const\s+[^\s=]+\s*=\s*/, 'const __data = ');
+  
+  // Escape all ="value" patterns (SVG attributes inside string values)
+  const fixed = replaced.replace(/="([^"]*)"/g, '=\\"$1\\"');
+  
+  return fixed;
 }
 
 async function migrate() {
@@ -103,22 +45,20 @@ async function migrate() {
             const filePath = path.join(dataFolder, file);
             const content = fs.readFileSync(filePath, 'utf8');
             
-            // Find array: look for '= [' then find '['
-            const eqIdx = content.indexOf('= [');
-            const startIdx = content.indexOf('[', eqIdx >= 0 ? eqIdx : 0);
-            if (startIdx === -1) { failedFiles++; continue; }
-
-            const arrContent = content.substring(startIdx);
-            
-            // Convert broken JS array → valid JSON array
-            const jsonStr = convertBrokenJSArray(arrContent);
+            const scriptBody = parseDataFile(content);
+            if (!scriptBody) {
+                console.log(`⚠️ ${file}: export не найден`);
+                failedFiles++;
+                continue;
+            }
 
             let products;
             try {
-                JSON.parse(jsonStr); // validate
-                products = JSON.parse(jsonStr);
+                const fn = new Function(scriptBody + '\nreturn __data;');
+                products = fn();
+                if (!Array.isArray(products)) throw new Error('не массив');
             } catch(e) {
-                console.log(`❌ ${file}:`, e.message.substring(0, 100) + '...');
+                console.log(`❌ ${file}:`, e.message.substring(0, 80));
                 failedFiles++;
                 continue;
             }

@@ -43,7 +43,7 @@ export default function PopularProducts({
 
     // Основная логика фильтрации
     const filtered = useMemo(() => {
-      // Если нет активных фильтров (ни категория, ни поиск, ни подкатегория), показываем все товары
+      // Если нет активных фильтров и нет поиска, показываем все товары
       const noCategoryOrSearch = !activeCategory && !searchQuery.trim();
       const noSubcategory = !activeSubcategory || activeSubcategory === 'all';
       const noBrands = selectedBrands.length === 0;
@@ -63,10 +63,12 @@ export default function PopularProducts({
       }
 
       // 2. Фильтр по основным категориям (Видам) и подкатегориям (через selectedCategories)
-      if (selectedCategories.length > 0) {
+      // Если selectedCategories пуст, но activeCategory установлен, используем resolvedCategoryFilters
+      const categoriesToFilter = selectedCategories.length > 0 ? selectedCategories : resolvedCategoryFilters;
+      if (categoriesToFilter.length > 0) {
         result = result.filter((p) => 
-          selectedCategories.includes(p.category) || 
-          selectedCategories.includes(p.subcategory)
+          categoriesToFilter.includes(p.category) || 
+          categoriesToFilter.includes(p.subcategory)
         );
       }
 
@@ -90,7 +92,7 @@ export default function PopularProducts({
       }
 
       return result;
-    }, [searchQuery, selectedCategories, resolvedSubcategory, selectedBrands, poeOnly, activeCategory]);
+    }, [searchQuery, selectedCategories, resolvedSubcategory, selectedBrands, poeOnly, activeCategory, resolvedCategoryFilters]);
 
   // Heading logic
   const getHeading = () => {
