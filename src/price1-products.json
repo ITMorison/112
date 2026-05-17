@@ -1,0 +1,5212 @@
+[
+  {
+    "category_raw": "Прочие",
+    "code": 50000,
+    "article": "PRICE1-50001",
+    "name": "Монтажный набор для крепления СВ рации в 1DIN слот  (для AnyTone AT-505Pro, President Barry, Barry II, Teddy, Teddy II))",
+    "fullName": "Монтажный набор для крепления СВ рации в 1DIN слот  (для AnyTone AT-505Pro, President Barry, Barry II, Teddy, Teddy II))",
+    "price": 9211,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50001,
+    "article": "PRICE1-50002",
+    "name": "Монтажный набор для крепления СВ рации в 1DIN слот  (для Luiton LT-298, LT-308)",
+    "fullName": "Монтажный набор для крепления СВ рации в 1DIN слот  (для Luiton LT-298, LT-308)",
+    "price": 8627,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50002,
+    "article": "PRICE1-50003",
+    "name": "Монтажный набор для крепления СВ рации в 1DIN слот (для Yosan CB-50, 2204Turbo, AnyTone AT-310)",
+    "fullName": "Монтажный набор для крепления СВ рации в 1DIN слот (для Yosan CB-50, 2204Turbo, AnyTone AT-310)",
+    "price": 8627,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50003,
+    "article": "PRICE1-50004",
+    "name": "Монтажный набор для крепления СВ рации в 1DIN слот (для President Barry ASC)",
+    "fullName": "Монтажный набор для крепления СВ рации в 1DIN слот (для President Barry ASC)",
+    "price": 8627,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50004,
+    "article": "PRICE1-50005",
+    "name": "AnyTone AT-505 PRO, р/ст авто, 27МГц, 40 каналов, АМ/ЧМ, 4Вт, EU+RU, VOX, Roger Beep, гарантия 6 мес",
+    "fullName": "AnyTone AT-505 PRO, р/ст авто, 27МГц, 40 каналов, АМ/ЧМ, 4Вт, EU+RU, VOX, Roger Beep, гарантия 6 мес",
+    "price": 29027,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50005,
+    "article": "PRICE1-50006",
+    "name": "LUITON LT-398 р/ст авто, 27МГц, 240 каналов AM/FM, 10 Вт, EU+RU, 12/24V гарантия 6 месяцев",
+    "fullName": "LUITON LT-398 р/ст авто, 27МГц, 240 каналов AM/FM, 10 Вт, EU+RU, 12/24V гарантия 6 месяцев",
+    "price": 37496,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50006,
+    "article": "PRICE1-50007",
+    "name": "AnyTone AT-310M PLUS р/ст авто, 27МГц, 240 каналов, АМ.ЧМ, 8 Вт, EU+RU, 12/24V, CTCSS/DCS, VOX гарантия 1 год",
+    "fullName": "AnyTone AT-310M PLUS р/ст авто, 27МГц, 240 каналов, АМ.ЧМ, 8 Вт, EU+RU, 12/24V, CTCSS/DCS, VOX гарантия 1 год",
+    "price": 42412,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50007,
+    "article": "PRICE1-50008",
+    "name": "YOSAN CB-300 р/ст авто, 27МГц 480 каналов АМ/ЧМ 8Вт EU+RU миниатюрная гарантия 14 дней",
+    "fullName": "YOSAN CB-300 р/ст авто, 27МГц 480 каналов АМ/ЧМ 8Вт EU+RU миниатюрная гарантия 14 дней",
+    "price": 45911,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50008,
+    "article": "PRICE1-50009",
+    "name": "YOSAN CB-350 сверхминиатюрная р/ст авто, 27МГц 480 каналов АМ/ЧМ 5Вт EU+RU гарантия 14 дней",
+    "fullName": "YOSAN CB-350 сверхминиатюрная р/ст авто, 27МГц 480 каналов АМ/ЧМ 5Вт EU+RU гарантия 14 дней",
+    "price": 26814,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50009,
+    "article": "PRICE1-50010",
+    "name": "AnyTone AT-608M р/ст авто, 27МГц 240+240 каналов, 8Вт, АМ/ЧМ, CTCSS/DCS, EU+RU гарантия 1 год",
+    "fullName": "AnyTone AT-608M р/ст авто, 27МГц 240+240 каналов, 8Вт, АМ/ЧМ, CTCSS/DCS, EU+RU гарантия 1 год",
+    "price": 55334,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50010,
+    "article": "PRICE1-50011",
+    "name": "President Teddy II р/ст авто, 27МГц, 4Вт, АМ/ЧМ, EU+RU гарантия 1 год",
+    "fullName": "President Teddy II р/ст авто, 27МГц, 4Вт, АМ/ЧМ, EU+RU гарантия 1 год",
+    "price": 58735,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50011,
+    "article": "PRICE1-50012",
+    "name": "AnyTone Apollo I р/ст авто, 27МГц АМ/ЧМ управление с микрофона  гарантия 1 год",
+    "fullName": "AnyTone Apollo I р/ст авто, 27МГц АМ/ЧМ управление с микрофона  гарантия 1 год",
+    "price": 65743,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50012,
+    "article": "PRICE1-50013",
+    "name": "LAFAYETTE TRUCKER PRO р/ст авто, 27МГц 1350 каналов АМ/ЧМ 8 Вт EU+ RU 1 DIN CTCSS 38 кодов  гарантия 1 год",
+    "fullName": "LAFAYETTE TRUCKER PRO р/ст авто, 27МГц 1350 каналов АМ/ЧМ 8 Вт EU+ RU 1 DIN CTCSS 38 кодов  гарантия 1 год",
+    "price": 54456,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50013,
+    "article": "PRICE1-50014",
+    "name": "AnyTone Apollo II р/ст авто, 27МГц АМ/ЧМ  EU+RU CTCSS/DCS 8 Вт гарантия 1 год",
+    "fullName": "AnyTone Apollo II р/ст авто, 27МГц АМ/ЧМ  EU+RU CTCSS/DCS 8 Вт гарантия 1 год",
+    "price": 66964,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50014,
+    "article": "PRICE1-50015",
+    "name": "AnyTone AT-5289 II р/ст авто, 27МГц, 50 Вт, АМ/ЧМ, VOX, CTCSS/DCS, автоинформатор, гарантия 1 год",
+    "fullName": "AnyTone AT-5289 II р/ст авто, 27МГц, 50 Вт, АМ/ЧМ, VOX, CTCSS/DCS, автоинформатор, гарантия 1 год",
+    "price": 72512,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50015,
+    "article": "PRICE1-50016",
+    "name": "AnyTone AT-6666 р/ст авто, 25.615...30.105 МГц, AM/FM/SSB, 12 Вт AM, 50 Вт FM гарантия 1 год",
+    "fullName": "AnyTone AT-6666 р/ст авто, 25.615...30.105 МГц, AM/FM/SSB, 12 Вт AM, 50 Вт FM гарантия 1 год",
+    "price": 131147,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50016,
+    "article": "PRICE1-50017",
+    "name": "AnyTone AT-5555N р/ст авто, 25.615...30.105 МГц, AM/FM/SSB, 12 Вт AM, 30 Вт FM, CTCSS/DCS  гарантия 1 год",
+    "fullName": "AnyTone AT-5555N р/ст авто, 25.615...30.105 МГц, AM/FM/SSB, 12 Вт AM, 30 Вт FM, CTCSS/DCS  гарантия 1 год",
+    "price": 136250,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50017,
+    "article": "PRICE1-50018",
+    "name": "President Jerry радиостанция носимая 27МГц 40 каналов ЧМ/АМ 5Вт EU+RU  LiIOn 1800мАч Гарантия 1 год",
+    "fullName": "President Jerry радиостанция носимая 27МГц 40 каналов ЧМ/АМ 5Вт EU+RU  LiIOn 1800мАч Гарантия 1 год",
+    "price": 93457,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50018,
+    "article": "PRICE1-50019",
+    "name": "Р/ст StarNet S-100 400-480МГц, 3Вт, Li-Ion 1200 мАч, две кнопки РТТ, зарядное устройство, гарантия 6 мес",
+    "fullName": "Р/ст StarNet S-100 400-480МГц, 3Вт, Li-Ion 1200 мАч, две кнопки РТТ, зарядное устройство, гарантия 6 мес",
+    "price": 11494,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50019,
+    "article": "PRICE1-50020",
+    "name": "Р/ст Luiton LT-316, 400-470МГц, 3Вт, Li-Ion 1500мАч, зарядное устройство, гарантия 1 год",
+    "fullName": "Р/ст Luiton LT-316, 400-470МГц, 3Вт, Li-Ion 1500мАч, зарядное устройство, гарантия 1 год",
+    "price": 9614,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50020,
+    "article": "PRICE1-50021",
+    "name": "Р/ст Puxing PX-2R  400-470МГц, 2Вт, Li-Ion, 1100мАч, зарядное устройство, гарнитура, гарантия 1 мес",
+    "fullName": "Р/ст Puxing PX-2R  400-470МГц, 2Вт, Li-Ion, 1100мАч, зарядное устройство, гарнитура, гарантия 1 мес",
+    "price": 18121,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50021,
+    "article": "PRICE1-50022",
+    "name": "Р/ст StarNet S-200 400-470МГц 5Вт, Li-Ion 2000мАч, зарядное устройство, гарантия 6 месяцев",
+    "fullName": "Р/ст StarNet S-200 400-470МГц 5Вт, Li-Ion 2000мАч, зарядное устройство, гарантия 6 месяцев",
+    "price": 19217,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50022,
+    "article": "PRICE1-50023",
+    "name": "Р/ст Quansheng UV-K5 136-174/400-480МГц, 50-600МГц прием, li-Ion 1600 мАч, зарядное устройство Type-C, гарантия 1 мес",
+    "fullName": "Р/ст Quansheng UV-K5 136-174/400-480МГц, 50-600МГц прием, li-Ion 1600 мАч, зарядное устройство Type-C, гарантия 1 мес",
+    "price": 19255,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50023,
+    "article": "PRICE1-50024",
+    "name": "Р/ст Quansheng UV-K5(8) 136-174/400-480МГц, 50-600МГц прием, li-Ion 1600 мАч, зарядное устройство, Type-C, улучшенный динамик, гарантия 1 мес",
+    "fullName": "Р/ст Quansheng UV-K5(8) 136-174/400-480МГц, 50-600МГц прием, li-Ion 1600 мАч, зарядное устройство, Type-C, улучшенный динамик, гарантия 1 мес",
+    "price": 20563,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50024,
+    "article": "PRICE1-50025",
+    "name": "Р/ст Luiton LT-316 (комплект 2 штуки), 400-470МГц, 3Вт, Li-Ion 1500мАч, з/у, гарантия 1 год",
+    "fullName": "Р/ст Luiton LT-316 (комплект 2 штуки), 400-470МГц, 3Вт, Li-Ion 1500мАч, з/у, гарантия 1 год",
+    "price": 19228,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50025,
+    "article": "PRICE1-50026",
+    "name": "Р/ст AnyTone AT-3208Plus 400-480МГц, 5Вт, Li-Ion 1350мАч, зарядное устройство  Гарантия 2 года!",
+    "fullName": "Р/ст AnyTone AT-3208Plus 400-480МГц, 5Вт, Li-Ion 1350мАч, зарядное устройство  Гарантия 2 года!",
+    "price": 37016,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50026,
+    "article": "PRICE1-50027",
+    "name": "Р/ст AnyTone AT-3208Plus 136-174МГц, 5Вт, Li-Ion 1350мАч, зарядное устройство  Гарантия 2 года!",
+    "fullName": "Р/ст AnyTone AT-3208Plus 136-174МГц, 5Вт, Li-Ion 1350мАч, зарядное устройство  Гарантия 2 года!",
+    "price": 37016,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50027,
+    "article": "PRICE1-50028",
+    "name": "Р/ст Climbmax EM-9735 136-174МГц 5Вт, Li-Ion 1500мАч, зарядное устройство, гарантия 1 год",
+    "fullName": "Р/ст Climbmax EM-9735 136-174МГц 5Вт, Li-Ion 1500мАч, зарядное устройство, гарантия 1 год",
+    "price": 30618,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50028,
+    "article": "PRICE1-50029",
+    "name": "Р/ст Quansheng TK-11(5) 25-29.8 МГц,50-54 МГц, 136-174 МГц, 350-490 МГц, 0.15-1160МГц прием, 10Вт, Li-Ion 2500mAh, з/у, гарантия 6 мес",
+    "fullName": "Р/ст Quansheng TK-11(5) 25-29.8 МГц,50-54 МГц, 136-174 МГц, 350-490 МГц, 0.15-1160МГц прием, 10Вт, Li-Ion 2500mAh, з/у, гарантия 6 мес",
+    "price": 39398,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50029,
+    "article": "PRICE1-50030",
+    "name": "Р/ст Quansheng TK-11(8) 25-29.8 МГц,50-54 МГц, 136-174 МГц, 350-490 МГц, 0.15-1160МГц прием, 10Вт, Li-Ion 3000mAh, з/у, гарантия 6 мес",
+    "fullName": "Р/ст Quansheng TK-11(8) 25-29.8 МГц,50-54 МГц, 136-174 МГц, 350-490 МГц, 0.15-1160МГц прием, 10Вт, Li-Ion 3000mAh, з/у, гарантия 6 мес",
+    "price": 43900,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50030,
+    "article": "PRICE1-50031",
+    "name": "Р/ст Quansheng TG-1680, 400-480МГц, 8Вт, Li-Pol 3500мАч, зарядное устройство. гарантия 1 год",
+    "fullName": "Р/ст Quansheng TG-1680, 400-480МГц, 8Вт, Li-Pol 3500мАч, зарядное устройство. гарантия 1 год",
+    "price": 46227,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50031,
+    "article": "PRICE1-50032",
+    "name": "Р/ст Quansheng TG-1680, 136-174МГц, 8Вт, Li-Pol 3500мАч, зарядное устройство, гарантия 1 год",
+    "fullName": "Р/ст Quansheng TG-1680, 136-174МГц, 8Вт, Li-Pol 3500мАч, зарядное устройство, гарантия 1 год",
+    "price": 46227,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50032,
+    "article": "PRICE1-50033",
+    "name": "Р/ст AnyTone AT-288 136-174МГц 4Вт, Li-Ion 1800 мАч, зарядное устройство  Гарантия 2 года!",
+    "fullName": "Р/ст AnyTone AT-288 136-174МГц 4Вт, Li-Ion 1800 мАч, зарядное устройство  Гарантия 2 года!",
+    "price": 49266,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50033,
+    "article": "PRICE1-50034",
+    "name": "Р/ст Luiton LT-199H, 400-480МГц, 12Вт, Li-Ion 2800мАч, зарядное устройство, гарантия 1 год",
+    "fullName": "Р/ст Luiton LT-199H, 400-480МГц, 12Вт, Li-Ion 2800мАч, зарядное устройство, гарантия 1 год",
+    "price": 40025,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50034,
+    "article": "PRICE1-50035",
+    "name": "Р/ст StarNet S-400 400-480МГц 10Вт, Li-Ion 2800мАч, IP66, Зарядное устройство, гарантия 1 год",
+    "fullName": "Р/ст StarNet S-400 400-480МГц 10Вт, Li-Ion 2800мАч, IP66, Зарядное устройство, гарантия 1 год",
+    "price": 50663,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50035,
+    "article": "PRICE1-50036",
+    "name": "Р/ст StarNet S-400V 136-174МГц 10Вт, Li-Ion 2800мАч, IP66, Зарядное устройство, гарантия 1 год",
+    "fullName": "Р/ст StarNet S-400V 136-174МГц 10Вт, Li-Ion 2800мАч, IP66, Зарядное устройство, гарантия 1 год",
+    "price": 50663,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50036,
+    "article": "PRICE1-50037",
+    "name": "Р/ст AnyTone AT-398UVA двухдиапазонная 136-174/400-480МГц, , 7Вт, Li-Ion 2200мАч зарядное устройство  Гарантия 1 год!",
+    "fullName": "Р/ст AnyTone AT-398UVA двухдиапазонная 136-174/400-480МГц, , 7Вт, Li-Ion 2200мАч зарядное устройство  Гарантия 1 год!",
+    "price": 65046,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50037,
+    "article": "PRICE1-50038",
+    "name": "Р/ст Baofeng DM-V1 400-470МГц, DMR/analog, Tier I&II, 200 каналов, 2 Вт, Li-Ion 2000мАч, з/у, гарнитура, гарантия 6 мес",
+    "fullName": "Р/ст Baofeng DM-V1 400-470МГц, DMR/analog, Tier I&II, 200 каналов, 2 Вт, Li-Ion 2000мАч, з/у, гарнитура, гарантия 6 мес",
+    "price": 30885,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50038,
+    "article": "PRICE1-50039",
+    "name": "Р/ст Quesum MD-100 Tier I&II, 400-470МГц, 5Вт, li-Ion 2600мАч, з/у, гарантия 12 месяцев",
+    "fullName": "Р/ст Quesum MD-100 Tier I&II, 400-470МГц, 5Вт, li-Ion 2600мАч, з/у, гарантия 12 месяцев",
+    "price": 67357,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50039,
+    "article": "PRICE1-50040",
+    "name": "Р/ст Quesum MD-10 Tier I&II, 400-470МГц, LED, 5Вт, li-Ion 2600мАч, з/у, гарантия 12 месяцев",
+    "fullName": "Р/ст Quesum MD-10 Tier I&II, 400-470МГц, LED, 5Вт, li-Ion 2600мАч, з/у, гарантия 12 месяцев",
+    "price": 70479,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50040,
+    "article": "PRICE1-50041",
+    "name": "Р/ст AnyTone AT-D168UV DMR/analog, 136-174/400-480МГц, 5Вт, Li-Ion 1800мАч+2600мАч, антенна 12 см+38 см, зарядное устройство, гарантия 1 год",
+    "fullName": "Р/ст AnyTone AT-D168UV DMR/analog, 136-174/400-480МГц, 5Вт, Li-Ion 1800мАч+2600мАч, антенна 12 см+38 см, зарядное устройство, гарантия 1 год",
+    "price": 93631,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50041,
+    "article": "PRICE1-50042",
+    "name": "Р/ст AnyTone AT-D878UV DMR/analog, 136-174/400-480МГц 7Вт, Li-Ion 3100мАч, GPS, зарядное устройство, гарантия 1 год",
+    "fullName": "Р/ст AnyTone AT-D878UV DMR/analog, 136-174/400-480МГц 7Вт, Li-Ion 3100мАч, GPS, зарядное устройство, гарантия 1 год",
+    "price": 120091,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50042,
+    "article": "PRICE1-50043",
+    "name": "Набор для выноса передней панели AT-588UV (кабель 3м, скоба для панели)",
+    "fullName": "Набор для выноса передней панели AT-588UV (кабель 3м, скоба для панели)",
+    "price": 12045,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50043,
+    "article": "PRICE1-50044",
+    "name": "Р/ст StarNet S-700 64-520/136-520МГц, 999 каналов, GPS, 10/25Вт, гарантия 6 месяцев",
+    "fullName": "Р/ст StarNet S-700 64-520/136-520МГц, 999 каналов, GPS, 10/25Вт, гарантия 6 месяцев",
+    "price": 57171,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50044,
+    "article": "PRICE1-50045",
+    "name": "Р/ст AnyTone AT-778UV 136-174/400-490МГц, 200 каналов, 5/15/25Вт VHF, 5/15/25/25Вт UHF, VOX, гарантия 1 год",
+    "fullName": "Р/ст AnyTone AT-778UV 136-174/400-490МГц, 200 каналов, 5/15/25Вт VHF, 5/15/25/25Вт UHF, VOX, гарантия 1 год",
+    "price": 89925,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50045,
+    "article": "PRICE1-50046",
+    "name": "Р/ст AnyTone AT-5189 400-490МГц, 250 каналов, 45/25/10 Вт  Гарантия 1 год!",
+    "fullName": "Р/ст AnyTone AT-5189 400-490МГц, 250 каналов, 45/25/10 Вт  Гарантия 1 год!",
+    "price": 109332,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50046,
+    "article": "PRICE1-50047",
+    "name": "Р/ст Luiton LT-590 400-490МГц, 200 каналов, 45/25/10 Вт  Гарантия 6 месяцев!",
+    "fullName": "Р/ст Luiton LT-590 400-490МГц, 200 каналов, 45/25/10 Вт  Гарантия 6 месяцев!",
+    "price": 111507,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50047,
+    "article": "PRICE1-50048",
+    "name": "Р/ст AnyTone AT-588  400-490МГц, 200 каналов, 45/25/10 Вт  Гарантия 12 месяцев!",
+    "fullName": "Р/ст AnyTone AT-588  400-490МГц, 200 каналов, 45/25/10 Вт  Гарантия 12 месяцев!",
+    "price": 115469,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Радиостанции",
+    "code": 50048,
+    "article": "PRICE1-50049",
+    "name": "Р/ст AnyTone AT-588UV 136-174/400-490МГц, 758 каналов, 5/10/20/50Вт VHF, 5/10/25/40Вт UHF  Гарантия 2 года!",
+    "fullName": "Р/ст AnyTone AT-588UV 136-174/400-490МГц, 758 каналов, 5/10/20/50Вт VHF, 5/10/25/40Вт UHF  Гарантия 2 года!",
+    "price": 173343,
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50049,
+    "article": "PRICE1-50050",
+    "name": "AnyTone AT-7188 (U) УКВ ретранслятор аналоговый  400-480МГц, 25/35Вт, гарантия 1 год",
+    "fullName": "AnyTone AT-7188 (U) УКВ ретранслятор аналоговый  400-480МГц, 25/35Вт, гарантия 1 год",
+    "price": 602225,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50050,
+    "article": "PRICE1-50051",
+    "name": "Quesum R-8900 (U) УКВ ретранслятор  400-470МГц 30Вт, DMR Tier II/Analogue, гарантия 1 год",
+    "fullName": "Quesum R-8900 (U) УКВ ретранслятор  400-470МГц 30Вт, DMR Tier II/Analogue, гарантия 1 год",
+    "price": 968280,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50051,
+    "article": "PRICE1-50052",
+    "name": "Quesum R-8900 (V) УКВ ретранслятор  136-174МГц 30Вт, DMR Tier II/Analogue, гарантия 1 год",
+    "fullName": "Quesum R-8900 (V) УКВ ретранслятор  136-174МГц 30Вт, DMR Tier II/Analogue, гарантия 1 год",
+    "price": 968280,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50052,
+    "article": "PRICE1-50053",
+    "name": "AnyTone R780 (U) УКВ ретрансялтор DMR+analog 400-470МГц 50Вт гарантия 1 год",
+    "fullName": "AnyTone R780 (U) УКВ ретрансялтор DMR+analog 400-470МГц 50Вт гарантия 1 год",
+    "price": 1099614,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50053,
+    "article": "PRICE1-50054",
+    "name": "AnyTone R780 (V) УКВ ретранслятор DMR+analog 136-174МГц 50Вт гарантия 1 год",
+    "fullName": "AnyTone R780 (V) УКВ ретранслятор DMR+analog 136-174МГц 50Вт гарантия 1 год",
+    "price": 1099614,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Дуплексеры",
+    "code": 50054,
+    "article": "PRICE1-50055",
+    "name": "Фильтр полосовой LBQ-150 136-174МГц, 50Вт, -35дБ",
+    "fullName": "Фильтр полосовой LBQ-150 136-174МГц, 50Вт, -35дБ",
+    "price": 67803,
+    "category": "radio-equipment",
+    "subcategory": "duplexers"
+  },
+  {
+    "category_raw": "Дуплексеры",
+    "code": 50055,
+    "article": "PRICE1-50056",
+    "name": "Фильтр полосовой LBQ-450 400-500МГц, 50Вт, -50дБ",
+    "fullName": "Фильтр полосовой LBQ-450 400-500МГц, 50Вт, -50дБ",
+    "price": 67803,
+    "category": "radio-equipment",
+    "subcategory": "duplexers"
+  },
+  {
+    "category_raw": "Дуплексеры",
+    "code": 50056,
+    "article": "PRICE1-50057",
+    "name": "Дуплексер SGQ-450 400-480МГц, 30Вт, разнос 5-20МГц",
+    "fullName": "Дуплексер SGQ-450 400-480МГц, 30Вт, разнос 5-20МГц",
+    "price": 78060,
+    "category": "radio-equipment",
+    "subcategory": "duplexers"
+  },
+  {
+    "category_raw": "Дуплексеры",
+    "code": 50057,
+    "article": "PRICE1-50058",
+    "name": "Дуплексер SGQ-150D 136-174МГц, 50Вт, разнос 3.8-15МГц",
+    "fullName": "Дуплексер SGQ-150D 136-174МГц, 50Вт, разнос 3.8-15МГц",
+    "price": 87440,
+    "category": "radio-equipment",
+    "subcategory": "duplexers"
+  },
+  {
+    "category_raw": "Дуплексеры",
+    "code": 50058,
+    "article": "PRICE1-50059",
+    "name": "Дуплексер SGQ-450D 400-480МГц, 50Вт, разнос 5-20МГц",
+    "fullName": "Дуплексер SGQ-450D 400-480МГц, 50Вт, разнос 5-20МГц",
+    "price": 88639,
+    "category": "radio-equipment",
+    "subcategory": "duplexers"
+  },
+  {
+    "category_raw": "Подавители связи",
+    "code": 50059,
+    "article": "PRICE1-50060",
+    "name": "JYT-160 Подавитель сотовой связи портативный, 1.5 Ватт, дальность до 10 метров, подавление  GSM, 2G, 3G, 4G LTE, WIFI, Bluetooth, гарантия 1 год",
+    "fullName": "JYT-160 Подавитель сотовой связи портативный, 1.5 Ватт, дальность до 10 метров, подавление  GSM, 2G, 3G, 4G LTE, WIFI, Bluetooth, гарантия 1 год",
+    "price": 52647,
+    "category": "radio-equipment",
+    "subcategory": "jammers"
+  },
+  {
+    "category_raw": "Подавители связи",
+    "code": 50060,
+    "article": "PRICE1-50061",
+    "name": "JYT-870 Подавитель сотовой связи стационарный, 20 Ватт, 8 антенн, дальность до 40 метров, подавление  GSM, 3G, 4G,  Wi-Fi, Bluetooth, GPS, гарантия 1 год",
+    "fullName": "JYT-870 Подавитель сотовой связи стационарный, 20 Ватт, 8 антенн, дальность до 40 метров, подавление  GSM, 3G, 4G,  Wi-Fi, Bluetooth, GPS, гарантия 1 год",
+    "price": 146496,
+    "category": "radio-equipment",
+    "subcategory": "jammers"
+  },
+  {
+    "category_raw": "Подавители связи",
+    "code": 50061,
+    "article": "PRICE1-50062",
+    "name": "JYT-1260 Подавитель сотовой связи портативный, 10 Ватт, дальность до 20 метров, 12 антенн, подавление GPS, GSM, 2G, 3G, 4G LTE, WIFI, 315, 433, 868, Bluetooth, гарантия 1 год",
+    "fullName": "JYT-1260 Подавитель сотовой связи портативный, 10 Ватт, дальность до 20 метров, 12 антенн, подавление GPS, GSM, 2G, 3G, 4G LTE, WIFI, 315, 433, 868, Bluetooth, гарантия 1 год",
+    "price": 226611,
+    "category": "radio-equipment",
+    "subcategory": "jammers"
+  },
+  {
+    "category_raw": "Подавители связи",
+    "code": 50062,
+    "article": "PRICE1-50063",
+    "name": "JYT-1600 Подавитель сотовой связи стационарный, 48 Ватт, 16 антенн, дальность до 70 метров, подавление  GSM, 3G, 4G, VHF, UHF, Wi-Fi 2.4G, GPS, L1, L2, L3, L4, L5 LOJACK, 315, 433, 868, Bluetooth, гарантия 1 год",
+    "fullName": "JYT-1600 Подавитель сотовой связи стационарный, 48 Ватт, 16 антенн, дальность до 70 метров, подавление  GSM, 3G, 4G, VHF, UHF, Wi-Fi 2.4G, GPS, L1, L2, L3, L4, L5 LOJACK, 315, 433, 868, Bluetooth, гарантия 1 год",
+    "price": 261142,
+    "category": "radio-equipment",
+    "subcategory": "jammers"
+  },
+  {
+    "category_raw": "Подавители связи",
+    "code": 50063,
+    "article": "PRICE1-50064",
+    "name": "JYT-1800 Подавитель сотовой связи стационарный, 48 Ватт, 18 антенн, дальность до 60 метров, подавление  GSM, 3G, 4G, 5G, VHF, UHF, Wi-Fi 2.4G, Wi-Fi 5.2G, GPS, L1, L2, L5, LOJACK,  5.8G, 315, 433, 868, Bluetooth, дистанционное управление, гарантия 1 год",
+    "fullName": "JYT-1800 Подавитель сотовой связи стационарный, 48 Ватт, 18 антенн, дальность до 60 метров, подавление  GSM, 3G, 4G, 5G, VHF, UHF, Wi-Fi 2.4G, Wi-Fi 5.2G, GPS, L1, L2, L5, LOJACK,  5.8G, 315, 433, 868, Bluetooth, дистанционное управление, гарантия 1 год",
+    "price": 324809,
+    "category": "radio-equipment",
+    "subcategory": "jammers"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50064,
+    "article": "PRICE1-50065",
+    "name": "CB-2308 антенна автомобильная 27 МГц (универсальная)  1,5 м  500 Вт без кабеля",
+    "fullName": "CB-2308 антенна автомобильная 27 МГц (универсальная)  1,5 м  500 Вт без кабеля",
+    "price": 12715,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50065,
+    "article": "PRICE1-50066",
+    "name": "С-129 Hawaii антенна автомобильная 27МГц (врезная) 72 см с кабелем 4м 150Вт",
+    "fullName": "С-129 Hawaii антенна автомобильная 27МГц (врезная) 72 см с кабелем 4м 150Вт",
+    "price": 12699,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50066,
+    "article": "PRICE1-50067",
+    "name": "SD T3-27 антенна автомобильная 27МГц (врезная) 71 см, с кабелем 3,6 м 150 Вт",
+    "fullName": "SD T3-27 антенна автомобильная 27МГц (врезная) 71 см, с кабелем 3,6 м 150 Вт",
+    "price": 15009,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50067,
+    "article": "PRICE1-50068",
+    "name": "CB-1346 антенна автомобильная 27 МГц (на магнитном основании) 1 м с кабелем 4 м 300 Вт",
+    "fullName": "CB-1346 антенна автомобильная 27 МГц (на магнитном основании) 1 м с кабелем 4 м 300 Вт",
+    "price": 15042,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50068,
+    "article": "PRICE1-50069",
+    "name": "CB-59 антенна автомобильная 27 МГц (врезная) 0,95 м с кабелем 3,6 м 200 Вт",
+    "fullName": "CB-59 антенна автомобильная 27 МГц (врезная) 0,95 м с кабелем 3,6 м 200 Вт",
+    "price": 15304,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50069,
+    "article": "PRICE1-50070",
+    "name": "SD T3-27 MAG антенна автомобильная 27МГц на магнитном основании 0,71 метра с кабелем,100Вт",
+    "fullName": "SD T3-27 MAG антенна автомобильная 27МГц на магнитном основании 0,71 метра с кабелем,100Вт",
+    "price": 15663,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50070,
+    "article": "PRICE1-50071",
+    "name": "SD Super 9 антенна автомобильная 27 МГц (врезная) 1,4 м с кабелем 3,6 м 200 Вт",
+    "fullName": "SD Super 9 антенна автомобильная 27 МГц (врезная) 1,4 м с кабелем 3,6 м 200 Вт",
+    "price": 15805,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50071,
+    "article": "PRICE1-50072",
+    "name": "SD T-638 антенна автомобильная 27 МГц (врезная) 1,6 м с кабелем 3,6 м 200 Вт",
+    "fullName": "SD T-638 антенна автомобильная 27 МГц (врезная) 1,6 м с кабелем 3,6 м 200 Вт",
+    "price": 15805,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50072,
+    "article": "PRICE1-50073",
+    "name": "Sirio Snake 27 антенна автомобильная 27МГц (врезная) 1,1 метра с кабелем 3,6 м 40 Вт",
+    "fullName": "Sirio Snake 27 антенна автомобильная 27МГц (врезная) 1,1 метра с кабелем 3,6 м 40 Вт",
+    "price": 20269,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50073,
+    "article": "PRICE1-50074",
+    "name": "Hustler 1C-100 антенна автомобильная 27 МГц (на магнитном основании) 1 м с кабелем 4 м 75 Вт",
+    "fullName": "Hustler 1C-100 антенна автомобильная 27 МГц (на магнитном основании) 1 м с кабелем 4 м 75 Вт",
+    "price": 17658,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50074,
+    "article": "PRICE1-50075",
+    "name": "LEMM AT-1500 антенна автомобильная 27 МГц (врезная) 1,67 м с кабелем 3,6 м 400 Вт",
+    "fullName": "LEMM AT-1500 антенна автомобильная 27 МГц (врезная) 1,67 м с кабелем 3,6 м 400 Вт",
+    "price": 18247,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50075,
+    "article": "PRICE1-50076",
+    "name": "Sirio NEW Delta 27-95 антенна автомобильная 27МГц (врезная) 0,95 метра с кабелем 3,6 м 100 Вт",
+    "fullName": "Sirio NEW Delta 27-95 антенна автомобильная 27МГц (врезная) 0,95 метра с кабелем 3,6 м 100 Вт",
+    "price": 20901,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50076,
+    "article": "PRICE1-50077",
+    "name": "Sirio NEW Delta 27-M95 антенна автомобильная 27МГц (врезная) 0,95 метра с кабелем 3,6 м 100 Вт",
+    "fullName": "Sirio NEW Delta 27-M95 антенна автомобильная 27МГц (врезная) 0,95 метра с кабелем 3,6 м 100 Вт",
+    "price": 22350,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50077,
+    "article": "PRICE1-50078",
+    "name": "LEMM AT-1700 антенна автомобильная 27 МГц (врезная) 1,88 м с кабелем 3,6 м 400 Вт",
+    "fullName": "LEMM AT-1700 антенна автомобильная 27 МГц (врезная) 1,88 м с кабелем 3,6 м 400 Вт",
+    "price": 18835,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50078,
+    "article": "PRICE1-50079",
+    "name": "SD ML-145 MAG антенна автомобильная 27 МГц (на магнитном основании) 1,5 м с кабелем 3,6 м 300 Вт",
+    "fullName": "SD ML-145 MAG антенна автомобильная 27 МГц (на магнитном основании) 1,5 м с кабелем 3,6 м 300 Вт",
+    "price": 19353,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50079,
+    "article": "PRICE1-50080",
+    "name": "CB-2307 антенна автомобильная 27 МГц (врезная) 2 м с кабелем 3,6 м 1200 Вт",
+    "fullName": "CB-2307 антенна автомобильная 27 МГц (врезная) 2 м с кабелем 3,6 м 1200 Вт",
+    "price": 19424,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50080,
+    "article": "PRICE1-50081",
+    "name": "LEMM AT-109 антенна автомобильная 27 МГц (врезная) 1,65 м с кабелем 3,6 м 400 Вт",
+    "fullName": "LEMM AT-109 антенна автомобильная 27 МГц (врезная) 1,65 м с кабелем 3,6 м 400 Вт",
+    "price": 19718,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50081,
+    "article": "PRICE1-50082",
+    "name": "Sirio T3-27 антенна автомобильная 27МГц (врезная) 0,6 метра с кабелем 3,6 м 100 Вт",
+    "fullName": "Sirio T3-27 антенна автомобильная 27МГц (врезная) 0,6 метра с кабелем 3,6 м 100 Вт",
+    "price": 17685,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50082,
+    "article": "PRICE1-50083",
+    "name": "CB-145 антенна автомобильная 27 МГц (на магнитном основании) 1,5 м с кабелем 3,6 м 500 Вт",
+    "fullName": "CB-145 антенна автомобильная 27 МГц (на магнитном основании) 1,5 м с кабелем 3,6 м 500 Вт",
+    "price": 20165,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50083,
+    "article": "PRICE1-50084",
+    "name": "LEMM AT-1000 EAGLE антенна автомобильная 27 МГц (врезная) 1.58 м с кабелем 3,6 м 600 Вт",
+    "fullName": "LEMM AT-1000 EAGLE антенна автомобильная 27 МГц (врезная) 1.58 м с кабелем 3,6 м 600 Вт",
+    "price": 22051,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50084,
+    "article": "PRICE1-50085",
+    "name": "Sirio Super 9 Blue Line антенна автомобильная 27МГц (врезная) 1,5 метра с кабелем 3,6 м 150 Вт",
+    "fullName": "Sirio Super 9 Blue Line антенна автомобильная 27МГц (врезная) 1,5 метра с кабелем 3,6 м 150 Вт",
+    "price": 19609,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50085,
+    "article": "PRICE1-50086",
+    "name": "Sirio Carbonium 27 Super антенна автомобильная 27МГц (врезная) 1,4 метра с кабелем 3,6 м 35 Вт",
+    "fullName": "Sirio Carbonium 27 Super антенна автомобильная 27МГц (врезная) 1,4 метра с кабелем 3,6 м 35 Вт",
+    "price": 23299,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50086,
+    "article": "PRICE1-50087",
+    "name": "Sirio T3-27 MAG антенна автомобильная 27МГц на магнитном основании 0,6 метра с кабелем,100Вт",
+    "fullName": "Sirio T3-27 MAG антенна автомобильная 27МГц на магнитном основании 0,6 метра с кабелем,100Вт",
+    "price": 26138,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50087,
+    "article": "PRICE1-50088",
+    "name": "Sirio HI POWER 4000 антенна автомобильная 27МГц (врезная) 2,03 метра с кабелем 3,6 м 600 Вт",
+    "fullName": "Sirio HI POWER 4000 антенна автомобильная 27МГц (врезная) 2,03 метра с кабелем 3,6 м 600 Вт",
+    "price": 30166,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50088,
+    "article": "PRICE1-50089",
+    "name": "LEMM AT-2001 TURBO антенна автомобильная 27 МГц (врезная) 2,0 м с кабелем 3,6 м 2000 Вт",
+    "fullName": "LEMM AT-2001 TURBO антенна автомобильная 27 МГц (врезная) 2,0 м с кабелем 3,6 м 2000 Вт",
+    "price": 26629,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50089,
+    "article": "PRICE1-50090",
+    "name": "Sirio Performer P-2000 антенна автомобильная 27МГц (врезная) 2 метра с кабелем 3,6 метра 2000 Вт",
+    "fullName": "Sirio Performer P-2000 антенна автомобильная 27МГц (врезная) 2 метра с кабелем 3,6 метра 2000 Вт",
+    "price": 29054,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50090,
+    "article": "PRICE1-50091",
+    "name": "Sirio Fighter P-5000 антенна автомобильная 27 МГц (врезная) 2,0 м с кабелем 3,6 м 5000 Вт белая",
+    "fullName": "Sirio Fighter P-5000 антенна автомобильная 27 МГц (врезная) 2,0 м с кабелем 3,6 м 5000 Вт белая",
+    "price": 32280,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50091,
+    "article": "PRICE1-50092",
+    "name": "Sirio Performer 5000 антенна автомобильная 27МГц (врезная) 2 метра с кабелем 3,6 метра 1500 Вт",
+    "fullName": "Sirio Performer 5000 антенна автомобильная 27МГц (врезная) 2 метра с кабелем 3,6 метра 1500 Вт",
+    "price": 32280,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50092,
+    "article": "PRICE1-50093",
+    "name": "Sirio Performer 5000 LED антенна автомобильная 27МГц (врезная) 2 метра с кабелем 3,6 метра 1500 Вт",
+    "fullName": "Sirio Performer 5000 LED антенна автомобильная 27МГц (врезная) 2 метра с кабелем 3,6 метра 1500 Вт",
+    "price": 33583,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50093,
+    "article": "PRICE1-50094",
+    "name": "DB-86D антенна автомобильная 138-470МГц, 2.15dBi, 0,47м, кабель RG174A, разъем SMA-F, на магните",
+    "fullName": "DB-86D антенна автомобильная 138-470МГц, 2.15dBi, 0,47м, кабель RG174A, разъем SMA-F, на магните",
+    "price": 7358,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50094,
+    "article": "PRICE1-50095",
+    "name": "DB-1348U антенна автомобильная 450-470МГц 30Вт на магните, кабель 4м, UHF",
+    "fullName": "DB-1348U антенна автомобильная 450-470МГц 30Вт на магните, кабель 4м, UHF",
+    "price": 8829,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50095,
+    "article": "PRICE1-50096",
+    "name": "DB-1348V антенна автомобильная 140-175МГц 30Вт на магните, кабель 4м, UHF",
+    "fullName": "DB-1348V антенна автомобильная 140-175МГц 30Вт на магните, кабель 4м, UHF",
+    "price": 9320,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50096,
+    "article": "PRICE1-50097",
+    "name": "DB-1203 антенна автомобильная 144-174МГц, 2.15dBi, SO239, 1.35м 200Вт без кабеля",
+    "fullName": "DB-1203 антенна автомобильная 144-174МГц, 2.15dBi, SO239, 1.35м 200Вт без кабеля",
+    "price": 10301,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50097,
+    "article": "PRICE1-50098",
+    "name": "SDN-1 NMO автомобильная антенна 136-520MHz  2.5dBi на магнитном основании  90 см",
+    "fullName": "SDN-1 NMO автомобильная антенна 136-520MHz  2.5dBi на магнитном основании  90 см",
+    "price": 10562,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50098,
+    "article": "PRICE1-50099",
+    "name": "M150-SD90 антенна автомобильная 136-166МГц/408-470МГц 2dBi 100Вт на магните 90 см, кабель 4м UHF",
+    "fullName": "M150-SD90 антенна автомобильная 136-166МГц/408-470МГц 2dBi 100Вт на магните 90 см, кабель 4м UHF",
+    "price": 10709,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50099,
+    "article": "PRICE1-50100",
+    "name": "SD-R2 антенна автомобильная гибкая 144/430MHz 2.15/2.5dB 38см  на магните 90мм кабель 4м UHF",
+    "fullName": "SD-R2 антенна автомобильная гибкая 144/430MHz 2.15/2.5dB 38см  на магните 90мм кабель 4м UHF",
+    "price": 11832,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50100,
+    "article": "PRICE1-50101",
+    "name": "SD XGP-B60 антенна автомобильная 144/430МГц 2.5/3dBi 50Вт 9 см на магните 55 мм кабель 4.5м UHF",
+    "fullName": "SD XGP-B60 антенна автомобильная 144/430МГц 2.5/3dBi 50Вт 9 см на магните 55 мм кабель 4.5м UHF",
+    "price": 12203,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50101,
+    "article": "PRICE1-50102",
+    "name": "438V-SD90-142 антенна автомобильная 137-147МГц,  3dBi, 50Вт,  117 см на магните 90 см, кабель 4м UHF",
+    "fullName": "438V-SD90-142 антенна автомобильная 137-147МГц,  3dBi, 50Вт,  117 см на магните 90 см, кабель 4м UHF",
+    "price": 13096,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50102,
+    "article": "PRICE1-50103",
+    "name": "438V-SD90-155 антенна автомобильная 150-160МГц,  3dBi, 50Вт,  117 см на магните 90 см, кабель 4м UHF",
+    "fullName": "438V-SD90-155 антенна автомобильная 150-160МГц,  3dBi, 50Вт,  117 см на магните 90 см, кабель 4м UHF",
+    "price": 13096,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50103,
+    "article": "PRICE1-50104",
+    "name": "438V-SD90-167 антенна автомобильная 162-172МГц,  3dBi, 50Вт,  117 см на магните 90 см, кабель 4м UHF",
+    "fullName": "438V-SD90-167 антенна автомобильная 162-172МГц,  3dBi, 50Вт,  117 см на магните 90 см, кабель 4м UHF",
+    "price": 13096,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50104,
+    "article": "PRICE1-50105",
+    "name": "438U-SD90-415 антенна автомобильная 405-425МГц,  4dBi, 50Вт,  117 см на магните 90 см, кабель 4м UHF",
+    "fullName": "438U-SD90-415 антенна автомобильная 405-425МГц,  4dBi, 50Вт,  117 см на магните 90 см, кабель 4м UHF",
+    "price": 13096,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50105,
+    "article": "PRICE1-50106",
+    "name": "438U-SD90-430 антенна автомобильная 420-440МГц,  4dBi, 50Вт,  117 см на магните 90 см, кабель 4м UHF",
+    "fullName": "438U-SD90-430 антенна автомобильная 420-440МГц,  4dBi, 50Вт,  117 см на магните 90 см, кабель 4м UHF",
+    "price": 13096,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50106,
+    "article": "PRICE1-50107",
+    "name": "438U-SD90-445 антенна автомобильная 435-455МГц,  4dBi, 50Вт,  117 см на магните 90 см, кабель 4м UHF",
+    "fullName": "438U-SD90-445 антенна автомобильная 435-455МГц,  4dBi, 50Вт,  117 см на магните 90 см, кабель 4м UHF",
+    "price": 13096,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50107,
+    "article": "PRICE1-50108",
+    "name": "438U-SD90-460 антенна автомобильная 450-470МГц,  4dBi, 50Вт,  117 см на магните 90 см, кабель 4м UHF",
+    "fullName": "438U-SD90-460 антенна автомобильная 450-470МГц,  4dBi, 50Вт,  117 см на магните 90 см, кабель 4м UHF",
+    "price": 13096,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50108,
+    "article": "PRICE1-50109",
+    "name": "Hustler RUT-150 автомобильная антенна  148-174MHz, 5/8, 3.4dB, с кабелем и креплением кронштейн",
+    "fullName": "Hustler RUT-150 автомобильная антенна  148-174MHz, 5/8, 3.4dB, с кабелем и креплением кронштейн",
+    "price": 15304,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50109,
+    "article": "PRICE1-50110",
+    "name": "Hustler RUM-450 антенна втомобильная 440-470MHz, 5/8, 5dB, с кабелем и магнитным креплением",
+    "fullName": "Hustler RUM-450 антенна втомобильная 440-470MHz, 5/8, 5dB, с кабелем и магнитным креплением",
+    "price": 15304,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50110,
+    "article": "PRICE1-50111",
+    "name": "DB-1410UHF антенна автомобильная 430-470МГц, 2.15dBi, NMO, 0.17 м 10 Вт с кабелем 4 м и скобой",
+    "fullName": "DB-1410UHF антенна автомобильная 430-470МГц, 2.15dBi, NMO, 0.17 м 10 Вт с кабелем 4 м и скобой",
+    "price": 15805,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50111,
+    "article": "PRICE1-50112",
+    "name": "DB-1410VHF антенна автомобильная 136-174МГц, 2.15dBi, NMO, 0.47м, 10Вт с кабелем 4 м и скобой",
+    "fullName": "DB-1410VHF антенна автомобильная 136-174МГц, 2.15dBi, NMO, 0.47м, 10Вт с кабелем 4 м и скобой",
+    "price": 15805,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50112,
+    "article": "PRICE1-50113",
+    "name": "DBM-1410UHF антенна автомобильная 430-470МГц, 2.15dBi, NMO, магнит 77мм, 0.17 м 10 Вт с кабелем 4 м",
+    "fullName": "DBM-1410UHF антенна автомобильная 430-470МГц, 2.15dBi, NMO, магнит 77мм, 0.17 м 10 Вт с кабелем 4 м",
+    "price": 15805,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50113,
+    "article": "PRICE1-50114",
+    "name": "DBM-1410VHF антенна автомобильная 136-174МГц, 2.15dBi, NMO, магнит 77мм, 0.47м, 10Вт с кабелем 4 м",
+    "fullName": "DBM-1410VHF антенна автомобильная 136-174МГц, 2.15dBi, NMO, магнит 77мм, 0.47м, 10Вт с кабелем 4 м",
+    "price": 15805,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50114,
+    "article": "PRICE1-50115",
+    "name": "CB-2316 антенна автомобильная 42-47 МГц (врезная) 1,25 м с кабелем 3,6 м 200 Вт",
+    "fullName": "CB-2316 антенна автомобильная 42-47 МГц (врезная) 1,25 м с кабелем 3,6 м 200 Вт",
+    "price": 16187,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50115,
+    "article": "PRICE1-50116",
+    "name": "DB-450 антенна автомобильная 440-470МГц, 3dBi, SO239, 0.5 м 150 Вт c кабелем 3,6 м и магнитным основанием 14 см",
+    "fullName": "DB-450 антенна автомобильная 440-470МГц, 3dBi, SO239, 0.5 м 150 Вт c кабелем 3,6 м и магнитным основанием 14 см",
+    "price": 19130,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50116,
+    "article": "PRICE1-50117",
+    "name": "SG-507-MAG120 автомобильная антенна 144/430MHz UHF c креплением на магните 120мм",
+    "fullName": "SG-507-MAG120 автомобильная антенна 144/430MHz UHF c креплением на магните 120мм",
+    "price": 19211,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50117,
+    "article": "PRICE1-50118",
+    "name": "Sirio SDB 270 Black автомобильная двухдиапазонная врезная антенна 137-152/415-455 МГц (Италия)",
+    "fullName": "Sirio SDB 270 Black автомобильная двухдиапазонная врезная антенна 137-152/415-455 МГц (Италия)",
+    "price": 23391,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50118,
+    "article": "PRICE1-50119",
+    "name": "SD-BA27 антенна базовая 26-28МГц, 5/8, 5.4м, 3.5dBi   UHF (F)",
+    "fullName": "SD-BA27 антенна базовая 26-28МГц, 5/8, 5.4м, 3.5dBi   UHF (F)",
+    "price": 30918,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50119,
+    "article": "PRICE1-50120",
+    "name": "SIRIO GPS-27 антенна базовая 26.4-29МГц, 1/2, 5.95м, 750Вт, 2.15dBi",
+    "fullName": "SIRIO GPS-27 антенна базовая 26.4-29МГц, 1/2, 5.95м, 750Вт, 2.15dBi",
+    "price": 71618,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50120,
+    "article": "PRICE1-50121",
+    "name": "SIRIO GPE-27 антенна базовая 26.4-29МГц, 5/8, 5.95м, 750Вт, 3.35dBi, 3 противовеса",
+    "fullName": "SIRIO GPE-27 антенна базовая 26.4-29МГц, 5/8, 5.95м, 750Вт, 3.35dBi, 3 противовеса",
+    "price": 66343,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50121,
+    "article": "PRICE1-50122",
+    "name": "SIRIO TORNADO 27 NEW антенна базовая 26-28МГц, 5/8, 7.23м, 3.5dBi, 1000Вт, 4 противовеса",
+    "fullName": "SIRIO TORNADO 27 NEW антенна базовая 26-28МГц, 5/8, 7.23м, 3.5dBi, 1000Вт, 4 противовеса",
+    "price": 83516,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50122,
+    "article": "PRICE1-50123",
+    "name": "SIRIO SY-27-4 антенна базовая направленная Yagi 4-элементная 26-28МГц, 13.5dBi, 3000Вт РЕР",
+    "fullName": "SIRIO SY-27-4 антенна базовая направленная Yagi 4-элементная 26-28МГц, 13.5dBi, 3000Вт РЕР",
+    "price": 136975,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50123,
+    "article": "PRICE1-50124",
+    "name": "SIRIO 827 антенна базовая 26-29МГц, 5/8, 6.7м, 1000Вт, 3.65dBi, 8 противовесов",
+    "fullName": "SIRIO 827 антенна базовая 26-29МГц, 5/8, 6.7м, 1000Вт, 3.65dBi, 8 противовесов",
+    "price": 121780,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50124,
+    "article": "PRICE1-50125",
+    "name": "SDY-450 антенна базовая Yagi 6 элементов 450-470МГц 9dBi SMA(F)",
+    "fullName": "SDY-450 антенна базовая Yagi 6 элементов 450-470МГц 9dBi SMA(F)",
+    "price": 15042,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50125,
+    "article": "PRICE1-50126",
+    "name": "AX-410Y  антенна базовая направленная 430-470МГЦ 10.5dBi N(f)",
+    "fullName": "AX-410Y  антенна базовая направленная 430-470МГЦ 10.5dBi N(f)",
+    "price": 19364,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50126,
+    "article": "PRICE1-50127",
+    "name": "SD-MRF120C-UF базовая антенна 420-470MHz  4dBi N (F)",
+    "fullName": "SD-MRF120C-UF базовая антенна 420-470MHz  4dBi N (F)",
+    "price": 23179,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50127,
+    "article": "PRICE1-50128",
+    "name": "DB-U9401 антенна морская 450-470МГц, 5дБ, 40Вт, кабель 5 м, UHF",
+    "fullName": "DB-U9401 антенна морская 450-470МГц, 5дБ, 40Вт, кабель 5 м, UHF",
+    "price": 32373,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50128,
+    "article": "PRICE1-50129",
+    "name": "Sirio SD-FM 87-194МГц диполь 1/2 волны, 4 dBi, 300Вт",
+    "fullName": "Sirio SD-FM 87-194МГц диполь 1/2 волны, 4 dBi, 300Вт",
+    "price": 47579,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50129,
+    "article": "PRICE1-50130",
+    "name": "BC-100 антенна базовая 134-174МГц, 4.5dBi, 1.7м, 200Вт, UHF-тип",
+    "fullName": "BC-100 антенна базовая 134-174МГц, 4.5dBi, 1.7м, 200Вт, UHF-тип",
+    "price": 34411,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50130,
+    "article": "PRICE1-50131",
+    "name": "BC-200L антенна базовая 370-430МГц, 5.5dBi, 1.7м, 200Вт, N-Тип",
+    "fullName": "BC-200L антенна базовая 370-430МГц, 5.5dBi, 1.7м, 200Вт, N-Тип",
+    "price": 38913,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50131,
+    "article": "PRICE1-50132",
+    "name": "BC-200 антенна базовая 430-490МГц, 6.5dBi, 1.7м, 200Вт, N-тип",
+    "fullName": "BC-200 антенна базовая 430-490МГц, 6.5dBi, 1.7м, 200Вт, N-тип",
+    "price": 38913,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50132,
+    "article": "PRICE1-50133",
+    "name": "Sirio GP 365-470 C базовая антенна 365-470МГц 4.65дБ 150Вт",
+    "fullName": "Sirio GP 365-470 C базовая антенна 365-470МГц 4.65дБ 150Вт",
+    "price": 43131,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50133,
+    "article": "PRICE1-50134",
+    "name": "SD YV5B антенна базовая Yagi 5 элементов 149-161МГц 9dBi 100Вт",
+    "fullName": "SD YV5B антенна базовая Yagi 5 элементов 149-161МГц 9dBi 100Вт",
+    "price": 42821,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50134,
+    "article": "PRICE1-50135",
+    "name": "SD D-130 антенна базовая дискоконусная 25-1300МГц 200Вт",
+    "fullName": "SD D-130 антенна базовая дискоконусная 25-1300МГц 200Вт",
+    "price": 54814,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50135,
+    "article": "PRICE1-50136",
+    "name": "SDFB2.5 антенна базовая 144/430 МГц, 8.5/10.5 dBi, 2.5 м, 150 Вт, N-тип",
+    "fullName": "SDFB2.5 антенна базовая 144/430 МГц, 8.5/10.5 dBi, 2.5 м, 150 Вт, N-тип",
+    "price": 52342,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50136,
+    "article": "PRICE1-50137",
+    "name": "F-22 антенна базовая 144-174МГц, 6.7dBi, 3.2м, 100Вт, UHF-тип",
+    "fullName": "F-22 антенна базовая 144-174МГц, 6.7dBi, 3.2м, 100Вт, UHF-тип",
+    "price": 58026,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50137,
+    "article": "PRICE1-50138",
+    "name": "Sirio SD-1300 антенна дискоконусная 25-1300МГц 300Вт (VHF)/200Вт (UHF)",
+    "fullName": "Sirio SD-1300 антенна дискоконусная 25-1300МГц 300Вт (VHF)/200Вт (UHF)",
+    "price": 70245,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50138,
+    "article": "PRICE1-50139",
+    "name": "Sirio SPO-420-5 Антенна базовая 420-470МГц, 5.15dBi, 1.38м, 75Вт базовая/морская",
+    "fullName": "Sirio SPO-420-5 Антенна базовая 420-470МГц, 5.15dBi, 1.38м, 75Вт базовая/морская",
+    "price": 84715,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50139,
+    "article": "PRICE1-50140",
+    "name": "Sirio WY 300-4N Антенна базовая Yagi 4 элемента 300-500 MГц 8dBi N-Тип",
+    "fullName": "Sirio WY 300-4N Антенна базовая Yagi 4 элемента 300-500 MГц 8dBi N-Тип",
+    "price": 73848,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50140,
+    "article": "PRICE1-50141",
+    "name": "Sirio WY 136-4N Антенна базовая Yagi 4 элемента 136-174 МГц 7.5dBi N-тип",
+    "fullName": "Sirio WY 136-4N Антенна базовая Yagi 4 элемента 136-174 МГц 7.5dBi N-тип",
+    "price": 90252,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50141,
+    "article": "PRICE1-50142",
+    "name": "F-23 антенна базовая 144-174МГц, 7.8dBi, 4.6м, 200Вт, UHF-тип",
+    "fullName": "F-23 антенна базовая 144-174МГц, 7.8dBi, 4.6м, 200Вт, UHF-тип",
+    "price": 72185,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50142,
+    "article": "PRICE1-50143",
+    "name": "4G-CPE-ANT Антенна внутренняя 698-960/1710-2700MHz  3.5dBi  SMA(m)",
+    "fullName": "4G-CPE-ANT Антенна внутренняя 698-960/1710-2700MHz  3.5dBi  SMA(m)",
+    "price": 3107,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50143,
+    "article": "PRICE1-50144",
+    "name": "SD-XD3 антенна внутренняя 698-2700MHz  3.5dBi  N (F)",
+    "fullName": "SD-XD3 антенна внутренняя 698-2700MHz  3.5dBi  N (F)",
+    "price": 7843,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50144,
+    "article": "PRICE1-50145",
+    "name": "MMA-GU-23-3m Антенна наружная 3G для CU-30 1920-2170МГц 9dBi с кабелем 3м",
+    "fullName": "MMA-GU-23-3m Антенна наружная 3G для CU-30 1920-2170МГц 9dBi с кабелем 3м",
+    "price": 9668,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50145,
+    "article": "PRICE1-50146",
+    "name": "Nitsa-1 антенна внутренняя 790-2700MHz  3dBi  N (F)",
+    "fullName": "Nitsa-1 антенна внутренняя 790-2700MHz  3dBi  N (F)",
+    "price": 10410,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50146,
+    "article": "PRICE1-50147",
+    "name": "AX-1817Y Направленная антенна типа Yagi GSM-1800 LTE 1800, 17dBi, N-female",
+    "fullName": "AX-1817Y Направленная антенна типа Yagi GSM-1800 LTE 1800, 17dBi, N-female",
+    "price": 10655,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50147,
+    "article": "PRICE1-50148",
+    "name": "AX-914Y Направленная антенна типа Yagi GSM-900 LTE 900 14dBi, N-female",
+    "fullName": "AX-914Y Направленная антенна типа Yagi GSM-900 LTE 900 14dBi, N-female",
+    "price": 11963,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50148,
+    "article": "PRICE1-50149",
+    "name": "IA-GU2 Антенна внутренняя для SGU-5055, 890-960/1920-2170МГц, 2/2 dBi, TNC-M",
+    "fullName": "IA-GU2 Антенна внутренняя для SGU-5055, 890-960/1920-2170МГц, 2/2 dBi, TNC-M",
+    "price": 11036,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50149,
+    "article": "PRICE1-50150",
+    "name": "IA-GD2 Антенна внутренняя для SGD-5055, 890-960/1710-1880МГц, 2/2 dBi, TNC-M",
+    "fullName": "IA-GD2 Антенна внутренняя для SGD-5055, 890-960/1710-1880МГц, 2/2 dBi, TNC-M",
+    "price": 11036,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50150,
+    "article": "PRICE1-50151",
+    "name": "QX-005B Антенна внутренняя 890-960МГц, 3dBi, N-типа",
+    "fullName": "QX-005B Антенна внутренняя 890-960МГц, 3dBi, N-типа",
+    "price": 10006,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50151,
+    "article": "PRICE1-50152",
+    "name": "QX-005B Антенна внутренняя 1920-2170МГц, 3dBi, N-типа",
+    "fullName": "QX-005B Антенна внутренняя 1920-2170МГц, 3dBi, N-типа",
+    "price": 10006,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50152,
+    "article": "PRICE1-50153",
+    "name": "Комнатная 3G/4G антенна РЭМО BAS-2013 MiMo Indoor 6-7/10-12 дБ  690-900 / 1700-3600 МГц",
+    "fullName": "Комнатная 3G/4G антенна РЭМО BAS-2013 MiMo Indoor 6-7/10-12 дБ  690-900 / 1700-3600 МГц",
+    "price": 13369,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50153,
+    "article": "PRICE1-50154",
+    "name": "Наружная 3G/4G/5G антенна РЭМО BAS-2346 Flat MIMO кабель 2х5м SMA-M",
+    "fullName": "Наружная 3G/4G/5G антенна РЭМО BAS-2346 Flat MIMO кабель 2х5м SMA-M",
+    "price": 18367,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50154,
+    "article": "PRICE1-50155",
+    "name": "Антенна Nitsa-7 /внешняя/ всенаправленная/ LTE800/GSM900/GSM1800/LTE1800/UMTS900/UMTS2100/WIFI/LTE2600/1,5 - 3 Дб / N-female",
+    "fullName": "Антенна Nitsa-7 /внешняя/ всенаправленная/ LTE800/GSM900/GSM1800/LTE1800/UMTS900/UMTS2100/WIFI/LTE2600/1,5 - 3 Дб / N-female",
+    "price": 13979,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50155,
+    "article": "PRICE1-50156",
+    "name": "PA-F78ID Антенна панельная 698-960/1710-2700МГц 6.8/9.4 dBi, N-типа",
+    "fullName": "PA-F78ID Антенна панельная 698-960/1710-2700МГц 6.8/9.4 dBi, N-типа",
+    "price": 15097,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50156,
+    "article": "PRICE1-50157",
+    "name": "AX-2411R Антенна  WiFi  круговая  Antex, 11Дб, N-female",
+    "fullName": "AX-2411R Антенна  WiFi  круговая  Antex, 11Дб, N-female",
+    "price": 16699,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50157,
+    "article": "PRICE1-50158",
+    "name": "PETRA Broad Band 75 антенна 2G/3G/4G/WIFI, направленная, тип-панельная/12.5-15.5 dB, F-female",
+    "fullName": "PETRA Broad Band 75 антенна 2G/3G/4G/WIFI, направленная, тип-панельная/12.5-15.5 dB, F-female",
+    "price": 12985,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50158,
+    "article": "PRICE1-50159",
+    "name": "Антенна PETRA Broad Band 75  MIMO 2x2 (3G + 4G MIMO) ,направленная, тип-панельная/14Дб,2*F-female",
+    "fullName": "Антенна PETRA Broad Band 75  MIMO 2x2 (3G + 4G MIMO) ,направленная, тип-панельная/14Дб,2*F-female",
+    "price": 14544,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50159,
+    "article": "PRICE1-50160",
+    "name": "Антенна AGATA-2F MIMO 2x2 (3G MIMO + 4G MIMO 2х2) , направленная, тип-панельная/17Дб/2*F-female",
+    "fullName": "Антенна AGATA-2F MIMO 2x2 (3G MIMO + 4G MIMO 2х2) , направленная, тип-панельная/17Дб/2*F-female",
+    "price": 32464,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50160,
+    "article": "PRICE1-50161",
+    "name": "UMO-3F MIMO 2*2 - облучатель LTE1800/3G/LTE2600 MIMO 2x2/75 Ом/2*F-female",
+    "fullName": "UMO-3F MIMO 2*2 - облучатель LTE1800/3G/LTE2600 MIMO 2x2/75 Ом/2*F-female",
+    "price": 14414,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50161,
+    "article": "PRICE1-50162",
+    "name": "Антенна ZETA-F MIMO 2x2/LTE1800/3G/LTE2600/ направленная, тип-панельная/17-20Дб/2*F-female",
+    "fullName": "Антенна ZETA-F MIMO 2x2/LTE1800/3G/LTE2600/ направленная, тип-панельная/17-20Дб/2*F-female",
+    "price": 45852,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50162,
+    "article": "PRICE1-50163",
+    "name": "Nitsa-5F MIMO/ антенна выносная панельная направленная LTE800/GSM900/GSM1800/UMTS2100/DC-HSPA/LTE2600/2*(9-14) dBi/2*F-female",
+    "fullName": "Nitsa-5F MIMO/ антенна выносная панельная направленная LTE800/GSM900/GSM1800/UMTS2100/DC-HSPA/LTE2600/2*(9-14) dBi/2*F-female",
+    "price": 30905,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50163,
+    "article": "PRICE1-50164",
+    "name": "Антенна CIFRA-9 /9дБ/ДМВ/DVB-T/DVB-T2/470-750м МГц",
+    "fullName": "Антенна CIFRA-9 /9дБ/ДМВ/DVB-T/DVB-T2/470-750м МГц",
+    "price": 17011,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50164,
+    "article": "PRICE1-50165",
+    "name": "Антенна CIFRA-4 /4дБ/ ДМВ/DVB-T/DVB-T2/470-870 МГц",
+    "fullName": "Антенна CIFRA-4 /4дБ/ ДМВ/DVB-T/DVB-T2/470-870 МГц",
+    "price": 6493,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50165,
+    "article": "PRICE1-50166",
+    "name": "Антенна VIKA-21F MIMO 2x2/ LTE1800/3G/LTE2600/ направленная, тип-параболическая, прямофокусная/18-21Дб/2*F-female",
+    "fullName": "Антенна VIKA-21F MIMO 2x2/ LTE1800/3G/LTE2600/ направленная, тип-параболическая, прямофокусная/18-21Дб/2*F-female",
+    "price": 42203,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50166,
+    "article": "PRICE1-50167",
+    "name": "Антенна VIKA-27 F MIMO 2x2/ LTE1800/3G/LTE2600/ направленная, тип-параболическая, прямофокусная/23-27 Дб/ 2*F-female",
+    "fullName": "Антенна VIKA-27 F MIMO 2x2/ LTE1800/3G/LTE2600/ направленная, тип-параболическая, прямофокусная/23-27 Дб/ 2*F-female",
+    "price": 77913,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50167,
+    "article": "PRICE1-50168",
+    "name": "тип-параболическая, прямофокусная/ 15-26Дб/ 2*F-female\"",
+    "fullName": "тип-параболическая, прямофокусная/ 15-26Дб/ 2*F-female\"",
+    "price": 83107,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50168,
+    "article": "PRICE1-50169",
+    "name": "Nitsa-5 - антенна выносная панельная направленная LTE800/GSM900/GSM1800/LTE1800/UMTS2100/LTE2600/8/9-14 dBi/N-female",
+    "fullName": "Nitsa-5 - антенна выносная панельная направленная LTE800/GSM900/GSM1800/LTE1800/UMTS2100/LTE2600/8/9-14 dBi/N-female",
+    "price": 21974,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50169,
+    "article": "PRICE1-50170",
+    "name": "AX-2014P MIMO 2*14 дБ/2*N-female нтенна 3G/4G панельная направленная",
+    "fullName": "AX-2014P MIMO 2*14 дБ/2*N-female нтенна 3G/4G панельная направленная",
+    "price": 19909,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50170,
+    "article": "PRICE1-50171",
+    "name": "Nitsa-5 MIMO 2x2 - антенна LTE800/GSM900/GSM1800/LTE1800/UMTS900/UMTS2100/WiFi/LTE2600",
+    "fullName": "Nitsa-5 MIMO 2x2 - антенна LTE800/GSM900/GSM1800/LTE1800/UMTS900/UMTS2100/WiFi/LTE2600",
+    "price": 38493,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50171,
+    "article": "PRICE1-50172",
+    "name": "SD NM90-4G антенна на магните, 698-2700МГц, 3dBi, SMA-m",
+    "fullName": "SD NM90-4G антенна на магните, 698-2700МГц, 3dBi, SMA-m",
+    "price": 18089,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50172,
+    "article": "PRICE1-50173",
+    "name": "Magnita-1 антенна на магните 7dBi 698-960/1710-2700МГц, SMA-male",
+    "fullName": "Magnita-1 антенна на магните 7dBi 698-960/1710-2700МГц, SMA-male",
+    "price": 18181,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50173,
+    "article": "PRICE1-50174",
+    "name": "QX-001B Антенна внутренняя 806-960МГц/1710-2500МГц, 3dBi, N-типа",
+    "fullName": "QX-001B Антенна внутренняя 806-960МГц/1710-2500МГц, 3dBi, N-типа",
+    "price": 15760,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50174,
+    "article": "PRICE1-50175",
+    "name": "IA-F3 Антенна внутренняя 698-960/1710-2700МГц 2/3дБ N-типа",
+    "fullName": "IA-F3 Антенна внутренняя 698-960/1710-2700МГц 2/3дБ N-типа",
+    "price": 15760,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50175,
+    "article": "PRICE1-50176",
+    "name": "IA-F46 Антенна внутренняя направленная 698-2700МГц, 4/6dBi, N-типа",
+    "fullName": "IA-F46 Антенна внутренняя направленная 698-2700МГц, 4/6dBi, N-типа",
+    "price": 16469,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50176,
+    "article": "PRICE1-50177",
+    "name": "QX-004B Антенна панельная 890-960МГц/1710-2500МГц, 7dBi/9dBi, N-типа",
+    "fullName": "QX-004B Антенна панельная 890-960МГц/1710-2500МГц, 7dBi/9dBi, N-типа",
+    "price": 18011,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50177,
+    "article": "PRICE1-50178",
+    "name": "LPA-110 Антенна внешняя логопериодческая, 698-960/1710-2700МГц, 11dBi, N-типа",
+    "fullName": "LPA-110 Антенна внешняя логопериодческая, 698-960/1710-2700МГц, 11dBi, N-типа",
+    "price": 21713,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50178,
+    "article": "PRICE1-50179",
+    "name": "AX-Offset D60 рефлектор сетчатый офсетный 60см LTE800/GSM900/LTE1800/LTE2100/UMTS2100/LTE2600/5G",
+    "fullName": "AX-Offset D60 рефлектор сетчатый офсетный 60см LTE800/GSM900/LTE1800/LTE2100/UMTS2100/LTE2600/5G",
+    "price": 23413,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50179,
+    "article": "PRICE1-50180",
+    "name": "AX-Offset D90 рефлектор сетчатый офсетный 90см LTE800/GSM900/LTE1800/LTE2100/UMTS2100/LTE2600/5G",
+    "fullName": "AX-Offset D90 рефлектор сетчатый офсетный 90см LTE800/GSM900/LTE1800/LTE2100/UMTS2100/LTE2600/5G",
+    "price": 40592,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50180,
+    "article": "PRICE1-50181",
+    "name": "AX-2008R антенна 3G всенаправленная внешняя, 8dBi, N-female",
+    "fullName": "AX-2008R антенна 3G всенаправленная внешняя, 8dBi, N-female",
+    "price": 27527,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50181,
+    "article": "PRICE1-50182",
+    "name": "QX-001H Антенна внешняя направленная Yagi, 13dBi, 890-960МГц, кабель 10м, N-типа",
+    "fullName": "QX-001H Антенна внешняя направленная Yagi, 13dBi, 890-960МГц, кабель 10м, N-типа",
+    "price": 20650,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50182,
+    "article": "PRICE1-50183",
+    "name": "QX-002B Антенна внутренняя 890-960/1920-2500Мгц, 7dBi/9dBi, N-типа",
+    "fullName": "QX-002B Антенна внутренняя 890-960/1920-2500Мгц, 7dBi/9dBi, N-типа",
+    "price": 26892,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50183,
+    "article": "PRICE1-50184",
+    "name": "TC-901N базовая антенна 800/900/1800/1900МГц 83 см, N-тип, с креплением на мачте",
+    "fullName": "TC-901N базовая антенна 800/900/1800/1900МГц 83 см, N-тип, с креплением на мачте",
+    "price": 32373,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50184,
+    "article": "PRICE1-50185",
+    "name": "QX-004H Антенна внешняя направленная, 890-960МГц/1920-2170МГц, 9dBi, N-типа",
+    "fullName": "QX-004H Антенна внешняя направленная, 890-960МГц/1920-2170МГц, 9dBi, N-типа",
+    "price": 38024,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50185,
+    "article": "PRICE1-50186",
+    "name": "ZETA MIMO 2x2/LTE1800/3G/WIFI антенна ANTEX направленная, панельная/17-20Дб/2*N-female",
+    "fullName": "ZETA MIMO 2x2/LTE1800/3G/WIFI антенна ANTEX направленная, панельная/17-20Дб/2*N-female",
+    "price": 46696,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50186,
+    "article": "PRICE1-50187",
+    "name": "MONA UNIBOX PRO - антенна MIMO с боксом для 3G/4G модема LTE800/GSM900/GSM1800/LTE1800/UMTS900/UMTS2100/WiFi, с USB кабелем 10 метров",
+    "fullName": "MONA UNIBOX PRO - антенна MIMO с боксом для 3G/4G модема LTE800/GSM900/GSM1800/LTE1800/UMTS900/UMTS2100/WiFi, с USB кабелем 10 метров",
+    "price": 49611,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50187,
+    "article": "PRICE1-50188",
+    "name": "QX-014B ответвитель мощности -15дБ, 50Вт , N-типа",
+    "fullName": "QX-014B ответвитель мощности -15дБ, 50Вт , N-типа",
+    "price": 15287,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50188,
+    "article": "PRICE1-50189",
+    "name": "QX-015B -5дБ ответвитель мощности -5дБ, 100Вт, N-типа",
+    "fullName": "QX-015B -5дБ ответвитель мощности -5дБ, 100Вт, N-типа",
+    "price": 16214,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50189,
+    "article": "PRICE1-50190",
+    "name": "QX-015B -10дБ ответвитель мощности -10дБ, 100Вт, N-типа",
+    "fullName": "QX-015B -10дБ ответвитель мощности -10дБ, 100Вт, N-типа",
+    "price": 16214,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50190,
+    "article": "PRICE1-50191",
+    "name": "QX-015B -15дБ ответвитель мощности -15дБ, 100Вт, N-типа",
+    "fullName": "QX-015B -15дБ ответвитель мощности -15дБ, 100Вт, N-типа",
+    "price": 16214,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50191,
+    "article": "PRICE1-50192",
+    "name": "AXD-2 сплиттер 790-970,1700-2700МГц, 2 выхода, N-типа",
+    "fullName": "AXD-2 сплиттер 790-970,1700-2700МГц, 2 выхода, N-типа",
+    "price": 15287,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50192,
+    "article": "PRICE1-50193",
+    "name": "AXD-3 сплиттер 790-970,1700-2700МГц, 3 выхода, N-типа",
+    "fullName": "AXD-3 сплиттер 790-970,1700-2700МГц, 3 выхода, N-типа",
+    "price": 20002,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50193,
+    "article": "PRICE1-50194",
+    "name": "QX-008B сплиттер 800-2500МГц, 2 выхода, N-типа",
+    "fullName": "QX-008B сплиттер 800-2500МГц, 2 выхода, N-типа",
+    "price": 16203,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50194,
+    "article": "PRICE1-50195",
+    "name": "QX-009B сплиттер 800-2500Мгц, 3 выхода, N-Типа",
+    "fullName": "QX-009B сплиттер 800-2500Мгц, 3 выхода, N-Типа",
+    "price": 20972,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50195,
+    "article": "PRICE1-50196",
+    "name": "QX-010B сплиттер 800-2500МГц, 4 выхода, N-типа",
+    "fullName": "QX-010B сплиттер 800-2500МГц, 4 выхода, N-типа",
+    "price": 23626,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50196,
+    "article": "PRICE1-50197",
+    "name": "BC-GU H/L комбайнер 900/2100МГц",
+    "fullName": "BC-GU H/L комбайнер 900/2100МГц",
+    "price": 110581,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50197,
+    "article": "PRICE1-50198",
+    "name": "Колпачок СВ59/T3-27/NEW DELTA",
+    "fullName": "Колпачок СВ59/T3-27/NEW DELTA",
+    "price": 409,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50198,
+    "article": "PRICE1-50199",
+    "name": "Антенна укороченная 400-470МГц для StarNet S-200",
+    "fullName": "Антенна укороченная 400-470МГц для StarNet S-200",
+    "price": 3270,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50199,
+    "article": "PRICE1-50200",
+    "name": "Антенна для Тушкан 403-470МГц",
+    "fullName": "Антенна для Тушкан 403-470МГц",
+    "price": 4415,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50200,
+    "article": "PRICE1-50201",
+    "name": "Антенна для Climbmax ЕМ-9735 136-174МГц",
+    "fullName": "Антенна для Climbmax ЕМ-9735 136-174МГц",
+    "price": 4415,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50201,
+    "article": "PRICE1-50202",
+    "name": "Антенна для Climbmax ЕМ-9735 400-470МГц",
+    "fullName": "Антенна для Climbmax ЕМ-9735 400-470МГц",
+    "price": 4415,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50202,
+    "article": "PRICE1-50203",
+    "name": "Антенна для Quansheng TG-A8 400-480МГц",
+    "fullName": "Антенна для Quansheng TG-A8 400-480МГц",
+    "price": 4415,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50203,
+    "article": "PRICE1-50204",
+    "name": "Антенна для Quansheng TG-1680 400-480МГц",
+    "fullName": "Антенна для Quansheng TG-1680 400-480МГц",
+    "price": 4415,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50204,
+    "article": "PRICE1-50205",
+    "name": "Антенна для Luiton LT-199H 400-480МГц",
+    "fullName": "Антенна для Luiton LT-199H 400-480МГц",
+    "price": 4415,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50205,
+    "article": "PRICE1-50206",
+    "name": "Антенна для Puxing PX-2R 400-470МГц",
+    "fullName": "Антенна для Puxing PX-2R 400-470МГц",
+    "price": 4415,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50206,
+    "article": "PRICE1-50207",
+    "name": "Антенна для Puxing PX-359 400-470МГц",
+    "fullName": "Антенна для Puxing PX-359 400-470МГц",
+    "price": 4415,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50207,
+    "article": "PRICE1-50208",
+    "name": "Антенна для StarNet S-400 400-480МГц",
+    "fullName": "Антенна для StarNet S-400 400-480МГц",
+    "price": 4415,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50208,
+    "article": "PRICE1-50209",
+    "name": "Антенна для AT-628G 400-480МГц",
+    "fullName": "Антенна для AT-628G 400-480МГц",
+    "price": 4415,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50209,
+    "article": "PRICE1-50210",
+    "name": "Антенна для AT-518/AT-518 Turbo 400-480МГц",
+    "fullName": "Антенна для AT-518/AT-518 Turbo 400-480МГц",
+    "price": 4415,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50210,
+    "article": "PRICE1-50211",
+    "name": "Антенна для AT-288/АТ-289/AT-289P 400-480МГц",
+    "fullName": "Антенна для AT-288/АТ-289/AT-289P 400-480МГц",
+    "price": 4415,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50211,
+    "article": "PRICE1-50212",
+    "name": "Антенна для AT-288/АТ-289/AT-289P 136-174МГц",
+    "fullName": "Антенна для AT-288/АТ-289/AT-289P 136-174МГц",
+    "price": 4415,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50212,
+    "article": "PRICE1-50213",
+    "name": "Антенна для AT-3308 (НУКЕР)",
+    "fullName": "Антенна для AT-3308 (НУКЕР)",
+    "price": 4415,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50213,
+    "article": "PRICE1-50214",
+    "name": "Антенна для Kirisun PT-260 400-470МГц",
+    "fullName": "Антенна для Kirisun PT-260 400-470МГц",
+    "price": 4415,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50214,
+    "article": "PRICE1-50215",
+    "name": "Антенна для Puxing PX-840s",
+    "fullName": "Антенна для Puxing PX-840s",
+    "price": 4415,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50215,
+    "article": "PRICE1-50216",
+    "name": "Антенна для Quesum MD-10/MD-100",
+    "fullName": "Антенна для Quesum MD-10/MD-100",
+    "price": 4414.5,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50216,
+    "article": "PRICE1-50217",
+    "name": "Антенна для Baofeng UV-5R 136-174/400-480МГц",
+    "fullName": "Антенна для Baofeng UV-5R 136-174/400-480МГц",
+    "price": 4905,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50217,
+    "article": "PRICE1-50218",
+    "name": "Антенна для Quansheng UV-K5, UV-K5(8), UV-K6 136-174/400-480МГц",
+    "fullName": "Антенна для Quansheng UV-K5, UV-K5(8), UV-K6 136-174/400-480МГц",
+    "price": 4905,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50218,
+    "article": "PRICE1-50219",
+    "name": "Антенна удлиненная универсальная 38 см 3.5dBi 400-470МГц SMA-M",
+    "fullName": "Антенна удлиненная универсальная 38 см 3.5dBi 400-470МГц SMA-M",
+    "price": 4905,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50219,
+    "article": "PRICE1-50220",
+    "name": "Антенна удлиненная универсальная 38 см 3.5dBi 144/430МГц SMA-M",
+    "fullName": "Антенна удлиненная универсальная 38 см 3.5dBi 144/430МГц SMA-M",
+    "price": 5723,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50220,
+    "article": "PRICE1-50221",
+    "name": "Антенна для AT-3318UV 136-174/400-480МГц двухдиапазонная",
+    "fullName": "Антенна для AT-3318UV 136-174/400-480МГц двухдиапазонная",
+    "price": 5886,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Антенны",
+    "code": 50221,
+    "article": "PRICE1-50222",
+    "name": "Антенна для ST-118 27МГц спиральная 0.2м BNC",
+    "fullName": "Антенна для ST-118 27МГц спиральная 0.2м BNC",
+    "price": 7848,
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  {
+    "category_raw": "Коннекторы",
+    "code": 50222,
+    "article": "PRICE1-50223",
+    "name": "Коннектор \"N\" антенный для Sirio Super 9 Blue Line",
+    "fullName": "Коннектор \"N\" антенный для Sirio Super 9 Blue Line",
+    "price": 2120,
+    "category": "radio-equipment",
+    "subcategory": "connectors"
+  },
+  {
+    "category_raw": "Коннекторы",
+    "code": 50223,
+    "article": "PRICE1-50224",
+    "name": "Коннектор \"NE\" антенный",
+    "fullName": "Коннектор \"NE\" антенный",
+    "price": 1924,
+    "category": "radio-equipment",
+    "subcategory": "connectors"
+  },
+  {
+    "category_raw": "Коннекторы",
+    "code": 50224,
+    "article": "PRICE1-50225",
+    "name": "Коннектор \"TURBO\" антенный для Sirio Turbo/Performer",
+    "fullName": "Коннектор \"TURBO\" антенный для Sirio Turbo/Performer",
+    "price": 2502,
+    "category": "radio-equipment",
+    "subcategory": "connectors"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50225,
+    "article": "PRICE1-50226",
+    "name": "Катушка СВ145 без штыря",
+    "fullName": "Катушка СВ145 без штыря",
+    "price": 6813,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50226,
+    "article": "PRICE1-50227",
+    "name": "Штырь 0.9 метра с катушкой для СВ2319",
+    "fullName": "Штырь 0.9 метра с катушкой для СВ2319",
+    "price": 6213,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50227,
+    "article": "PRICE1-50228",
+    "name": "Штырь 1.8х3х1000 мм",
+    "fullName": "Штырь 1.8х3х1000 мм",
+    "price": 3376,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50228,
+    "article": "PRICE1-50229",
+    "name": "Штырь 1.8х3х1100 мм",
+    "fullName": "Штырь 1.8х3х1100 мм",
+    "price": 3555,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50229,
+    "article": "PRICE1-50230",
+    "name": "Штырь 1.8х3х1200 мм",
+    "fullName": "Штырь 1.8х3х1200 мм",
+    "price": 3733,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50230,
+    "article": "PRICE1-50231",
+    "name": "Штырь 1.8х3х1400 мм",
+    "fullName": "Штырь 1.8х3х1400 мм",
+    "price": 4088,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50231,
+    "article": "PRICE1-50232",
+    "name": "Штырь 1.8х3х1500 мм",
+    "fullName": "Штырь 1.8х3х1500 мм",
+    "price": 4444,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50232,
+    "article": "PRICE1-50233",
+    "name": "Штырь 1,6 метра для СВ2309/2315/145/Sirio Super 9",
+    "fullName": "Штырь 1,6 метра для СВ2309/2315/145/Sirio Super 9",
+    "price": 4807,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50233,
+    "article": "PRICE1-50234",
+    "name": "Штырь 2 метра для СВ2307/СВ2312",
+    "fullName": "Штырь 2 метра для СВ2307/СВ2312",
+    "price": 7521,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Кабели",
+    "code": 50234,
+    "article": "PRICE1-50235",
+    "name": "Кабель 4м UHF-DV для СВ59/2315/2309/Sirio 9",
+    "fullName": "Кабель 4м UHF-DV для СВ59/2315/2309/Sirio 9",
+    "price": 5995,
+    "category": "radio-equipment",
+    "subcategory": "cables"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50235,
+    "article": "PRICE1-50236",
+    "name": "Крепление для СВ2309/2315/145/Sirio Super 9",
+    "fullName": "Крепление для СВ2309/2315/145/Sirio Super 9",
+    "price": 4905,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50236,
+    "article": "PRICE1-50237",
+    "name": "Крепление для  СВ2307/СВ2312",
+    "fullName": "Крепление для  СВ2307/СВ2312",
+    "price": 5908,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Кабели",
+    "code": 50237,
+    "article": "PRICE1-50238",
+    "name": "Кабель 4м NMO UHF",
+    "fullName": "Кабель 4м NMO UHF",
+    "price": 6540,
+    "category": "radio-equipment",
+    "subcategory": "cables"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50238,
+    "article": "PRICE1-50239",
+    "name": "MT-1303 магнитное основание 14 см с кабелем 3,6 метра и разъемом PL259",
+    "fullName": "MT-1303 магнитное основание 14 см с кабелем 3,6 метра и разъемом PL259",
+    "price": 11772,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50239,
+    "article": "PRICE1-50240",
+    "name": "MAG 125 PL магнитное основание 12 см с кабелем 3.6 м и разъемом UHF",
+    "fullName": "MAG 125 PL магнитное основание 12 см с кабелем 3.6 м и разъемом UHF",
+    "price": 11772,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Кабели",
+    "code": 50240,
+    "article": "PRICE1-50241",
+    "name": "Кабель 4м UHF с креплением на багажник",
+    "fullName": "Кабель 4м UHF с креплением на багажник",
+    "price": 9810,
+    "category": "radio-equipment",
+    "subcategory": "cables"
+  },
+  {
+    "category_raw": "Кабели",
+    "code": 50241,
+    "article": "PRICE1-50242",
+    "name": "MT-1310 Магнитное крепление 77мм NMO + Кабель 4м UHF",
+    "fullName": "MT-1310 Магнитное крепление 77мм NMO + Кабель 4м UHF",
+    "price": 9810,
+    "category": "radio-equipment",
+    "subcategory": "cables"
+  },
+  {
+    "category_raw": "Кабели",
+    "code": 50242,
+    "article": "PRICE1-50243",
+    "name": "Кабель 4м NMO с креплением на багажник",
+    "fullName": "Кабель 4м NMO с креплением на багажник",
+    "price": 9810,
+    "category": "radio-equipment",
+    "subcategory": "cables"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50243,
+    "article": "PRICE1-50244",
+    "name": "Держатель штыря СВ2307/СВ2312",
+    "fullName": "Держатель штыря СВ2307/СВ2312",
+    "price": 2180,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50244,
+    "article": "PRICE1-50245",
+    "name": "AX-1800 OFFSET MIMO 2x2 офсетный облучатель 4G (LTE1800)",
+    "fullName": "AX-1800 OFFSET MIMO 2x2 офсетный облучатель 4G (LTE1800)",
+    "price": 14851,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50245,
+    "article": "PRICE1-50246",
+    "name": "AX-1800 OFFSET 75 MIMO 2x2 офсетный облучатель 4G (LTE1800)",
+    "fullName": "AX-1800 OFFSET 75 MIMO 2x2 офсетный облучатель 4G (LTE1800)",
+    "price": 14851,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50246,
+    "article": "PRICE1-50247",
+    "name": "Питгейл SMA(f) - CRC9 угловой",
+    "fullName": "Питгейл SMA(f) - CRC9 угловой",
+    "price": 3581,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50247,
+    "article": "PRICE1-50248",
+    "name": "Питгейл SMA(f) - TS9 угловой",
+    "fullName": "Питгейл SMA(f) - TS9 угловой",
+    "price": 3581,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50248,
+    "article": "PRICE1-50249",
+    "name": "AC-5830 кабельная сборка 50 Ом PL259-PL259 30 см",
+    "fullName": "AC-5830 кабельная сборка 50 Ом PL259-PL259 30 см",
+    "price": 3924,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50249,
+    "article": "PRICE1-50250",
+    "name": "AC-5890 кабельная сборка 50 Ом PL259-PL259 90 см",
+    "fullName": "AC-5890 кабельная сборка 50 Ом PL259-PL259 90 см",
+    "price": 4415,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Кабели",
+    "code": 50250,
+    "article": "PRICE1-50251",
+    "name": "Кабельная сборка 50 Ом N-male/RG-58 2м/SMA-male",
+    "fullName": "Кабельная сборка 50 Ом N-male/RG-58 2м/SMA-male",
+    "price": 5216,
+    "category": "radio-equipment",
+    "subcategory": "cables"
+  },
+  {
+    "category_raw": "Кабели",
+    "code": 50251,
+    "article": "PRICE1-50252",
+    "name": "Кабельная сборка 50 Ом N-male/RG-58 5м/SMA-male",
+    "fullName": "Кабельная сборка 50 Ом N-male/RG-58 5м/SMA-male",
+    "price": 6998,
+    "category": "radio-equipment",
+    "subcategory": "cables"
+  },
+  {
+    "category_raw": "Кабели",
+    "code": 50252,
+    "article": "PRICE1-50253",
+    "name": "Кабельная сборка 50 Ом N-male/RG-58 7м/SMA-male",
+    "fullName": "Кабельная сборка 50 Ом N-male/RG-58 7м/SMA-male",
+    "price": 8398,
+    "category": "radio-equipment",
+    "subcategory": "cables"
+  },
+  {
+    "category_raw": "Кабели",
+    "code": 50253,
+    "article": "PRICE1-50254",
+    "name": "Кабельная сборка 50 Ом N-male/RG-58 10м/SMA-male",
+    "fullName": "Кабельная сборка 50 Ом N-male/RG-58 10м/SMA-male",
+    "price": 10033,
+    "category": "radio-equipment",
+    "subcategory": "cables"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50254,
+    "article": "PRICE1-50255",
+    "name": "QX -007B кабельная сборка 50 Ом, 5м, с разъемами N-типа",
+    "fullName": "QX -007B кабельная сборка 50 Ом, 5м, с разъемами N-типа",
+    "price": 17331,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Репитеры",
+    "code": 50255,
+    "article": "PRICE1-50256",
+    "name": "AnyTone AT-400 Репитер GSM900 покрытие до 80 кв.м",
+    "fullName": "AnyTone AT-400 Репитер GSM900 покрытие до 80 кв.м",
+    "price": 60619,
+    "category": "radio-equipment",
+    "subcategory": "repeaters"
+  },
+  {
+    "category_raw": "Репитеры",
+    "code": 50256,
+    "article": "PRICE1-50257",
+    "name": "AnyTone AT-408 Репитер GSM900 автомобильный",
+    "fullName": "AnyTone AT-408 Репитер GSM900 автомобильный",
+    "price": 68696,
+    "category": "radio-equipment",
+    "subcategory": "repeaters"
+  },
+  {
+    "category_raw": "Репитеры",
+    "code": 50257,
+    "article": "PRICE1-50258",
+    "name": "ClearCast CU-30 Репитер 3G автомобильный",
+    "fullName": "ClearCast CU-30 Репитер 3G автомобильный",
+    "price": 78846,
+    "category": "radio-equipment",
+    "subcategory": "repeaters"
+  },
+  {
+    "category_raw": "Репитеры",
+    "code": 50258,
+    "article": "PRICE1-50259",
+    "name": "ClearCast MD-45 Репитер DCS/LTE/4G покрытие до 150 кв.м",
+    "fullName": "ClearCast MD-45 Репитер DCS/LTE/4G покрытие до 150 кв.м",
+    "price": 85609,
+    "category": "radio-equipment",
+    "subcategory": "repeaters"
+  },
+  {
+    "category_raw": "Репитеры",
+    "code": 50259,
+    "article": "PRICE1-50260",
+    "name": "AnyTone AT-600 Репитер GSM900 покрытие до 300 кв.м",
+    "fullName": "AnyTone AT-600 Репитер GSM900 покрытие до 300 кв.м",
+    "price": 111134,
+    "category": "radio-equipment",
+    "subcategory": "repeaters"
+  },
+  {
+    "category_raw": "Репитеры",
+    "code": 50260,
+    "article": "PRICE1-50261",
+    "name": "AnyTone AT-4000D Репитер DCS/LTE/4G покрытие до 100 кв.м",
+    "fullName": "AnyTone AT-4000D Репитер DCS/LTE/4G покрытие до 100 кв.м",
+    "price": 136385,
+    "category": "radio-equipment",
+    "subcategory": "repeaters"
+  },
+  {
+    "category_raw": "Репитеры",
+    "code": 50261,
+    "article": "PRICE1-50262",
+    "name": "AnyTone AT-608 Репитер GSM900 покрытие до 600 кв.м",
+    "fullName": "AnyTone AT-608 Репитер GSM900 покрытие до 600 кв.м",
+    "price": 126287,
+    "category": "radio-equipment",
+    "subcategory": "repeaters"
+  },
+  {
+    "category_raw": "Репитеры",
+    "code": 50262,
+    "article": "PRICE1-50263",
+    "name": "ClearCast SGD-5055 Репитер GSM900/1800 покрытие до 500 кв.м.",
+    "fullName": "ClearCast SGD-5055 Репитер GSM900/1800 покрытие до 500 кв.м.",
+    "price": 162977,
+    "category": "radio-equipment",
+    "subcategory": "repeaters"
+  },
+  {
+    "category_raw": "Репитеры",
+    "code": 50263,
+    "article": "PRICE1-50264",
+    "name": "ClearCast SGU-5055 Репитер GSM900+3G покрытие до 500 кв.м.",
+    "fullName": "ClearCast SGU-5055 Репитер GSM900+3G покрытие до 500 кв.м.",
+    "price": 162977,
+    "category": "radio-equipment",
+    "subcategory": "repeaters"
+  },
+  {
+    "category_raw": "Репитеры",
+    "code": 50264,
+    "article": "PRICE1-50265",
+    "name": "AnyTone AT-6000W Репитер 3G покрытие до 300 кв.м",
+    "fullName": "AnyTone AT-6000W Репитер 3G покрытие до 300 кв.м",
+    "price": 161643,
+    "category": "radio-equipment",
+    "subcategory": "repeaters"
+  },
+  {
+    "category_raw": "Репитеры",
+    "code": 50265,
+    "article": "PRICE1-50266",
+    "name": "AnyTone AT-6000D Репитер DCS/4G/LTE покрытие до 400 кв.м.",
+    "fullName": "AnyTone AT-6000D Репитер DCS/4G/LTE покрытие до 400 кв.м.",
+    "price": 230535,
+    "category": "radio-equipment",
+    "subcategory": "repeaters"
+  },
+  {
+    "category_raw": "Репитеры",
+    "code": 50266,
+    "article": "PRICE1-50267",
+    "name": "AnyTone AT-800 Репитер GSM900 покрытие до 1200 кв.м",
+    "fullName": "AnyTone AT-800 Репитер GSM900 покрытие до 1200 кв.м",
+    "price": 249288,
+    "category": "radio-equipment",
+    "subcategory": "repeaters"
+  },
+  {
+    "category_raw": "Репитеры",
+    "code": 50267,
+    "article": "PRICE1-50268",
+    "name": "AnyTone AT-4100GW Репитер GSM900+3G покрытие до 100 кв. м",
+    "fullName": "AnyTone AT-4100GW Репитер GSM900+3G покрытие до 100 кв. м",
+    "price": 202060,
+    "category": "radio-equipment",
+    "subcategory": "repeaters"
+  },
+  {
+    "category_raw": "Репитеры",
+    "code": 50268,
+    "article": "PRICE1-50269",
+    "name": "AnyTone AT-4100GD Репитер GSM900/1800 покрытие до 100 кв. м",
+    "fullName": "AnyTone AT-4100GD Репитер GSM900/1800 покрытие до 100 кв. м",
+    "price": 222262,
+    "category": "radio-equipment",
+    "subcategory": "repeaters"
+  },
+  {
+    "category_raw": "Репитеры",
+    "code": 50269,
+    "article": "PRICE1-50270",
+    "name": "AnyTone AT-6000GW Репитер GSM900+3G покрытие до 300 кв. м",
+    "fullName": "AnyTone AT-6000GW Репитер GSM900+3G покрытие до 300 кв. м",
+    "price": 247926,
+    "category": "radio-equipment",
+    "subcategory": "repeaters"
+  },
+  {
+    "category_raw": "Репитеры",
+    "code": 50270,
+    "article": "PRICE1-50271",
+    "name": "AnyTone AT-6100GW Репитер GSM900+3G покрытие до 500 кв. м",
+    "fullName": "AnyTone AT-6100GW Репитер GSM900+3G покрытие до 500 кв. м",
+    "price": 353598,
+    "category": "radio-equipment",
+    "subcategory": "repeaters"
+  },
+  {
+    "category_raw": "Репитеры",
+    "code": 50271,
+    "article": "PRICE1-50272",
+    "name": "AnyTone AT-6200GW Репитер GSM900+3G покрытие до 800 кв. м",
+    "fullName": "AnyTone AT-6200GW Репитер GSM900+3G покрытие до 800 кв. м",
+    "price": 383898,
+    "category": "radio-equipment",
+    "subcategory": "repeaters"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50272,
+    "article": "PRICE1-50273",
+    "name": "Termit FixPhone V2 rev.3.1.0 стационарный телефон GSM900/1800",
+    "fullName": "Termit FixPhone V2 rev.3.1.0 стационарный телефон GSM900/1800",
+    "price": 32667,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50273,
+    "article": "PRICE1-50274",
+    "name": "StarNet 4G-CPE 3G/4G Wi-Fi роутер, гарантия 1 год",
+    "fullName": "StarNet 4G-CPE 3G/4G Wi-Fi роутер, гарантия 1 год",
+    "price": 25582,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50274,
+    "article": "PRICE1-50275",
+    "name": "StarNet 4G-2346 Комплект для 3G/4G интернета (StarNet 4G-CPE + BAS-2346)",
+    "fullName": "StarNet 4G-2346 Комплект для 3G/4G интернета (StarNet 4G-CPE + BAS-2346)",
+    "price": 43949,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50275,
+    "article": "PRICE1-50276",
+    "name": "StarNet 4G-2013 Комплект для 3G/4G интернета (StarNet 4G-CPE + BAS-2013)",
+    "fullName": "StarNet 4G-2013 Комплект для 3G/4G интернета (StarNet 4G-CPE + BAS-2013)",
+    "price": 39098,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50276,
+    "article": "PRICE1-50277",
+    "name": "Termit FixPhone LTE LiTE стационарный GSM телефон с WiFi роутером, гарантия 1 год",
+    "fullName": "Termit FixPhone LTE LiTE стационарный GSM телефон с WiFi роутером, гарантия 1 год",
+    "price": 66604,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50277,
+    "article": "PRICE1-50278",
+    "name": "Kirisun T60 GSM/3G/WIFI портативная рация, акк. 5200мАч, включена подписка на сервис 6 мес, гарантия 1 год",
+    "fullName": "Kirisun T60 GSM/3G/WIFI портативная рация, акк. 5200мАч, включена подписка на сервис 6 мес, гарантия 1 год",
+    "price": 125023,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50278,
+    "article": "PRICE1-50279",
+    "name": "Kirisun M50 GSM/3G/WIFI мобильная рация, включена подписка на сервис 6 мес, гарантия 1 год",
+    "fullName": "Kirisun M50 GSM/3G/WIFI мобильная рация, включена подписка на сервис 6 мес, гарантия 1 год",
+    "price": 176357,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50279,
+    "article": "PRICE1-50280",
+    "name": "Рабочее место диспетчера через WEB, включена подписка на сервис 6 мес",
+    "fullName": "Рабочее место диспетчера через WEB, включена подписка на сервис 6 мес",
+    "price": 19544,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50280,
+    "article": "PRICE1-50281",
+    "name": "Рабочее место для мобильного телефона (IOS или Android), включена  подписка на сервис 6 мес",
+    "fullName": "Рабочее место для мобильного телефона (IOS или Android), включена  подписка на сервис 6 мес",
+    "price": 19544,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50281,
+    "article": "PRICE1-50282",
+    "name": "Подписка на сервис 6 месяцев, 1 устройство (рация/диспетчер/приложение)",
+    "fullName": "Подписка на сервис 6 месяцев, 1 устройство (рация/диспетчер/приложение)",
+    "price": 11728,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50282,
+    "article": "PRICE1-50283",
+    "name": "Подписка на сервис 12 месяцев, 1 устройство  (рация/диспетчер/приложение)",
+    "fullName": "Подписка на сервис 12 месяцев, 1 устройство  (рация/диспетчер/приложение)",
+    "price": 19544,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "GPS-трекеры",
+    "code": 50283,
+    "article": "PRICE1-50284",
+    "name": "SinoTrack ST-901 GPS-трекер скрытой установки, гарантия 1 месяц",
+    "fullName": "SinoTrack ST-901 GPS-трекер скрытой установки, гарантия 1 месяц",
+    "price": 19037,
+    "category": "radio-equipment",
+    "subcategory": "gps-trackers"
+  },
+  {
+    "category_raw": "GPS-трекеры",
+    "code": 50284,
+    "article": "PRICE1-50285",
+    "name": "SinoTrack ST-902 GPS-трекер (OBDII интерфейс), гарантия 1 месяц",
+    "fullName": "SinoTrack ST-902 GPS-трекер (OBDII интерфейс), гарантия 1 месяц",
+    "price": 20138,
+    "category": "radio-equipment",
+    "subcategory": "gps-trackers"
+  },
+  {
+    "category_raw": "GPS-трекеры",
+    "code": 50285,
+    "article": "PRICE1-50286",
+    "name": "SinoTrack ST-907 GPS-трекер (реле) скрытой установки, гарантия 1 месяц",
+    "fullName": "SinoTrack ST-907 GPS-трекер (реле) скрытой установки, гарантия 1 месяц",
+    "price": 21751,
+    "category": "radio-equipment",
+    "subcategory": "gps-trackers"
+  },
+  {
+    "category_raw": "Зарядные устройства",
+    "code": 50286,
+    "article": "PRICE1-50287",
+    "name": "SinoTrack ST-909 GPS-трекер (зарядное устройство 2xUSB 5V 2A, в прикуриватель), гарантия 1 месяц",
+    "fullName": "SinoTrack ST-909 GPS-трекер (зарядное устройство 2xUSB 5V 2A, в прикуриватель), гарантия 1 месяц",
+    "price": 25511,
+    "category": "radio-equipment",
+    "subcategory": "chargers"
+  },
+  {
+    "category_raw": "Мачты",
+    "code": 50287,
+    "article": "PRICE1-50288",
+    "name": "M30D2 Мачта составная, высота 3 м, вес 2,7 кг,  длина колен 1500 мм, проволока для растяжек, на плоскую поверхность",
+    "fullName": "M30D2 Мачта составная, высота 3 м, вес 2,7 кг,  длина колен 1500 мм, проволока для растяжек, на плоскую поверхность",
+    "price": 26999,
+    "category": "radio-equipment",
+    "subcategory": "masts"
+  },
+  {
+    "category_raw": "Мачты",
+    "code": 50288,
+    "article": "PRICE1-50289",
+    "name": "M60D4 Мачта составная, высота 6 м, вес 4.7 кг, длина колен 1500 мм, проволока для растяжек, на плоскую поверхность",
+    "fullName": "M60D4 Мачта составная, высота 6 м, вес 4.7 кг, длина колен 1500 мм, проволока для растяжек, на плоскую поверхность",
+    "price": 44843,
+    "category": "radio-equipment",
+    "subcategory": "masts"
+  },
+  {
+    "category_raw": "Мачты",
+    "code": 50289,
+    "article": "PRICE1-50290",
+    "name": "МТП - 4 Мачта телескопическая RadioТехник высота 3,86 м, вес 5,09 кг, Стальные трубы Ø 32 и 40 мм; длина колен 1980 мм, толщина стенок 1,5 мм, такелаж, на плоскую поверхность",
+    "fullName": "МТП - 4 Мачта телескопическая RadioТехник высота 3,86 м, вес 5,09 кг, Стальные трубы Ø 32 и 40 мм; длина колен 1980 мм, толщина стенок 1,5 мм, такелаж, на плоскую поверхность",
+    "price": 62266,
+    "category": "radio-equipment",
+    "subcategory": "masts"
+  },
+  {
+    "category_raw": "Мачты",
+    "code": 50290,
+    "article": "PRICE1-50291",
+    "name": "МТП - 6С Мачта телескопическая RadioТехник, высота 5,71 м, вес 8,20 кг, Стальные трубы Ø 32, 40 и 45мм; длина колен 1980 мм, толщина стенок 1,5 мм, кронштейны, крепление на стену",
+    "fullName": "МТП - 6С Мачта телескопическая RadioТехник, высота 5,71 м, вес 8,20 кг, Стальные трубы Ø 32, 40 и 45мм; длина колен 1980 мм, толщина стенок 1,5 мм, кронштейны, крепление на стену",
+    "price": 77897,
+    "category": "radio-equipment",
+    "subcategory": "masts"
+  },
+  {
+    "category_raw": "Мачты",
+    "code": 50291,
+    "article": "PRICE1-50292",
+    "name": "МТП - 6 Мачта телескопическая RadioТехник, высота 5,71 м, вес 8,20 кг, Стальные трубы Ø 32, 40 и 45мм; длина колен 1980 мм, толщина стенок 1,5 мм, такелаж, на плоскую поверхность",
+    "fullName": "МТП - 6 Мачта телескопическая RadioТехник, высота 5,71 м, вес 8,20 кг, Стальные трубы Ø 32, 40 и 45мм; длина колен 1980 мм, толщина стенок 1,5 мм, такелаж, на плоскую поверхность",
+    "price": 67733,
+    "category": "radio-equipment",
+    "subcategory": "masts"
+  },
+  {
+    "category_raw": "Мачты",
+    "code": 50292,
+    "article": "PRICE1-50293",
+    "name": "МТП - 8 Мачта телескопическая RadioТехник  высота 7,56 м, вес 11,90 кг, Стальные трубы Ø 32, 40, 45 и 51мм; длина колен 1980 мм, толщина стенок 1,5 мм, такелаж, на плоскую поверхность",
+    "fullName": "МТП - 8 Мачта телескопическая RadioТехник  высота 7,56 м, вес 11,90 кг, Стальные трубы Ø 32, 40, 45 и 51мм; длина колен 1980 мм, толщина стенок 1,5 мм, такелаж, на плоскую поверхность",
+    "price": 100335,
+    "category": "radio-equipment",
+    "subcategory": "masts"
+  },
+  {
+    "category_raw": "Мачты",
+    "code": 50293,
+    "article": "PRICE1-50294",
+    "name": "МТП - 10 Мачта телескопическая RadioТехник  высота 9,41 м, вес 16,03 кг, Стальные трубы Ø 32, 40, 45, 51 и 57мм; длина колен 1980 мм, толщина стенок 1,5 мм, такелаж, на плоскую поверхность",
+    "fullName": "МТП - 10 Мачта телескопическая RadioТехник  высота 9,41 м, вес 16,03 кг, Стальные трубы Ø 32, 40, 45, 51 и 57мм; длина колен 1980 мм, толщина стенок 1,5 мм, такелаж, на плоскую поверхность",
+    "price": 151766,
+    "category": "radio-equipment",
+    "subcategory": "masts"
+  },
+  {
+    "category_raw": "Мачты",
+    "code": 50294,
+    "article": "PRICE1-50295",
+    "name": "МТП - 12  Мачта телескопическая RadioТехник  высота 11,26 м, вес 20,56 кг,   Стальные трубы Ø 32, 40, 45, 51, 57 и 63мм; длина колен 1980 мм, толщина стенок 1,5 мм, такелаж, на плоскую поверхность",
+    "fullName": "МТП - 12  Мачта телескопическая RadioТехник  высота 11,26 м, вес 20,56 кг,   Стальные трубы Ø 32, 40, 45, 51, 57 и 63мм; длина колен 1980 мм, толщина стенок 1,5 мм, такелаж, на плоскую поверхность",
+    "price": 217958,
+    "category": "radio-equipment",
+    "subcategory": "masts"
+  },
+  {
+    "category_raw": "Мачты",
+    "code": 50295,
+    "article": "PRICE1-50296",
+    "name": "МТП - 14  Мачта телескопическая RadioТехник  высота длина рабочая 13,11 м, вес 25,61 кг Стальные трубы Ø 32, 40, 45, 51, 57, 63 и 70мм; длина колен 1980 мм, толщина стенок 1,5 мм, такелаж, на плоскую поверхность",
+    "fullName": "МТП - 14  Мачта телескопическая RadioТехник  высота длина рабочая 13,11 м, вес 25,61 кг Стальные трубы Ø 32, 40, 45, 51, 57, 63 и 70мм; длина колен 1980 мм, толщина стенок 1,5 мм, такелаж, на плоскую поверхность",
+    "price": 251458,
+    "category": "radio-equipment",
+    "subcategory": "masts"
+  },
+  {
+    "category_raw": "Мачты",
+    "code": 50296,
+    "article": "PRICE1-50297",
+    "name": "МТП - 16У  Мачта телескопическая усиленная RadioТехник  высота длина рабочая 14,96 м, вес 30,91 кг Стальные трубы Ø 32, 40, 45, 51, 57, 63, 70 и 76 мм; длина колен 1980 мм, толщина стенок 1,5 мм, такелаж, на плоскую поверхность",
+    "fullName": "МТП - 16У  Мачта телескопическая усиленная RadioТехник  высота длина рабочая 14,96 м, вес 30,91 кг Стальные трубы Ø 32, 40, 45, 51, 57, 63, 70 и 76 мм; длина колен 1980 мм, толщина стенок 1,5 мм, такелаж, на плоскую поверхность",
+    "price": 356134,
+    "category": "radio-equipment",
+    "subcategory": "masts"
+  },
+  {
+    "category_raw": "Мачты",
+    "code": 50297,
+    "article": "PRICE1-50298",
+    "name": "МА - 4 Мачта составная алюминиевая RadioТехник высота 4 м, вес 3,5 кг, трубы Ø 50 мм; длина колена 2 м, толщина стенок 2 мм, такелаж, на плоскую поверхность",
+    "fullName": "МА - 4 Мачта составная алюминиевая RadioТехник высота 4 м, вес 3,5 кг, трубы Ø 50 мм; длина колена 2 м, толщина стенок 2 мм, такелаж, на плоскую поверхность",
+    "price": 87132,
+    "category": "radio-equipment",
+    "subcategory": "masts"
+  },
+  {
+    "category_raw": "Мачты",
+    "code": 50298,
+    "article": "PRICE1-50299",
+    "name": "МА - 6 Мачта составная алюминиевая RadioТехник, высота 6 м, вес 4,6 кг,  трубы Ø 50 мм; длина колена 2 м, толщина стенок 2 мм, такелаж, на плоскую поверхность",
+    "fullName": "МА - 6 Мачта составная алюминиевая RadioТехник, высота 6 м, вес 4,6 кг,  трубы Ø 50 мм; длина колена 2 м, толщина стенок 2 мм, такелаж, на плоскую поверхность",
+    "price": 117377,
+    "category": "radio-equipment",
+    "subcategory": "masts"
+  },
+  {
+    "category_raw": "Мачты",
+    "code": 50299,
+    "article": "PRICE1-50300",
+    "name": "МА - 8 Мачта составная алюминиевая RadioТехник, высота 8 м, вес 6,7 кг, трубы Ø 50 мм; длина колен 2 м, толщина стенок 2 мм, такелаж, на плоскую поверхность",
+    "fullName": "МА - 8 Мачта составная алюминиевая RadioТехник, высота 8 м, вес 6,7 кг, трубы Ø 50 мм; длина колен 2 м, толщина стенок 2 мм, такелаж, на плоскую поверхность",
+    "price": 165459,
+    "category": "radio-equipment",
+    "subcategory": "masts"
+  },
+  {
+    "category_raw": "Мачты",
+    "code": 50300,
+    "article": "PRICE1-50301",
+    "name": "МА - 10 Мачта составная алюминиевая RadioТехник  высота 10 м, вес 8,50 кг, трубы Ø 50мм; длина колена2 м, толщина стенок 2 мм, такелаж, на плоскую поверхность",
+    "fullName": "МА - 10 Мачта составная алюминиевая RadioТехник  высота 10 м, вес 8,50 кг, трубы Ø 50мм; длина колена2 м, толщина стенок 2 мм, такелаж, на плоскую поверхность",
+    "price": 211102,
+    "category": "radio-equipment",
+    "subcategory": "masts"
+  },
+  {
+    "category_raw": "Мачты",
+    "code": 50301,
+    "article": "PRICE1-50302",
+    "name": "МТЛ-12 Мачта телескопическая алюминиевая RadioТехник, высота 12 метров, вес 10.1 кг, длина колен 2 м, такелаж, на плоскую поверхность",
+    "fullName": "МТЛ-12 Мачта телескопическая алюминиевая RadioТехник, высота 12 метров, вес 10.1 кг, длина колен 2 м, такелаж, на плоскую поверхность",
+    "price": 369303,
+    "category": "radio-equipment",
+    "subcategory": "masts"
+  },
+  {
+    "category_raw": "Кронштейны",
+    "code": 50302,
+    "article": "PRICE1-50303",
+    "name": "Кронштейн стеновой для крепления антенн KS-120 (12 см)",
+    "fullName": "Кронштейн стеновой для крепления антенн KS-120 (12 см)",
+    "price": 4197,
+    "category": "radio-equipment",
+    "subcategory": "mounts"
+  },
+  {
+    "category_raw": "Кронштейны",
+    "code": 50303,
+    "article": "PRICE1-50304",
+    "name": "Кронштейн стеновой для крепления антенн KS-240 (24 см)",
+    "fullName": "Кронштейн стеновой для крепления антенн KS-240 (24 см)",
+    "price": 4894,
+    "category": "radio-equipment",
+    "subcategory": "mounts"
+  },
+  {
+    "category_raw": "Кронштейны",
+    "code": 50304,
+    "article": "PRICE1-50305",
+    "name": "Кронштейн стеновой S-образный, 0,5 м СК-S-0,5",
+    "fullName": "Кронштейн стеновой S-образный, 0,5 м СК-S-0,5",
+    "price": 6583,
+    "category": "radio-equipment",
+    "subcategory": "mounts"
+  },
+  {
+    "category_raw": "Кронштейны",
+    "code": 50305,
+    "article": "PRICE1-50306",
+    "name": "Кронштейн стеновой для крепления мачты М- образный КС-ММ-035",
+    "fullName": "Кронштейн стеновой для крепления мачты М- образный КС-ММ-035",
+    "price": 7707,
+    "category": "radio-equipment",
+    "subcategory": "mounts"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50306,
+    "article": "PRICE1-50307",
+    "name": "Вилка для установки двух антенн на одну мачту",
+    "fullName": "Вилка для установки двух антенн на одну мачту",
+    "price": 11772,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Гарнитуры и микрофоны",
+    "code": 50307,
+    "article": "PRICE1-50308",
+    "name": "Гарнитура EARPHONIC ER01DP28SB13_K (мининаушник) для носимых раций с интерфейсом 2-PIN (K1)",
+    "fullName": "Гарнитура EARPHONIC ER01DP28SB13_K (мининаушник) для носимых раций с интерфейсом 2-PIN (K1)",
+    "price": 4649,
+    "category": "radio-equipment",
+    "subcategory": "headsets"
+  },
+  {
+    "category_raw": "Гарнитуры и микрофоны",
+    "code": 50308,
+    "article": "PRICE1-50309",
+    "name": "Гарнитура EARPHONIC ER01DP28SB1_K (Г-заушина) для носимых раций с интерфейсом 2-PIN (K1)",
+    "fullName": "Гарнитура EARPHONIC ER01DP28SB1_K (Г-заушина) для носимых раций с интерфейсом 2-PIN (K1)",
+    "price": 4981,
+    "category": "radio-equipment",
+    "subcategory": "headsets"
+  },
+  {
+    "category_raw": "Гарнитуры и микрофоны",
+    "code": 50309,
+    "article": "PRICE1-50310",
+    "name": "Гарнитура EARPHONIC ER02DP28SB6_K (скрытоносимая) для носимых раций с интерфейсом 2-PIN (K1)",
+    "fullName": "Гарнитура EARPHONIC ER02DP28SB6_K (скрытоносимая) для носимых раций с интерфейсом 2-PIN (K1)",
+    "price": 4981,
+    "category": "radio-equipment",
+    "subcategory": "headsets"
+  },
+  {
+    "category_raw": "Гарнитуры и микрофоны",
+    "code": 50310,
+    "article": "PRICE1-50311",
+    "name": "Гарнитура EARPHONIC ER02DP02SB6_K (ларингофон) для носимых раций с интерфейсом 2-PIN (K1)",
+    "fullName": "Гарнитура EARPHONIC ER02DP02SB6_K (ларингофон) для носимых раций с интерфейсом 2-PIN (K1)",
+    "price": 4981,
+    "category": "radio-equipment",
+    "subcategory": "headsets"
+  },
+  {
+    "category_raw": "Гарнитуры и микрофоны",
+    "code": 50311,
+    "article": "PRICE1-50312",
+    "name": "Гарнитура EARPHONIC ER03DPLB16_K (наушник) для носимых раций с интерфейсом 2-PIN (K1)",
+    "fullName": "Гарнитура EARPHONIC ER03DPLB16_K (наушник) для носимых раций с интерфейсом 2-PIN (K1)",
+    "price": 8791,
+    "category": "radio-equipment",
+    "subcategory": "headsets"
+  },
+  {
+    "category_raw": "Гарнитуры и микрофоны",
+    "code": 50312,
+    "article": "PRICE1-50313",
+    "name": "Гарнитура ларингофонная регулируемая с выносной кнопкой TP15-P23K1 с интерфейсом Тип К1",
+    "fullName": "Гарнитура ларингофонная регулируемая с выносной кнопкой TP15-P23K1 с интерфейсом Тип К1",
+    "price": 15211,
+    "category": "radio-equipment",
+    "subcategory": "headsets"
+  },
+  {
+    "category_raw": "Гарнитуры и микрофоны",
+    "code": 50313,
+    "article": "PRICE1-50314",
+    "name": "Гарнитура скрытого ношения трубочная АС-002 для радиостанций EM9735/AT628G/AT288/AT289/AT-3308/НУКЕР/PX-359/AT-518P/AT-3318UV/PT-260/TG-1680",
+    "fullName": "Гарнитура скрытого ношения трубочная АС-002 для радиостанций EM9735/AT628G/AT288/AT289/AT-3308/НУКЕР/PX-359/AT-518P/AT-3318UV/PT-260/TG-1680",
+    "price": 10900,
+    "category": "radio-equipment",
+    "subcategory": "headsets"
+  },
+  {
+    "category_raw": "Гарнитуры и микрофоны",
+    "code": 50314,
+    "article": "PRICE1-50315",
+    "name": "Гарнитура скрытого ношения трубочная EAR-4 для радиостанций EM9735/AT628G/AT288/AT289/AT-3308/НУКЕР/PX-359/AT-518P/AT-3318UV/PT-260/TG-1680",
+    "fullName": "Гарнитура скрытого ношения трубочная EAR-4 для радиостанций EM9735/AT628G/AT288/AT289/AT-3308/НУКЕР/PX-359/AT-518P/AT-3318UV/PT-260/TG-1680",
+    "price": 10900,
+    "category": "radio-equipment",
+    "subcategory": "headsets"
+  },
+  {
+    "category_raw": "Гарнитуры и микрофоны",
+    "code": 50315,
+    "article": "PRICE1-50316",
+    "name": "Гарнитура скрытого ношения трубочная ACH-4040 для радиостанций EM9735/AT628G/AT288/AT289/AT-3308/НУКЕР/PX-359/AT-518P/AT-3318UV/PT-260/TG-1680",
+    "fullName": "Гарнитура скрытого ношения трубочная ACH-4040 для радиостанций EM9735/AT628G/AT288/AT289/AT-3308/НУКЕР/PX-359/AT-518P/AT-3318UV/PT-260/TG-1680",
+    "price": 10900,
+    "category": "radio-equipment",
+    "subcategory": "headsets"
+  },
+  {
+    "category_raw": "Гарнитуры и микрофоны",
+    "code": 50316,
+    "article": "PRICE1-50317",
+    "name": "Гарнитура скрытого ношения трубочная с выносной кнопкой EP31-P23K1  с интерфейсом Тип К1",
+    "fullName": "Гарнитура скрытого ношения трубочная с выносной кнопкой EP31-P23K1  с интерфейсом Тип К1",
+    "price": 10840,
+    "category": "radio-equipment",
+    "subcategory": "headsets"
+  },
+  {
+    "category_raw": "Гарнитуры и микрофоны",
+    "code": 50317,
+    "article": "PRICE1-50318",
+    "name": "Гарнитура скрытого ношения KME-032 для POC раций Kirisun T60/T65 (для моделей с 1хSIM)",
+    "fullName": "Гарнитура скрытого ношения KME-032 для POC раций Kirisun T60/T65 (для моделей с 1хSIM)",
+    "price": 13402,
+    "category": "radio-equipment",
+    "subcategory": "headsets"
+  },
+  {
+    "category_raw": "Гарнитуры и микрофоны",
+    "code": 50318,
+    "article": "PRICE1-50319",
+    "name": "Гарнитура скрытого ношения KME-K5CAT-B  для POC раций Kirisun T60/T65 (для моделей с 2хSIM)",
+    "fullName": "Гарнитура скрытого ношения KME-K5CAT-B  для POC раций Kirisun T60/T65 (для моделей с 2хSIM)",
+    "price": 14742,
+    "category": "radio-equipment",
+    "subcategory": "headsets"
+  },
+  {
+    "category_raw": "Гарнитуры и микрофоны",
+    "code": 50319,
+    "article": "PRICE1-50320",
+    "name": "Гарнитура универсальная с увеличенным динамиком ECH-3070 для радиостанций EM9735/AT628G/AT288/AT289/AT-3308/НУКЕР/PX-359/AT-518P/AT-3318UV/PT-260/TG-1680",
+    "fullName": "Гарнитура универсальная с увеличенным динамиком ECH-3070 для радиостанций EM9735/AT628G/AT288/AT289/AT-3308/НУКЕР/PX-359/AT-518P/AT-3318UV/PT-260/TG-1680",
+    "price": 9538,
+    "category": "radio-equipment",
+    "subcategory": "headsets"
+  },
+  {
+    "category_raw": "Гарнитуры и микрофоны",
+    "code": 50320,
+    "article": "PRICE1-50321",
+    "name": "Гарнитура KME-026 для POC раций Kirisun T60/T65 (для моделей с 1xSIM)",
+    "fullName": "Гарнитура KME-026 для POC раций Kirisun T60/T65 (для моделей с 1xSIM)",
+    "price": 8704,
+    "category": "radio-equipment",
+    "subcategory": "headsets"
+  },
+  {
+    "category_raw": "Гарнитуры и микрофоны",
+    "code": 50321,
+    "article": "PRICE1-50322",
+    "name": "Гарнитура KME-K5CCT-E для POC раций Kirisun T60/T65 (для моделей с 2xSIM)",
+    "fullName": "Гарнитура KME-K5CCT-E для POC раций Kirisun T60/T65 (для моделей с 2xSIM)",
+    "price": 10153,
+    "category": "radio-equipment",
+    "subcategory": "headsets"
+  },
+  {
+    "category_raw": "Гарнитуры и микрофоны",
+    "code": 50322,
+    "article": "PRICE1-50323",
+    "name": "Гарнитура скрытого ношения трубочная EP68-P12K1 с интерфейсом Тип К1",
+    "fullName": "Гарнитура скрытого ношения трубочная EP68-P12K1 с интерфейсом Тип К1",
+    "price": 7586,
+    "category": "radio-equipment",
+    "subcategory": "headsets"
+  },
+  {
+    "category_raw": "Гарнитуры и микрофоны",
+    "code": 50323,
+    "article": "PRICE1-50324",
+    "name": "Гарнитура универсальная с выносной кнопкой ECH-1040 для радиостанций EM9735/AT628G/AT288/AT289/AT-3308/НУКЕР/PX-359/AT-518P/AT-3318UV/PT-260/TG-1680",
+    "fullName": "Гарнитура универсальная с выносной кнопкой ECH-1040 для радиостанций EM9735/AT628G/AT288/AT289/AT-3308/НУКЕР/PX-359/AT-518P/AT-3318UV/PT-260/TG-1680",
+    "price": 7156,
+    "category": "radio-equipment",
+    "subcategory": "headsets"
+  },
+  {
+    "category_raw": "Гарнитуры и микрофоны",
+    "code": 50324,
+    "article": "PRICE1-50325",
+    "name": "Гарнитура универсальная с выносной кнопкой BCL-2010 для радиостанций EM9735/AT628G/AT288/AT289/AT-3308/НУКЕР/PX-359/AT-518P/AT-3318UV/PT-260/TG-1680",
+    "fullName": "Гарнитура универсальная с выносной кнопкой BCL-2010 для радиостанций EM9735/AT628G/AT288/AT289/AT-3308/НУКЕР/PX-359/AT-518P/AT-3318UV/PT-260/TG-1680",
+    "price": 6268,
+    "category": "radio-equipment",
+    "subcategory": "headsets"
+  },
+  {
+    "category_raw": "Гарнитуры и микрофоны",
+    "code": 50325,
+    "article": "PRICE1-50326",
+    "name": "Гарнитура универсальная EAR-628 с выносной кнопкой для радиостанций EM9735/AT628G/AT288/AT289/AT-3308/НУКЕР/PX-359/AT-518P/AT-3318UV/PT-260/TG-1680",
+    "fullName": "Гарнитура универсальная EAR-628 с выносной кнопкой для радиостанций EM9735/AT628G/AT288/AT289/AT-3308/НУКЕР/PX-359/AT-518P/AT-3318UV/PT-260/TG-1680",
+    "price": 5723,
+    "category": "radio-equipment",
+    "subcategory": "headsets"
+  },
+  {
+    "category_raw": "Гарнитуры и микрофоны",
+    "code": 50326,
+    "article": "PRICE1-50327",
+    "name": "Гарнитура универсальная ER01 с выносной кнопкой для радиостанций StarNet S-400",
+    "fullName": "Гарнитура универсальная ER01 с выносной кнопкой для радиостанций StarNet S-400",
+    "price": 5799,
+    "category": "radio-equipment",
+    "subcategory": "headsets"
+  },
+  {
+    "category_raw": "Гарнитуры и микрофоны",
+    "code": 50327,
+    "article": "PRICE1-50328",
+    "name": "Гарнитура скрытого ношения ER03 для радиостанции StarNet S-400",
+    "fullName": "Гарнитура скрытого ношения ER03 для радиостанции StarNet S-400",
+    "price": 6524,
+    "category": "radio-equipment",
+    "subcategory": "headsets"
+  },
+  {
+    "category_raw": "Гарнитуры и микрофоны",
+    "code": 50328,
+    "article": "PRICE1-50329",
+    "name": "Гарнитура универсальная с выносной кнопкой EAR-6 для радиостанций EM9735/AT628G/AT288/AT289/AT-3308/НУКЕР/PX-359/AT-518P/AT-3318UV/PT-260/TG-1680",
+    "fullName": "Гарнитура универсальная с выносной кнопкой EAR-6 для радиостанций EM9735/AT628G/AT288/AT289/AT-3308/НУКЕР/PX-359/AT-518P/AT-3318UV/PT-260/TG-1680",
+    "price": 5995,
+    "category": "radio-equipment",
+    "subcategory": "headsets"
+  },
+  {
+    "category_raw": "Гарнитуры и микрофоны",
+    "code": 50329,
+    "article": "PRICE1-50330",
+    "name": "Гарнитура универсальная EE-004 с удлиненным микрофоном для радиостанций EM9735/AT628G/AT288/AT289/AT-3308/НУКЕР/PX-359/AT-518P/AT-3318UV/PT-260/TG-1680",
+    "fullName": "Гарнитура универсальная EE-004 с удлиненным микрофоном для радиостанций EM9735/AT628G/AT288/AT289/AT-3308/НУКЕР/PX-359/AT-518P/AT-3318UV/PT-260/TG-1680",
+    "price": 5886,
+    "category": "radio-equipment",
+    "subcategory": "headsets"
+  },
+  {
+    "category_raw": "Гарнитуры и микрофоны",
+    "code": 50330,
+    "article": "PRICE1-50331",
+    "name": "Гарнитура M4 с выносной кнопкой для р/с Quesum MD10/MD100",
+    "fullName": "Гарнитура M4 с выносной кнопкой для р/с Quesum MD10/MD100",
+    "price": 4633,
+    "category": "radio-equipment",
+    "subcategory": "headsets"
+  },
+  {
+    "category_raw": "Гарнитуры и микрофоны",
+    "code": 50331,
+    "article": "PRICE1-50332",
+    "name": "Гарнитура универсальная FH-003 для Baofeng UV-5R/EM9735/AT628G/AT288/AT289/AT-3308/НУКЕР/PX-359/AT-518P/AT-3318UV/PT-260/TG-1680/LT-316",
+    "fullName": "Гарнитура универсальная FH-003 для Baofeng UV-5R/EM9735/AT628G/AT288/AT289/AT-3308/НУКЕР/PX-359/AT-518P/AT-3318UV/PT-260/TG-1680/LT-316",
+    "price": 2671,
+    "category": "radio-equipment",
+    "subcategory": "headsets"
+  },
+  {
+    "category_raw": "Гарнитуры и микрофоны",
+    "code": 50332,
+    "article": "PRICE1-50333",
+    "name": "Гарнитура выносная QHM-22  для радиостанций EM9735/AT628G/AT288/AT289/AT-3308/НУКЕР/PX-359/AT-518P/AT-3318UV/PT-260/TG-1680",
+    "fullName": "Гарнитура выносная QHM-22  для радиостанций EM9735/AT628G/AT288/AT289/AT-3308/НУКЕР/PX-359/AT-518P/AT-3318UV/PT-260/TG-1680",
+    "price": 11445,
+    "category": "radio-equipment",
+    "subcategory": "headsets"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50333,
+    "article": "PRICE1-50334",
+    "name": "Держатель тангенты для автомобильной радиостанции Yosan/Anytone",
+    "fullName": "Держатель тангенты для автомобильной радиостанции Yosan/Anytone",
+    "price": 818,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Гарнитуры и микрофоны",
+    "code": 50334,
+    "article": "PRICE1-50335",
+    "name": "Гарнитура для радиостанции Puxing PX-2R",
+    "fullName": "Гарнитура для радиостанции Puxing PX-2R",
+    "price": 6540,
+    "category": "radio-equipment",
+    "subcategory": "headsets"
+  },
+  {
+    "category_raw": "Гарнитуры и микрофоны",
+    "code": 50335,
+    "article": "PRICE1-50336",
+    "name": "Гарнитура для Yosan JC-200/JC-300/СВ-50",
+    "fullName": "Гарнитура для Yosan JC-200/JC-300/СВ-50",
+    "price": 12099,
+    "category": "radio-equipment",
+    "subcategory": "headsets"
+  },
+  {
+    "category_raw": "Гарнитуры и микрофоны",
+    "code": 50336,
+    "article": "PRICE1-50337",
+    "name": "Гарнитура для Yosan JC-650 6-pin",
+    "fullName": "Гарнитура для Yosan JC-650 6-pin",
+    "price": 13080,
+    "category": "radio-equipment",
+    "subcategory": "headsets"
+  },
+  {
+    "category_raw": "Гарнитуры и микрофоны",
+    "code": 50337,
+    "article": "PRICE1-50338",
+    "name": "Гарнитура для Yosan JC-600Plus 8-pin",
+    "fullName": "Гарнитура для Yosan JC-600Plus 8-pin",
+    "price": 13080,
+    "category": "radio-equipment",
+    "subcategory": "headsets"
+  },
+  {
+    "category_raw": "Гарнитуры и микрофоны",
+    "code": 50338,
+    "article": "PRICE1-50339",
+    "name": "Гарнитура для радиостанции Luiton LT-298",
+    "fullName": "Гарнитура для радиостанции Luiton LT-298",
+    "price": 13080,
+    "category": "radio-equipment",
+    "subcategory": "headsets"
+  },
+  {
+    "category_raw": "Гарнитуры и микрофоны",
+    "code": 50339,
+    "article": "PRICE1-50340",
+    "name": "Гарнитура для AnyTone AT-5289",
+    "fullName": "Гарнитура для AnyTone AT-5289",
+    "price": 13080,
+    "category": "radio-equipment",
+    "subcategory": "headsets"
+  },
+  {
+    "category_raw": "Гарнитуры и микрофоны",
+    "code": 50340,
+    "article": "PRICE1-50341",
+    "name": "Гарнитура для Yosan Trucker/Excalibur",
+    "fullName": "Гарнитура для Yosan Trucker/Excalibur",
+    "price": 14715,
+    "category": "radio-equipment",
+    "subcategory": "headsets"
+  },
+  {
+    "category_raw": "Гарнитуры и микрофоны",
+    "code": 50341,
+    "article": "PRICE1-50342",
+    "name": "Гарнитура для Leixen UV-25HX c DTMF клавиатурой",
+    "fullName": "Гарнитура для Leixen UV-25HX c DTMF клавиатурой",
+    "price": 15325,
+    "category": "radio-equipment",
+    "subcategory": "headsets"
+  },
+  {
+    "category_raw": "Гарнитуры и микрофоны",
+    "code": 50342,
+    "article": "PRICE1-50343",
+    "name": "Гарнитура для AnyTone AT-888",
+    "fullName": "Гарнитура для AnyTone AT-888",
+    "price": 15483,
+    "category": "radio-equipment",
+    "subcategory": "headsets"
+  },
+  {
+    "category_raw": "Гарнитуры и микрофоны",
+    "code": 50343,
+    "article": "PRICE1-50344",
+    "name": "Гарнитура для AnyTone AT-5189",
+    "fullName": "Гарнитура для AnyTone AT-5189",
+    "price": 17985,
+    "category": "radio-equipment",
+    "subcategory": "headsets"
+  },
+  {
+    "category_raw": "Гарнитуры и микрофоны",
+    "code": 50344,
+    "article": "PRICE1-50345",
+    "name": "Гарнитура для AnyTone AT-588/Luiton LT-590 c DTMF клавиатурой",
+    "fullName": "Гарнитура для AnyTone AT-588/Luiton LT-590 c DTMF клавиатурой",
+    "price": 18830,
+    "category": "radio-equipment",
+    "subcategory": "headsets"
+  },
+  {
+    "category_raw": "Гарнитуры и микрофоны",
+    "code": 50345,
+    "article": "PRICE1-50346",
+    "name": "Гарнитура для Luiton LT-590 c DTMF клавиатурой",
+    "fullName": "Гарнитура для Luiton LT-590 c DTMF клавиатурой",
+    "price": 19620,
+    "category": "radio-equipment",
+    "subcategory": "headsets"
+  },
+  {
+    "category_raw": "Гарнитуры и микрофоны",
+    "code": 50346,
+    "article": "PRICE1-50347",
+    "name": "Гарнитура для AnyTone AT-588UV/AT-778UV c DTMF клавиатурой",
+    "fullName": "Гарнитура для AnyTone AT-588UV/AT-778UV c DTMF клавиатурой",
+    "price": 20318,
+    "category": "radio-equipment",
+    "subcategory": "headsets"
+  },
+  {
+    "category_raw": "Гарнитуры и микрофоны",
+    "code": 50347,
+    "article": "PRICE1-50348",
+    "name": "Микрофон настольный QHM-10 для р/с AnyTone AT-5189/AT-588",
+    "fullName": "Микрофон настольный QHM-10 для р/с AnyTone AT-5189/AT-588",
+    "price": 23544,
+    "category": "radio-equipment",
+    "subcategory": "headsets"
+  },
+  {
+    "category_raw": "Аккумуляторы",
+    "code": 50348,
+    "article": "PRICE1-50349",
+    "name": "Аккумуляторная батарея для ST-901 150мАч",
+    "fullName": "Аккумуляторная батарея для ST-901 150мАч",
+    "price": 3270,
+    "category": "radio-equipment",
+    "subcategory": "batteries"
+  },
+  {
+    "category_raw": "Аккумуляторы",
+    "code": 50349,
+    "article": "PRICE1-50350",
+    "name": "BC-S100 Аккумуляторная батарея 1200 мАч для StarNet S-100",
+    "fullName": "BC-S100 Аккумуляторная батарея 1200 мАч для StarNet S-100",
+    "price": 3870,
+    "category": "radio-equipment",
+    "subcategory": "batteries"
+  },
+  {
+    "category_raw": "Аккумуляторы",
+    "code": 50350,
+    "article": "PRICE1-50351",
+    "name": "Аккумуляторная батарея 1500 мАч для Luiton LT-316",
+    "fullName": "Аккумуляторная батарея 1500 мАч для Luiton LT-316",
+    "price": 4556,
+    "category": "radio-equipment",
+    "subcategory": "batteries"
+  },
+  {
+    "category_raw": "Аккумуляторы",
+    "code": 50351,
+    "article": "PRICE1-50352",
+    "name": "BL-2R Аккумуляторная батарея li-ion 3.7В 1100 мАч для Puxing PX-2R",
+    "fullName": "BL-2R Аккумуляторная батарея li-ion 3.7В 1100 мАч для Puxing PX-2R",
+    "price": 6540,
+    "category": "radio-equipment",
+    "subcategory": "batteries"
+  },
+  {
+    "category_raw": "Аккумуляторы",
+    "code": 50352,
+    "article": "PRICE1-50353",
+    "name": "DM-V1 Аккумуляторная батарея Li-Ion 3.7V 2000 мАч для Baofeng DM-V1",
+    "fullName": "DM-V1 Аккумуляторная батарея Li-Ion 3.7V 2000 мАч для Baofeng DM-V1",
+    "price": 6704,
+    "category": "radio-equipment",
+    "subcategory": "batteries"
+  },
+  {
+    "category_raw": "Аккумуляторы",
+    "code": 50353,
+    "article": "PRICE1-50354",
+    "name": "BC-S200 Аккумуляторная батарея 7.4В 2000мАч для StarNet S-200",
+    "fullName": "BC-S200 Аккумуляторная батарея 7.4В 2000мАч для StarNet S-200",
+    "price": 6813,
+    "category": "radio-equipment",
+    "subcategory": "batteries"
+  },
+  {
+    "category_raw": "Аккумуляторы",
+    "code": 50354,
+    "article": "PRICE1-50355",
+    "name": "BPK-5 Аккумуляторная батарея 7.2В 1600мАч для Quansheng UV-K5, UV-K5(8), UV-6",
+    "fullName": "BPK-5 Аккумуляторная батарея 7.2В 1600мАч для Quansheng UV-K5, UV-K5(8), UV-6",
+    "price": 6932,
+    "category": "radio-equipment",
+    "subcategory": "batteries"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50355,
+    "article": "PRICE1-50356",
+    "name": "BL-5 аккумуляторная батарея Li-Ion 1800мАч для р/с Baofeng UV-5R/UV-5R Pro",
+    "fullName": "BL-5 аккумуляторная батарея Li-Ion 1800мАч для р/с Baofeng UV-5R/UV-5R Pro",
+    "price": 6932,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50356,
+    "article": "PRICE1-50357",
+    "name": "CPS-11 адаптер для питания от прикуривателя р/с AnyTone AT288/AT289/AT289P/AT3318UV",
+    "fullName": "CPS-11 адаптер для питания от прикуривателя р/с AnyTone AT288/AT289/AT289P/AT3318UV",
+    "price": 9810,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50357,
+    "article": "PRICE1-50358",
+    "name": "QB-27L аккумуляторная батарея Li-ion 1500 мАч для AT-628G",
+    "fullName": "QB-27L аккумуляторная батарея Li-ion 1500 мАч для AT-628G",
+    "price": 9810,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50358,
+    "article": "PRICE1-50359",
+    "name": "QB-43L аккумуляторная батарея Li-ion 1300 мАч для AT-318, AT-318P, AT-318UV",
+    "fullName": "QB-43L аккумуляторная батарея Li-ion 1300 мАч для AT-318, AT-318P, AT-318UV",
+    "price": 10464,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50359,
+    "article": "PRICE1-50360",
+    "name": "QB-50HL аккумулторная батарея Li-Ion 2600 мАч для V10",
+    "fullName": "QB-50HL аккумулторная батарея Li-Ion 2600 мАч для V10",
+    "price": 10464,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50360,
+    "article": "PRICE1-50361",
+    "name": "QB-38L аккумуляторная батарея Li-ion 2000 мАч для AT-518",
+    "fullName": "QB-38L аккумуляторная батарея Li-ion 2000 мАч для AT-518",
+    "price": 10791,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50361,
+    "article": "PRICE1-50362",
+    "name": "QB-40L аккумуляторная батарея Li-ion 1350 мАч для AT-518 TURBO/AT-3208Plus",
+    "fullName": "QB-40L аккумуляторная батарея Li-ion 1350 мАч для AT-518 TURBO/AT-3208Plus",
+    "price": 10791,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50362,
+    "article": "PRICE1-50363",
+    "name": "PB-33L аккумуляторная батарея Li-ion 1600 мАч для PX-359",
+    "fullName": "PB-33L аккумуляторная батарея Li-ion 1600 мАч для PX-359",
+    "price": 11445,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50363,
+    "article": "PRICE1-50364",
+    "name": "QB-1500L аккумуляторная батарея Li-ion 1500 мАч для AT-288/289/289Р/3318",
+    "fullName": "QB-1500L аккумуляторная батарея Li-ion 1500 мАч для AT-288/289/289Р/3318",
+    "price": 12317,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Аккумуляторы",
+    "code": 50364,
+    "article": "PRICE1-50365",
+    "name": "Аккумуляторная батарея Li-Ion 2800 мАч для Luiton LT-199H",
+    "fullName": "Аккумуляторная батарея Li-Ion 2800 мАч для Luiton LT-199H",
+    "price": 12317,
+    "category": "radio-equipment",
+    "subcategory": "batteries"
+  },
+  {
+    "category_raw": "Аккумуляторы",
+    "code": 50365,
+    "article": "PRICE1-50366",
+    "name": "BC-S400 Аккумуляторная батарея 7.4В 2800мАч для StarNet S-400",
+    "fullName": "BC-S400 Аккумуляторная батарея 7.4В 2800мАч для StarNet S-400",
+    "price": 12535,
+    "category": "radio-equipment",
+    "subcategory": "batteries"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50366,
+    "article": "PRICE1-50367",
+    "name": "QB-35L аккумуляторная батарея li-ion 2200 мАч для AT-298/AT-398UV",
+    "fullName": "QB-35L аккумуляторная батарея li-ion 2200 мАч для AT-298/AT-398UV",
+    "price": 12808,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Аккумуляторы",
+    "code": 50367,
+    "article": "PRICE1-50368",
+    "name": "Аккумуляторная батарея Li-Ion 3500 мАч для Quansheng TG-1680",
+    "fullName": "Аккумуляторная батарея Li-Ion 3500 мАч для Quansheng TG-1680",
+    "price": 13107,
+    "category": "radio-equipment",
+    "subcategory": "batteries"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50368,
+    "article": "PRICE1-50369",
+    "name": "QB-44L аккумуляторная батарея Li-Ion 2100 мАч для AT-D858/868/868UV",
+    "fullName": "QB-44L аккумуляторная батарея Li-Ion 2100 мАч для AT-D858/868/868UV",
+    "price": 14170,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Аккумуляторы",
+    "code": 50369,
+    "article": "PRICE1-50370",
+    "name": "Аккумуляторная батарея Li-Ion 2600 мАч для Quesum MD10/MD100",
+    "fullName": "Аккумуляторная батарея Li-Ion 2600 мАч для Quesum MD10/MD100",
+    "price": 14323,
+    "category": "radio-equipment",
+    "subcategory": "batteries"
+  },
+  {
+    "category_raw": "Аккумуляторы",
+    "code": 50370,
+    "article": "PRICE1-50371",
+    "name": "KB-W65B Аккумулятор 5200мАч  для р/с Kirisun T60/T65",
+    "fullName": "KB-W65B Аккумулятор 5200мАч  для р/с Kirisun T60/T65",
+    "price": 16241,
+    "category": "radio-equipment",
+    "subcategory": "batteries"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50371,
+    "article": "PRICE1-50372",
+    "name": "QB-44HL аккумуляторная батарея Li-Ion 3100 мАч для AT-D858/868/878UV",
+    "fullName": "QB-44HL аккумуляторная батарея Li-Ion 3100 мАч для AT-D858/868/878UV",
+    "price": 17004,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50372,
+    "article": "PRICE1-50373",
+    "name": "KL60 RM антенный усилитель 35Вт 25-30МГц",
+    "fullName": "KL60 RM антенный усилитель 35Вт 25-30МГц",
+    "price": 24253,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50373,
+    "article": "PRICE1-50374",
+    "name": "KL203 RM антенный усилитель 100Вт 18-30МГц",
+    "fullName": "KL203 RM антенный усилитель 100Вт 18-30МГц",
+    "price": 27795,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50374,
+    "article": "PRICE1-50375",
+    "name": "KL203P RM антенный усилитель 100Вт 18-30МГц c предусилителем",
+    "fullName": "KL203P RM антенный усилитель 100Вт 18-30МГц c предусилителем",
+    "price": 31964,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50375,
+    "article": "PRICE1-50376",
+    "name": "KL243 RM антенный усилитель 100Вт 42-47МГц",
+    "fullName": "KL243 RM антенный усилитель 100Вт 42-47МГц",
+    "price": 45099,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50376,
+    "article": "PRICE1-50377",
+    "name": "LA144 RM антенный усилитель 70Вт 135-175МГц",
+    "fullName": "LA144 RM антенный усилитель 70Вт 135-175МГц",
+    "price": 72213,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50377,
+    "article": "PRICE1-50378",
+    "name": "KL300 RM антенный усилитель150Вт 3-30МГц",
+    "fullName": "KL300 RM антенный усилитель150Вт 3-30МГц",
+    "price": 79161,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50378,
+    "article": "PRICE1-50379",
+    "name": "LA145 RM антенный усилитель 85Вт 135-175МГц",
+    "fullName": "LA145 RM антенный усилитель 85Вт 135-175МГц",
+    "price": 97283,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50379,
+    "article": "PRICE1-50380",
+    "name": "KL400 RM антенный усилитель 200Вт 3-30МГц с предусилителем",
+    "fullName": "KL400 RM антенный усилитель 200Вт 3-30МГц с предусилителем",
+    "price": 102596,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50380,
+    "article": "PRICE1-50381",
+    "name": "KL405 RM антенный усилитель 200Вт 1.8-30МГц с предусилителем",
+    "fullName": "KL405 RM антенный усилитель 200Вт 1.8-30МГц с предусилителем",
+    "price": 102596,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50381,
+    "article": "PRICE1-50382",
+    "name": "KL503 RM антенный усилитель 300Вт 18-30МГц с предусилителем",
+    "fullName": "KL503 RM антенный усилитель 300Вт 18-30МГц с предусилителем",
+    "price": 106820,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50382,
+    "article": "PRICE1-50383",
+    "name": "KL505 RM антенный усилитель 300Вт 3-30МГц с предусилителем",
+    "fullName": "KL505 RM антенный усилитель 300Вт 3-30МГц с предусилителем",
+    "price": 183938,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50383,
+    "article": "PRICE1-50384",
+    "name": "KL800 RM антенный усилитель 600Вт 24-30МГц с предусилителем",
+    "fullName": "KL800 RM антенный усилитель 600Вт 24-30МГц с предусилителем",
+    "price": 290621,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Кабели",
+    "code": 50384,
+    "article": "PRICE1-50385",
+    "name": "Кабель питания зарядного устройcтва от прикуривателя PT260/EM9735/PX358/AT288/AT289/AT3318/AT3308",
+    "fullName": "Кабель питания зарядного устройcтва от прикуривателя PT260/EM9735/PX358/AT288/AT289/AT3318/AT3308",
+    "price": 3924,
+    "category": "radio-equipment",
+    "subcategory": "cables"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50385,
+    "article": "PRICE1-50386",
+    "name": "MiWi S-15-5 импульсный блок питания 5V 3А гарантия 1 год",
+    "fullName": "MiWi S-15-5 импульсный блок питания 5V 3А гарантия 1 год",
+    "price": 6131,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50386,
+    "article": "PRICE1-50387",
+    "name": "MiWi S-35-5 импульсный блок питания 5V 7А гарантия 1 год",
+    "fullName": "MiWi S-35-5 импульсный блок питания 5V 7А гарантия 1 год",
+    "price": 7848,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50387,
+    "article": "PRICE1-50388",
+    "name": "MiWi S-60-5 импульсный блок питания 5V 12А гарантия 1 год",
+    "fullName": "MiWi S-60-5 импульсный блок питания 5V 12А гарантия 1 год",
+    "price": 9810,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50388,
+    "article": "PRICE1-50389",
+    "name": "MiWi S-60-12 импульсный блок питания 12V 5А гарантия 1 год",
+    "fullName": "MiWi S-60-12 импульсный блок питания 12V 5А гарантия 1 год",
+    "price": 9810,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50389,
+    "article": "PRICE1-50390",
+    "name": "MiWi D-60A импульсный блок питания двухканальный 5V/4.6А + 12V/5A гарантия 1 год",
+    "fullName": "MiWi D-60A импульсный блок питания двухканальный 5V/4.6А + 12V/5A гарантия 1 год",
+    "price": 10791,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50390,
+    "article": "PRICE1-50391",
+    "name": "MiWi S-120-12 импульсный блок питания 12V 10А гарантия 1 год",
+    "fullName": "MiWi S-120-12 импульсный блок питания 12V 10А гарантия 1 год",
+    "price": 12998,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50391,
+    "article": "PRICE1-50392",
+    "name": "MiWi D-120A импульсный блок питания двухканальный 5V/12А + 12V/5A гарантия 1 год",
+    "fullName": "MiWi D-120A импульсный блок питания двухканальный 5V/12А + 12V/5A гарантия 1 год",
+    "price": 18884,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50392,
+    "article": "PRICE1-50393",
+    "name": "MiWi S-201-12 импульсный блок питания 12V 16.5А гарантия 1 год",
+    "fullName": "MiWi S-201-12 импульсный блок питания 12V 16.5А гарантия 1 год",
+    "price": 21337,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50393,
+    "article": "PRICE1-50394",
+    "name": "MiWi S-250-12 импульсный блок питания 12V 20А гарантия 1 год",
+    "fullName": "MiWi S-250-12 импульсный блок питания 12V 20А гарантия 1 год",
+    "price": 23054,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50394,
+    "article": "PRICE1-50395",
+    "name": "MiWi S-350-12 импульсный блок питания 12V 29А гарантия 1 год",
+    "fullName": "MiWi S-350-12 импульсный блок питания 12V 29А гарантия 1 год",
+    "price": 24525,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50395,
+    "article": "PRICE1-50396",
+    "name": "MiWi SP-320-13.5 импульсный блок питания с PFC 13.5V 23А гарантия 1 год",
+    "fullName": "MiWi SP-320-13.5 импульсный блок питания с PFC 13.5V 23А гарантия 1 год",
+    "price": 37115,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Блоки питания",
+    "code": 50396,
+    "article": "PRICE1-50397",
+    "name": "APS-1210 Блок питания импульсный 13.5V 10A гарантия 1 год",
+    "fullName": "APS-1210 Блок питания импульсный 13.5V 10A гарантия 1 год",
+    "price": 41856,
+    "category": "radio-equipment",
+    "subcategory": "power-supplies"
+  },
+  {
+    "category_raw": "Блоки питания",
+    "code": 50397,
+    "article": "PRICE1-50398",
+    "name": "RM-SPS1012 Блок питания 13.5V 10/12A гарантия 1 год",
+    "fullName": "RM-SPS1012 Блок питания 13.5V 10/12A гарантия 1 год",
+    "price": 45617,
+    "category": "radio-equipment",
+    "subcategory": "power-supplies"
+  },
+  {
+    "category_raw": "Блоки питания",
+    "code": 50398,
+    "article": "PRICE1-50399",
+    "name": "APS-1220 Блок питания импульсный 13.5V 20A гарантия 1 год",
+    "fullName": "APS-1220 Блок питания импульсный 13.5V 20A гарантия 1 год",
+    "price": 62321,
+    "category": "radio-equipment",
+    "subcategory": "power-supplies"
+  },
+  {
+    "category_raw": "Преобразователи",
+    "code": 50399,
+    "article": "PRICE1-50400",
+    "name": "RM RT5 Преобразователь напряжения 24/12В 5A Италия, гарантия 1 год",
+    "fullName": "RM RT5 Преобразователь напряжения 24/12В 5A Италия, гарантия 1 год",
+    "price": 14028,
+    "category": "radio-equipment",
+    "subcategory": "converters"
+  },
+  {
+    "category_raw": "Преобразователи",
+    "code": 50400,
+    "article": "PRICE1-50401",
+    "name": "RM RT10 Преобразователь напряжения 24В/12В 10A Италия, гарантия 1 год",
+    "fullName": "RM RT10 Преобразователь напряжения 24В/12В 10A Италия, гарантия 1 год",
+    "price": 19555,
+    "category": "radio-equipment",
+    "subcategory": "converters"
+  },
+  {
+    "category_raw": "Преобразователи",
+    "code": 50401,
+    "article": "PRICE1-50402",
+    "name": "DC-15 Преобразователь напряжения 24/12В 15А Тайвань, гарантия 1 год",
+    "fullName": "DC-15 Преобразователь напряжения 24/12В 15А Тайвань, гарантия 1 год",
+    "price": 26160,
+    "category": "radio-equipment",
+    "subcategory": "converters"
+  },
+  {
+    "category_raw": "Преобразователи",
+    "code": 50402,
+    "article": "PRICE1-50403",
+    "name": "RM RT16 Преобразователь напряжения 24V/12V 16A Италия, гарантия 1 год",
+    "fullName": "RM RT16 Преобразователь напряжения 24V/12V 16A Италия, гарантия 1 год",
+    "price": 38052,
+    "category": "radio-equipment",
+    "subcategory": "converters"
+  },
+  {
+    "category_raw": "Преобразователи",
+    "code": 50403,
+    "article": "PRICE1-50404",
+    "name": "DC-20 Преобразователь напряжения 24/12В 20А Тайвань, гарантия 1 год",
+    "fullName": "DC-20 Преобразователь напряжения 24/12В 20А Тайвань, гарантия 1 год",
+    "price": 36564,
+    "category": "radio-equipment",
+    "subcategory": "converters"
+  },
+  {
+    "category_raw": "Преобразователи",
+    "code": 50404,
+    "article": "PRICE1-50405",
+    "name": "DC-30 Преобразователь напряжения 24/12В 30А Тайвань, гарантия 1 год",
+    "fullName": "DC-30 Преобразователь напряжения 24/12В 30А Тайвань, гарантия 1 год",
+    "price": 49704,
+    "category": "radio-equipment",
+    "subcategory": "converters"
+  },
+  {
+    "category_raw": "Преобразователи",
+    "code": 50405,
+    "article": "PRICE1-50406",
+    "name": "DC-40 Преобразователь напряжения 24/12В 40А Тайвань, гарантия 1 год",
+    "fullName": "DC-40 Преобразователь напряжения 24/12В 40А Тайвань, гарантия 1 год",
+    "price": 63438,
+    "category": "radio-equipment",
+    "subcategory": "converters"
+  },
+  {
+    "category_raw": "Преобразователи",
+    "code": 50406,
+    "article": "PRICE1-50407",
+    "name": "RM-RT30SW Преобразователь напряжения 24/12В 35А Италия, гарантия 1 год",
+    "fullName": "RM-RT30SW Преобразователь напряжения 24/12В 35А Италия, гарантия 1 год",
+    "price": 97773,
+    "category": "radio-equipment",
+    "subcategory": "converters"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50407,
+    "article": "PRICE1-50408",
+    "name": "Кнопка удаленного управления питанием инверторов серии HP 600-3000Вт",
+    "fullName": "Кнопка удаленного управления питанием инверторов серии HP 600-3000Вт",
+    "price": 9183,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Инверторы",
+    "code": 50408,
+    "article": "PRICE1-50409",
+    "name": "Инвертор HP-150USB 12-220 Вольт 150 (450) Ватт, гарантия 1 год",
+    "fullName": "Инвертор HP-150USB 12-220 Вольт 150 (450) Ватт, гарантия 1 год",
+    "price": 25729,
+    "category": "radio-equipment",
+    "subcategory": "inverters"
+  },
+  {
+    "category_raw": "Инверторы",
+    "code": 50409,
+    "article": "PRICE1-50410",
+    "name": "Инвертор HP-300USB 12-220 Вольт 300 (900) Ватт, гарантия 1 год",
+    "fullName": "Инвертор HP-300USB 12-220 Вольт 300 (900) Ватт, гарантия 1 год",
+    "price": 33261,
+    "category": "radio-equipment",
+    "subcategory": "inverters"
+  },
+  {
+    "category_raw": "Инверторы",
+    "code": 50410,
+    "article": "PRICE1-50411",
+    "name": "Инвертор HP-300USB 24-220 Вольт 300 (900) Ватт, гарантия 1 год",
+    "fullName": "Инвертор HP-300USB 24-220 Вольт 300 (900) Ватт, гарантия 1 год",
+    "price": 33261,
+    "category": "radio-equipment",
+    "subcategory": "inverters"
+  },
+  {
+    "category_raw": "Инверторы",
+    "code": 50411,
+    "article": "PRICE1-50412",
+    "name": "Инвертор HP-600 12-220 Вольт 600 (1500) Ватт, гарантия 1 год",
+    "fullName": "Инвертор HP-600 12-220 Вольт 600 (1500) Ватт, гарантия 1 год",
+    "price": 56097,
+    "category": "radio-equipment",
+    "subcategory": "inverters"
+  },
+  {
+    "category_raw": "Инверторы",
+    "code": 50412,
+    "article": "PRICE1-50413",
+    "name": "Инвертор HP-600 24-220 Вольт 600 (1500) Ватт, гарантия 1 год",
+    "fullName": "Инвертор HP-600 24-220 Вольт 600 (1500) Ватт, гарантия 1 год",
+    "price": 56097,
+    "category": "radio-equipment",
+    "subcategory": "inverters"
+  },
+  {
+    "category_raw": "Инверторы",
+    "code": 50413,
+    "article": "PRICE1-50414",
+    "name": "Инвертор HP-1200 12-220 Вольт 1200 (2600) Ватт, гарантия 1 год",
+    "fullName": "Инвертор HP-1200 12-220 Вольт 1200 (2600) Ватт, гарантия 1 год",
+    "price": 100980,
+    "category": "radio-equipment",
+    "subcategory": "inverters"
+  },
+  {
+    "category_raw": "Инверторы",
+    "code": 50414,
+    "article": "PRICE1-50415",
+    "name": "Инвертор HP-2500 12-220 Вольт 2500 (5000) Ватт, гарантия 1 год",
+    "fullName": "Инвертор HP-2500 12-220 Вольт 2500 (5000) Ватт, гарантия 1 год",
+    "price": 270985,
+    "category": "radio-equipment",
+    "subcategory": "inverters"
+  },
+  {
+    "category_raw": "Инверторы",
+    "code": 50415,
+    "article": "PRICE1-50416",
+    "name": "Инвертор HP-2500 24-220 Вольт 2500 (5000) Ватт, гарантия 1 год",
+    "fullName": "Инвертор HP-2500 24-220 Вольт 2500 (5000) Ватт, гарантия 1 год",
+    "price": 270985,
+    "category": "radio-equipment",
+    "subcategory": "inverters"
+  },
+  {
+    "category_raw": "Инверторы",
+    "code": 50416,
+    "article": "PRICE1-50417",
+    "name": "Инвертор HP-3000 12-220 Вольт 3000 (6000) Ватт, гарантия 1 год",
+    "fullName": "Инвертор HP-3000 12-220 Вольт 3000 (6000) Ватт, гарантия 1 год",
+    "price": 314378,
+    "category": "radio-equipment",
+    "subcategory": "inverters"
+  },
+  {
+    "category_raw": "Инверторы",
+    "code": 50417,
+    "article": "PRICE1-50418",
+    "name": "Инвертор HP-3000 24-220 Вольт 3000 (6000) Ватт, гарантия 1 год",
+    "fullName": "Инвертор HP-3000 24-220 Вольт 3000 (6000) Ватт, гарантия 1 год",
+    "price": 314378,
+    "category": "radio-equipment",
+    "subcategory": "inverters"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50418,
+    "article": "PRICE1-50419",
+    "name": "ES-603 внешний громкоговоритель 5Вт 8Ом, кабель 1,8м",
+    "fullName": "ES-603 внешний громкоговоритель 5Вт 8Ом, кабель 1,8м",
+    "price": 5761,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50419,
+    "article": "PRICE1-50420",
+    "name": "ES-602 внешний громкоговоритель 3Вт 8Ом с регулятором громкости, кабель 1,8м",
+    "fullName": "ES-602 внешний громкоговоритель 3Вт 8Ом с регулятором громкости, кабель 1,8м",
+    "price": 6698,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50420,
+    "article": "PRICE1-50421",
+    "name": "ES-604 внешний громкоговоритель 7Вт 8Ом, увеличенный динамик, кабель 1,8м",
+    "fullName": "ES-604 внешний громкоговоритель 7Вт 8Ом, увеличенный динамик, кабель 1,8м",
+    "price": 6562,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50421,
+    "article": "PRICE1-50422",
+    "name": "ES-606 внешний громкоговоритель 10Вт 8Ом, увеличенный динамик, функция шумоподавления, кабель 1,8м",
+    "fullName": "ES-606 внешний громкоговоритель 10Вт 8Ом, увеличенный динамик, функция шумоподавления, кабель 1,8м",
+    "price": 7903,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50422,
+    "article": "PRICE1-50423",
+    "name": "ES-608 внешний громкоговоритель 10Вт 8Ом, увеличенный динамик, кабель 1,8м",
+    "fullName": "ES-608 внешний громкоговоритель 10Вт 8Ом, увеличенный динамик, кабель 1,8м",
+    "price": 7903,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50423,
+    "article": "PRICE1-50424",
+    "name": "AC04CHEV Пластина для крепления антенны под широкий релинг",
+    "fullName": "AC04CHEV Пластина для крепления антенны под широкий релинг",
+    "price": 3270,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50424,
+    "article": "PRICE1-50425",
+    "name": "AC04DODGE Пластина для крепления антенны под узкий релинг",
+    "fullName": "AC04DODGE Пластина для крепления антенны под узкий релинг",
+    "price": 3270,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50425,
+    "article": "PRICE1-50426",
+    "name": "МТ3201 скоба для крепления антенны на багажник",
+    "fullName": "МТ3201 скоба для крепления антенны на багажник",
+    "price": 6540,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50426,
+    "article": "PRICE1-50427",
+    "name": "AC504X Скоба для крепления антенны на зеркало или мачту",
+    "fullName": "AC504X Скоба для крепления антенны на зеркало или мачту",
+    "price": 8502,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50427,
+    "article": "PRICE1-50428",
+    "name": "TR606 Cкоба для крепления антенны на водосток",
+    "fullName": "TR606 Cкоба для крепления антенны на водосток",
+    "price": 8829,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50428,
+    "article": "PRICE1-50429",
+    "name": "KF Black Sirio Скоба для крепления антенны на водосток",
+    "fullName": "KF Black Sirio Скоба для крепления антенны на водосток",
+    "price": 9538,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50429,
+    "article": "PRICE1-50430",
+    "name": "MT3301 Cкоба для крепления антенны на водосток поворотная",
+    "fullName": "MT3301 Cкоба для крепления антенны на водосток поворотная",
+    "price": 9810,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50430,
+    "article": "PRICE1-50431",
+    "name": "MT3203 Cкоба для крепления антенны на багажник поворотная",
+    "fullName": "MT3203 Cкоба для крепления антенны на багажник поворотная",
+    "price": 9810,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50431,
+    "article": "PRICE1-50432",
+    "name": "MT3202 Cкоба для крепления антенны на водосток поворотная",
+    "fullName": "MT3202 Cкоба для крепления антенны на водосток поворотная",
+    "price": 10464,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Кабели",
+    "code": 50432,
+    "article": "PRICE1-50433",
+    "name": "Кабель питания зарядного устройcтва от прикуривателя PT260/EM9735/PX358/AT288/AT289/AT3318/AT3308",
+    "fullName": "Кабель питания зарядного устройcтва от прикуривателя PT260/EM9735/PX358/AT288/AT289/AT3318/AT3308",
+    "price": 3924,
+    "category": "radio-equipment",
+    "subcategory": "cables"
+  },
+  {
+    "category_raw": "Кабели",
+    "code": 50433,
+    "article": "PRICE1-50434",
+    "name": "Кабель питания зарядного устройства от прикуривателя 12/24V - 8.4V для р/с Baofeng",
+    "fullName": "Кабель питания зарядного устройства от прикуривателя 12/24V - 8.4V для р/с Baofeng",
+    "price": 3924,
+    "category": "radio-equipment",
+    "subcategory": "cables"
+  },
+  {
+    "category_raw": "Кабели",
+    "code": 50434,
+    "article": "PRICE1-50435",
+    "name": "Кабель CPL-03 для прямой зарядки AT-298/AT-398/AT398UV от прикуривателя",
+    "fullName": "Кабель CPL-03 для прямой зарядки AT-298/AT-398/AT398UV от прикуривателя",
+    "price": 4088,
+    "category": "radio-equipment",
+    "subcategory": "cables"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50435,
+    "article": "PRICE1-50436",
+    "name": "Адаптер АС-USB для LUITON LT-316",
+    "fullName": "Адаптер АС-USB для LUITON LT-316",
+    "price": 2316,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Зарядные устройства",
+    "code": 50436,
+    "article": "PRICE1-50437",
+    "name": "Зарядное устройство (стакан) для LUITON LT-316 (без АС адаптера)",
+    "fullName": "Зарядное устройство (стакан) для LUITON LT-316 (без АС адаптера)",
+    "price": 3205,
+    "category": "radio-equipment",
+    "subcategory": "chargers"
+  },
+  {
+    "category_raw": "Зарядные устройства",
+    "code": 50437,
+    "article": "PRICE1-50438",
+    "name": "Зарядное устройство CH-5 для Baofeng UV-5R",
+    "fullName": "Зарядное устройство CH-5 для Baofeng UV-5R",
+    "price": 8175,
+    "category": "radio-equipment",
+    "subcategory": "chargers"
+  },
+  {
+    "category_raw": "Зарядные устройства",
+    "code": 50438,
+    "article": "PRICE1-50439",
+    "name": "Зарядное устройство (стакан) для StarNet S-200",
+    "fullName": "Зарядное устройство (стакан) для StarNet S-200",
+    "price": 7548,
+    "category": "radio-equipment",
+    "subcategory": "chargers"
+  },
+  {
+    "category_raw": "Зарядные устройства",
+    "code": 50439,
+    "article": "PRICE1-50440",
+    "name": "Зарядное устройство (стакан) для StarNet S-400",
+    "fullName": "Зарядное устройство (стакан) для StarNet S-400",
+    "price": 9810,
+    "category": "radio-equipment",
+    "subcategory": "chargers"
+  },
+  {
+    "category_raw": "Зарядные устройства",
+    "code": 50440,
+    "article": "PRICE1-50441",
+    "name": "Зарядное устройство (стакан) для PT-260",
+    "fullName": "Зарядное устройство (стакан) для PT-260",
+    "price": 9810,
+    "category": "radio-equipment",
+    "subcategory": "chargers"
+  },
+  {
+    "category_raw": "Зарядные устройства",
+    "code": 50441,
+    "article": "PRICE1-50442",
+    "name": "Зарядное устройство (стакан) для AT-518 3.7V",
+    "fullName": "Зарядное устройство (стакан) для AT-518 3.7V",
+    "price": 9810,
+    "category": "radio-equipment",
+    "subcategory": "chargers"
+  },
+  {
+    "category_raw": "Зарядные устройства",
+    "code": 50442,
+    "article": "PRICE1-50443",
+    "name": "Зарядное устройство (стакан) для AT-3208Plus, AT-518 TURBO 7.4V",
+    "fullName": "Зарядное устройство (стакан) для AT-3208Plus, AT-518 TURBO 7.4V",
+    "price": 9810,
+    "category": "radio-equipment",
+    "subcategory": "chargers"
+  },
+  {
+    "category_raw": "Зарядные устройства",
+    "code": 50443,
+    "article": "PRICE1-50444",
+    "name": "Зарядное устройство (стакан) для TG-1680",
+    "fullName": "Зарядное устройство (стакан) для TG-1680",
+    "price": 11445,
+    "category": "radio-equipment",
+    "subcategory": "chargers"
+  },
+  {
+    "category_raw": "Зарядные устройства",
+    "code": 50444,
+    "article": "PRICE1-50445",
+    "name": "Зарядное устройство (стакан) для LT-199H",
+    "fullName": "Зарядное устройство (стакан) для LT-199H",
+    "price": 11445,
+    "category": "radio-equipment",
+    "subcategory": "chargers"
+  },
+  {
+    "category_raw": "Зарядные устройства",
+    "code": 50445,
+    "article": "PRICE1-50446",
+    "name": "Зарядное устройство (стакан) для ЕМ-9735",
+    "fullName": "Зарядное устройство (стакан) для ЕМ-9735",
+    "price": 11445,
+    "category": "radio-equipment",
+    "subcategory": "chargers"
+  },
+  {
+    "category_raw": "Зарядные устройства",
+    "code": 50446,
+    "article": "PRICE1-50447",
+    "name": "Зарядное устройство (стакан) для AT-288/289",
+    "fullName": "Зарядное устройство (стакан) для AT-288/289",
+    "price": 11445,
+    "category": "radio-equipment",
+    "subcategory": "chargers"
+  },
+  {
+    "category_raw": "Зарядные устройства",
+    "code": 50447,
+    "article": "PRICE1-50448",
+    "name": "Зарядное устройство (стакан) для Kirisun T60. T65",
+    "fullName": "Зарядное устройство (стакан) для Kirisun T60. T65",
+    "price": 12862,
+    "category": "radio-equipment",
+    "subcategory": "chargers"
+  },
+  {
+    "category_raw": "Зарядные устройства",
+    "code": 50448,
+    "article": "PRICE1-50449",
+    "name": "Групповое зарядное устройство на 6 аккумуляторов для Luiton LT-316",
+    "fullName": "Групповое зарядное устройство на 6 аккумуляторов для Luiton LT-316",
+    "price": 19075,
+    "category": "radio-equipment",
+    "subcategory": "chargers"
+  },
+  {
+    "category_raw": "Зарядные устройства",
+    "code": 50449,
+    "article": "PRICE1-50450",
+    "name": "Групповое зарядное устройство на 8 аккумуляторов LiIon QB-28L/KNB-29",
+    "fullName": "Групповое зарядное устройство на 8 аккумуляторов LiIon QB-28L/KNB-29",
+    "price": 33518,
+    "category": "radio-equipment",
+    "subcategory": "chargers"
+  },
+  {
+    "category_raw": "Зарядные устройства",
+    "code": 50450,
+    "article": "PRICE1-50451",
+    "name": "Зарядное устройство ABC-1210D 12 Вольт 10 Ампер, автоматическое, до 100Ач, гарантия 1 год",
+    "fullName": "Зарядное устройство ABC-1210D 12 Вольт 10 Ампер, автоматическое, до 100Ач, гарантия 1 год",
+    "price": 45540,
+    "category": "radio-equipment",
+    "subcategory": "chargers"
+  },
+  {
+    "category_raw": "Зарядные устройства",
+    "code": 50451,
+    "article": "PRICE1-50452",
+    "name": "Зарядное устройство ABC-1220D 12 Вольт 20 Ампер, автоматическое, до 200Ач, гарантия 1 год",
+    "fullName": "Зарядное устройство ABC-1220D 12 Вольт 20 Ампер, автоматическое, до 200Ач, гарантия 1 год",
+    "price": 62168,
+    "category": "radio-equipment",
+    "subcategory": "chargers"
+  },
+  {
+    "category_raw": "Кабели",
+    "code": 50452,
+    "article": "PRICE1-50453",
+    "name": "Кабель коаксиальный Teleconn RG-6 65% 75 Ом",
+    "fullName": "Кабель коаксиальный Teleconn RG-6 65% 75 Ом",
+    "price": 120,
+    "category": "radio-equipment",
+    "subcategory": "cables"
+  },
+  {
+    "category_raw": "Кабели",
+    "code": 50453,
+    "article": "PRICE1-50454",
+    "name": "Кабель коаксиальный Teleconn RG-58U 50 Ом",
+    "fullName": "Кабель коаксиальный Teleconn RG-58U 50 Ом",
+    "price": 523,
+    "category": "radio-equipment",
+    "subcategory": "cables"
+  },
+  {
+    "category_raw": "Кабели",
+    "code": 50454,
+    "article": "PRICE1-50455",
+    "name": "Кабель коаксиальный Teleconn 5D-FB 50 Ом",
+    "fullName": "Кабель коаксиальный Teleconn 5D-FB 50 Ом",
+    "price": 1036,
+    "category": "radio-equipment",
+    "subcategory": "cables"
+  },
+  {
+    "category_raw": "Кабели",
+    "code": 50455,
+    "article": "PRICE1-50456",
+    "name": "Кабель коаксиальный Teleconn RG-213U 50 Ом",
+    "fullName": "Кабель коаксиальный Teleconn RG-213U 50 Ом",
+    "price": 1880,
+    "category": "radio-equipment",
+    "subcategory": "cables"
+  },
+  {
+    "category_raw": "Кабели",
+    "code": 50456,
+    "article": "PRICE1-50457",
+    "name": "Кабель коаксиальный Teleconn RG-214 50 Ом",
+    "fullName": "Кабель коаксиальный Teleconn RG-214 50 Ом",
+    "price": 2158,
+    "category": "radio-equipment",
+    "subcategory": "cables"
+  },
+  {
+    "category_raw": "Кабели",
+    "code": 50457,
+    "article": "PRICE1-50458",
+    "name": "Кабель коаксиальный Teleconn LMR-400 50 Ом",
+    "fullName": "Кабель коаксиальный Teleconn LMR-400 50 Ом",
+    "price": 1597,
+    "category": "radio-equipment",
+    "subcategory": "cables"
+  },
+  {
+    "category_raw": "Кабели",
+    "code": 50458,
+    "article": "PRICE1-50459",
+    "name": "Кабель коаксиальный Teleconn 8D-FB 50 Ом",
+    "fullName": "Кабель коаксиальный Teleconn 8D-FB 50 Ом",
+    "price": 1809,
+    "category": "radio-equipment",
+    "subcategory": "cables"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50459,
+    "article": "PRICE1-50460",
+    "name": "PC-1 USB кабель для программирования радиостанций AnyTone/Climbmax/Kirisan/Kenwood",
+    "fullName": "PC-1 USB кабель для программирования радиостанций AnyTone/Climbmax/Kirisan/Kenwood",
+    "price": 14715,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50460,
+    "article": "PRICE1-50461",
+    "name": "PC-2 USB кабель для программирования радиостанций HYT TC-320/AnyTone AT-5289",
+    "fullName": "PC-2 USB кабель для программирования радиостанций HYT TC-320/AnyTone AT-5289",
+    "price": 14715,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50461,
+    "article": "PRICE1-50462",
+    "name": "PC-3 USB кабель для программирования радиостанций AnyTone AT-5189/ST-5189",
+    "fullName": "PC-3 USB кабель для программирования радиостанций AnyTone AT-5189/ST-5189",
+    "price": 17985,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50462,
+    "article": "PRICE1-50463",
+    "name": "PC-4 USB кабель для программирования радиостанций AnyTone AT-5555",
+    "fullName": "PC-4 USB кабель для программирования радиостанций AnyTone AT-5555",
+    "price": 12099,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50463,
+    "article": "PRICE1-50464",
+    "name": "USB кабель для программирования радиостанций Puxing PX-2R",
+    "fullName": "USB кабель для программирования радиостанций Puxing PX-2R",
+    "price": 12099,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50464,
+    "article": "PRICE1-50465",
+    "name": "ANTA-823 измеритель КСВ 25-30МГц 10Вт",
+    "fullName": "ANTA-823 измеритель КСВ 25-30МГц 10Вт",
+    "price": 11772,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50465,
+    "article": "PRICE1-50466",
+    "name": "Эквивалент нагрузки DL-30A  0-500МГц 15Вт/100Вт",
+    "fullName": "Эквивалент нагрузки DL-30A  0-500МГц 15Вт/100Вт",
+    "price": 20209,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50466,
+    "article": "PRICE1-50467",
+    "name": "Эквивалент нагрузки 0-3ГГЦ 25Вт N-типа",
+    "fullName": "Эквивалент нагрузки 0-3ГГЦ 25Вт N-типа",
+    "price": 19620,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50467,
+    "article": "PRICE1-50468",
+    "name": "LEIXEN N8 частотомер портативный 1-1000МГц, гарантия 1 месяц",
+    "fullName": "LEIXEN N8 частотомер портативный 1-1000МГц, гарантия 1 месяц",
+    "price": 26978,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50468,
+    "article": "PRICE1-50469",
+    "name": "NISSEI RS-40 измеритель КСВ и мощности 140-150/430-450МГц  15/60/200Вт, гарантия 1 год",
+    "fullName": "NISSEI RS-40 измеритель КСВ и мощности 140-150/430-450МГц  15/60/200Вт, гарантия 1 год",
+    "price": 32428,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50469,
+    "article": "PRICE1-50470",
+    "name": "NISSEI RS-27 измеритель КСВ и мощности 26-30МГц 10/100/1000Вт, гарантия 1 год",
+    "fullName": "NISSEI RS-27 измеритель КСВ и мощности 26-30МГц 10/100/1000Вт, гарантия 1 год",
+    "price": 33790,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50470,
+    "article": "PRICE1-50471",
+    "name": "NISSEI RX-103 измеритель КСВ и мощности 1.6-60МГц 20/200/2000Вт, гарантия 1 год",
+    "fullName": "NISSEI RX-103 измеритель КСВ и мощности 1.6-60МГц 20/200/2000Вт, гарантия 1 год",
+    "price": 64038,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50471,
+    "article": "PRICE1-50472",
+    "name": "NISSEI RX-203 измеритель КСВ и мощности 1.8-200МГц 2/20/200Вт, гарантия 1 год",
+    "fullName": "NISSEI RX-203 измеритель КСВ и мощности 1.8-200МГц 2/20/200Вт, гарантия 1 год",
+    "price": 64583,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50472,
+    "article": "PRICE1-50473",
+    "name": "NISSEI RX-403 измеритель КСВ и мощности 125-525МГц 2/20/200Вт, гарантия 1 год",
+    "fullName": "NISSEI RX-403 измеритель КСВ и мощности 125-525МГц 2/20/200Вт, гарантия 1 год",
+    "price": 64583,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50473,
+    "article": "PRICE1-50474",
+    "name": "NISSEI RX-503 измеритель КСВ и мощности 1.8-525МГц 2/20/200Вт, гарантия 1 год",
+    "fullName": "NISSEI RX-503 измеритель КСВ и мощности 1.8-525МГц 2/20/200Вт, гарантия 1 год",
+    "price": 91833,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50474,
+    "article": "PRICE1-50475",
+    "name": "NISSEI DG-503 измеритель КСВ и мощности цифровой 1.8-525МГц 2/20/200Вт, гарантия 1 год",
+    "fullName": "NISSEI DG-503 измеритель КСВ и мощности цифровой 1.8-525МГц 2/20/200Вт, гарантия 1 год",
+    "price": 106956,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50475,
+    "article": "PRICE1-50476",
+    "name": "NISSEI DG-503 MAX измеритель КСВ и мощности цифровой (аналоговые+DMR) 1.8-525МГц 2/20/200Вт, гарантия 1 год",
+    "fullName": "NISSEI DG-503 MAX измеритель КСВ и мощности цифровой (аналоговые+DMR) 1.8-525МГц 2/20/200Вт, гарантия 1 год",
+    "price": 126435,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50476,
+    "article": "PRICE1-50477",
+    "name": "NISSEI NS-60A антенный анализатор 0.5-60МГц, гарантия 1 год",
+    "fullName": "NISSEI NS-60A антенный анализатор 0.5-60МГц, гарантия 1 год",
+    "price": 246569,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50477,
+    "article": "PRICE1-50478",
+    "name": "NISSEI NS-520A антенный анализатор 133-177/195-280/395-520МГц, гарантия 1 год",
+    "fullName": "NISSEI NS-520A антенный анализатор 133-177/195-280/395-520МГц, гарантия 1 год",
+    "price": 282272,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50478,
+    "article": "PRICE1-50479",
+    "name": "Чехол силиконовый для анализаторов RigExpert AA-650, AA-1500, AA-2000, AA-3000",
+    "fullName": "Чехол силиконовый для анализаторов RigExpert AA-650, AA-1500, AA-2000, AA-3000",
+    "price": 12535,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50479,
+    "article": "PRICE1-50480",
+    "name": "RigExpert AA-30.ZERO антенный анализатор 0.06-30МГц, гарантия 1 год",
+    "fullName": "RigExpert AA-30.ZERO антенный анализатор 0.06-30МГц, гарантия 1 год",
+    "price": 50525,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50480,
+    "article": "PRICE1-50481",
+    "name": "RigExpert AA-35 ZOOM антенный анализатор 0.06-35МГц, гарантия 1 год",
+    "fullName": "RigExpert AA-35 ZOOM антенный анализатор 0.06-35МГц, гарантия 1 год",
+    "price": 170979,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50481,
+    "article": "PRICE1-50482",
+    "name": "RigExpert AA-55 ZOOM антенный анализатор 0.06-55МГц, гарантия 1 год",
+    "fullName": "RigExpert AA-55 ZOOM антенный анализатор 0.06-55МГц, гарантия 1 год",
+    "price": 221101,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50482,
+    "article": "PRICE1-50483",
+    "name": "RigExpert Stick Pro антенный анализатор 0.1-600МГц, гарантия 1 год",
+    "fullName": "RigExpert Stick Pro антенный анализатор 0.1-600МГц, гарантия 1 год",
+    "price": 292343,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50483,
+    "article": "PRICE1-50484",
+    "name": "RigExpert MATCH антенный анализатор 0.1-70МГц, гарантия 1 год",
+    "fullName": "RigExpert MATCH антенный анализатор 0.1-70МГц, гарантия 1 год",
+    "price": 294480,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50484,
+    "article": "PRICE1-50485",
+    "name": "RigExpert MATCH ADVANCED антенный анализатор 0.1-230МГц, гарантия 1 год",
+    "fullName": "RigExpert MATCH ADVANCED антенный анализатор 0.1-230МГц, гарантия 1 год",
+    "price": 371968,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50485,
+    "article": "PRICE1-50486",
+    "name": "Rigexpert AA-650 ZOOM антенный анализатор 0.1-650МГц, гарантия 1 год",
+    "fullName": "Rigexpert AA-650 ZOOM антенный анализатор 0.1-650МГц, гарантия 1 год",
+    "price": 527195,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50486,
+    "article": "PRICE1-50487",
+    "name": "Rigexpert AA-1500 ZOOM антенный анализатор 0.1-1500МГц, гарантия 1 год",
+    "fullName": "Rigexpert AA-1500 ZOOM антенный анализатор 0.1-1500МГц, гарантия 1 год",
+    "price": 676618,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50487,
+    "article": "PRICE1-50488",
+    "name": "RigExpert AA-2000 ZOOM антенный анализатор 0.1-2000МГц, гарантия 1 год",
+    "fullName": "RigExpert AA-2000 ZOOM антенный анализатор 0.1-2000МГц, гарантия 1 год",
+    "price": 748285,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50488,
+    "article": "PRICE1-50489",
+    "name": "Грозоразрядник 0-6ГГц 50Вт N/F-N/M 50Ом",
+    "fullName": "Грозоразрядник 0-6ГГц 50Вт N/F-N/M 50Ом",
+    "price": 18312,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50489,
+    "article": "PRICE1-50490",
+    "name": "Грозоразрядник 0-6ГГц 50Вт UHF/F-UHF/M 50Ом",
+    "fullName": "Грозоразрядник 0-6ГГц 50Вт UHF/F-UHF/M 50Ом",
+    "price": 18312,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50490,
+    "article": "PRICE1-50491",
+    "name": "Чехол для рации универсальный",
+    "fullName": "Чехол для рации универсальный",
+    "price": 4905,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50491,
+    "article": "PRICE1-50492",
+    "name": "Чехол кожаный для PX-359/EM-9735",
+    "fullName": "Чехол кожаный для PX-359/EM-9735",
+    "price": 3815,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50492,
+    "article": "PRICE1-50493",
+    "name": "MIX27 антенный разветвитель (CB/автомагнитола)",
+    "fullName": "MIX27 антенный разветвитель (CB/автомагнитола)",
+    "price": 14715,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Коннекторы",
+    "code": 50493,
+    "article": "PRICE1-50494",
+    "name": "Переходник N(M)-F(F) для кабеля RG-6U",
+    "fullName": "Переходник N(M)-F(F) для кабеля RG-6U",
+    "price": 2725,
+    "category": "radio-equipment",
+    "subcategory": "connectors"
+  },
+  {
+    "category_raw": "Коннекторы",
+    "code": 50494,
+    "article": "PRICE1-50495",
+    "name": "Переходник N(M)-N(M)",
+    "fullName": "Переходник N(M)-N(M)",
+    "price": 2289,
+    "category": "radio-equipment",
+    "subcategory": "connectors"
+  },
+  {
+    "category_raw": "Коннекторы",
+    "code": 50495,
+    "article": "PRICE1-50496",
+    "name": "Переходник N(F)-N(F)",
+    "fullName": "Переходник N(F)-N(F)",
+    "price": 2289,
+    "category": "radio-equipment",
+    "subcategory": "connectors"
+  },
+  {
+    "category_raw": "Коннекторы",
+    "code": 50496,
+    "article": "PRICE1-50497",
+    "name": "Переходник TNC(M)-F(F) для кабеля RG-6U",
+    "fullName": "Переходник TNC(M)-F(F) для кабеля RG-6U",
+    "price": 2453,
+    "category": "radio-equipment",
+    "subcategory": "connectors"
+  },
+  {
+    "category_raw": "Коннекторы",
+    "code": 50497,
+    "article": "PRICE1-50498",
+    "name": "Переходник BNC(M)-N(F)",
+    "fullName": "Переходник BNC(M)-N(F)",
+    "price": 2289,
+    "category": "radio-equipment",
+    "subcategory": "connectors"
+  },
+  {
+    "category_raw": "Коннекторы",
+    "code": 50498,
+    "article": "PRICE1-50499",
+    "name": "Переходник BNC(M)-UHF(F)",
+    "fullName": "Переходник BNC(M)-UHF(F)",
+    "price": 2289,
+    "category": "radio-equipment",
+    "subcategory": "connectors"
+  },
+  {
+    "category_raw": "Коннекторы",
+    "code": 50499,
+    "article": "PRICE1-50500",
+    "name": "Переходник SMA-F/N-M",
+    "fullName": "Переходник SMA-F/N-M",
+    "price": 2289,
+    "category": "radio-equipment",
+    "subcategory": "connectors"
+  },
+  {
+    "category_raw": "Коннекторы",
+    "code": 50500,
+    "article": "PRICE1-50501",
+    "name": "Переходник SMA-F/N-F",
+    "fullName": "Переходник SMA-F/N-F",
+    "price": 2289,
+    "category": "radio-equipment",
+    "subcategory": "connectors"
+  },
+  {
+    "category_raw": "Коннекторы",
+    "code": 50501,
+    "article": "PRICE1-50502",
+    "name": "Переходник SMA-M/N-F",
+    "fullName": "Переходник SMA-M/N-F",
+    "price": 2289,
+    "category": "radio-equipment",
+    "subcategory": "connectors"
+  },
+  {
+    "category_raw": "Коннекторы",
+    "code": 50502,
+    "article": "PRICE1-50503",
+    "name": "Переходник SMA-F/UHF-F",
+    "fullName": "Переходник SMA-F/UHF-F",
+    "price": 2289,
+    "category": "radio-equipment",
+    "subcategory": "connectors"
+  },
+  {
+    "category_raw": "Коннекторы",
+    "code": 50503,
+    "article": "PRICE1-50504",
+    "name": "Переходник SMA-M/UHF-F",
+    "fullName": "Переходник SMA-M/UHF-F",
+    "price": 2289,
+    "category": "radio-equipment",
+    "subcategory": "connectors"
+  },
+  {
+    "category_raw": "Коннекторы",
+    "code": 50504,
+    "article": "PRICE1-50505",
+    "name": "Переходник SMA-M/F-F SF-312 (SMA-male - F-female), прямой для кабеля RG-6U",
+    "fullName": "Переходник SMA-M/F-F SF-312 (SMA-male - F-female), прямой для кабеля RG-6U",
+    "price": 2600,
+    "category": "radio-equipment",
+    "subcategory": "connectors"
+  },
+  {
+    "category_raw": "Коннекторы",
+    "code": 50505,
+    "article": "PRICE1-50506",
+    "name": "Коннектор F(M) для кабеля RG-6U",
+    "fullName": "Коннектор F(M) для кабеля RG-6U",
+    "price": 273,
+    "category": "radio-equipment",
+    "subcategory": "connectors"
+  },
+  {
+    "category_raw": "Коннекторы",
+    "code": 50506,
+    "article": "PRICE1-50507",
+    "name": "Коннектор N(M) типа для кабеля LMR400/7D-FB под обжим",
+    "fullName": "Коннектор N(M) типа для кабеля LMR400/7D-FB под обжим",
+    "price": 1929,
+    "category": "radio-equipment",
+    "subcategory": "connectors"
+  },
+  {
+    "category_raw": "Коннекторы",
+    "code": 50507,
+    "article": "PRICE1-50508",
+    "name": "Коннектор N(M) типа для кабеля LMR400/7D-FB под пайку",
+    "fullName": "Коннектор N(M) типа для кабеля LMR400/7D-FB под пайку",
+    "price": 2180,
+    "category": "radio-equipment",
+    "subcategory": "connectors"
+  },
+  {
+    "category_raw": "Коннекторы",
+    "code": 50508,
+    "article": "PRICE1-50509",
+    "name": "Коннектор N(F) типа для кабеля LMR400/7D-FB под пайку",
+    "fullName": "Коннектор N(F) типа для кабеля LMR400/7D-FB под пайку",
+    "price": 2180,
+    "category": "radio-equipment",
+    "subcategory": "connectors"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50509,
+    "article": "PRICE1-50510",
+    "name": "PL259 разъем для кабеля RG-213 под пайку",
+    "fullName": "PL259 разъем для кабеля RG-213 под пайку",
+    "price": 2180,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Коннекторы",
+    "code": 50510,
+    "article": "PRICE1-50511",
+    "name": "Коннектор BNC (M) для кабеля  RG213, RG214, LMR400, RG8 под пайку",
+    "fullName": "Коннектор BNC (M) для кабеля  RG213, RG214, LMR400, RG8 под пайку",
+    "price": 1635,
+    "category": "radio-equipment",
+    "subcategory": "connectors"
+  },
+  {
+    "category_raw": "Коннекторы",
+    "code": 50511,
+    "article": "PRICE1-50512",
+    "name": "Коннектор TNC (M) для кабеля  RG213, RG214, LMR400, RG8 под пайку",
+    "fullName": "Коннектор TNC (M) для кабеля  RG213, RG214, LMR400, RG8 под пайку",
+    "price": 1635,
+    "category": "radio-equipment",
+    "subcategory": "connectors"
+  },
+  {
+    "category_raw": "Коннекторы",
+    "code": 50512,
+    "article": "PRICE1-50513",
+    "name": "Коннектор N(M) типа для кабеля RG58 под пайку",
+    "fullName": "Коннектор N(M) типа для кабеля RG58 под пайку",
+    "price": 1635,
+    "category": "radio-equipment",
+    "subcategory": "connectors"
+  },
+  {
+    "category_raw": "Коннекторы",
+    "code": 50513,
+    "article": "PRICE1-50514",
+    "name": "Коннектор N(M) типа для кабеля RG58 под обжим",
+    "fullName": "Коннектор N(M) типа для кабеля RG58 под обжим",
+    "price": 1417,
+    "category": "radio-equipment",
+    "subcategory": "connectors"
+  },
+  {
+    "category_raw": "Коннекторы",
+    "code": 50514,
+    "article": "PRICE1-50515",
+    "name": "Коннектор SMA(M) типа для кабеля RG58 под обжим",
+    "fullName": "Коннектор SMA(M) типа для кабеля RG58 под обжим",
+    "price": 1090,
+    "category": "radio-equipment",
+    "subcategory": "connectors"
+  },
+  {
+    "category_raw": "Коннекторы",
+    "code": 50515,
+    "article": "PRICE1-50516",
+    "name": "Коннектор SMA(F) типа для кабеля RG58 под обжим",
+    "fullName": "Коннектор SMA(F) типа для кабеля RG58 под обжим",
+    "price": 1090,
+    "category": "radio-equipment",
+    "subcategory": "connectors"
+  },
+  {
+    "category_raw": "Коннекторы",
+    "code": 50516,
+    "article": "PRICE1-50517",
+    "name": "Коннектор FME(F) типа для кабеля RG58 под обжим",
+    "fullName": "Коннектор FME(F) типа для кабеля RG58 под обжим",
+    "price": 1090,
+    "category": "radio-equipment",
+    "subcategory": "connectors"
+  },
+  {
+    "category_raw": "Коннекторы",
+    "code": 50517,
+    "article": "PRICE1-50518",
+    "name": "Коннектор BNC (M) для кабеля RG58 под обжим",
+    "fullName": "Коннектор BNC (M) для кабеля RG58 под обжим",
+    "price": 1090,
+    "category": "radio-equipment",
+    "subcategory": "connectors"
+  },
+  {
+    "category_raw": "Коннекторы",
+    "code": 50518,
+    "article": "PRICE1-50519",
+    "name": "Коннектор TNC (M) для кабеля RG58 под обжим",
+    "fullName": "Коннектор TNC (M) для кабеля RG58 под обжим",
+    "price": 1090,
+    "category": "radio-equipment",
+    "subcategory": "connectors"
+  },
+  {
+    "category_raw": "Коннекторы",
+    "code": 50519,
+    "article": "PRICE1-50520",
+    "name": "Коннектор BNC (M) для кабеля RG58 под пайку",
+    "fullName": "Коннектор BNC (M) для кабеля RG58 под пайку",
+    "price": 1363,
+    "category": "radio-equipment",
+    "subcategory": "connectors"
+  },
+  {
+    "category_raw": "Прочие",
+    "code": 50520,
+    "article": "PRICE1-50521",
+    "name": "PL259 разъем для кабеля RG-58 под пайку",
+    "fullName": "PL259 разъем для кабеля RG-58 под пайку",
+    "price": 1635,
+    "category": "other",
+    "subcategory": "other"
+  }
+]

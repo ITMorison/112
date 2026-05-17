@@ -1,0 +1,3092 @@
+[
+  {
+    "category_raw": "Шкафы климатические",
+    "code": 60000,
+    "article": "PRICE2-60001",
+    "name": "Шкаф климатический Neolan 6Uх600х450 IP55",
+    "fullName": "Шкаф климатический Neolan 6Uх600х450 IP55",
+    "price": 198927,
+    "category": "kabelnye-sistemy",
+    "subcategory": "telekommunikacionnye-shkafy"
+  },
+  {
+    "category_raw": "Шкафы климатические",
+    "code": 60001,
+    "article": "PRICE2-60002",
+    "name": "Шкаф климатический Neolan 6Uх600х600 IP55",
+    "fullName": "Шкаф климатический Neolan 6Uх600х600 IP55",
+    "price": 224037,
+    "category": "kabelnye-sistemy",
+    "subcategory": "telekommunikacionnye-shkafy"
+  },
+  {
+    "category_raw": "Шкафы климатические",
+    "code": 60002,
+    "article": "PRICE2-60003",
+    "name": "Шкаф климатический Neolan 9Uх600х450 IP55",
+    "fullName": "Шкаф климатический Neolan 9Uх600х450 IP55",
+    "price": 219294,
+    "category": "kabelnye-sistemy",
+    "subcategory": "telekommunikacionnye-shkafy"
+  },
+  {
+    "category_raw": "Шкафы климатические",
+    "code": 60003,
+    "article": "PRICE2-60004",
+    "name": "Шкаф климатический Neolan 9Uх600х600 IP55",
+    "fullName": "Шкаф климатический Neolan 9Uх600х600 IP55",
+    "price": 249147,
+    "category": "kabelnye-sistemy",
+    "subcategory": "telekommunikacionnye-shkafy"
+  },
+  {
+    "category_raw": "Шкафы климатические",
+    "code": 60004,
+    "article": "PRICE2-60005",
+    "name": "Шкаф климатический Neolan 12Uх600х450 IP55",
+    "fullName": "Шкаф климатический Neolan 12Uх600х450 IP55",
+    "price": 241800,
+    "category": "kabelnye-sistemy",
+    "subcategory": "telekommunikacionnye-shkafy"
+  },
+  {
+    "category_raw": "Шкафы климатические",
+    "code": 60005,
+    "article": "PRICE2-60006",
+    "name": "Шкаф климатический Neolan 12Uх600х600 IP55",
+    "fullName": "Шкаф климатический Neolan 12Uх600х600 IP55",
+    "price": 277791,
+    "category": "kabelnye-sistemy",
+    "subcategory": "telekommunikacionnye-shkafy"
+  },
+  {
+    "category_raw": "Шкафы климатические",
+    "code": 60006,
+    "article": "PRICE2-60007",
+    "name": "Шкаф климатический Neolan 15Uх600х450 IP55",
+    "fullName": "Шкаф климатический Neolan 15Uх600х450 IP55",
+    "price": 264678,
+    "category": "kabelnye-sistemy",
+    "subcategory": "telekommunikacionnye-shkafy"
+  },
+  {
+    "category_raw": "Шкафы климатические",
+    "code": 60007,
+    "article": "PRICE2-60008",
+    "name": "Шкаф климатический Neolan 15Uх600х600 IP55",
+    "fullName": "Шкаф климатический Neolan 15Uх600х600 IP55",
+    "price": 299739,
+    "category": "kabelnye-sistemy",
+    "subcategory": "telekommunikacionnye-shkafy"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60008,
+    "article": "PRICE2-60009",
+    "name": "Кабель оптический Flex FTTx 1 волокна, черный (0,250 кН, G.657.A2)",
+    "fullName": "Кабель оптический Flex FTTx 1 волокна, черный (0,250 кН, G.657.A2)",
+    "price": 596907,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60009,
+    "article": "PRICE2-60010",
+    "name": "Кабель FTTH-1-G.657.A1-FRP-0,08kN черный",
+    "fullName": "Кабель FTTH-1-G.657.A1-FRP-0,08kN черный",
+    "price": 499018,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60010,
+    "article": "PRICE2-60011",
+    "name": "Кабель FTTH-2-G.657.A1-FRP-0,08kN черный",
+    "fullName": "Кабель FTTH-2-G.657.A1-FRP-0,08kN черный",
+    "price": 499017,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60011,
+    "article": "PRICE2-60012",
+    "name": "Кабель FTTH-1-G.657.A1-FRP-0,08kN белый",
+    "fullName": "Кабель FTTH-1-G.657.A1-FRP-0,08kN белый",
+    "price": 499016,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60012,
+    "article": "PRICE2-60013",
+    "name": "Кабель FTTH-1-G.657.A2-FRP-0,08kN белый",
+    "fullName": "Кабель FTTH-1-G.657.A2-FRP-0,08kN белый",
+    "price": 125749,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60013,
+    "article": "PRICE2-60014",
+    "name": "Кабель FTTH-SC-1-G.657.A1-FRP-0,9kN черный",
+    "fullName": "Кабель FTTH-SC-1-G.657.A1-FRP-0,9kN черный",
+    "price": 499015,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60014,
+    "article": "PRICE2-60015",
+    "name": "Кабель FTTH-SC-2-G.657.A1-FRP-0,9kN черный",
+    "fullName": "Кабель FTTH-SC-2-G.657.A1-FRP-0,9kN черный",
+    "price": 499024,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60015,
+    "article": "PRICE2-60016",
+    "name": "Кабель FTTH-SC-2-G.657.A1-FRP-0,9kN черный (бухта 2 км)",
+    "fullName": "Кабель FTTH-SC-2-G.657.A1-FRP-0,9kN черный (бухта 2 км)",
+    "price": 499024,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60016,
+    "article": "PRICE2-60017",
+    "name": "Кабель FTTH-SC-4-G.657.A1-FRP-0,9kN черный",
+    "fullName": "Кабель FTTH-SC-4-G.657.A1-FRP-0,9kN черный",
+    "price": 499025,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60017,
+    "article": "PRICE2-60018",
+    "name": "Кабель FTTH-SR-2-G.657.A1-FRP-1,2kN черный",
+    "fullName": "Кабель FTTH-SR-2-G.657.A1-FRP-1,2kN черный",
+    "price": 499026,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60018,
+    "article": "PRICE2-60019",
+    "name": "Кабель КС-FTTHD-1-G.652.D-UCF-0,4-4047",
+    "fullName": "Кабель КС-FTTHD-1-G.652.D-UCF-0,4-4047",
+    "price": 499788,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60019,
+    "article": "PRICE2-60020",
+    "name": "Кабель FTTHD-1-G.657.A1-FRP-0,33kN черный (1 км)",
+    "fullName": "Кабель FTTHD-1-G.657.A1-FRP-0,33kN черный (1 км)",
+    "price": 657412,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60020,
+    "article": "PRICE2-60021",
+    "name": "Кабель FTTHD-1-G.657.A1-FRP-0,7kN черный (1 км)",
+    "fullName": "Кабель FTTHD-1-G.657.A1-FRP-0,7kN черный (1 км)",
+    "price": 654781,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60021,
+    "article": "PRICE2-60022",
+    "name": "Кабель Drop-R-1-G.657.A1- FRP-1,0kN",
+    "fullName": "Кабель Drop-R-1-G.657.A1- FRP-1,0kN",
+    "price": 230770,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Зажимы",
+    "code": 60022,
+    "article": "PRICE2-60023",
+    "name": "Зажим анкерный ODWAC-22 для FTTH",
+    "fullName": "Зажим анкерный ODWAC-22 для FTTH",
+    "price": 232400,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Зажимы",
+    "code": 60023,
+    "article": "PRICE2-60024",
+    "name": "Зажим анкерный ODWAC-22",
+    "fullName": "Зажим анкерный ODWAC-22",
+    "price": 311008,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Зажимы",
+    "code": 60024,
+    "article": "PRICE2-60025",
+    "name": "Зажим анкерный ODWAC-22 для круглого ОК",
+    "fullName": "Зажим анкерный ODWAC-22 для круглого ОК",
+    "price": 230121,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Зажимы",
+    "code": 60025,
+    "article": "PRICE2-60026",
+    "name": "Зажим для FTTH кабеля и Drop-патчкордов",
+    "fullName": "Зажим для FTTH кабеля и Drop-патчкордов",
+    "price": 478095,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60026,
+    "article": "PRICE2-60027",
+    "name": "Кабель КС-ОКГнг-П-4-G.652.D-LSZH-10133",
+    "fullName": "Кабель КС-ОКГнг-П-4-G.652.D-LSZH-10133",
+    "price": 499662,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60027,
+    "article": "PRICE2-60028",
+    "name": "Кабель КС-ОКГнг-П-8-G.652.D-LSZH-10133",
+    "fullName": "Кабель КС-ОКГнг-П-8-G.652.D-LSZH-10133",
+    "price": 499663,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60028,
+    "article": "PRICE2-60029",
+    "name": "Кабель КС-ОКГнг-П-12-G.652.D-LSZH-10133",
+    "fullName": "Кабель КС-ОКГнг-П-12-G.652.D-LSZH-10133",
+    "price": 499664,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60029,
+    "article": "PRICE2-60030",
+    "name": "Кабель КС-ОКГнг-П-16-G.652.D-LSZH-10133",
+    "fullName": "Кабель КС-ОКГнг-П-16-G.652.D-LSZH-10133",
+    "price": 691330,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60030,
+    "article": "PRICE2-60031",
+    "name": "Кабель КС-ОКГнг-П-24-G.652.D-LSZH-10133",
+    "fullName": "Кабель КС-ОКГнг-П-24-G.652.D-LSZH-10133",
+    "price": 499021,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60031,
+    "article": "PRICE2-60032",
+    "name": "Кабель КС-ОКГО-П-2-G.652.D-1221",
+    "fullName": "Кабель КС-ОКГО-П-2-G.652.D-1221",
+    "price": 930887,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60032,
+    "article": "PRICE2-60033",
+    "name": "Кабель КС-ОКГО-П-2-G.652.D-1224",
+    "fullName": "Кабель КС-ОКГО-П-2-G.652.D-1224",
+    "price": 499262,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60033,
+    "article": "PRICE2-60034",
+    "name": "Кабель КС-ОКГО-П-4-G.652.D-CF-1,5-1209",
+    "fullName": "Кабель КС-ОКГО-П-4-G.652.D-CF-1,5-1209",
+    "price": 499682,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60034,
+    "article": "PRICE2-60035",
+    "name": "Кабель КС-ОКГО-П-4-G.652.D-1224",
+    "fullName": "Кабель КС-ОКГО-П-4-G.652.D-1224",
+    "price": 303309,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60035,
+    "article": "PRICE2-60036",
+    "name": "Кабель КС-ОКГО-П-8-G.652.D-CF-1,5-1209",
+    "fullName": "Кабель КС-ОКГО-П-8-G.652.D-CF-1,5-1209",
+    "price": 499685,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60036,
+    "article": "PRICE2-60037",
+    "name": "Кабель КС-ОКГО-П-8-G.652.D-1224",
+    "fullName": "Кабель КС-ОКГО-П-8-G.652.D-1224",
+    "price": 175243,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60037,
+    "article": "PRICE2-60038",
+    "name": "Кабель КС-ОКГО-П-12-G.652.D-1224",
+    "fullName": "Кабель КС-ОКГО-П-12-G.652.D-1224",
+    "price": 199958,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60038,
+    "article": "PRICE2-60039",
+    "name": "Кабель КС-ОКГО-П-16-G.652.D-1224",
+    "fullName": "Кабель КС-ОКГО-П-16-G.652.D-1224",
+    "price": 100254,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60039,
+    "article": "PRICE2-60040",
+    "name": "Кабель КС-ОКГО-П-16-G.652.D-1210",
+    "fullName": "Кабель КС-ОКГО-П-16-G.652.D-1210",
+    "price": 499688,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60040,
+    "article": "PRICE2-60041",
+    "name": "Кабель КС-ОКГО-П-24-G.652.D-1210",
+    "fullName": "Кабель КС-ОКГО-П-24-G.652.D-1210",
+    "price": 230014,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60041,
+    "article": "PRICE2-60042",
+    "name": "Кабель КС-ОКГО-П-24-G.652.D-1224",
+    "fullName": "Кабель КС-ОКГО-П-24-G.652.D-1224",
+    "price": 809908,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60042,
+    "article": "PRICE2-60043",
+    "name": "Кабель ОКГО-П-4-G.652.D-1,5",
+    "fullName": "Кабель ОКГО-П-4-G.652.D-1,5",
+    "price": 499678,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60043,
+    "article": "PRICE2-60044",
+    "name": "Кабель ОКГО-П-8-G.652.D-1,5",
+    "fullName": "Кабель ОКГО-П-8-G.652.D-1,5",
+    "price": 499679,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60044,
+    "article": "PRICE2-60045",
+    "name": "Кабель ОКГО-2-G.652.D-1,5",
+    "fullName": "Кабель ОКГО-2-G.652.D-1,5",
+    "price": 123796,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60045,
+    "article": "PRICE2-60046",
+    "name": "Кабель ОКГО-4-G.652.D-1,5",
+    "fullName": "Кабель ОКГО-4-G.652.D-1,5",
+    "price": 123795,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60046,
+    "article": "PRICE2-60047",
+    "name": "Кабель ОКГО-8-G.652.D-1,5",
+    "fullName": "Кабель ОКГО-8-G.652.D-1,5",
+    "price": 123794,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60047,
+    "article": "PRICE2-60048",
+    "name": "Кабель ОКГО-2-G.652.D-3,0",
+    "fullName": "Кабель ОКГО-2-G.652.D-3,0",
+    "price": 123793,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60048,
+    "article": "PRICE2-60049",
+    "name": "Кабель ОКГО-4-G.652.D-3,0",
+    "fullName": "Кабель ОКГО-4-G.652.D-3,0",
+    "price": 123797,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60049,
+    "article": "PRICE2-60050",
+    "name": "Кабель ОКГО-8-G.652.D-3,0",
+    "fullName": "Кабель ОКГО-8-G.652.D-3,0",
+    "price": 123798,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60050,
+    "article": "PRICE2-60051",
+    "name": "Кабель ОКГО-12-G.652.D-3,0",
+    "fullName": "Кабель ОКГО-12-G.652.D-3,0",
+    "price": 123799,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Зажимы",
+    "code": 60051,
+    "article": "PRICE2-60052",
+    "name": "Зажим анкерный ODWAC-22 для круглого ОК",
+    "fullName": "Зажим анкерный ODWAC-22 для круглого ОК",
+    "price": 230121,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Зажимы",
+    "code": 60052,
+    "article": "PRICE2-60053",
+    "name": "Зажим анкерный РА-500 (4-9 мм)",
+    "fullName": "Зажим анкерный РА-500 (4-9 мм)",
+    "price": 879994,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Зажимы",
+    "code": 60053,
+    "article": "PRICE2-60054",
+    "name": "Зажим натяжной универсальный 5-22мм (2х4-2х25)",
+    "fullName": "Зажим натяжной универсальный 5-22мм (2х4-2х25)",
+    "price": 230120,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Зажимы",
+    "code": 60054,
+    "article": "PRICE2-60055",
+    "name": "Зажим поддерживающий НС-8-12",
+    "fullName": "Зажим поддерживающий НС-8-12",
+    "price": 599738,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Зажимы",
+    "code": 60055,
+    "article": "PRICE2-60056",
+    "name": "Зажим спиральный натяжной НСО-4(6)-8,5/9,4",
+    "fullName": "Зажим спиральный натяжной НСО-4(6)-8,5/9,4",
+    "price": 127823,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Зажимы",
+    "code": 60056,
+    "article": "PRICE2-60057",
+    "name": "Зажим спиральный поддерживающий ПСО-8,5/9,5 с коушем",
+    "fullName": "Зажим спиральный поддерживающий ПСО-8,5/9,5 с коушем",
+    "price": 100937,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Зажимы",
+    "code": 60057,
+    "article": "PRICE2-60058",
+    "name": "Зажим спиральный натяжной НСО-5,6/6,5 (3) без коуша",
+    "fullName": "Зажим спиральный натяжной НСО-5,6/6,5 (3) без коуша",
+    "price": 100938,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Зажимы",
+    "code": 60058,
+    "article": "PRICE2-60059",
+    "name": "Зажим спиральный поддерживающий ПСО-5,6/6,5 (3) без коуша",
+    "fullName": "Зажим спиральный поддерживающий ПСО-5,6/6,5 (3) без коуша",
+    "price": 100939,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60059,
+    "article": "PRICE2-60060",
+    "name": "Кабель КС-ОКТО-4-G.652.D-3209",
+    "fullName": "Кабель КС-ОКТО-4-G.652.D-3209",
+    "price": 599374,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60060,
+    "article": "PRICE2-60061",
+    "name": "Кабель КС-ОКТО-8-G.652.D-3209",
+    "fullName": "Кабель КС-ОКТО-8-G.652.D-3209",
+    "price": 599358,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60061,
+    "article": "PRICE2-60062",
+    "name": "Кабель КС-ОКТО-12-G.652.D-3209",
+    "fullName": "Кабель КС-ОКТО-12-G.652.D-3209",
+    "price": 599376,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60062,
+    "article": "PRICE2-60063",
+    "name": "Кабель КС-ОКТО-16-G.652.D-3209",
+    "fullName": "Кабель КС-ОКТО-16-G.652.D-3209",
+    "price": 327639,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Зажимы",
+    "code": 60063,
+    "article": "PRICE2-60064",
+    "name": "Зажим анкерный РА-05",
+    "fullName": "Зажим анкерный РА-05",
+    "price": 499224,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60064,
+    "article": "PRICE2-60065",
+    "name": "Кабель КС-ОКТО-12-G.652.D-CF-3210",
+    "fullName": "Кабель КС-ОКТО-12-G.652.D-CF-3210",
+    "price": 598700,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60065,
+    "article": "PRICE2-60066",
+    "name": "Кабель КС-ОКТО-4-G.652.D-3212",
+    "fullName": "Кабель КС-ОКТО-4-G.652.D-3212",
+    "price": 551311,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60066,
+    "article": "PRICE2-60067",
+    "name": "Кабель КС-ОКТО-8-G.652.D-3212",
+    "fullName": "Кабель КС-ОКТО-8-G.652.D-3212",
+    "price": 499757,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60067,
+    "article": "PRICE2-60068",
+    "name": "Кабель КС-ОКТО-12-G.652.D-3212",
+    "fullName": "Кабель КС-ОКТО-12-G.652.D-3212",
+    "price": 596875,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60068,
+    "article": "PRICE2-60069",
+    "name": "Кабель КС-ОКТО-16-G.652.D-3212",
+    "fullName": "Кабель КС-ОКТО-16-G.652.D-3212",
+    "price": 630774,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60069,
+    "article": "PRICE2-60070",
+    "name": "Кабель КС-ОКТО-24-G.652.D-3212",
+    "fullName": "Кабель КС-ОКТО-24-G.652.D-3212",
+    "price": 123932,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60070,
+    "article": "PRICE2-60071",
+    "name": "Кабель КС-ОКТ-П-4-G.652.D-3049",
+    "fullName": "Кабель КС-ОКТ-П-4-G.652.D-3049",
+    "price": 631088,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60071,
+    "article": "PRICE2-60072",
+    "name": "Кабель КС-ОКТ-П-8-G.652.D-3049а",
+    "fullName": "Кабель КС-ОКТ-П-8-G.652.D-3049а",
+    "price": 131218,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60072,
+    "article": "PRICE2-60073",
+    "name": "Кабель КС-ОКТ-П-12-G.652.D-3049а",
+    "fullName": "Кабель КС-ОКТ-П-12-G.652.D-3049а",
+    "price": 377445,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60073,
+    "article": "PRICE2-60074",
+    "name": "Кабель КС-ОКТ-П-16-G.652.D-3049a",
+    "fullName": "Кабель КС-ОКТ-П-16-G.652.D-3049a",
+    "price": 691874,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60074,
+    "article": "PRICE2-60075",
+    "name": "Кабель КС-ОКТ-П-24-G.652.D-3049а",
+    "fullName": "Кабель КС-ОКТ-П-24-G.652.D-3049а",
+    "price": 903044,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60075,
+    "article": "PRICE2-60076",
+    "name": "Кабель КС-ОКТ-П-48-G.652.D-3049",
+    "fullName": "Кабель КС-ОКТ-П-48-G.652.D-3049",
+    "price": 630254,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60076,
+    "article": "PRICE2-60077",
+    "name": "Кабель КС-ОКТ-П-8-G.652.D-3047",
+    "fullName": "Кабель КС-ОКТ-П-8-G.652.D-3047",
+    "price": 906099,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60077,
+    "article": "PRICE2-60078",
+    "name": "Кабель КС-ОКТ-П-16-G.652.D-3047",
+    "fullName": "Кабель КС-ОКТ-П-16-G.652.D-3047",
+    "price": 499166,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60078,
+    "article": "PRICE2-60079",
+    "name": "Кабель КС-ОКТ-П-24-G.652.D-3047",
+    "fullName": "Кабель КС-ОКТ-П-24-G.652.D-3047",
+    "price": 596910,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60079,
+    "article": "PRICE2-60080",
+    "name": "Кабель КС-ОКТ-П-32-G.652.D-3047",
+    "fullName": "Кабель КС-ОКТ-П-32-G.652.D-3047",
+    "price": 499747,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60080,
+    "article": "PRICE2-60081",
+    "name": "Кабель КС-ОКТ-П-48-G.652.D-3047",
+    "fullName": "Кабель КС-ОКТ-П-48-G.652.D-3047",
+    "price": 499743,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Зажимы",
+    "code": 60081,
+    "article": "PRICE2-60082",
+    "name": "Зажим анкерный РА-05",
+    "fullName": "Зажим анкерный РА-05",
+    "price": 499224,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Зажимы",
+    "code": 60082,
+    "article": "PRICE2-60083",
+    "name": "Зажим анкерный РА-08",
+    "fullName": "Зажим анкерный РА-08",
+    "price": 499129,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Зажимы",
+    "code": 60083,
+    "article": "PRICE2-60084",
+    "name": "Зажим анкерный РА-69",
+    "fullName": "Зажим анкерный РА-69",
+    "price": 695609,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Зажимы",
+    "code": 60084,
+    "article": "PRICE2-60085",
+    "name": "Зажим поддерживающий ЗП-8-2",
+    "fullName": "Зажим поддерживающий ЗП-8-2",
+    "price": 790347,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60085,
+    "article": "PRICE2-60086",
+    "name": "Кабель КС-ОКПО-П-2-652D-6210",
+    "fullName": "Кабель КС-ОКПО-П-2-652D-6210",
+    "price": 629487,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60086,
+    "article": "PRICE2-60087",
+    "name": "Кабель КС-ОКПО-П-4-652D-6210",
+    "fullName": "Кабель КС-ОКПО-П-4-652D-6210",
+    "price": 412986,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60087,
+    "article": "PRICE2-60088",
+    "name": "Кабель КС-ОКПО-П-8-652D-6210",
+    "fullName": "Кабель КС-ОКПО-П-8-652D-6210",
+    "price": 543277,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60088,
+    "article": "PRICE2-60089",
+    "name": "Кабель КС-ОКПО-П-12-652D-6210",
+    "fullName": "Кабель КС-ОКПО-П-12-652D-6210",
+    "price": 90014,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60089,
+    "article": "PRICE2-60090",
+    "name": "Кабель КС-ОКПО-П-16-652D-6210",
+    "fullName": "Кабель КС-ОКПО-П-16-652D-6210",
+    "price": 357123,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60090,
+    "article": "PRICE2-60091",
+    "name": "Кабель КС-ОКПО-П-24-652D-6210",
+    "fullName": "Кабель КС-ОКПО-П-24-652D-6210",
+    "price": 621329,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60091,
+    "article": "PRICE2-60092",
+    "name": "Кабель КС-ОКП-П-2-G.652.D-6307",
+    "fullName": "Кабель КС-ОКП-П-2-G.652.D-6307",
+    "price": 110094,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60092,
+    "article": "PRICE2-60093",
+    "name": "Кабель КС-ОКП-П-4-G.652.D-6307",
+    "fullName": "Кабель КС-ОКП-П-4-G.652.D-6307",
+    "price": 284208,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60093,
+    "article": "PRICE2-60094",
+    "name": "Кабель КС-ОКП-П-8-G.652.D-6307",
+    "fullName": "Кабель КС-ОКП-П-8-G.652.D-6307",
+    "price": 599401,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60094,
+    "article": "PRICE2-60095",
+    "name": "Кабель КС-ОКП-П-8-G.652.D-6307а",
+    "fullName": "Кабель КС-ОКП-П-8-G.652.D-6307а",
+    "price": 478749,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60095,
+    "article": "PRICE2-60096",
+    "name": "Кабель КС-ОКП-П-12-G.652.D-6307а",
+    "fullName": "Кабель КС-ОКП-П-12-G.652.D-6307а",
+    "price": 323003,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60096,
+    "article": "PRICE2-60097",
+    "name": "Кабель КС-ОКП-П-16-G.652.D-6307",
+    "fullName": "Кабель КС-ОКП-П-16-G.652.D-6307",
+    "price": 599403,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60097,
+    "article": "PRICE2-60098",
+    "name": "Кабель КС-ОКП-П-24-G.652.D-6307",
+    "fullName": "Кабель КС-ОКП-П-24-G.652.D-6307",
+    "price": 499672,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60098,
+    "article": "PRICE2-60099",
+    "name": "Кабель КС-ОКП-П-32-G.652.D-6307",
+    "fullName": "Кабель КС-ОКП-П-32-G.652.D-6307",
+    "price": 323700,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60099,
+    "article": "PRICE2-60100",
+    "name": "Кабель КС-ОКП-П-48-G.652.D-6307",
+    "fullName": "Кабель КС-ОКП-П-48-G.652.D-6307",
+    "price": 499674,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60100,
+    "article": "PRICE2-60101",
+    "name": "Кабель КС-ОКП-П-8-G.652.D-7.0-6330а",
+    "fullName": "Кабель КС-ОКП-П-8-G.652.D-7.0-6330а",
+    "price": 920374,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60101,
+    "article": "PRICE2-60102",
+    "name": "Кабель КС-ОКП-П-16-G.652.D-7.0-6330а",
+    "fullName": "Кабель КС-ОКП-П-16-G.652.D-7.0-6330а",
+    "price": 634596,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60102,
+    "article": "PRICE2-60103",
+    "name": "Кабель ADSS-A-2-G.652.D-4,0",
+    "fullName": "Кабель ADSS-A-2-G.652.D-4,0",
+    "price": 499673,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60103,
+    "article": "PRICE2-60104",
+    "name": "Кабель ADSS-A-8-G.652.D-4,0",
+    "fullName": "Кабель ADSS-A-8-G.652.D-4,0",
+    "price": 499675,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60104,
+    "article": "PRICE2-60105",
+    "name": "Кабель ADSS-A-16-G.652.D-4,0",
+    "fullName": "Кабель ADSS-A-16-G.652.D-4,0",
+    "price": 499676,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60105,
+    "article": "PRICE2-60106",
+    "name": "Кабель ADSS-A-24-G.652.D-4,0",
+    "fullName": "Кабель ADSS-A-24-G.652.D-4,0",
+    "price": 499677,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Зажимы",
+    "code": 60106,
+    "article": "PRICE2-60107",
+    "name": "Зажим анкерный РА-1500 (8-12 мм)",
+    "fullName": "Зажим анкерный РА-1500 (8-12 мм)",
+    "price": 798065,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Зажимы",
+    "code": 60107,
+    "article": "PRICE2-60108",
+    "name": "Зажим анкерный РА-500 (4-9 мм)",
+    "fullName": "Зажим анкерный РА-500 (4-9 мм)",
+    "price": 879994,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Зажимы",
+    "code": 60108,
+    "article": "PRICE2-60109",
+    "name": "Зажим натяжной универсальный 5-22мм (2х4-2х25)",
+    "fullName": "Зажим натяжной универсальный 5-22мм (2х4-2х25)",
+    "price": 230120,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Зажимы",
+    "code": 60109,
+    "article": "PRICE2-60110",
+    "name": "Зажим поддерживающий НС-8-12",
+    "fullName": "Зажим поддерживающий НС-8-12",
+    "price": 599738,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Зажимы",
+    "code": 60110,
+    "article": "PRICE2-60111",
+    "name": "Зажим поддерживающий НС-10-15",
+    "fullName": "Зажим поддерживающий НС-10-15",
+    "price": 599269,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60111,
+    "article": "PRICE2-60112",
+    "name": "Кабель КС-ОКЛО-8-G.652.D-2205",
+    "fullName": "Кабель КС-ОКЛО-8-G.652.D-2205",
+    "price": 306590,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60112,
+    "article": "PRICE2-60113",
+    "name": "Кабель КС-ОКЛО-12-G.652.D-2205",
+    "fullName": "Кабель КС-ОКЛО-12-G.652.D-2205",
+    "price": 720662,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60113,
+    "article": "PRICE2-60114",
+    "name": "Кабель КС-ОКЛО-16-G.652.D-2205",
+    "fullName": "Кабель КС-ОКЛО-16-G.652.D-2205",
+    "price": 499736,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60114,
+    "article": "PRICE2-60115",
+    "name": "Кабель КС-ОКЛО-24-G.652.D-2205",
+    "fullName": "Кабель КС-ОКЛО-24-G.652.D-2205",
+    "price": 499739,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60115,
+    "article": "PRICE2-60116",
+    "name": "Кабель КС-ОКЛО-2-G.652.D-2207",
+    "fullName": "Кабель КС-ОКЛО-2-G.652.D-2207",
+    "price": 100194,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60116,
+    "article": "PRICE2-60117",
+    "name": "Кабель КС-ОКЛО-4-G.652.D-2207",
+    "fullName": "Кабель КС-ОКЛО-4-G.652.D-2207",
+    "price": 499731,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60117,
+    "article": "PRICE2-60118",
+    "name": "Кабель КС-ОКЛО-8-G.652.D-2207",
+    "fullName": "Кабель КС-ОКЛО-8-G.652.D-2207",
+    "price": 596939,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60118,
+    "article": "PRICE2-60119",
+    "name": "Кабель КС-ОКЛО-12-G.652.D-2207",
+    "fullName": "Кабель КС-ОКЛО-12-G.652.D-2207",
+    "price": 596941,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60119,
+    "article": "PRICE2-60120",
+    "name": "Кабель КС-ОКЛО-16-G.652.D-2207",
+    "fullName": "Кабель КС-ОКЛО-16-G.652.D-2207",
+    "price": 596942,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60120,
+    "article": "PRICE2-60121",
+    "name": "Кабель КС-ОКЛО-24-G.652.D-2207",
+    "fullName": "Кабель КС-ОКЛО-24-G.652.D-2207",
+    "price": 962308,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60121,
+    "article": "PRICE2-60122",
+    "name": "Кабель КС-ОКЛ-8-G.652.D-2041",
+    "fullName": "Кабель КС-ОКЛ-8-G.652.D-2041",
+    "price": 100765,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60122,
+    "article": "PRICE2-60123",
+    "name": "Кабель КС-ОКЛ-12-G.652.D-2036",
+    "fullName": "Кабель КС-ОКЛ-12-G.652.D-2036",
+    "price": 499696,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60123,
+    "article": "PRICE2-60124",
+    "name": "Кабель КС-ОКЛ-12-G.652.D-2041",
+    "fullName": "Кабель КС-ОКЛ-12-G.652.D-2041",
+    "price": 995887,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60124,
+    "article": "PRICE2-60125",
+    "name": "Кабель КС-ОКЛ-16-G.652.D-2041",
+    "fullName": "Кабель КС-ОКЛ-16-G.652.D-2041",
+    "price": 568721,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60125,
+    "article": "PRICE2-60126",
+    "name": "Кабель КС-ОКЛ-П-16-G.652.D-2025",
+    "fullName": "Кабель КС-ОКЛ-П-16-G.652.D-2025",
+    "price": 499716,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60126,
+    "article": "PRICE2-60127",
+    "name": "Кабель КС-ОКЛ-24-G.652.D-2041",
+    "fullName": "Кабель КС-ОКЛ-24-G.652.D-2041",
+    "price": 698712,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60127,
+    "article": "PRICE2-60128",
+    "name": "Кабель КС-ОКЛ-П-24-G.652.D-2025",
+    "fullName": "Кабель КС-ОКЛ-П-24-G.652.D-2025",
+    "price": 499718,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60128,
+    "article": "PRICE2-60129",
+    "name": "Кабель КС-ОКЛ-П-32-G.652.D-2037",
+    "fullName": "Кабель КС-ОКЛ-П-32-G.652.D-2037",
+    "price": 5968279,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60129,
+    "article": "PRICE2-60130",
+    "name": "Кабель КС-ОКЛ-32-G.652.D-2043",
+    "fullName": "Кабель КС-ОКЛ-32-G.652.D-2043",
+    "price": 630140,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60130,
+    "article": "PRICE2-60131",
+    "name": "Кабель КС-ОКЛ-П-36-G.652.D-2037",
+    "fullName": "Кабель КС-ОКЛ-П-36-G.652.D-2037",
+    "price": 596912,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60131,
+    "article": "PRICE2-60132",
+    "name": "Кабель КС-ОКЛ-36-G.652.D-2042",
+    "fullName": "Кабель КС-ОКЛ-36-G.652.D-2042",
+    "price": 500549,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60132,
+    "article": "PRICE2-60133",
+    "name": "Кабель КС-ОКЛ-П-48-G.652.D-2037",
+    "fullName": "Кабель КС-ОКЛ-П-48-G.652.D-2037",
+    "price": 499254,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60133,
+    "article": "PRICE2-60134",
+    "name": "Кабель КС-ОКЛ-48-G.652.D-2043",
+    "fullName": "Кабель КС-ОКЛ-48-G.652.D-2043",
+    "price": 620371,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60134,
+    "article": "PRICE2-60135",
+    "name": "Кабель КС-ОКЛ-П-64-G.652.D-2044",
+    "fullName": "Кабель КС-ОКЛ-П-64-G.652.D-2044",
+    "price": 499133,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60135,
+    "article": "PRICE2-60136",
+    "name": "Кабель КС-ОКЛ-П-64-G.652.D-2044а",
+    "fullName": "Кабель КС-ОКЛ-П-64-G.652.D-2044а",
+    "price": 600833,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60136,
+    "article": "PRICE2-60137",
+    "name": "Кабель КС-ОКЛ-П-96-G.652.D-2044",
+    "fullName": "Кабель КС-ОКЛ-П-96-G.652.D-2044",
+    "price": 499134,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60137,
+    "article": "PRICE2-60138",
+    "name": "Кабель КС-ОКЛ-П-144-G.652.D-2028",
+    "fullName": "Кабель КС-ОКЛ-П-144-G.652.D-2028",
+    "price": 499728,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60138,
+    "article": "PRICE2-60139",
+    "name": "Кабель КС-ОКЛ-П-144-G.652.D-2045",
+    "fullName": "Кабель КС-ОКЛ-П-144-G.652.D-2045",
+    "price": 197701,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60139,
+    "article": "PRICE2-60140",
+    "name": "Кабель КС-ОКБО-4-G.652.D-7.0-6102",
+    "fullName": "Кабель КС-ОКБО-4-G.652.D-7.0-6102",
+    "price": 361023,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60140,
+    "article": "PRICE2-60141",
+    "name": "Кабель КС-ОКБО-16-G.652.D-7.0-6103",
+    "fullName": "Кабель КС-ОКБО-16-G.652.D-7.0-6103",
+    "price": 250043,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60141,
+    "article": "PRICE2-60142",
+    "name": "Кабель КС-ОКБО-4-G.652.D-6.0-6104",
+    "fullName": "Кабель КС-ОКБО-4-G.652.D-6.0-6104",
+    "price": 274350,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60142,
+    "article": "PRICE2-60143",
+    "name": "Кабель КС-ОКБО-8-G.652.D-6.0-6104",
+    "fullName": "Кабель КС-ОКБО-8-G.652.D-6.0-6104",
+    "price": 296205,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60143,
+    "article": "PRICE2-60144",
+    "name": "Кабель КС-ОКБО-24-G.652.D-6.0-6104",
+    "fullName": "Кабель КС-ОКБО-24-G.652.D-6.0-6104",
+    "price": 435054,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60144,
+    "article": "PRICE2-60145",
+    "name": "Кабель КС-ОКБ-24-G.652.D-CF-7,0-6054",
+    "fullName": "Кабель КС-ОКБ-24-G.652.D-CF-7,0-6054",
+    "price": 59977,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60145,
+    "article": "PRICE2-60146",
+    "name": "Кабель КС-ОКБ-П-72-G.652.D-6045 (12А)",
+    "fullName": "Кабель КС-ОКБ-П-72-G.652.D-6045 (12А)",
+    "price": 499771,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60146,
+    "article": "PRICE2-60147",
+    "name": "Кабель ОКБО-4-G.652.D-3,0",
+    "fullName": "Кабель ОКБО-4-G.652.D-3,0",
+    "price": 499177,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60147,
+    "article": "PRICE2-60148",
+    "name": "Кабель ОКБО-8-G.652.D-3,0",
+    "fullName": "Кабель ОКБО-8-G.652.D-3,0",
+    "price": 499176,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60148,
+    "article": "PRICE2-60149",
+    "name": "Кабель ОКБО-4-G.652.D-7,0",
+    "fullName": "Кабель ОКБО-4-G.652.D-7,0",
+    "price": 400171,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60149,
+    "article": "PRICE2-60150",
+    "name": "Кабель ОКБО-8-G.652.D-7,0",
+    "fullName": "Кабель ОКБО-8-G.652.D-7,0",
+    "price": 499172,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60150,
+    "article": "PRICE2-60151",
+    "name": "Кабель ОКБО-12-G.652.D-7,0",
+    "fullName": "Кабель ОКБО-12-G.652.D-7,0",
+    "price": 499173,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60151,
+    "article": "PRICE2-60152",
+    "name": "Кабель ОКБО-16-G.652.D-7,0",
+    "fullName": "Кабель ОКБО-16-G.652.D-7,0",
+    "price": 499174,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60152,
+    "article": "PRICE2-60153",
+    "name": "Кабель ОКБО-24-G.652.D-7,0",
+    "fullName": "Кабель ОКБО-24-G.652.D-7,0",
+    "price": 499175,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60153,
+    "article": "PRICE2-60154",
+    "name": "Кабель ОКБ-16-G.652.D-7,0",
+    "fullName": "Кабель ОКБ-16-G.652.D-7,0",
+    "price": 499225,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60154,
+    "article": "PRICE2-60155",
+    "name": "Кабель ОКБ-24-G.652.D-7,0",
+    "fullName": "Кабель ОКБ-24-G.652.D-7,0",
+    "price": 499179,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60155,
+    "article": "PRICE2-60156",
+    "name": "Кабель ОКБ-48-G.652.D-7,0",
+    "fullName": "Кабель ОКБ-48-G.652.D-7,0",
+    "price": 499180,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60156,
+    "article": "PRICE2-60157",
+    "name": "Кабель КС-ОКГ-П-16-G.652.D-1056",
+    "fullName": "Кабель КС-ОКГ-П-16-G.652.D-1056",
+    "price": 170805,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60157,
+    "article": "PRICE2-60158",
+    "name": "Кабель КС-ОКГ-П-20-G.652.D-1056",
+    "fullName": "Кабель КС-ОКГ-П-20-G.652.D-1056",
+    "price": 499645,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60158,
+    "article": "PRICE2-60159",
+    "name": "Кабель КС-ОКГ-П-32-G.652.D-1056",
+    "fullName": "Кабель КС-ОКГ-П-32-G.652.D-1056",
+    "price": 499650,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60159,
+    "article": "PRICE2-60160",
+    "name": "Кабель КС-ОКГ-П-8-G.652.D-1050",
+    "fullName": "Кабель КС-ОКГ-П-8-G.652.D-1050",
+    "price": 499622,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60160,
+    "article": "PRICE2-60161",
+    "name": "Кабель КС-ОКГ-П-16-G.652.D-1050",
+    "fullName": "Кабель КС-ОКГ-П-16-G.652.D-1050",
+    "price": 499628,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Кабели оптические",
+    "code": 60161,
+    "article": "PRICE2-60162",
+    "name": "Кабель КС-ОКГ-П-20-G.652.D-1050",
+    "fullName": "Кабель КС-ОКГ-П-20-G.652.D-1050",
+    "price": 499631,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Зажимы",
+    "code": 60162,
+    "article": "PRICE2-60163",
+    "name": "Зажим анкерный ODWAC-22 для FTTH",
+    "fullName": "Зажим анкерный ODWAC-22 для FTTH",
+    "price": 232400,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Зажимы",
+    "code": 60163,
+    "article": "PRICE2-60164",
+    "name": "Зажим анкерный ODWAC-22",
+    "fullName": "Зажим анкерный ODWAC-22",
+    "price": 311008,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Зажимы",
+    "code": 60164,
+    "article": "PRICE2-60165",
+    "name": "Зажим анкерный ODWAC-22 для круглого ОК",
+    "fullName": "Зажим анкерный ODWAC-22 для круглого ОК",
+    "price": 230121,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Зажимы",
+    "code": 60165,
+    "article": "PRICE2-60166",
+    "name": "Зажим для FTTH кабеля и Drop-патчкордов",
+    "fullName": "Зажим для FTTH кабеля и Drop-патчкордов",
+    "price": 478095,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Зажимы",
+    "code": 60166,
+    "article": "PRICE2-60167",
+    "name": "Зажим анкерный ODWAC-22",
+    "fullName": "Зажим анкерный ODWAC-22",
+    "price": 311008,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Зажимы",
+    "code": 60167,
+    "article": "PRICE2-60168",
+    "name": "Зажим анкерный РА-05",
+    "fullName": "Зажим анкерный РА-05",
+    "price": 499224,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Зажимы",
+    "code": 60168,
+    "article": "PRICE2-60169",
+    "name": "Зажим анкерный РА-08",
+    "fullName": "Зажим анкерный РА-08",
+    "price": 499129,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Зажимы",
+    "code": 60169,
+    "article": "PRICE2-60170",
+    "name": "Зажим анкерный РА-69",
+    "fullName": "Зажим анкерный РА-69",
+    "price": 695609,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Зажимы",
+    "code": 60170,
+    "article": "PRICE2-60171",
+    "name": "Зажим поддерживающий ЗП-8-2",
+    "fullName": "Зажим поддерживающий ЗП-8-2",
+    "price": 790347,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Зажимы",
+    "code": 60171,
+    "article": "PRICE2-60172",
+    "name": "Зажим анкерный ODWAC-22 для круглого ОК",
+    "fullName": "Зажим анкерный ODWAC-22 для круглого ОК",
+    "price": 230121,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Зажимы",
+    "code": 60172,
+    "article": "PRICE2-60173",
+    "name": "Зажим анкерный РА-1500 (8-12 мм)",
+    "fullName": "Зажим анкерный РА-1500 (8-12 мм)",
+    "price": 798065,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Зажимы",
+    "code": 60173,
+    "article": "PRICE2-60174",
+    "name": "Зажим анкерный РА-500 (4-9 мм)",
+    "fullName": "Зажим анкерный РА-500 (4-9 мм)",
+    "price": 879994,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Зажимы",
+    "code": 60174,
+    "article": "PRICE2-60175",
+    "name": "Зажим натяжной универсальный 5-22мм (2х4-2х25)",
+    "fullName": "Зажим натяжной универсальный 5-22мм (2х4-2х25)",
+    "price": 230120,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Зажимы",
+    "code": 60175,
+    "article": "PRICE2-60176",
+    "name": "Зажим поддерживающий НС-8-12",
+    "fullName": "Зажим поддерживающий НС-8-12",
+    "price": 599738,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Зажимы",
+    "code": 60176,
+    "article": "PRICE2-60177",
+    "name": "Зажим поддерживающий HC 5-8",
+    "fullName": "Зажим поддерживающий HC 5-8",
+    "price": 599739,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Зажимы",
+    "code": 60177,
+    "article": "PRICE2-60178",
+    "name": "Зажим спиральный натяжной НСО-4(6)-8,5/9,4",
+    "fullName": "Зажим спиральный натяжной НСО-4(6)-8,5/9,4",
+    "price": 127823,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Зажимы",
+    "code": 60178,
+    "article": "PRICE2-60179",
+    "name": "Зажим спиральный поддерживающий ПСО-8,5/9,5 с коушем",
+    "fullName": "Зажим спиральный поддерживающий ПСО-8,5/9,5 с коушем",
+    "price": 100937,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Зажимы",
+    "code": 60179,
+    "article": "PRICE2-60180",
+    "name": "Зажим спиральный поддерживающий ПСО-50-8,5/9,4 (два прутка)",
+    "fullName": "Зажим спиральный поддерживающий ПСО-50-8,5/9,4 (два прутка)",
+    "price": 230750,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Зажимы",
+    "code": 60180,
+    "article": "PRICE2-60181",
+    "name": "Зажим спиральный натяжной НСО-5,6/6,5 (3) без коуша",
+    "fullName": "Зажим спиральный натяжной НСО-5,6/6,5 (3) без коуша",
+    "price": 100938,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Зажимы",
+    "code": 60181,
+    "article": "PRICE2-60182",
+    "name": "Зажим спиральный поддерживающий ПСО-5,6/6,5 (3) без коуша",
+    "fullName": "Зажим спиральный поддерживающий ПСО-5,6/6,5 (3) без коуша",
+    "price": 100939,
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  {
+    "category_raw": "Патчкорды Китай",
+    "code": 60182,
+    "article": "10 800",
+    "name": "под заказ",
+    "fullName": "под заказ",
+    "price": 10044,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Патчкорды Китай",
+    "code": 60183,
+    "article": "10 210",
+    "name": "под заказ",
+    "fullName": "под заказ",
+    "price": 9495,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Патчкорды Китай",
+    "code": 60184,
+    "article": "11 220",
+    "name": "под заказ",
+    "fullName": "под заказ",
+    "price": 10435,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Патчкорды Китай",
+    "code": 60185,
+    "article": "11 900",
+    "name": "под заказ",
+    "fullName": "под заказ",
+    "price": 11067,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Патчкорды Китай",
+    "code": 60186,
+    "article": "12 570",
+    "name": "под заказ",
+    "fullName": "под заказ",
+    "price": 11690,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Патчкорды Китай",
+    "code": 60187,
+    "article": "13 390",
+    "name": "под заказ",
+    "fullName": "под заказ",
+    "price": 12453,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Патчкорды Китай",
+    "code": 60188,
+    "article": "14 440",
+    "name": "под заказ",
+    "fullName": "под заказ",
+    "price": 13429,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Патчкорды Китай",
+    "code": 60189,
+    "article": "10 950",
+    "name": "под заказ",
+    "fullName": "под заказ",
+    "price": 10184,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Патчкорды Китай",
+    "code": 60190,
+    "article": "11 210",
+    "name": "под заказ",
+    "fullName": "под заказ",
+    "price": 10425,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Патчкорды Китай",
+    "code": 60191,
+    "article": "11 480",
+    "name": "под заказ",
+    "fullName": "под заказ",
+    "price": 10676,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Патчкорды Китай",
+    "code": 60192,
+    "article": "11 750",
+    "name": "под заказ",
+    "fullName": "под заказ",
+    "price": 10928,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Патчкорды Китай",
+    "code": 60193,
+    "article": "12 010",
+    "name": "под заказ",
+    "fullName": "под заказ",
+    "price": 11169,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Патчкорды Китай",
+    "code": 60194,
+    "article": "12 280",
+    "name": "под заказ",
+    "fullName": "под заказ",
+    "price": 11420,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Патчкорды Китай",
+    "code": 60195,
+    "article": "13 380",
+    "name": "под заказ",
+    "fullName": "под заказ",
+    "price": 12443,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Патчкорды Китай",
+    "code": 60196,
+    "article": "13 660",
+    "name": "под заказ",
+    "fullName": "под заказ",
+    "price": 12704,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Патчкорды Китай",
+    "code": 60197,
+    "article": "13 950",
+    "name": "под заказ",
+    "fullName": "под заказ",
+    "price": 12974,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Патчкорды Китай",
+    "code": 60198,
+    "article": "14 230",
+    "name": "под заказ",
+    "fullName": "под заказ",
+    "price": 13234,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Патчкорды Китай",
+    "code": 60199,
+    "article": "14 510",
+    "name": "под заказ",
+    "fullName": "под заказ",
+    "price": 13494,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Патчкорды Китай",
+    "code": 60200,
+    "article": "11 890",
+    "name": "под заказ",
+    "fullName": "под заказ",
+    "price": 11058,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Патчкорды Китай",
+    "code": 60201,
+    "article": "12 300",
+    "name": "под заказ",
+    "fullName": "под заказ",
+    "price": 11439,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Патчкорды Китай",
+    "code": 60202,
+    "article": "12 720",
+    "name": "под заказ",
+    "fullName": "под заказ",
+    "price": 11830,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Патчкорды Китай",
+    "code": 60203,
+    "article": "13 130",
+    "name": "под заказ",
+    "fullName": "под заказ",
+    "price": 12211,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Патчкорды Китай",
+    "code": 60204,
+    "article": "13 540",
+    "name": "под заказ",
+    "fullName": "под заказ",
+    "price": 12592,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Патчкорды Китай",
+    "code": 60205,
+    "article": "13 960",
+    "name": "под заказ",
+    "fullName": "под заказ",
+    "price": 12983,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Патчкорды Китай",
+    "code": 60206,
+    "article": "14 370",
+    "name": "под заказ",
+    "fullName": "под заказ",
+    "price": 13364,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Патчкорды Китай",
+    "code": 60207,
+    "article": "14 790",
+    "name": "под заказ",
+    "fullName": "под заказ",
+    "price": 13755,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Патчкорды Китай",
+    "code": 60208,
+    "article": "16 090",
+    "name": "под заказ",
+    "fullName": "под заказ",
+    "price": 14964,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Патчкорды Китай",
+    "code": 60209,
+    "article": "16 530",
+    "name": "под заказ",
+    "fullName": "под заказ",
+    "price": 15373,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Патчкорды Китай",
+    "code": 60210,
+    "article": "16 970",
+    "name": "под заказ",
+    "fullName": "под заказ",
+    "price": 15782,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Патчкорды Китай",
+    "code": 60211,
+    "article": "17 410",
+    "name": "под заказ",
+    "fullName": "под заказ",
+    "price": 16191,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Патчкорды Китай",
+    "code": 60212,
+    "article": "20 320",
+    "name": "под заказ",
+    "fullName": "под заказ",
+    "price": 18898,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Патчкорды Китай",
+    "code": 60213,
+    "article": "21 770",
+    "name": "под заказ",
+    "fullName": "под заказ",
+    "price": 20246,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "Патчкорды Китай",
+    "code": 60214,
+    "article": "24 200",
+    "name": "под заказ",
+    "fullName": "под заказ",
+    "price": 22506,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ FDF 19' (в стойку)",
+    "code": 60215,
+    "article": "13 750",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 603143,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ FDF 19' (в стойку)",
+    "code": 60216,
+    "article": "13 750",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 603146,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ FDF 19' (в стойку)",
+    "code": 60217,
+    "article": "20 150",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 603147,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ FDF 19' (в стойку)",
+    "code": 60218,
+    "article": "49 200",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 121224,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ FDF 19' (в стойку)",
+    "code": 60219,
+    "article": "15 360",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 603148,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ FDF 19' (в стойку)",
+    "code": 60220,
+    "article": "17 280",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 603149,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ FDF 19' (в стойку)",
+    "code": 60221,
+    "article": "18 630",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 499941,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ FDF 19' (в стойку)",
+    "code": 60222,
+    "article": "21 410",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 603150,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ FDF 19' (в стойку)",
+    "code": 60223,
+    "article": "24 310",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 499939,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ FDF 19' (в стойку)",
+    "code": 60224,
+    "article": "36 080",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 603151,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ FDF 19' (в стойку)",
+    "code": 60225,
+    "article": "37 580",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 603152,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ FDF 19' (в стойку)",
+    "code": 60226,
+    "article": "42 070",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 603153,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ FDF 19' (в стойку)",
+    "code": 60227,
+    "article": "15 390",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 603154,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ FDF 19' (в стойку)",
+    "code": 60228,
+    "article": "17 340",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 603155,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ FDF 19' (в стойку)",
+    "code": 60229,
+    "article": "18 720",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 603156,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ FDF 19' (в стойку)",
+    "code": 60230,
+    "article": "21 540",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 603157,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ FDF 19' (в стойку)",
+    "code": 60231,
+    "article": "24 500",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 603158,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ FDF 19' (в стойку)",
+    "code": 60232,
+    "article": "36 340",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 603159,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ FDF 19' (в стойку)",
+    "code": 60233,
+    "article": "37 870",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 603160,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ FDF 19' (в стойку)",
+    "code": 60234,
+    "article": "42 460",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 603161,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ FDF 19' (в стойку)",
+    "code": 60235,
+    "article": "15 450",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 603163,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ FDF 19' (в стойку)",
+    "code": 60236,
+    "article": "17 470",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 603162,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ FDF 19' (в стойку)",
+    "code": 60237,
+    "article": "18 920",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 603164,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ FDF 19' (в стойку)",
+    "code": 60238,
+    "article": "21 820",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 603165,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ FDF 19' (в стойку)",
+    "code": 60239,
+    "article": "24 930",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 603166,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ FDF 19' (в стойку)",
+    "code": 60240,
+    "article": "28 960",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 603167,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ FDF 19' (в стойку)",
+    "code": 60241,
+    "article": "31 550",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 603168,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ FDF 19' (в стойку)",
+    "code": 60242,
+    "article": "36 520",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 603169,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ FDF 19' (в стойку)",
+    "code": 60243,
+    "article": "44 750",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 603170,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ FDF 19' (в стойку)",
+    "code": 60244,
+    "article": "16 170",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 110249,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ FDF 19' (в стойку)",
+    "code": 60245,
+    "article": "18 010",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 499304,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ FDF 19' (в стойку)",
+    "code": 60246,
+    "article": "20 620",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 602815,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ FDF 19' (в стойку)",
+    "code": 60247,
+    "article": "21 700",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 499301,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ FDF 19' (в стойку)",
+    "code": 60248,
+    "article": "26 370",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 499303,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ FDF 19' (в стойку)",
+    "code": 60249,
+    "article": "49 000",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 596916,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ FDF 19' (в стойку)",
+    "code": 60250,
+    "article": "50 910",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 602951,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ FDF 19' (в стойку)",
+    "code": 60251,
+    "article": "56 660",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 605815,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ 19' (в стойку)",
+    "code": 60252,
+    "article": "11 660",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 749850,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ 19' (в стойку)",
+    "code": 60253,
+    "article": "10 860",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 499291,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ 19' (в стойку)",
+    "code": 60254,
+    "article": "12 540",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 499312,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ 19' (в стойку)",
+    "code": 60255,
+    "article": "14 220",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 499309,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ 19' (в стойку)",
+    "code": 60256,
+    "article": "15 900",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 499310,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ 19' (в стойку)",
+    "code": 60257,
+    "article": "19 260",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 499311,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ 19' (в стойку)",
+    "code": 60258,
+    "article": "25 100",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 600453,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ 19' (в стойку)",
+    "code": 60259,
+    "article": "26 780",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 596930,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "КРОССЫ ОПТИЧЕСКИЕ 19' (в стойку)",
+    "code": 60260,
+    "article": "31 820",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 599304,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "ЛИНЕЙКА PRO, цвет - черный",
+    "code": 60261,
+    "article": "13 310",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 749036,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "ЛИНЕЙКА PRO, цвет - черный",
+    "code": 60262,
+    "article": "16 510",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 749085,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "ЛИНЕЙКА PRO, цвет - черный",
+    "code": 60263,
+    "article": "15 030",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 610453,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "ЛИНЕЙКА PRO, цвет - черный",
+    "code": 60264,
+    "article": "16 750",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 660454,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "ЛИНЕЙКА PRO, цвет - черный",
+    "code": 60265,
+    "article": "18 470",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 652455,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "ЛИНЕЙКА PRO, цвет - черный",
+    "code": 60266,
+    "article": "20 190",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 690459,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "ЛИНЕЙКА PRO, цвет - черный",
+    "code": 60267,
+    "article": "23 630",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 630456,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "ЛИНЕЙКА PRO, цвет - черный",
+    "code": 60268,
+    "article": "30 270",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 610457,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "ЛИНЕЙКА PRO, цвет - черный",
+    "code": 60269,
+    "article": "31 990",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 680458,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "ЛИНЕЙКА PRO, цвет - черный",
+    "code": 60270,
+    "article": "37 150",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 670453,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "СТАНДАРТНЫЙ, цвет - серый",
+    "code": 60271,
+    "article": "10 860",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 600463,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "СТАНДАРТНЫЙ, цвет - серый",
+    "code": 60272,
+    "article": "12 540",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 499308,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "СТАНДАРТНЫЙ, цвет - серый",
+    "code": 60273,
+    "article": "14 220",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 599731,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "СТАНДАРТНЫЙ, цвет - серый",
+    "code": 60274,
+    "article": "15 900",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 499306,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "СТАНДАРТНЫЙ, цвет - серый",
+    "code": 60275,
+    "article": "19 260",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 499307,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "СТАНДАРТНЫЙ, цвет - серый",
+    "code": 60276,
+    "article": "25 100",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 685133,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "СТАНДАРТНЫЙ, цвет - серый",
+    "code": 60277,
+    "article": "26 780",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 600253,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "СТАНДАРТНЫЙ, цвет - серый",
+    "code": 60278,
+    "article": "31 820",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 124556,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "СТАНДАРТНЫЙ, цвет - серый",
+    "code": 60279,
+    "article": "122 350",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 601284,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "СТАНДАРТНЫЙ, цвет - серый",
+    "code": 60280,
+    "article": "156 340",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 743088,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "ЛИНЕЙКА PRO, цвет - черный",
+    "code": 60281,
+    "article": "15 030",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 652159,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "ЛИНЕЙКА PRO, цвет - черный",
+    "code": 60282,
+    "article": "16 750",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 601587,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "ЛИНЕЙКА PRO, цвет - черный",
+    "code": 60283,
+    "article": "18 470",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 602184,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "ЛИНЕЙКА PRO, цвет - черный",
+    "code": 60284,
+    "article": "20 190",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 602384,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "ЛИНЕЙКА PRO, цвет - черный",
+    "code": 60285,
+    "article": "23 630",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 603985,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "ЛИНЕЙКА PRO, цвет - черный",
+    "code": 60286,
+    "article": "30 270",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 601784,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "ЛИНЕЙКА PRO, цвет - черный",
+    "code": 60287,
+    "article": "31 990",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 601281,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "ЛИНЕЙКА PRO, цвет - черный",
+    "code": 60288,
+    "article": "37 150",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 603285,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "СТАНДАРТНЫЙ, цвет - серый",
+    "code": 60289,
+    "article": "11 040",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 499402,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "СТАНДАРТНЫЙ, цвет - серый",
+    "code": 60290,
+    "article": "12 900",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 499401,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "СТАНДАРТНЫЙ, цвет - серый",
+    "code": 60291,
+    "article": "14 760",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 599104,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "СТАНДАРТНЫЙ, цвет - серый",
+    "code": 60292,
+    "article": "16 620",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 596785,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "СТАНДАРТНЫЙ, цвет - серый",
+    "code": 60293,
+    "article": "20 340",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 599105,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "СТАНДАРТНЫЙ, цвет - серый",
+    "code": 60294,
+    "article": "24 610",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 499305,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "СТАНДАРТНЫЙ, цвет - серый",
+    "code": 60295,
+    "article": "26 470",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 603385,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "СТАНДАРТНЫЙ, цвет - серый",
+    "code": 60296,
+    "article": "32 050",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 596804,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "СТАНДАРТНЫЙ, цвет - серый",
+    "code": 60297,
+    "article": "34 530",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 596876,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "ЛИНЕЙКА PRO, цвет - черный",
+    "code": 60298,
+    "article": "12 640",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 603845,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "ЛИНЕЙКА PRO, цвет - черный",
+    "code": 60299,
+    "article": "15 000",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 602843,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "ЛИНЕЙКА PRO, цвет - черный",
+    "code": 60300,
+    "article": "17 360",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 608451,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "ЛИНЕЙКА PRO, цвет - черный",
+    "code": 60301,
+    "article": "19 720",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 603984,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "ЛИНЕЙКА PRO, цвет - черный",
+    "code": 60302,
+    "article": "24 440",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 602851,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "ЛИНЕЙКА PRO, цвет - черный",
+    "code": 60303,
+    "article": "29 710",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 608512,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "ЛИНЕЙКА PRO, цвет - черный",
+    "code": 60304,
+    "article": "32 070",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 608517,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "ЛИНЕЙКА PRO, цвет - черный",
+    "code": 60305,
+    "article": "39 150",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 606983,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "ЛИНЕЙКА PRO, цвет - черный",
+    "code": 60306,
+    "article": "41 070",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 601851,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "ЛИНЕЙКА PRO, цвет - черный",
+    "code": 60307,
+    "article": "51 060",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 47486,
+    "category": "other",
+    "subcategory": "other"
+  },
+  {
+    "category_raw": "ЛИНЕЙКА PRO, цвет - черный",
+    "code": 60308,
+    "article": "70 490",
+    "name": "в наличии",
+    "fullName": "в наличии",
+    "price": 65556,
+    "category": "other",
+    "subcategory": "other"
+  }
+]

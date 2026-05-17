@@ -1,0 +1,33 @@
+Unnamed: 0	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	http://prices.ipmatika.kz	Unnamed: 11	Unnamed: 12
+Годовые лицензии 3CX								0.0				
+ОВ		Basic /РРЦ/тг 		Pro/РРЦ /тг		Enterprise /РРЦ/тг 						
+												
+4		.	3CXNAP4M12	242680								
+8	3CXNAB8M12	242680	3CXNAP8M12	323570	3CXNAE8M12	468320						
+16	3CXNAB16M12	485350	3CXNAP16M12	647140	3CXNAE16M12	889820						
+24	3CXNAB24M12	668430	3CXNAP24M12	889820	3CXNAE24M12	1213390						
+32	3CXNAB32M12	821700	3CXNAP32M12	1094180	3CXNAE32M12	1456060						
+48	3CXNAB48M12	1213390	3CXNAP48M12	1617850	3CXNAE48M12	2022310						
+64	3CXNAB64M12	1639140	3CXNAP64M12	2184100	3CXNAE64M12	2618360						
+96	3CXNAB96M12	2426770	3CXNAP96M12	3235700	3CXNAE96M12	3882840						
+128	3CXNAB128M12	3337880	3CXNAP128M12	4449090	3CXNAE128M12	5338900						
+192	3CXNAB192M12	5011080	3CXNAP192M12	6675760	3CXNAE192M12	8008350						
+256	3CXNAB256M12	6675760	3CXNAP256M12	8898170	3CXNAE256M12	10677810						
+512	3CXNAB512M12	10920480	3CXNAP512M12	14560640	3CXNAE512M12	17472770						
+1024	3CXNAB1024M12	20023010	3CXNAP1024M12	26694510	3CXNAE1024M12	32033420						
+		Enterprise Plus 8SC (годовая)			3CXNAEP8M12	608820						
+				Enterprise Plus 16SC (годовая)	3CXNAEP16M12	1132490						
+												
+Скидки согласно партнёрского статуса:												
+Affiliate 10%												
+Bronze 15%												
+Silver 20%												
+Gold 25%												
+												
+Условия и положения												
+Рекомендовання розничная цена включает НДС 12% и Роялти 15%. Доставка программного обеспечения происходит электронным способом через сеть Интернет. Программное обеспечение активируется с помощью электронного лицензионного ключа.												
+												
+Референтная ссылка от IPmatika:												
+https://www.3cx.com/partners/apply/?distributorID=240660												
+												
+												

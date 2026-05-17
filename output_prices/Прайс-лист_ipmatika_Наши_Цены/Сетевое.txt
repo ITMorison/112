@@ -1,0 +1,225 @@
+URL	Артикул	Описание	Цена	Дилер	Unnamed: 5
+					Status
+https://ipmatika.kz/products/lte-routery/	LTE Роутеры				
+https://ipmatika.kz/products/lte-routery/wi-tek-wi-lte110-o-v2/	WI-LTE110-O v2	WI-LTE110-O Outdoor LTE роутер, Cloud	46430.0	37147.549999999996	
+https://ipmatika.kz/products/lte-routery/wi-tek-wi-lte113-o/	WI-LTE113-O	WI-LTE113-O Внешний LTE роутер	159190.0	127352.775	
+https://ipmatika.kz/products/lte-routery/wi-tek-wi-lte115-o-v2/	WI-LTE115-O v2	WI-LTE115-O Внешний LTE роутер, Cloud	46430.0	37147.549999999996	EOL
+https://ipmatika.kz/products/lte-routery/wi-tek-wi-lte117-o-v2/	WI-LTE117-O v2	WI-LTE117-O v2 Внешний LTE роутер	51740.0	41390.25	
+	PON-оборудование				
+	WI-POL308G-P	WI-POL308G-P, управляемый GPON MDU 8*GE PoE + 1*2,5G GPON SC	92860.0	74287.125	Под заказ
+	WI-POL5800-08	WI-POL5800-08, Управляемый коммутатор GPON OLT  8*GPON SC+4*10G SFP+4*GE	1193950.0	955157.7750000001	Под заказ
+https://ipmatika.kz/products/wifi-mosty/	WiFi мосты				
+https://ipmatika.kz/products/wifi-mosty/wi-tek-wi-cpe110-kit/	WI-CPE110-KIT	WI-CPE110-KIT комплект из двух преднастроенных точек доступа, 802.11b/g/n, 2.4ГГц, до 300Мбит/с	33170.0	26532.825000000004	
+https://ipmatika.kz/products/wifi-mosty/wi-tek-wi-cpe110-kit/	WI-CPE110-KIT v2	WI-CPE110-KIT комплект из двух преднастроенных точек доступа, 802.11b/g/n, 2.4ГГц, до 300Мбит/с	44000.0		NEW
+https://ipmatika.kz/products/wifi-mosty/wi-tek-wi-cpe111-kit-v2/	WI-CPE111-KIT V2	WI-CPE111-KIT комплект из двух преднастроенных точек доступа 802.11b/g/n 2,4ГГц до 300Мбит/с, Cloud	54390.0	43511.6	EOL
+https://ipmatika.kz/products/wifi-mosty/wi-tek-wi-cpe511h-kit/	WI-CPE511H-KIT	WI-CPE511H-KIT комплект из двух преднастроенных точек доступа, 802.11a/n, 5ГГц, до 900Мбит/с	59690.0	47754.299999999996	
+https://ipmatika.kz/products/wifi-mosty/wi-tek-wi-cpe513p-kit-v3/	WI-CPE513P-KIT v3	WI-CPE513P-KIT комплект из двух преднастроенных точек доступа 802.11a/n, 5ГГц, 2 LAN, PoE, Cloud	59260.0	47550.0	Акция 
+https://ipmatika.kz/products/wifi-mosty/wi-tek-wi-cpe515h-kit/	WI-CPE515H-KIT	WI-CPE515H-KIT комплект из двух преднастроенных точек доступа наружная 802.11a/n 5ГГц до 300Мбит/c	91530.0	73226.45	EOL
+https://ipmatika.kz/products/wifi-mosty/wi-tek-wi-cpe800-kit-v3/	WI-CPE800-KIT v3	WI-CPE800-KIT комплект из двух преднастроенных точек доступа, 802.11a/n, 5ГГц, до 867Мбит/с	112760.0	90205.22499999999	NEW
+https://ipmatika.kz/products/wifi-mosty/wi-tek-wi-cpe821/	WI-CPE821	WI-CPE821, Точка доступа наружная 360гр 802.11a/n 5,8Ггц до 867Мбит/c	145920.0	116738.04999999999	
+https://ipmatika.kz/products/wifi-smb/	WiFi точки доступа				
+https://ipmatika.kz/products/wifi-smb/wi-tek-wi-ac105p-v2/	WI-AC105P v2	WI-AC105P Контроллер WiFi	46430.0	37147.549999999996	
+https://ipmatika.kz/products/wifi-smb/wi-tek-wi-ac108p-v2/	WI-AC108P v2	WI-AC108P Контроллер WiFi	79600.0	63680.37499999999	
+https://ipmatika.kz/products/wifi-smb/wi-tek-wi-ac150/	WI-AC150	WI-AC150 Контроллер WiFi	66330.0	53065.65000000001	
+https://ipmatika.kz/products/wifi-smb/wi-tek-wi-ac50/	WI-AC50	WI-AC50 Контроллер WiFi	23220.0	18573.774999999998	EOL
+https://ipmatika.kz/products/wifi-smb/wi-tek-wi-ac500/	WI-AC500	WI-AC500 Контроллер WiFi	331650.0	265320.27499999997	Под заказ
+https://ipmatika.kz/products/accessories/wi-tek-wi-aod6/	WI-AODB6	WI-AODB6, Антенна всенаправленная двухдиапазонная 2,4/5 ГГц (6dBi), type-N	9290.0	7432.7	EOL
+https://ipmatika.kz/products/wifi-smb/wi-tek-wi-ap210-lite/	WI-AP210-Lite	WI-AP210-Lite Точка доступа c поддержкой PoE, Wi-Fi 4 (802.11a/b/g/n)	24950.0	19960.0	
+https://ipmatika.kz/products/wifi-smb/wi-tek-wi-ap215/	WI-AP215	WI-AP215 AC750 Двухдиапазонная точка доступа c поддержкой PoE, Wi-Fi 5 (802.11AC)	49740.0	39795.25	EOL
+https://ipmatika.kz/products/wifi-smb/wi-tek-wi-ap216v2/	WI-AP216 v2	WI-AP216 точка доступа Wi-Fi 5 AC1200 серии Lite для установки в помещении	25200.0	20160.8	
+https://ipmatika.kz/products/wifi-smb/wi-tek-wi-ap217/	WI-AP217	WI-AP217 AC1200 Гигабитная двухдиапазонная точка доступа c поддержкой PoE, Wi-Fi 5 (802.11AC Wave2)	69640.0	55713.35	
+https://ipmatika.kz/products/wifi-smb/wi-tek-wi-ap217-lite/	WI-AP217-Lite	WI-AP217-Lite Гигабитная двухдиапазонная точка доступа c поддержкой PoE, Wi-Fi 5 (802.11AC Wave2)	50410.0	40329.575	EOL
+https://ipmatika.kz/products/wifi-smb/wi-tek-wi-ap217-lite-v2/	WI-AP217-Lite v2	WI-AP217-Lite точка доступа потолочная Wi-Fi 5 (802.11AC), PoE, до 100 клиентов	43780.0	35026.2	NEW
+https://ipmatika.kz/products/wifi-smb/wi-tek-wi-ap218ax-v2/	WI-AP218AX v2	WI-AP218AX AX1800 точка доступа c поддержкой PoE, Wi-Fi 6 (802.11AX)	92860.0	74287.125	
+https://ipmatika.kz/products/wifi-smb/wi-tek-wi-ap218ax-lite-v2/	WI-AP218AX-Lite v2	WI-AP218AX-Lite точка доступа c поддержкой PoE, Wi-Fi 6 (802.11AX)	46430.0	37147.549999999996	
+https://ipmatika.kz/products/wifi-smb/wi-tek-wi-ap219ax/	WI-AP219AX	WI-AP219AX AX3550 Двухдиапазонная точка доступа c поддержкой PoE, Wi-Fi 6 (802.11AX)	172460.0	137967.49999999997	EOL
+https://ipmatika.kz/products/wifi-smb/wi-tek-wi-ap219ax/	WI-AP219AX v2	WI-AP219AX точка доступа потолочная Wi-Fi 6 (802.11AX), PoE, до 500 клиентов	106130.0	84901.84999999999	
+https://ipmatika.kz/products/wifi-smb/wi-tek-wi-ap219ax-lite-v2/	WI-AP219AX-Lite v2	WI-AP219AX-Lite точка доступа потолочная Wi-Fi 6 (802.11AX), PoE, до 150 клиентов	53060.0	42450.924999999996	
+https://ipmatika.kz/products/wifi-smb/wi-tek-wi-ap310-lite/	WI-AP310-Lite	WI-AP310-Lite Внешняя точка доступа c поддержкой PoE, Wi-Fi 4 (802.11N)	23380.0	18700.0	
+https://ipmatika.kz/products/wifi-smb/wi-tek-wi-ap315/	WI-AP315	WI-AP315 AC750 Внешняя двухдиапазонная точка доступа c поддержкой PoE, Wi-Fi 5 (802.11AC)	33170.0	26532.825000000004	
+https://ipmatika.kz/products/wifi-smb/wi-tek-wi-ap316/	WI-AP316	WI-AP316 Внешняя двухдиапазонная точка доступа c поддержкой PoE, Wi-Fi 5 (802.11AC)	26540.0	21229.449999999997	EOL
+https://ipmatika.kz/products/wifi-smb/wi-tek-wi-ap316ax/	WI-AP316AX	WI-AP316AX, Внешняя двухдиапазонная точка доступа c поддержкой PoE, Wi-Fi 6	110250.0	88200.0	
+https://ipmatika.kz/products/wifi-smb/wi-tek-wi-ap317/	WI-AP317	WI-AP317 Внешняя двухдиапазонная точка доступа c поддержкой PoE, Wi-Fi 5 (802.11AC)	59690.0	47754.299999999996	EOL
+https://ipmatika.kz/products/wifi-smb/wi-tek-wi-ap417P/	WI-AP417P	WI-AP417P точка доступа Wi-Fi 5 (802.11aс) серии Project для встраивания в стену, PoE, 4GE	46430.0	37147.549999999996	EOL
+https://ipmatika.kz/products/wifi-smb/wi-tek-wi-ap510/	WI-AP510	WI-AP510 AC1200 Внешняя двухдиапазонная точка доступа c поддержкой PoE, Wi-Fi 5 (802.11AC Wave2)	187140.0	140250.0	Акция 
+https://ipmatika.kz/products/wifi-smb/wi-tek-wi-ap518ax/	WI-AP518AX	WI-AP518AX Внешняя двухдиапазонная точка доступа c поддержкой PoE, Wi-Fi 6 (802.11AX)	514270.0	411414.3	EOL
+https://ipmatika.kz/products/wifi-smb/wi-tek-wi-ap520ax-d/	WI-AP520AX-D	WI-AP520AX-D, внешняя двухдиапазонная точка доступа c поддержкой PoE, Wi-Fi6, SFP	212250.0	169803.69999999998	
+https://ipmatika.kz/products/opticheskie-moduli/	SFP модули				
+https://ipmatika.kz/products/opticheskie-moduli/wi-sfp10lc-20km/	WI-SFP10LC-20KM	WI-SFP10LC-20KM, Модуль SFP WDM, дальность до 20км (14dB), комплект 2шт 1310/1550нм	13270.0	10614.724999999999	
+https://ipmatika.kz/products/opticheskie-moduli/wi-sfp10lc-3km/	WI-SFP10LC-3KM	WI-SFP10LC-3KM, Модуль SFP WDM, дальность до 3км (6dB), комплект 2шт 1310/1550нм	10620.0	8493.375	
+https://ipmatika.kz/products/opticheskie-moduli/wi-sfp10sc-20km/	WI-SFP10SC-20KM	WI-SFP10SC-20KM, Модуль SFP WDM, дальность до 20км (14dB), комплект 2шт 1310/1550нм	13270.0	10614.724999999999	
+https://ipmatika.kz/products/opticheskie-moduli/wi-sfp10sc-3km/	WI-SFP10SC-3KM	WI-SFP10SC-3KM, Модуль SFP WDM, дальность до 3км (6dB), комплект 2шт 1310/1550нм	11940.0	9554.05	
+https://ipmatika.kz/products/opticheskie-moduli/wi-sfp20-10g-20km/	WI-SFP20-10G-20KM	WI-SFP20-10G-20KM, Модуль SFP+  дальность до 20км (11dB), 1310нм	11940.0	9554.05	
+https://ipmatika.kz/products/opticheskie-moduli/wi-sfp30-10g/	WI-SFP30-10G	WI-SFP30-10G, Модуль SFP+ с интерфейсом RJ45, до 30м	33170.0	26532.825000000004	
+https://ipmatika.kz/products/switch-accessories/tgnet-sfp-10ge-lx-sm1310/	SFP+-10GE-LX-SM1310	МодульTG-NET SFP-10GE-LX-SM1310 (комплект 2шт)	25990.0	20790.0	Акция 
+https://ipmatika.kz/products/opticheskie-moduli/wi-sfp30/	WI-SFP30	WI-SFP30, Модуль SFP с интерфейсом RJ45, до 100м	9290.0	7432.7	
+https://ipmatika.kz/products/accessories/	Аксессуары				
+https://ipmatika.kz/products/accessories/wi-tek-wi-08kit/	WI-08KIT	WI-08KIT, Комплект кронштейнов для монтажа коммутаторов 19''	3980.0	3182.0249999999996	
+https://ipmatika.kz/products/accessories/wi-tek-wi-brkc135/	WI-BRKC135	WI-BRKC135, кронштейн для монтажа беспроводных мостов	2650.0	2121.35	
+https://ipmatika.kz/products/accessories/wi-tek-wi-pe31e/	WI-PE31E	WI-PE31E, Повторитель PoE, порты 1FE PoE-in + 2FE PoE-out	17910.0	14331.074999999999	
+https://ipmatika.kz/products/accessories/wi-tek-wi-pe51e/	WI-PE51E	WI-PE51E, Повторитель PoE, порты 1FE PoE-in + 4FE PoE-out + 1FE	26540.0	21229.449999999997	
+https://ipmatika.kz/products/accessories/wi-tek-wi-poe11s-48v/	WI-POE11S-48V	WI-POE11S-48V, Сплиттер PoE, совместим с 802.3af/at ,1FE PoE-in, 1FE out, DC 12В out	2920.0	2336.6749999999997	
+https://ipmatika.kz/products/accessories/wi-tek-wi-poe21e-o/	WI-POE21E-O	WI-POE21E-O, Повторитель PoE уличный, 1GE PoE-вход 802.3bt (60Вт), 2GE PoE-выхода 802.3af/at	42450.0	33957.549999999996	
+https://ipmatika.kz/products/accessories/wi-tek-wi-poe22e-o/	WI-POE22E-O	WI-POE22E-O, Повторитель PoE уличный, 1GE PoE-вход 802.3bt (90Вт), 2GE PoE-выхода 802.3af/at/bt	55720.0	44572.274999999994	
+https://ipmatika.kz/products/accessories/wi-tek-wi-poe60-24v/	WI-POE60-24V	WI-POE60-24V, преобразователь PoE Gigabit Ethernet 48В в 24В	9290.0	7432.7	
+https://ipmatika.kz/products/accessories/wi-tek-wi-poe90x/	WI-POE90X	WI-POE90X, преобразователь PoE Gigabit Ethernet 12/24В в 48В	19900.0	15918.099999999999	
+	Блоки питания				
+https://ipmatika.kz/products/accessories/wi-tek-wi-dp120w-48v/	WI-DP120W-48V	WI-DP120W-48V блок питания 48В, 2,5А, 120Вт	27190.0	21755.8	NEW
+https://ipmatika.kz/products/accessories/wi-tek-wi-dp240w-48v/	WI-DP240W-48V	WI-DP240W-48V блок питания 48В, 5А, 240Вт	46430.0	37147.549999999996	NEW
+https://ipmatika.kz/products/accessories/wi-tek-wi-dp30w-12v/	WI-DP30W-12V	WI-DP30W-12V блок питания 12В, 2.5А, 30Вт	10620.0	8493.375	NEW
+https://ipmatika.kz/products/accessories/wi-tek-wi-dp480w-48v/	WI-DP480W-48V	WI-DP480W-48V блок питания 48В, 10А, 480Вт	92860.0	74287.125	NEW
+https://ipmatika.kz/products/accessories/wi-tek-wi-dp75w-48v/	WI-DP75W-48V	WI-DP75W-48V блок питания 48В, 1,6А, 76Вт	19900.0	15918.099999999999	NEW
+	Инжекторы PoE				
+https://ipmatika.kz/products/accessories/wi-tek-wi-poe31-24v/	WI-POE31-24V	WI-POE31-24V, Инжектор 100Base-T, PoE 24В	5700.0	4561.7	
+https://ipmatika.kz/products/accessories/wi-tek-wi-poe31-48v/	WI-POE31-48V	WI-POE31-48V, Инжектор 100Base-T 30Вт совместим с 802.3af/at , 48В	5700.0	4561.7	
+https://ipmatika.kz/products/accessories/wi-tek-wi-poe31-48v/	WI-POE31-48V-4578	WI-POE31-48V, Инжектор 100Base-T 30Вт, PIN 4,5+/7,8-, 48В			
+https://ipmatika.kz/products/accessories/wi-tek-wi-poe51-24v/	WI-POE51-24V	WI-POE51-24V, Инжектор 1000Base-T, PoE 24В	11270.0	9019.725	
+https://ipmatika.kz/products/accessories/wi-tek-wi-poe51-48v/	WI-POE51-48V	WI-POE51-48V, Инжектор 1000Base-T 30Вт совместим с 802.3af/at , 48В	11270.0	9019.725	EOL
+https://ipmatika.kz/products/accessories/wi-tek-wi-poe51-48v/	WI-POE51-48V v2	WI-POE51-48V, Инжектор 1000Base-T 30Вт совместим с 802.3af/at , 48В, v2	11270.0	9019.725	
+https://ipmatika.kz/products/accessories/wi-tek-wi-poe55-48v-60w/	WI-POE55-48V-60W	WI-POE55-48V-60W, Инжектор 1000Base-T 60Вт совместим с 802.3af/at/bt, 48В	17250.0	13796.75	
+https://ipmatika.kz/products/accessories/wi-poe58-bt%20v2/	WI-POE58-BT v2	WI-POE58-BT инжектор PoE 2.5GE BT + 2.5GE Uplink			
+https://ipmatika.kz/products/accessories/wi-poe58-bt-l-dc/	WI-POE58-BT-I-DC	WI-POE58-BT-I-DC Промышленный PoE инжектор 1GE BT+1GE Uplink, DC 12-57В	53060.0	42450.924999999996	NEW
+https://ipmatika.kz/products/ups/wi-tek-wi-ps302g-ups/	WI-PS302G-UPS	WI-PS302G-UPS, Инжектор с функцией UPS, 1-1000Base-T PoE, 1-1000Base-T, AC/DC in, DC out 24/48В	23880.0	19100.125	EOL
+	Промышленные SFP модули				
+https://ipmatika.kz/products/opticheskie-moduli/wi-sfp10l-10g-20km-l/	WI-SFP10L-10G-20KM-I	WI-SFP10L-10G-20KM-I, промышленный модуль SFP+ с разъемом LC, до 20км			
+https://ipmatika.kz/products/opticheskie-moduli/wi-sfp10l-25g-20km-i/	WI-SFP10L-2.5G-20KM-I	WI-SFP10L-2.5G-20KM-I, промышленный модуль SFP+ с разъемом LC, до 20км, 2 шт.	22550.0	18039.45	
+https://ipmatika.kz/products/opticheskie-moduli/wi-sfp10l-20km-i/	WI-SFP10L-20KM-I	WI-SFP10L-20KM-I, промышленный модуль SFP+ с разъемом LC, до 20км, 2 шт.	15920.0	12736.074999999999	
+https://ipmatika.kz/products/opticheskie-moduli/wi-sfp10l-3km-i/	WI-SFP10L-3KM-I	WI-SFP10L-3KM-I, промышленный модуль SFP с разъемом LC, до 3км, 2 шт.	13270.0	10614.724999999999	
+https://ipmatika.kz/products/opticheskie-moduli/wi-sfp10s-20km-i/	WI-SFP10S-20KM-I	WI-SFP10S-20KM-I, промышленный модуль SFP с разъемом SC, до 20км, 2шт.	15920.0	12736.074999999999	
+https://ipmatika.kz/products/opticheskie-moduli/wi-sfp10s-3km-i/	WI-SFP10S-3KM-I	WI-SFP10S-3KM-I, промышленный модуль SFP с разъемом SC, до 3км, 2шт.	13270.0	10614.724999999999	
+https://ipmatika.kz/products/opticheskie-moduli/wi-sfp20l-25g-20km-i/	WI-SFP20L-2.5G-20KM-I	WI-SFP20L-2.5G-20KM-I, промышленный модуль SFP+ с разъемом LC, до 20км	10620.0	8493.375	
+https://ipmatika.kz/products/opticheskie-moduli/wi-sfp20l-20km-i/	WI-SFP20L-20KM-I	WI-SFP20L-20KM-I, промышленный модуль SFP с разъемом LC, до 20км			
+https://ipmatika.kz/products/opticheskie-moduli/wi-sfp21l-550-i/	WI-SFP21L-550-I	WI-SFP21L-550-I, промышленный модуль SFP с разъемом LC, до 550м	7960.0	6364.049999999999	
+https://ipmatika.kz/products/opticheskie-moduli/wi-sfp30-10g-I/	WI-SFP30-10G-I	WI-SFP30-10G-I, промышленный модуль SFP+ с интерфейсом RJ45, до 100м	43780.0	35026.2	
+https://ipmatika.kz/products/opticheskie-moduli/wi-sfp30-i/	WI-SFP30-I	WI-SFP30-I, промышленный модуль SFP с интерфейсом RJ45, до 100м	13270.0	10614.724999999999	
+	Промышленные SFP модули				
+https://ipmatika.kz/products/accessories/wi-tek-wi-spd10kv-poe/	WI-SPD10KV-POE	WI-SPD10KV-POE устройство грозозащиты Gigabit Ethernet с PoE на DIN-рейку	6630.0	5303.375	NEW
+https://ipmatika.kz/products/accessories/wi-tek-wi-spd10kv-poe-a/	WI-SPD10KV-POE-A	WI-SPD10KV-POE-A устройство грозозащиты Gigabit Ethernet с PoE	7030.0	5622.375	NEW
+https://ipmatika.kz/products/kommutatory-poe/	Коммутаторы PoE				
+https://ipmatika.kz/products/nastraivaemye-easy-smart/	Настраиваемые PoE-коммутаторы 100M/1000M серии Easy Smart				
+https://ipmatika.kz/products/nastraivaemye-easy-smart/wi-tek-wi-pces206/	WI-PCES206	WI-PCES206, настраиваемый PoE 60Вт, порты 4FE PoE + 2FE, Easy Smart	19900.0	15918.099999999999	
+https://ipmatika.kz/products/nastraivaemye-easy-smart/wi-tek-wi-pces210g/	WI-PCES210G	WI-PCES210G, настраиваемый PoE 100Вт, порты 8FE PoE + 2GE, Easy Smart	35820.0	28654.174999999996	
+https://ipmatika.kz/products/nastraivaemye-easy-smart/wi-tek-wi-pces218gf/	WI-PCES218GF	WI-PCES218GF, настраиваемый PoE 250Вт, порты 16FE PoE + 2SFP, Easy Smart	92860.0	74287.125	
+https://ipmatika.kz/products/nastraivaemye-easy-smart/wi-tek-wi-pces226gf/	WI-PCES226GF	WI-PCES226GF, настраиваемый PoE 280Вт, порты 24FE PoE + 2Combo SFP, Easy Smart	118070.0	94455.9	
+https://ipmatika.kz/products/nastraivaemye-easy-smart/wi-tek-wi-pces306g/	WI-PCES306G	WI-PCES306G настраиваемый PoE 60Вт, порты 4 PoE GE + 2GE, Easy Smart	34490.0	27593.5	EOL
+https://ipmatika.kz/products/nastraivaemye-easy-smart/wi-tek-wi-pces306g-v2/	WI-PCES306G v2	WI-PCES306G, настраиваемый PoE 60Вт, порты 4 PoE GE + 2GE, Easy Smart	30510.0	24411.474999999995	
+https://ipmatika.kz/products/nastraivaemye-easy-smart/wi-tek-wi-pces306gf/	WI-PCES306GF	WI-PCES306GF настраиваемый PoE 60Вт, порты 4 PoE GE + 1GE + 1SFP, Easy Smart	35820.0	28654.174999999996	EOL
+https://ipmatika.kz/products/nastraivaemye-easy-smart/wi-tek-wi-pces308gf/	WI-PCES308GF	WI-PCES308GF настраиваемый PoE 60Вт, порты 8 PoE GE + 1 GE + 1 SFP, Easy Smart	55720.0	44572.274999999994	EOL
+https://ipmatika.kz/products/nastraivaemye-easy-smart/wi-tek-wi-pces310g/	WI-PCES310G	WI-PCES310G настраиваемый PoE 110Вт, порты 8 PoE GE + 2 GE	53060.0	42450.924999999996	
+https://ipmatika.kz/products/nastraivaemye-easy-smart/wi-tek-wi-pces310gf-v2/	WI-PCES310GF v2	WI-PCES310GF, настраиваемый PoE 120Вт, порты 8 PoE GE + 2 SFP, Easy Smart	57040.0	45632.94999999999	
+https://ipmatika.kz/products/nastraivaemye-easy-smart/wi-tek-wi-pces318gf-v2/	WI-PCES318GF v2	WI-PCES318GF, настраиваемый PoE 250Вт, порты 16 PoE GE + 2 SFP, Easy Smart	130000.0	104001.975	
+https://ipmatika.kz/products/nastraivaemye-easy-smart/wi-tek-wi-pces326gf/	WI-PCES326GF	WI-PCES326GF настраиваемый PoE 370Вт, порты 24 PoE GE + 2 SFP, Easy Smart	198990.0	159188.97499999998	EOL
+https://ipmatika.kz/products/nastraivaemye-easy-smart/wi-tek-wi-pces326gf-v2/	WI-PCES326GF v2	WI-PCES326GF, настраиваемый PoE 370Вт, порты 24 PoE GE + 2 SFP, Easy Smart	172460.0	137967.49999999997	
+https://ipmatika.kz/products/ups/	Коммутаторы серии UPS (питание12В)		0.0	0.0	
+https://ipmatika.kz/products/ups/wi-tek-wi-pms310gf-ups/	WI-PMS310GF-UPS v2	WI-PMS310GF-UPS, Коммутатор управляемый L2 с функцией UPS,подзарядка от солн.панели 8PoE+2хSFP, SNMP	238790.0	191033.15	EOL
+https://ipmatika.kz/products/ups/wi-tek-wi-ps306gf-ups/	WI-PS306GF-UPS v3	WI-PS306GF-UPS, Коммутатор неуправляемый с функцией UPS, 5хGE PoE + 1хSFP, DIP переключатель	106130.0	84901.84999999999	
+https://ipmatika.kz/products/16-poe-ports/	Неуправляемые коммутаторы 16 PoE портов				
+https://ipmatika.kz/products/16-poe-ports/wi-tek-wi-ps518g-v4/	WI-PS518G v4	WI-PS518G, Коммутатор неуправляемый PoE 200Вт, порты 16 PoE FE, 1GE, 1Combo, режим 250м, Watchdog	91920.0	73536.0	
+https://ipmatika.kz/products/16-poe-ports/wi-tek-wi-ps518gh/	WI-PS518GH	WI-PS518GH, Коммутатор неуправляемый PoE 150Вт, порты 16 PoE FE + 1GE + 1Combo, режим 250м, Watchdog	66330.0	53065.65000000001	
+https://ipmatika.kz/products/24-48-poe-ports/	Неуправляемые коммутаторы 24-48 PoE портов				
+https://ipmatika.kz/products/24-48-poe-ports/wi-tek-wi-ps348g/	WI-PS348G	WI-PS348G Коммутатор неуправляемый PoE 600Вт, порты 48 PoE GE	291860.0	233484.07499999998	EOL
+https://ipmatika.kz/products/24-48-poe-ports/wi-tek-wi-ps526g-v4/	WI-PS526G v4	WI-PS526G, Коммутатор неуправляемый PoE 270Вт, порты 24 PoE FE, 2 Combo, режим 250м, VLAN, Watchdog	127500.0	102000.0	
+https://ipmatika.kz/products/24-48-poe-ports/wi-tek-wi-ps526gh/	WI-PS526GH	WI-PS526GH, Коммутатор неуправляемый PoE 200Вт, порты 24 PoE FE + 1GE + 1Combo, режим 250м, Watchdog	90210.0	72165.775	
+https://ipmatika.kz/products/4-poe-ports/	Неуправляемые коммутаторы 4 PoE порта				
+https://ipmatika.kz/products/4-poe-ports/wi-tek-wi-ps205-v4/	WI-PS205 v4	WI-PS205, Коммутатор неуправляемый PoE 65Вт, порты 4PoE FE + 2FE, режим 250м и VLAN, Watchdog, v4	19900.0	15918.099999999999	EOL
+https://ipmatika.kz/products/4-poe-ports/wi-tek-wi-ps205H-v2/	WI-PS205H v2	WI-PS205H, Коммутатор неуправляемый PoE 40Вт, порты 4 PoE FE + 2FE, режим 250м + VLAN, Watchdog	14400.0	11520.0	
+https://ipmatika.kz/products/4-poe-ports/wi-tek-wi-ps305g-v2/	WI-PS305G v2	WI-PS305G, Коммутатор неуправляемый PoE 65Вт, порты 4 PoE GE + 2GE, режим VLAN, Watchdog, HiPoE			
+https://ipmatika.kz/products/4-poe-ports/wi-tek-wi-ps305gh/	WI-PS305GH	WI-PS305GH, Коммутатор неуправляемый PoE 45Вт, порты 4 PoE GE + 1GE, режим VLAN, Watchdog	23880.0	19100.125	EOL
+https://ipmatika.kz/products/8-poe-ports/	Неуправляемые коммутаторы 8 PoE портов				
+https://ipmatika.kz/products/8-poe-ports/wi-tek-wi-ps210-v4/	WI-PS210 v4	WI-PS210, Коммутатор неуправляемый PoE 120Вт, порты 8 PoE FE, 2FE, режим 250м и VLAN, Watchdog, v4	30510.0	24411.474999999995	EOL
+https://ipmatika.kz/products/8-poe-ports/wi-tek-wi-ps210g-v4/	WI-PS210G v4	WI-PS210G, Коммутатор неуправляемый PoE 120Вт, порты 8 PoE FE + 2GE, режимы CCTV/VLAN, Watchdog, QoS	35820.0	28654.174999999996	EOL
+https://ipmatika.kz/products/8-poe-ports/wi-tek-wi-ps210H/	WI-PS210H	WI-PS210H, Коммутатор неуправляемый PoE 65Вт, порты 8 PoE FE + 2FE, режим 250м + VLAN, Watchdog	21640.0	17312.0	
+https://ipmatika.kz/products/8-poe-ports/wi-tek-wi-ps308g-v2/	WI-PS308G v2	WI-PS308G, Коммутатор неуправляемый PoE 120Вт, порты 8 PoE GE + 2GE, Watchdog, HiPoE			
+https://ipmatika.kz/products/promyshlennnye-kommutatory-poe-/	Промышленные PoE-коммутаторы				
+https://ipmatika.kz/products/promyshlennnye-kommutatory-poe-/wi-tek-sp3006f/	SP3006F	SP3006F промышленный неуправляемый PoE, 4GE+2SFP	66330.0	53065.65000000001	
+https://ipmatika.kz/products/promyshlennnye-kommutatory-poe-/wi-tek-sp3006f-bt/	SP3006F-BT	SP3006F-BT, промышленный неуправляемый PoE BT, 4GE+2SFP	92860.0	74287.125	
+https://ipmatika.kz/products/promyshlennnye-kommutatory-poe-/wi-tek-sp3006fm-l2-v3/	SP3006FM-L2 v3	SP3006FM-L2 промышленный управлямый L2+ PoE BT, 4GE+2SFP 2,5Gb, RS485	139290.0	111434.67499999999	
+https://ipmatika.kz/products/promyshlennnye-kommutatory-poe-/wi-tek-sp3006fm/	SP3006FM	SP3006FM, промышленный настраиваемый PoE, 4GE+2SFP	106130.0	84901.84999999999	
+https://ipmatika.kz/products/promyshlennnye-kommutatory-poe-/wi-tek-sp3010f/	SP3010F	SP3010F промышленный неуправляемый PoE, 8GE+2SFP	104800.0	83841.17499999999	
+https://ipmatika.kz/products/promyshlennnye-kommutatory-poe-/wi-tek-sp3010f-bt/	SP3010F-BT	SP3010F-BT, промышленный неуправляемый PoE BT, 8GE+2SFP	132660.0	106131.30000000002	
+https://ipmatika.kz/products/promyshlennnye-kommutatory-poe-/wi-tek-sp3010fm-l2-v3/	SP3010FM-L2 v3	SP3010FM-L2 промышленный управляемый L2, PoE BT, 8GE+2 SFP 2,5Gb+1Console, RS485	185730.0	148582.225	
+https://ipmatika.kz/products/promyshlennnye-kommutatory-poe-/wi-tek-sp3010fm/	SP3010FM	SP3010FM, промышленный настраиваемый PoE, 8GE+2SFP	145920.0	116738.04999999999	
+https://ipmatika.kz/products/promyshlennnye-kommutatory-poe-/wi-tek-sp3012fm-l2-v3/	SP3012FM-L2 v3	SP3012FM-L2 промышленный управляемый L2, PoE BT, 8GE+4 SFP 2,5Gb +1Console, RS485	212250.0	169803.69999999998	
+https://ipmatika.kz/products/promyshlennnye-kommutatory-poe-/wi-tek-sp3018f/	SP3018F	SP3018F, промышленный неуправляемый, PoE, 16GE+2SFP	252050.0	201639.89999999997	
+https://ipmatika.kz/products/promyshlennnye-kommutatory-poe-/wi-tek-sp3018fm-l2/	SP3018FM-L2	SP3018FM-L2, промышленный управляемый L2, PoE, 16GE+2SFP 2,5Gb	358190.0	286549.725	
+https://ipmatika.kz/products/promyshlennnye-kommutatory-poe-/wi-tek-sp5012fm-l2/	SP5012FM-L2	SP5012FM-L2, промышленный управлямый L2, PoE, 8GE+4SFP 10Gb	265320.0	212254.62499999997	EOL
+https://ipmatika.kz/products/promyshlennnye-kommutatory-poe-/wi-tek-wi-pces310gf-f/	WI-PCES310GF-F	WI-PCES310GF-F, промышленный плоскопанельный настраиваемый, PoE, 8GE+2SFP	172460.0	137967.49999999997	
+https://ipmatika.kz/products/promyshlennnye-kommutatory-poe-/wi-tek-wi-pcms306gf-i/	WI-PCMS306GF-I	WI-PCMS306GF-I, коммутатор промышленный L2 PoE, порты 4GE PoE, 2SFP, Cloud	139290.0	111434.67499999999	
+https://ipmatika.kz/products/promyshlennnye-kommutatory-poe-/wi-tek-wi-pcms310gf-i%20v2/	WI-PCMS310GF-I v2	WI-PCMS310GF-I v2 Коммутатор промышленный управлямый L2+, PoE 120 Вт, 8GE+2SFP	185730.0	148582.225	
+https://ipmatika.kz/products/promyshlennnye-kommutatory-poe-/wi-tek-wi-pcms312gf-bt-i/	WI-PCMS312GF-BT-I	WI-PCMS312GF-BT-I, промышленный управляемый L2, PoE BT, 8GE+4SFP, Cloud	225520.0	180418.425	Под заказ
+https://ipmatika.kz/products/promyshlennnye-kommutatory-poe-/wi-tek-wi-pcms312gf-bt-i/	WI-PCMS312GF-BT-I v2	WI-PCMS312GF-BT-I Коммутатор промышленный управляемый L2+, PoE 460Вт, 8GE+4SFP	225520.0	180418.425	Под заказ
+https://ipmatika.kz/products/promyshlennnye-kommutatory-poe-/wi-tek-wi-pms305gf-i/	WI-PMS305GF-I	WI-PMS305GF-I Промышленный управляемый L2 коммутатор 4 PoE-out + 1 PoE-in + 1 SFP	155210.0	124170.74999999997	EOL
+https://ipmatika.kz/products/promyshlennnye-kommutatory-poe-/wi-tek-wi-pms306gf-i/	WI-PMS306GF-I	WI-PMS306GF-I Промышленный управляемый L2 коммутатор 4 PoE 1000Base-T + 2 SFP	129950.0	97520.0	Акция 
+https://ipmatika.kz/products/promyshlennnye-kommutatory-poe-/wi-tek-wi-pms310gf-alien-i_v2/	WI-PMS310GF-Alien-I v2	WI-PMS310GF-Alien-I промышленный управляемый L2 PoE, 8GE+2SFP+1Console	225520.0	180418.425	EOL
+https://ipmatika.kz/products/promyshlennnye-kommutatory-poe-/wi-tek-wi-pms312gf-i-v2/	WI-PMS312GF-I v2	WI-PMS312GF-I Промышленный управляемый L2 коммутатор 8 PoE 1000Base-T + 4 SFP	175700.0	132240.0	Акция 
+https://ipmatika.kz/products/promyshlennnye-kommutatory-poe-/wi-tek-wi-PS206-i-v2/	WI-PS206-I v2	WI-PS206-I Промышленный неуправляемый коммутатор 4 PoE 802.3at/af 100Base-T+2 100Base-T, Watchdog	45770.0	36613.225	EOL
+https://ipmatika.kz/products/promyshlennnye-kommutatory-poe-/wi-tek-wi-ps206gf-i-v2/	WI-PS206GF-I v2	WI-PS206GF-I Промышленный неуправляемый PoE коммутатор 4FE+1GE+1SFP	50410.0	40329.575	
+https://ipmatika.kz/products/promyshlennnye-kommutatory-poe-/wi-tek-wi-PS206gf-i/	WI-PS206GF-I	WI-PS206GF-I Промышленный неуправляемый коммутатор 4 PoE портов 100Base-T + 1 1000Base-T + 1 SFP	57500.0	46000.0	EOL
+https://ipmatika.kz/products/promyshlennnye-kommutatory-poe-/wi-tek-wi-PS212gf-i_v2/	WI-PS212GF-I v2	WI-PS212GF-I Промышленный неуправляемый PoE коммутатор 8FE+1GE+1SFP	68980.0	55187.0	
+https://ipmatika.kz/products/promyshlennnye-kommutatory-poe-/wi-tek-wi-ps305g-i-dc/	WI-PS305G-I-DC	WI-PS305G-I-DC Промышленный неуправляемый PoE коммутатор 5GE, питание от солнечной панели DC 9-52В	66330.0	53065.65000000001	Под заказ
+https://ipmatika.kz/products/promyshlennnye-kommutatory-poe-/wi-tek-wi-ps310gf-i-v2/	WI-PS310GF-I v2	WI-PS310GF-I Промышленный неуправляемый коммутатор 8 PoE портов 1000Base-T + 2 Combo, Watchdog	163170.0	130534.79999999999	EOL
+https://ipmatika.kz/products/ulichnye-4-8-poe/	Уличные PoE-коммутаторы		0.0	0.0	
+https://ipmatika.kz/products/ulichnye-4-8-poe/wi-tek-wi-pces206-o/	WI-PCES206-O	WI-PCES206-O, Коммутатор уличный настраиваемый PoE 60Вт, порты 4FE PoE+2FE	34490.0	27593.5	
+https://ipmatika.kz/products/ulichnye-4-8-poe/wi-tek-wi-pces210g-o/	WI-PCES210G-O	WI-PCES210G-O, Коммутатор уличный настраиваемый PoE 100Вт, порты 8FE PoE+2GE	45110.0	36086.87499999999	
+https://ipmatika.kz/products/ulichnye-4-8-poe/wi-tek-wi-pces306g-o/	WI-PCES306G-O	WI-PCES306G-O, Коммутатор гигабитный уличный настраиваемый PoE 60Вт, порты 4GE PoE+2GE	46430.0	37147.549999999996	
+https://ipmatika.kz/products/ulichnye-4-8-poe/wi-tek-wi-pces309gf-o/	WI-PCES309GF-O	WI-PCES309GF-O, Коммутатор уличный настраиваемый PoE 110Вт, порты 8GE PoE+1GE+1SFP	79600.0	63680.37499999999	
+https://ipmatika.kz/products/ulichnye-4-8-poe/wi-tek-wi-pcms310gf-o/	WI-PCMS310GF-O	WI-PCMS310GF-O Коммутатор уличный управляемый, 8GE(PoE)+2SFP, Cloud	106130.0	84901.84999999999	
+	WI-PCMS310GF-O V2	WI-PCMS310GF-O уличный управляемый L2 PoE 110Вт, 8GE+2SFP	106130.0	84901.84999999999	
+https://ipmatika.kz/products/ulichnye-4-8-poe/wi-tek-wi-ps209-o/	WI-PS205-O	WI-PS205-O, уличный неуправляемый PoE 60Вт, 4FE+1FE, IP65	34490.0	27593.5	EOL
+https://ipmatika.kz/products/ulichnye-4-8-poe/wi-tek-wi-ps209-o/	WI-PS209-O	WI-PS209-O, уличный неуправляемый PoE 120Вт, 8FE+1FE, IP65	45110.0	36086.87499999999	EOL
+https://ipmatika.kz/products/ulichnye-4-8-poe/wi-tek-wi-ps306gf-o/	WI-PS306GF-O	WI-PS306GF-O Коммутатор уличный неуправляемый PoE 65Вт, порты 4GE(PoE)+1GE+1SFP, IP65	46430.0	37147.549999999996	EOL
+https://ipmatika.kz/products/ulichnye-4-8-poe/wi-ps306gf-o-dc/	WI-PS306GF-O-DC	WI-PS306GF-O-DC Коммутатор уличный неуправляемый PoE 60Вт, порты 4GE(PoE)+1GE(60W PoE in)+1SFP, IP65	53060.0	42450.924999999996	EOL
+https://ipmatika.kz/products/ulichnye-4-8-poe/wi-tek-wi-ps309gf-o/	WI-PS309GF-O	WI-PS309GF-O Коммутатор уличный неуправляемый PoE 120Вт, порты 8 PoE (8GE)+2SFP, IP65	92860.0	74287.125	EOL
+https://ipmatika.kz/products/managed-l2/	Управляемые PoE-коммутаторы				
+https://ipmatika.kz/products/managed-l2/wi-tek-wi-pcms310gf/	WI-PCMS310GF	WI-PCMS310GF, коммутатор L2 PoE, бюджет 150Вт, порты 8GE PoE,2SFP, Cloud,	92860.0	74287.125	EOL
+https://ipmatika.kz/products/managed-l2/wi-tek-wi-pcms310gf-v2/	WI-PCMS310GF v2	WI-PCMS310GF, управляемый PoE бюджет 150Вт, порты 8GE PoE,2SFP, Cloud,	92860.0	74287.125	
+https://ipmatika.kz/products/managed-l2/wi-tek-wi-pcms328gf/	WI-PCMS328GF	WI-PCMS328GF, коммутатор L2 PoE бюджет 400Вт, порты 24GE PoE, 2comboSFP, 2SFP, Cloud			
+https://ipmatika.kz/products/managed-l2/wi-tek-wi-pcms328gf/	WI-PCMS328GF v2	WI-PCMS328GF, коммутатор L2 PoE бюджет 400Вт, порты 24GE PoE, 2comboSFP, 2SFP, Cloud, v2	185730.0	148582.225	
+https://ipmatika.kz/products/managed-l2/wi-tek-wi-pcms5010bt-l3/	WI-PCMS5010BT-L3	WI-PCMS5010BT-L3, управляемый коммутатор, PoE бюджет 370Вт, 8*2,5GE PoE, 2SFP+ 10G, Cloud	278590.0	222869.34999999998	Под заказ
+https://ipmatika.kz/products/managed-l2/wi-tek-wi-pcms528f-l3/	WI-PCMS528F-L3 v2	WI-PCMS528F-L3 управляемый коммутатор, PoE бюджет 370Вт, 24GE PoE, 4SFP+ 10G, Cloud	331650.0	265320.27499999997	Под заказ
+https://ipmatika.kz/products/managed-l2/wi-tek-wi-pcms528f-l3/	WI-PCMS528F-L3	WI-PCMS528F-L3, управляемый коммутатор, PoE бюджет 370Вт, 24GE PoE, 4SFP+ 10G, Cloud	331650.0	265320.27499999997	Под заказ
+https://ipmatika.kz/products/managed-l2/wi-tek-wi-pcms554f-l3-v2/	WI-PCMS554F-L3 v2	WI-PCMS554F-L3, управляемый PoE бюджет 370Вт, 48GE PoE, 6SFP+ 10G, Cloud	464310.0	371451.57499999995	Под заказ
+https://ipmatika.kz/products/managed-l2/wi-tek-wi-pcms554f-l3-v2/	WI-PCMS554F-L3 v2	WI-PCMS554F-L3, управляемый PoE бюджет 370Вт, 48GE PoE, 6SFP+ 10G, Cloud	396179.0	348260.0	После ремонта
+https://ipmatika.kz/products/managed-l2/wi-tek-wi-pcms554fp-l3/	WI-PCMS554FP-L3	WI-PCMS554FP-L3, управляемый PoE бюджет 800Вт, 48GE PoE, 6SFP+ 10G, Cloud	570440.0	456353.425	Под заказ
+https://ipmatika.kz/products/managed-l2/wi-tek-wi-pms310gf-alien/	WI-PMS310GF-Alien	WI-PMS310GF-Alien, Коммутатор управляемый L2 MIX PoE 24/48В 150Вт, порты 8 PoE GE + 2SFP	118070.0	94455.9	
+https://ipmatika.kz/products/managed-l2/wi-tek-wi-pms320gf/	WI-PMS320GF	WI-PMS320GF Коммутатор управляемый L2 PoE 350Вт, порты 16 PoE GE + 2SFP	223520.0	155950.0	Акция 
+https://ipmatika.kz/products/managed-l2/wi-tek-wi-pms552f/	WI-PMS552F	WI-PMS552F, Коммутатор управляемый L2+  48 PoE GE + 4*10G SFP+, бюджет PoE 565Вт			
+https://ipmatika.kz/products/kommutatory/	Коммутаторы без PoE		0.0	0.0	
+https://ipmatika.kz/products/managed-l2/wi-tek-s5028fm-16s8c4x-l3/	S5028FM-16S8C4X-L3	S5028FM-16S8C4X-L3, Коммутатор промышленный управляемый L3, 16SFP + 8GE Combo + 4x10G SFP+	849030.0	679222.7749999999	Под заказ
+https://ipmatika.kz/products/managed-l2/wi-tek-s5028fm-16t8c4x-l3/	S5028FM-16T8C4X-L3	S5028FM-16T8C4X-L3, Коммутатор промышленный управляемый L3, 16GE + 8GE Combo + 4x10G SFP+	795960.0	636771.85	Под заказ
+https://ipmatika.kz/products/kommutatory/wi-tek-wi-cfs6012-l3/	WI-CFS6012-L3	WI-CFS6012-L3, управляемый L3 коммутатор, 12(10G) SFP+, Cloud	265320.0	212254.62499999997	Под заказ
+https://ipmatika.kz/products/kommutatory/wi-tek-wi-cgs5026%20v2/	WI-CGS5026 v2	WI-CGS5026, оптический управляемый коммутатор L2, порты 18SFP+8GE, v2	198990.0	159188.97499999998	Под заказ
+https://ipmatika.kz/products/managed-l2/wi-tek-wi-cgs5328-l3/	WI-CGS5328-L3	WI-CGS5328-L3 управляемый коммутатор, 4SFP+ (10G), 8GE combo, 16SFP, Cloud	331650.0	265320.27499999997	EOL
+https://ipmatika.kz/products/managed-l2/wi-tek-wi-cgs5328-l3/	WI-CGS5328-L3 v2	WI-CGS5328-L3, управляемый 8Сombo + 16SFP + 4SFP+(10G), Cloud	331650.0	265320.27499999997	Под заказ
+https://ipmatika.kz/products/kommutatory/wi-tek-wi-cms310gf/	WI-CMS310GF	WI-CMS310GF, Коммутатор управляемый L2, порты 8 100/1000Base-TX  + 2 SFP	72960.0	58369.024999999994	
+https://ipmatika.kz/products/kommutatory/wi-tek-wi-cms318gf/	WI-CMS318GF	WI-CMS318GF, Коммутатор управляемый L2, порты 16 100/1000Base-TX  + 2 SFP	118070.0	94455.9	
+https://ipmatika.kz/products/kommutatory/wi-tek-wi-cms328gf/	WI-CMS328GF	WI-CMS328GF, Коммутатор управляемый L2, порты 24 100/1000Base-TX  + 4 SFP	132660.0	106131.30000000002	
+https://ipmatika.kz/products/kommutatory/wi-tek-wi-cms528f-l3/	WI-CMS528F-L3	WI-CMS528F-L3, Коммутатор управляемый L3, 24GE + 4x10G SFP+	132660.0	106131.30000000002	
+https://ipmatika.kz/products/kommutatory/wi-tek-wi-cms554f-l3/	WI-CMS554F-L3	WI-CMS554F-L3, Коммутатор управляемый L3, 48GE + 6x10G SFP+	358190.0	286549.725	
+https://ipmatika.kz/products/kommutatory/wi-tek-wi-ms310gf/	WI-MS310GF	WI-MS310GF, Коммутатор управляемый L2, порты 8 100/1000Base-TX  + 2 SFP			
+https://ipmatika.kz/products/kommutatory/wi-tek-wi-ms318gf/	WI-MS318GF	WI-MS318GF, Коммутатор управляемый L2, порты 16 100/1000Base-TX  + 2 SFP	126020.0	100819.94999999998	EOL
+https://ipmatika.kz/products/kommutatory/wi-tek-wi-ms326gf/	WI-MS326GF	WI-MS326GF, Коммутатор управляемый L2, порты 24 100/1000Base-TX  + 2 SFP	143270.0	114616.69999999998	EOL
+	AL3500B15-E6	Avaya AL3500B15-E6 - Ethernet Routing Switch 3524GT-PWR+ with 24 10/100/1000 (802.3af/at) PoE ports & 4 shared SFP ports	335210.0	235240.0	Акция 
+https://ipmatika.kz/products/kommutatory/wi-tek-wi-sg105/	WI-SG105	WI-SG105, Коммутатор неуправляемый 5 портов 1000Base-T			Акция 
+https://ipmatika.kz/products/kommutatory/wi-tek-wi-sg105-v2/	WI-SG105 v2	WI-SG105, Коммутатор неуправляемый 5GE	6630.0	5303.375	
+https://ipmatika.kz/products/kommutatory/wi-tek-wi-sg105-v3/	WI-SG105 v3	WI-SG105 Коммутатор неуправляемый 5GE	6630.0	5303.375	
+https://ipmatika.kz/products/kommutatory/wi-tek-wi-sg108-v2/	WI-SG108 v2	WI-SG108, Коммутатор неуправляемый 8GE	10620.0	8493.375	
+https://ipmatika.kz/products/kommutatory/wi-tek-wi-sg108-v3/	WI-SG108 v3	WI-SG108, Коммутатор неуправляемый 8GE	10620.0	8493.375	
+https://ipmatika.kz/products/mediakonvertery/	Медиаконвертеры				
+https://ipmatika.kz/products/mediakonvertery/WI-MC101G	WI-MC101G	WI-MC101G, Медиаконвертеры 1000Mb/s, дальность до 25км, комплект 2шт 1310/1550нм	36880.0	29507.499999999996	
+https://ipmatika.kz/products/mediakonvertery/WI-MC101M	WI-MC101M	WI-MC101M, Медиаконвертеры 100Mb/s, дальность до 25км, комплект 2шт 1310/1550нм	19900.0	15918.099999999999	
+https://ipmatika.kz/products/mediakonvertery/WI-MC111GP-O	WI-MC111GP-O	WI-MC111GP-O, Медиаконвертер уличный 1000-Base-T c PoE 802.3af/at 1000Base-FX с SFP-портом	26540.0	21229.449999999997	
+https://ipmatika.kz/products/mediakonvertery/WI-MC111GP	WI-MC111GP	WI-MC111GP, Медиаконвертер 1000-Base-T c PoE 802.3af/at 1000Base-FX с SFP-портом	26540.0	21229.449999999997	
+https://ipmatika.kz/products/mediakonvertery/WI-PS302GF-I	WI-PS302GF-I	WI-PS302GF-I, Медиаконвертер промышленный с PoE, 1000-Base-T/1000Base-FX с SFP-портом	45770.0	36613.225	
+https://ipmatika.kz/products/mediakonvertery/wi-rsc302pd/	WI-RSC302PD	WI-RSC302PD медиаконвертер Gigabit Ethernet 1000BaseTX (PoE-вх) в 1000BaseSFP	18570.0	14857.425	
+	Milesight				
+https://ipmatika.kz/products/promyshlennye-lte-routery/	LTE маршрутизаторы				
+https://ipmatika.kz/products/promyshlennye-lte-routery/milesight-ur32-l04eu/	UR32-L04EU	Промышленный LTE маршрутизатор серии Pro	88000.0		Акция
+https://ipmatika.kz/products/promyshlennye-lte-routery/milesight-ur32-l04eu/	UR32-L04EU-W-485	Промышленный LTE маршрутизатор серии Pro, Wi-Fi, RS485	136400.0		Под заказ
+https://ipmatika.kz/products/promyshlennye-lte-routery/milesight-ur32l-l04eu/	UR32L-L04EU	Промышленный LTE маршрутизатор серии Lite	136420.0	95491.19999999998	Под заказ
+https://ipmatika.kz/products/promyshlennye-lte-routery/milesight-ur32l-l04eu/	UR32L-L04EU-P	Промышленный LTE маршрутизатор серии Lite, PoE	123480.0	86436.58799999999	Под заказ
+https://ipmatika.kz/products/promyshlennye-lte-routery/milesight-ur32l-l04eu/	UR32S-L04EU-P	Промышленный LTE маршрутизатор серии Lite, Wi-Fi, PoE	136340.0	95440.04399999998	Под заказ
+https://ipmatika.kz/products/promyshlennye-lte-routery/milesight-ur35-l04eu-w/	UR35-L04EU-G-P-W	Промышленный LTE маршрутизатор серии Pro, GPS, PoE, Wi-Fi	266240.0	186369.83399999997	Под заказ
+https://ipmatika.kz/products/promyshlennye-lte-routery/milesight-ur35-l04eu-w/	UR35-L04EU-W	Промышленный LTE маршрутизатор серии Pro, Wi-Fi	176000.0		Акция
+https://ipmatika.kz/products/promyshlennye-lte-routery/milesight-ur41-l08eu/	UR41-L08EU	Промышленный LTE маршрутизатор серии Mini, GPS, RS485	183930.0	128751.12599999999	Акция
+https://ipmatika.kz/products/promyshlennye-lte-routery/milesight-UR75-L04EU/	UR75-L04EU-G-P-W	Промышленный LTE маршрутизатор серии Ultra, GPS, PoE, Wi-Fi	206250.0		Акция

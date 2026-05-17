@@ -1,0 +1,72 @@
+Unnamed: 0	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	LAN-КАБЕЛЬ	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11	Unnamed: 12	Unnamed: 13
+													
+													
+													
+													
+													
+													
+													
+Артикул		Кабель F/UTP с экраном			Цена сайт								
+230338	-3.0	Кабель NEOLAN F/UTP indoor PVC 4x2x0,52 cat 5e CU	м		266.91	287	в наличии						
+230347	-3.0	Кабель NEOLAN F/UTP indoor PVC 4x2x0,5 cat 5e CU	м		252.03	271	в наличии						
+230346		Кабель NEOLAN F/UTP indoor LSZH 4x2x0,5 cat 5e CU	м		280.86	302	в наличии						
+497997	-2.0	Кабель витая пара кат. 5е SkyNet Standard FTPнг-LSZH 4х2х0.5 Cu.	м		266.91	287	в наличии						
+230234		Кабель NEOLAN SF/UTP indoor LSZH 4x2x0,52 cat 5e CU orange	м		385.02000000000004	414							
+													
+231565	-2.0	Кабель витая пара кат. 5е SkyNet Standard FTP outdoor 4х2х0.5 Cu.	м		244.59	263	в наличии						
+230339		Кабель NEOLAN F/UTP outdoor PE 4x2x0,52 cat 5e CU	м		252.03	271	в наличии						
+230345		Кабель NEOLAN F/UTP outdoor PE 4x2x0,5 cat 5e CU	м		237.15	255	в наличии						
+100065		Кабель NEOLAN F/UTP outdoor PE SC 4x2x0,5 cat 5e CU (кат. 305м)	м		300.39000000000004	323	в наличии						
+499535	-10.0	Кабель F/UTP 4х2хAWG 24/1 PE1 SC Cat.5e (кат. 500м)	м		385.02000000000004	414							
+													
+Артикул		Кабель U/UTP без экрана				Цена сайт							
+													
+521481		Кабель U/UTP 2х2хAWG 24/1 PVC Cat.5e (КСЕР)	м		110.67	119	в наличии						
+511481	-2.0	Кабель U/UTP 4х2хAWG 24/1 PVC Cat.5e  (КСЕР)	м		210.18	226	в наличии						
+		Кабель NEOLAN U/UTP indoor PVC 2x2x0,5 cat 5e CU	м		122.76	132							
+252661	-3.0	Кабель NEOLAN U/UTP indoor PVC 4x2x0,45 cat 5e CU	м		192.51000000000002	207	в наличии						
+230333	-3.0	Кабель NEOLAN U/UTP indoor PVC 4x2x0,5 cat 5e CU	м		214.83	231	в наличии						
+230652	-3.0	Кабель NEOLAN U/UTP indoor PVC 4x2x0,52 cat 5e CU	м		237.15	255	в наличии						
+230334	-3.0	Кабель NEOLAN U/UTP indoor LSZH 4x2x0,5 cat 5e CU	м		222.27	239	в наличии						
+													
+412861	-2.0	Кабель U/UTP 4х2хAWG 24/1 PE Cat.5e (КСЕР)	м		214.83	231	в наличии						
+230584		Кабель NEOLAN U/UTP outdoor PE 4x2x0,45 cat 5e CU	м		197.16	212	в наличии						
+230335		Кабель NEOLAN U/UTP outdoor PE 4x2x0,5 cat 5e CU	м		217.62	234	в наличии						
+230337		Кабель NEOLAN U/UTP outdoor PE 4x2x0,52 cat 5e CU	м		240.87	259	в наличии						
+													
+230573		Кабель 5e UTP Indoor 4x2x0.50 CCA	м		95.79	103	в наличии						
+													
+Артикул		Кабель U/UTP, F/UTP cat 6				Цена сайт							
+230329		Кабель NEOLAN U/UTP indoor PVC 4x2x23AWG cat6 CU (0,57)	м		332.94	358	в наличии						
+230330		Кабель NEOLAN U/UTP indoor LSZH 4x2x23AWG cat6 CU (0,57)	м		347.82	374	в наличии						
+232660		Кабель NEOLAN U/UTPнг-(А) indoor LSLTx 4x2x23AWG cat6 CU (0,57) green	м		347.82	374	в наличии						
+230340		Кабель NEOLAN U/UTP outdoor PE 4x2x23AWG cat 6 CU (0,57) black	м		332.94	358	в наличии						
+													
+230331		Кабель NEOLAN F/UTP indoor LSLTx нг(А) 4х2х23AWG cat6 CU green (0,57)	м		332.94	358	в наличии						
+230332		Кабель NEOLAN F/UTP indoor LSZH 4x2x23AWG cat6 CU (0,57) blue	м		408.27000000000004	439	в наличии						
+230341		Кабель NEOLAN F/UTP outdoor PE 4x2x23AWG cat 6 CU (0,57) black	м		377.58000000000004	406	в наличии						
+													
+		Кабель U/UTP, F/UTP, S/FTP cat 6a											
+230342		Кабель NEOLAN U/UTP indoor LSZH 4x2x23AWG cat 6a CU (0,57) violet	м		310.62	334	в наличии						
+230343		Кабель NEOLAN F/UTP indoor LSZH 4x2x23AWG cat 6a CU (0,57) violet	м		488.25	525	в наличии						
+230344		Кабель NEOLAN S/FTP indoor LSZH 4x2x23AWG cat 6a CU (0,57) violet	м		561.72	604	в наличии						
+230634		Кабель NEOLAN S/FTP outdoor PE 4x2x23AWG cat 6a CU (0,57)	м		591.48	636							
+													
+Артикул		Коннекторы				Цена сайт							
+													
+561977		Коннектор UTP RJ-45 cat.5e	шт		35.34	38	в наличии						
+306614		Коннектор FTP RJ-45 cat.5e экранированный	шт		61.38	66	в наличии						
+309964		Коннектор Neolan UTP RJ-45 Cat.6 	шт		53.010000000000005	57	в наличии						
+309965		Коннектор Neolan FTP RJ-45 Cat.6 	шт		69.75	75	в наличии						
+309966		Коннектор Neolan UTP RJ-45 Cat.6a 	шт		69.75	75	в наличии						
+309967		Коннектор Neolan FTP RJ-45 Cat.6a 	шт		87.42	94	в наличии						
+309968		Коннектор Neolan S/FTP RJ-45 Cat.6a 	шт		331.08000000000004	356	в наличии						
+													
+													
+													
+													
+													
+													
+													
+													
+													

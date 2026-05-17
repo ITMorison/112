@@ -1,0 +1,35 @@
+# Зависимости
+node_modules/
+dist/
+dist-ssr/
+.vercel/
+
+# Секретные файлы (Твой ключ Resend и настройки)
+.env
+.env.local
+апи токен
+
+# Архивы и бэкапы (Убираем твои WinRAR файлы)
+*.rar
+*.zip
+*.7z
+бек23марта
+мария сайт
+мария сайт1
+фулл сайт 22.03
+
+# Временные файлы и логи
+*.log
+temp_b64
+.DS_Store
+
+# Инструменты разработки (если они не нужны в облаке)
+download_ship_images
+migrate_catalog
+migrate_with_images
+smart_fix_images
+*.py
+
+# Настройки редактора
+.vscode/
+.idea/

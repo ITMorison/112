@@ -1,0 +1,127 @@
+URL	Артикул	Описание	KZ РРЦ	Цена Сайт 	Status
+https://ipmatika.kz/products/2-wire-shlyuzy/	2-Wire коммутаторы				
+https://ipmatika.kz/products/2-wire-shlyuzy/fanvil-pn1/	PN1	PN1, SIP-шлюз для подключения IP-телефонов по двухжильному проводу	94310.0	87708.3	
+https://ipmatika.kz/products/2-wire-shlyuzy/fanvil-pn24/	PN24	PN24, SIP-шлюз для подключения IP-телефонов по двухжильному проводу	183960.0	171082.80000000002	
+https://ipmatika.kz/products/2-wire-shlyuzy/fanvil-pn8/	PN8	PN8, SIP-шлюз для подключения IP-телефонов по двухжильному проводу	98110.0	91242.3	
+https://ipmatika.kz/products/roip-shlyuzy/	RoIP-шлюзы			0.0	
+https://ipmatika.kz/products/roip-shlyuzy/W712/	LW712	RoIP-шлюз Linkvil W712	319940.0	297544.2	
+https://ipmatika.kz/products/voip-fxs-fxo/	VoIP-шлюзы FXS/FXO			0.0	
+https://ipmatika.kz/products/voip-fxs-fxo/GA10/	GA10	VoIP-шлюз Fanvil GA10, 1*FXS		0.0	
+https://ipmatika.kz/products/sip-opoveshchenie/	SIP-колонки Fanvil			0.0	
+https://ipmatika.kz/products/sip-opoveshchenie/Fanvil-A201/	A201	Fanvil A201, SIP-громкоговоритель, PoE, встраиваемый	88240.0	82063.2	
+https://ipmatika.kz/products/sip-opoveshchenie/Fanvil-A212/	A212W	Fanvil A212, SIP-громкоговоритель, PoE, настенный, белый	110310.0	102588.3	
+https://ipmatika.kz/products/sip-opoveshchenie/Fanvil-A212/	A212B	Fanvil A212, SIP-громкоговоритель, PoE, настенный, черный	110310.0	102588.3	
+https://ipmatika.kz/products/sip-opoveshchenie/Fanvil-A233/	A233	Fanvil A233, SIP-громкоговоритель, PoE, рупорный, уличный	155730.0	144828.9	
+https://ipmatika.kz/products/sip-opoveshchenie/Fanvil-FH-S01/	FH-S01	Fanvil FH-S01, SIP-громкоговоритель, PoE, встраиваемый	142750.0	132757.5	
+https://ipmatika.kz/products/wifi-telefony/	Wi-Fi-телефоны				
+https://ipmatika.kz/products/wifi-telefony/Linkvil-W610W/	FLW610W	(Linkvil) W610W, цветной экран, б/п, Wi-Fi 2,4G/5G	61660.0	57343.8	
+https://ipmatika.kz/products/wifi-telefony/Linkvil-W611W/	FLW611W	(Linkvil) W611W, цветной экран, IP67, б/п, Wi-Fi 2,4G/5G	120510.0	112074.3	
+https://ipmatika.kz/products/konsoli-monitoringa-i-opoveshcheniya/	Консоли мониторинга и управления				
+https://ipmatika.kz/products/konsoli-monitoringa-i-opoveshcheniya/Fanvil-A320/	A320	A320, цветной экран, 20 аккаунтов, Android, камера	324440.0	301729.2	
+https://ipmatika.kz/products/konsoli-monitoringa-i-opoveshcheniya/Fanvil-A320/	A320white	A320, цветной экран, 20 аккаунтов, Android, камера, белый	324440.0	301729.2	
+https://ipmatika.kz/products/konsoli-monitoringa-i-opoveshcheniya/Fanvil-A320i/	A320i	A320i, цветной экран, 20 аккаунтов, Android, камера	480170.0	446558.10000000003	
+https://ipmatika.kz/products/konsoli-monitoringa-i-opoveshcheniya/Fanvil-A320i/	A320iwhite	A320i, цветной экран, 20 аккаунтов, Android, камера, белый	480170.0	446558.10000000003	
+https://ipmatika.kz/products/konsoli-monitoringa-i-opoveshcheniya/Fanvil-X210i/	X210iO	Fanvil X210i, цветной экран, 20 аккаунтов			
+https://ipmatika.kz/products/konsoli-monitoringa-i-opoveshcheniya/Fanvil-X210i/	X210	X210, цветной экран, 20 аккаунтов	106240.0	98803.20000000001	
+https://ipmatika.kz/products/konsoli-monitoringa-i-opoveshcheniya/Fanvil-X210i/	X210i	X210i, цветной экран, 20 аккаунтов	285510.0	265524.3	
+https://ipmatika.kz/products/konsoli-monitoringa-i-opoveshcheniya/X5UR/	X5U	X5U, красный, 16 аккаунтов, 2 цветных ЖК-экрана, PoE			
+https://ipmatika.kz/products/hotel-phone/	Отельные телефоны				
+https://ipmatika.kz/products/hotel-phone/Fanvil-H1-2023/	FH1PBPSU	H1 отельный, 2 аккаунта, без экрана, PoE, б/п	29120.0	27081.600000000002	
+https://ipmatika.kz/products/hotel-phone/fanvil-h1-2-wire/	FH12WIRE	H1-2 Wire отельный, 2 аккаунта, без экрана, б/п	29120.0	27081.600000000002	
+https://ipmatika.kz/products/hotel-phone/H2UW/	FH2UPW	H2U отельный, белый, 2 аккаунта, PoE, без б/п	23830.0	22161.9	
+https://ipmatika.kz/products/vnutrennie-sip-paneli/H2URI/	FH2UPR	H2U отельный, красный, 2 аккаунта, PoE, без б/п	34410.0	32001.300000000003	
+https://ipmatika.kz/products/hotel-phone/H2UB/	FH2UPB	H2U отельный, чёрный, 2 аккаунта, PoE, без б/п	23830.0	22161.9	
+https://ipmatika.kz/products/hotel-phone/Fanvil-H3/	FH3PB sale	H3 отельный, 2 аккаунта, без экрана, PoE, б/п	31710.0	29490.300000000003	Акция 
+https://ipmatika.kz/products/hotel-phone/Fanvil-H3/	FH3PPSUB	H3 отельный, 2 аккаунта, без экрана, PoE, б/п	25330.0	23556.9	EOL
+https://ipmatika.kz/products/hotel-phone/Fanvil-H3W/	FH3PPSUW	H3 отельный, белый, 2 аккаунта, без экрана, PoE, б/п	35960.0	33442.8	EOL
+https://ipmatika.kz/products/hotel-phone/Fanvil-H3WF/	FH3WPPSUB	H3W отельный, 2 аккаунта, без экрана, PoE, б/п, WiFi	33500.0	31155.0	EOL
+https://ipmatika.kz/products/hotel-phone/Fanvil-H3WFW/	FH3WPPSUW	H3W отельный, белый, 2 аккаунта, без экрана, PoE, б/п, WiFi	40850.0	37990.5	EOL
+https://ipmatika.kz/products/hotel-phone/Fanvil-H4/	FH4PPSUB	H4 отельный, 2 аккаунта, без экрана, PoE, б/п	33100.0	30783.0	
+https://ipmatika.kz/products/hotel-phone/Fanvil-H4-white/	FH4PPSUW	H4 отельный, белый, 2 аккаунта, без экрана, PoE, б/п	33100.0	30783.0	
+https://ipmatika.kz/products/hotel-phone/Fanvil-H4W/	FH4WPPSUB	H4W отельный, 2 аккаунта, без экрана, PoE, б/п	46330.0	43086.9	
+https://ipmatika.kz/products/hotel-phone/Fanvil-H4W-white/	FH4WPPSUW	H4W отельный, белый, 2 аккаунта, без экрана, PoE, б/п	46330.0	43086.9	
+https://ipmatika.kz/products/hotel-phone/Fanvil-H5/	FH5PB sale	H5 отельный, 2 аккаунта, цветной ЖК экран, PoE, б/п	28070.0	26105.100000000002	Акция 
+https://ipmatika.kz/products/hotel-phone/Fanvil-H5/	FH5PPSUB	H5 отельный, 2 аккаунта, цветной ЖК экран, PoE, б/п	41670.0	38753.1	EOL
+https://ipmatika.kz/products/hotel-phone/Fanvil-H5W/	FH5PPSUW	H5 отельный, белый, 2 аккаунта, цветной ЖК экран, PoE, б/п	41670.0	38753.1	EOL
+https://ipmatika.kz/products/hotel-phone/Fanvil-H5W/	FH5PW	H5 отельный, белый, 2 аккаунта, цветной ЖК экран, PoE, без б/п	41670.0	38753.1	EOL
+https://ipmatika.kz/products/hotel-phone/Fanvil-H5WF/	FH5WPPSUB	H5W отельный, 2 аккаунта, цветной ЖК экран, PoE, б/п, WiFi			
+https://ipmatika.kz/products/hotel-phone/Fanvil-H5WFW/	FH5WPPSUW	H5W отельный, белый, 2 аккаунта, цветной ЖК экран, PoE, б/п, WiFi	49030.0	45597.9	EOL
+https://ipmatika.kz/products/hotel-phone/Fanvil-H601W/	FH601W	H601W отельный, 2 аккаунта, б/п, WiFi, без клавиатуры	31770.0	29546.100000000002	
+https://ipmatika.kz/products/hotel-phone/Fanvil-H602/	FH602	H602 отельный, 2 аккаунта, без б/п	35740.0	33238.200000000004	
+https://ipmatika.kz/products/hotel-phone/Fanvil-H603W/	FH603W	H603W отельный, 2 аккаунта, Wi-Fi-трубка, б/п	132380.0	123113.40000000001	
+https://ipmatika.kz/products/hotel-phone/Fanvil-H6W/	FH6WPPSUB	H6W отельный, 2 аккаунта, цветной ЖК экран, PoE, б/п	59560.0	55390.8	
+https://ipmatika.kz/products/hotel-phone/Fanvil-H6W-white/	FH6WPPSUW	H6W отельный, белый, 2 аккаунта, цветной ЖК экран, PoE, б/п	59560.0	55390.8	
+https://ipmatika.kz/products/hotel-phone/Fanvil-H7/	FJ7A	J7A отельный, цветной сенсорный экран 7'', PoE, Android, WiFi, Bluetooth	69450.0	64588.5	EOL
+https://ipmatika.kz/products/telefony-dlya-call-tsentra/	Телефоны для call-центра				
+https://ipmatika.kz/products/telefony-dlya-call-tsentra/Fanvil-X2C/	X2C	X2C, для call-центра, ЧБ-дисплей, 2 аккаунта, LED подсветка кнопок, без PoE, БП			
+https://ipmatika.kz/products/telefony-dlya-call-tsentra/Fanvil-X2P/	X2P	X2P, для сall-центра, цветной дисплей, 2 аккаунта, LED подсветка кнопок, PoE, без БП			
+https://ipmatika.kz/products/ip-telefony-dlya-pozhilykh/	Телефоны для пожилых				
+https://ipmatika.kz/products/ip-telefony-dlya-pozhilykh/X305/	X305	X305, цветной дисплей, 2 аккаунта, большие кнопки, PoE, БП	84360.0	78454.8	
+https://ipmatika.kz/products/sistemy-smart-workspace/	Системы Smart Workspace				
+https://ipmatika.kz/products/sistemy-smart-workspace/linkvil_ca400/	CA400	Fanvil CA400, беспроводной комплект для ВКС и презентаций	358580.0	333479.4	
+https://ipmatika.kz/products/audiodomofony/	Аудио-SIP-домофоны				
+https://ipmatika.kz/products/audiodomofony/Fanvil-A10/	A10	Fanvil A10 IP-аудиодомофон, накладной, IP54, 3 кнопки	38930.0	36204.9	
+https://ipmatika.kz/products/audiodomofony/Fanvil-A10W/	A10W	Fanvil A10W IP-аудиодомофон, накладной, IP54, 3 кнопки, WiFi	45420.0	42240.600000000006	
+https://ipmatika.kz/products/audiodomofony/Fanvil-A12/	A12	Fanvil A12 IP-домофон, накладной, внешний, стальной корпус, IP66, IK10	155730.0	144828.9	
+https://ipmatika.kz/products/audiodomofony/Fanvil-i10S/	i10S	Fanvil i10S IP-аудиодомофон, накладной, IP54	45420.0	42240.600000000006	
+https://ipmatika.kz/products/audiodomofony/Fanvil-i11S/	i11S	Fanvil i11S IP-домофон, накладной, внешний, IP65, IK10	58400.0	54312.0	
+https://ipmatika.kz/products/audiodomofony/Fanvil-i16S/	i16S	Fanvil i16S IP-домофон, накладной, внешний, IP65, IK10	97330.0	90516.90000000001	
+https://ipmatika.kz/products/audiodomofony/Fanvil-i16S-02P/	i16S-02P	Fanvil i16S-02P интерком, накладной, внешний, IP65, IK10, 2 кнопки	115500.0	107415.0	
+https://ipmatika.kz/products/audiodomofony/Fanvil-i20S/	i20S	Fanvil i20S IP-домофон, накладной, внешний, IP65, клавиатура	67580.0	62849.4	Акция 
+https://ipmatika.kz/products/audiodomofony/Fanvil-Y501/	Y501	Fanvil Y501 IP-аудиодомофон, накладной, IP54, 3 кнопки	58400.0	54312.0	
+https://ipmatika.kz/products/audiodomofony/Fanvil-Y501W-Y/	Y501W-Y	Fanvil Y501W-Y IP-аудиодомофон, накладной, IP54, 6 кнопок, WiFi, проводной пульт	71380.0	66383.40000000001	
+https://ipmatika.kz/products/videodomofony/	Видео-SIP-домофоны				
+https://ipmatika.kz/products/videodomofony/Fanvil-i10SV/	i10SV	Fanvil i10SV IP-видеодомофон, накладной, IP54	64890.0	60347.700000000004	
+https://ipmatika.kz/products/videodomofony/Fanvil-i11SV/	i11SV	Fanvil i11SV IP-видеодомофон, накладной, внешний, HD камера, IP65, IK10	71380.0	66383.40000000001	
+https://ipmatika.kz/products/videodomofony/Fanvil-i16SV/	i16SV	Fanvil i16SV IP-видеодомофон, накладной, внешний, HD камера, IP65, IK10	128480.0	119486.40000000001	
+https://ipmatika.kz/products/videodomofony/Fanvil-i16SV-02P/	i16SV-02P	Fanvil i16SV-02P интерком, накладной, внешний, IP65, IK10, 2 кнопки	155730.0	144828.9	
+https://ipmatika.kz/products/videodomofony/Fanvil-i33V/	i33V	Fanvil i33V домофон, накладной, внешний, клавиатура, HD камера, IC/RFID, IP65			
+https://ipmatika.kz/products/videodomofony/Fanvil-i60/	i60	Fanvil i60 IP-видеодомофон, накладной, IP65, 1 кнопка, Mifare	38930.0	36204.9	
+https://ipmatika.kz/products/videodomofony/Fanvil-i60K/	i60K	Fanvil i60K IP-видеодомофон, накладной, IP65, клавиатура, Mifare	71380.0	66383.40000000001	
+https://ipmatika.kz/products/videodomofony/Fanvil-i61/	i61	Fanvil i61 IP-видеодомофон, накладной, IP66 IK07	123280.0	114650.40000000001	
+https://ipmatika.kz/products/videodomofony/Fanvil-i62/	i62	Fanvil i62 IP-видеодомофон, накладной, IP66 IK07	99690.0	92711.70000000001	
+https://ipmatika.kz/products/videodomofony/Fanvil-i63/	i63	Fanvil i63 IP-видеодомофон, накладной, IP66, IK07, 5 кнопок	103820.0	96552.6	
+https://ipmatika.kz/products/videodomofony/Fanvil-i64/	i64	Fanvil i64 IP-видеодомофон, накладной, IP66, IK07, 16 кнопок	116790.0	108614.70000000001	
+https://ipmatika.kz/products/videodomofony/Fanvil-i66/	i66	Fanvil i66 IP-видеодомофон, накладной, IP66, IK07, 16 кнопок, дисплей	233600.0	217248.0	
+https://ipmatika.kz/products/videodomofony/Fanvil-i67/	i67	Fanvil i67 IP-видеодомофон, накладной, IP66, IK07, 12 кнопок, дисплей 7''	324440.0	301729.2	
+https://ipmatika.kz/products/videodomofony/Fanvil-i68/	i68	Fanvil i68 IP-видеодомофон, IP66, IK07, дисплей 8''	363370.0	337934.10000000003	
+https://ipmatika.kz/products/vnutrennie-sip-paneli/	Ответные части				
+https://ipmatika.kz/products/vnutrennie-sip-paneli/Fanvil-i10SD/	i10SD	Fanvil i10SD IP-аудиодомофон, накладной, IP54, кнопки	53210.0	49485.3	
+https://ipmatika.kz/products/vnutrennie-sip-paneli/Fanvil-i501/	i501	Fanvil i501, PoE, IP домофонная трубка, 4 кнопки	15570.0	14480.1	
+https://ipmatika.kz/products/vnutrennie-sip-paneli/Fanvil-i501W/	i501W	Fanvil i501W, PoE, Wi-Fi, IP домофонная трубка, 4 кнопки	19940.0	18544.2	
+https://ipmatika.kz/products/vnutrennie-sip-paneli/Fanvil-i504/	i504	Fanvil i504, без БП, ответная часть для SIP-домофона	45420.0	42240.600000000006	
+https://ipmatika.kz/products/vnutrennie-sip-paneli/Fanvil-i504/	i504W	Fanvil i504W, без БП, Wi-Fi, ответная часть для SIP-домофона	51910.0	48276.3	
+https://ipmatika.kz/products/vnutrennie-sip-paneli/Fanvil-i505/	i505	Fanvil i505, без БП, Android, ответная часть для SIP-домофона	94730.0	88098.90000000001	
+https://ipmatika.kz/products/vnutrennie-sip-paneli/Fanvil-i506W/	i506W	Fanvil i506W, без БП, WiFi, ответная часть для SIP-домофона	84360.0	78454.8	
+https://ipmatika.kz/products/vnutrennie-sip-paneli/Fanvil-i507W/	i507W	Fanvil i507W, без БП, Android, WiFi, ответная часть для SIP-домофона	133670.0	124313.1	
+https://ipmatika.kz/products/vnutrennie-sip-paneli/Fanvil-i51W/	i51W	Fanvil i51W, WiFi, без БП, ответная часть для SIP-домофона			
+https://ipmatika.kz/products/vnutrennie-sip-paneli/Fanvil-i52W/	i52W	Fanvil i52W, WiFi, без БП, ответная часть для SIP-домофона	26510.0	24654.300000000003	Акция 
+https://ipmatika.kz/products/vnutrennie-sip-paneli/Fanvil-i53W/	i53W	Fanvil i53W, WiFi, без БП, Сенсорный экран, ответная часть для SIP-домофона	67580.0	62849.4	Акция 
+https://ipmatika.kz/products/vnutrennie-sip-paneli/Fanvil-i55A/	i55A	Fanvil i55A, WiFi, без БП, ответная часть для SIP-домофона	116790.0	108614.70000000001	
+https://ipmatika.kz/products/vnutrennie-sip-paneli/Fanvil-i57A/	i57A	Fanvil i57A, WiFi, без БП, ответная часть для SIP-домофона	155730.0	144828.9	
+https://ipmatika.kz/products/shlyuzy-kontrollery/	Шлюзы-контроллеры				
+https://ipmatika.kz/products/shlyuzy-kontrollery/Fanvil-PA2S/	PA2SO	Fanvil PA2S, SIP-шлюз для видеодомофона, камеры и пейджинга			
+https://ipmatika.kz/products/shlyuzy-kontrollery/Fanvil-PA3/	PA3O	Fanvil PA3, SIP-шлюз для видеодомофона, камеры и пейджинга			
+https://ipmatika.kz/products/shlyuzy-kontrollery/Fanvil-PA2S/	PA2S	PA2S, SIP-шлюз для видеодомофона, камеры и пейджинга	117890.0	109637.70000000001	
+https://ipmatika.kz/products/shlyuzy-kontrollery/Fanvil-PA3/	PA3	PA3, SIP-шлюз для видеодомофона, камеры и пейджинга	133610.0	124257.3	
+https://ipmatika.kz/products/spikerfony/	Спикерфоны Fanvil				
+https://ipmatika.kz/products/spikerfony/CS20/	CS20	CS20, портативный спикерфон, USB, Bluetooth, встроенная батарея	32420.0	30150.600000000002	
+https://ipmatika.kz/products/spikerfony/CS30/	CS30	CS30, портативный спикерфон, USB, Bluetooth, встроенная батарея	88240.0	82063.2	
+https://ipmatika.kz/products/spikerfony/CS40/	CS40	CS40, портативный спикерфон, USB, Bluetooth, встроенная батарея	58360.0	54274.8	
+https://ipmatika.kz/products/doorphones-aksessuary/	Аксессуары				
+https://ipmatika.kz/products/doorphones-aksessuary/CL-01/	CL-01	Fanvil CL-01, коридорный LED-индикатор	9080.0	8444.4	
+https://ipmatika.kz/products/doorphones-aksessuary/Fanvil-DS101/	DS101	Fanvil DS101, подставка для i51W, i52W, i53W			
+https://ipmatika.kz/products/doorphones-aksessuary/Fanvil-DS105/	DS105	Fanvil DS105, подставка для i506W, i507W, i57A	19470.0	18107.100000000002	
+https://ipmatika.kz/products/doorphones-aksessuary/EX101-102/	EX101O	Fanvil EX101			
+https://ipmatika.kz/products/doorphones-aksessuary/EX101-102/	EX101	Fanvil EX101, короб для врезного монтажа i61	19470.0	18107.100000000002	
+https://ipmatika.kz/products/doorphones-aksessuary/EX101-102/	EX102	Fanvil EX102, короб для врезного монтажа i62, i63, i64	19470.0	18107.100000000002	
+https://ipmatika.kz/products/doorphones-aksessuary/PA2-KIT-NC/	PA2-KITNC	Fanvil PA2-KIT NC, набор аксессуаров	38930.0	36204.9	
+https://ipmatika.kz/products/doorphones-aksessuary/PA2-KIT/	PA2-KIT	Fanvil PA2-KIT, набор аксессуаров	81760.0	76036.8	
+https://ipmatika.kz/products/doorphones-aksessuary/RC01/	RC01	Fanvil RC01, козырек для i61, i62, i63, i64	12980.0	12071.400000000001	
+https://ipmatika.kz/products/doorphones-aksessuary/RC02/	RC02	Fanvil RC02, козырек для i66, i67	19470.0	18107.100000000002	
+https://ipmatika.kz/products/doorphones-aksessuary/F12V1A/	12V-1A	Блок питания 12V-1A для Fanvil			
+https://ipmatika.kz/products/doorphones-aksessuary/KT10/	KT10	Радиокнопка Fanvil KT10 для Y501(W)(-Y) и X305	6490.0	6035.700000000001	
+https://ipmatika.kz/products/doorphones-aksessuary/KT20/	KT20	Радиокнопка Fanvil KT20 для Y501(W)(-Y) и X305	6490.0	6035.700000000001	
+https://ipmatika.kz/products/doorphones-aksessuary/KT30/	KT30	Радиокнопка Fanvil KT30 для Y501(W)(-Y) и X305	6490.0	6035.700000000001	
+https://ipmatika.kz/products/phones-accessories/WB108/	WB108	Fanvil WB108, крепление на стену для Fanvil H1	4090.0	3803.7000000000003	
+https://ipmatika.kz/products/phones-accessories/Fanvil-CM60/	CM60	Камера Fanvil CM60			

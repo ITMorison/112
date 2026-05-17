@@ -1,0 +1,226 @@
+Url	Артикул	Описание	РРЦ	Дилер
+	Средоустойчивые устройства связи			
+	JR100 всепогодные телефоны			
+	а). Взрывозащищенные			
+https://ipmatika.kz/products/vzryvozashchishchennoe-oborudovanie/J%26R-JREX-FK-SIP/	JREX101-CB-HB-SIP	JREX101-CB-HB-SIP, клавиатура, маячок, громкоговоритель, PoE, с крышкой	2236450.0	1565510.0
+https://ipmatika.kz/products/vzryvozashchishchennoe-oborudovanie/J%26R-JREX-CB-SIP/	JREX101-CB-SIP	JREX101-CB-SIP, PoE, без БП, с крышкой	1257860.0	880500.0
+https://ipmatika.kz/products/vzryvozashchishchennoe-oborudovanie/J%26R-JREX-FK-SIP/	JREX101-FK-HB-SIP	JREX101-FK-HB-SIP, клавиатура, маячок, громкоговоритель, PoE, с крышкой	2351850.0	1646290.0
+https://ipmatika.kz/products/vzryvozashchishchennoe-oborudovanie/J%26R-JREX-FK-SIP/	JREX101-FK-SIP	JREX101-FK-SIP, клавиатура, PoE, без БП, с крышкой	1304020.0	912810.0
+https://ipmatika.kz/products/vzryvozashchishchennoe-oborudovanie/J%26R-JREX103-CB-HB-SIP/	JREX103-CB-HB-SIP	JREX103-CB-HB-SIP, клавиатура, горн, маячок, без крышки, PoE, БП	2042580.0	1429810.0
+https://ipmatika.kz/products/vzryvozashchishchennoe-oborudovanie/J%26R-JREX103-CB-SIP/	JREX103-CB-SIP	JREX103-CB-SIP, без крышки, трубка, без клавиатуры и кнопки вызова, PoE, БП	1151690.0	806180.0
+https://ipmatika.kz/products/vzryvozashchishchennoe-oborudovanie/J%26R-JREX103-CB-SIP/	JREX103-CB	JREX103-CB, без крышки, трубка, без клавиатуры	811840.0	568350.0
+https://ipmatika.kz/products/vzryvozashchishchennoe-oborudovanie/J%26R-JREX103-FK-HB-SIP/	JREX103-FK-HB-SIP	JREX103-FK-HB-SIP, клавиатура, горн, маячок, без крышки, PoE, БП	2181060.0	1526740.0
+https://ipmatika.kz/products/vzryvozashchishchennoe-oborudovanie/J%26R-JREX103-FK-SIP/	JREX103-FK-SIP	JREX103-FK-SIP, клавиатура, без крышки, PoE, без БП	1197850.0	838490.0
+https://ipmatika.kz/products/vzryvozashchishchennoe-oborudovanie/J%26R-JREX-CB-SIP/	JREX106-A01-CB-SIP	JREX106-A01-CB-SIP, PoE, БП, с крышкой	1007440.0	705090.0
+https://ipmatika.kz/products/vzryvozashchishchennoe-oborudovanie/J%26R-JREX-CB-SIP/	JREX106-A01-CB	JREX106-A01-CB, с крышкой, аналоговый	859730.0	601820.0
+https://ipmatika.kz/products/vzryvozashchishchennoe-oborudovanie/J%26R-JREX-FK-SIP/	JREX106-A01-SIP	JREX106-A01-SIP, клавиатура, PoE, БП, с крышкой	1044370.0	731060.0
+https://ipmatika.kz/products/vzryvozashchishchennoe-oborudovanie/J%26R-JREX-FK-SIP/	JREX106-A01	JREX106-A01, клавиатура, с крышкой, аналоговый	896660.0	627780.0
+https://ipmatika.kz/products/vzryvozashchishchennoe-oborudovanie/J%26R-JREX103-CB-SIP/	JREX106-A03-CB	JREX106-A03-CB, без крышки, трубка, без клавиатуры и кнопки вызова, аналоговый	774330.0	541810.0
+https://ipmatika.kz/products/vzryvozashchishchennoe-oborudovanie/J%26R-JREX103-FK-SIP/	JREX106-A03-SIP	JREX106-A03-SIP, клавиатура, без крышки, PoE, БП	959560.0	671630.0
+https://ipmatika.kz/products/vzryvozashchishchennoe-oborudovanie/J%26R-JREX103-FK-SIP/	JREX106-A03	JREX106-A03, клавиатура, без крышки, аналоговый	811840.0	568350.0
+https://ipmatika.kz/products/vzryvozashchishchennoe-oborudovanie/J%26R-JREX106-FK-SIP/	JREX106-CB-SIP	JREX106-CB-SIP, без клавиатуры, без крышки, БП	1125730.0	788180.0
+https://ipmatika.kz/products/vzryvozashchishchennoe-oborudovanie/J%26R-JREX106-FK-SIP/	JREX106-CB	JREX106-CB, без клавиатуры, без крышки, аналоговый	978020.0	684900.0
+https://ipmatika.kz/products/vzryvozashchishchennoe-oborudovanie/J%26R-JREX103-FK-SIP/	JREX106-FK-SIP	JREX106-FK-SIP, клавиатура, без крышки, PoE, без БП	1451730.0	1016210.0
+https://ipmatika.kz/products/vzryvozashchishchennoe-oborudovanie/J%26R-JREX103-FK-SIP/	JREX106-SIP	JREX106-SIP, клавиатура, без крышки, экран, PoE, БП	1162660.0	814150.0
+https://ipmatika.kz/products/vzryvozashchishchennoe-oborudovanie/J%26R-JREX103-FK-SIP/	JREX106	JREX106, клавиатура, без крышки, аналоговый, взрывозащищенный	1014950.0	710290.0
+	б). Без крышки			
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr103-cb-y-sip/	JR103-CB-4G	JR103-CB-4G, без клавиатуры, БП, без крышки, 1 SIM	619130.0	433330.0
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr103-cb-y-sip/	JR103-CB-L	JR103-CB-L, без клавиатуры, без крышки, маячок, желтый, аналоговый	530840.0	371590.0
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr103-cb-y-sip/	JR103-CB-SIP	JR103-CB-SIP, без клавиатуры, PoE, БП, без крышки	508340.0	356010.0
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr103-cb-y-sip/	JR103-CB	JR103-CB, без клавиатуры, без крышки, аналоговый	416020.0	291390.0
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr103-fk-y-sip/	JR103-FK-4G	JR103-FK-4G, полная клавиатура, БП, без крышки	656050.0	459290.0
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr103-fk-y-sip/	JR103-FK-H-4G	JR103-FK-H-4G, полная клавиатура, громкоговоритель, БП, 1 SIM	758180.0	530840.0
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr103-fk-y-h-sip/	JR103-FK-H-SIP	JR103-FK-H-SIP, полная клавиатура, громкоговоритель, PoE, БП, без крышки	646820.0	452950.0
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr103-fk-y-sip/	JR103-FK-H	JR103-FK-H, полная клавиатура, громкоговоритель, аналоговый	554500.0	388330.0
+https://ipmatika.kz/https://ipmatika.kz/products/promyshlennye-telefony/jr-jr103-fk-y-hb-sip/	JR103-FK-HB-4G	JR103-FK-HB-4G, клавиатура, без крышки, горн, маячок, 1 SIM	785870.0	549890.0
+https://ipmatika.kz/https://ipmatika.kz/products/promyshlennye-telefony/jr-jr103-fk-y-hb-sip/	JR103-FK-HB-SIP	JR103-FK-HB-SIP, клавиатура, без крышки, горн, маячок, PoE, БП	665290.0	465640.0
+https://ipmatika.kz/https://ipmatika.kz/products/promyshlennye-telefony/jr-jr103-fk-y-hb-sip/	JR103-FK-HB	JR103-FK-HB, клавиатура, без крышки, горн, маячок, аналоговый	572970.0	401020.0
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr103-fk-y-sip/	JR103-FK-SIP	JR103-FK-SIP, полная клавиатура, PoE, БП, без крышки	545270.0	381970.0
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr103-fk-y-hb-sip/	JR103-FK-Y-HB-OLD	JR103-FK-Y-HB, полная клавиатура, маячок, громкоговоритель, без крышки, желтый, аналоговый	715480.0	500840.0
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr103-fk-y-sip/	JR103-FK	JR103-FK, всепогодный вандалозащищенный телефон, полная клавиатура, без крышки, аналоговый	452950.0	317350.0
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr104-2b-y-sip/	JR104-2B-4G	JR104-2B-4G, без клавиатуры, БП, 2 кнопки, без крышки	619130.0	433330.0
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr104-2b-y-sip/	JR104-2B-SIP	JR104-2B-SIP, без клавиатуры, PoE, БП, 2 кнопки, без крышки	508340.0	356010.0
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr104-2b-y-sip/	JR104-2B	JR104-2B, без клавиатуры, 2 кнопки, аналоговая	416020.0	291390.0
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr104-sc-y-sip/	JR104-SC-4G	JR104-SC-4G, 1 кнопка, без крышки, БП, 1 SIM	600660.0	420640.0
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr104-sc-y-sip/	JR104-SC-SIP	JR104-SC-SIP, PoE, БП, 1 кнопка, без крышки	489880.0	342740.0
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr104-sc-y-sip/	JR104-SC	JR104-SC, 1 кнопка, без крышки, аналоговая	397560.0	278110.0
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr105-fk-y-sip/	JR105-FK-4G	JR105-FK-4G, дисплей, полная клавиатура, без крышки, 1 SIM	730480.0	511220.0
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr105-fk-sip/	JR105-FK-SIP	JR105-FK-SIP, дисплей, полная клавиатура, PoE, БП, без крышки	619130.0	433330.0
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr105-fk-y-sip/	JR105-FK	JR105-FK, дисплей, полная клавиатура, без крышки, желтый, аналоговый	526810.0	368710.0
+	в). С крышкой			
+https://ipmatika.kz/products/analogovye-telefony/jr-jr101-3b-y/	JR101-3B-4G	JR101-3B-4G, 3 кнопки, БП, с крышкой	748950.0	524500.0
+https://ipmatika.kz/products/analogovye-telefony/jr-jr101-3b-y/	JR101-3B-SIP	JR101-3B-SIP, 3 кнопки, БП, с крышкой	637590.0	446600.0
+https://ipmatika.kz/products/analogovye-telefony/jr-jr101-3b-y/	JR101-3B	JR101-3B, 3 кнопки, БП, с крышкой, аналоговый	545270.0	381970.0
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr101-cb-y-sip/	JR101-CB-4G	JR101-CB-4G, без клавиатуры, с крышкой, 1 SIM	693550.0	485260.0
+0	JR101-CB-L-4G	JR101-CB-L-4G, без клавиатуры, маячок, с крышкой, БП, 1 SIM	730480.0	511220.0
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr101-%F1b-l-sip/	JR101-CB-L-SIP	JR101-CB-L-SIP, без клавиатуры, маячок, с крышкой, БП	619130.0	433330.0
+0	JR101-CB-L	JR101-CB-L, без клавиатуры, маячок, с крышкой, аналоговый	526810.0	368710.0
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr101-sb-sip/	JR101-CB-SIP	JR101-CB-SIP, без клавиатуры, PoE, БП, с крышкой	582200.0	407360.0
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr101-cb-y-sip/	JR101-CB-R-SIP	JR101-CB-SIP, без клавиатуры, PoE, БП, с крышкой, красный	727020.0	508910.0
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr101-cb-y-sip/	JR101-CB	JR101-CB, без клавиатуры, с крышкой, аналоговый	489880.0	342740.0
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr101-fk-y-sip/	JR101-FK-4G	JR101-FK-4G, клавиатура, с крышкой, 1 SIM	730480.0	511220.0
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr101-fk-y-h-sip/	JR101-FK-H-4G	JR101-FK-H-4G, клавиатура, громкоговоритель, БП, с крышкой, 1 SIM	832030.0	582200.0
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr101-fk-y-h-sip/	JR101-FK-H-SIP	JR101-FK-H-SIP, клавиатура, громкоговоритель, PoE, БП, с крышкой	721250.0	504880.0
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr101-fk-y-h-sip/	JR101-FK-H	JR101-FK-H, клавиатура, громкоговоритель, БП, с крышкой, аналоговый	628360.0	439670.0
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr101-fk-y-hb-sip/	JR101-FK-HB-4G	JR101-FK-HB-4G, клавиатура, маячок, громкоговоритель, с крышкой, 1 SIM	850500.0	595460.0
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr101-fk-y-hb-sip/	JR101-FK-HB-SIP	JR101-FK-HB-SIP, клавиатура, маячок, громкоговоритель, PoE, БП, с крышкой,	739710.0	517570.0
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr101-fk-y-hb-sip/	JR101-FK-HB	JR101-FK-HB, клавиатура, маячок, громкоговоритель, с крышкой, аналоговый	646820.0	452950.0
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr101-fk-l/	JR101-FK-L-4G	JR101-FK-L-4G, клавиатура, маячок, с крышкой, 1 SIM	767410.0	537190.0
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr101-fk-l-sip/	JR101-FK-L-SIP	JR101-FK-L-SIP, клавиатура, маячок, PoE, с крышкой, желтый	656050.0	459290.0
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr101-fk-l/	JR101-FK-L	JR101-FK-L, клавиатура, маячок, с крышкой, желтый, аналоговый	563730.0	394670.0
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr101-fk-sip/	JR101-FK-SIP	JR101-FK-SIP, клавиатура, PoE, БП, с крышкой, желтый	619130.0	433330.0
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr101-fk-y-sip/	JR101-FK	JR101-FK, клавиатура, с крышкой, аналоговый	526810.0	368710.0
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr102-2b-y-sip/	JR102-2B-4G	JR102-2B-4G, БП, 2 кнопки, с крышкой	674520.0	471990.0
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr102-2b-y-sip/	JR102-2B-SIP	JR102-2B-SIP, PoE, БП, 2 кнопки, с крышкой	563730.0	394670.0
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr102-2b-y-sip/	JR102-2B	JR102-2B, БП, 2 кнопки, с крышкой, аналоговая	471410.0	330040.0
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr102-sc-y-sip/	JR102-SC-4G	JR102-SC-4G, 1 кнопка, БП, с крышкой, 1 SIM	656050.0	459290.0
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr102-sc-y-sip/	JR102-SC-SIP	JR102-SC-SIP, PoE, БП, 1 кнопка, с крышкой	545270.0	381970.0
+https://ipmatika.kz/products/promyshlennye-telefony/jr-jr102-sc-y-sip/	JR102-SC	JR102-SC, 1 кнопка, с крышкой, аналоговая	452950.0	317350.0
+	JR200 общепользовательские телефоны			
+	г). Горячая линия (без кнопок)			
+https://ipmatika.kz/products/obshchestvennye-telefony-s-trubkoy/J%26R-JR202-CB-OW-SIP/	JR202-CB-4G	JR202-CB-4G, без кнопок, БП, 1 SIM	452950.0	317350.0
+https://ipmatika.kz/products/obshchestvennye-telefony-s-trubkoy/J%26R-JR202-CB-OW-SIP/	JR202-CB-SIP	JR202-CB-SIP, без кнопок, PoE, БП	323700.0	226770.0
+https://ipmatika.kz/products/obshchestvennye-telefony-s-trubkoy/J%26R-JR202-CB-OW-SIP/	JR202-CB	JR202-CB, без кнопок, серый, аналоговый	231380.0	162140.0
+https://ipmatika.kz/products/asepticheskie-telefony-dlya-chistykh-pomeshcheniy/J%26R-JR209-FK-SIP/	JR208-CB-4G	JR208-CB-4G, без клавиатуры, врезной, БП, 1 SIM	545270.0	381970.0
+https://ipmatika.kz/products/asepticheskie-telefony-dlya-chistykh-pomeshcheniy/J%26R-JR209-FK-SIP/	JR208-CB-SIP	JR208-CB-SIP, без клавиатуры, врезной, PoE, БП, серый	434490.0	304080.0
+https://ipmatika.kz/products/asepticheskie-telefony-dlya-chistykh-pomeshcheniy/J%26R-JR209-FK-SIP/	JR208-CB	JR208-CB, без клавиатуры, врезной, аналоговый	342170.0	239460.0
+https://ipmatika.kz/products/obshchestvennye-telefony-s-trubkoy/J%26R-JR211-FK-SIP/	JR210-1B-4G	JR210-1B-4G, накладной, без клавиатуры, БП, 1 SIM	563730.0	394670.0
+https://ipmatika.kz/products/obshchestvennye-telefony-s-trubkoy/J%26R-JR211-FK-SIP/	JR210-1B-SIP	JR210-1B-SIP, накладной, без клавиатуры, PoE, БП	452950.0	317350.0
+https://ipmatika.kz/products/obshchestvennye-telefony-s-trubkoy/J%26R-JR211-FK-SIP/	JR210-1B	JR210-1B, накладной, без клавиатуры, аналоговый	360630.0	252730.0
+https://ipmatika.kz/products/obshchestvennye-telefony-s-trubkoy/J%26R-JR211-FK-SIP/	JR211-CB-4G	JR211-CB-4G, накладной, без клавиатуры, БП, 1 SIM	499110.0	349660.0
+https://ipmatika.kz/products/obshchestvennye-telefony-s-trubkoy/J%26R-JR211-FK-SIP/	JR211-CB-SIP	JR211-CB-SIP, накладной, без клавиатуры, PoE, БП	388330.0	271770.0
+https://ipmatika.kz/products/obshchestvennye-telefony-s-trubkoy/J%26R-JR211-FK-SIP/	JR211-CB	JR211-CB, накладной, без клавиатуры, аналоговый	296010.0	207150.0
+	д). Общественные телефоны с клавиатурой			
+https://ipmatika.kz/products/obshchestvennye-telefony-s-trubkoy/jr-jr201-fk-ow-sip/	JR201-FK-SIP	JR201-FK-SIP, клавиатура, накладной, PoE, БП	388330.0	271770.0
+https://ipmatika.kz/products/obshchestvennye-telefony-s-trubkoy/jr-jr201-fk-ow-sip/	JR201-FK-4G	JR201-FK-SIP, клавиатура, накладной, БП, 1 SIM	536040.0	375050.0
+https://ipmatika.kz/products/obshchestvennye-telefony-s-trubkoy/JR201-FK-VC-SIP/	JR201-FK-VC-4G	JR201-FK-VC-4G, клавиатура, накладной, БП, 1 SIM	600660.0	420640.0
+https://ipmatika.kz/products/obshchestvennye-telefony-s-trubkoy/JR201-FK-VC-SIP/	JR201-FK-VC-SIP	JR201-FK-VC-SIP,  клавиатура, накладной, PoE, без БП, стальной	452950.0	317350.0
+https://ipmatika.kz/products/analogovye-telefony/jr-jr201-fk-vc/	JR201-FK-VC	JR201-FK-VC, клавиатура, накладной, стальной, аналоговый	360630.0	252730.0
+https://ipmatika.kz/products/obshchestvennye-telefony-s-trubkoy/jr-jr201-fk-ow-sip/	JR201-FK	JR201-FK, клавиатура, накладной, серый, аналоговый	296010.0	207150.0
+0	JR202-FK-4G	JR202-FK-4G, клавиатура, накладной, БП, серый	452950.0	317350.0
+0	JR202-FK-SIP	JR202-FK-SIP, клавиатура, накладной, PoE, БП, серый	342170.0	239460.0
+https://ipmatika.kz/products/obshchestvennye-telefony-s-trubkoy/jr-jr202-fk-ow-sip/	JR202-FK	JR202-FK, клавиатура, накладной, серый, аналоговый	249850.0	174840.0
+https://ipmatika.kz/products/obshchestvennye-telefony-s-trubkoy/jr-jr203-fk-ow-sip/	JR203-FK-4G	JR203-FK-4G, клавиатура, накладной, БП, серый, 1 SIM	517570.0	362360.0
+https://ipmatika.kz/products/obshchestvennye-telefony-s-trubkoy/jr-jr203-fk-ow-sip/	JR203-FK-SIP	JR203-FK-SIP, клавиатура, накладной, PoE, БП, серый	406790.0	285040.0
+https://ipmatika.kz/products/obshchestvennye-telefony-s-trubkoy/jr-jr203-fk-ow-sip/	JR203-FK	JR203-FK, клавиатура, накладной, серый, аналоговый	314470.0	220410.0
+https://ipmatika.kz/products/obshchestvennye-telefony-s-trubkoy/J%26R-JR204-FK-SIP/	JR204-FK-4G	JR204-FK-4G, клавиатура, дисплей, накладной, БП, 1 SIM	545270.0	381970.0
+https://ipmatika.kz/products/obshchestvennye-telefony-s-trubkoy/J%26R-JR204-FK-SIP/	JR204-FK-SIP	JR204-FK-SIP, клавиатура, дисплей, накладной, PoE, без БП, стальной	434490.0	304080.0
+https://ipmatika.kz/products/analogovye-telefony/jr-jr204-fk/	JR204-FK	JR204-FK, клавиатура, дисплей, накладной, стальной, аналоговый	342170.0	239460.0
+https://ipmatika.kz/products/obshchestvennye-telefony-s-trubkoy/J%26R-JR205-FK-SIP/	JR205-FK-4G	JR205-FK-4G, клавиатура, накладной, БП, 1 SIM	609890.0	426980.0
+https://ipmatika.kz/products/obshchestvennye-telefony-s-trubkoy/J%26R-JR205-FK-SIP/	JR205-FK-SIP	JR205-FK-SIP, клавиатура, накладной, PoE, без БП, серый	499110.0	349660.0
+https://ipmatika.kz/products/obshchestvennye-telefony-s-trubkoy/J%26R-JR205-FK-SIP/	JR205-FK	JR205-FK, клавиатура, накладной, аналоговый	406790.0	285040.0
+https://ipmatika.kz/products/obshchestvennye-telefony-s-trubkoy/jr-jr206-fk-ow-3g/	JR206-FK-4G	JR206-FK-4G, клавиатура, накладной, БП	517570.0	362360.0
+https://ipmatika.kz/products/obshchestvennye-telefony-s-trubkoy/jr-jr206-fk-ow-3g/	JR206-FK-SIP	JR206-FK-SIP, клавиатура, накладной, PoE, БП	406790.0	285040.0
+https://ipmatika.kz/products/obshchestvennye-telefony-s-trubkoy/jr-jr206-fk-ow-3g/	JR206-FK	JR206-FK, клавиатура, накладной, аналоговый	314470.0	220410.0
+https://ipmatika.kz/products/obshchestvennye-telefony-s-trubkoy/jr-jr207-fk-ow-sip/	JR207-FK-4G	JR207-FK-4G, клавиатура (16 кнопок), накладной, БП, 1 SIM	526810.0	368710.0
+https://ipmatika.kz/products/obshchestvennye-telefony-s-trubkoy/jr-jr207-fk-ow-sip/	JR207-FK-SIP	JR207-FK-SIP, клавиатура (16 кнопок), накладной, PoE, БП	416020.0	291390.0
+https://ipmatika.kz/products/obshchestvennye-telefony-s-trubkoy/jr-jr207-fk-ow-sip/	JR207-FK	JR207-FK, клавиатура (16 кнопок), накладной, аналоговый	323700.0	226770.0
+https://ipmatika.kz/products/asepticheskie-telefony-dlya-chistykh-pomeshcheniy/J%26R-JR209-FK-SIP/	JR208-FK-4G	JR208-FK-4G, клавиатура, врезной, БП, 1 SIM	563730.0	394670.0
+https://ipmatika.kz/products/asepticheskie-telefony-dlya-chistykh-pomeshcheniy/J%26R-JR209-FK-SIP/	JR208-FK-SIP	JR208-FK-SIP, клавиатура, врезной, PoE, БП, серый	452950.0	317350.0
+https://ipmatika.kz/products/asepticheskie-telefony-dlya-chistykh-pomeshcheniy/J%26R-JR209-FK-SIP/	JR208-FK	JR208-FK, клавиатура, врезной, аналоговый	360630.0	252730.0
+https://ipmatika.kz/products/asepticheskie-telefony-dlya-chistykh-pomeshcheniy/J%26R-JR209-FK-SIP/	JR209-FK-4G	JR209-FK-4G, клавиатура, врезной, БП, 1 SIM	563730.0	394670.0
+https://ipmatika.kz/products/asepticheskie-telefony-dlya-chistykh-pomeshcheniy/J%26R-JR209-FK-SIP/	JR209-FK-SIP	JR209-FK-SIP, клавиатура, врезной, PoE, БП, серый	452950.0	317350.0
+https://ipmatika.kz/products/asepticheskie-telefony-dlya-chistykh-pomeshcheniy/J%26R-JR209-FK-SIP/	JR209-FK	JR209-FK, клавиатура, врезной, аналоговый	360630.0	252730.0
+https://ipmatika.kz/products/obshchestvennye-telefony-s-trubkoy/J%26R-JR211-FK-SIP/	JR211-FK-4G	JR211-FK-4G, клавиатура, накладной, БП, 1 SIM	600660.0	420640.0
+https://ipmatika.kz/products/obshchestvennye-telefony-s-trubkoy/J%26R-JR211-FK-SIP/	JR211-FK-SIP	JR211-FK-SIP, клавиатура, накладной, PoE, без БП, серый	489880.0	342740.0
+https://ipmatika.kz/products/obshchestvennye-telefony-s-trubkoy/J%26R-JR211-FK-SIP/	JR211-FK	JR211-FK, клавиатура, накладной, аналоговый	397560.0	278110.0
+https://ipmatika.kz/products/obshchestvennye-telefony-s-trubkoy/J%26R-JR211-FK-SIP/	JR212-FK-4G	JR212-FK-4G, клавиатура, накладной, БП, LCD-экран, 1 SIM	628360.0	439670.0
+https://ipmatika.kz/products/obshchestvennye-telefony-s-trubkoy/J%26R-JR211-FK-SIP/	JR212-FK-SIP	JR212-FK-SIP, клавиатура, накладной, PoE, БП, LCD-экран, серый	517570.0	362360.0
+https://ipmatika.kz/products/obshchestvennye-telefony-s-trubkoy/J%26R-JR211-FK-SIP/	JR212-FK	JR212-FK, клавиатура, накладной, БП, LCD-экран, аналоговый	425250.0	297730.0
+https://ipmatika.kz/products/obshchestvennye-telefony-s-trubkoy/J%26R-JR211-FK-SIP/	JR213-FK-4G	JR213-FK-4G, клавиатура, БП, экран, камера, 1 SIM	2181640.0	1527320.0
+https://ipmatika.kz/products/obshchestvennye-telefony-s-trubkoy/J%26R-JR211-FK-SIP/	JR213-FK-SIP	JR213-FK-SIP, клавиатура, PoE, БП, экран, камера, серый	1660030.0	1162080.0
+	JR300 панели и колонны			
+	е). Вызывные панели			
+https://ipmatika.kz/products/vyzyvnye-paneli/jr-jr301-sc-sip/	JR213-2B-4G	JR213-2B-4G, 2 кнопки, накладной, PoE, БП, камера, экран, 1 SIM	1807750.0	1265370.0
+https://ipmatika.kz/products/vyzyvnye-paneli/jr-jr301-sc-sip/	JR213-2B-SIP	JR213-2B-SIP, 2 кнопки, накладной, PoE, БП, камера, экран	1368070.0	957820.0
+https://ipmatika.kz/products/analogovye-vyzyvnye-paneli/jr-jr301-2b/	JR301-2B-4G	JR301-2B-4G, 2 кнопки, накладной, БП, стальной	537760.0	376200.0
+https://ipmatika.kz/products/analogovye-vyzyvnye-paneli/jr-jr301-2b-iw/	JR301-2B-IW-4G	JR301-2B-IW-4G, 2 кнопки, врезной, стальной	526810.0	368710.0
+https://ipmatika.kz/products/vyzyvnye-paneli/jr-jr301-2b-iw-sip/	JR301-2B-IW-SIP	JR301-2B-IW-SIP, 2 кнопки, врезной, PoE, БП, стальной	413130.0	289080.0
+https://ipmatika.kz/products/analogovye-vyzyvnye-paneli/jr-jr301-2b-iw/	JR301-2B-IW	JR301-2B-IW, 2 кнопки, врезной, стальной, аналоговый	319090.0	223300.0
+https://ipmatika.kz/products/vyzyvnye-paneli/jr-jr301-2b-sip/	JR301-2B-SIP	JR301-2B-SIP, 2 кнопки, накладной, PoE, БП, стальной	424670.0	297160.0
+https://ipmatika.kz/products/vyzyvnye-paneli/jr-jr301-2b-sip/	JR301-2B	JR301-2B, 2 кнопки, накладной, стальной, аналоговый	330040.0	230800.0
+https://ipmatika.kz/products/analogovye-vyzyvnye-paneli/jr-jr301-sc/	JR301-SC-4G	JR301-SC-4G, 1 кнопка, автодозвон, накладной, БП, стальной	518730.0	362940.0
+https://ipmatika.kz/products/vyzyvnye-paneli/jr-jr301-sc-iw-sip/	JR301-SC-C1-4G	JR301-SC-C1-4G, 1 кнопка, врезной, БП, стальной, камера, 1 SIM	896660.0	627780.0
+https://ipmatika.kz/products/vyzyvnye-paneli/jr-jr301-sc-iw-sip/	JR301-SC-C1-SIP	JR301-SC-C1-SIP, 1 кнопка, врезной, PoE, БП, стальной, камера	688940.0	482370.0
+https://ipmatika.kz/products/vyzyvnye-paneli/jr-jr301-sc-iw-sip/	JR301-SC-C2-4G	JR301-SC-C2-4G, 1 кнопка, накладной, БП, стальной, камера, 1 SIM	1038030.0	726450.0
+https://ipmatika.kz/products/vyzyvnye-paneli/jr-jr301-sc-iw-sip/	JR301-SC-C2-SIP	JR301-SC-C2-SIP, 1 кнопка, накладной, PoE, БП, стальной, камера	745480.0	521610.0
+https://ipmatika.kz/products/vyzyvnye-paneli/jr-jr301-sc-iw-sip/	JR301-SC-IW-4G	JR301-SC-IW-4G, 1 кнопка, врезной, стальной	507760.0	355430.0
+https://ipmatika.kz/products/vyzyvnye-paneli/jr-jr301-sc-iw-sip/	JR301-SC-IW-SIP	JR301-SC-IW-SIP, 1 кнопка, врезной, PoE, без БП, стальной	394670.0	276390.0
+https://ipmatika.kz/products/vyzyvnye-paneli/jr-jr301-sc-iw-sip/	JR301-SC-IW	JR301-SC-IW, 1 кнопка, врезной, стальной, аналоговый	300040.0	210030.0
+https://ipmatika.kz/products/vyzyvnye-paneli/jr-jr301-sc-sip/	JR301-SC-SIP	JR301-SC-SIP, 1 кнопка, автодозвон, накладной, PoE, БП, стальной	405640.0	283880.0
+https://ipmatika.kz/products/analogovye-vyzyvnye-paneli/jr-jr301-sc/	JR301-SC	JR301-SC, 1 кнопка, автодозвон, накладной, стальной, аналоговый	311580.0	218110.0
+https://ipmatika.kz/products/analogovye-vyzyvnye-paneli/jr-jr302-sc/	JR302-SC-4G	JR302-SC-4G, 1 кнопка, автодозвон, накладной, БП, стальной	601820.0	421210.0
+https://ipmatika.kz/products/vyzyvnye-paneli/jr-jr302-sc-sip/	JR302-SC-SIP	JR302-SC-SIP, 1 кнопка, автодозвон, накладной, PoE, БП, стальной	451210.0	315620.0
+https://ipmatika.kz/products/analogovye-vyzyvnye-paneli/jr-jr302-sc/	JR302-SC	JR302-SC, 1 кнопка, автодозвон, накладной, стальной, аналоговый	356590.0	249850.0
+https://ipmatika.kz/products/asepticheskie-telefony-dlya-chistykh-pomeshcheniy/J%26R-JR309-FK-SIP/	JR303-2B-4G	JR303-2B-4G, 2 кнопки, врезной, БП, 1 SIM	677400.0	474290.0
+https://ipmatika.kz/products/asepticheskie-telefony-dlya-chistykh-pomeshcheniy/J%26R-JR309-FK-SIP/	JR303-2B-SIP	JR303-2B-SIP, 2 кнопки, врезной, PoE, БП	564310.0	395250.0
+https://ipmatika.kz/products/asepticheskie-telefony-dlya-chistykh-pomeshcheniy/J%26R-JR309-FK-SIP/	JR303-2B	JR303-2B, 2 кнопки, врезной, аналоговая	488720.0	342170.0
+https://ipmatika.kz/products/asepticheskie-telefony-dlya-chistykh-pomeshcheniy/J%26R-JR309-FK-SIP/	JR303-SC-4G	JR303-SC-4G, 1 кнопка, врезной, БП, 1 SIM	658360.0	461030.0
+https://ipmatika.kz/products/asepticheskie-telefony-dlya-chistykh-pomeshcheniy/J%26R-JR309-FK-SIP/	JR303-SC-SIP	JR303-SC-SIP, 1 кнопка, врезной, PoE, БП	545270.0	381970.0
+https://ipmatika.kz/products/asepticheskie-telefony-dlya-chistykh-pomeshcheniy/J%26R-JR309-FK-SIP/	JR303-SC	JR303-SC, 1 кнопка, врезной, аналоговая	469680.0	328890.0
+https://ipmatika.kz/products/analogovye-vyzyvnye-paneli/jr-jr304-sc/	JR304-SC-4G	JR304-SC-4G, 1 кнопка, автодозвон, накладной, БП, стальной	545270.0	381970.0
+https://ipmatika.kz/products/vyzyvnye-paneli/jr-jr304-sc-sip/	JR304-SC-SIP	JR304-SC-SIP, 1 кнопка, автодозвон, накладной, PoE, БП, стальной	432180.0	302350.0
+https://ipmatika.kz/products/analogovye-vyzyvnye-paneli/jr-jr304-sc/	JR304-SC	JR304-SC, 1 кнопка, автодозвон, накладной, стальной, аналоговый	337550.0	236570.0
+https://ipmatika.kz/products/analogovye-vyzyvnye-paneli/jr-jr305-sc/	JR305-SC-4G	JR305-SC-4G, 1 кнопка, автодозвон, накладной, БП, стальной	545270.0	381970.0
+https://ipmatika.kz/products/vyzyvnye-paneli/jr-jr305-sc-sip/	JR305-SC-SIP	JR305-SC-SIP, 1 кнопка, автодозвон, накладной, PoE, БП, стальной	432180.0	302350.0
+https://ipmatika.kz/products/analogovye-vyzyvnye-paneli/jr-jr305-sc/	JR305-SC	JR305-SC, 1 кнопка, автодозвон, накладной, стальной, аналоговый	337550.0	236570.0
+https://ipmatika.kz/products/analogovye-vyzyvnye-paneli/jr-jr308-fk/	JR308-FK-4G	JR308-FK-4G, клавиатура, врезной, стальной, аналоговый	564310.0	395250.0
+https://ipmatika.kz/products/vyzyvnye-paneli/jr-jr308-fk-SIP/	JR308-FK-SIP	JR308-FK-SIP, клавиатура, врезной, PoE, БП, стальной	451210.0	315620.0
+https://ipmatika.kz/products/analogovye-vyzyvnye-paneli/jr-jr308-fk/	JR308-FK	JR308-FK, клавиатура, врезной, стальной, аналоговый	356590.0	249850.0
+https://ipmatika.kz/products/asepticheskie-telefony-dlya-chistykh-pomeshcheniy/J%26R-JR309-FK-SIP/	JR309-FK-4G	JR309-FK-4G, клавиатура, врезной, БП, 1 SIM	564310.0	395250.0
+https://ipmatika.kz/products/asepticheskie-telefony-dlya-chistykh-pomeshcheniy/J%26R-JR309-FK-SIP/	JR309-FK-A-4G	JR309-FK-A-4G, клавиатура, 2 кнопки, врезной, БП, 1 SIM	583350.0	408520.0
+https://ipmatika.kz/products/asepticheskie-telefony-dlya-chistykh-pomeshcheniy/J%26R-JR309-FK-SIP/	JR309-FK-A-SIP	JR309-FK-A-SIP, клавиатура, 2 кнопки, врезной, PoE, БП	469680.0	328890.0
+https://ipmatika.kz/products/asepticheskie-telefony-dlya-chistykh-pomeshcheniy/J%26R-JR309-FK-SIP/	JR309-FK-A	JR309-FK-A, клавиатура, 2 кнопки, врезной, аналоговая	375630.0	263110.0
+https://ipmatika.kz/products/vyzyvnye-paneli/J%26R-JR309-FK-SIP/	JR309-FK-LCD-SIP	JR309-FK-LCD-SIP, клавиатура, врезной, PoE, без БП, стальной, экран	551610.0	386120.0
+https://ipmatika.kz/products/vyzyvnye-paneli/J%26R-JR309-FK-SIP/	JR309-FK-LCD	JR309-FK-LCD, клавиатура, врезной, стальной, экран, аналоговый	436210.0	305340.0
+https://ipmatika.kz/products/asepticheskie-telefony-dlya-chistykh-pomeshcheniy/J%26R-JR309-FK-SIP/	JR309-FK-SIP	JR309-FK-SIP, клавиатура, врезной, PoE, без БП, стальной	451210.0	315620.0
+https://ipmatika.kz/products/asepticheskie-telefony-dlya-chistykh-pomeshcheniy/J%26R-JR309-FK-SIP/	JR309-FK	JR309-FK, клавиатура, врезной, аналоговая	356590.0	249850.0
+https://ipmatika.kz/products/analogovye-vyzyvnye-paneli/jr-jr313-sc/	JR313-2B-4G	JR313-2B-4G, 1 кнопка, автодозвон, накладной, БП	432180.0	302350.0
+https://ipmatika.kz/products/vyzyvnye-paneli/jr-jr313-sc-ow-sip/	JR313-2B-SIP	JR313-2B-SIP, 1 кнопка, автодозвон, накладной, БП	337550.0	236570.0
+https://ipmatika.kz/products/analogovye-vyzyvnye-paneli/jr-jr313-sc/	JR313-2B	JR313-2B, 1 кнопка, автодозвон, накладной, аналоговый	243490.0	170220.0
+https://ipmatika.kz/products/analogovye-vyzyvnye-paneli/jr-jr313-sc/	JR313-SC-4G	JR313-SC-4G, 1 кнопка, автодозвон, накладной, БП	413130.0	289080.0
+https://ipmatika.kz/products/vyzyvnye-paneli/jr-jr313-sc-ow-sip/	JR313-SC-OW-SIP-GREY	JR313-SC-OW-SIP, 1 кнопка, автодозвон, накладной, PoE, без БП, серый	390050.0	273030.0
+https://ipmatika.kz/products/vyzyvnye-paneli/jr-jr313-sc-ow-sip/	JR313-SC-SIP	JR313-SC-SIP, 1 кнопка, автодозвон, накладной, БП	319090.0	223300.0
+https://ipmatika.kz/products/analogovye-vyzyvnye-paneli/jr-jr313-sc/	JR313-SC	JR313-SC, 1 кнопка, автодозвон, накладной, аналоговый	224460.0	156940.0
+https://ipmatika.kz/products/analogovye-vyzyvnye-paneli/jr-jr313-sc/	JR314-SC-4G	JR314-SC-4G, 1 кнопка, автодозвон, врезной, БП	432180.0	302350.0
+https://ipmatika.kz/products/vyzyvnye-paneli/jr-jr313-sc-ow-sip/	JR314-SC-SIP	JR314-SC-SIP, 1 кнопка, автодозвон, врезной, БП	356590.0	249850.0
+https://ipmatika.kz/products/analogovye-vyzyvnye-paneli/jr-jr313-sc/	JR314-SC	JR314-SC, 1 кнопка, автодозвон, врезной, аналоговый	243490.0	170220.0
+https://ipmatika.kz/products/vyzyvnye-paneli/jr-jr301-sc-iw-sip/	JR315-SC-4G	JR315-SC-4G, 2 кнопки, накладной, БП, индукционная петля, камера, 1 SIM	1500200.0	1050140.0
+https://ipmatika.kz/products/vyzyvnye-paneli/jr-jr301-sc-iw-sip/	JR315-SC-SIP	JR315-SC-SIP, 2 кнопки, накладной, PoE, БП, индукционная петля, камера	1387110.0	971100.0
+https://ipmatika.kz/products/vyzyvnye-paneli/jr-jr313-sc-ow-sip/	JR316-4B-4G	JR316-4B-4G, 4 кнопки, накладной, БП, 1 SIM	953200.0	667010.0
+https://ipmatika.kz/products/vyzyvnye-paneli/jr-jr313-sc-ow-sip/	JR316-4B-SIP	JR316-4B-SIP, 4 кнопки, накладной, БП	839540.0	587970.0
+https://ipmatika.kz/products/analogovye-vyzyvnye-paneli/jr-jr313-sc/	JR316-4B	JR316-4B, 4 кнопки, накладной, аналоговый	745480.0	521610.0
+https://ipmatika.kz/products/vyzyvnye-paneli/jr-jr313-sc-ow-sip/	JR330-SC-4G	JR330-SC-4G, 1 кнопка, накладной, БП, 1 SIM	839540.0	587970.0
+https://ipmatika.kz/products/vyzyvnye-paneli/jr-jr313-sc-ow-sip/	JR330-SC-SIP	JR330-SC-SIP, 1 кнопка, автодозвон, накладной, БП	726450.0	508340.0
+https://ipmatika.kz/products/vyzyvnye-paneli/jr-jr313-sc-ow-sip/	JR330-SC	JR330-SC, 1 кнопка, накладной, аналоговый	632390.0	442560.0
+https://ipmatika.kz/products/analogovye-vyzyvnye-paneli/jr-jr505-sc/	JR505-SC-4G	JR505-SC-4G, 1 кнопка, накладной, БП, стальной	451210.0	315620.0
+https://ipmatika.kz/products/vyzyvnye-paneli-dlya-liftov/J%26R-JR505-SC-SIP/	JR505-SC-SIP	JR505-SC-SIP, 1 кнопка, накладной, PoE, БП, стальной	356590.0	249850.0
+https://ipmatika.kz/products/analogovye-vyzyvnye-paneli/jr-jr505-sc/	JR505-SC	JR505-SC, 1 кнопка, накладной, стальной, аналоговый	262540.0	184070.0
+	ж). Колонны срочного вызова			
+https://ipmatika.kz/products/kolonny-vyzova/J%26R-JR321-SC-SIP/	JR306-SC-SP-4G	JR306-SC-SP-4G, 1 кнопка, колонна, солн.панель, LED лампа, 1 SIM	1726970.0	1208820.0
+https://ipmatika.kz/products/kolonny-vyzova/J%26R-JR321-SC-SIP/	JR306-SC-SP-SIP	JR306-SC-SP-SIP, 1 кнопка, колонна, солн.панель, LED лампа	1670420.0	1169580.0
+https://ipmatika.kz/products/kolonny-vyzova/J%26R-JR321-SC-SIP/	JR306-SC-SP	JR306-SC-SP, 1 кнопка, колонна, солн.панель, LED лампа, аналоговая	1575790.0	1103220.0
+https://ipmatika.kz/products/kolonny-vyzova/J%26R-JR321-SC-SIP/	JR315-SC-P-4G	JR315-SC-P-4G, 2 кнопки, колонна, индукционная петля, БП, 1 SIM	1877560.0	1314410.0
+https://ipmatika.kz/products/kolonny-vyzova/J%26R-JR321-SC-SIP/	JR315-SC-P-SIP	JR315-SC-P-SIP, 2 кнопки, колонна, индукционная петля, PoE, БП	1764470.0	1235360.0
+https://ipmatika.kz/products/kolonny-vyzova/J%26R-JR321-SC-SIP/	JR315-SC-P	JR315-SC-P, 2 кнопки, колонна, индукционная петля, аналоговая	1670420.0	1169580.0
+https://ipmatika.kz/products/analogovye-vyzyvnye-paneli/J%26R-JR320-SC/	JR320-SC-4G	JR320-SC-4G, 1 кнопка, автодозвон, LED индикатор, БП, синий	1103810.0	772610.0
+https://ipmatika.kz/products/kolonny-vyzova/J%26R-JR320-SC-SIP/	JR320-SC-SIP	JR320-SC-SIP, 1 кнопка, автодозвон, LED индикатор, PoE, БП, синий	990710.0	693550.0
+https://ipmatika.kz/products/analogovye-vyzyvnye-paneli/J%26R-JR320-SC/	JR320-SC	JR320-SC, 1 кнопка, автодозвон, LED индикатор, синяя, аналоговая	896660.0	627780.0
+https://ipmatika.kz/products/analogovye-vyzyvnye-paneli/J%26R-JR321-SC/	JR321-SC-4G	JR321-SC-4G, 1 кнопка, колонна, LED индикатор, БП, синяя	3114070.0	2179910.0
+https://ipmatika.kz/products/kolonny-vyzova/J%26R-JR321-SC-SIP/	JR321-SC-SIP	JR321-SC-SIP, 1 кнопка, колонна, LED индикатор, PoE, БП, синяя	3000400.0	2100280.0
+https://ipmatika.kz/products/kolonny-vyzova/J%26R-JR321-SC-SIP/	JR321-SC-SP-4G	JR321-SC-SP-4G, 1 кнопка, колонна, солн.панель, LED лампа, 1 SIM	3567010.0	2496680.0
+https://ipmatika.kz/products/kolonny-vyzova/J%26R-JR321-SC-SIP/	JR321-SC-SP-SIP	JR321-SC-SP-SIP, 1 кнопка, колонна, солн.панель, LED лампа	3434890.0	2404360.0
+https://ipmatika.kz/products/kolonny-vyzova/J%26R-JR321-SC-SIP/	JR321-SC-SP	JR321-SC-SP, 1 кнопка, колонна, солн.панель, LED лампа, аналоговая	3246200.0	2272230.0
+https://ipmatika.kz/products/analogovye-vyzyvnye-paneli/J%26R-JR321-SC/	JR321-SC	JR321-SC, 1 кнопка, колонна, LED индикатор, БП, синяя, аналоговая	2811730.0	1968150.0
+	з). Телефоны срочного вызова			
+https://ipmatika.kz/products/analogovye-vyzyvnye-paneli/jr-jr306-sc/	JR306-SC-4G	JR306-SC-4G, 1 кнопка, БП	601820.0	421210.0
+https://ipmatika.kz/products/vyzyvnye-paneli/jr-jr306-sc-sip/	JR306-SC-SIP	JR306-SC-SIP, 1 кнопка, PoE, БП	488720.0	342170.0
+https://ipmatika.kz/products/analogovye-vyzyvnye-paneli/jr-jr306-sc/	JR306-SC	JR306-SC, 1 кнопка, аналоговый	394670.0	276390.0
+	Звукоизоляционные кабины			
+https://ipmatika.kz/products/zvukoizolyatsionnye-kabiny/J%26R-JR-TH-02/	JR-TH-01	JR-TH-01 звукоизоляционная кабина	1200160.0	840110.0
+https://ipmatika.kz/products/zvukoizolyatsionnye-kabiny/J%26R-JR-TH-02/	JR-TH-02	JR-TH-02 звукоизоляционная кабина	877040.0	613930.0
+https://ipmatika.kz/products/zvukoizolyatsionnye-kabiny/J%26R-JR-TH-03/	JR-TH-03	JR-TH-03 звукоизоляционная кабина	7962600.0	5573820.0
+	Образцы с ГТД (можно продавать)			
+https://ipmatika.kz/products/vzryvozashchishchennoe-oborudovanie/J%26R-JREX-CB-SIP/	JREX101-FK	JREX101-FK, с крышкой, клавиатура, красный, аналоговый, образец	1158120.0	645790.0
+https://ipmatika.kz/products/vzryvozashchishchennoe-oborudovanie/J%26R-JREX103-CB-SIP/	JREX103	JREX103, без крышки, без клавиатуры, красный, аналоговый, образец	1060360.0	563790.0
+https://ipmatika.kz/products/vzryvozashchishchennoe-oborudovanie/J%26R-JREX105-FK-SIP/	JREX105	JREX105, клавиатура, дисплей, без крышки, PoE, без БП, красный, образец	1187850.0	686800.0

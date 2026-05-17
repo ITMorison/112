@@ -1,0 +1,3579 @@
+{
+  "_root": {
+    "с ворда.txt": {
+      "products": 0,
+      "meta": {},
+      "sample": []
+    },
+    "сбстар2.txt": {
+      "products": 557,
+      "meta": {
+        "headerRowIndex": 0,
+        "headers": [
+          {
+            "index": 0,
+            "raw": "Наименование товаров",
+            "clean": "наименование товаров"
+          },
+          {
+            "index": 1,
+            "raw": "Розница",
+            "clean": "розница"
+          },
+          {
+            "index": 2,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 3,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 4,
+            "raw": "",
+            "clean": ""
+          }
+        ],
+        "priceCandidates": [
+          {
+            "index": 1,
+            "raw": "Розница",
+            "clean": "розница",
+            "idx": 1
+          }
+        ],
+        "categories": [
+          "01. Радиостанции гражданского диапазона 27МГц(СВ)",
+          "1.1 Автомобильные и базовые радиостанции диапазона 27МГц",
+          "1.2 Портативные радиостанции диапазона 27МГц",
+          "02. Радиостанции УКВ диапазона",
+          "2.1. Радиостанции портативные аналоговые",
+          "2.2. Радиостанции портативные цифровые/аналоговые",
+          "2.3. Радиостанции мобильные/стационарные",
+          "05. GSM, 3G, CDMA-репитеры, телефоны, шлюзы, рации",
+          "5.2. Стационарные телефоны, GSM-шлюзы, 3G/4G роутеры",
+          "7.1. Гарнитуры, микрофоны"
+        ]
+      },
+      "sample": [
+        {
+          "articul": "",
+          "name": "Краткое описание характеристик",
+          "price": 0,
+          "brand": "",
+          "url": "",
+          "status": "",
+          "raw": [
+            "Краткое описание характеристик",
+            "KZT",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "articul": "",
+          "name": "Монтажный набор для крепления СВ рации в 1DIN слот  (для AnyTone AT-505Pro, President Barry, Barry II, Teddy, Teddy II))",
+          "price": 9211,
+          "brand": "",
+          "url": "",
+          "status": "",
+          "raw": [
+            "Монтажный набор для крепления СВ рации в 1DIN слот  (для AnyTone AT-505Pro, President Barry, Barry II, Teddy, Teddy II))",
+            "9 211",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    }
+  },
+  "Al-Style_price": {
+    "Каталог.txt": {
+      "products": 4053,
+      "meta": {
+        "headerRowIndex": 0,
+        "headers": [
+          {
+            "index": 0,
+            "raw": "Код",
+            "clean": "код"
+          },
+          {
+            "index": 1,
+            "raw": "Артикул",
+            "clean": "артикул"
+          },
+          {
+            "index": 2,
+            "raw": "Наименование",
+            "clean": "наименование"
+          },
+          {
+            "index": 3,
+            "raw": "Полное наименование",
+            "clean": "полное наименование"
+          },
+          {
+            "index": 4,
+            "raw": "Цена роз.",
+            "clean": "цена роз."
+          },
+          {
+            "index": 5,
+            "raw": "Цена сайт",
+            "clean": "цена сайт"
+          }
+        ],
+        "priceCandidates": [
+          {
+            "index": 4,
+            "raw": "Цена роз.",
+            "clean": "цена роз.",
+            "idx": 4
+          },
+          {
+            "index": 5,
+            "raw": "Цена сайт",
+            "clean": "цена сайт",
+            "idx": 5
+          }
+        ],
+        "categories": []
+      },
+      "sample": [
+        {
+          "articul": "Corebook Plus R1603-A5",
+          "name": "\"Ноутбук Chuwi Corebook Plus 16\"\" FHD Ryzen 5-7430U 16GB 512GB Win 11\"",
+          "price": 299990,
+          "brand": "\"Ноутбук Chuwi Corebook Plus 16\"\" FHD Ryzen 5-7430U 16GB 512GB Win 11\"",
+          "url": "",
+          "status": "",
+          "raw": [
+            "84326",
+            "Corebook Plus R1603-A5",
+            "\"Ноутбук Chuwi Corebook Plus 16\"\" FHD Ryzen 5-7430U 16GB 512GB Win 11\"",
+            "\"Ноутбук, Chuwi, Corebook Plus, 16\"\", FHD, 1920x1200, IPS, Ryzen 5-7430U, 16GB LPDDR4, 512GB SSD, AMD Radeon Graphics, Win 11 Home, Серый\"",
+            "299990.0",
+            "284990.5"
+          ]
+        },
+        {
+          "articul": "Corebook Air Plus 16&quot; R5",
+          "name": "\"Ноутбук Chuwi Corebook Air Plus 16\"\" FHD Ryzen 5-6600H 16GB 512GB Win 11\"",
+          "price": 319990,
+          "brand": "\"Ноутбук Chuwi Corebook Air Plus 16\"\" FHD Ryzen 5-6600H 16GB 512GB Win 11\"",
+          "url": "",
+          "status": "",
+          "raw": [
+            "84330",
+            "Corebook Air Plus 16&quot; R5",
+            "\"Ноутбук Chuwi Corebook Air Plus 16\"\" FHD Ryzen 5-6600H 16GB 512GB Win 11\"",
+            "\"Ноутбук, Chuwi, Corebook Air Plus, 16\"\", FHD, 1920x1200, IPS, Ryzen 5-6600H, 16GB LPDDR5, 512GB SSD, AMD Radeon 660M, Win 11 Pro, Серебро\"",
+            "319990.0",
+            "303990.5"
+          ]
+        }
+      ]
+    },
+    "Уценка.txt": {
+      "products": 712,
+      "meta": {
+        "headerRowIndex": 0,
+        "headers": [
+          {
+            "index": 0,
+            "raw": "Код",
+            "clean": "код"
+          },
+          {
+            "index": 1,
+            "raw": "Артикул",
+            "clean": "артикул"
+          },
+          {
+            "index": 2,
+            "raw": "Наименование",
+            "clean": "наименование"
+          },
+          {
+            "index": 3,
+            "raw": "Полное наименование",
+            "clean": "полное наименование"
+          },
+          {
+            "index": 4,
+            "raw": "Цена дил.",
+            "clean": "цена дил."
+          },
+          {
+            "index": 5,
+            "raw": "Цена уцен.",
+            "clean": "цена уцен."
+          },
+          {
+            "index": 6,
+            "raw": "Процент",
+            "clean": "процент"
+          },
+          {
+            "index": 7,
+            "raw": "Причина",
+            "clean": "причина"
+          },
+          {
+            "index": 8,
+            "raw": "Остаток",
+            "clean": "остаток"
+          },
+          {
+            "index": 9,
+            "raw": "Заказ",
+            "clean": "заказ"
+          }
+        ],
+        "priceCandidates": [
+          {
+            "index": 4,
+            "raw": "Цена дил.",
+            "clean": "цена дил.",
+            "idx": 4
+          },
+          {
+            "index": 5,
+            "raw": "Цена уцен.",
+            "clean": "цена уцен.",
+            "idx": 5
+          }
+        ],
+        "categories": [
+          "Мобильные телефоны",
+          "Игровые наушники и гарнитуры",
+          "Офисные наушники и гарнитуры",
+          "PoE адаптеры",
+          "Оптические модули 1G SFP",
+          "Модули",
+          "Оптические полки и кроссы",
+          "Вызывные панели",
+          "Интерактивные панели",
+          "Профессиональные панели",
+          "Панели для видеостен",
+          "Панели"
+        ]
+      },
+      "sample": [
+        {
+          "articul": "CN5",
+          "name": "Мобильный телефон TECNO CAMON 50 (CN5) 256+8 GB Malachite Green",
+          "price": 165402,
+          "brand": "Мобильный телефон TECNO CAMON 50 (CN5) 256+8 GB Malachite Green",
+          "url": "",
+          "status": "",
+          "raw": [
+            "86141y",
+            "CN5",
+            "Мобильный телефон TECNO CAMON 50 (CN5) 256+8 GB Malachite Green",
+            "\"Мобильный телефон, TECNO, CAMON 50 (CN5) 256+8 GB, 6.78\"\" AMOLED, Аккумулятор 6500 мАч, 50MPx+8MPx/32MPx, MediaTek Helio G200 Ultimate, 18W, (Malachite Green) Зелёный\"",
+            "165402.0",
+            "148862.0",
+            "10%",
+            "замятие упаковки",
+            "2.0",
+            ""
+          ]
+        },
+        {
+          "articul": "2405CPX3DG",
+          "name": "Мобильный телефон Xiaomi MIX Flip 12GB RAM 512GB ROM Black",
+          "price": 466400,
+          "brand": "Мобильный телефон Xiaomi MIX Flip 12GB RAM 512GB ROM Black",
+          "url": "",
+          "status": "",
+          "raw": [
+            "67421y",
+            "2405CPX3DG",
+            "Мобильный телефон Xiaomi MIX Flip 12GB RAM 512GB ROM Black",
+            "\"Мобильный телефон, Xiaomi, MIX Flip 12GB 512GB, 6.86\"\" AMOLED, 2912*1224, Аккумулятор 4780 мАч, 50MPx+50MPx/32MPx, Snapdragon 8 Gen 3, Fast Charge 67W, (Black) Чёрный\"",
+            "466400.0",
+            "290000.0",
+            "38%",
+            " Царапины на защитной пленке экрана. Потертости, загрязнения на устройстве. Дата активации 2024-11-20.",
+            "1.0",
+            ""
+          ]
+        }
+      ]
+    }
+  },
+  "Прайс-лист_ipmatika_Наши_Цены": {
+    "3CX.txt": {
+      "products": 0,
+      "meta": {
+        "headerRowIndex": 0,
+        "headers": [
+          {
+            "index": 0,
+            "raw": "Unnamed: 0",
+            "clean": "unnamed: 0"
+          },
+          {
+            "index": 1,
+            "raw": "Unnamed: 1",
+            "clean": "unnamed: 1"
+          },
+          {
+            "index": 2,
+            "raw": "Unnamed: 2",
+            "clean": "unnamed: 2"
+          },
+          {
+            "index": 3,
+            "raw": "Unnamed: 3",
+            "clean": "unnamed: 3"
+          },
+          {
+            "index": 4,
+            "raw": "Unnamed: 4",
+            "clean": "unnamed: 4"
+          },
+          {
+            "index": 5,
+            "raw": "Unnamed: 5",
+            "clean": "unnamed: 5"
+          },
+          {
+            "index": 6,
+            "raw": "Unnamed: 6",
+            "clean": "unnamed: 6"
+          },
+          {
+            "index": 7,
+            "raw": "Unnamed: 7",
+            "clean": "unnamed: 7"
+          },
+          {
+            "index": 8,
+            "raw": "Unnamed: 8",
+            "clean": "unnamed: 8"
+          },
+          {
+            "index": 9,
+            "raw": "Unnamed: 9",
+            "clean": "unnamed: 9"
+          },
+          {
+            "index": 10,
+            "raw": "http://prices.ipmatika.kz",
+            "clean": "http://prices.ipmatika.kz"
+          },
+          {
+            "index": 11,
+            "raw": "Unnamed: 11",
+            "clean": "unnamed: 11"
+          },
+          {
+            "index": 12,
+            "raw": "Unnamed: 12",
+            "clean": "unnamed: 12"
+          }
+        ],
+        "priceCandidates": [],
+        "categories": []
+      },
+      "sample": []
+    },
+    "Fanvil.txt": {
+      "products": 110,
+      "meta": {
+        "headerRowIndex": 0,
+        "headers": [
+          {
+            "index": 0,
+            "raw": "URL",
+            "clean": "url"
+          },
+          {
+            "index": 1,
+            "raw": "Артикул",
+            "clean": "артикул"
+          },
+          {
+            "index": 2,
+            "raw": "Описание",
+            "clean": "описание"
+          },
+          {
+            "index": 3,
+            "raw": "KZ РРЦ",
+            "clean": "kz ррц"
+          },
+          {
+            "index": 4,
+            "raw": "Цена Сайт",
+            "clean": "цена сайт"
+          },
+          {
+            "index": 5,
+            "raw": "Status",
+            "clean": "status"
+          }
+        ],
+        "priceCandidates": [
+          {
+            "index": 3,
+            "raw": "KZ РРЦ",
+            "clean": "kz ррц",
+            "idx": 3
+          },
+          {
+            "index": 4,
+            "raw": "Цена Сайт",
+            "clean": "цена сайт",
+            "idx": 4
+          }
+        ],
+        "categories": []
+      },
+      "sample": [
+        {
+          "articul": "PN1",
+          "name": "PN1, SIP-шлюз для подключения IP-телефонов по двухжильному проводу",
+          "price": 94310,
+          "brand": "PN1, SIP-шлюз для подключения IP-телефонов по двухжильному проводу",
+          "url": "https://ipmatika.kz/products/2-wire-shlyuzy/fanvil-pn1/",
+          "status": "",
+          "raw": [
+            "https://ipmatika.kz/products/2-wire-shlyuzy/fanvil-pn1/",
+            "PN1",
+            "PN1, SIP-шлюз для подключения IP-телефонов по двухжильному проводу",
+            "94310.0",
+            "87708.3",
+            ""
+          ]
+        },
+        {
+          "articul": "PN24",
+          "name": "PN24, SIP-шлюз для подключения IP-телефонов по двухжильному проводу",
+          "price": 183960,
+          "brand": "PN24, SIP-шлюз для подключения IP-телефонов по двухжильному проводу",
+          "url": "https://ipmatika.kz/products/2-wire-shlyuzy/fanvil-pn24/",
+          "status": "",
+          "raw": [
+            "https://ipmatika.kz/products/2-wire-shlyuzy/fanvil-pn24/",
+            "PN24",
+            "PN24, SIP-шлюз для подключения IP-телефонов по двухжильному проводу",
+            "183960.0",
+            "171082.80000000002",
+            ""
+          ]
+        }
+      ]
+    },
+    "Gigaset.txt": {
+      "products": 15,
+      "meta": {
+        "headerRowIndex": 2,
+        "headers": [
+          {
+            "index": 0,
+            "raw": "№",
+            "clean": "№"
+          },
+          {
+            "index": 1,
+            "raw": "Наименование",
+            "clean": "наименование"
+          },
+          {
+            "index": 2,
+            "raw": "Артикул",
+            "clean": "артикул"
+          },
+          {
+            "index": 3,
+            "raw": "РРЦ",
+            "clean": "ррц"
+          },
+          {
+            "index": 4,
+            "raw": "ДИЛЕР",
+            "clean": "дилер"
+          },
+          {
+            "index": 5,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 6,
+            "raw": "",
+            "clean": ""
+          }
+        ],
+        "priceCandidates": [
+          {
+            "index": 3,
+            "raw": "РРЦ",
+            "clean": "ррц",
+            "idx": 3
+          },
+          {
+            "index": 4,
+            "raw": "ДИЛЕР",
+            "clean": "дилер",
+            "idx": 4
+          }
+        ],
+        "categories": []
+      },
+      "sample": [
+        {
+          "articul": "S30852-H2714-R101",
+          "name": "Gigaset N670 IP PRO, базовая станция, синглсота DECT, Мини-мультисота DECT (до 3 б\\с), до 20 трубок, POE",
+          "price": 234230,
+          "brand": "S30852-H2714-R101",
+          "url": "",
+          "status": "",
+          "raw": [
+            "1",
+            "Gigaset N670 IP PRO, базовая станция, синглсота DECT, Мини-мультисота DECT (до 3 б\\с), до 20 трубок, POE",
+            "S30852-H2714-R101",
+            "234230",
+            "175678.88",
+            "",
+            ""
+          ]
+        },
+        {
+          "articul": "S30852-H2315-R101",
+          "name": "Gigaset N720 DM PRO SYS IM Контроллер",
+          "price": 148720,
+          "brand": "S30852-H2315-R101",
+          "url": "",
+          "status": "",
+          "raw": [
+            "2",
+            "Gigaset N720 DM PRO SYS IM Контроллер ",
+            "S30852-H2315-R101",
+            "148720",
+            "111540",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    "JR.txt": {
+      "products": 211,
+      "meta": {
+        "headerRowIndex": 0,
+        "headers": [
+          {
+            "index": 0,
+            "raw": "Url",
+            "clean": "url"
+          },
+          {
+            "index": 1,
+            "raw": "Артикул",
+            "clean": "артикул"
+          },
+          {
+            "index": 2,
+            "raw": "Описание",
+            "clean": "описание"
+          },
+          {
+            "index": 3,
+            "raw": "РРЦ",
+            "clean": "ррц"
+          },
+          {
+            "index": 4,
+            "raw": "Дилер",
+            "clean": "дилер"
+          }
+        ],
+        "priceCandidates": [
+          {
+            "index": 3,
+            "raw": "РРЦ",
+            "clean": "ррц",
+            "idx": 3
+          },
+          {
+            "index": 4,
+            "raw": "Дилер",
+            "clean": "дилер",
+            "idx": 4
+          }
+        ],
+        "categories": [
+          "JR100 всепогодные телефоны",
+          "JR200 общепользовательские телефоны",
+          "д). Общественные телефоны с клавиатурой",
+          "JR300 панели и колонны",
+          "е). Вызывные панели",
+          "з). Телефоны срочного вызова"
+        ]
+      },
+      "sample": [
+        {
+          "articul": "JREX101-CB-HB-SIP",
+          "name": "JREX101-CB-HB-SIP, клавиатура, маячок, громкоговоритель, PoE, с крышкой",
+          "price": 2236450,
+          "brand": "JREX101-CB-HB-SIP, клавиатура, маячок, громкоговоритель, PoE, с крышкой",
+          "url": "https://ipmatika.kz/products/vzryvozashchishchennoe-oborudovanie/J%26R-JREX-FK-SIP/",
+          "status": "",
+          "raw": [
+            "https://ipmatika.kz/products/vzryvozashchishchennoe-oborudovanie/J%26R-JREX-FK-SIP/",
+            "JREX101-CB-HB-SIP",
+            "JREX101-CB-HB-SIP, клавиатура, маячок, громкоговоритель, PoE, с крышкой",
+            "2236450.0",
+            "1565510.0"
+          ]
+        },
+        {
+          "articul": "JREX101-CB-SIP",
+          "name": "JREX101-CB-SIP, PoE, без БП, с крышкой",
+          "price": 1257860,
+          "brand": "JREX101-CB-SIP, PoE, без БП, с крышкой",
+          "url": "https://ipmatika.kz/products/vzryvozashchishchennoe-oborudovanie/J%26R-JREX-CB-SIP/",
+          "status": "",
+          "raw": [
+            "https://ipmatika.kz/products/vzryvozashchishchennoe-oborudovanie/J%26R-JREX-CB-SIP/",
+            "JREX101-CB-SIP",
+            "JREX101-CB-SIP, PoE, без БП, с крышкой",
+            "1257860.0",
+            "880500.0"
+          ]
+        }
+      ]
+    },
+    "Qbic.txt": {
+      "products": 49,
+      "meta": {
+        "headerRowIndex": 0,
+        "headers": [
+          {
+            "index": 0,
+            "raw": "URL",
+            "clean": "url"
+          },
+          {
+            "index": 1,
+            "raw": "Артикул",
+            "clean": "артикул"
+          },
+          {
+            "index": 2,
+            "raw": "Описание",
+            "clean": "описание"
+          },
+          {
+            "index": 3,
+            "raw": "KZ РРЦ",
+            "clean": "kz ррц"
+          },
+          {
+            "index": 4,
+            "raw": "KZ Дилер",
+            "clean": "kz дилер"
+          },
+          {
+            "index": 5,
+            "raw": "Status",
+            "clean": "status"
+          }
+        ],
+        "priceCandidates": [
+          {
+            "index": 3,
+            "raw": "KZ РРЦ",
+            "clean": "kz ррц",
+            "idx": 3
+          },
+          {
+            "index": 4,
+            "raw": "KZ Дилер",
+            "clean": "kz дилер",
+            "idx": 4
+          }
+        ],
+        "categories": []
+      },
+      "sample": [
+        {
+          "articul": "EP-0400",
+          "name": "EP-0400 - Дисплей e-ink 4.2'', 400x300, 3 цвета: черн, белый, красный, 3 кнопки",
+          "price": 90750,
+          "brand": "EP-0400 - Дисплей e-ink 4.2'', 400x300, 3 цвета: черн, белый, красный, 3 кнопки",
+          "url": "https://ipmatika.kz/products/panelnye-kompyutery/ep-0400/",
+          "status": "Под заказ",
+          "raw": [
+            "https://ipmatika.kz/products/panelnye-kompyutery/ep-0400/",
+            "EP-0400",
+            "EP-0400 - Дисплей e-ink 4.2'', 400x300, 3 цвета: черн, белый, красный, 3 кнопки",
+            "90750.0",
+            "77137.5",
+            "Под заказ"
+          ]
+        },
+        {
+          "articul": "EP-0700",
+          "name": "EP-0700 - Дисплей e-ink 7.5'', 800x480, 3 цвета: черн, белый, красный, 3 кнопки",
+          "price": 181500,
+          "brand": "EP-0700 - Дисплей e-ink 7.5'', 800x480, 3 цвета: черн, белый, красный, 3 кнопки",
+          "url": "https://ipmatika.kz/products/panelnye-kompyutery/ep-0700/",
+          "status": "Под заказ",
+          "raw": [
+            "https://ipmatika.kz/products/panelnye-kompyutery/ep-0700/",
+            "EP-0700",
+            "EP-0700 - Дисплей e-ink 7.5'', 800x480, 3 цвета: черн, белый, красный, 3 кнопки",
+            "181500.0",
+            "154275.0",
+            "Под заказ"
+          ]
+        }
+      ]
+    },
+    "VT.txt": {
+      "products": 47,
+      "meta": {
+        "headerRowIndex": 0,
+        "headers": [
+          {
+            "index": 0,
+            "raw": "URL",
+            "clean": "url"
+          },
+          {
+            "index": 1,
+            "raw": "Артикул",
+            "clean": "артикул"
+          },
+          {
+            "index": 2,
+            "raw": "Описание",
+            "clean": "описание"
+          },
+          {
+            "index": 3,
+            "raw": "KZ РРЦ",
+            "clean": "kz ррц"
+          },
+          {
+            "index": 4,
+            "raw": "Цена Сайт",
+            "clean": "цена сайт"
+          },
+          {
+            "index": 5,
+            "raw": "Status",
+            "clean": "status"
+          }
+        ],
+        "priceCandidates": [
+          {
+            "index": 3,
+            "raw": "KZ РРЦ",
+            "clean": "kz ррц",
+            "idx": 3
+          },
+          {
+            "index": 4,
+            "raw": "Цена Сайт",
+            "clean": "цена сайт",
+            "idx": 4
+          }
+        ],
+        "categories": []
+      },
+      "sample": [
+        {
+          "articul": "VT FLOW",
+          "name": "VT FLOW, Дуо, Hi-Fi звук, 30м Bluetooth, индикатор занятости, ANC, складная, чехол, Dongle",
+          "price": 133100,
+          "brand": "VT FLOW, Дуо, Hi-Fi звук, 30м Bluetooth, индикатор занятости, ANC, складная, чехол, Dongle",
+          "url": "https://ipmatika.kz/products/bluetooth/vt_flow/",
+          "status": "",
+          "raw": [
+            "https://ipmatika.kz/products/bluetooth/vt_flow/",
+            "VT FLOW",
+            "VT FLOW, Дуо, Hi-Fi звук, 30м Bluetooth, индикатор занятости, ANC, складная, чехол, Dongle",
+            "133100.0",
+            "123783.0",
+            ""
+          ]
+        },
+        {
+          "articul": "VT9200-D",
+          "name": "VT9200-D, Дуо, HD звук, 30м Bluetooth, USB Type-C Dongle",
+          "price": 52800,
+          "brand": "VT9200-D, Дуо, HD звук, 30м Bluetooth, USB Type-C Dongle",
+          "url": "https://ipmatika.kz/products/bluetooth/VT9200-D/",
+          "status": "",
+          "raw": [
+            "https://ipmatika.kz/products/bluetooth/VT9200-D/",
+            "VT9200-D",
+            "VT9200-D, Дуо, HD звук, 30м Bluetooth, USB Type-C Dongle",
+            "52800.0",
+            "49104.0",
+            ""
+          ]
+        }
+      ]
+    },
+    "Yeastar.txt": {
+      "products": 151,
+      "meta": {
+        "headerRowIndex": 1,
+        "headers": [
+          {
+            "index": 0,
+            "raw": "Артикул",
+            "clean": "артикул"
+          },
+          {
+            "index": 1,
+            "raw": "Краткое описание",
+            "clean": "краткое описание"
+          },
+          {
+            "index": 2,
+            "raw": "РРЦ",
+            "clean": "ррц"
+          },
+          {
+            "index": 3,
+            "raw": "Сайт Цена",
+            "clean": "сайт цена"
+          },
+          {
+            "index": 4,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 5,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 6,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 7,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 8,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 9,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 10,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 11,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 12,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 13,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 14,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 15,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 16,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 17,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 18,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 19,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 20,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 21,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 22,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 23,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 24,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 25,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 26,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 27,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 28,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 29,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 30,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 31,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 32,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 33,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 34,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 35,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 36,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 37,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 38,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 39,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 40,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 41,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 42,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 43,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 44,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 45,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 46,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 47,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 48,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 49,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 50,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 51,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 52,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 53,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 54,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 55,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 56,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 57,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 58,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 59,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 60,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 61,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 62,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 63,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 64,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 65,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 66,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 67,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 68,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 69,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 70,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 71,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 72,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 73,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 74,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 75,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 76,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 77,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 78,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 79,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 80,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 81,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 82,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 83,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 84,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 85,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 86,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 87,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 88,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 89,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 90,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 91,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 92,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 93,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 94,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 95,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 96,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 97,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 98,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 99,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 100,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 101,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 102,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 103,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 104,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 105,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 106,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 107,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 108,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 109,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 110,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 111,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 112,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 113,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 114,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 115,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 116,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 117,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 118,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 119,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 120,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 121,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 122,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 123,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 124,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 125,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 126,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 127,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 128,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 129,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 130,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 131,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 132,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 133,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 134,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 135,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 136,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 137,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 138,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 139,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 140,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 141,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 142,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 143,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 144,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 145,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 146,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 147,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 148,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 149,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 150,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 151,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 152,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 153,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 154,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 155,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 156,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 157,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 158,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 159,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 160,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 161,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 162,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 163,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 164,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 165,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 166,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 167,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 168,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 169,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 170,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 171,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 172,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 173,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 174,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 175,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 176,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 177,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 178,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 179,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 180,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 181,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 182,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 183,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 184,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 185,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 186,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 187,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 188,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 189,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 190,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 191,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 192,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 193,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 194,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 195,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 196,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 197,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 198,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 199,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 200,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 201,
+            "raw": "",
+            "clean": ""
+          }
+        ],
+        "priceCandidates": [
+          {
+            "index": 2,
+            "raw": "РРЦ",
+            "clean": "ррц",
+            "idx": 2
+          },
+          {
+            "index": 3,
+            "raw": "Сайт Цена",
+            "clean": "сайт цена",
+            "idx": 3
+          }
+        ],
+        "categories": [
+          "Модули для АТС",
+          "Лицензии и программные модули для АТС",
+          "Модули ПО для Yeastar"
+        ]
+      },
+      "sample": [
+        {
+          "articul": "P520",
+          "name": "\"IP-АТС до 20 абонентов и до 10 одновременных вызовов",
+          "price": 0,
+          "brand": "",
+          "url": "",
+          "status": "",
+          "raw": [
+            "P520",
+            "\"IP-АТС до 20 абонентов и до 10 одновременных вызовов"
+          ]
+        },
+        {
+          "articul": "позволяет подключать аналоговые линии/телефоны, линии BRI и GSM-линию посредством дополнительных модулей, поддерживает протоколы MFC R2, SS7,  FXO, FXS, GSM, BRI, WCDMA(3G), LTE(4G)\"",
+          "name": "314050",
+          "price": 292066.5,
+          "brand": "292066.5",
+          "url": "",
+          "status": "",
+          "raw": [
+            "позволяет подключать аналоговые линии/телефоны, линии BRI и GSM-линию посредством дополнительных модулей, поддерживает протоколы MFC R2, SS7,  FXO, FXS, GSM, BRI, WCDMA(3G), LTE(4G)\"",
+            "314050",
+            "292066.5",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    "Подбор.txt": {
+      "products": 0,
+      "meta": {
+        "headerRowIndex": 0,
+        "headers": [
+          {
+            "index": 0,
+            "raw": "Артикул",
+            "clean": "артикул"
+          },
+          {
+            "index": 1,
+            "raw": "Номенклатура.Производитель (бренд)",
+            "clean": "номенклатура.производитель (бренд)"
+          },
+          {
+            "index": 2,
+            "raw": "Номенклатура на 6 января 2026 г.",
+            "clean": "номенклатура на 6 января 2026 г."
+          },
+          {
+            "index": 3,
+            "raw": "KZ РРЦ",
+            "clean": "kz ррц"
+          },
+          {
+            "index": 4,
+            "raw": "KZ Дилер",
+            "clean": "kz дилер"
+          },
+          {
+            "index": 5,
+            "raw": "%",
+            "clean": "%"
+          },
+          {
+            "index": 6,
+            "raw": "ALM а 23 февраля 2026 г.",
+            "clean": "alm а 23 февраля 2026 г."
+          },
+          {
+            "index": 7,
+            "raw": "AlmRes",
+            "clean": "almres"
+          },
+          {
+            "index": 8,
+            "raw": "AlmAway",
+            "clean": "almaway"
+          },
+          {
+            "index": 9,
+            "raw": "Ast",
+            "clean": "ast"
+          },
+          {
+            "index": 10,
+            "raw": "AstRes",
+            "clean": "astres"
+          },
+          {
+            "index": 11,
+            "raw": "AstAway",
+            "clean": "astaway"
+          },
+          {
+            "index": 12,
+            "raw": "Alm2",
+            "clean": "alm2"
+          },
+          {
+            "index": 13,
+            "raw": "Msk ст на 26 мая 2025 г.",
+            "clean": "msk ст на 26 мая 2025 г."
+          },
+          {
+            "index": 14,
+            "raw": "MskRes",
+            "clean": "mskres"
+          },
+          {
+            "index": 15,
+            "raw": "MskAway",
+            "clean": "mskaway"
+          },
+          {
+            "index": 16,
+            "raw": "Pic",
+            "clean": "pic"
+          },
+          {
+            "index": 17,
+            "raw": "URL",
+            "clean": "url"
+          },
+          {
+            "index": 18,
+            "raw": "Status",
+            "clean": "status"
+          },
+          {
+            "index": 19,
+            "raw": "Unnamed: 19",
+            "clean": "unnamed: 19"
+          },
+          {
+            "index": 20,
+            "raw": "Unnamed: 20",
+            "clean": "unnamed: 20"
+          },
+          {
+            "index": 21,
+            "raw": "Unnamed: 21",
+            "clean": "unnamed: 21"
+          },
+          {
+            "index": 22,
+            "raw": "KZ РРЦ.1",
+            "clean": "kz ррц.1"
+          },
+          {
+            "index": 23,
+            "raw": "KZ Дилер.1",
+            "clean": "kz дилер.1"
+          },
+          {
+            "index": 24,
+            "raw": "%.1",
+            "clean": "%.1"
+          },
+          {
+            "index": 25,
+            "raw": "0",
+            "clean": "0"
+          },
+          {
+            "index": 26,
+            "raw": "AlmRes.1",
+            "clean": "almres.1"
+          },
+          {
+            "index": 27,
+            "raw": "AlmAway.1",
+            "clean": "almaway.1"
+          },
+          {
+            "index": 28,
+            "raw": "Ast.1",
+            "clean": "ast.1"
+          },
+          {
+            "index": 29,
+            "raw": "AstRes.1",
+            "clean": "astres.1"
+          },
+          {
+            "index": 30,
+            "raw": "AstAway.1",
+            "clean": "astaway.1"
+          },
+          {
+            "index": 31,
+            "raw": "Alm2.1",
+            "clean": "alm2.1"
+          },
+          {
+            "index": 32,
+            "raw": "Msk ст на 26 мая 2025 г..1",
+            "clean": "msk ст на 26 мая 2025 г..1"
+          },
+          {
+            "index": 33,
+            "raw": "MskRes.1",
+            "clean": "mskres.1"
+          },
+          {
+            "index": 34,
+            "raw": "MskAway.1",
+            "clean": "mskaway.1"
+          },
+          {
+            "index": 35,
+            "raw": "Pic.1",
+            "clean": "pic.1"
+          },
+          {
+            "index": 36,
+            "raw": "URL.1",
+            "clean": "url.1"
+          },
+          {
+            "index": 37,
+            "raw": "Status.1",
+            "clean": "status.1"
+          },
+          {
+            "index": 38,
+            "raw": "Unnamed: 38",
+            "clean": "unnamed: 38"
+          },
+          {
+            "index": 39,
+            "raw": "Unnamed: 39",
+            "clean": "unnamed: 39"
+          }
+        ],
+        "priceCandidates": [
+          {
+            "index": 3,
+            "raw": "KZ РРЦ",
+            "clean": "kz ррц",
+            "idx": 3
+          },
+          {
+            "index": 4,
+            "raw": "KZ Дилер",
+            "clean": "kz дилер",
+            "idx": 4
+          },
+          {
+            "index": 22,
+            "raw": "KZ РРЦ.1",
+            "clean": "kz ррц.1",
+            "idx": 22
+          },
+          {
+            "index": 23,
+            "raw": "KZ Дилер.1",
+            "clean": "kz дилер.1",
+            "idx": 23
+          }
+        ],
+        "categories": []
+      },
+      "sample": []
+    },
+    "Сетевое.txt": {
+      "products": 199,
+      "meta": {
+        "headerRowIndex": 0,
+        "headers": [
+          {
+            "index": 0,
+            "raw": "URL",
+            "clean": "url"
+          },
+          {
+            "index": 1,
+            "raw": "Артикул",
+            "clean": "артикул"
+          },
+          {
+            "index": 2,
+            "raw": "Описание",
+            "clean": "описание"
+          },
+          {
+            "index": 3,
+            "raw": "Цена",
+            "clean": "цена"
+          },
+          {
+            "index": 4,
+            "raw": "Дилер",
+            "clean": "дилер"
+          },
+          {
+            "index": 5,
+            "raw": "Unnamed: 5",
+            "clean": "unnamed: 5"
+          }
+        ],
+        "priceCandidates": [
+          {
+            "index": 3,
+            "raw": "Цена",
+            "clean": "цена",
+            "idx": 3
+          },
+          {
+            "index": 4,
+            "raw": "Дилер",
+            "clean": "дилер",
+            "idx": 4
+          }
+        ],
+        "categories": [
+          "Промышленные SFP модули"
+        ]
+      },
+      "sample": [
+        {
+          "articul": "WI-LTE110-O v2",
+          "name": "WI-LTE110-O Outdoor LTE роутер, Cloud",
+          "price": 46430,
+          "brand": "WI-LTE110-O Outdoor LTE роутер, Cloud",
+          "url": "https://ipmatika.kz/products/lte-routery/wi-tek-wi-lte110-o-v2/",
+          "status": "",
+          "raw": [
+            "https://ipmatika.kz/products/lte-routery/wi-tek-wi-lte110-o-v2/",
+            "WI-LTE110-O v2",
+            "WI-LTE110-O Outdoor LTE роутер, Cloud",
+            "46430.0",
+            "37147.549999999996",
+            ""
+          ]
+        },
+        {
+          "articul": "WI-LTE113-O",
+          "name": "WI-LTE113-O Внешний LTE роутер",
+          "price": 159190,
+          "brand": "WI-LTE113-O Внешний LTE роутер",
+          "url": "https://ipmatika.kz/products/lte-routery/wi-tek-wi-lte113-o/",
+          "status": "",
+          "raw": [
+            "https://ipmatika.kz/products/lte-routery/wi-tek-wi-lte113-o/",
+            "WI-LTE113-O",
+            "WI-LTE113-O Внешний LTE роутер",
+            "159190.0",
+            "127352.775",
+            ""
+          ]
+        }
+      ]
+    },
+    "Телефония.txt": {
+      "products": 254,
+      "meta": {
+        "headerRowIndex": 1,
+        "headers": [
+          {
+            "index": 0,
+            "raw": "Наименование товара",
+            "clean": "наименование товара"
+          },
+          {
+            "index": 1,
+            "raw": "Артикул",
+            "clean": "артикул"
+          },
+          {
+            "index": 2,
+            "raw": "РРЦ",
+            "clean": "ррц"
+          },
+          {
+            "index": 3,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 4,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 5,
+            "raw": "Цена Сайт",
+            "clean": "цена сайт"
+          },
+          {
+            "index": 6,
+            "raw": ".",
+            "clean": "."
+          },
+          {
+            "index": 7,
+            "raw": "Я бы купил!",
+            "clean": "я бы купил!"
+          },
+          {
+            "index": 8,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 9,
+            "raw": "",
+            "clean": ""
+          }
+        ],
+        "priceCandidates": [
+          {
+            "index": 2,
+            "raw": "РРЦ",
+            "clean": "ррц",
+            "idx": 2
+          },
+          {
+            "index": 5,
+            "raw": "Цена Сайт",
+            "clean": "цена сайт",
+            "idx": 5
+          }
+        ],
+        "categories": [
+          "1. SIP-телефоны"
+        ]
+      },
+      "sample": [
+        {
+          "articul": "SIP-T30",
+          "name": "Yealink SIP-T30 SIP-телефон, 1 линия, С БП замена T19",
+          "price": 27960,
+          "brand": "27960",
+          "url": "",
+          "status": "",
+          "raw": [
+            "Yealink SIP-T30 SIP-телефон, 1 линия, С БП замена T19",
+            "SIP-T30",
+            "27960",
+            "",
+            "",
+            "26002.800000000003",
+            "",
+            "add",
+            "",
+            ""
+          ]
+        },
+        {
+          "articul": "SIP-T30P",
+          "name": "Yealink SIP-T30P SIP-телефон, 1 линия, Poe c БП замена T19P",
+          "price": 31370,
+          "brand": "31370",
+          "url": "",
+          "status": "",
+          "raw": [
+            "Yealink SIP-T30P SIP-телефон, 1 линия, Poe c БП замена T19P",
+            "SIP-T30P",
+            "31370",
+            "",
+            "",
+            "29174.100000000002",
+            "",
+            "add",
+            "",
+            ""
+          ]
+        }
+      ]
+    }
+  },
+  "Прайс_All_Prof-Telecom_Новый": {
+    "LAN.txt": {
+      "products": 0,
+      "meta": {
+        "headerRowIndex": 0,
+        "headers": [
+          {
+            "index": 0,
+            "raw": "Unnamed: 0",
+            "clean": "unnamed: 0"
+          },
+          {
+            "index": 1,
+            "raw": "Unnamed: 1",
+            "clean": "unnamed: 1"
+          },
+          {
+            "index": 2,
+            "raw": "Unnamed: 2",
+            "clean": "unnamed: 2"
+          },
+          {
+            "index": 3,
+            "raw": "Unnamed: 3",
+            "clean": "unnamed: 3"
+          },
+          {
+            "index": 4,
+            "raw": "Unnamed: 4",
+            "clean": "unnamed: 4"
+          },
+          {
+            "index": 5,
+            "raw": "Unnamed: 5",
+            "clean": "unnamed: 5"
+          },
+          {
+            "index": 6,
+            "raw": "Unnamed: 6",
+            "clean": "unnamed: 6"
+          },
+          {
+            "index": 7,
+            "raw": "LAN-КАБЕЛЬ",
+            "clean": "lan-кабель"
+          },
+          {
+            "index": 8,
+            "raw": "Unnamed: 8",
+            "clean": "unnamed: 8"
+          },
+          {
+            "index": 9,
+            "raw": "Unnamed: 9",
+            "clean": "unnamed: 9"
+          },
+          {
+            "index": 10,
+            "raw": "Unnamed: 10",
+            "clean": "unnamed: 10"
+          },
+          {
+            "index": 11,
+            "raw": "Unnamed: 11",
+            "clean": "unnamed: 11"
+          },
+          {
+            "index": 12,
+            "raw": "Unnamed: 12",
+            "clean": "unnamed: 12"
+          },
+          {
+            "index": 13,
+            "raw": "Unnamed: 13",
+            "clean": "unnamed: 13"
+          }
+        ],
+        "priceCandidates": [],
+        "categories": []
+      },
+      "sample": []
+    },
+    "LAN_патчк_патчпан.txt": {
+      "products": 0,
+      "meta": {
+        "headerRowIndex": 0,
+        "headers": [
+          {
+            "index": 0,
+            "raw": "Unnamed: 0",
+            "clean": "unnamed: 0"
+          },
+          {
+            "index": 1,
+            "raw": "Unnamed: 1",
+            "clean": "unnamed: 1"
+          },
+          {
+            "index": 2,
+            "raw": "Unnamed: 2",
+            "clean": "unnamed: 2"
+          },
+          {
+            "index": 3,
+            "raw": "Unnamed: 3",
+            "clean": "unnamed: 3"
+          },
+          {
+            "index": 4,
+            "raw": "Unnamed: 4",
+            "clean": "unnamed: 4"
+          },
+          {
+            "index": 5,
+            "raw": "Unnamed: 5",
+            "clean": "unnamed: 5"
+          },
+          {
+            "index": 6,
+            "raw": "Unnamed: 6",
+            "clean": "unnamed: 6"
+          },
+          {
+            "index": 7,
+            "raw": "Unnamed: 7",
+            "clean": "unnamed: 7"
+          },
+          {
+            "index": 8,
+            "raw": "Unnamed: 8",
+            "clean": "unnamed: 8"
+          },
+          {
+            "index": 9,
+            "raw": "Unnamed: 9",
+            "clean": "unnamed: 9"
+          },
+          {
+            "index": 10,
+            "raw": "Unnamed: 10",
+            "clean": "unnamed: 10"
+          },
+          {
+            "index": 11,
+            "raw": "Unnamed: 11",
+            "clean": "unnamed: 11"
+          }
+        ],
+        "priceCandidates": [],
+        "categories": [
+          "Патч-Панели",
+          "Патч-панели экранированные"
+        ]
+      },
+      "sample": []
+    },
+    "Арматура_для_подв.txt": {
+      "products": 0,
+      "meta": {
+        "headerRowIndex": 0,
+        "headers": [
+          {
+            "index": 0,
+            "raw": "Unnamed: 0",
+            "clean": "unnamed: 0"
+          },
+          {
+            "index": 1,
+            "raw": "Unnamed: 1",
+            "clean": "unnamed: 1"
+          },
+          {
+            "index": 2,
+            "raw": "Unnamed: 2",
+            "clean": "unnamed: 2"
+          },
+          {
+            "index": 3,
+            "raw": "Unnamed: 3",
+            "clean": "unnamed: 3"
+          },
+          {
+            "index": 4,
+            "raw": "Unnamed: 4",
+            "clean": "unnamed: 4"
+          },
+          {
+            "index": 5,
+            "raw": "Unnamed: 5",
+            "clean": "unnamed: 5"
+          },
+          {
+            "index": 6,
+            "raw": "Unnamed: 6",
+            "clean": "unnamed: 6"
+          },
+          {
+            "index": 7,
+            "raw": "АРМАТУРА ДЛЯ ПОДВЕСА КАБЕЛЯ",
+            "clean": "арматура для подвеса кабеля"
+          },
+          {
+            "index": 8,
+            "raw": "Unnamed: 8",
+            "clean": "unnamed: 8"
+          }
+        ],
+        "priceCandidates": [],
+        "categories": []
+      },
+      "sample": []
+    },
+    "Кабель_КПС.txt": {
+      "products": 12,
+      "meta": {
+        "headerRowIndex": 5,
+        "headers": [
+          {
+            "index": 0,
+            "raw": "- вы можете забить артикул в поисковой системе нашего сайта allproftelecom.kz и легко найдете нужное вам описание;",
+            "clean": "- вы можете забить артикул в поисковой системе нашего сайта allproftelecom.kz и легко найдете нужное вам описание;"
+          }
+        ],
+        "priceCandidates": [],
+        "categories": []
+      },
+      "sample": [
+        {
+          "articul": "- если вы пройдете регистрацию на нашем сайте, вы сможете видеть актуальные остатки по продуктам на наших складах.\"",
+          "name": "- если вы пройдете регистрацию на нашем сайте, вы сможете видеть актуальные остатки по продуктам на наших складах.\"",
+          "price": 0,
+          "brand": "",
+          "url": "",
+          "status": "",
+          "raw": [
+            "- если вы пройдете регистрацию на нашем сайте, вы сможете видеть актуальные остатки по продуктам на наших складах.\"",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "articul": "Огнескойкий кабель с низким дымо- и газовыделением",
+          "name": "Огнескойкий кабель с низким дымо- и газовыделением",
+          "price": 0,
+          "brand": "",
+          "url": "",
+          "status": "",
+          "raw": [
+            "Огнескойкий кабель с низким дымо- и газовыделением",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    "Материалы_для_ВОЛС.txt": {
+      "products": 0,
+      "meta": {
+        "headerRowIndex": 0,
+        "headers": [
+          {
+            "index": 0,
+            "raw": "Unnamed: 0",
+            "clean": "unnamed: 0"
+          },
+          {
+            "index": 1,
+            "raw": "Unnamed: 1",
+            "clean": "unnamed: 1"
+          },
+          {
+            "index": 2,
+            "raw": "Unnamed: 2",
+            "clean": "unnamed: 2"
+          },
+          {
+            "index": 3,
+            "raw": "Unnamed: 3",
+            "clean": "unnamed: 3"
+          },
+          {
+            "index": 4,
+            "raw": "Unnamed: 4",
+            "clean": "unnamed: 4"
+          },
+          {
+            "index": 5,
+            "raw": "Unnamed: 5",
+            "clean": "unnamed: 5"
+          },
+          {
+            "index": 6,
+            "raw": "Unnamed: 6",
+            "clean": "unnamed: 6"
+          },
+          {
+            "index": 7,
+            "raw": "ОПТИЧЕСКИЕ МУФТЫ",
+            "clean": "оптические муфты"
+          },
+          {
+            "index": 8,
+            "raw": "Unnamed: 8",
+            "clean": "unnamed: 8"
+          }
+        ],
+        "priceCandidates": [
+          {
+            "index": 7,
+            "raw": "ОПТИЧЕСКИЕ МУФТЫ",
+            "clean": "оптические муфты",
+            "idx": 7
+          }
+        ],
+        "categories": []
+      },
+      "sample": []
+    },
+    "Микроканализация.txt": {
+      "products": 13,
+      "meta": {
+        "headerRowIndex": 5,
+        "headers": [
+          {
+            "index": 0,
+            "raw": "- вы можете забить артикул в поисковой системе нашего сайта allproftelecom.kz и легко найдете нужное вам описание;",
+            "clean": "- вы можете забить артикул в поисковой системе нашего сайта allproftelecom.kz и легко найдете нужное вам описание;"
+          }
+        ],
+        "priceCandidates": [],
+        "categories": []
+      },
+      "sample": [
+        {
+          "articul": "- если вы пройдете регистрацию на нашем сайте, вы сможете видеть актуальные остатки по продуктам на наших складах.\"",
+          "name": "- если вы пройдете регистрацию на нашем сайте, вы сможете видеть актуальные остатки по продуктам на наших складах.\"",
+          "price": 0,
+          "brand": "",
+          "url": "",
+          "status": "",
+          "raw": [
+            "- если вы пройдете регистрацию на нашем сайте, вы сможете видеть актуальные остатки по продуктам на наших складах.\"",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "articul": "Артикул",
+          "name": "Артикул",
+          "price": 0,
+          "brand": "Пакеты микротрубок",
+          "url": "",
+          "status": "",
+          "raw": [
+            "Артикул",
+            "",
+            "Пакеты микротрубок",
+            "",
+            "1 Диллер",
+            "2 Среднеопт.",
+            "3 Розница",
+            "Цена сайт",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    "ОК.txt": {
+      "products": 0,
+      "meta": {
+        "headerRowIndex": 0,
+        "headers": [
+          {
+            "index": 0,
+            "raw": "Unnamed: 0",
+            "clean": "unnamed: 0"
+          },
+          {
+            "index": 1,
+            "raw": "Unnamed: 1",
+            "clean": "unnamed: 1"
+          },
+          {
+            "index": 2,
+            "raw": "Unnamed: 2",
+            "clean": "unnamed: 2"
+          },
+          {
+            "index": 3,
+            "raw": "Unnamed: 3",
+            "clean": "unnamed: 3"
+          },
+          {
+            "index": 4,
+            "raw": "Unnamed: 4",
+            "clean": "unnamed: 4"
+          },
+          {
+            "index": 5,
+            "raw": "Unnamed: 5",
+            "clean": "unnamed: 5"
+          },
+          {
+            "index": 6,
+            "raw": "Unnamed: 6",
+            "clean": "unnamed: 6"
+          },
+          {
+            "index": 7,
+            "raw": "ОПТИЧЕСКИЙ КАБЕЛЬ",
+            "clean": "оптический кабель"
+          },
+          {
+            "index": 8,
+            "raw": "Unnamed: 8",
+            "clean": "unnamed: 8"
+          },
+          {
+            "index": 9,
+            "raw": "Unnamed: 9",
+            "clean": "unnamed: 9"
+          },
+          {
+            "index": 10,
+            "raw": "Unnamed: 10",
+            "clean": "unnamed: 10"
+          },
+          {
+            "index": 11,
+            "raw": "Unnamed: 11",
+            "clean": "unnamed: 11"
+          },
+          {
+            "index": 12,
+            "raw": "Unnamed: 12",
+            "clean": "unnamed: 12"
+          }
+        ],
+        "priceCandidates": [
+          {
+            "index": 7,
+            "raw": "ОПТИЧЕСКИЙ КАБЕЛЬ",
+            "clean": "оптический кабель",
+            "idx": 7
+          }
+        ],
+        "categories": []
+      },
+      "sample": []
+    },
+    "оптич_боксы.txt": {
+      "products": 44,
+      "meta": {
+        "headerRowIndex": 2,
+        "headers": [
+          {
+            "index": 0,
+            "raw": "Артикул",
+            "clean": "артикул"
+          },
+          {
+            "index": 1,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 2,
+            "raw": "Наименование",
+            "clean": "наименование"
+          },
+          {
+            "index": 3,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 4,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 5,
+            "raw": "Цена сайт",
+            "clean": "цена сайт"
+          },
+          {
+            "index": 6,
+            "raw": "Цена сайт",
+            "clean": "цена сайт"
+          },
+          {
+            "index": 7,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 8,
+            "raw": "",
+            "clean": ""
+          },
+          {
+            "index": 9,
+            "raw": "",
+            "clean": ""
+          }
+        ],
+        "priceCandidates": [
+          {
+            "index": 5,
+            "raw": "Цена сайт",
+            "clean": "цена сайт",
+            "idx": 5
+          },
+          {
+            "index": 6,
+            "raw": "Цена сайт",
+            "clean": "цена сайт",
+            "idx": 6
+          }
+        ],
+        "categories": []
+      },
+      "sample": [
+        {
+          "articul": "830351",
+          "name": "Бокс оптический распределительный FTTH-8",
+          "price": 4054.8,
+          "brand": "Бокс оптический распределительный FTTH-8",
+          "url": "",
+          "status": "",
+          "raw": [
+            "830351",
+            "",
+            "Бокс оптический распределительный FTTH-8 ",
+            "шт",
+            "",
+            "4054.8",
+            "4360",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "articul": "830352",
+          "name": "Бокс оптический распределительный FTTH-8SC/UPC-4-4-4",
+          "price": 6296.1,
+          "brand": "Бокс оптический распределительный FTTH-8SC/UPC-4-4-4",
+          "url": "",
+          "status": "",
+          "raw": [
+            "830352",
+            "",
+            "Бокс оптический распределительный FTTH-8SC/UPC-4-4-4",
+            "шт",
+            "",
+            "6296.1",
+            "6770",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    "оптич_кроссы_19д.txt": {
+      "products": 0,
+      "meta": {
+        "headerRowIndex": 0,
+        "headers": [
+          {
+            "index": 0,
+            "raw": "Unnamed: 0",
+            "clean": "unnamed: 0"
+          },
+          {
+            "index": 1,
+            "raw": "Unnamed: 1",
+            "clean": "unnamed: 1"
+          },
+          {
+            "index": 2,
+            "raw": "Unnamed: 2",
+            "clean": "unnamed: 2"
+          },
+          {
+            "index": 3,
+            "raw": "Unnamed: 3",
+            "clean": "unnamed: 3"
+          },
+          {
+            "index": 4,
+            "raw": "Unnamed: 4",
+            "clean": "unnamed: 4"
+          },
+          {
+            "index": 5,
+            "raw": "Unnamed: 5",
+            "clean": "unnamed: 5"
+          },
+          {
+            "index": 6,
+            "raw": "Unnamed: 6",
+            "clean": "unnamed: 6"
+          },
+          {
+            "index": 7,
+            "raw": "ОПТИЧЕСКИЕ КРОССЫ",
+            "clean": "оптические кроссы"
+          },
+          {
+            "index": 8,
+            "raw": "Unnamed: 8",
+            "clean": "unnamed: 8"
+          },
+          {
+            "index": 9,
+            "raw": "Unnamed: 9",
+            "clean": "unnamed: 9"
+          },
+          {
+            "index": 10,
+            "raw": "Unnamed: 10",
+            "clean": "unnamed: 10"
+          },
+          {
+            "index": 11,
+            "raw": "Unnamed: 11",
+            "clean": "unnamed: 11"
+          },
+          {
+            "index": 12,
+            "raw": "Unnamed: 12",
+            "clean": "unnamed: 12"
+          }
+        ],
+        "priceCandidates": [
+          {
+            "index": 7,
+            "raw": "ОПТИЧЕСКИЕ КРОССЫ",
+            "clean": "оптические кроссы",
+            "idx": 7
+          }
+        ],
+        "categories": [
+          "КРОССЫ ОПТИЧЕСКИЕ FDF 19' (в стойку)",
+          "КРОССЫ ОПТИЧЕСКИЕ 19' (в стойку)"
+        ]
+      },
+      "sample": []
+    },
+    "Оптич_муфты.txt": {
+      "products": 0,
+      "meta": {
+        "headerRowIndex": 0,
+        "headers": [
+          {
+            "index": 0,
+            "raw": "Unnamed: 0",
+            "clean": "unnamed: 0"
+          },
+          {
+            "index": 1,
+            "raw": "Unnamed: 1",
+            "clean": "unnamed: 1"
+          },
+          {
+            "index": 2,
+            "raw": "Unnamed: 2",
+            "clean": "unnamed: 2"
+          },
+          {
+            "index": 3,
+            "raw": "Unnamed: 3",
+            "clean": "unnamed: 3"
+          },
+          {
+            "index": 4,
+            "raw": "Unnamed: 4",
+            "clean": "unnamed: 4"
+          },
+          {
+            "index": 5,
+            "raw": "Unnamed: 5",
+            "clean": "unnamed: 5"
+          },
+          {
+            "index": 6,
+            "raw": "Unnamed: 6",
+            "clean": "unnamed: 6"
+          },
+          {
+            "index": 7,
+            "raw": "ОПТИЧЕСКИЕ МУФТЫ",
+            "clean": "оптические муфты"
+          },
+          {
+            "index": 8,
+            "raw": "Unnamed: 8",
+            "clean": "unnamed: 8"
+          }
+        ],
+        "priceCandidates": [
+          {
+            "index": 7,
+            "raw": "ОПТИЧЕСКИЕ МУФТЫ",
+            "clean": "оптические муфты",
+            "idx": 7
+          }
+        ],
+        "categories": [
+          "Кросс-муфты"
+        ]
+      },
+      "sample": []
+    },
+    "Оптич_шнуры.txt": {
+      "products": 0,
+      "meta": {
+        "headerRowIndex": 0,
+        "headers": [
+          {
+            "index": 0,
+            "raw": "Unnamed: 0",
+            "clean": "unnamed: 0"
+          },
+          {
+            "index": 1,
+            "raw": "Unnamed: 1",
+            "clean": "unnamed: 1"
+          },
+          {
+            "index": 2,
+            "raw": "Unnamed: 2",
+            "clean": "unnamed: 2"
+          },
+          {
+            "index": 3,
+            "raw": "Unnamed: 3",
+            "clean": "unnamed: 3"
+          },
+          {
+            "index": 4,
+            "raw": "Unnamed: 4",
+            "clean": "unnamed: 4"
+          },
+          {
+            "index": 5,
+            "raw": "Unnamed: 5",
+            "clean": "unnamed: 5"
+          },
+          {
+            "index": 6,
+            "raw": "Unnamed: 6",
+            "clean": "unnamed: 6"
+          },
+          {
+            "index": 7,
+            "raw": "ОПТИЧЕСКИЕ ШНУРЫ",
+            "clean": "оптические шнуры"
+          },
+          {
+            "index": 8,
+            "raw": "Unnamed: 8",
+            "clean": "unnamed: 8"
+          },
+          {
+            "index": 9,
+            "raw": "Unnamed: 9",
+            "clean": "unnamed: 9"
+          }
+        ],
+        "priceCandidates": [
+          {
+            "index": 7,
+            "raw": "ОПТИЧЕСКИЕ ШНУРЫ",
+            "clean": "оптические шнуры",
+            "idx": 7
+          }
+        ],
+        "categories": [
+          "Патчкорды Китай"
+        ]
+      },
+      "sample": []
+    },
+    "писсивка.txt": {
+      "products": 0,
+      "meta": {
+        "headerRowIndex": 0,
+        "headers": [
+          {
+            "index": 0,
+            "raw": "Unnamed: 0",
+            "clean": "unnamed: 0"
+          },
+          {
+            "index": 1,
+            "raw": "Unnamed: 1",
+            "clean": "unnamed: 1"
+          },
+          {
+            "index": 2,
+            "raw": "Unnamed: 2",
+            "clean": "unnamed: 2"
+          },
+          {
+            "index": 3,
+            "raw": "Unnamed: 3",
+            "clean": "unnamed: 3"
+          },
+          {
+            "index": 4,
+            "raw": "Головной офис: 100012, г.Караганда, ул. Привокзальная, д. 10 Тел.: +7 7212 41 40 94, +7 7058293400",
+            "clean": "головной офис: 100012, г.караганда, ул. привокзальная, д. 10 тел.: +7 7212 41 40 94, +7 7058293400"
+          },
+          {
+            "index": 5,
+            "raw": "Unnamed: 5",
+            "clean": "unnamed: 5"
+          },
+          {
+            "index": 6,
+            "raw": "Unnamed: 6",
+            "clean": "unnamed: 6"
+          },
+          {
+            "index": 7,
+            "raw": "Unnamed: 7",
+            "clean": "unnamed: 7"
+          },
+          {
+            "index": 8,
+            "raw": "Unnamed: 8",
+            "clean": "unnamed: 8"
+          },
+          {
+            "index": 9,
+            "raw": "Unnamed: 9",
+            "clean": "unnamed: 9"
+          },
+          {
+            "index": 10,
+            "raw": "Unnamed: 10",
+            "clean": "unnamed: 10"
+          },
+          {
+            "index": 11,
+            "raw": "Unnamed: 11",
+            "clean": "unnamed: 11"
+          },
+          {
+            "index": 12,
+            "raw": "Unnamed: 12",
+            "clean": "unnamed: 12"
+          },
+          {
+            "index": 13,
+            "raw": "Unnamed: 13",
+            "clean": "unnamed: 13"
+          },
+          {
+            "index": 14,
+            "raw": "Unnamed: 14",
+            "clean": "unnamed: 14"
+          },
+          {
+            "index": 15,
+            "raw": "Unnamed: 15",
+            "clean": "unnamed: 15"
+          }
+        ],
+        "priceCandidates": [],
+        "categories": [
+          "Оптические адаптеры",
+          "Оптические муфты"
+        ]
+      },
+      "sample": []
+    },
+    "Шкафы_Neolan.txt": {
+      "products": 0,
+      "meta": {
+        "headerRowIndex": 0,
+        "headers": [
+          {
+            "index": 0,
+            "raw": "Unnamed: 0",
+            "clean": "unnamed: 0"
+          },
+          {
+            "index": 1,
+            "raw": "Unnamed: 1",
+            "clean": "unnamed: 1"
+          },
+          {
+            "index": 2,
+            "raw": "Unnamed: 2",
+            "clean": "unnamed: 2"
+          },
+          {
+            "index": 3,
+            "raw": "Unnamed: 3",
+            "clean": "unnamed: 3"
+          },
+          {
+            "index": 4,
+            "raw": "Unnamed: 4",
+            "clean": "unnamed: 4"
+          },
+          {
+            "index": 5,
+            "raw": "Unnamed: 5",
+            "clean": "unnamed: 5"
+          },
+          {
+            "index": 6,
+            "raw": "Unnamed: 6",
+            "clean": "unnamed: 6"
+          },
+          {
+            "index": 7,
+            "raw": "ОПТИЧЕСКИЕ МУФТЫ",
+            "clean": "оптические муфты"
+          },
+          {
+            "index": 8,
+            "raw": "Unnamed: 8",
+            "clean": "unnamed: 8"
+          }
+        ],
+        "priceCandidates": [
+          {
+            "index": 7,
+            "raw": "ОПТИЧЕСКИЕ МУФТЫ",
+            "clean": "оптические муфты",
+            "idx": 7
+          }
+        ],
+        "categories": []
+      },
+      "sample": []
+    }
+  },
+  "СБ_Стар,_наши_цены": {
+    "Sheet1.txt": {
+      "products": 0,
+      "meta": {
+        "headerRowIndex": 0,
+        "headers": [
+          {
+            "index": 0,
+            "raw": "Unnamed: 0",
+            "clean": "unnamed: 0"
+          },
+          {
+            "index": 1,
+            "raw": "Unnamed: 1",
+            "clean": "unnamed: 1"
+          },
+          {
+            "index": 2,
+            "raw": "Unnamed: 2",
+            "clean": "unnamed: 2"
+          },
+          {
+            "index": 3,
+            "raw": "Unnamed: 3",
+            "clean": "unnamed: 3"
+          },
+          {
+            "index": 4,
+            "raw": "Unnamed: 4",
+            "clean": "unnamed: 4"
+          },
+          {
+            "index": 5,
+            "raw": "Unnamed: 5",
+            "clean": "unnamed: 5"
+          },
+          {
+            "index": 6,
+            "raw": "Unnamed: 6",
+            "clean": "unnamed: 6"
+          },
+          {
+            "index": 7,
+            "raw": "Unnamed: 7",
+            "clean": "unnamed: 7"
+          },
+          {
+            "index": 8,
+            "raw": "Unnamed: 8",
+            "clean": "unnamed: 8"
+          },
+          {
+            "index": 9,
+            "raw": "Unnamed: 9",
+            "clean": "unnamed: 9"
+          },
+          {
+            "index": 10,
+            "raw": "Unnamed: 10",
+            "clean": "unnamed: 10"
+          }
+        ],
+        "priceCandidates": [],
+        "categories": [
+          "01. Радиостанции гражданского диапазона 27МГц(СВ)",
+          "1.1 Автомобильные и базовые радиостанции диапазона 27МГц"
+        ]
+      },
+      "sample": []
+    },
+    "Лист1.txt": {
+      "products": 0,
+      "meta": {},
+      "sample": []
+    }
+  }
+}

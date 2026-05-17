@@ -1,0 +1,1036 @@
+http://yealink.review.ipmatika.kz/	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	ПРАВСИМВ(Подбор!R1C7;21)	ПРАВСИМВ(Подбор!R1C7;19)	Unnamed: 9
+Наименование товара	Артикул	РРЦ			Цена Сайт	.	Я бы купил!		
+1. SIP-телефоны									
+Yealink SIP-T30 SIP-телефон, 1 линия, С БП замена T19	SIP-T30	27960			26002.800000000003		add		
+Yealink SIP-T30P SIP-телефон, 1 линия, Poe c БП замена T19P	SIP-T30P	31370			29174.100000000002		add		
+Yealink SIP-T31 SIP-телефон, 2 линии, с БП замена T21	SIP-T31	29810			27723.300000000003		add		
+Yealink SIP-T31P SIP-телефон, 2 линии, Poe, с БП замена T21P	SIP-T31P	35000			32550		add		
+Yealink SIP-T31P, цвет светло-серый, 2 аккаунта, PoE	SIP-T31P Light Gray	42120			39171.6		add		
+Yealink SIP-T31G SIP-телефон, 2 линии, PoE, GigE, с БП  замена T23G	SIP-T31G	40170			37358.1		add		
+Yealink SIP-T33G,4 линии,цветной экран, PoE, GigE, с БП замена T40G	SIP-T33G	52530			48852.9		add		
+Yealink SIP-T31W, 2 аккаунта, Wi-Fi, PoE	SIP-T31W	45360			42184.8		add		
+Yealink SIP-T34W, 4 аккаунта, Wi-Fi, USB, цветной экран, PoE, GigE	SIP-T34W	61880			57548.4		add		
+Yealink SIP-T42G,3 аккаунта,BLF,PoE, GigE, без БП	SIP-T42G sale	63420			58980.600000000006		add		
+Yealink SIP-T43U (12 аккаунтов, 2 порта USB, BLF,  PoE, GigE) без БП	SIP-T43U	85360			79384.8		add		
+Yealink SIP-T44U, 12 аккаунтов, 2 порта USB, цветной экран, BLF, PoE, GigE, без БП	SIP-T44U	93180			86657.40000000001		add		
+Yealink SIP-T44W, 12 аккаунтов, 2 порта USB, Wi-Fi, цветной экран, BLF, PoE, GigE, без БП	SIP-T44W	97830			90981.90000000001		add		
+Yealink SIP-T46U (цветной экран, 2 порта USB, 16 аккаунтов, BLF,  PoE, GigE) без БП	SIP-T46U	135800			126294		add		
+Yealink SIP-T48U (цветной сенсорный экран, 2 порта USB, 16 аккаунтов, BLF,  PoE, GigE) без БП	SIP-T48U	186160			173128.80000000002		add		
+Yealink SIP-T53(12 аккаунтов, USB, GigE, Рое) без БП	SIP-T53	118400			110112		add		
+Yealink SIP-T53W(12 аккаунтов, Wi-Fi, Bluetooth, Рое) без БП	SIP-T53W	140500			130665		add		
+Yealink SIP-T54W (цветной сенсорный экран,16 аккаунтов,BLF,PoE,Wi-Fi,Bluetooth) без БП	SIP-T54W	177850			165400.5		add		
+Yealink SIP-T57W (цветной сенсорный экран,16 аккаунтов,BLF,PoE,Wi-Fi,Bluetooth) без БП	SIP-T57W	248070			230705.1		add		
+Yealink SIP-T58W, Цветной сенсорный экран, Android, WiFi, Bluetooth, GigE, без CAM50, без БП,	SIP-T58W	297700			276861		add		
+Yealink SIP-T58W Pro, Цветной сенсорный экран, Android, WiFi, Bluetooth трубка, GigE, без CAM50, без БП	SIP-T58W Pro	344150			320059.5		add		
+IPMATIKA IPM58, Видеотелефон, Цветной сенсорный экран, Андроид, без W-Fi и BT, без CAM50, без БП	IPM58	342120			318171.60000000003		add		
+Yealink MP50 USB-телефон, Bluetooth, сенсорный экран	MP50	105370			97994.1		add		
+"Yealink SIP-T73U, 12 аккаунтов, 2,8"" цветной экран, порт USB, BLF, PoE, GigE, без БП"	SIP-T73U	88480			82286.40000000001				
+"Yealink SIP-T73W, 12 аккаунтов, Wi-Fi, 2,8"" цветной экран, порт USB, BLF, PoE, GigE, без БП"	SIP-T73W	100060			93055.8				
+"Yealink SIP-T74U, 16 аккаунтов, 4,3"" цветной экран, порт USB, BLF,  PoE, GigE, без БП"	SIP-T74U	140760			130906.8				
+"Yealink SIP-T74W, 16 аккаунтов, Wi-Fi, 4,3"" цветной экран, порт USB, BLF, PoE, GigE, без БП"	SIP-T74W	154830			143991.9				
+"Yealink SIP-T77U, 7"" цветной сенсорный экран, 2 порта USB, 16 аккаунтов, BLF,  PoE, GigE, без БП"	SIP-T77U	192970			179462.1				
+"Yealink AX83H, экран 2.4"", Wi-Fi 6, виброоповещение, Bluetooth, 3.5 mm, Type-C, SNC, звук HD"	AX83H	90010			83709.3				
+"Yealink AX86R, экран 2.4"", Wi-Fi 6, IP67, Alarm, виброоповещение, Bluetooth, 3.5 mm, Type-C, SNC, звук HD"	AX86R	142980			132971.4				
+Yealink W56H DECT SIP-трубка	W56H	70360			65434.8		add		
+Yealink W59R DECT SIP-трубка	W59R	124080			115394.40000000001		add		
+Yealink W57R, степень защиты IP54, HD звук, вибросигнал, FNR, быстрая зарядка, для W70B/W80B/W90B	W57R	112710			104820.3		add		
+Yealink W70B DECT, базовая станция, до 10 SIP-аккаунтов, до 10 трубок на базу, до 20 одновременных вызовов	W70B	54110			50322.3		add		
+"Yealink W74H, экран 1.8"",  виброоповещение, FNR, BT, 3.5 mm, для W70B/W71P/W73P/W74P/W76P/W79P/W75/W80/W90"	W74H	68810			63993.3		add		
+Yealink W73H DECT SIP-трубка для W70B/W73P/W76P//W79P/W80B/W90B	W73H	61930			57594.9		add		
+"Yealink W71H, экран 1.8"", FNR, для W70B/W71P/W73P/W74P/W76P/W79P/W75/W80/W90"	W71H	49910			46416.3		add		
+"Yealink W78H, HD звук, экран 2.4"", виброоповещение, 3.5 мм, для W70B/W80B/W90B"	W78H	93050			86536.5		add		
+Yealink W79P DECT (база W70B +трубка W59R ) до 10 SIP-аккаунтов, до 10 трубок на базу, до 20 одноврем. Вызовов	W79P	173970			161792.1		add		
+Yealink W78P (база W70B+трубка W78H) до 10 SIP-аккаунтов, до 10 трубок на базу, до 20 одновременных вызовов	W78P	132370			123104.1		add		
+Yealink W77P (база W70B+трубка W57R) до 10 SIP-аккаунтов, до 10 трубок на базу, до 20 одновременных вызовов	W77P	158580			147479.4		add		
+Yealink W76P DECT (база W70B+трубка W56H) до 10 SIP-аккаунтов, до 10 трубок на базу, до 20 одноврем. вызовов	W76P	111290			103499.70000000001		add		
+Yealink W74P (база W70B+трубка W74H) до 10 SIP-аккаунтов, до 10 трубок на базу, до 20 вызовов	W74P	102440			95269.20000000001		add		
+Yealink W73P DECT (база W70B+трубка W73H) до 10 SIP-аккаунтов, до 10 трубок на базу, до 20 одноврем. Вызовов	W73P	98350			91465.5		add		
+Yealink W71P (база W70B+трубка W71H) до 10 SIP-аккаунтов, до 10 трубок на базу, до 20 вызовов	W71P	77480			72056.40000000001		add		
+Yealink W75 mini MC (база W75B+контроллер W75DM), мини микросота DECT, до 3 баз, до 20 устр, до 40 выз, PoE	W75 mini MC	106940			99454.20000000001		add		
+Yealink W80B DECT, базовая станция, микросота DECT, PoE 	W80B-updated	206970			192482.1		add		
+Yealink W80DM DECT,контроллер, микросота DECT, до 30 базовых станций, до 100 устройств, до 100 вызовов, PoE	W80DM	206970			192482.1		add		
+Yealink W90B DECT, базовая станция, микросота DECT, PoE	W90B	247490			230165.7		add		
+Yealink W90DM DECT,контроллер, микросота DECT, до 60 базовых станций, до 250 устройств, до 250 вызовов, PoE	W90DM	247490			230165.7		add		
+Yealink SIP-T58W with camera, видеотерминал, Android, WiFi, Bluetooth, GigE, CAM50, без БП,	SIP-T58W with camera	375720			349419.60000000003		add		
+Yealink SIP-T58W Pro with camera, видеотерминал, Android, WiFi, Bluetooth трубка, GigE, CAM50, без БП,	SIP-T58W Pro with camera	407300			378789		add		
+Yealink VP59, без БП	VP59	526230			489393.9		add		
+"Yealink CP965 звук HD, 5"" цветной сенсорный экран, PoE, Wi-Fi, Bluetooth"	CP965	599900			557907		add		
+Yealink CP925 сенсорный экран, звук HD, PoE, Wi-Fi, Bluetooth	CP925	365150			339589.5		add		
+Yealink CP935W 	CP935W	496160			461428.80000000005		add		
+Yealink CP935W-Base Yealink конференц-телефон 	CP935W-Base	556300			517359		add		
+Yealink CP930W 	CP930W	339330			315576.9		add		
+Yealink CP930W-Base Yealink конференц-телефон 	CP930W-Base	373320			347187.60000000003		add		
+Yealink CP700 UC, USB, Bluetooth, встроенная батарея, 2 встроенных микрофона	CP700 UC	86270			80231.1		add		
+Yealink CP700 with dongle UC, USB, Bluetooth, встроенная батарея, 2 встроенных микрофона, BT50 в комплекте	CP700 with dongle UC	107140			99640.20000000001		add		
+Yealink CP900 UC, USB, Bluetooth, встроенная батарея, 6 встроенных микрофонов	CP900 UC	118900			110577		add		
+Yealink CP900 with dongle UC, USB, Bluetooth, встроенная батарея, 6 встроенных микрофонов, BT50 в комплекте	CP900 with dongle UC	134080			124694.40000000001		add		
+Yealink SP92 USB-C/A, USB, Bluetooth, встроенная батарея, шумоподавление с ИИ	SP92 USB-C/A	86270			80231.1		add		
+Yealink SP92 with Dongle USB-C/A, USB, Bluetooth, встроенная батарея, шумоподавление с ИИ	SP92 with Dongle USB-C/A	107140			99640.20000000001		add		
+Yealink SP96 USB-C/A, USB, Bluetooth, Экран, встроенная батарея, 6 встроенных микрофонов	SP96 USB-C/A	118900			110577		add		
+Yealink SP96 with Dongle USB-C/A, USB, Bluetooth, Экран, встроенная батарея, 6 встроенных микрофонов	SP96 with Dongle USB-C/A	134080			124694.40000000001		add		
+Телефоны для Teams/Skype for Business					0				
+Yealink MP50 USB-телефон, Bluetooth, сенсорный экран	MP50	105370			97994.1		add		
+Yealink SIP MP54, Teams/Skype for Business, цветной сенсорный экран, Звук Optima HD, USB, PoE, GigE, без БП	MP54-TEAMS	218260			202981.80000000002		add		
+Yealink SIP-MP56, Teams/Skype for Business,  цветной сенсорный экран, PoE, GigE, без БП	MP56-Teams	276460			257107.80000000002		add		
+Yealink SIP-MP58, Teams/Skype for Business, Цветной сенсорный экран, Звук Optima HD, WiFi, Bluetooth, USB, PoE, GigE, без БП	MP58-TEAMS	294840			274201.2		add		
+Yealink SIP-MP58-WH, Teams/Skype for Business, Беспроводная трубка, Цветной экран, Optima HD, WiFi, Bluetooth, PoE, GigE, без БП	MP58-WH-TEAMS	337940			314284.2		add		
+2.Аксессуары 					0				
+Yealink BT41 Bluetooth V4.1 USB-адаптер	BT41	23380			21743.4		add		
+Yealink BTH58 беспроводная Bluetooth-трубка для SIP-T58W/MP58	BTH58	38040			35377.200000000004				
+Yealink CPN10 для телефона CP860, шт переходник	CPN10	39350			36595.5		add		
+Yealink CAM50 USB-камера для телефонов SIP-T58V(A), шт	CAM50-updated	79880			74288.40000000001		add		
+Yealink WF50 WiFi-адаптер Yealink	WF50	22560			20980.800000000003		add		
+Yealink WF50 WiFi-адаптер Yealink	WF50 sale	29990			27890.7		add		
+Yealink EXP43 модуль расширения с LCD для телефонов	EXP43	77060			71665.8		add		
+Yealink EXP50 с LCD для телефонов SIP-T58V(A), SIP-T56A	EXP50	96650			89884.5		add		
+Yealink EXP55, цветной LCD дисплей, BLF-клавиши, для SIP-телефонов T7X /T8X	EXP55	96650			89884.5		add		
+Yealink RT10 DECT-репитер для телефонов W52P и W56P	RT10 sale	75510			70224.3		add		
+Yealink RT30 DECT-репитер для  SIP- телефонов W52P/W60P/W41P	RT30	98330			91446.90000000001		add		
+Yealink CPW65-DECT-Duo дополнительные беспроводные DECT-микрофоны 2шт. для CP965	CPW65-DECT-Duo	272720			253629.6		add		
+Yealink CPE90 дополнительные проводные микрофоны 2шт. для CP960	CPE90						add		
+Yealink CPE80, дополнительный микрофон для CP860	CPE80						add		
+Yealink DD10K — DECT-адаптер для SIP-T41S и SIP-T42S	DD10K	17580			16349.400000000001		add		
+Yealink EHS36 адаптер для беспроводных гарнитур Plantronics/Jabra для телефонов T28P/T26P	EHS36	54270			50471.100000000006		add		
+Yealink EHS36 адаптер для беспроводных гарнитур Plantronics/Jabra для телефонов T28P/T26P	EHS36 sale	53210			49485.3		add		
+Yealink EHS40 USB адаптер для беспроводных гарнитур Plantronics/Jabra	EHS40	54270			50471.100000000006		add		
+Yealink Защитный чехол для W53H	Protective case for W53H	20390			18962.7		add		
+Блок питания 5VDC, 600mA для W53P(H)/W56H/W60P/W73P(H)/W76P/W79P/W59R/T30(P)/T31(P,G)/T33P(G)	5VDC.600mA	7080			6584.400000000001		add		
+Yealink Блок питания 5VDC, 1.2A для SIP-T27G/T41S/T42S/T43U/T53(W)/W80B/W80DM	5VDC.1.2A	9230			8583.9		add		
+Yealink Блок питания 5VDC, 2A для SIP-T29G/T46U(S)/T48U(S)/T58A/T57W/T54W	5VDC.2A	12310			11448.300000000001		add		
+Arlight Блок питания ARDV-10-5A (5V, 2A) для EXP50/EXP43/SIP-T46U(S)/T48U(S)/T58W(A)/T57W/T54W	5VDC,2A-ARDV						add		
+Yealink Блок питания 12VDC, 1A для VP59, CP920	12VDC.1A	12310			11448.300000000001		add		
+Yealink Кронштейн для крепления на стену модуля расширения EXP40	Wall mount EXP40	5240			4873.2		add		
+Yealink Кронштейн для крепления на стену телефона SIP-T46G/SIP-T48G	Wall mount SIP-T46U(S)	5240			4873.2		add		
+Yealink Кронштейн для крепления на стену телефонов  SIP-T42G и SIP-T41P	Кронштейн для T42X/T41X						add		
+YDMP Basic Package (100 licenses), стартовый пакет лицензий на 100 устройств	YDMP Basic Package	427930			397974.9		add		
+YDMP Add-on package (10 licenses), дополнительный пакет лицензий на 10 устройств	YDMP Add-on package	42800			39804		add		
+YVIM Basic Package (2 licenses for DM), стартовый пакет лицензий управляет до 2 DM и 120 баз W90	YVIM Basic Package (2 licenses for DM)								
+YVIM Add-on (1 license for DM), дополнительный пакет лицензий управляет 1 DM и до 60 баз W90	YVIM Add-on (1 license for DM)								
+Уличный короб ТША511-25.35.15-50-У1-9720	ТША511								
+Крепление на опору для уличного короба ТША511	КМА1								
+VT V100 USB веб-камера Full HD	V100	38500			35805				
+3. ГАРНИТУРЫ					0				
+Гарнитуры RJ9  					0				
+VT Проводная гарнитура VT1000 RJ9(03), Моно, Узкополосный звук	VT1000 RJ9(03)	10000			9300		add		
+VT Проводная гарнитура VT1000-D RJ9(03), Дуо, Узкополосный звук	VT1000-D RJ9(03)	11610			10797.300000000001		add		
+VT Проводная гарнитура VT5000 QD(P)-RJ9(03), Моно, Узкополосный звук, QD, переходник QD-RJ09(03)	VT5000 QD(P)-RJ9(03)	15770			14666.1		add		
+VT Проводная гарнитура VT5000-D QD(P)-RJ9(03), Дуо, Узкополосный звук, QD, переходник QD-RJ09(03)	VT5000-D QD(P)-RJ9(03)	19500			18135		add		
+VT Проводная гарнитура VT6200 QD(P)-RJ9(03), Моно, HD звук, QD, переходник QD-RJ09(03)	VT6200 QD(P)-RJ9(03)	19570			18200.100000000002		add		
+VT Проводная гарнитура VT6200-D QD(P)-RJ9(03), Дуо, HD звук, QD, переходник QD-RJ09(03)	VT6200-D QD(P)-RJ9(03)	22370			20804.100000000002		add		
+Yealink YHS34 Mono Моно, Проводная, HD звук, QD, RJ9	YHS34 Mono	20240			18823.2		add		
+Yealink YHS34 Dual Дуо, Проводная, HD звук, QD, RJ9	YHS34 Dual	27830			25881.9		add		
+Yealink YHS34 Lite Mono Моно, Проводная, HD звук, QD, RJ9	YHS34 Lite Mono	17710			16470.3		add		
+Yealink YHS34 Lite Dual Дуо, Проводная, HD звук, QD, RJ9	YHS34 Lite Dual	22770			21176.100000000002		add		
+Yealink YHS36 Mono Моно, Проводная, HD звук, QD, RJ9	YHS36 Mono	27830			25881.9		add		
+Yealink YHS36 Dual Дуо, Проводная, HD звук, QD, RJ9	YHS36 Dual	35410			32931.3		add		
+Mairdi Гарнитура MRD-509S + MRD-QD002 шнур-переходник с разъемами QD и RJ9	MRD-509S	13450			12508.5				
+Гарнитуры USB   					0				
+VT Проводная гарнитура VT5000 USB, Моно, HD звук	VT5000 USB	17890			16637.7		add		
+VT Проводная гарнитура VT5000-D USB, Дуо, HD звук	VT5000-D USB	19930			18534.9		add		
+VT Проводная гарнитура VT1000-D USB, Дуо Узкополосный звук	VT1000 USB old	11000			10230		add		
+VT Проводная гарнитура VT6200-D, Дуо, HD звук, USB	VT6200-D USB	24440			22729.2		add		
+VT Проводная гарнитура VT6200, Моно, HD звук, USB	VT6200 USB	22370			20804.100000000002		add		
+VT Проводная гарнитура VT6300, Моно, HD звук, USB	VT6300 USB	27400			25482		add		
+VT Проводная гарнитура VT6300-D, Дуо, HD звук, USB	VT6300-D USB	26850			24970.5		add		
+VT Проводная гарнитура X140-D USB, Дуо, HD звук, индикаторы занятости 2 мик., USB	X140-D USB	44740			41608.200000000004		add		
+VT Проводная гарнитура X208, Моно, HD звук, разъемы 3,5 мм Jack и USB	X208	36300			33759		add		
+VT Проводная гарнитура X208-D, Дуо, HD звук, разъемы 3,5 мм Jack и USB	X208-D	42350			39385.5		add		
+Yealink UH34 Lite Mono UC Моно, Проводная, HD звук, USB	UH34 Lite Mono UC	18340			17056.2		add		
+Yealink UH34 Lite Dual UC Дуо, Проводная, HD звук, USB	UH34 Lite Dual UC	20240			18823.2		add		
+Yealink UH34 Lite Mono Teams Моно, Проводная, HD звук, USB	UH34 Lite Mono Teams	18340			17056.2		add		
+Yealink UH34 Lite Dual Teams Дуо, Проводная, HD звук, USB	UH34 Lite Dual Teams						add		
+Yealink UH34 Mono UC Моно, Проводная, HD звук, USB	UH34 Mono UC	21510			20004.3		add		
+Yealink UH34 Dual UC Дуо, Проводная, HD звук, USB	UH34 Dual UC	26570			24710.100000000002		add		
+Yealink UH34 Mono Teams Моно, Проводная, HD звук, USB	UH34 Mono Teams	21510			20004.3		add		
+Yealink UH34 Dual Teams Дуо, Проводная, HD звук, USB	UH34 Dual Teams	26570			24710.100000000002		add		
+Yealink UH34 SE Dual UC USB-C Дуо, Проводная, HD звук, USB и 3,5mm jack	UH34 SE Dual UC USB-C	35420			32940.6		add		
+Yealink UH34 SE Dual UC Дуо, Проводная, HD звук, USB и 3,5mm jack	UH34 SE Dual UC	35420			32940.6		add		
+Yealink UH36 Mono Teams Моно, Проводная, HD звук, USB и 3,5 mm jack	UH36 Mono-Teams	37950			35293.5		add		
+Yealink UH35 Dual UC USB-C/A Дуо, Проводная, HD звук, шумоподавление, LED-индикатор, USB-C/A	UH35 Dual UC USB-C/A	32890			30587.7				
+Yealink UH35 Dual UC Дуо, Проводная, HD звук, шумоподавление, LED-индикатор, USB	UH35 Dual UC	32890			30587.7				
+Yealink UH35 Mono UC Моно, Проводная, HD звук, шумоподавление, LED-индикатор, USB	UH35 Mono UC	30360			28234.800000000003				
+Yealink UH35 Mono UC Моно, Проводная, HD звук, шумоподавление, LED-индикатор, USB	UH35 Mono UC USB-C/A	30360			28234.800000000003				
+Yealink UH37 Dual UC USB-C/A Дуо, Проводная, HD звук, шумоподавление, LED-индикатор, USB-C/A	UH37 Dual UC USB-C/A	46800			43524		add		
+Yealink UH37 Mono UC USB-C/A Моно, Проводная, HD звук, шумоподавление, LED-индикатор, USB-C/A	UH37 Mono UC USB-C/A	41740			38818.200000000004		add		
+Yealink UH38 Dual UC-BAT Дуо, гибридная, USB/Bluetooth, HD звук, шумоподавление, LED-индикатор	UH38 Dual UC-BAT	83480			77636.40000000001		add		
+Yealink UH42 Dual UC USB-C/A, Проводная, HD звук, шумоподав. LED-индикатор, USB-C/A	UH42 Dual UC USB-C/A	27830			25881.9				
+Yealink UH42 SE Dual UC USB-C/A Дуо, Проводная, HD звук, 3.5mm, USB Type-C/A	UH42 SE Dual UC USB-C/A	35420			32940.6		add		
+Yealink UH44 Dual UC USB-C/A, Проводная, HD звук, шумоподав. LED-индикатор, USB-C/A	UH44 Dual UC USB-C/A	37940			35284.200000000004		add		
+Yealink UH46 Dual UC USB-C/A, Проводная, HD звук, LED-индикатор, USB-C/A	UH46 Dual UC USB-C/A	56920			52935.600000000006		add		
+Yealink UH48 Dual UC USB-C/A, Проводная, HD звук, Шумоподавление ANC, LED-индикатор, USB-C/A	UH48 Dual UC USB-C/A	73360			68224.8		add		
+Гарнитуры Bluetooth					0				
+VT9200-D, Дуо, HD звук, 30м Bluetooth, USB Type-C Dongle	VT9200-D	52800			49104		add		
+VT9200, Моно, HD звук, 30м Bluetooth, USB Type-C Dongle	VT9200	46750			43477.5		add		
+VT Беспроводная гарнитура VT9500-D, Дуо, HD звук, 10м Bluetooth	VT9500-D	33300			30969		add		
+VT Беспроводная гарнитура VT9605-D, Дуо, HD звук, 30м Bluetooth	VT9605-D	53020			49308.600000000006		add		
+Yealink BH70 Mono UC USB-C/A Моно, Беспроводная Bluetooth, HD звук, Шумоподав.	BH70 Mono UC USB-C/A	81760			76036.8		add		
+Yealink BH70 Dual UC USB-C/A Дуо, Беспроводная Bluetooth, HD звук, Шумоподав.	BH70 Dual UC USB-C/A	96900			90117		add		
+Yealink BH71, Беспроводная Bluetooth, Шумоподав, защитный кейс	BH71	63590			59138.700000000004		add		
+Yealink BH71 Pro USB-C/A, Беспроводная Bluetooth, Шумоподав, Зарядный кейс, USB адаптер	BH71 Pro USB-C/A	98420			91530.6		add		
+Yealink BH71 Workstation, Беспроводная Bluetooth, Шумоподав,Зарядка Qi,Дисплей 3'',USB-хаб	BH71 Workstation	189260			176011.80000000002		add		
+Yealink BH71 Workstation Pro, Беспроводная Bluetooth, Шумоподав,Зарядка Qi,Дисплей 3'',USB-хаб,зарядный кейс	BH71 Workstation Pro	242250			225292.5		add		
+Yealink BH72 Lite UC Black USB-C, Беспроводная Bluetooth, HD звук, Зарядка проводная,Шумоподав., Черная	BH72 Lite UC Black USB-C	96900			90117		add		
+Yealink BH74 UC USB-C/A, Беспроводная Bluetooth, HD звук, Шумоподавление ANC,Черная	BH74 UC USB-C/A	136270			126731.1		add		
+Yealink BH74 with Stand UC USB-C/A, Беспроводная Bluetooth, HD звук, Шумоподавление ANC,Черная	BH74 with Stand UC USB-C/A	143840			133771.2		add		
+Yealink BH76 UC Black USB-A, Беспроводная Bluetooth, Зарядка Qi, HD звук, Шумоподав.ANC,Черная	BH76 UC Black USB-A	136270			126731.1		add		
+Yealink BH76 Plus UC Black USB-A, Беспроводная Bluetooth, Зарядка Qi, HD звук, Шумоподав.ANC,Черная	BH76 Plus UC Black USB-A	151410			140811.30000000002		add		
+Yealink BH76 with Charging Stand UC Black USB-A, Беспроводная BT,BHC76,Зарядка Qi,HD звук,Шумоподав.ANС,Черн	BH76 with Charging Stand UC Black USB-A	158980			147851.4		add		
+Гарнитуры DECT 					0				
+VT Беспроводная гарнитура VT9000, Моно, HD звук, 150м DECT, для телефона	VT9000	58740			54628.200000000004		add		
+VT VT9000 в комплекте с микролифтом, Моно, HD звук, 150м DECT, для телефона	VT9000_LFT	124140			115450.20000000001		add		
+VT VT9000-D в комплекте с микролифтом, Дуо, HD звук, 150м DECT, для телефона	VT9000-D_LFT	130290			121169.70000000001		add		
+VT Беспроводная гарнитура VT9400, Моно, HD звук, 150м DECT, для компьютера и телефона	VT9400	67060			62365.8		add		
+VT Беспроводная гарнитура VT9400-D, Дуо, HD звук, 150м DECT, для компьютера и телефона	VT9400-D	118000			109740		add		
+Yealink WH62 Mono UC Моно, Беспроводная, HD звук, 160м DECT, Шумоподав, USB-хаб	WH62 Mono UC	128690			119681.70000000001		add		
+Yealink WH62 Dual UC Дуо, Беспроводная, HD звук, 160м DECT, Шумоподав, USB-хаб	WH62 Dual UC	146870			136589.1		add		
+Yealink WH62 Dual Portable UC Дуо, Беспроводная, HD звук, 120м DECT, Шумоподав, USB-адаптер	WH62 Dual Portable UC	131730			122508.90000000001		add		
+Yealink WH63 UC, Наушная, Беспроводная, HD звук, 160м DECT, Шумоподав, USB-хаб	WH63 UC	125670			116873.1		add		
+Yealink WH64 Mono UC Моно, Беспроводная, HD звук, 160м DECT, Bluetooth, Шумоподав	WH64 Mono UC	139290			129539.70000000001		add		
+Yealink WH64 Mono UC Моно, Беспроводная, HD звук, 160м DECT, Bluetooth, Шумоподав	WH64 Dual UC	158980			147851.4		add		
+Yealink WH64 Hybrid Mono UC, Беспроводная, HD звук, 160м DECT, Шумоподав, USB-адаптер	WH64 Hybrid Mono UC	102950			95743.5		add		
+Yealink WH64 Hybrid Dual UC, Беспроводная, HD звук, 160м DECT, Шумоподав, USB-адаптер	WH64 Hybrid Dual UC	121130			112650.90000000001		add		
+Yealink WH66 Mono UC Моно, Беспроводная, HD звук, 160м DECT, Шумоподав, Дисплей 4'', USB-хаб, Bluetooth	WH66 Mono UC	224080			208394.40000000002		add		
+Yealink WH66 Mono Teams Моно, Беспроводная, HD звук, 160м DECT, Шумоподав, Дисплей 4'', USB-хаб, Bluetooth	WH66 Mono Teams	224080			208394.40000000002		add		
+Yealink WH66 Dual UC Дуо, Беспроводная, HD звук, 160м DECT, Шумоподав, Дисплей 4'', USB-хаб, Bluetooth	WH66 Dual UC	242250			225292.5		add		
+Yealink WH66 Dual Teams Дуо, Беспроводная, HD звук, 160м DECT, Шумоподав, Дисплей 4'', USB-хаб, Bluetooth	WH66 Dual Teams	242250			225292.5		add		
+Yealink WH67 UC, Беспроводная, HD звук, 120м DECT, Шумоподав, Дисплей 4'', USB-хаб, Bluetooth	WH67 UC	224080			208394.40000000002		add		
+Yealink WH67 Teams, Беспроводная, HD звук, 120м DECT, Шумоподав, Дисплей 4'', USB-хаб, Bluetooth	WH67 Teams	224080			208394.40000000002		add		
+Аксессуары для гарнитур					0				
+Yealink WHC60 Беспроводная зарядка-подставка для DECT-гарнитур WH66/WH67	WHC60	37940			35284.200000000004		add		
+Yealink BLT60 Световой индикатор занятости для гарнитур WH6x и USB-телефона MP50	BLT60	12640			11755.2		add		
+Yealink Запасной амбушюр для гарнитур UH34/UH34 lite/YHS34/YHS34 lite, поролон	Foamy Ear Cushion for UH34/YHS34	2200			2046				
+Yealink Запасной амбушюр для гарнитур UH34/UH34 lite/YHS34/YHS34 lite, экокожа	Leather Ear Cushion for UH34/YHS34	6600			6138				
+Yealink Запасной амбушюр для гарнитур WH62/WH66/UH36/YHS36, экокожа	Leather Ear Cushion for WH62/WH66/UH36/YHS36	6600			6138				
+6. ШЛЮЗЫ FXO FXS					0				
+IPMATIKA IGW14400 VoIP-шлюз, 144*FXS	IGW14400	1345300			1251129		add		
+IPMATIKA IGW12000 VoIP-шлюз, 120*FXS	IGW12000	1151700			1071081		add		
+IPMATIKA IGW9600 VoIP-шлюз, 96*FXS	IGW9600	945450			879268.5		add		
+IPMATIKA IGW7200 VoIP-шлюз, 72*FXS	IGW7200	727100			676203		add		
+IPMATIKA IGW4800 VoIP-шлюз, 48*FXS	IGW4800	504900			469557		add		
+IPMATIKA IGW3200 VoIP-шлюз, 32*FXS	IGW3200	347050			322756.5		add		
+IPMATIKA IGW2400 VoIP-шлюз, 24*FXS	IGW2400	287650			267514.5		add		
+IPMATIKA IGW1600 VoIP-шлюз, 16*FXS	IGW1600	233750			217387.5		add		
+IPMATIKA IGW800 VoIP-шлюз, 8*FXS	IGW800	110000			102300		add		
+IPMATIKA IGW400 VoIP-шлюз, 4*FXS	IGW400	66000			61380		add		
+IPMATIKA IGW3210 VoIP-шлюз, 32*FXO	IGW3210	633600			589248		add		
+IPMATIKA IGW1610 VoIP-шлюз, 16*FXO	IGW1610	373450			347308.5		add		
+IPMATIKA IGW810 VoIP-шлюз, 8*FXO	IGW810	176000			163680		add		
+IPMATIKA IGW410 VoIP-шлюз, 4*FXO	IGW410	106150			98719.5		add		
+Yeastar TA100 VoIP-шлюз, 1*FXS	TA100	22000			20460		add		
+Yeastar TA200 VoIP-шлюз, 2*FXS	TA200	32090			29843.7		add		
+Yeastar TA400 VoIP-шлюз, 4*FXS	TA400	73860			68689.8		add		
+Yeastar TA800 VoIP-шлюз, 8*FXS	TA800	122900			114297		add		
+Yeastar TA1600 VoIP-шлюз, 16*FXS	TA1600	304440			283129.2		add		
+Yeastar TA2400 VoIP-шлюз, 24*FXS	TA2400	378740			352228.2		add		
+Yeastar TA3200 VoIP-шлюз, 32*FXS	TA3200	453730			421968.9		add		
+Yeastar TA410 VoIP-шлюз, 4*FXO	TA410	134570			125150.1		add		
+Yeastar TA810 VoIP-шлюз, 8*FXO	TA810	230560			214420.80000000002		add		
+Yeastar TA1610 VoIP-шлюз, 16*FXO	TA1610	489500			455235		add		
+7. IP-АТС и Интерфейсные платы					0				
+yeastar.ipmatika.kz - полный прайс yeastar					0				
+Yeastar P520, 20 абонентов и 10 вызовов, поддержка FXO, FXS, GSM, BRI	P520	314050			292066.5		add		
+Yeastar P550, 50 абонентов и 25 вызовов, поддержка FXO, FXS, GSM, BRI,	P550	615450			572368.5		add		
+Yeastar P560, 100 (до 200) абонентов и 30 (до 60) вызовов,PRI,MFC R2,SS7,поддержка FXO,FXS,GSM,BRI,	P560	813450			756508.5		add		
+Yeastar P570, 300 (до 500) абонентов и 60 (до 120) вызовов,PRI,MFC R2,SS7,поддержка FXO,FXS,GSM,BRI,	P570	1658800			1542684		add		
+Yeastar S20, поддержка FXO, FXS, GSM, BRI, (запись разговора)	S20	276100			256773		add		
+Yeastar S50, PRI, MFC R2, SS7, поддержка FXO, FXS, GSM, BRI (запись разговора)	S50	520850			484390.5		add		
+Yeastar S100, 100 (до 200) абонентов и 30 (до 60) вызовов, поддержка FXO, FXS, GSM, BRI	S100	691820			643392.6				
+Yeastar GSM модуль расширения на 1 GSM-канал	GSM	95150			88489.5		add		
+Yeastar B2 модуль расширения на 2 BRI-порта	B2	110200			102486		add		
+Yeastar O2 модуль расширения на 2 FXO	O2	64900			60357		add		
+Yeastar S2 модуль расширения на 2 FXS	S2	57750			53707.5		add		
+Yeastar SO модуль расширения на 1 FXS + 1 FXO	SO	67100			62403		add		
+Yeastar LTE модуль расширения на 1 LTE-канал	LTE	219450			204088.5		add		
+Yeastar UMTS модуль расширения на 1 UMTS  порт	UMTS	154050			143266.5		add		
+Yeastar D30 на 100 пользователей и 30 вызовов	D30 Card	163350			151915.5		add		
+Yeastar EX08 на 4 слота под модули S2, O2, SO, GSM/UMTS, B2	EX08	56100			52173		add		
+Yeastar EX30 на 1 поток E1	EX30	486200			452166		add		
+8. GSM-VoIP шлюзы									
+Yeastar TG100 VoIP-GSM шлюз на 1 GSM-канал	TG100	87050			80956.5		add		
+Yeastar TG200 VoIP-GSM шлюз на 2 GSM-канала	TG200	174710			162480.30000000002		add		
+Yeastar TG400 VoIP-GSM шлюз на 4 GSM-канала	TG400	330290			307169.7		add		
+Yeastar TG800 VoIP-GSM шлюз на 8 GSM-каналов	TG800	598250			556372.5		add		
+Yeastar TG1600 VoIP-GSM шлюз на 16 GSM-каналов	TG1600/16	1234780			1148345.4000000001		add		
+Yeastar TE 100 NeoGate VoIP- PRI  шлюз на 1 E1 канал	TE100	474070			440885.10000000003		add		
+Yeastar TE 200 NeoGate VoIP- PRI  шлюз на 2 E1 канал	TE200	786230			731193.9		add		
+IPMATIKA IGW1E1, 1*E1	IGW1E1	397100			369303		add		
+IPMATIKA IGW2E1, 2*E1	IGW2E1	630300			586179		add		
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									

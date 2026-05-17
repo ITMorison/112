@@ -1,0 +1,172 @@
+// Жёсткие диски (HDD)
+
+export const ZHESTKIE_DISKI = [
+  {
+    "articul": "ST6000VX009",
+    "title": "Жесткий диск Seagate SkyHawk ST6000VX009 HDD 6Tb",
+    "sku": "ST6000VX009",
+    "brand": "",
+    "brand_name": "",
+    "price": 121320,
+    "stock": 50,
+    "is_available": true,
+    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "description": "Жесткий диск, Seagate SkyHawk, ST6000VX009, HDD 6Tb, SATA 6Gb/s, 3.5\", 256MB, 5400 RPM"
+  },
+  {
+    "articul": "ST8000VX010",
+    "title": "Жесткий диск Seagate SkyHawk ST8000VX010 HDD 8Tb",
+    "sku": "ST8000VX010",
+    "brand": "",
+    "brand_name": "",
+    "price": 159307,
+    "stock": 50,
+    "is_available": true,
+    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "description": "Жесткий диск, Seagate SkyHawk, ST8000VX010, HDD 8Tb, SATA 6Gb/s, 3.5\", 256MB, 7200 RPM"
+  },
+  {
+    "articul": "ST10000NM017B",
+    "title": "Жесткий диск Seagate Exos 7E10 ST10000NM017B 10TB SATA3",
+    "sku": "ST10000NM017B",
+    "brand": "",
+    "brand_name": "",
+    "price": 197404,
+    "stock": 50,
+    "is_available": true,
+    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "description": "Жесткий диск, Seagate, Exos 7E10, ST10000NM017B, 10TB, SATA3 6Gb/s, 3.5\", 7200RPM"
+  },
+  {
+    "articul": "ST16000NM002C",
+    "title": "Жесткий диск Seagate Exos X16 ST16000NM002C 16TB SATA3",
+    "sku": "ST16000NM002C",
+    "brand": "",
+    "brand_name": "",
+    "price": 213788,
+    "stock": 50,
+    "is_available": true,
+    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "description": "Жесткий диск, Seagate, Exos X16, ST16000NM002C, 16TB, SATA3 6Gb/s, 3.5\", 7200RPM"
+  },
+  {
+    "articul": "WD121PURP",
+    "title": "Жесткий диск Western Digital WD121PURP HDD 12Tb",
+    "sku": "WD121PURP",
+    "brand": "",
+    "brand_name": "",
+    "price": 214360,
+    "stock": 50,
+    "is_available": true,
+    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "description": "Жесткий диск, Western Digital, WD121PURP , HDD 12Tb, SATA 6Gb/s, 3.5\", 256MB, 7200 RPM"
+  },
+  {
+    "articul": "WD221PURP",
+    "title": "Жесткий диск Western Digital WD221PURP HDD 22Tb",
+    "sku": "WD221PURP",
+    "brand": "",
+    "brand_name": "",
+    "price": 334505,
+    "stock": 50,
+    "is_available": true,
+    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "description": "Жесткий диск, Western Digital, WD221PURP, HDD 22Tb, SATA 6Gb/s, 3.5\", 512MB, 7200 RPM"
+  },
+  {
+    "articul": "WD241PURP",
+    "title": "Жесткий диск Western Digital WD241PURP HDD 24Tb",
+    "sku": "WD241PURP",
+    "brand": "",
+    "brand_name": "",
+    "price": 358502,
+    "stock": 50,
+    "is_available": true,
+    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "description": "Жесткий диск, Western Digital, WD241PURP, HDD 24Tb, SATA 6Gb/s, 3.5\", 512MB, 7200 RPM"
+  },
+  {
+    "articul": "ST18000NM000J",
+    "title": "Жесткий диск Seagate Exos X18 ST18000NM000J 18TB SATA3",
+    "sku": "ST18000NM000J",
+    "brand": "",
+    "brand_name": "",
+    "price": 305858,
+    "stock": 50,
+    "is_available": true,
+    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "description": "Жесткий диск, Seagate, Exos X18, ST18000NM000J, 18TB, SATA3 6Gb/s, 3.5\", 7200RPM"
+  },
+  {
+    "articul": "DT01ACA100",
+    "title": "Жесткий диск Toshiba DT01ACA100 HDD 1Tb",
+    "sku": "DT01ACA100",
+    "brand": "",
+    "brand_name": "",
+    "price": 40017,
+    "stock": 50,
+    "is_available": true,
+    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "description": "Жёсткий диск, Toshiba, DT01ACA100, HDD 1TB, SATA6Gb/s, 7200pm, 32Mb, 3,5\""
+  },
+  {
+    "articul": "ST18000NM003D",
+    "title": "Жесткий диск Seagate Exos X20 ST18000NM003D 18TB SATA3",
+    "sku": "ST18000NM003D",
+    "brand": "",
+    "brand_name": "",
+    "price": 305858,
+    "stock": 50,
+    "is_available": true,
+    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "description": "Жесткий диск, Seagate, Exos X20, ST18000NM003D, 18TB, SATA3, 3.5\", 7200RPM"
+  },
+  {
+    "articul": "ST20000NM007D",
+    "title": "Жесткий диск Seagate Exos X20 ST20000NM007D 20TB SATA",
+    "sku": "ST20000NM007D",
+    "brand": "",
+    "brand_name": "",
+    "price": 327758,
+    "stock": 50,
+    "is_available": true,
+    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "description": "Жесткий диск, Seagate, Exos X20, ST20000NM007D, 20TB, SATA 6Gb/s, 3.5\", 7200RPM"
+  },
+  {
+    "articul": "WD101PURP",
+    "title": "Жесткий диск Western Digital WD101PURP HDD 10Tb",
+    "sku": "WD101PURP",
+    "brand": "",
+    "brand_name": "",
+    "price": 200927,
+    "stock": 50,
+    "is_available": true,
+    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "description": "Жесткий диск, Western Digital, WD101PURP, HDD 10Tb, SATA 6Gb/s, 3.5\", 256MB, 7200 RPM"
+  },
+  {
+    "articul": "ST4000VX016 ",
+    "title": "Жесткий диск Seagate SkyHawk ST4000VX016 HDD 4Tb",
+    "sku": "ST4000VX016 ",
+    "brand": "",
+    "brand_name": "",
+    "price": 93193,
+    "stock": 50,
+    "is_available": true,
+    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "description": "Жесткий диск, Seagate SkyHawk, ST4000VX016 , HDD 4Tb, SATA 6Gb/s, 3.5\", 256MB, 5400 RPM"
+  },
+  {
+    "articul": "ST16000NM002H",
+    "title": "Жесткий диск Seagate Exos X24 ST16000NM002H 16TB SATA3",
+    "sku": "ST16000NM002H",
+    "brand": "",
+    "brand_name": "",
+    "price": 270881,
+    "stock": 50,
+    "is_available": true,
+    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "description": "Жесткий диск, Seagate, Exos X24, ST16000NM002H, 16TB, SATA3 6Gb/s, 3.5\", 7200RPM"
+  }
+];

@@ -1,0 +1,442 @@
+{
+  "1.1 Автомобильные и базовые радиостанции диапазона 27МГц": {
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  "1.2 Портативные радиостанции диапазона 27МГц": {
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  "2.1. Радиостанции портативные аналоговые": {
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  "2.2. Радиостанции портативные цифровые/аналоговые": {
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  "2.3. Радиостанции мобильные/стационарные": {
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  "2.5 УКВ ретрансляторы": {
+    "category": "radio-equipment",
+    "subcategory": "repeaters"
+  },
+  "2.6 УКВ дуплексеры": {
+    "category": "radio-equipment",
+    "subcategory": "duplexers"
+  },
+  "03. Подавители связи": {
+    "category": "radio-equipment",
+    "subcategory": "jammers"
+  },
+  "4.1. Антенны автомобильные диапазона 27 МГц": {
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  "4.2. Антенны автомобильные диапазона УКВ": {
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  "4.3. Антенны базовые диапазона 27 МГц.": {
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  "4.4. Антенны базовые УКВ диапазона": {
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  "4.5. Антенны WIFI, GSM, 3G, 4G, LTE и аксессуары": {
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  "Антенна VIKA-1.1-800/2700F MIMO2*2/ LTE800/ LTE1800/ 3G/ LTE2600/ направленная/": {
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  "4.6. Сплиттеры, комбайнеры, ответвители": {
+    "category": "radio-equipment",
+    "subcategory": "splitters"
+  },
+  "4.7. Антенны прочие и комплектующие для антенн": {
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  "4.8. Кабельные сборки": {
+    "category": "kabelnye-sistemy",
+    "subcategory": "passivnoe-setevoe"
+  },
+  "5.1. Репитеры, усилители сотового сигнала": {
+    "category": "radio-equipment",
+    "subcategory": "repeaters"
+  },
+  "5.2. Стационарные телефоны, GSM-шлюзы, 3G/4G роутеры": {
+    "category": "ip-telefony",
+    "subcategory": "ip-telefony"
+  },
+  "5.3. GSM интернет-рации": {
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  "5.4. GSM-маяки": {
+    "category": "other",
+    "subcategory": "other"
+  },
+  "6.1. Стальные телескопические мачты": {
+    "category": "radio-equipment",
+    "subcategory": "masts"
+  },
+  "6.2. Алюминиевые мачты": {
+    "category": "radio-equipment",
+    "subcategory": "masts"
+  },
+  "6.3. Кронштейны": {
+    "category": "radio-equipment",
+    "subcategory": "mounts"
+  },
+  "7.1. Гарнитуры, микрофоны": {
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  "7.2. Аккумуляторы": {
+    "category": "radio-equipment",
+    "subcategory": "batteries"
+  },
+  "7.3. Антенные согласователи-усилители": {
+    "category": "radio-equipment",
+    "subcategory": "antennas"
+  },
+  "7.4. Источники питания": {
+    "category": "other",
+    "subcategory": "other"
+  },
+  "7.5. Преобразователи напряжения 24/12V": {
+    "category": "radio-equipment",
+    "subcategory": "converters"
+  },
+  "7.6. Инверторы 12-220Вольт": {
+    "category": "radio-equipment",
+    "subcategory": "inverters"
+  },
+  "7.7. Громкоговорители внешние": {
+    "category": "radio-equipment",
+    "subcategory": "speakers"
+  },
+  "7.8. Скобы для крепления антенн": {
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  "7.9. Зарядные устройства": {
+    "category": "radio-equipment",
+    "subcategory": "chargers"
+  },
+  "7.10. Зарядные устройства для автомобильных аккумуляторов": {
+    "category": "radio-equipment",
+    "subcategory": "chargers"
+  },
+  "7.11. Кабель коаксиальный": {
+    "category": "radio-equipment",
+    "subcategory": "radiostations"
+  },
+  "7.12. Программаторы": {
+    "category": "radio-equipment",
+    "subcategory": "programmers"
+  },
+  "7.13. Измерительные приборы (КСВ метры, измерители мощности, частотомеры, анализаторы)": {
+    "category": "sistemy-bezopasnosti",
+    "subcategory": "sistemy-videonablyudeniya"
+  },
+  "7.14. Прочие": {
+    "category": "other",
+    "subcategory": "other"
+  },
+  "Без категории": {
+    "category": "other",
+    "subcategory": "other"
+  },
+  "1  комбинированный порт WAN/LAN SFP+/RJ45 10 Гбит/с,": {
+    "category": "other",
+    "subcategory": "other"
+  },
+  "1  порт LAN 2,5 Гбит/с,": {
+    "category": "other",
+    "subcategory": "other"
+  },
+  "1  слот для нано-SIM-карты,": {
+    "category": "other",
+    "subcategory": "other"
+  },
+  "Мобильные телефоны": {
+    "category": "ip-telefony",
+    "subcategory": "ip-telefony"
+  },
+  "3. Следы эксплуатации, Дефект контролёра оборотов вентилятора. акт 70825": {
+    "category": "demonstracionnoe-oborudovanie",
+    "subcategory": "demo-oborudovanie"
+  },
+  "Игровые наушники и гарнитуры": {
+    "category": "kompyutery-i-komplektuyushchie",
+    "subcategory": "ustroystva-vvoda-i-aksessuary"
+  },
+  "Офисные наушники и гарнитуры": {
+    "category": "kompyutery-i-komplektuyushchie",
+    "subcategory": "ustroystva-vvoda-i-aksessuary"
+  },
+  "5 Повреждение упаковки, потертости, потеря емкости АКБ.": {
+    "category": "other",
+    "subcategory": "other"
+  },
+  "Серверные платформы": {
+    "category": "setevoe-i-servernoe-oborudovanie",
+    "subcategory": "servery"
+  },
+  "GSM LTE Модемы Роутеры": {
+    "category": "setevoe-i-servernoe-oborudovanie",
+    "subcategory": "aktivnoe-setevoe"
+  },
+  "Wi-Fi радио мосты": {
+    "category": "setevoe-i-servernoe-oborudovanie",
+    "subcategory": "aktivnoe-setevoe"
+  },
+  "Оптические модули 1G SFP": {
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  "Шкафы напольные, серверные": {
+    "category": "kabelnye-sistemy",
+    "subcategory": "telekommunikacionnye-shkafy"
+  },
+  "Модули": {
+    "category": "kabelnye-sistemy",
+    "subcategory": "passivnoe-setevoe"
+  },
+  "В кабельную канализацию": {
+    "category": "kabelnye-sistemy",
+    "subcategory": "passivnoe-setevoe"
+  },
+  "Оптические полки и кроссы": {
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  "Кабельный канал": {
+    "category": "kabelnye-sistemy",
+    "subcategory": "passivnoe-setevoe"
+  },
+  "Аксессуары для кабельного канала": {
+    "category": "kabelnye-sistemy",
+    "subcategory": "passivnoe-setevoe"
+  },
+  "Вызывные панели": {
+    "category": "sistemy-bezopasnosti",
+    "subcategory": "sistemy-kontrolya-dostupa"
+  },
+  "Аксессуары для экшн-камер": {
+    "category": "kommercheskaya-vizualizaciya",
+    "subcategory": "aksessuary-vizualizaciya"
+  },
+  "Софтбоксы": {
+    "category": "kabelnye-sistemy",
+    "subcategory": "passivnoe-setevoe"
+  },
+  "2. Следы эксплуатации, отсутствует салфетка. акт 79844": {
+    "category": "other",
+    "subcategory": "other"
+  },
+  "2. Повреждение и замятие упаковки. Потёртости": {
+    "category": "other",
+    "subcategory": "other"
+  },
+  "Радиосинхронизаторы": {
+    "category": "other",
+    "subcategory": "other"
+  },
+  "Интерактивные панели": {
+    "category": "kommercheskaya-vizualizaciya",
+    "subcategory": "interaktivnye-paneli"
+  },
+  "Профессиональные панели": {
+    "category": "other",
+    "subcategory": "other"
+  },
+  "Панели для видеостен": {
+    "category": "sistemy-bezopasnosti",
+    "subcategory": "sistemy-videonablyudeniya"
+  },
+  "4 шт разводы от воды на упаковке": {
+    "category": "other",
+    "subcategory": "other"
+  },
+  "Кассетные кондиционеры Inverter": {
+    "category": "demonstracionnoe-oborudovanie",
+    "subcategory": "demo-oborudovanie"
+  },
+  "1 шт - Слабые потертости, нет инструкции.": {
+    "category": "other",
+    "subcategory": "other"
+  },
+  "Панели": {
+    "category": "kabelnye-sistemy",
+    "subcategory": "passivnoe-setevoe"
+  },
+  "Радиоуправляемые машинки и роботы": {
+    "category": "other",
+    "subcategory": "other"
+  },
+  "JR100 всепогодные телефоны": {
+    "category": "ip-telefony",
+    "subcategory": "ip-telefony"
+  },
+  "JR200 общепользовательские телефоны": {
+    "category": "ip-telefony",
+    "subcategory": "ip-telefony"
+  },
+  "д). Общественные телефоны с клавиатурой": {
+    "category": "ip-telefony",
+    "subcategory": "ip-telefony"
+  },
+  "е). Вызывные панели": {
+    "category": "sistemy-bezopasnosti",
+    "subcategory": "sistemy-kontrolya-dostupa"
+  },
+  "з). Телефоны срочного вызова": {
+    "category": "ip-telefony",
+    "subcategory": "ip-telefony"
+  },
+  "Модули для АТС": {
+    "category": "kabelnye-sistemy",
+    "subcategory": "passivnoe-setevoe"
+  },
+  "GSM - шлюзы": {
+    "category": "ip-telefony",
+    "subcategory": "ip-telefony"
+  },
+  "FXS/FXO - шлюзы": {
+    "category": "ip-telefony",
+    "subcategory": "ip-telefony"
+  },
+  "ISDN - шлюзы": {
+    "category": "ip-telefony",
+    "subcategory": "ip-telefony"
+  },
+  "Лицензии и программные модули для АТС": {
+    "category": "kabelnye-sistemy",
+    "subcategory": "passivnoe-setevoe"
+  },
+  "Модули ПО для Yeastar": {
+    "category": "kabelnye-sistemy",
+    "subcategory": "passivnoe-setevoe"
+  },
+  "dect": {
+    "category": "ip-telefony",
+    "subcategory": "ip-telefony"
+  },
+  "Промышленные SFP модули": {
+    "category": "kabelnye-sistemy",
+    "subcategory": "passivnoe-setevoe"
+  },
+  "1. SIP-телефоны": {
+    "category": "ip-telefony",
+    "subcategory": "ip-telefony"
+  },
+  "8. GSM-VoIP шлюзы": {
+    "category": "ip-telefony",
+    "subcategory": "ip-telefony"
+  },
+  "Кабель U/UTP, F/UTP, S/FTP cat 6a": {
+    "category": "kabelnye-sistemy",
+    "subcategory": "passivnoe-setevoe"
+  },
+  "Патч-Панели": {
+    "category": "other",
+    "subcategory": "other"
+  },
+  "Патч-панели экранированные": {
+    "category": "kommercheskaya-vizualizaciya",
+    "subcategory": "interaktivnye-paneli"
+  },
+  "Органайзеры кабельные 19'": {
+    "category": "kabelnye-sistemy",
+    "subcategory": "passivnoe-setevoe"
+  },
+  "*кабель отгружается кратно катушкам": {
+    "category": "kabelnye-sistemy",
+    "subcategory": "passivnoe-setevoe"
+  },
+  "*  в конструкции 3047 по 8 волокон в модуле": {
+    "category": "other",
+    "subcategory": "other"
+  },
+  "Кабель ОКПО - одномодульный, на 1,5 кН": {
+    "category": "kabelnye-sistemy",
+    "subcategory": "passivnoe-setevoe"
+  },
+  "*  в конструкции 6307 по 8 волокон в модуле": {
+    "category": "other",
+    "subcategory": "other"
+  },
+  "* в конструкции по 4 волокна в модуле": {
+    "category": "other",
+    "subcategory": "other"
+  },
+  "Кабель с ленточной броней для кабельной каналицации КС-ОКЛО (одномодульный)": {
+    "category": "kabelnye-sistemy",
+    "subcategory": "passivnoe-setevoe"
+  },
+  "Кабель с ленточной броней для кабельной каналицации КС-ОКЛ (многомодульный)": {
+    "category": "kabelnye-sistemy",
+    "subcategory": "passivnoe-setevoe"
+  },
+  "Кабель с броней из стальных провололк для прокладки в грунт КС-ОКБО, КС-ОКБ": {
+    "category": "kabelnye-sistemy",
+    "subcategory": "passivnoe-setevoe"
+  },
+  "по 6 волоон в модуле": {
+    "category": "other",
+    "subcategory": "other"
+  },
+  "по 8 волокон в модуле": {
+    "category": "other",
+    "subcategory": "other"
+  },
+  "РОЗЕТКИ АБОНЕНТСКИЕ": {
+    "category": "other",
+    "subcategory": "other"
+  },
+  "БОКСЫ НАСТЕННЫЕ МЕТАЛЛИЧЕСКИЕ": {
+    "category": "kabelnye-sistemy",
+    "subcategory": "passivnoe-setevoe"
+  },
+  "БОКСЫ НАСТЕННЫЕ ПЛАСТИКОВЫЕ": {
+    "category": "kabelnye-sistemy",
+    "subcategory": "passivnoe-setevoe"
+  },
+  "КРОССЫ ОПТИЧЕСКИЕ 19' (в стойку)": {
+    "category": "kabelnye-sistemy",
+    "subcategory": "passivnoe-setevoe"
+  },
+  "Кросс-муфты": {
+    "category": "kabelnye-sistemy",
+    "subcategory": "passivnoe-setevoe"
+  },
+  "Патчкорды Китай": {
+    "category": "kabelnye-sistemy",
+    "subcategory": "passivnoe-setevoe"
+  },
+  "Кросс оптический 19' укомплектованный": {
+    "category": "kabelnye-sistemy",
+    "subcategory": "passivnoe-setevoe"
+  },
+  "Кросс оптический 19' FDF укомплектованный": {
+    "category": "kabelnye-sistemy",
+    "subcategory": "passivnoe-setevoe"
+  },
+  "Класс защиты — IP 55": {
+    "category": "other",
+    "subcategory": "other"
+  },
+  "Оптические муфты": {
+    "category": "kabelnye-sistemy",
+    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  }
+}

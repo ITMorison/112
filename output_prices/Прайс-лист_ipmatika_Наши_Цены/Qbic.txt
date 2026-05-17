@@ -1,0 +1,58 @@
+URL	Артикул	Описание	KZ РРЦ	KZ Дилер	Status
+https://ipmatika.kz/products/promyshlennye-i-kommercheskie-kompyutery/	Панельные компьютеры и мини-ПК				
+https://ipmatika.kz/products/panelnye-kompyutery/	Панельные ПК				
+https://ipmatika.kz/products/panelnye-kompyutery/ep-0400/	EP-0400	EP-0400 - Дисплей e-ink 4.2'', 400x300, 3 цвета: черн, белый, красный, 3 кнопки	90750.0	77137.5	Под заказ
+https://ipmatika.kz/products/panelnye-kompyutery/ep-0700/	EP-0700	EP-0700 - Дисплей e-ink 7.5'', 800x480, 3 цвета: черн, белый, красный, 3 кнопки	181500.0	154275.0	Под заказ
+https://ipmatika.kz/products/panelnye-kompyutery/qbic-td-0350-bh/	TD-0350-BH125	"TD-0350, 3,5"" сенсорная панель, BT, NFC/RFID/HID, RCC, черный"	334400.0	284240.0	EOL
+https://ipmatika.kz/products/panelnye-kompyutery/TD-0360/	TD-0360-S	"TD-0360, 3,6"" сенсорная панель, BT, NFC/RFID, RCC, серебристый"	308000.0	261800.0	NEW
+https://ipmatika.kz/products/panelnye-kompyutery/qbic-td-1050pro-b-/	TD-1050PRO-B	"TD-1050 PRO, 10"" сенсорная панель, BT, NFC/RFID, RCC, черный"	726000.0	617100.0	EOL
+https://ipmatika.kz/products/panelnye-kompyutery/qbic-td-1060-slim/	TD-1060 Slim	"TD-1060 Slim, 10"" сенсорная панель, BT, RCC, черный"	533500.0	453475.0	
+https://ipmatika.kz/products/panelnye-kompyutery/qbic-td-1070/	TD-1070-BH	"TD-1070, 10"" сенсорная панель Full HD, BT, NFC/HID/RFID, RCC, Android11"	1034000.0	878900.0	Под заказ
+https://ipmatika.kz/products/panelnye-kompyutery/qbic-td-1070/	TD-1070-B	"TD-1070, 10"" сенсорная панель Full HD, BT, NFC/RFID, RCC, Android11"	825000.0	701250.0	ОБРАЗЕЦ
+https://ipmatika.kz/products/panelnye-kompyutery/qbic-td-1070-lite/	TD-1070 Lite	"TD-1070L-S, 10"" сенсорная панель Full HD, BT, NFC/RFID, RCC, Android12"	764500.0	649825.0	
+https://ipmatika.kz/products/panelnye-kompyutery/qbic-td-1070-lite/	TD-1070 Lite H	"TD-1070L-SH, 10"" сенсорная панель Full HD, BT, NFC/RFID/HID, RCC, Android12"	946000.0	804100.0	Под заказ
+https://ipmatika.kz/products/box-pc/	Промышленные мини-ПК				
+https://ipmatika.kz/products/box-pc/BXP-100/	BXP-100	BXP-100 - Мини-ПК, HDMI output, 2GB RAM, 32GB storage, micro-SDHC expansion	236500.0	201025.0	
+https://ipmatika.kz/products/box-pc/BXP-320/	BXP-320	BXP-320 - Мини-ПК, HDMI output 4K, 4GB RAM, 32GB storage, micro-SDHC expansion	588500.0	500225.0	Под заказ
+https://ipmatika.kz/products/box-pc/BXP-321/	BXP-321	BXP-321 - Мини-ПК, HDMI input и HDMI output 4K, 4GB RAM, 32GB storage, micro-SDHC expansion	638000.0	542300.0	Под заказ
+https://ipmatika.kz/products/box-pc/qbic-bxt-312/	BXT-312	BXT-312 - Мини-ПК, 2xHDMI-out (8k, 4k), 1xHDMI-in 4k, 8GB RAM, 128GB storage, micro-SDHC			
+https://ipmatika.kz/products/box-pc/qbic_BXT_512/	BXT-512	BXT-512 - Мини-ПК, Core-i3 7100U/8gb/256ssd/VESA/EU Power Code	1314500.0	1117325.0	
+https://ipmatika.kz/products/sistemy-bronirovaniya/	Системы бронирования				
+https://ipmatika.kz/products/doortablet-on-premise/	Door Tablet				
+https://ipmatika.kz/products/doortablet-on-premise/DT-PREC/	DT-PREC	Desk Presence Controller - Лицензия для подключения 1 концентратора AC-210.ex к системе Deskware			Под заказ
+https://ipmatika.kz/products/doortablet-on-premise/DT-PRE/	DT-PRE	DeskWare Presence license - Отображение статуса занятости 1 рабочего стола без бронирования			Под заказ
+https://ipmatika.kz/products/doortablet-on-premise/DT-PRE/	DT-API	Door Tablet API - Лицензия на предоставление доступа к серверу стронних устройств и приложений			Под заказ
+https://ipmatika.kz/products/doortablet-on-premise/DT-EN/	DT-EN	Enterprise Server Licence - Лицензия на серверное ПО для 10 и более переговорных			Под заказ
+https://ipmatika.kz/products/doortablet-on-premise/SUPG/	SUPG	Enterprise Server Upgrade - Лицензия - обновление сервера со Standard Server на Enterprise			Под заказ
+https://ipmatika.kz/products/doortablet-on-premise/DT-DSKO/	DT-DSKO	Hot Desk OEM - Лицензия для использования Qbic TD-0350 в системе DeskWare			Под заказ
+https://ipmatika.kz/products/doortablet-on-premise/DT-RMO/	DT-RMO	OEM Room Licence - Лицензия для подключения 1 ПК Qbic TD-1050/TD-1060 для переговорной			Под заказ
+https://ipmatika.kz/products/doortablet-on-premise/DT-SR/	DT-SR	Standard Server Licence - Лицензия на серверное ПО для 1-9 переговорных			Под заказ
+https://ipmatika.kz/products/doortablet-on-premise/DT-WF/	DT-WF	Wayfinding Interactivity Licence - Лицензия для ПК с Touch-screen дисплеем			Под заказ
+	BXT-512_DT-EN	ПК BXT-512 в комплекте с ПО DoorTablet Enterprise Server Win IoT			Под заказ
+	BXT-512_DT-SR	ПК BXT-512 в комплекте с ПО DoorTablet Standard Server Win IoT			Под заказ
+	UtiClock_	"Программное обеспечение ""Система бронирования переговорных комнат Utinet UtiClock""__"			
+https://ipmatika.kz/products/qbic-lanneck/	Lanneck				
+https://ipmatika.kz/products/qbic-lanneck/TD-1050PRO-B_Lanneck/	TD-1050PRO-B_Lanneck	TD-1050PRO-B в комплекте с ПО LanneckRoomBooking	898150.0	763427.5	
+https://ipmatika.kz/products/qbic-lanneck/TD-1060-Slim-B-Lanneck/	TD-1060 Slim_B_Lanneck	TD-1060 Slim чёрный в комплекте с ПО LanneckRoomBooking	720500.0	612425.0	
+https://ipmatika.kz/products/qbic-lanneck/TD-1070_Lanneck/	TD-1070_Lanneck	TD-1070 в комплекте с ПО LanneckRoomBooking	1053250.0	895262.5	
+	T-Mate				
+	TD-1060 Slim_T-Mate	TD-1060 Slim чёрный в комплекте с ПО T-Mate			
+	TD-1070-L_T-Mate	TD-1070 Lite в комплекте с ПО T-Mate			
+	TD-1070_T-Mate	TD-1070 в комплекте с ПО T-Mate			
+https://ipmatika.kz/products/aksessuary-dlya-panelnykh-kompyuterov/	Аксессуары		0.0	0.0	
+https://ipmatika.kz/products/aksessuary-dlya-panelnykh-kompyuterov/qbic-ac-112/	AC-112B	Qbic AC-112, Подставка для TD-1050 PRO/TD-1060 Slim, черный	85250.0	72462.5	
+https://ipmatika.kz/products/aksessuary-dlya-panelnykh-kompyuterov/qbic-ac-112W/	AC-112W	Qbic AC-112W, Подставка для TD-1050 PRO/TD-1060 Slim/TD-1070, серебристая	85250.0	72462.5	
+https://ipmatika.kz/products/aksessuary-dlya-panelnykh-kompyuterov/ac-120/	AC-120	Qbic AC-120, Врезное крепление для скрытой установки TD-1050 PRO	412500.0	350625.0	EOL
+https://ipmatika.kz/products/aksessuary-dlya-panelnykh-kompyuterov/ac-121/	AC-121	Qbic AC-121, Врезное крепление для скрытой установки TD-1070	326700.0	277695.0	Под заказ
+https://ipmatika.kz/products/aksessuary-dlya-panelnykh-kompyuterov/ac-210.ex/	AC-210.Ex	Qbic AC-210.Ex, хаб RS-232 для подключения 10 сенсоров/индикаторов занятости	167750.0	142587.5	Под заказ
+https://ipmatika.kz/products/aksessuary-dlya-panelnykh-kompyuterov/as-211/	AC-211	Qbic AC-211, Датчик занятости помещения	118250.0	100512.5	
+https://ipmatika.kz/products/aksessuary-dlya-panelnykh-kompyuterov/Qbic_AC_212/	AC-212	Qbic AC-212, Индикаторная лампа светодиодная	134750.0	114537.5	Под заказ
+https://ipmatika.kz/products/aksessuary-dlya-panelnykh-kompyuterov/ac-500/	AC-500	Qbic AC-500, Модуль GPIO реле/сухие контакты для TD-1050/TD-1060/TD-0350 в защитном корпусе			
+https://ipmatika.kz/products/aksessuary-dlya-panelnykh-kompyuterov/qbic-ac-610/	AC-610	Qbic AC-610, Датчик занятости рабочего места для TD-0350	90750.0	77137.5	
+https://ipmatika.kz/products/aksessuary-dlya-panelnykh-kompyuterov/qbic-ac-620/	AC-620	Qbic AC-620, POE-адаптер для TD-0350, RJ45, USBx2	90750.0	77137.5	
+https://ipmatika.kz/products/aksessuary-dlya-panelnykh-kompyuterov/qbic-cb-110/	CB-110	Qbic CB-110, Кабель USB на micro USB L-типа, 3 м для TD-0350	13200.0	11220.0	
+https://ipmatika.kz/products/aksessuary-dlya-panelnykh-kompyuterov/ms-1070/	MS-1070	Qbic MS-1070, настольная подставка TD-1070 с органайзером проводов	99000.0	84150.0	NEW
+https://ipmatika.kz/products/aksessuary-dlya-panelnykh-kompyuterov/ms-2000/	MS-2000	Qbic MS-2000, монтажное крепление/органайзер для установки TD-1060/TD-1070 на стекло/керамику	181500.0	154275.0	Под заказ
+	AT-102/AC-00Q	Адаптер питания USB 5В, 2А для TD-0350			
+https://ipmatika.kz/products/aksessuary-dlya-panelnykh-kompyuterov/AT-105_AC-00M/	AT-105/AC-00M	Адаптер питания импульсный 12В,1,5А для TD-1050 PRO, TD-1060 Slim	13770.0	11704.5	Под заказ
+	BDG-100	BDG-100 - Адаптер BLE для подключения E-ink дисплеев	74250.0	63112.5	Под заказ

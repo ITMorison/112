@@ -1,0 +1,57 @@
+URL	Артикул	Описание	KZ РРЦ	Цена Сайт 	Status
+https://ipmatika.kz/products/garnitury-vt/	Гарнитуры VT				
+https://ipmatika.kz/products/besprovodnye/	Беспроводные гарнитуры				
+https://ipmatika.kz/products/bluetooth/	Беспроводные гарнитуры Bluetooth				
+https://ipmatika.kz/products/bluetooth/vt_flow/	VT FLOW	VT FLOW, Дуо, Hi-Fi звук, 30м Bluetooth, индикатор занятости, ANC, складная, чехол, Dongle	133100.0	123783.0	
+https://ipmatika.kz/products/bluetooth/VT9200-D/	VT9200-D	VT9200-D, Дуо, HD звук, 30м Bluetooth, USB Type-C Dongle	52800.0	49104.0	
+https://ipmatika.kz/products/bluetooth/VT9200/	VT9200	VT9200, Моно, HD звук, 30м Bluetooth, USB Type-C Dongle	46750.0	43477.5	
+https://ipmatika.kz/products/bluetooth/VT9200_Without/	VT9200_Without	VT9200, Моно, HD звук, 30м Bluetooth, USB Type-C без донгла	35750.0	33247.5	
+https://ipmatika.kz/products/bluetooth/VT-VT9500-D/	VT9500-D	VT9500-D, Дуо, HD звук, 10м Bluetooth	33300.0	30969.0	
+https://ipmatika.kz/products/bluetooth/VT9605-D/	VT9605-D	VT9605-D, Дуо, Hi-Fi звук, 30м Bluetooth, индикатор занятости, в комплекте с USB-BT адаптером	53020.0	49308.600000000006	
+https://ipmatika.kz/products/bluetooth/VT-X300BT-D/	X300BT-D	X300BT-D, Дуо, Hi-Fi звук, 30м Bluetooth, индикатор занятости, в комплекте с USB-BT адаптером	114400.0	106392.0	
+https://ipmatika.kz/products/dect-/	Беспроводные гарнитуры DECT				
+https://ipmatika.kz/products/dect-/W310U-D/	W310U-D	VT W310U-D, Дуо, HD звук, 150м DECT, USB-dogle type-C, чехол	129250.0	120202.5	
+https://ipmatika.kz/products/dect-/W310U/	W310U	VT W310U, Моно, HD звук, 150м DECT, USB-dogle type-C, чехол	119900.0	111507.0	
+https://ipmatika.kz/products/dect-/VT-VT9000_LFT/	VT9000_LFT	VT9000 в комплекте с микролифтом, Моно, HD звук, 150м DECT, для телефона	124140.0	115450.20000000001	
+https://ipmatika.kz/products/dect-/VT-VT9000-D_LFT/	VT9000-D_LFT	VT9000-D в комплекте с микролифтом, Дуо, HD звук, 150м DECT, для телефона	130290.0	121169.70000000001	
+https://ipmatika.kz/products/dect-/VT-VT9000-D/	VT9000-D	VT9000-D, Дуо, HD звук, 150м DECT, для телефона	112000.0	104160.0	
+https://ipmatika.kz/products/dect-/VT-VT9000/	VT9000	VT9000, Моно, HD звук, 150м DECT, для телефона	58740.0	54628.200000000004	
+https://ipmatika.kz/products/dect-/VT-VT9400-D/	VT9400-D	VT9400-D, Дуо, HD звук, 150м DECT, для компьютера и телефона	118000.0	109740.0	
+https://ipmatika.kz/products/dect-/VT-VT9400/	VT9400	VT9400, Моно, HD звук, 150м DECT, для компьютера и телефона	67060.0	62365.8	
+https://ipmatika.kz/products/usb-videokamery-i-byod-resheniya/	Веб-камеры				
+https://ipmatika.kz/products/usb-videokamery-i-byod-resheniya/vt-webcam-v100/	V100	VT V100 USB веб-камера Full HD	38500.0	35805.0	
+https://ipmatika.kz/products/garnitury-zashchishchyennye/	Гарнитуры защищённые для склада				
+https://ipmatika.kz/products/garnitury-zashchishchyennye/vt-w300/	W300	W300 защищенная, моно, 30м Bluetooth, от -20 до +50 град, 2 аккумулятора	207460.0	192937.80000000002	
+https://ipmatika.kz/products/provodnye/	Проводные гарнитуры				
+https://ipmatika.kz/products/provodnye/VT-VT1000-RJ9%2803%29/	VT1000 RJ9(03)	VT1000 RJ9(03), Моно, Узкополосный звук, SE, усовершенствованный микрофон	10000.0	9300.0	
+https://ipmatika.kz/products/archive/provodnye/VT-VT1000-USB/	VT1000 USB old	VT1000 USB, Моно, Узкополосный звук, SE, усовершенствованный	11440.0	10639.2	
+https://ipmatika.kz/products/provodnye/VT-VT1000-D-RJ9%2803%29/	VT1000-D RJ9(03)	VT1000-D RJ9(03), Дуо, Узкополосный звук SE, усовершенствованный микрофон	11610.0	10797.300000000001	
+https://ipmatika.kz/products/provodnye/VT-VT1000-D-USB/	VT1000-D USB	VT1000-D USB, Дуо, Узкополосный звук SE, усовершенствованный микрофон	19950.0	18553.5	
+https://ipmatika.kz/products/provodnye/VT-VT5000-QD%28P%29-RJ9%2803%29/	VT5000 QD(P)-RJ9(03)	VT5000 QD(P)-RJ9(03), Моно, Узкополосный звук, QD, переходник QD-RJ09(03)	15770.0	14666.1	
+https://ipmatika.kz/products/provodnye/VT5000_USB/	VT5000 USB	VT5000 USB, Моно, HD звук	17890.0	16637.7	
+https://ipmatika.kz/products/provodnye/VT-VT5000-D-QD%28P%29-RJ9%2803%29/	VT5000-D QD(P)-RJ9(03)	VT5000-D QD(P)-RJ9(03), Дуо, Узкополосный звук, QD, переходник QD-RJ09(03)	19500.0	18135.0	
+https://ipmatika.kz/products/provodnye/VT5000-D_USB/	VT5000-D USB	VT5000-D USB, Дуо, HD звук	19930.0	18534.9	
+https://ipmatika.kz/products/provodnye/VT-VT6200-QD%28P%29-RJ9%2803%29/	VT6200 QD(P)-RJ9(03)	VT6200 QD(P)-RJ9(03), Моно, HD звук, QD, переходник QD-RJ09(03)	19570.0	18200.100000000002	
+https://ipmatika.kz/products/provodnye/VT-VT6200-USB/	VT6200 USB	VT6200 USB, Моно, HD звук	22370.0	20804.100000000002	
+https://ipmatika.kz/products/provodnye/VT-VT6200-D-QD%28P%29-RJ9%2803%29/	VT6200-D QD(P)-RJ9(03)	VT6200-D QD(P)-RJ9(03), Дуо, HD звук, QD, переходник QD-RJ09(03)	22370.0	20804.100000000002	
+https://ipmatika.kz/products/provodnye/VT-VT6200-D-USB/	VT6200-D USB	VT6200-D USB, Дуо, HD звук	24440.0	22729.2	
+https://ipmatika.kz/products/provodnye/VT6300/	VT6300 USB	VT6300 USB, Моно, HD звук, микрофон с шумоподавлением	27400.0	25482.0	
+https://ipmatika.kz/products/provodnye/VT6300-D/	VT6300-D USB	VT6300-D USB, Дуо, HD звук, микрофон с шумоподавлением	26850.0	24970.5	
+https://ipmatika.kz/products/provodnye/vt_x140/	X140 USB	X140 USB, Моно, HD звук, индикаторы занятости 2 микрофона, USB	36910.0	34326.3	
+https://ipmatika.kz/products/provodnye/vt_x140_d/	X140-D USB	X140-D USB, Дуо, HD звук, индикаторы занятости 2 микрофона, USB	44740.0	41608.200000000004	
+https://ipmatika.kz/products/provodnye/X208-D/	X208-D	X208-D, Дуо, HD звук, разъемы 3,5 мм Jack и USB	42350.0	39385.5	
+https://ipmatika.kz/products/provodnye/X208/	X208	X208, Моно, HD звук, разъемы 3,5 мм Jack и USB	36300.0	33759.0	
+https://ipmatika.kz/products/spikerfony/	Спикерфоны VT				
+https://ipmatika.kz/products/spikerfony/VT-CS61/	CS61ENC-A	CS61ENC-A USB/Bluetooth в комплекте с BT-dongle, переходником USB-TypeA-USB-TypeC	92000.0	85560.0	
+https://ipmatika.kz/products/aksessuary/	Аксессуары для гарнитур				
+https://ipmatika.kz/products/aksessuary/SmartCord/	QD-SmartCord	QD-SmartCord - универсальный переходник для подключения гарнитур VT к разным телефонам	8800.0	8184.0	
+https://ipmatika.kz/products/aksessuary/VT-QD%28P%29-3.5-mm-%2801%29/	QD(P) - 3.5 mm (01)	QD(P) - 3.5 mm (01), для VoIP и аналоговых телефонов и смартфонов	3760.0	3496.8	
+https://ipmatika.kz/products/aksessuary/VT-QD%28P%29-USB-%2801%29/	QD(P) - USB (01)	QD(P) - USB (01), для софтфона и Skype	9350.0	8695.5	
+https://ipmatika.kz/products/aksessuary/VT-QD%28P%29-2QD%28P%29%2802%29/	QD(P)-2QD(P)(02)	QD(P)-2QD(P)(02)	8250.0	7672.5	
+https://ipmatika.kz/products/aksessuary/VT-QD%28P%29-HIS/	QD(P)-HIS	QD(P)-HIS, для телефонов Avaya 16xx, 96xx	8250.0	7672.5	
+https://ipmatika.kz/products/aksessuary/VT-QD%28P%29-RJ09%2801%29/	QD(P)-RJ9(01)	QD(P)-RJ9(01), для аналоговых и Avaya, Polycom, Mitel, Astra,Fanvil,Digium,Ecense,Nec,Sangoma,Alcate	3760.0	3496.8	
+https://ipmatika.kz/products/aksessuary/VT-QD%28P%29-RJ9%2802%29/	QD(P)-RJ9(02)	QD(P)-RJ9(02), для CISCO	3760.0	3496.8	
+https://ipmatika.kz/products/aksessuary/VT-QD%28P%29-RJ09%2803%29/	QD(P)-RJ9(03)	QD(P)-RJ9(03), для Yealink, Grandstream, Huawei ,Htek, Xorcom, Siemens, Snom	3760.0	3496.8	
+https://ipmatika.kz/products/aksessuary/VT-LeatherCushion/	VT-LeatherCushion	Запасной амбушюр для гарнитур VT5000/6200/9000/9300/9500, экокожа, ⌀5 см	1540.0	1432.2	
+https://ipmatika.kz/products/aksessuary/LeatherCusionX140/	VT-LeatherCusionX140	Запасной амбушюр для гарнитур X140, экокожа, ⌀5 см	1680.0	1562.4	
+https://ipmatika.kz/products/aksessuary/VT-Lifter/	VT-Lifter	Микролифт механический для DECT гарнитур VT9000/VT9400	45650.0	42454.5	
