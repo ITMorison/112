@@ -495,7 +495,7 @@ export const MEGA_MENU_DATA = [
   },
   {
     id: 4,
-    title: "IP-телефоны",
+    title: "IP-телефония",
     slug: "ip-telefony",
     subcategories: [
       { slug: "nastolnye-telefony", name: "Настольные телефоны" },
