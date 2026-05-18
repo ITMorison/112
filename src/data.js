@@ -69,7 +69,7 @@ export const HEADER_CATEGORIES = [
     slug: "pozharnaya-signalizaciya",
     image: "/pozharnaya-signalizaciya.jpg",
     subcategories: [
-      { slug: "priemno-kontolnye-pribory", name: "Премо-контрольные приборы" },
+      { slug: "priemno-kontolnye-pribory", name: "Приемо-контрольные приборы" },
       { slug: "izveshchateli-pozharnyе", name: "Извещатели пожарные" },
       { slug: "izveshchateli-ohrannye", name: "Извещатели охранные" },
       { slug: "opoveschateli-sveto-zvukovye", name: "Оповещатели свето-звуковые" }
@@ -220,7 +220,7 @@ const categoryMap = {
   "IP АТС и шлюзы": { category: "ip-telefony", subcategory: "mini-ats" },
   
   // Fire Alarm
-  "Премо-контрольные приборы": { category: "pozharnaya-signalizaciya", subcategory: "priemno-kontolnye-pribory" },
+  "Приемо-контрольные приборы": { category: "pozharnaya-signalizaciya", subcategory: "priemno-kontolnye-pribory" },
   "Извещатели пожарные": { category: "pozharnaya-signalizaciya", subcategory: "izveshchateli-pozharnyе" },
   "Извещатели охранные": { category: "pozharnaya-signalizaciya", subcategory: "izveshchateli-ohrannye" },
   "Оповещатели свето-звуковые": { category: "pozharnaya-signalizaciya", subcategory: "opoveschateli-sveto-zvukovye" },
@@ -514,7 +514,7 @@ export const MEGA_MENU_DATA = [
     title: "Пожарная сигнализация",
     slug: "pozharnaya-signalizaciya",
     subcategories: [
-      { slug: "priemno-kontolnye-pribory", name: "Премо-контрольные приборы" },
+      { slug: "priemno-kontolnye-pribory", name: "Приемо-контрольные приборы" },
       { slug: "izveshchateli-pozharnyе", name: "Извещатели пожарные" },
       { slug: "izveshchateli-ohrannye", name: "Извещатели охранные" },
       { slug: "opoveschateli-sveto-zvukovye", name: "Оповещатели свето-звуковые" }
