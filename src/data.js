@@ -11,135 +11,168 @@ export const CONTACT_INFO = {
 export const HEADER_CATEGORIES = [
   { 
     id: 1, 
-    title: "Компьютеры и комплектующие", 
-    slug: "kompyutery-i-komplektuyushchie",
-    image: "/kompyutery-i-komplektuyushchie.jpg",
+    title: "Видеонаблюдение", 
+    slug: "videonablyudenie",
+    image: "/videonablyudenie.jpg",
     subcategories: [
-      { slug: "sistemnye-bloki", name: "Системные блоки" },
-      { slug: "noutbuki-i-aksessuary", name: "Ноутбуки и аксессуары" },
-      { slug: "monobloki", name: "Моноблоки" },
-      { slug: "komplektuyushchie-dlya-pk", name: "Комплектующие для ПК" },
-      { slug: "programmnoe-obespechenie", name: "Программное обеспечение" },
-      { slug: "monitory-i-aksessuary", name: "Мониторы и аксессуары" },
-      { slug: "ustroystva-vvoda-i-aksessuary", name: "Устройства ввода и аксессуары" },
-      { slug: "igrovye-kresla", name: "Игровые кресла" },
-      { slug: "igrovye-stoly", name: "Игровые столы" }
+      { slug: "analogovye-videokamery", name: "Аналоговые видеокамеры" },
+      { slug: "ip-videokamery", name: "IP видеокамеры" },
+      { slug: "gibridnye-videoregistratory", name: "Гибридные видеорегистраторы" },
+      { slug: "ip-videoregistratory", name: "IP видеорегистраторы" }
     ]
   },
   { 
     id: 2, 
-    title: "Сетевое и серверное оборудование, СХД", 
-    slug: "setevoe-i-servernoe-oborudovanie",
-    image: "/setevoe-i-servernoe-oborudovanie.jpg",
+    title: "Домофония", 
+    slug: "domofoniya",
+    image: "/domofoniya.jpg",
     subcategories: [
-      { slug: "servery", name: "Cерверы" },
-      { slug: "sistemy-hraneniya-dannyh", name: "Системы хранения данных и комплектующие" },
-      { slug: "virtualizaciya-i-oblachnoe-hranenie", name: "Виртуализация и облачное хранение" },
-      { slug: "aktivnoe-setevoe", name: "Активное сетевое" },
-      { slug: "telekommunikacionnye-shkafy", name: "Телекоммуникационные и металлические шкафы" }
+      { slug: "komplekty", name: "Комплекты" },
+      { slug: "vyzyvnye-paneli", name: "Вызывные панели" },
+      { slug: "monitory", name: "Мониторы" },
+      { slug: "zamki-i-dovodnye", name: "Замки и доводчики" },
+      { slug: "klavishi-i-perekhody", name: "Клавиши и переходы" }
     ]
   },
   { 
     id: 3, 
-    title: "Кабельные системы", 
-    slug: "kabelnye-sistemy",
-    image: "/kabelnye-sistemy.jpg",
+    title: "Системы контроля доступа", 
+    slug: "sistemy-kontrolya-dostupa",
+    image: "/sistemy-kontrolya-dostupa.jpg",
     subcategories: [
-      { 
-        slug: "passivnoe-setevoe", 
-        name: "Пассивное сетевое",
-        subcategories: [
-          { slug: "kabeli-vitaya-para", name: "Кабели витая пара" },
-          { slug: "setevye-patch-kordy", name: "Сетевые патч корды" },
-          { slug: "konnektory", name: "Коннекторы" },
-          { slug: "kolpachki-buty", name: "Колпачки (буты)" },
-          { slug: "soedinitelnye-paneli-i-mufty", name: "Соединительные панели и муфты" }
-        ]
-      },
-      { 
-        slug: "komponenty-dlya-optovolokonnoj-seti", 
-        name: "Компоненты для оптоволоконной сети",
-        subcategories: [
-          { slug: "kabeli-opticheskie", name: "Кабели оптические" },
-          { slug: "mufty-opticheskie", name: "Муфты оптические" },
-          { slug: "opticheskie-krossy", name: "Оптические кроссы" },
-          { slug: "opticheskie-shnury", name: "Оптические шнуры" },
-          { slug: "opticheskie-boksy", name: "Оптические боксы" },
-          { slug: "materialy-dlya-vols", name: "Материалы для ВОЛС" }
-        ]
-      }
+      { slug: "kontrollery", name: "Контроллеры" },
+      { slug: "schityvateli", name: "Считыватели" },
+      { slug: "turnikety", name: "Турникеты" },
+      { slug: "shlagbaummy", name: "Шлагбаумы" }
     ]
   },
   { 
     id: 4, 
-    title: "Системы безопасности", 
-    slug: "sistemy-bezopasnosti",
-    image: "/sistemy-bezopasnosti.jpg",
-    subcategories: [
-      { slug: "sistemy-videonablyudeniya", name: "Системы видеонаблюдения" },
-      { slug: "ohrannye-i-pozharnye-sistemy", name: "Охранные и пожарные системы" },
-      { slug: "sistemy-kontrolya-dostupa", name: "Системы контроля доступа" }
-    ]
-  },
-  { 
-    id: 5, 
-    title: "Коммерческая визуализация", 
-    slug: "kommercheskaya-vizualizaciya",
-    image: "/kommercheskaya-vizualizaciya.jpg",
-    subcategories: [
-      { slug: "interaktivnye-paneli", name: "Интерактивные панели" },
-      { slug: "professionalnye-paneli", name: "Профессиональные панели" },
-      { slug: "paneli-dlya-videosten", name: "Панели для видеостен" },
-      { slug: "interaktivnye-monitory", name: "Интерактивные мониторы" },
-      { slug: "aksessuary-vizualizaciya", name: "Аксессуары" },
-      { slug: "upravlenie-signalom", name: "Управление сигналом" },
-      { slug: "mobilnye-stojki", name: "Мобильные стойки" },
-      { slug: "kronshtejny-dlya-video-sten", name: "Кронштейны для видео стен и профессиональных панелей" },
-      { slug: "led-ekrany", name: "LED Экраны" }
-    ]
-  },
-  { 
-    id: 6, 
-    title: "Демонстрационное оборудование и аксессуары", 
-    slug: "demonstracionnoe-oborudovanie",
-    image: "/demonstracionnoe-oborudovanie.jpg",
-    subcategories: [
-      { slug: "demo-oborudovanie", name: "Демонстрационное оборудование" }
-    ]
-  },
-  { 
-    id: 7, 
-    title: "Офисное оборудование", 
-    slug: "ofisnoe-oborudovanie",
-    image: "/ofisnoe-oborudovanie.jpg",
-    subcategories: [
-      { slug: "ofisnoe-oborudovanie", name: "Офисное оборудование" }
-    ]
-  },
-  { 
-    id: 8, 
     title: "IP-телефоны", 
     slug: "ip-telefony",
     image: "/ip-telefony.jpg",
     subcategories: [
-      { slug: "ip-telefony", name: "IP-телефоны" }
+      { slug: "nastolnye-telefony", name: "Настольные телефоны" },
+      { slug: "besprovodnye-telefony", name: "Беспроводные телефоны" },
+      { slug: "otelnye-telefony", name: "Отельные телефоны" },
+      { slug: "videotelefonы", name: "Видео-телефоны" },
+      { slug: "konferenciya", name: "Конференция" },
+      { slug: "mini-ats", name: "Мини АТС" },
+      { slug: "fxo-shpuli", name: "FXO шпули" },
+      { slug: "fxs-shpuli", name: "FXS шпули" },
+      { slug: "gsm-shpuli", name: "GSM шпули" }
+    ]
+  },
+  { 
+    id: 5, 
+    title: "Пожарная сигнализация", 
+    slug: "pozharnaya-signalizaciya",
+    image: "/pozharnaya-signalizaciya.jpg",
+    subcategories: [
+      { slug: "priemno-kontolnye-pribory", name: "Премо-контрольные приборы" },
+      { slug: "izveshchateli-pozharnyе", name: "Извещатели пожарные" },
+      { slug: "izveshchateli-ohrannye", name: "Извещатели охранные" },
+      { slug: "opoveschateli-sveto-zvukovye", name: "Оповещатели свето-звуковые" }
+    ]
+  },
+  { 
+    id: 6, 
+    title: "Сетевое оборудование", 
+    slug: "setevoe-oborudovanie",
+    image: "/setevoe-oborudovanie.jpg",
+    subcategories: [
+      { slug: "marshrutizatory", name: "Маршрутизаторы" },
+      { slug: "kommutatory-lan", name: "Коммутаторы LAN" },
+      { slug: "kommutatory-poe", name: "Коммутаторы PoE" },
+      { slug: "mediakonvertory", name: "Медиаконвертеры" },
+      { slug: "sfp-moduli", name: "SFP-модули" },
+      { slug: "inzhektory-poe", name: "Инжекторы PoE" }
+    ]
+  },
+  { 
+    id: 7, 
+    title: "Пассивное сетевое", 
+    slug: "passivnoe-setevoe",
+    image: "/passivnoe-setevoe.jpg",
+    subcategories: [
+      { slug: "vitaya-para", name: "Витая пара" },
+      { slug: "patchkordy", name: "Патчкорды" },
+      { slug: "rozetki", name: "Розетки" },
+      { slug: "konnektory", name: "Коннекторы" },
+      { slug: "moduli", name: "Модули" },
+      { slug: "kabelno-provodnaya-produkciya", name: "Кабельно-проводниковая продукция" }
+    ]
+  },
+  { 
+    id: 8, 
+    title: "Источники бесперебойного питания", 
+    slug: "istochniki-besperebojnogo-pitaniya",
+    image: "/istochniki-besperebojnogo-pitaniya.jpg",
+    subcategories: [
+      { slug: "smart-ups", name: "Smart UPS" },
+      { slug: "online-ups", name: "Online UPS" },
+      { slug: "trekhfaznye-ups", name: "Трёхфазные UPS" },
+      { slug: "batareynye-bloki", name: "Батарейные блоки" },
+      { slug: "akkumulyatory-dlya-ibp", name: "Аккумуляторы для ИБП" },
+      { slug: "shkafi-dlya-akkumulyatorov", name: "Шкафы для аккумуляторов" }
     ]
   },
   { 
     id: 9, 
-    title: "Радиооборудование", 
-    slug: "radio-equipment",
-    image: "/radio-equipment.jpg",
+    title: "Серверные шкафы", 
+    slug: "servernye-shkafi",
+    image: "/servernye-shkafi.jpg",
     subcategories: [
-      { slug: "radiostations", name: "Радиостанции" },
-      { slug: "antennas", name: "Антенны" },
-      { slug: "jammers", name: "Подавители связи" },
-      { slug: "masts", name: "Мачты" },
-      { slug: "headsets", name: "Гарнитуры и микрофоны" },
-      { slug: "batteries", name: "Аккумуляторы" },
-      { slug: "chargers", name: "Зарядные устройства" },
-      { slug: "repeaters", name: "Ретрансляторы" },
-      { slug: "duplexers", name: "Дуплексеры" }
+      { slug: "nastolnye-shkafi", name: "Настольные" },
+      { slug: "napolnye-shkafi", name: "Напольные" },
+      { slug: "komplektuyushchie-k-shkafam", name: "Комплектующие к шкафам" },
+      { slug: "klimaticheskie-shkafi", name: "Климатические шкафы" }
+    ]
+  },
+  { 
+    id: 10, 
+    title: "Гарнитура", 
+    slug: "garnitura",
+    image: "/garnitura.jpg",
+    subcategories: [
+      { slug: "provodnaya", name: "Проводная" },
+      { slug: "besprovodnaya", name: "Беспроводная" },
+      { slug: "mesh-sistemy", name: "MESH-системы" }
+    ]
+  },
+  { 
+    id: 11, 
+    title: "WiFi оборудование", 
+    slug: "wifi-oborudovanie",
+    image: "/wifi-oborudovanie.jpg",
+    subcategories: [
+      { slug: "wifi-routery", name: "WiFi роутеры" },
+      { slug: "tochki-dostupa-wifi", name: "Точки доступа WiFi" },
+      { slug: "wifi-mosty", name: "WiFi мосты" },
+      { slug: "mesh-sistemy", name: "MESH-системы" }
+    ]
+  },
+  { 
+    id: 12, 
+    title: "Радиооборудование", 
+    slug: "radiooborudovanie",
+    image: "/radiooborudovanie.jpg",
+    subcategories: [
+      { slug: "radiostancii", name: "Радиостанции" },
+      { slug: "antenny", name: "Антенны" },
+      { slug: "povtoriteli-svyazi", name: "Повторители связи" },
+      { slug: "matchi", name: "Матчи" }
+    ]
+  },
+  { 
+    id: 13, 
+    title: "Оптоволоконная продукция", 
+    slug: "optovolokonaya-produkciya",
+    image: "/optovolokonaya-produkciya.jpg",
+    subcategories: [
+      { slug: "optovolokonnyy-kabel", name: "Оптоволоконный кабель" },
+      { slug: "opticheskie-patch-kordy", name: "Оптические патч корды" },
+      { slug: "adaptry-i-rozetki", name: "Адаптеры и розетки" }
     ]
   }
 ];
@@ -147,187 +180,159 @@ export const HEADER_CATEGORIES = [
 export const CATEGORIES = HEADER_CATEGORIES;
 
 const categoryMap = {
-  // Computers & Components
-  "Системные блоки": { category: "kompyutery-i-komplektuyushchie", subcategory: "sistemnye-bloki" },
-  "Ноутбуки": { category: "kompyutery-i-komplektuyushchie", subcategory: "noutbuki-i-aksessuary" },
-  "Моноблоки": { category: "kompyutery-i-komplektuyushchie", subcategory: "monobloki" },
-  "Мини ПК": { category: "kompyutery-i-komplektuyushchie", subcategory: "komplektuyushchie-dlya-pk" },
-  "Процессоры (CPU)": { category: "kompyutery-i-komplektuyushchie", subcategory: "komplektuyushchie-dlya-pk" },
-  "Материнские платы (MB)": { category: "kompyutery-i-komplektuyushchie", subcategory: "komplektuyushchie-dlya-pk" },
-  "Видеокарты (VGA)": { category: "kompyutery-i-komplektuyushchie", subcategory: "komplektuyushchie-dlya-pk" },
-  "DDR3": { category: "kompyutery-i-komplektuyushchie", subcategory: "komplektuyushchie-dlya-pk" },
-  "DDR4": { category: "kompyutery-i-komplektuyushchie", subcategory: "komplektuyushchie-dlya-pk" },
-  "DDR5": { category: "kompyutery-i-komplektuyushchie", subcategory: "komplektuyushchie-dlya-pk" },
-  "Жёсткие диски (HDD)": { category: "kompyutery-i-komplektuyushchie", subcategory: "komplektuyushchie-dlya-pk" },
-  "Твердотельные накопители (SSD)": { category: "kompyutery-i-komplektuyushchie", subcategory: "komplektuyushchie-dlya-pk" },
-  "Портативные диски": { category: "kompyutery-i-komplektuyushchie", subcategory: "komplektuyushchie-dlya-pk" },
-  "Программное обеспечение": { category: "kompyutery-i-komplektuyushchie", subcategory: "programmnoe-obespechenie" },
-  "Корпуса": { category: "kompyutery-i-komplektuyushchie", subcategory: "komplektuyushchie-dlya-pk" },
-  "Блоки питания": { category: "kompyutery-i-komplektuyushchie", subcategory: "komplektuyushchie-dlya-pk" },
-  "Мониторы": { category: "kompyutery-i-komplektuyushchie", subcategory: "monitory-i-aksessuary" },
-  "Проводные мыши": { category: "kompyutery-i-komplektuyushchie", subcategory: "ustroystva-vvoda-i-aksessuary" },
-  "Беспроводные мыши": { category: "kompyutery-i-komplektuyushchie", subcategory: "ustroystva-vvoda-i-aksessuary" },
-  "Игровые мыши": { category: "kompyutery-i-komplektuyushchie", subcategory: "ustroystva-vvoda-i-aksessuary" },
-  "Проводные клавиатуры": { category: "kompyutery-i-komplektuyushchie", subcategory: "ustroystva-vvoda-i-aksessuary" },
-  "Беспроводные клавиатуры": { category: "kompyutery-i-komplektuyushchie", subcategory: "ustroystva-vvoda-i-aksessuary" },
-  "Игровые клавиатуры": { category: "kompyutery-i-komplektuyushchie", subcategory: "ustroystva-vvoda-i-aksessuary" },
-  "Коврики с тканевой поверхностью": { category: "kompyutery-i-komplektuyushchie", subcategory: "ustroystva-vvoda-i-aksessuary" },
-  "Игровые наушники и гарнитуры": { category: "kompyutery-i-komplektuyushchie", subcategory: "ustroystva-vvoda-i-aksessuary" },
-  "Офисные наушники и гарнитуры": { category: "kompyutery-i-komplektuyushchie", subcategory: "ustroystva-vvoda-i-aksessuary" },
-  "Графические планшеты": { category: "kompyutery-i-komplektuyushchie", subcategory: "ustroystva-vvoda-i-aksessuary" },
-  "Карты флеш памяти": { category: "kompyutery-i-komplektuyushchie", subcategory: "komplektuyushchie-dlya-pk" },
+  // Video Surveillance
+  "Аналоговые видеокамеры": { category: "videonablyudenie", subcategory: "analogovye-videokamery" },
+  "IP видеокамеры": { category: "videonablyudenie", subcategory: "ip-videokamery" },
+  "Гибридные видеорегистраторы": { category: "videonablyudenie", subcategory: "gibridnye-videoregistratory" },
+  "IP видеорегистраторы": { category: "videonablyudenie", subcategory: "ip-videoregistratory" },
+  "2 мегапиксельные IP видеокамеры": { category: "videonablyudenie", subcategory: "ip-videokamery" },
+  "4 мегапиксельные IP видеокамеры": { category: "videonablyudenie", subcategory: "ip-videokamery" },
+  "5 мегапиксельные IP видеокамеры": { category: "videonablyudenie", subcategory: "ip-videokamery" },
+  "8 мегапиксельные IP видеокамеры": { category: "videonablyudenie", subcategory: "ip-videokamery" },
+  "4 канальные видеорегистраторы": { category: "videonablyudenie", subcategory: "ip-videoregistratory" },
+  "8 канальные видеорегистраторы": { category: "videonablyudenie", subcategory: "ip-videoregistratory" },
+  "16 канальные видеорегистраторы": { category: "videonablyudenie", subcategory: "ip-videoregistratory" },
+  "32 канальные видеорегистраторы": { category: "videonablyudenie", subcategory: "ip-videoregistratory" },
   
-  // Network & Server Equipment
-  "Серверы": { category: "setevoe-i-servernoe-oborudovanie", subcategory: "servery" },
-  "Серверные платформы": { category: "setevoe-i-servernoe-oborudovanie", subcategory: "servery" },
-  "Системы хранения данных": { category: "setevoe-i-servernoe-oborudovanie", subcategory: "sistemy-hraneniya-dannyh" },
-  "HDD и SSD": { category: "setevoe-i-servernoe-oborudovanie", subcategory: "sistemy-hraneniya-dannyh" },
-  "Intel": { category: "setevoe-i-servernoe-oborudovanie", subcategory: "sistemy-hraneniya-dannyh" },
-  "AMD": { category: "setevoe-i-servernoe-oborudovanie", subcategory: "sistemy-hraneniya-dannyh" },
-  "ECC UDIMM": { category: "setevoe-i-servernoe-oborudovanie", subcategory: "sistemy-hraneniya-dannyh" },
-  "2.5\" (SFF)": { category: "setevoe-i-servernoe-oborudovanie", subcategory: "sistemy-hraneniya-dannyh" },
-  "M.2": { category: "setevoe-i-servernoe-oborudovanie", subcategory: "sistemy-hraneniya-dannyh" },
-  "SAS": { category: "setevoe-i-servernoe-oborudovanie", subcategory: "sistemy-hraneniya-dannyh" },
-  "Линейно-интерактивные": { category: "setevoe-i-servernoe-oborudovanie", subcategory: "aktivnoe-setevoe" },
-  "Напольные": { category: "setevoe-i-servernoe-oborudovanie", subcategory: "aktivnoe-setevoe" },
-  "Стоечные 19\"": { category: "setevoe-i-servernoe-oborudovanie", subcategory: "telekommunikacionnye-shkafy" },
-  "Однофазные": { category: "setevoe-i-servernoe-oborudovanie", subcategory: "aktivnoe-setevoe" },
-  "Трёхфазные": { category: "setevoe-i-servernoe-oborudovanie", subcategory: "aktivnoe-setevoe" },
-  "Модульные": { category: "setevoe-i-servernoe-oborudovanie", subcategory: "aktivnoe-setevoe" },
-  "Батарейные блоки": { category: "setevoe-i-servernoe-oborudovanie", subcategory: "aktivnoe-setevoe" },
-  "Неуправляемые SOHO": { category: "setevoe-i-servernoe-oborudovanie", subcategory: "aktivnoe-setevoe" },
-  "Управляемые SOHO": { category: "setevoe-i-servernoe-oborudovanie", subcategory: "aktivnoe-setevoe" },
-  "Неуправляемые стоечные": { category: "setevoe-i-servernoe-oborudovanie", subcategory: "aktivnoe-setevoe" },
-  "Управляемые стоечные": { category: "setevoe-i-servernoe-oborudovanie", subcategory: "aktivnoe-setevoe" },
-  "Неуправляемые SOHO PoE": { category: "setevoe-i-servernoe-oborudovanie", subcategory: "aktivnoe-setevoe" },
-  "Управляемые SOHO PoE": { category: "setevoe-i-servernoe-oborudovanie", subcategory: "aktivnoe-setevoe" },
-  "Неуправляемые стоечные PoE": { category: "setevoe-i-servernoe-oborudovanie", subcategory: "aktivnoe-setevoe" },
-  "Управляемые стоечные PoE": { category: "setevoe-i-servernoe-oborudovanie", subcategory: "aktivnoe-setevoe" },
-  "SOHO маршрутизаторы": { category: "setevoe-i-servernoe-oborudovanie", subcategory: "aktivnoe-setevoe" },
-  "Корпоративные маршрутизаторы": { category: "setevoe-i-servernoe-oborudovanie", subcategory: "aktivnoe-setevoe" },
-  "GSM LTE Модемы Роутеры": { category: "setevoe-i-servernoe-oborudovanie", subcategory: "aktivnoe-setevoe" },
-  "Mesh системы": { category: "setevoe-i-servernoe-oborudovanie", subcategory: "aktivnoe-setevoe" },
-  "Корпоративный Wi-Fi": { category: "setevoe-i-servernoe-oborudovanie", subcategory: "aktivnoe-setevoe" },
-  "Wi-Fi радио мосты": { category: "setevoe-i-servernoe-oborudovanie", subcategory: "aktivnoe-setevoe" },
-  "Репитеры/усилители Wi-Fi": { category: "setevoe-i-servernoe-oborudovanie", subcategory: "aktivnoe-setevoe" },
+  // Intercom
+  "Комплекты": { category: "domofoniya", subcategory: "komplekty" },
+  "Вызывные панели": { category: "domofoniya", subcategory: "vyzyvnye-paneli" },
+  "Мониторы": { category: "domofoniya", subcategory: "monitory" },
+  "Замки и доводчики": { category: "domofoniya", subcategory: "zamki-i-dovodnye" },
+  "Клавиши и переходы": { category: "domofoniya", subcategory: "klavishi-i-perekhody" },
+  
+  // Access Control
+  "Контроллеры": { category: "sistemy-kontrolya-dostupa", subcategory: "kontrollery" },
+  "Считыватели": { category: "sistemy-kontrolya-dostupa", subcategory: "schityvateli" },
+  "Турникеты": { category: "sistemy-kontrolya-dostupa", subcategory: "turnikety" },
+  "Шлагбаумы": { category: "sistemy-kontrolya-dostupa", subcategory: "shlagbaummy" },
   
   // IP Phones
-  "IP Телефоны": { category: "ip-telefony", subcategory: "ip-telefony" },
-  "IP АТС и шлюзы": { category: "ip-telefony", subcategory: "ip-telefony" },
+  "Настольные телефоны": { category: "ip-telefony", subcategory: "nastolnye-telefony" },
+  "Беспроводные телефоны": { category: "ip-telefony", subcategory: "besprovodnye-telefony" },
+  "Отельные телефоны": { category: "ip-telefony", subcategory: "otelnye-telefony" },
+  "Видео-телефоны": { category: "ip-telefony", subcategory: "videotelefonы" },
+  "Конференция": { category: "ip-telefony", subcategory: "konferenciya" },
+  "Мини АТС": { category: "ip-telefony", subcategory: "mini-ats" },
+  "FXO шпули": { category: "ip-telefony", subcategory: "fxo-shpuli" },
+  "FXS шпули": { category: "ip-telefony", subcategory: "fxs-shpuli" },
+  "GSM шпули": { category: "ip-telefony", subcategory: "gsm-shpuli" },
+  "IP Телефоны": { category: "ip-telefony", subcategory: "nastolnye-telefony" },
+  "IP АТС и шлюзы": { category: "ip-telefony", subcategory: "mini-ats" },
   
-  // Cable Systems
-  "Кабели витая пара": { category: "kabelnye-sistemy", subcategory: "passivnoe-setevoe" },
-  "Сетевые патч корды": { category: "kabelnye-sistemy", subcategory: "passivnoe-setevoe" },
-  "Коннекторы": { category: "kabelnye-sistemy", subcategory: "passivnoe-setevoe" },
-  "Колпачки (буты)": { category: "kabelnye-sistemy", subcategory: "passivnoe-setevoe" },
-  "Модули": { category: "kabelnye-sistemy", subcategory: "passivnoe-setevoe" },
-  "Розетки настенные": { category: "kabelnye-sistemy", subcategory: "passivnoe-setevoe" },
-  "Лицевые панели": { category: "kabelnye-sistemy", subcategory: "passivnoe-setevoe" },
-  "Соединительные панели и муфты": { category: "kabelnye-sistemy", subcategory: "passivnoe-setevoe" },
-  "Шкафы напольные, серверные": { category: "kabelnye-sistemy", subcategory: "telekommunikacionnye-shkafy" },
-  "Шкафы навесные, настенные": { category: "kabelnye-sistemy", subcategory: "telekommunikacionnye-shkafy" },
-  "Аксессуары для шкафов и стоек": { category: "kabelnye-sistemy", subcategory: "telekommunikacionnye-shkafy" },
-  "Кабельно-проводниковая продукция": { category: "kabelnye-sistemy", subcategory: "passivnoe-setevoe" },
-  "Силовой кабель и провод": { category: "kabelnye-sistemy", subcategory: "passivnoe-setevoe" },
-  "Оптические модули 1G SFP": { category: "kabelnye-sistemy", subcategory: "komponenty-dlya-optovolokonnoj-seti" },
-  "Оптические модули 10G SFP+": { category: "kabelnye-sistemy", subcategory: "komponenty-dlya-optovolokonnoj-seti" },
-  "Оптические модули 25G SFP28": { category: "kabelnye-sistemy", subcategory: "komponenty-dlya-optovolokonnoj-seti" },
-  "Оптические модули 40G QSFP+": { category: "kabelnye-sistemy", subcategory: "komponenty-dlya-optovolokonnoj-seti" },
-  "Оптические модули 100G QSFP28": { category: "kabelnye-sistemy", subcategory: "komponenty-dlya-optovolokonnoj-seti" },
-  "Медиаконвертеры": { category: "kabelnye-sistemy", subcategory: "komponenty-dlya-optovolokonnoj-seti" },
-  "Оптические муфты": { category: "kabelnye-sistemy", subcategory: "komponenty-dlya-optovolokonnoj-seti" },
-  "Оптические полки и кроссы": { category: "kabelnye-sistemy", subcategory: "komponenty-dlya-optovolokonnoj-seti" },
-  "Оптоволоконные патч корды": { category: "kabelnye-sistemy", subcategory: "komponenty-dlya-optovolokonnoj-seti" },
-  "Оптоволоконные адаптеры и розетки": { category: "kabelnye-sistemy", subcategory: "komponenty-dlya-optovolokonnoj-seti" },
-  "Оптоволоконные сплиттеры": { category: "kabelnye-sistemy", subcategory: "komponenty-dlya-optovolokonnoj-seti" },
-  "Оборудование xPON": { category: "kabelnye-sistemy", subcategory: "komponenty-dlya-optovolokonnoj-seti" },
+  // Fire Alarm
+  "Премо-контрольные приборы": { category: "pozharnaya-signalizaciya", subcategory: "priemno-kontolnye-pribory" },
+  "Извещатели пожарные": { category: "pozharnaya-signalizaciya", subcategory: "izveshchateli-pozharnyе" },
+  "Извещатели охранные": { category: "pozharnaya-signalizaciya", subcategory: "izveshchateli-ohrannye" },
+  "Оповещатели свето-звуковые": { category: "pozharnaya-signalizaciya", subcategory: "opoveschateli-sveto-zvukovye" },
+  "GSM сигнализаторы": { category: "pozharnaya-signalizaciya", subcategory: "izveshchateli-ohrannye" },
+  "Приемно-контрольные приборы": { category: "pozharnaya-signalizaciya", subcategory: "priemno-kontolnye-pribory" },
   
-  // Security Systems
-  "2 мегапиксельные IP видеокамеры": { category: "sistemy-bezopasnosti", subcategory: "sistemy-videonablyudeniya" },
-  "4 мегапиксельные IP видеокамеры": { category: "sistemy-bezopasnosti", subcategory: "sistemy-videonablyudeniya" },
-  "5 мегапиксельные IP видеокамеры": { category: "sistemy-bezopasnosti", subcategory: "sistemy-videonablyudeniya" },
-  "8 мегапиксельные IP видеокамеры": { category: "sistemy-bezopasnosti", subcategory: "sistemy-videonablyudeniya" },
-  "2 мегапиксельные Wi-Fi видеокамеры": { category: "sistemy-bezopasnosti", subcategory: "sistemy-videonablyudeniya" },
-  "3 мегапиксельные Wi-Fi видеокамеры": { category: "sistemy-bezopasnosti", subcategory: "sistemy-videonablyudeniya" },
-  "4 мегапиксельные Wi-Fi видеокамеры": { category: "sistemy-bezopasnosti", subcategory: "sistemy-videonablyudeniya" },
-  "5 мегапиксельные Wi-Fi видеокамеры": { category: "sistemy-bezopasnosti", subcategory: "sistemy-videonablyudeniya" },
-  "8 мегапиксельные Wi-Fi видеокамеры": { category: "sistemy-bezopasnosti", subcategory: "sistemy-videonablyudeniya" },
-  "4 канальные видеорегистраторы": { category: "sistemy-bezopasnosti", subcategory: "sistemy-videonablyudeniya" },
-  "8 канальные видеорегистраторы": { category: "sistemy-bezopasnosti", subcategory: "sistemy-videonablyudeniya" },
-  "16 канальные видеорегистраторы": { category: "sistemy-bezopasnosti", subcategory: "sistemy-videonablyudeniya" },
-  "32 канальные видеорегистраторы": { category: "sistemy-bezopasnosti", subcategory: "sistemy-videonablyudeniya" },
-  "GSM сигнализаторы": { category: "sistemy-bezopasnosti", subcategory: "ohrannye-i-pozharnye-sistemy" },
-  "Приемно-контрольные приборы": { category: "sistemy-bezopasnosti", subcategory: "ohrannye-i-pozharnye-sistemy" },
-  "Извещатели пожарные": { category: "sistemy-bezopasnosti", subcategory: "ohrannye-i-pozharnye-sistemy" },
-  "Извещатели охранные": { category: "sistemy-bezopasnosti", subcategory: "ohrannye-i-pozharnye-sistemy" },
-  "Вызывные панели": { category: "sistemy-bezopasnosti", subcategory: "sistemy-kontrolya-dostupa" },
-  "Мониторы видеодомофонии": { category: "sistemy-bezopasnosti", subcategory: "sistemy-kontrolya-dostupa" },
-  "Контроллеры со считывателем": { category: "sistemy-bezopasnosti", subcategory: "sistemy-kontrolya-dostupa" },
-  "Считыватели": { category: "sistemy-bezopasnosti", subcategory: "sistemy-kontrolya-dostupa" },
-  "Турникеты и металлоискатели": { category: "sistemy-bezopasnosti", subcategory: "sistemy-kontrolya-dostupa" },
-  "Шлагбаумы": { category: "sistemy-bezopasnosti", subcategory: "sistemy-kontrolya-dostupa" },
-  "Замки и доводчики": { category: "sistemy-bezopasnosti", subcategory: "sistemy-kontrolya-dostupa" },
-  "Системы \"Умный дом\"": { category: "sistemy-bezopasnosti", subcategory: "sistemy-videonablyudeniya" },
+  // Network Equipment
+  "Маршрутизаторы": { category: "setevoe-oborudovanie", subcategory: "marshrutizatory" },
+  "Коммутаторы LAN": { category: "setevoe-oborudovanie", subcategory: "kommutatory-lan" },
+  "Коммутаторы PoE": { category: "setevoe-oborudovanie", subcategory: "kommutatory-poe" },
+  "Медиаконвертеры": { category: "setevoe-oborudovanie", subcategory: "mediakonvertory" },
+  "SFP-модули": { category: "setevoe-oborudovanie", subcategory: "sfp-moduli" },
+  "Инжекторы PoE": { category: "setevoe-oborudovanie", subcategory: "inzhektory-poe" },
+  "Неуправляемые SOHO": { category: "setevoe-oborudovanie", subcategory: "kommutatory-lan" },
+  "Управляемые SOHO": { category: "setevoe-oborudovanie", subcategory: "kommutatory-lan" },
+  "SOHO маршрутизаторы": { category: "setevoe-oborudovanie", subcategory: "marshrutizatory" },
+  "Корпоративные маршрутизаторы": { category: "setevoe-oborudovanie", subcategory: "marshrutizatory" },
+  "GSM LTE Модемы Роутеры": { category: "setevoe-oborudovanie", subcategory: "marshrutizatory" },
+  "Mesh системы": { category: "setevoe-oborudovanie", subcategory: "kommutatory-lan" },
   
-  // Commercial Visualization
-  "Интерактивные панели": { category: "kommercheskaya-vizualizaciya", subcategory: "interaktivnye-paneli" },
-  "Профессиональные видеокамеры": { category: "kommercheskaya-vizualizaciya", subcategory: "professionalnye-paneli" },
-  "Экшн-камеры": { category: "kommercheskaya-vizualizaciya", subcategory: "interaktivnye-paneli" },
-  "Фотопринтеры и бумага": { category: "kommercheskaya-vizualizaciya", subcategory: "aksessuary-vizualizaciya" },
-  "Аксессуары для экшн-камер": { category: "kommercheskaya-vizualizaciya", subcategory: "aksessuary-vizualizaciya" },
-  "Объективы для фото и видеокамер": { category: "kommercheskaya-vizualizaciya", subcategory: "aksessuary-vizualizaciya" },
-  "Вспышки и освещение": { category: "kommercheskaya-vizualizaciya", subcategory: "aksessuary-vizualizaciya" },
-  "Штативы для фото и видео техники": { category: "kommercheskaya-vizualizaciya", subcategory: "aksessuary-vizualizaciya" },
-  "Оборудование для видеоконференций": { category: "kommercheskaya-vizualizaciya", subcategory: "interaktivnye-paneli" },
-  "Проекторы": { category: "kommercheskaya-vizualizaciya", subcategory: "interaktivnye-paneli" },
-  "Кронштейны для проекторов": { category: "kommercheskaya-vizualizaciya", subcategory: "kronshtejny-dlya-video-sten" },
+  // Passive Network
+  "Витая пара": { category: "passivnoe-setevoe", subcategory: "vitaya-para" },
+  "Патчкорды": { category: "passivnoe-setevoe", subcategory: "patchkordy" },
+  "Розетки": { category: "passivnoe-setevoe", subcategory: "rozetki" },
+  "Коннекторы": { category: "passivnoe-setevoe", subcategory: "konnektory" },
+  "Модули": { category: "passivnoe-setevoe", subcategory: "moduli" },
+  "Кабельно-проводниковая продукция": { category: "passivnoe-setevoe", subcategory: "kabelno-provodnaya-produkciya" },
+  "Кабели витая пара": { category: "passivnoe-setevoe", subcategory: "vitaya-para" },
+  "Сетевые патч корды": { category: "passivnoe-setevoe", subcategory: "patchkordy" },
+  "Колпачки (буты)": { category: "passivnoe-setevoe", subcategory: "konnektory" },
+  "Соединительные панели и муфты": { category: "passivnoe-setevoe", subcategory: "rozetki" },
+  "Лицевые панели": { category: "passivnoe-setevoe", subcategory: "rozetki" },
+  "Розетки настенные": { category: "passivnoe-setevoe", subcategory: "rozetki" },
+  "Силовой кабель и провод": { category: "passivnoe-setevoe", subcategory: "kabelno-provodnaya-produkciya" },
+  "Патч-Панели": { category: "passivnoe-setevoe", subcategory: "rozetki" },
   
-  // Office Equipment
-  "Монохромные лазерные принтеры А4": { category: "ofisnoe-oborudovanie", subcategory: "ofisnoe-oborudovanie" },
-  "Цветные лазерные принтеры А4": { category: "ofisnoe-oborudovanie", subcategory: "ofisnoe-oborudovanie" },
-  "Монохромные лазерные МФУ А4": { category: "ofisnoe-oborudovanie", subcategory: "ofisnoe-oborudovanie" },
-  "Цветные лазерные МФУ А4": { category: "ofisnoe-oborudovanie", subcategory: "ofisnoe-oborudovanie" },
-  "Сканеры": { category: "ofisnoe-oborudovanie", subcategory: "ofisnoe-oborudovanie" },
-  "Ламинаторы": { category: "ofisnoe-oborudovanie", subcategory: "ofisnoe-oborudovanie" },
-  "Уничтожители бумаги (Шредеры)": { category: "ofisnoe-oborudovanie", subcategory: "ofisnoe-oborudovanie" },
+  // UPS
+  "Smart UPS": { category: "istochniki-besperebojnogo-pitaniya", subcategory: "smart-ups" },
+  "Online UPS": { category: "istochniki-besperebojnogo-pitaniya", subcategory: "online-ups" },
+  "Трёхфазные UPS": { category: "istochniki-besperebojnogo-pitaniya", subcategory: "trekhfaznye-ups" },
+  "Батарейные блоки": { category: "istochniki-besperebojnogo-pitaniya", subcategory: "batareynye-bloki" },
+  "Аккумуляторы для ИБП": { category: "istochniki-besperebojnogo-pitaniya", subcategory: "akkumulyatory-dlya-ibp" },
+  "Шкафы для аккумуляторов": { category: "istochniki-besperebojnogo-pitaniya", subcategory: "shkafi-dlya-akkumulyatorov" },
   
-  // Demo Equipment
-  "Канальные кондиционеры Inverter": { category: "demonstracionnoe-oborudovanie", subcategory: "demo-oborudovanie" },
-  "Настенные кондиционеры": { category: "demonstracionnoe-oborudovanie", subcategory: "demo-oborudovanie" },
-  "Напольные вентиляторы": { category: "demonstracionnoe-oborudovanie", subcategory: "demo-oborudovanie" },
-  "Увлажнители воздуха": { category: "demonstracionnoe-oborudovanie", subcategory: "demo-oborudovanie" },
-  "Очистители воздуха": { category: "demonstracionnoe-oborudovanie", subcategory: "demo-oborudovanie" },
-   "Кулеры для воды": { category: "demonstracionnoe-oborudovanie", subcategory: "demo-oborudovanie" },
+  // Server Cabinets
+  "Настольные": { category: "servernye-shkafi", subcategory: "nastolnye-shkafi" },
+  "Напольные": { category: "servernye-shkafi", subcategory: "napolnye-shkafi" },
+  "Комплектующие к шкафам": { category: "servernye-shkafi", subcategory: "komplektuyushchie-k-shkafam" },
+  "Климатические шкафы": { category: "servernye-shkafi", subcategory: "klimaticheskie-shkafi" },
+  "Шкафы напольные, серверные": { category: "servernye-shkafi", subcategory: "napolnye-shkafi" },
+  "Шкафы навесные, настенные": { category: "servernye-shkafi", subcategory: "nastolnye-shkafi" },
+  "Аксессуары для шкафов и стоек": { category: "servernye-shkafi", subcategory: "komplektuyushchie-k-shkafam" },
+  
+  // Headsets
+  "Проводная": { category: "garnitura", subcategory: "provodnaya" },
+  "Беспроводная": { category: "garnitura", subcategory: "besprovodnaya" },
+  "MESH-системы": { category: "garnitura", subcategory: "mesh-sistemy" },
+  "Проводные мыши": { category: "garnitura", subcategory: "provodnaya" },
+  "Беспроводные мыши": { category: "garnitura", subcategory: "besprovodnaya" },
+  "Гарнитуры и микрофоны": { category: "garnitura", subcategory: "provodnaya" },
+  "Офисные наушники и гарнитуры": { category: "garnitura", subcategory: "provodnaya" },
+  
+  // WiFi Equipment
+  "WiFi роутеры": { category: "wifi-oborudovanie", subcategory: "wifi-routery" },
+  "Точки доступа WiFi": { category: "wifi-oborudovanie", subcategory: "tochki-dostupa-wifi" },
+  "WiFi мосты": { category: "wifi-oborudovanie", subcategory: "wifi-mosty" },
+  "Корпоративный Wi-Fi": { category: "wifi-oborudovanie", subcategory: "tochki-dostupa-wifi" },
+  "Wi-Fi радио мосты": { category: "wifi-oborudovanie", subcategory: "wifi-mosty" },
+  "Репитеры/усилители Wi-Fi": { category: "wifi-oborudovanie", subcategory: "tochki-dostupa-wifi" },
   
   // Radio Equipment
-  "Радиостанции": { category: "radio-equipment", subcategory: "radiostations" },
-  "Антенны": { category: "radio-equipment", subcategory: "antennas" },
-  "Подавители связи": { category: "radio-equipment", subcategory: "jammers" },
-  "Мачты": { category: "radio-equipment", subcategory: "masts" },
-  "Гарнитуры и микрофоны": { category: "radio-equipment", subcategory: "headsets" },
-  "Аккумуляторы": { category: "radio-equipment", subcategory: "batteries" },
-  "Зарядные устройства": { category: "radio-equipment", subcategory: "chargers" },
-  "Ретрансляторы": { category: "radio-equipment", subcategory: "repeaters" },
-  "Дуплексеры": { category: "radio-equipment", subcategory: "duplexers" },
-  "Инверторы": { category: "radio-equipment", subcategory: "inverters" },
-  "Преобразователи": { category: "radio-equipment", subcategory: "converters" },
-  "Репитеры": { category: "radio-equipment", subcategory: "repeaters" },
-  "GPS-трекеры": { category: "radio-equipment", subcategory: "gps-trackers" },
-  "Кронштейны": { category: "radio-equipment", subcategory: "mounts" },
-  "Кабели": { category: "radio-equipment", subcategory: "cables" },
-  "Коннекторы": { category: "radio-equipment", subcategory: "connectors" },
-  "Громкоговорители": { category: "radio-equipment", subcategory: "speakers" },
-  "Сплиттеры": { category: "radio-equipment", subcategory: "splitters" },
-  "Усилители": { category: "radio-equipment", subcategory: "amplifiers" },
-  "Блоки питания": { category: "radio-equipment", subcategory: "power-supplies" },
-  "Программаторы": { category: "radio-equipment", subcategory: "programmers" },
-  // Additional mappings from price import (unmapped categories)
-  "5.4. GSM-маяки": { category: "radio-equipment", subcategory: "repeaters" },
-  "7.4. Источники питания": { category: "radio-equipment", subcategory: "power-supplies" },
-  "Радиосинхронизаторы": { category: "radio-equipment", subcategory: "repeaters" },
-  "Профессиональные панели": { category: "kommercheskaya-vizualizaciya", subcategory: "professionalnye-paneli" },
-  "Патч-Панели": { category: "kabelnye-sistemy", subcategory: "passivnoe-setevoe" },
-  "РОЗЕТКИ АБОНЕНТСКИЕ": { category: "kabelnye-sistemy", subcategory: "komponenty-dlya-optovolokonnoj-seti" }
+  "Радиостанции": { category: "radiooborudovanie", subcategory: "radiostancii" },
+  "Антенны": { category: "radiooborudovanie", subcategory: "antenny" },
+  "Повторители связи": { category: "radiooborudovanie", subcategory: "povtoriteli-svyazi" },
+  "Матчи": { category: "radiooborudovanie", subcategory: "matchi" },
+  "Подавители связи": { category: "radiooborudovanie", subcategory: "antenny" },
+  "Мачты": { category: "radiooborudovanie", subcategory: "antenny" },
+  "Аккумуляторы": { category: "radiooborudovanie", subcategory: "radiostancii" },
+  "Зарядные устройства": { category: "radiooborudovanie", subcategory: "radiostancii" },
+  "Ретрансляторы": { category: "radiooborudovanie", subcategory: "povtoriteli-svyazi" },
+  "Дуплексеры": { category: "radiooborudovanie", subcategory: "matchi" },
+  "Инверторы": { category: "radiooborudovanie", subcategory: "radiostancii" },
+  "Преобразователи": { category: "radiooborudovanie", subcategory: "radiostancii" },
+  "Репитеры": { category: "radiooborudovanie", subcategory: "povtoriteli-svyazi" },
+  "GPS-трекеры": { category: "radiooborudovanie", subcategory: "radiostancii" },
+  "Кронштейны": { category: "radiooborudovanie", subcategory: "antenny" },
+  "Кабели": { category: "radiooborudovanie", subcategory: "antenny" },
+  "Громкоговорители": { category: "radiooborudovanie", subcategory: "radiostancii" },
+  "Сплиттеры": { category: "radiooborudovanie", subcategory: "matchi" },
+  "Усилители": { category: "radiooborudovanie", subcategory: "radiostancii" },
+  "Блоки питания": { category: "radiooborudovanie", subcategory: "radiostancii" },
+  "Программаторы": { category: "radiooborudovanie", subcategory: "radiostancii" },
+  "5.4. GSM-маяки": { category: "radiooborudovanie", subcategory: "povtoriteli-svyazi" },
+  "7.4. Источники питания": { category: "radiooborudovanie", subcategory: "radiostancii" },
+  "Радиосинхронизаторы": { category: "radiooborudovanie", subcategory: "povtoriteli-svyazi" },
+  
+  // Fiber Optics
+  "Оптоволоконный кабель": { category: "optovolokonaya-produkciya", subcategory: "optovolokonnyy-kabel" },
+  "Оптические патч корды": { category: "optovolokonaya-produkciya", subcategory: "opticheskie-patch-kordy" },
+  "Адаптеры и розетки": { category: "optovolokonaya-produkciya", subcategory: "adaptry-i-rozetki" },
+  "Оптические модули 1G SFP": { category: "optovolokonaya-produkciya", subcategory: "optovolokonnyy-kabel" },
+  "Оптические модули 10G SFP+": { category: "optovolokonaya-produkciya", subcategory: "optovolokonnyy-kabel" },
+  "Оптические модули 25G SFP28": { category: "optovolokonaya-produkciya", subcategory: "optovolokonnyy-kabel" },
+  "Оптические модули 40G QSFP+": { category: "optovolokonaya-produkciya", subcategory: "optovolokonnyy-kabel" },
+  "Оптические модули 100G QSFP28": { category: "optovolokonaya-produkciya", subcategory: "optovolokonnyy-kabel" },
+  "Оптические муфты": { category: "optovolokonaya-produkciya", subcategory: "adaptry-i-rozetki" },
+  "Оптические полки и кроссы": { category: "optovolokonaya-produkciya", subcategory: "adaptry-i-rozetki" },
+  "Оптоволоконные адаптеры и розетки": { category: "optovolokonaya-produkciya", subcategory: "adaptry-i-rozetki" },
+  "Оптоволоконные сплиттеры": { category: "optovolokonaya-produkciya", subcategory: "adaptry-i-rozetki" },
+  "Оборудование xPON": { category: "optovolokonaya-produkciya", subcategory: "adaptry-i-rozetki" },
+  "РОЗЕТКИ АБОНЕНТСКИЕ": { category: "optovolokonaya-produkciya", subcategory: "adaptry-i-rozetki" }
 };
 
 export const CATEGORY_MAP = categoryMap;
@@ -396,12 +401,13 @@ export const BRANDS = [];
 export const MEGA_MENU_DATA = [
   {
     id: 1,
-    title: "Гарнитура",
-    slug: "garnitura",
+    title: "Видеонаблюдение",
+    slug: "videonablyudenie",
     subcategories: [
-      { slug: "garn-provodnye", name: "Проводные" },
-      { slug: "garn-besprovodnye", name: "Беспроводные" },
-      { slug: "garn-aksessuary", name: "Аксессуары" }
+      { slug: "analogovye-videokamery", name: "Аналоговые видеокамеры" },
+      { slug: "ip-videokamery", name: "IP видеокамеры" },
+      { slug: "gibridnye-videoregistratory", name: "Гибридные видеорегистраторы" },
+      { slug: "ip-videoregistratory", name: "IP видеорегистраторы" }
     ]
   },
   {
@@ -409,11 +415,11 @@ export const MEGA_MENU_DATA = [
     title: "Домофония",
     slug: "domofoniya",
     subcategories: [
-      { slug: "domo-komplekty", name: "Комплекты" },
-      { slug: "domo-paneli", name: "Вызывные панели" },
-      { slug: "domo-monitory", name: "Мониторы" },
-      { slug: "domo-zamki", name: "Замки и доводчики" },
-      { slug: "domo-knopki", name: "Кнопки и переходы" }
+      { slug: "komplekty", name: "Комплекты" },
+      { slug: "vyzyvnye-paneli", name: "Вызывные панели" },
+      { slug: "monitory", name: "Мониторы" },
+      { slug: "zamki-i-dovodnye", name: "Замки и доводчики" },
+      { slug: "klavishi-i-perekhody", name: "Клавиши и переходы" }
     ]
   },
   {
@@ -421,10 +427,10 @@ export const MEGA_MENU_DATA = [
     title: "Системы контроля доступа",
     slug: "sistemy-kontrolya-dostupa",
     subcategories: [
-      { slug: "skd-kontrollery", name: "Контроллеры" },
-      { slug: "skd-schityvateli", name: "Считыватели" },
-      { slug: "skd-turnikety", name: "Турникеты" },
-      { slug: "skd-shlagbaummy", name: "Шлагбаумы" }
+      { slug: "kontrollery", name: "Контроллеры" },
+      { slug: "schityvateli", name: "Считыватели" },
+      { slug: "turnikety", name: "Турникеты" },
+      { slug: "shlagbaummy", name: "Шлагбаумы" }
     ]
   },
   {
@@ -432,122 +438,223 @@ export const MEGA_MENU_DATA = [
     title: "IP-телефоны",
     slug: "ip-telefony",
     subcategories: [
-      { slug: "ipt-nastolnye", name: "Настольные" },
-      { slug: "ipt-besprovodnye", name: "Беспроводные" },
-      { slug: "ipt-otelnye", name: "Отельные" },
-      { slug: "ipt-mikrosotovaya", name: "Микросотовая" },
-      { slug: "ipt-video", name: "Видео" },
-      { slug: "ipt-konferenciya", name: "Конференция" },
-      { slug: "ipt-promyshlennye", name: "Промышленные" }
+      { slug: "nastolnye-telefony", name: "Настольные телефоны" },
+      { slug: "besprovodnye-telefony", name: "Беспроводные телефоны" },
+      { slug: "otelnye-telefony", name: "Отельные телефоны" },
+      { slug: "videotelefonы", name: "Видео-телефоны" },
+      { slug: "konferenciya", name: "Конференция" },
+      { slug: "mini-ats", name: "Мини АТС" },
+      { slug: "fxo-shpuli", name: "FXO шпули" },
+      { slug: "fxs-shpuli", name: "FXS шпули" },
+      { slug: "gsm-shpuli", name: "GSM шпули" }
     ]
   },
   {
     id: 5,
-    title: "Видеонаблюдение",
-    slug: "video-nablyudenie",
+    title: "Пожарная сигнализация",
+    slug: "pozharnaya-signalizaciya",
     subcategories: [
-      { slug: "video-registratory", name: "Видеорегистраторы" },
-      { slug: "video-kamery", name: "Видеокамеры" }
+      { slug: "priemno-kontolnye-pribory", name: "Премо-контрольные приборы" },
+      { slug: "izveshchateli-pozharnyе", name: "Извещатели пожарные" },
+      { slug: "izveshchateli-ohrannye", name: "Извещатели охранные" },
+      { slug: "opoveschateli-sveto-zvukovye", name: "Оповещатели свето-звуковые" }
     ]
   },
   {
     id: 6,
-    title: "Мини АТС офисные",
-    slug: "mini-ats-ofisnye",
-    subcategories: []
+    title: "Сетевое оборудование",
+    slug: "setevoe-oborudovanie",
+    subcategories: [
+      { slug: "marshrutizatory", name: "Маршрутизаторы" },
+      { slug: "kommutatory-lan", name: "Коммутаторы LAN" },
+      { slug: "kommutatory-poe", name: "Коммутаторы PoE" },
+      { slug: "mediakonvertory", name: "Медиаконвертеры" },
+      { slug: "sfp-moduli", name: "SFP-модули" },
+      { slug: "inzhektory-poe", name: "Инжекторы PoE" }
+    ]
   },
   {
     id: 7,
-    title: "VoIP-шлюзы",
-    slug: "voip-shlyuzy",
-    subcategories: []
+    title: "Пассивное сетевое",
+    slug: "passivnoe-setevoe",
+    subcategories: [
+      { slug: "vitaya-para", name: "Витая пара" },
+      { slug: "patchkordy", name: "Патчкорды" },
+      { slug: "rozetki", name: "Розетки" },
+      { slug: "konnektory", name: "Коннекторы" },
+      { slug: "moduli", name: "Модули" },
+      { slug: "kabelno-provodnaya-produkciya", name: "Кабельно-проводниковая продукция" }
+    ]
   },
   {
     id: 8,
-    title: "Пассивное сетевое",
-    slug: "passivnoe-setevoe",
-    subcategories: []
+    title: "Источники бесперебойного питания",
+    slug: "istochniki-besperebojnogo-pitaniya",
+    subcategories: [
+      { slug: "smart-ups", name: "Smart UPS" },
+      { slug: "online-ups", name: "Online UPS" },
+      { slug: "trekhfaznye-ups", name: "Трёхфазные UPS" },
+      { slug: "batareynye-bloki", name: "Батарейные блоки" },
+      { slug: "akkumulyatory-dlya-ibp", name: "Аккумуляторы для ИБП" },
+      { slug: "shkafi-dlya-akkumulyatorov", name: "Шкафы для аккумуляторов" }
+    ]
   },
   {
     id: 9,
-    title: "Сетевое оборудование",
-    slug: "setevoe-oborudovanie",
-    subcategories: []
+    title: "Серверные шкафы",
+    slug: "servernye-shkafi",
+    subcategories: [
+      { slug: "nastolnye-shkafi", name: "Настольные" },
+      { slug: "napolnye-shkafi", name: "Напольные" },
+      { slug: "komplektuyushchie-k-shkafam", name: "Комплектующие к шкафам" },
+      { slug: "klimaticheskie-shkafi", name: "Климатические шкафы" }
+    ]
   },
   {
     id: 10,
-    title: "WiFi-оборудование",
-    slug: "wifi-oborudovanie",
-    subcategories: []
+    title: "Гарнитура",
+    slug: "garnitura",
+    subcategories: [
+      { slug: "provodnaya", name: "Проводная" },
+      { slug: "besprovodnaya", name: "Беспроводная" },
+      { slug: "mesh-sistemy", name: "MESH-системы" }
+    ]
   },
   {
     id: 11,
-    title: "Радиооборудование",
-    slug: "radio-equipment",
+    title: "WiFi оборудование",
+    slug: "wifi-oborudovanie",
     subcategories: [
-      { slug: "radiostations", name: "Радиостанции" },
-      { slug: "antennas", name: "Антенны" },
-      { slug: "jammers", name: "Подавители связи" },
-      { slug: "masts", name: "Мачты" }
+      { slug: "wifi-routery", name: "WiFi роутеры" },
+      { slug: "tochki-dostupa-wifi", name: "Точки доступа WiFi" },
+      { slug: "wifi-mosty", name: "WiFi мосты" },
+      { slug: "mesh-sistemy", name: "MESH-системы" }
+    ]
+  },
+  {
+    id: 12,
+    title: "Радиооборудование",
+    slug: "radiooborudovanie",
+    subcategories: [
+      { slug: "radiostancii", name: "Радиостанции" },
+      { slug: "antenny", name: "Антенны" },
+      { slug: "povtoriteli-svyazi", name: "Повторители связи" },
+      { slug: "matchi", name: "Матчи" }
+    ]
+  },
+  {
+    id: 13,
+    title: "Оптоволоконная продукция",
+    slug: "optovolokonaya-produkciya",
+    subcategories: [
+      { slug: "optovolokonnyy-kabel", name: "Оптоволоконный кабель" },
+      { slug: "opticheskie-patch-kordy", name: "Оптические патч корды" },
+      { slug: "adaptry-i-rozetki", name: "Адаптеры и розетки" }
     ]
   }
 ];
 
 // Map menu category/subcategory slugs → actual product category/subcategory values
 export const MENU_SLUG_TO_PRODUCT_MAP = {
-  // Top-level categories (map to subcategory for precise filtering)
-  "video-nablyudenie":    { subcategory: "sistemy-videonablyudeniya" },
-  "domofoniya":           { subcategory: "sistemy-kontrolya-dostupa" },
-  "sistemy-kontrolya-dostupa": { subcategory: "sistemy-kontrolya-dostupa" },
-  "ip-telefony":          { category: "ip-telefony", subcategory: "ip-telefony" },
-  "garnitura":            { subcategory: "ustroystva-vvoda-i-aksessuary" },
-  // Video surveillance subcategories
-  "video-registratory":   { subcategory: "sistemy-videonablyudeniya" },
-  "video-kamery":         { subcategory: "sistemy-videonablyudeniya" },
+  // Top-level categories
+  "videonablyudenie": { category: "videonablyudenie" },
+  "domofoniya": { category: "domofoniya" },
+  "sistemy-kontrolya-dostupa": { category: "sistemy-kontrolya-dostupa" },
+  "ip-telefony": { category: "ip-telefony" },
+  "pozharnaya-signalizaciya": { category: "pozharnaya-signalizaciya" },
+  "setevoe-oborudovanie": { category: "setevoe-oborudovanie" },
+  "passivnoe-setevoe": { category: "passivnoe-setevoe" },
+  "istochniki-besperebojnogo-pitaniya": { category: "istochniki-besperebojnogo-pitaniya" },
+  "servernye-shkafi": { category: "servernye-shkafi" },
+  "garnitura": { category: "garnitura" },
+  "wifi-oborudovanie": { category: "wifi-oborudovanie" },
+  "radiooborudovanie": { category: "radiooborudovanie" },
+  "optovolokonaya-produkciya": { category: "optovolokonaya-produkciya" },
+  
+  // Video Surveillance subcategories
+  "analogovye-videokamery": { category: "videonablyudenie", subcategory: "analogovye-videokamery" },
+  "ip-videokamery": { category: "videonablyudenie", subcategory: "ip-videokamery" },
+  "gibridnye-videoregistratory": { category: "videonablyudenie", subcategory: "gibridnye-videoregistratory" },
+  "ip-videoregistratory": { category: "videonablyudenie", subcategory: "ip-videoregistratory" },
+  
   // Intercom subcategories
-  "domo-komplekty":       { subcategory: "sistemy-kontrolya-dostupa" },
-  "domo-paneli":          { subcategory: "sistemy-kontrolya-dostupa" },
-  "domo-monitory":        { subcategory: "sistemy-kontrolya-dostupa" },
-  "domo-zamki":           { subcategory: "sistemy-kontrolya-dostupa" },
-  "domo-knopki":          { subcategory: "sistemy-kontrolya-dostupa" },
-  // Access control subcategories
-  "skd-kontrollery":      { subcategory: "sistemy-kontrolya-dostupa" },
-  "skd-schityvateli":     { subcategory: "sistemy-kontrolya-dostupa" },
-  "skd-turnikety":        { subcategory: "sistemy-kontrolya-dostupa" },
-  "skd-shlagbaummy":      { subcategory: "sistemy-kontrolya-dostupa" },
+  "komplekty": { category: "domofoniya", subcategory: "komplekty" },
+  "vyzyvnye-paneli": { category: "domofoniya", subcategory: "vyzyvnye-paneli" },
+  "monitory": { category: "domofoniya", subcategory: "monitory" },
+  "zamki-i-dovodnye": { category: "domofoniya", subcategory: "zamki-i-dovodnye" },
+  "klavishi-i-perekhody": { category: "domofoniya", subcategory: "klavishi-i-perekhody" },
+  
+  // Access Control subcategories
+  "kontrollery": { category: "sistemy-kontrolya-dostupa", subcategory: "kontrollery" },
+  "schityvateli": { category: "sistemy-kontrolya-dostupa", subcategory: "schityvateli" },
+  "turnikety": { category: "sistemy-kontrolya-dostupa", subcategory: "turnikety" },
+  "shlagbaummy": { category: "sistemy-kontrolya-dostupa", subcategory: "shlagbaummy" },
+  
   // IP Phones subcategories
-  "ipt-nastolnye":        { category: "ip-telefony", subcategory: "ip-telefony" },
-  "ipt-besprovodnye":     { category: "ip-telefony", subcategory: "ip-telefony" },
-  "ipt-otelnye":          { category: "ip-telefony", subcategory: "ip-telefony" },
-  "ipt-mikrosotovaya":    { category: "ip-telefony", subcategory: "ip-telefony" },
-  "ipt-video":            { category: "ip-telefony", subcategory: "ip-telefony" },
-  "ipt-konferenciya":     { category: "ip-telefony", subcategory: "ip-telefony" },
-  "ipt-promyshlennye":    { category: "ip-telefony", subcategory: "ip-telefony" },
-  // Headset subcategories
-  "garn-provodnye":       { category: "kompyutery-i-komplektuyushchie", subcategory: "ustroystva-vvoda-i-aksessuary" },
-  "garn-besprovodnye":    { category: "kompyutery-i-komplektuyushchie", subcategory: "ustroystva-vvoda-i-aksessuary" },
-  "garn-aksessuary":      { category: "kompyutery-i-komplektuyushchie", subcategory: "ustroystva-vvoda-i-aksessuary" },
-  // Second row categories
-  "mini-ats-ofisnye":     { category: "ip-telefony", subcategory: "ip-telefony" },
-  "voip-shlyuzy":         { category: "ip-telefony", subcategory: "ip-telefony" },
-  "passivnoe-setevoe":    { subcategory: "passivnoe-setevoe" },
-  "setevoe-oborudovanie": { subcategory: "aktivnoe-setevoe" },
-  "wifi-oborudovanie":    { subcategory: "aktivnoe-setevoe" },
-  // Radio Equipment
-  "radio-equipment":    { category: "radio-equipment" },
-  "radiostations":      { category: "radio-equipment", subcategory: "radiostations" },
-  "antennas":           { category: "radio-equipment", subcategory: "antennas" },
-  "jammers":            { category: "radio-equipment", subcategory: "jammers" },
-  "masts":              { category: "radio-equipment", subcategory: "masts" },
-  "headsets":           { category: "radio-equipment", subcategory: "headsets" },
-  "batteries":          { category: "radio-equipment", subcategory: "batteries" },
-  "chargers":           { category: "radio-equipment", subcategory: "chargers" },
-  "repeaters":          { category: "radio-equipment", subcategory: "repeaters" },
-   "duplexers":          { category: "radio-equipment", subcategory: "duplexers" },
-   // Service categories from HeroSection (used in CategoryCard)
-   "opticheskie-polki-i-krossy": { subcategory: "komponenty-dlya-optovolokonnoj-seti" },
-   "kabeli-vitaya-para":          { subcategory: "passivnoe-setevoe" },
-   "konnektory":                  { subcategory: "passivnoe-setevoe" },
-   "moduli":                      { subcategory: "passivnoe-setevoe" },
-   "aksessuary-dlya-shkafov-i-stoek": { subcategory: "telekommunikacionnye-shkafy" },
- };
+  "nastolnye-telefony": { category: "ip-telefony", subcategory: "nastolnye-telefony" },
+  "besprovodnye-telefony": { category: "ip-telefony", subcategory: "besprovodnye-telefony" },
+  "otelnye-telefony": { category: "ip-telefony", subcategory: "otelnye-telefony" },
+  "videotelefonы": { category: "ip-telefony", subcategory: "videotelefonы" },
+  "konferenciya": { category: "ip-telefony", subcategory: "konferenciya" },
+  "mini-ats": { category: "ip-telefony", subcategory: "mini-ats" },
+  "fxo-shpuli": { category: "ip-telefony", subcategory: "fxo-shpuli" },
+  "fxs-shpuli": { category: "ip-telefony", subcategory: "fxs-shpuli" },
+  "gsm-shpuli": { category: "ip-telefony", subcategory: "gsm-shpuli" },
+  
+  // Fire Alarm subcategories
+  "priemno-kontolnye-pribory": { category: "pozharnaya-signalizaciya", subcategory: "priemno-kontolnye-pribory" },
+  "izveshchateli-pozharnyе": { category: "pozharnaya-signalizaciya", subcategory: "izveshchateli-pozharnyе" },
+  "izveshchateli-ohrannye": { category: "pozharnaya-signalizaciya", subcategory: "izveshchateli-ohrannye" },
+  "opoveschateli-sveto-zvukovye": { category: "pozharnaya-signalizaciya", subcategory: "opoveschateli-sveto-zvukovye" },
+  
+  // Network Equipment subcategories
+  "marshrutizatory": { category: "setevoe-oborudovanie", subcategory: "marshrutizatory" },
+  "kommutatory-lan": { category: "setevoe-oborudovanie", subcategory: "kommutatory-lan" },
+  "kommutatory-poe": { category: "setevoe-oborudovanie", subcategory: "kommutatory-poe" },
+  "mediakonvertory": { category: "setevoe-oborudovanie", subcategory: "mediakonvertory" },
+  "sfp-moduli": { category: "setevoe-oborudovanie", subcategory: "sfp-moduli" },
+  "inzhektory-poe": { category: "setevoe-oborudovanie", subcategory: "inzhektory-poe" },
+  
+  // Passive Network subcategories
+  "vitaya-para": { category: "passivnoe-setevoe", subcategory: "vitaya-para" },
+  "patchkordy": { category: "passivnoe-setevoe", subcategory: "patchkordy" },
+  "rozetki": { category: "passivnoe-setevoe", subcategory: "rozetki" },
+  "konnektory": { category: "passivnoe-setevoe", subcategory: "konnektory" },
+  "moduli": { category: "passivnoe-setevoe", subcategory: "moduli" },
+  "kabelno-provodnaya-produkciya": { category: "passivnoe-setevoe", subcategory: "kabelno-provodnaya-produkciya" },
+  
+  // UPS subcategories
+  "smart-ups": { category: "istochniki-besperebojnogo-pitaniya", subcategory: "smart-ups" },
+  "online-ups": { category: "istochniki-besperebojnogo-pitaniya", subcategory: "online-ups" },
+  "trekhfaznye-ups": { category: "istochniki-besperebojnogo-pitaniya", subcategory: "trekhfaznye-ups" },
+  "batareynye-bloki": { category: "istochniki-besperebojnogo-pitaniya", subcategory: "batareynye-bloki" },
+  "akkumulyatory-dlya-ibp": { category: "istochniki-besperebojnogo-pitaniya", subcategory: "akkumulyatory-dlya-ibp" },
+  "shkafi-dlya-akkumulyatorov": { category: "istochniki-besperebojnogo-pitaniya", subcategory: "shkafi-dlya-akkumulyatorov" },
+  
+  // Server Cabinets subcategories
+  "nastolnye-shkafi": { category: "servernye-shkafi", subcategory: "nastolnye-shkafi" },
+  "napolnye-shkafi": { category: "servernye-shkafi", subcategory: "napolnye-shkafi" },
+  "komplektuyushchie-k-shkafam": { category: "servernye-shkafi", subcategory: "komplektuyushchie-k-shkafam" },
+  "klimaticheskie-shkafi": { category: "servernye-shkafi", subcategory: "klimaticheskie-shkafi" },
+  
+  // Headsets subcategories
+  "provodnaya": { category: "garnitura", subcategory: "provodnaya" },
+  "besprovodnaya": { category: "garnitura", subcategory: "besprovodnaya" },
+  "mesh-sistemy": { category: "garnitura", subcategory: "mesh-sistemy" },
+  
+  // WiFi Equipment subcategories
+  "wifi-routery": { category: "wifi-oborudovanie", subcategory: "wifi-routery" },
+  "tochki-dostupa-wifi": { category: "wifi-oborudovanie", subcategory: "tochki-dostupa-wifi" },
+  "wifi-mosty": { category: "wifi-oborudovanie", subcategory: "wifi-mosty" },
+  
+  // Radio Equipment subcategories
+  "radiostancii": { category: "radiooborudovanie", subcategory: "radiostancii" },
+  "antenny": { category: "radiooborudovanie", subcategory: "antenny" },
+  "povtoriteli-svyazi": { category: "radiooborudovanie", subcategory: "povtoriteli-svyazi" },
+  "matchi": { category: "radiooborudovanie", subcategory: "matchi" },
+  
+  // Fiber Optics subcategories
+  "optovolokonnyy-kabel": { category: "optovolokonaya-produkciya", subcategory: "optovolokonnyy-kabel" },
+  "opticheskie-patch-kordy": { category: "optovolokonaya-produkciya", subcategory: "opticheskie-patch-kordy" },
+  "adaptry-i-rozetki": { category: "optovolokonaya-produkciya", subcategory: "adaptry-i-rozetki" }
+};

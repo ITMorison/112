@@ -11,10 +11,10 @@ const slides = [
 
 const serviceCategories = [
   { image: '/polki.png', title: 'Оптические полки и кроссы', slug: 'opticheskie-polki-i-krossy', count: 18 },
-  { image: '/Fiber optic.jpg', title: 'Кабели витая пара', slug: 'kabeli-vitaya-para', count: 87 },
+  { image: '/vital.jpeg', title: 'Кабели витая пара', slug: 'kabeli-vitaya-para', count: 87 },
   { image: '/conek.png', title: 'Коннекторы', slug: 'konnektory', count: 34 },
   { image: '/modyl.png', title: 'Модули', slug: 'moduli', count: 22 },
-  { image: '/aks.png', title: 'Аксессуары для шкафов', slug: 'aksessuary-dlya-shkafov-i-stoek', count: 65 },
+  { image: '/ferty.png', title: 'Аксессуары для шкафов', slug: 'aksessuary-dlya-shkafov-i-stoek', count: 65 },
   { image: '/setinstrym.png', title: 'Сетевые инструменты', slug: 'setevye-instrumenty', count: 12 },
 ];
 
