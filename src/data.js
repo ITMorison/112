@@ -48,7 +48,7 @@ export const HEADER_CATEGORIES = [
   },
   { 
     id: 4, 
-    title: "IP-телефоны", 
+    title: "IP-телефония", 
     slug: "ip-telefony",
     image: "/ip-telefony.jpg",
     subcategories: [
@@ -372,7 +372,68 @@ function getProductImage(code, article) {
 }
 
 export const PRODUCTS = RAW_PRODUCTS.map((p, index) => {
-  const mapping = categoryMap[p.category_raw];
+  // Resolve mapping: try exact match, normalized match, and substring matches
+  function normalizeKey(s) {
+    return String(s || '').toLowerCase().replace(/[^a-z0-9а-яё]+/g, ' ').trim();
+  }
+
+  const normalizedCategoryMap = Object.fromEntries(
+    Object.entries(categoryMap).map(([k, v]) => [normalizeKey(k), v])
+  );
+
+  const rawKey = p.category_raw || p.category || '';
+  let mapping = categoryMap[rawKey];
+
+  // Heuristic: map products by keywords in name/fullName/category_raw
+  if (!mapping) {
+    const txt = (String(p.name || '') + ' ' + String(p.fullName || '') + ' ' + String(p.category_raw || '')).toLowerCase();
+    // match camera-specific words only (avoid matching "видеокарты")
+    const hasVideo = /видеокам|видеокамера|видеорегистрат|видеодомофон|видеодомоф/i.test(txt);
+    const hasAnalog = /аналог|cvbs|hdcvi|tvi|ahd|cvbs/i.test(txt);
+    const hasIp = /ip\b|ip\s|ip-/i.test(txt);
+    const hasHybrid = /гибрид|hybrid/i.test(txt);
+
+    if (hasVideo) {
+      if (hasAnalog || hasHybrid) {
+        mapping = { category: 'videonablyudenie', subcategory: 'analogovye-videokamery' };
+      } else if (hasIp) {
+        mapping = { category: 'videonablyudenie', subcategory: 'ip-videokamery' };
+      } else {
+        // default to IP video if unclear
+        mapping = { category: 'videonablyudenie', subcategory: 'ip-videokamery' };
+      }
+    }
+
+    // If product is a recorder mention, map to registrators
+    if (!mapping && /видеорегистрат|регистратор/i.test(txt)) {
+      if (hasHybrid || hasAnalog) mapping = { category: 'videonablyudenie', subcategory: 'gibridnye-videoregistratory' };
+      else mapping = { category: 'videonablyudenie', subcategory: 'ip-videoregistratory' };
+    }
+  }
+  if (!mapping) mapping = normalizedCategoryMap[normalizeKey(rawKey)];
+  if (!mapping) {
+    // try substring matches (product key contains map key)
+    const rawLower = String(rawKey).toLowerCase();
+    for (const k of Object.keys(categoryMap)) {
+      if (!k) continue;
+      if (rawLower.includes(k.toLowerCase())) {
+        mapping = categoryMap[k];
+        break;
+      }
+    }
+  }
+  if (!mapping) {
+    // reverse: map key contains product key
+    const rawLower = String(rawKey).toLowerCase();
+    for (const k of Object.keys(categoryMap)) {
+      if (!k) continue;
+      if (k.toLowerCase().includes(rawLower) && rawLower.length > 2) {
+        mapping = categoryMap[k];
+        break;
+      }
+    }
+  }
+
   const cat = mapping ? mapping.category : p.category;
   const subcat = mapping ? mapping.subcategory : p.subcategory;
   
