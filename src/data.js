@@ -31,7 +31,7 @@ export const HEADER_CATEGORIES = [
       { slug: "vyzyvnye-paneli", name: "Вызывные панели" },
       { slug: "monitory", name: "Мониторы" },
       { slug: "zamki-i-dovodnye", name: "Замки и доводчики" },
-      { slug: "klavishi-i-perekhody", name: "Клавиши и переходы" }
+      { slug: "klavishi-i-perekhody", name: "Кнопки и переходы" }
     ]
   },
   { 
@@ -58,9 +58,9 @@ export const HEADER_CATEGORIES = [
       { slug: "videotelefonы", name: "Видео-телефоны" },
       { slug: "konferenciya", name: "Конференция" },
       { slug: "mini-ats", name: "Мини АТС" },
-      { slug: "fxo-shpuli", name: "FXO шпули" },
-      { slug: "fxs-shpuli", name: "FXS шпули" },
-      { slug: "gsm-shpuli", name: "GSM шпули" }
+      { slug: "fxo-shpuli", name: "FXO шлюзы" },
+      { slug: "fxs-shpuli", name: "FXS шлюзы" },
+      { slug: "gsm-shpuli", name: "GSM шлюзы" }
     ]
   },
   { 
@@ -136,8 +136,7 @@ export const HEADER_CATEGORIES = [
     image: "/garnitura.jpg",
     subcategories: [
       { slug: "provodnaya", name: "Проводная" },
-      { slug: "besprovodnaya", name: "Беспроводная" },
-      { slug: "mesh-sistemy", name: "MESH-системы" }
+      { slug: "besprovodnaya", name: "Беспроводная" }
     ]
   },
   { 
@@ -161,7 +160,7 @@ export const HEADER_CATEGORIES = [
       { slug: "radiostancii", name: "Радиостанции" },
       { slug: "antenny", name: "Антенны" },
       { slug: "povtoriteli-svyazi", name: "Повторители связи" },
-      { slug: "matchi", name: "Матчи" }
+      { slug: "matchi", name: "Мачты" }
     ]
   },
   { 
@@ -214,9 +213,9 @@ const categoryMap = {
   "Видео-телефоны": { category: "ip-telefony", subcategory: "videotelefonы" },
   "Конференция": { category: "ip-telefony", subcategory: "konferenciya" },
   "Мини АТС": { category: "ip-telefony", subcategory: "mini-ats" },
-  "FXO шпули": { category: "ip-telefony", subcategory: "fxo-shpuli" },
-  "FXS шпули": { category: "ip-telefony", subcategory: "fxs-shpuli" },
-  "GSM шпули": { category: "ip-telefony", subcategory: "gsm-shpuli" },
+  "FXO шлюзы": { category: "ip-telefony", subcategory: "fxo-shpuli" },
+  "FXS шлюзы": { category: "ip-telefony", subcategory: "fxs-shpuli" },
+  "GSM шлюзы": { category: "ip-telefony", subcategory: "gsm-shpuli" },
   "IP Телефоны": { category: "ip-telefony", subcategory: "nastolnye-telefony" },
   "IP АТС и шлюзы": { category: "ip-telefony", subcategory: "mini-ats" },
   
@@ -444,9 +443,9 @@ export const MEGA_MENU_DATA = [
       { slug: "videotelefonы", name: "Видео-телефоны" },
       { slug: "konferenciya", name: "Конференция" },
       { slug: "mini-ats", name: "Мини АТС" },
-      { slug: "fxo-shpuli", name: "FXO шпули" },
-      { slug: "fxs-shpuli", name: "FXS шпули" },
-      { slug: "gsm-shpuli", name: "GSM шпули" }
+      { slug: "fxo-shpuli", name: "FXO шлюзы" },
+      { slug: "fxs-shpuli", name: "FXS шлюзы" },
+      { slug: "gsm-shpuli", name: "GSM шлюзы" }
     ]
   },
   {
