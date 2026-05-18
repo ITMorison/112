@@ -228,8 +228,12 @@
     "subcategory": "passivnoe-setevoe"
   },
   "Вызывные панели": {
-    "category": "sistemy-bezopasnosti",
-    "subcategory": "sistemy-kontrolya-dostupa"
+    "category": "domofoniya",
+    "subcategory": "vyzyvnye-paneli"
+  },
+  "е). Вызывные панели": {
+    "category": "domofoniya",
+    "subcategory": "vyzyvnye-paneli"
   },
   "Аксессуары для экшн-камер": {
     "category": "kommercheskaya-vizualizaciya",
@@ -262,6 +266,10 @@
   "Панели для видеостен": {
     "category": "sistemy-bezopasnosti",
     "subcategory": "sistemy-videonablyudeniya"
+  },
+  "Сумки и чехлы": {
+    "category": "kompyutery-i-komplektuyushchie",
+    "subcategory": "noutbuki-i-aksessuary"
   },
   "4 шт разводы от воды на упаковке": {
     "category": "other",
@@ -296,8 +304,8 @@
     "subcategory": "ip-telefony"
   },
   "е). Вызывные панели": {
-    "category": "sistemy-bezopasnosti",
-    "subcategory": "sistemy-kontrolya-dostupa"
+    "category": "domofoniya",
+    "subcategory": "vyzyvnye-paneli"
   },
   "з). Телефоны срочного вызова": {
     "category": "ip-telefony",
@@ -438,5 +446,9 @@
   "Оптические муфты": {
     "category": "kabelnye-sistemy",
     "subcategory": "komponenty-dlya-optovolokonnoj-seti"
+  },
+  "Фотопринтеры и бумага": {
+    "category": "kommercheskaya-vizualizaciya",
+    "subcategory": "aksessuary-vizualizaciya"
   }
 }
