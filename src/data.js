@@ -3,9 +3,9 @@
 
 export const CONTACT_INFO = {
   phone1: "+7 (776)630-00-44",
-  phone2: "+7 (776)630-00-44",
+  phone2: "+7 (705)443-50-65",
   email: "info@servernet.kz",
-  address: "Казахстан, г. Петропавловск, ул. Чкалова, 49"
+  address: "Казахстан, г. Петропавловск, ул. Чкалова, 48"
 };
 
 export const HEADER_CATEGORIES = [
@@ -123,7 +123,7 @@ export const HEADER_CATEGORIES = [
     slug: "servernye-shkafi",
     image: "/servernye-shkafi.jpg",
     subcategories: [
-      { slug: "nastolnye-shkafi", name: "Настольные" },
+      { slug: "nastolnye-shkafi", name: "Настенные" },
       { slug: "napolnye-shkafi", name: "Напольные" },
       { slug: "komplektuyushchie-k-shkafam", name: "Комплектующие к шкафам" },
       { slug: "klimaticheskie-shkafi", name: "Климатические шкафы" }
@@ -218,6 +218,7 @@ const categoryMap = {
   "GSM шлюзы": { category: "ip-telefony", subcategory: "gsm-shpuli" },
   "IP Телефоны": { category: "ip-telefony", subcategory: "nastolnye-telefony" },
   "IP АТС и шлюзы": { category: "ip-telefony", subcategory: "mini-ats" },
+  "dect": { category: "ip-telefony", subcategory: "nastolnye-telefony" },
   
   // Fire Alarm
   "Приемо-контрольные приборы": { category: "pozharnaya-signalizaciya", subcategory: "priemno-kontolnye-pribory" },

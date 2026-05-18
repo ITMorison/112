@@ -15,9 +15,9 @@ const STORAGE_KEYS = {
 
 const DEFAULT_CONTACT_INFO = {
   phone1: "+7 (776)630-00-44",
-  phone2: "+7 (747) 000-00-00",
+  phone2: "+7 (705)443-50-65",
   email: "info@servernet.kz",
-  address: "Казахстан, г. Петропавловск, ул. Чкалова, 49"
+  address: "Казахстан, г. Петропавловск, ул. Чкалова, 48"
 };
 
 function formatPrice(n) {

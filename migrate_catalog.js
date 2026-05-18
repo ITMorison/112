@@ -270,7 +270,7 @@ function generateJs(products, categoriesRaw, services) {
 
 export const CONTACT_INFO = {
    phone1: "+7 (776)630-00-44",
-  phone2: "+7 (747) 000-00-00",
+   phone2: "+7 (705)443-50-65",
   email: "info@servernet.kz
 ",
   address: "г. Петропавловск, ул. Примерная, 10111"
