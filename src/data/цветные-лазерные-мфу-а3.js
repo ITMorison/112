@@ -10,7 +10,7 @@ export const ЦВЕТНЫЕ_ЛАЗЕРНЫЕ_МФУ_А3 = [
     "price": 2223838,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Базовый модуль МФУ, Xerox, VersaLink C7120/25/30, C7101V_D, Лазерный , А3, 20 / 25 / 30 стр./мин., Подача 620 листов, Двусторонний автоподатчик документов, до 80 изобр./мин., Сенсорный дисплей 7\", 1.05 ГГц CPU, 4 ГБ RAM, USB 3.0, Ethernet 10/100/1000, NFC"
   },
   {
@@ -22,7 +22,7 @@ export const ЦВЕТНЫЕ_ЛАЗЕРНЫЕ_МФУ_А3 = [
     "price": 3217158,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Базовый модуль МФУ, Xerox, VersaLink C7120/25/30, C7101V_S, Лазерный , А3, 20 / 25 / 30 стр./мин., Подача 1 140 листов, Двусторонний автоподатчик документов, до 80 изобр./мин., Сенсорный дисплей 7\", 1.05 ГГц CPU, 4 ГБ RAM, 320 ГБ HDD, USB 3.0, Ethernet 10/100/1000, NFC"
   },
   {
@@ -34,7 +34,7 @@ export const ЦВЕТНЫЕ_ЛАЗЕРНЫЕ_МФУ_А3 = [
     "price": 3706389,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Базовый модуль МФУ, Xerox, VersaLink C7120/25/30, C7101V_T, Лазерный , А3, 20 / 25 / 30 стр./мин., Подача 2 180 листов, Двусторонний автоподатчик документов, до 80 изобр./мин., Сенсорный дисплей 7\", 1.05 ГГц CPU, 4 ГБ RAM, 320 ГБ HDD, USB 3.0, Ethernet 10/100/1000, NFC"
   },
   {
@@ -46,7 +46,7 @@ export const ЦВЕТНЫЕ_ЛАЗЕРНЫЕ_МФУ_А3 = [
     "price": 59301,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Комплект инициализации, Xerox, VersaLink C7120 (097S05201)"
   },
   {
@@ -58,7 +58,7 @@ export const ЦВЕТНЫЕ_ЛАЗЕРНЫЕ_МФУ_А3 = [
     "price": 504073,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Комплект инициализации, Xerox, VersaLink C7125 (097S05202)"
   },
   {
@@ -70,7 +70,7 @@ export const ЦВЕТНЫЕ_ЛАЗЕРНЫЕ_МФУ_А3 = [
     "price": 948843,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Комплект инициализации, Xerox, VersaLink C7130 (097S05197)"
   },
   {
@@ -82,7 +82,7 @@ export const ЦВЕТНЫЕ_ЛАЗЕРНЫЕ_МФУ_А3 = [
     "price": 3897337,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Базовый модуль МФУ, Xerox, AltaLink C8230/C8235, C8201V_T, Лазерный , SRA3, 30 / 35 стр./мин., Подача 2 180 листов, Двусторонний автоподатчик документов, до 161 изобр./мин., Сенсорный дисплей 10.1\", 1.91 ГГц CPU, 4 ГБ RAM, 256 ГБ SSD, USB 2.0, Ethernet 10/100/1000, NFC, Fax"
   },
   {
@@ -94,7 +94,7 @@ export const ЦВЕТНЫЕ_ЛАЗЕРНЫЕ_МФУ_А3 = [
     "price": 4777388,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Базовый модуль МФУ, Xerox, AltaLink C8230/C8235, C8201V_F, Лазерный, SRA3, 30/35 стр./мин., Подача 3 140 листов, Двусторонний автоподатчик документов, до 161 изобр./мин., Сенсорный дисплей 10.1\", 1.91 ГГц CPU, 4 ГБ RAM, 256 ГБ SSD, USB 2.0, Ethernet 10/100/1000, NFC, Fax"
   },
   {
@@ -106,7 +106,7 @@ export const ЦВЕТНЫЕ_ЛАЗЕРНЫЕ_МФУ_А3 = [
     "price": 880050,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Комплект инициализации, Xerox, 097S05246, Для Xerox AltaLink C8235"
   },
   {
@@ -118,7 +118,7 @@ export const ЦВЕТНЫЕ_ЛАЗЕРНЫЕ_МФУ_А3 = [
     "price": 6411749,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Базовый модуль МФУ, Xerox, AltaLink C8245/C8255, C8202V_F, Лазерный, SRA3, 45/55 стр./мин., Подача 3 140 листов, Двусторонний автоподатчик документов, до 161 изобр./мин., Сенсорный дисплей 10.1\", 1.91 ГГц CPU, 4 ГБ RAM, 256 ГБ SSD, USB 2.0, Ethernet 10/100/1000, NFC, Fax"
   },
   {
@@ -130,7 +130,7 @@ export const ЦВЕТНЫЕ_ЛАЗЕРНЫЕ_МФУ_А3 = [
     "price": 125719,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Комплект инициализации, Xerox, 097S05248, Для Xerox AltaLink C8245"
   },
   {
@@ -142,7 +142,7 @@ export const ЦВЕТНЫЕ_ЛАЗЕРНЫЕ_МФУ_А3 = [
     "price": 754332,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Комплект инициализации, Xerox, 097S05247, Для Xerox AltaLink C8255"
   },
   {
@@ -154,7 +154,7 @@ export const ЦВЕТНЫЕ_ЛАЗЕРНЫЕ_МФУ_А3 = [
     "price": 10686253,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Базовый модуль МФУ, Xerox, AltaLink C8270, C8203V_F, Лазерный, SRA3, 70 стр./мин., Подача 3 140 листов, Двусторонний автоподатчик документов, до 270 изобр./мин., Сенсорный дисплей 10.1\", 1.91 ГГц CPU, 8 ГБ RAM, 256 ГБ SSD, USB 2.0, Ethernet 10/100/1000, NFC, Fax"
   },
   {
@@ -166,7 +166,7 @@ export const ЦВЕТНЫЕ_ЛАЗЕРНЫЕ_МФУ_А3 = [
     "price": 125719,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Комплект инициализации, Xerox, 097S05249, Для Xerox AltaLink C8270"
   },
   {
@@ -178,7 +178,7 @@ export const ЦВЕТНЫЕ_ЛАЗЕРНЫЕ_МФУ_А3 = [
     "price": 1168850,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цветное МФУ, Canon, imageRUNNER C3326i, 5965C005AA, Лазерное, SRA3, 26 стр./мин., Подача 1200 листов, Двусторонний автоподатчик документов, Сенсорный дисплей 7\", 1.6 ГГц CPU, 2 ГБ RAM, USB 2.0, Ethernet 10/100/1000, Wi-Fi"
   },
   {
@@ -190,7 +190,7 @@ export const ЦВЕТНЫЕ_ЛАЗЕРНЫЕ_МФУ_А3 = [
     "price": 2353317,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цветное МФУ, Canon, imageRUNNER ADVANCE DX C3922i, 5964C005AA, Лазерное, SRA3, 22 стр./мин., Подача 1200 листов, Планшетный сканер (АПД опционален), Сенсорный дисплей 10.1\", 1.8 ГГц CPU, 4.5 ГБ RAM, USB 2.0, Ethernet 10/100/1000"
   },
   {
@@ -202,7 +202,7 @@ export const ЦВЕТНЫЕ_ЛАЗЕРНЫЕ_МФУ_А3 = [
     "price": 2939100,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цветное МФУ, Canon, imageRUNNER ADVANCE DX C3926i, 5963C005AA, Лазерное, SRA3, 26 стр./мин., Подача 1200 листов, Планшетный сканер (АПД опционален), Сенсорный дисплей 10.1\", 1.8 ГГц CPU, 4.5 ГБ RAM, USB 2.0, Ethernet 10/100/1000"
   },
   {
@@ -214,7 +214,7 @@ export const ЦВЕТНЫЕ_ЛАЗЕРНЫЕ_МФУ_А3 = [
     "price": 3669462,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цветное МФУ, Canon, imageRUNNER ADVANCE DX C3930i, 5962C005AA, Лазерное, SRA3, 30 стр./мин., Подача 1200 листов, Планшетный сканер (АПД опционален), Сенсорный дисплей 10.1\", 1.8 ГГц CPU, 4.5 ГБ RAM, USB 2.0, Ethernet 10/100/1000"
   },
   {
@@ -226,7 +226,7 @@ export const ЦВЕТНЫЕ_ЛАЗЕРНЫЕ_МФУ_А3 = [
     "price": 125719,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Комплект инициализации, Xerox, 097S05274, Для Xerox Altalink C8230"
   },
   {
@@ -238,7 +238,8 @@ export const ЦВЕТНЫЕ_ЛАЗЕРНЫЕ_МФУ_А3 = [
     "price": 1522877,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цветное МФУ, Lexmark, CX950se, 20L8110, Лазерный, A3, 25 стр./мин., Подача 700 листов, Двусторонний автоподатчик документов, до 200 изобр./мин., Сенсорный дисплей 10.1\", 1.2 ГГц CPU, 4 ГБ RAM, 128 ГБ SSD, USB 2.0, Ethernet 10/100/1000, Wi-Fi"
   }
 ];
+

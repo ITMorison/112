@@ -10,7 +10,7 @@ export const NEUPRAVLYAEMYE_STOECHNYE = [
     "price": 71146,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Huawei, S110-16T2S, Неуправляемый, 16 портов 10/100/1000BASE-T, 2*GE SFP, стоечный"
   },
   {
@@ -22,7 +22,7 @@ export const NEUPRAVLYAEMYE_STOECHNYE = [
     "price": 96572,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Huawei, S110-24T2SR, Неуправляемый, 24 порта 10/100/1000M RJ-45, 2 порта SFP, стоечный"
   },
   {
@@ -34,7 +34,7 @@ export const NEUPRAVLYAEMYE_STOECHNYE = [
     "price": 40789,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Grandstream, GWN7702, неуправляемый, 16 портов RJ-45 10/100/1000 Мбит/с, настольный/в стойку, корпус металлический"
   },
   {
@@ -46,7 +46,7 @@ export const NEUPRAVLYAEMYE_STOECHNYE = [
     "price": 49567,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Grandstream, GWN7703, Неуправляемый, 24 порта RJ-45 10/100/1000 Мбит/с, настольный/в стойку, корпус металлический"
   },
   {
@@ -58,7 +58,7 @@ export const NEUPRAVLYAEMYE_STOECHNYE = [
     "price": 143676,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Grandstream, GWN7706, неуправляемый, 48 порта RJ-45 10/100/1000 Мбит/с, 2 порта SFP, настольный/в стойку, корпус металлический"
   },
   {
@@ -70,7 +70,7 @@ export const NEUPRAVLYAEMYE_STOECHNYE = [
     "price": 27401,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, BDCOM, S1210C, Неуправляемый, 8 портов 10/100M RJ45, 1 порт 10/100/1000М RJ45, 1 порт 1000М SFP, Стоечный 1U, грозозащита,"
   },
   {
@@ -82,7 +82,7 @@ export const NEUPRAVLYAEMYE_STOECHNYE = [
     "price": 50925,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, BDCOM, S1226L, Неуправляемый, 24 порта 10/100M RJ45, 1 комбо-порт 1000М SFP/RJ45, 1 порт 1000 RJ45, Настольный"
   },
   {
@@ -94,7 +94,7 @@ export const NEUPRAVLYAEMYE_STOECHNYE = [
     "price": 42098,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, BDCOM, S1500-16T, Неуправляемый, 16 портов 10/100/1000M RJ45, Встроенный источник питания AC220V, Стоечный"
   },
   {
@@ -106,7 +106,7 @@ export const NEUPRAVLYAEMYE_STOECHNYE = [
     "price": 50440,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, BDCOM, S1500-24T, Неуправляемый, 24 порта 10/100/1000M RJ45, Без вентилятора, Грозозащита, Стоечный"
   },
   {
@@ -118,7 +118,7 @@ export const NEUPRAVLYAEMYE_STOECHNYE = [
     "price": 59357,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, BDCOM, S1500-24T2S, Неуправляемый, 24 порта 10/100/1000M RJ45, 2 порта 1000М SFP, Стоечный"
   },
   {
@@ -130,7 +130,7 @@ export const NEUPRAVLYAEMYE_STOECHNYE = [
     "price": 27160,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, D-Link, DES-1016D/I1A, Неуправляемый, 16 портов 10/100M RJ45, Корпус металл, 1U"
   },
   {
@@ -142,7 +142,7 @@ export const NEUPRAVLYAEMYE_STOECHNYE = [
     "price": 44426,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, D-Link, DGS-1016D/J1A, Неуправляемый, 16 портов 10/100/1000M RJ45, Корпус металл, 1U"
   },
   {
@@ -154,7 +154,7 @@ export const NEUPRAVLYAEMYE_STOECHNYE = [
     "price": 36666,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, D-Link, DES-1024D/H2A, Неуправляемый, 24 порта 10/100M RJ45, Корпус металл, 1U"
   },
   {
@@ -166,7 +166,7 @@ export const NEUPRAVLYAEMYE_STOECHNYE = [
     "price": 54320,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, D-Link, DGS-1024D/J1A, Неуправляемый, 24 порта 10/100/1000Base-T, DIP-переключатель"
   },
   {
@@ -178,7 +178,7 @@ export const NEUPRAVLYAEMYE_STOECHNYE = [
     "price": 53835,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, D-Link, DGS-1024C/B2A, Неуправляемый, 24 порта 10/100/1000Base-T"
   },
   {
@@ -190,7 +190,7 @@ export const NEUPRAVLYAEMYE_STOECHNYE = [
     "price": 58200,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, D-Link, DGS-1024C/F6/E, Неуправляемый, 24 порта 10/100/1000Base-T, защита от статического электричества до 4 кВ"
   },
   {
@@ -202,7 +202,7 @@ export const NEUPRAVLYAEMYE_STOECHNYE = [
     "price": 243308,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, D-Link, DGS-1052/A3A, Неуправляемый 48 портов 10/100/1000Base-T и 4 комбо-порта 100/1000Base-T/SFP, 1U"
   },
   {
@@ -214,7 +214,7 @@ export const NEUPRAVLYAEMYE_STOECHNYE = [
     "price": 29090,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, TP-Link, TL-SF1016DS, Настольный, 16 портов 10/100M RJ45, Корпус металл, Неуправляемый"
   },
   {
@@ -226,7 +226,7 @@ export const NEUPRAVLYAEMYE_STOECHNYE = [
     "price": 32000,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, TP-Link, TL-SF1016, 19-дюймовый стоечный, 16 портов 10/100M RJ45, Корпус металл , 1U, Неуправляемый"
   },
   {
@@ -238,7 +238,7 @@ export const NEUPRAVLYAEMYE_STOECHNYE = [
     "price": 33940,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, TP-Link, TL-SF1024D, Настольный/19-дюймовый стоечный, 24 порта 10/100M RJ45, Корпус металл, 1U, Неуправляемый"
   },
   {
@@ -250,7 +250,7 @@ export const NEUPRAVLYAEMYE_STOECHNYE = [
     "price": 48490,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, TP-Link, TL-SF1024, 19-дюймовый стоечный, 24 порта 10/100M RJ45, Корпус металл, 1U, Неуправляемый"
   },
   {
@@ -262,7 +262,7 @@ export const NEUPRAVLYAEMYE_STOECHNYE = [
     "price": 92140,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, TP-Link, TL-SF1048, 19 дюймовый стоечный, 48 портов 10/100M RJ45, Корпус металл, 1U, Неуправляемый"
   },
   {
@@ -274,7 +274,7 @@ export const NEUPRAVLYAEMYE_STOECHNYE = [
     "price": 46550,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, TP-Link, TL-SG1016D, Настольный, 16 портов 10/100/1000M RJ45, Корпус металл, Неуправляемый"
   },
   {
@@ -286,7 +286,7 @@ export const NEUPRAVLYAEMYE_STOECHNYE = [
     "price": 49460,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, TP-Link, TL-SG1016, 19-дюймовый стоечный, 16 портов 10/100/1000M RJ45, Корпус металл, 1U, Неуправляемый"
   },
   {
@@ -298,7 +298,7 @@ export const NEUPRAVLYAEMYE_STOECHNYE = [
     "price": 57220,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, TP-Link, TL-SG1024D, Неуправляемый, Настольный/монтируемый в стойку, 24 порта 10/100/1000M RJ45"
   },
   {
@@ -310,7 +310,7 @@ export const NEUPRAVLYAEMYE_STOECHNYE = [
     "price": 71770,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, TP-Link, TL-SG1024, Неуправляемый, 19-дюймовый стоечный, 24 порта 10/100/1000M RJ45, Корпус металл, 1U"
   },
   {
@@ -322,7 +322,7 @@ export const NEUPRAVLYAEMYE_STOECHNYE = [
     "price": 195930,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, TP-Link, TL-SG1048, 19 дюймовый стоечный, 48 портов 10/100/1000M RJ45, Корпус металл, 1U, Неуправляемый"
   },
   {
@@ -334,7 +334,7 @@ export const NEUPRAVLYAEMYE_STOECHNYE = [
     "price": 20874,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Dahua, DH-SF1016L, Неуправляемый, 16 портов 10/100М, настольный, -10°C to +55°C"
   },
   {
@@ -346,7 +346,7 @@ export const NEUPRAVLYAEMYE_STOECHNYE = [
     "price": 23426,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Dahua, DH-S3016-16GT, Неуправляемый, 16 портов 10/100/1000M, –10 °C to +55 °C"
   },
   {
@@ -358,7 +358,7 @@ export const NEUPRAVLYAEMYE_STOECHNYE = [
     "price": 36889,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Dahua, DH-SF1024, Неуправляемый, 24 порта 10/100М, стоечный, –20 °C to +60 °C"
   },
   {
@@ -370,7 +370,7 @@ export const NEUPRAVLYAEMYE_STOECHNYE = [
     "price": 53243,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Dahua, DH-S3024-24GT, Неуправляемый, 24 порта 10/100/1000, корпус металл, AC:100-240V"
   },
   {
@@ -382,7 +382,7 @@ export const NEUPRAVLYAEMYE_STOECHNYE = [
     "price": 31444,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Hikvision, DS-3E0516-E(B), Неуправляемый, 16 x Gigabit RJ45, Стоечный, Switching Capacity 32 Gbps"
   },
   {
@@ -394,7 +394,7 @@ export const NEUPRAVLYAEMYE_STOECHNYE = [
     "price": 31444,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Hikvision, DS-3E0516-E(c), Неуправляемый, 16 x Gigabit RJ45 , Стоечный, Металл"
   },
   {
@@ -406,7 +406,8 @@ export const NEUPRAVLYAEMYE_STOECHNYE = [
     "price": 143008,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Hikvision, DS-3E0524TF(B), Неуправляемый, 12 x Gigabit RJ45, 12 x SFP, Стоечный, Switching Capacity 48 Gbps"
   }
 ];
+

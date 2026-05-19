@@ -16,3 +16,4 @@ export const INSTALLATION_BOXES = [
     "image": "https://market-telecom.kz/files/products/71327_1.170x220.jpg"
   }
 ];
+

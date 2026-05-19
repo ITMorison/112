@@ -44,3 +44,4 @@ export const KVM_SWITCHES = [
     "image": "https://market-telecom.kz/files/products/71343_1.170x220.jpg"
   }
 ];
+

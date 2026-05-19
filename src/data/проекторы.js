@@ -10,7 +10,7 @@ export const ПРОЕКТОРЫ = [
     "price": 113480,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Проектор, Xiaomi, Smart Projector L1 EU, BHR9417EU/XMTYY03FMG, 1920*1080P, Номинальная мощность 72 Вт, Технология изображения LCD, Источник света LED, Яркость Обычн.: 200lm, Мин.:160lm@15 min ANSI, Проекционное соотношение 1.2±0.10:1, Размер проекции 40~120\", Фокусировка линз: Автофокус, Корректировка на плоскости: Автоматическая, ОС Google TV, RAM/ROM 2Gb/16GB, Порты USB2.0x1, HDMI2.1x1ARC), Earphone x1, DCx1, Динамики 2*3W, Рабочая температура 30dB 25°C, 1m, Уровень шума 30dB, Размеры 118  142  176мм, Вес 1,2 кг, Черный"
   },
   {
@@ -22,7 +22,7 @@ export const ПРОЕКТОРЫ = [
     "price": 163920,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Проектор, Xiaomi, Smart Projector L1 Pro EU, BHR9588EU"
   },
   {
@@ -34,7 +34,7 @@ export const ПРОЕКТОРЫ = [
     "price": 242490,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Проектор,Mi, Smart Projector 2, BHR5211GL/XMTYY02FMGL, 1,3 кг, Номинальная Мощность < 65 Вт. Резервная мощность < 0,5 Вт, Светодиодный источник света с технологией DLP, 19201080P, Размер Экрана от 60\" до 120\" , Автофокус, Встроенная память 2 ГБ DDR3 / 16 ГБ eMMC, Bluetooth 5.0/BLE, Wi-Fi IEEE 802.11 a/b/g/n/ac 2,4 ГГц/5 ГГц, Dolby Audio + DTS HD, Уровень Шума  28 дБ, Динамик 2 x 5 Вт, Белый"
   },
   {
@@ -46,7 +46,7 @@ export const ПРОЕКТОРЫ = [
     "price": 163978,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Проектор, BYINTEK, K25 Smart, Google Android 9.0, LCD, 1920*1080, 600 люмен, 18000:1, USB*2/HD*2.0/AV, чёрный"
   },
   {
@@ -58,7 +58,7 @@ export const ПРОЕКТОРЫ = [
     "price": 70800,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Проектор портативный, Wanbo Cube 1, LCD, 720p (HD), 200 ISO lumens, авто-трапеция, электрический фокус, 1.2:1, Android TV 11, Google Play, Widevine L1, Wi-Fi 2.4/5G, HDMI, USB, AUX, зеленый"
   },
   {
@@ -70,7 +70,7 @@ export const ПРОЕКТОРЫ = [
     "price": 70800,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Проектор портативный, Wanbo Cube 1, LCD, 720p (HD), 200 ISO lumensI, авто-трапеция, электрический фокус, 1.2:1, Android TV 11, Google Play, Widevine L1, Wi-Fi 2.4/5G, HDMI, USB, AUX, голубой"
   },
   {
@@ -82,7 +82,7 @@ export const ПРОЕКТОРЫ = [
     "price": 533490,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Проектор портативный, LG, CineBeam Q HU710PB, 4K UHD, серый"
   },
   {
@@ -94,7 +94,7 @@ export const ПРОЕКТОРЫ = [
     "price": 152280,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Проектор портативный, Wanbo, DaVinci 1 Pro WPC24, LCD, 1080p, 600 ANSI lm, 3000:1, Android 11.0, 1+8 GB, Белый"
   },
   {
@@ -106,7 +106,7 @@ export const ПРОЕКТОРЫ = [
     "price": 86320,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Проектор портативный, Wanbo, X2 Max, LCD, 1080p, 450 ANSI lm, 2000:1, Android 9.0, 1G+8G, 20000 часов, Wi-Fi, Bluetooth 5.0, HDMI*2, USB*1, 3.5mm*1, DC*1, 5W*2, белый"
   },
   {
@@ -118,7 +118,7 @@ export const ПРОЕКТОРЫ = [
     "price": 112510,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Проектор портативный, Wanbo, NEW T2 Max, LCD, 1920x1080, 450 ANSI lm, 2000:1, Android 9.0, Auto Focus, 1+16G, 20000 часов, Wi-Fi, Bluetooth, HDMI*1, USB*1, 3.5mm, DC*1, 3W*2, синий"
   },
   {
@@ -130,7 +130,7 @@ export const ПРОЕКТОРЫ = [
     "price": 76620,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Проектор портативный, Wanbo, Dali 1,Android 9.0, 1+8G, белый"
   },
   {
@@ -142,7 +142,7 @@ export const ПРОЕКТОРЫ = [
     "price": 112510,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Проектор портативный, Wanbo, T2 Ultra, Android 11.0, 1+8G, белый"
   },
   {
@@ -154,7 +154,7 @@ export const ПРОЕКТОРЫ = [
     "price": 130940,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Проектор портативный, Wanbo, Vali 1, Android 11.0, 1+8G, белый"
   },
   {
@@ -166,7 +166,7 @@ export const ПРОЕКТОРЫ = [
     "price": 212420,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Проектор портативный, Wanbo, Mozart 1, LCD, 1080p, 900 ANSI lm, 3000:1, Android 9.0, Auto Focus, 20000 часов, 2+32G, Wi-Fi 6, Bluetooth 5.0, HDMI*1, USB*2, 3.5mm, DC*1, 8W*2, белый"
   },
   {
@@ -178,7 +178,7 @@ export const ПРОЕКТОРЫ = [
     "price": 221150,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Проектор портативный, Wanbo, Mozart 1 Pro, LCD, 1080p, 900 ANSI lm, 3000:1, Android 11.0, Auto Focus, 20000 часов, 2+16G, Wi-Fi 6, Bluetooth 5.0, HDMI*1, USB*2, 3.5mm, DC*1, 8W*2, синий"
   },
   {
@@ -190,7 +190,7 @@ export const ПРОЕКТОРЫ = [
     "price": 91170,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Проектор портативный, Wanbo, Cube 2 Pro ,Android 9.0, 1+8G, темно-синий"
   },
   {
@@ -202,7 +202,7 @@ export const ПРОЕКТОРЫ = [
     "price": 175560,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Проектор портативный, Wanbo, X5 Pro, LCD, 1080p, 1100 ANSI lm, 3000:1, Android 11, 2G+16G, 20000 часов, Wi-Fi, Bluetooth 5.0, HDMI*1, USB*2, 3.5mm*1, AV*1, DC*1, 5W*2, черный-темно синий"
   },
   {
@@ -214,7 +214,7 @@ export const ПРОЕКТОРЫ = [
     "price": 91170,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Проектор портативный, Wanbo, Cube 2 Pro ,Android 11, 2.4G+5G, зеленый"
   },
   {
@@ -226,7 +226,7 @@ export const ПРОЕКТОРЫ = [
     "price": 221150,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Проектор портативный, Wanbo, Mozart 1 Pro 2025, LCD, 1080p (FHD), 1200 ANSI lm, 3000:1, Google TV OS, Auto Focus, Auto Keystone, ASA 3.0, HDR10, MEMC, 20 000 часов, 2+16G, Wi-Fi 6, Bluetooth 5.0, HDMI 2.01, USB2, 3.5mm, DC*1, динамики 20W (210W), синий"
   },
   {
@@ -238,7 +238,7 @@ export const ПРОЕКТОРЫ = [
     "price": 173523,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Проектор, BYINTEK, P70, DLP, WVGA, 960*540, 380 люмен, 5000:1, USB 2.0*1, Чёрный"
   },
   {
@@ -250,7 +250,7 @@ export const ПРОЕКТОРЫ = [
     "price": 274500,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Проектор, BYINTEK, U80, DLP, Full HD, 19201080, 500 люмен, 20000:1, USB 2.01, Чёрный"
   },
   {
@@ -262,7 +262,7 @@ export const ПРОЕКТОРЫ = [
     "price": 281290,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Проектор, BYINTEK, U90, DLP, Full HD, 19201080, 650 люмен, 20000:1, USB 2.01, белый"
   },
   {
@@ -274,7 +274,7 @@ export const ПРОЕКТОРЫ = [
     "price": 122113,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Проектор, BYINTEK, A22, LCD, Full HD, 19201080, 1000 люмен, 20000:1, USB 2.01, белый"
   },
   {
@@ -286,7 +286,7 @@ export const ПРОЕКТОРЫ = [
     "price": 188170,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Проектор, BYINTEK, T5 Max, LCD, Full HD, 19201080, 1000 люмен, 15000:1, USB 2.01, Белый-золотой"
   },
   {
@@ -298,7 +298,7 @@ export const ПРОЕКТОРЫ = [
     "price": 173620,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Проектор, BYINTEK, U14, LCD, FullHD (19201080), 1250 ANSIлюмен, контраст 1500:1, USB 2.0 2, WiFi 6, Android 11, белый-серый"
   },
   {
@@ -310,7 +310,8 @@ export const ПРОЕКТОРЫ = [
     "price": 166830,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Проектор, BYINTEK, K45 Smart, автофокус, Google Android 9.0, LCD, FHD, 1920*1080, 700 ANSI люмен, 18000:1, 5W *2, USB*2, HD*2, белый"
   }
 ];
+

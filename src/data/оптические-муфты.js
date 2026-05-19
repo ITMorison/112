@@ -10,7 +10,7 @@ export const ОПТИЧЕСКИЕ_МУФТЫ = [
     "price": 14550,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Муфта оптическая, А-Оптик, АО-FOSC-400A4-24F, до 24 волокон, тупиковая"
   },
   {
@@ -22,7 +22,7 @@ export const ОПТИЧЕСКИЕ_МУФТЫ = [
     "price": 17460,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Муфта оптическая, А-Оптик, АО-FOSC-400A4-48F, до 48 волокон, тупиковая"
   },
   {
@@ -34,7 +34,7 @@ export const ОПТИЧЕСКИЕ_МУФТЫ = [
     "price": 21825,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Муфта оптическая, А-Оптик, АО-FOSC-400A4-96F, до 96 волокон, тупиковая"
   },
   {
@@ -46,7 +46,7 @@ export const ОПТИЧЕСКИЕ_МУФТЫ = [
     "price": 23280,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Муфта оптическая, А-Оптик, АО-FOSC-400A8-24F, до 24 волокон, тупиковая"
   },
   {
@@ -58,7 +58,7 @@ export const ОПТИЧЕСКИЕ_МУФТЫ = [
     "price": 26190,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Муфта оптическая, А-Оптик, АО-FOSC-400A8-48F, до 48 волокон, тупиковая"
   },
   {
@@ -70,7 +70,7 @@ export const ОПТИЧЕСКИЕ_МУФТЫ = [
     "price": 29100,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Муфта оптическая, А-Оптик, АО-FOSC-400A8-96F, до 96 волокон, тупиковая"
   },
   {
@@ -82,7 +82,7 @@ export const ОПТИЧЕСКИЕ_МУФТЫ = [
     "price": 17460,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Муфта оптическая, KSC, OMT-N 20-500, 12 волокон , циллиндрическая"
   },
   {
@@ -94,7 +94,7 @@ export const ОПТИЧЕСКИЕ_МУФТЫ = [
     "price": 14550,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Муфта оптическая, А-Оптик, АО-FH007, до 24 волокон, проходная"
   },
   {
@@ -106,7 +106,7 @@ export const ОПТИЧЕСКИЕ_МУФТЫ = [
     "price": 16005,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Муфта оптическая, А-Оптик, АО-FH015-48/96, проходная, IP68, 4*4, черная"
   },
   {
@@ -118,7 +118,7 @@ export const ОПТИЧЕСКИЕ_МУФТЫ = [
     "price": 17460,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Муфта оптическая , А-Оптик, АО-FH016-96/144, проходная, IP68, 4*4, черная"
   },
   {
@@ -130,7 +130,7 @@ export const ОПТИЧЕСКИЕ_МУФТЫ = [
     "price": 12610,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Муфта оптическая, А-Оптик, АО- FOSC-2D.5-64, универсальная тупиковая до 64 волокон, черная, IP 68"
   },
   {
@@ -142,7 +142,7 @@ export const ОПТИЧЕСКИЕ_МУФТЫ = [
     "price": 11349,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Муфта оптическая, А-Оптик, АО-FODB-8H( до 32х волокон), черная, IP-68"
   },
   {
@@ -154,7 +154,8 @@ export const ОПТИЧЕСКИЕ_МУФТЫ = [
     "price": 14647,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Муфта оптическая тупиковая, А-Оптик, FOSC-D-T, под термоусадку, 48 волокон, черная"
   }
 ];
+

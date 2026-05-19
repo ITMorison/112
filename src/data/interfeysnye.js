@@ -170,3 +170,4 @@ export const INTERFACE = [
     "image": "https://market-telecom.kz/files/products/.170x220.jpg"
   }
 ];
+

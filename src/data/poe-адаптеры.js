@@ -10,7 +10,7 @@ export const POE_АДАПТЕРЫ = [
     "price": 12988,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "PoE-инжектор, TP-Link, POE150S, 10/100/1000 Мбит/с, 2 порта 10/100/1000 Мбит/с (разъём RJ45),15.4W,802.3af, Автосогласование/Авто-MDI/MDIX,1 разъём питания 48 В постоянного тока"
   },
   {
@@ -22,7 +22,7 @@ export const POE_АДАПТЕРЫ = [
     "price": 14928,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "PoE-инжектор, TP-Link, POE160S, 2 порта 10/100/1000 Мбит/с, 802.3af/at, мощность до 30 Вт"
   },
   {
@@ -34,7 +34,7 @@ export const POE_АДАПТЕРЫ = [
     "price": 26180,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "PoE-инжектор, TP-Link, POE170S, 2 порта 10/100/1000 Мбит/с, 802.3af/at/bt, мощность до 60 Вт"
   },
   {
@@ -46,7 +46,7 @@ export const POE_АДАПТЕРЫ = [
     "price": 8914,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "PoE-сплиттер, TP-Link, POE10R, 2x10/100M, RJ45, 1 порт LAN 10/100/1000 Мбит/c (разъём RJ45),12VDC, 9VDC or 5VDC Power Supply,Автосогласование/Авто-MDI/MDIX,1 разъём питания"
   },
   {
@@ -58,7 +58,7 @@ export const POE_АДАПТЕРЫ = [
     "price": 2328,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Адаптер-инжектор питания Passive POE, MikroTik, RBPOE, DATA+Power, Скорость 10/100M, Passive PoE 4,5+.7,8-"
   },
   {
@@ -70,7 +70,7 @@ export const POE_АДАПТЕРЫ = [
     "price": 3880,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Адаптер-инжектор питания Passive POE, MikroTik, RBGPOE, DATA+Power, Скорость 10/100/1000M"
   },
   {
@@ -82,7 +82,7 @@ export const POE_АДАПТЕРЫ = [
     "price": 9215,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Инжектор Passive POE, MikroTik, GESP+POE-IN, Скорость 10/1000M, Passive PoE 4,5+.7,8-, со встроенной грозозащитой"
   },
   {
@@ -94,7 +94,7 @@ export const POE_АДАПТЕРЫ = [
     "price": 18236,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ретранслятор Ethernet, MikroTik, GPeR, 2 порта 10/100/1000М, 802.3af/at, 24-57 В, -40°С до 70°С"
   },
   {
@@ -106,7 +106,7 @@ export const POE_АДАПТЕРЫ = [
     "price": 20855,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Грозозащита порта Ethernet, MikroTik, GESP, Скорость 10//100/1000M, 8KV"
   },
   {
@@ -118,7 +118,7 @@ export const POE_АДАПТЕРЫ = [
     "price": 20370,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Преобразователь PoE, MikroTik, RBGPOE-CON-HP, 48 to 24V PoE Converter, 2 порта 10/100/1000"
   },
   {
@@ -130,7 +130,7 @@ export const POE_АДАПТЕРЫ = [
     "price": 28459,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Huawei, AD-560062T0E, PoE+ 56V/35W, вес 0.258 кг"
   },
   {
@@ -142,7 +142,7 @@ export const POE_АДАПТЕРЫ = [
     "price": 29517,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Инжектор, Dahua, DH-PFT1200, Hi-PoE 60 Вт, 802.3af/at/bt"
   },
   {
@@ -154,7 +154,7 @@ export const POE_АДАПТЕРЫ = [
     "price": 18352,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гигабитный PoE-инжектор, D-Link, DPE-301GI/A1B, Порт 10/100/1000BASE-T, PoE 802.3af/at, 30 Вт"
   },
   {
@@ -166,7 +166,7 @@ export const POE_АДАПТЕРЫ = [
     "price": 40167,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "PoE-повторитель, D-Link, DPE-302GE/A1A, Гигабитный с 2 портами PoE на выходе (выходное напряжение 57 В DC)"
   },
   {
@@ -178,7 +178,7 @@ export const POE_АДАПТЕРЫ = [
     "price": 13968,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Cетевой конвертер, Dahua, DH-PFT1300, POE удлинитель пассивный"
   },
   {
@@ -190,7 +190,7 @@ export const POE_АДАПТЕРЫ = [
     "price": 5044,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "PoE адаптер, Ubiquiti, POE-24-7W-G-WH, PoEInjector 24V 7W Gigabit (белый), passive PoE, 10/100/1000Mbps Ethernet, 100–240V AC, 24В, 7W"
   },
   {
@@ -202,7 +202,7 @@ export const POE_АДАПТЕРЫ = [
     "price": 8536,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "PoE адаптер, Ubiquiti, POE-24-12W-G, PoE Injector 24VDC 12W Gbit, passive PoE, 10/100/1000Mbps Ethernet, 100–240V AC, 24В, 12W"
   },
   {
@@ -214,7 +214,7 @@ export const POE_АДАПТЕРЫ = [
     "price": 8924,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "PoE адаптер, Ubiquiti, POE-24-24W, PoE-Injector 24V 24W, passive PoE, 10/100 Mbps Ethernet, 100–240V AC, 24В, 24W"
   },
   {
@@ -226,7 +226,7 @@ export const POE_АДАПТЕРЫ = [
     "price": 8827,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "PoE адаптер, Ubiquiti, POE-24-24W-G-WH, PoE-Injector 24V 24W Gigabit (белый), passive PoE, 10/100/1000Mbps Ethernet, 100–240V AC, 24В, 24W"
   },
   {
@@ -238,7 +238,7 @@ export const POE_АДАПТЕРЫ = [
     "price": 8924,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "PoE адаптер, Ubiquiti, POE-24-24W-WH, PoE 24-24W-WH, passive PoE, 1x10/100 Mbps Ethernet, 100–240xV AC, 24xВ, 24W"
   },
   {
@@ -250,7 +250,7 @@ export const POE_АДАПТЕРЫ = [
     "price": 11737,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "PoE адаптер, Ubiquiti, POE-24-24W-G, PoE Injector 24VDC 24W Gbit, passive PoE, 10/100/1000Mbps Ethernet, 100–240V AC, 24В, 24W"
   },
   {
@@ -262,7 +262,7 @@ export const POE_АДАПТЕРЫ = [
     "price": 10961,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "PoE адаптер, Ubiquiti, POE-48-24W-G, PoE Injector 48V 24W Gigabit, passive PoE, 10/100/1000Mbps Ethernet, 100–240V AC, 48В, 24W"
   },
   {
@@ -274,7 +274,7 @@ export const POE_АДАПТЕРЫ = [
     "price": 22698,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "PoE адаптер, Ubiquiti, POE-50-60W, PoE Injector 50VDC 60W, passive PoE, 10/100/1000Mbps Ethernet, 100–240V AC, 50В, 60W"
   },
   {
@@ -286,7 +286,7 @@ export const POE_АДАПТЕРЫ = [
     "price": 21437,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "PoE адаптер, Ubiquiti, POE-54V-80W, EdgePoint PoE Injector 54VDC 80W, passive PoE, 1x10/100 Mbps Ethernet, 100–240V AC, 54 В, 80W"
   },
   {
@@ -298,7 +298,7 @@ export const POE_АДАПТЕРЫ = [
     "price": 13944,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "PoE адаптер, Ubiquiti, UACC-PoE+-2.5G, 48V 30W Gigabit, 10/100/1000/2500Mbps Ethernet, 100–240V AC"
   },
   {
@@ -310,7 +310,7 @@ export const POE_АДАПТЕРЫ = [
     "price": 21437,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "PoE адаптер, Ubiquiti, U-PoE++, PoE Injector 48VDC 60W Gbit, 802.3af/at/bt, 10/100/1000Mbps Ethernet, 100–240V AC"
   },
   {
@@ -322,7 +322,7 @@ export const POE_АДАПТЕРЫ = [
     "price": 10185,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Грозозащита, Ubiquiti, ETH-SP-G2, Ethernet Surge Protector, RJ45 Female Connectors"
   },
   {
@@ -334,7 +334,7 @@ export const POE_АДАПТЕРЫ = [
     "price": 33465,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": ""
   },
   {
@@ -346,7 +346,7 @@ export const POE_АДАПТЕРЫ = [
     "price": 26772,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Грозозащита, Dahua, ZZRJ45(POE) 6 (В), уровень зажиты от напряжения 600 V, Скорость передачи порта 100/1000Mbps"
   },
   {
@@ -358,7 +358,7 @@ export const POE_АДАПТЕРЫ = [
     "price": 0,
     "stock": 50,
     "is_available": false,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "PoE адаптер, Ubiquiti, U-PoE, PoE Injector 48VDC 15W Gbit, 802.3af, 10/100/1000Mbps Ethernet, 100–240V AC,"
   },
   {
@@ -370,7 +370,9 @@ export const POE_АДАПТЕРЫ = [
     "price": 0,
     "stock": 50,
     "is_available": false,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "PoE адаптер, Ubiquiti, U-PoE+, PoE Injector 48VDC 30W Gbit, 802.3af,802.3at, 10/100/1000Mbps Ethernet, 100–240V AC"
   }
 ];
+
+

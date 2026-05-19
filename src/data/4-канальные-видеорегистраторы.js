@@ -10,7 +10,7 @@ export const 4_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 53534,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Dahua, DHI-NVR1104HS-P-S3/H, 4 канала, Разрешение записи: до 12MP, Выходы видео: 1 x VGA, 1 x HDMI, Хранение информации: 1 SATA HDD, Поддержка мобильных платформ: IOS, Android, 4 PoE порта"
   },
   {
@@ -22,7 +22,7 @@ export const 4_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 29595,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Dahua, DHI-NVR1104HS-S3/H, 4 канала, Разрешение записи: до 12MP, Выходы видео: 1 x VGA, 1 x HDMI, Хранение информации: 1 SATA HDD, Поддержка мобильных платформ: IOS, Android и пр"
   },
   {
@@ -34,7 +34,7 @@ export const 4_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 34594,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Hikvision, DS-7104NI-Q1(D), 4 канала Mini NVR, H.265+/H.265/H.264+/H.264, Разрешение записи: Full HD, D1, CIF, 40 Мбит/с, 1 SATA HDD 6 ТБ,"
   },
   {
@@ -46,7 +46,7 @@ export const 4_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 38664,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Hikvision, DS-7104NI-Q1/M(D), 4 канала, H.265+/H.265/H.264+/H.264, Разрешение записи: Full HD, D1, CIF, 40 Мбит/с, 1 SATA HDD 6 ТБ,"
   },
   {
@@ -58,7 +58,7 @@ export const 4_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 60490,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Hikvision, DS-7604NXI-K1(B), 4 канала, H.265+/H.265/H.264+/H.264, Разрешение записи: 4K, Full HD, D1, CIF, 40 Мбит/с, Интеллектуальная аналитика, Обнаружение движения 2.0, 1 SATA HDD 10Тб,"
   },
   {
@@ -70,7 +70,7 @@ export const 4_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 62793,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеорегистратор, Hikvision, DS-7604NXI-K1(D), 4 канала, H.265+/H.265/H.264+/H.264, Разрешение записи: 4K, Full HD, D1, CIF, 40 Мбит/с, Интеллектуальная аналитика, Обнаружение движения 2.0, 1 SATA HDD 16Тб,"
   },
   {
@@ -82,7 +82,7 @@ export const 4_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 28966,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, HiLook, NVR-104H-D(D), 4-х канальный, 40 Мбит/с, 4 каналов 1080p, H.265+/H.265/H.264+/H.264, 1 SATA до 6ТБ, одновременный выход HDMI и VGA"
   },
   {
@@ -94,7 +94,7 @@ export const 4_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 55241,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, HiLook, NVR-104MH-K, 4 канала, Форматы видео: H.265+/H.265/H.264+/H.264, Входящая пропускная способность: до 40 Мбит/с"
   },
   {
@@ -106,7 +106,7 @@ export const 4_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 48316,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, HiLook, NVR-104MH-C(D), 4-х канальный, 40 Мбит/с, до 1 канала @ 8MP или 5 каналов @ 1080P, H.265+/H.265/H.264+/H.264, 1 SATA до 8ТБ,"
   },
   {
@@ -118,7 +118,7 @@ export const 4_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 69876,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, HiLook, NVR-104MH-C/4P(D), 4-х канальный, 40 Мбит/с, до 1 канала@8 МП/3 каналов@4 МП/6 каналов@1080p, H.265+/H.265/H.264+/H.264, 1 SATA до 8ТБ, 4 канала POE"
   },
   {
@@ -130,7 +130,7 @@ export const 4_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 31166,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, HiLook, NVR-104MH-D(D), 4-х канальный, 40 Мбит/с, 4 каналов 1080p, H.265+/H.265/H.264+/H.264, 1 SATA до 6ТБ, одновременный выход HDMI и VGA"
   },
   {
@@ -142,7 +142,7 @@ export const 4_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 53899,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, HiLook, NVR-104MH-D/4P(D), 4-х канальный, 40 Мбит/с, 4 каналов 1080p, H.265+/H.265/H.264+/H.264, 1 SATA до 6ТБ, одновременный выход HDMI и VGA, 4 канала POE"
   },
   {
@@ -154,7 +154,7 @@ export const 4_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 64611,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Hikvision, DS-7104NI-Q1/4P/M(D), 4 канала, Форматы сжатия видео: H.265+, H.265, H.264+, H.264"
   },
   {
@@ -166,7 +166,7 @@ export const 4_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 60541,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Hikvision, DS-7104NI-Q1/4P(D)"
   },
   {
@@ -178,7 +178,8 @@ export const 4_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 82794,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Hikvision, DS-7604NI-Q1/4P(E)"
   }
 ];
+

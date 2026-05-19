@@ -1584,3 +1584,5 @@ export const PATCH_CORDS = [
     "image": "https://market-telecom.kz/files/products/84330_1.170x220.jpg"
   }
 ];
+
+

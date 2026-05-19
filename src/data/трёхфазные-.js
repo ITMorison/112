@@ -10,7 +10,7 @@ export const ТРЁХФАЗНЫЕ_ = [
     "price": 778406,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, GT31-10KVA, Мощность 10кВА/9кВт, Трёхфазный (3 фазы на вход, 1 на выход), GT31-серия, On-Line, LCD\\RS-232/USB SMART, Диапазон работы AVR: 190-499В, Батарея: 16 шт. (не поставляется в комплекте), Чёрный"
   },
   {
@@ -22,7 +22,7 @@ export const ТРЁХФАЗНЫЕ_ = [
     "price": 960781,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, GT31-15KVA, Мощность 15кВА/13.5кВт, Трёхфазный (3 фазы на вход, 1 на выход), GT31-серия, On-Line, LCD\\RS-232/USB SMART, Диапазон работы AVR: 190-499В, Батарея: 16 шт. (не поставляется в комплекте), Чёрный"
   },
   {
@@ -34,7 +34,7 @@ export const ТРЁХФАЗНЫЕ_ = [
     "price": 1085575,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, GT31-20KVA, Мощность 20кВА/18кВт, Трёхфазный (3 фазы на вход, 1 на выход), GT31-серия, On-Line, LCD\\RS-232/USB SMART, Диапазон работы AVR: 190-499В, Батарея: 16 шт. (не поставляется в комплекте), Чёрный"
   },
   {
@@ -46,7 +46,7 @@ export const ТРЁХФАЗНЫЕ_ = [
     "price": 1609216,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, GT33-10KVA, Мощность 10кВА/10кВт, Диапазон работы AVR: 304-478В, Трёхфазный (3 фазы на вход, 3 фазы на выход), Батареи: 40шт.* 7.5Ач или 9Ач (не поставляются в комплекте, устанавливаются внутрь ИБП), On-Line, LCD\\RS-232, Коэффициент мощности 1, Чёрный"
   },
   {
@@ -58,7 +58,7 @@ export const ТРЁХФАЗНЫЕ_ = [
     "price": 1735370,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, GT33-15KVA, Мощность 15кВА/15кВт, Диапазон работы AVR: 304-478В, Трёхфазный (3 фазы на вход, 3 фазы на выход), Батареи: 40шт.* 7.5Ач или 9Ач (не поставляются в комплекте, устанавливаются внутрь ИБП), On-Line, LCD\\RS-232, Коэффициент мощности 1, Чёрный"
   },
   {
@@ -70,7 +70,7 @@ export const ТРЁХФАЗНЫЕ_ = [
     "price": 2673406,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, GT33-20KVA, Мощность 20кВА/18кВт, Диапазон работы AVR: 304-478В, Трёхфазный (3 фазы на вход, 3 фазы на выход), Батареи: 40шт.* 12Ач (не поставляются в комплекте, устанавливаются внутрь ИБП), On-Line, LCD, Коэффициент мощности 0.9, Чёрный"
   },
   {
@@ -82,7 +82,7 @@ export const ТРЁХФАЗНЫЕ_ = [
     "price": 3142056,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, GT33-40KVA, Мощность 40кВА/36кВт, Диапазон работы AVR: 304-478В, Трёхфазный (3 фазы на вход, 3 фазы на выход), Батареи: 80шт.* 12Ач (не поставляются в комплекте, устанавливаются внутрь ИБП), On-Line, LCD\\RS-232, Коэффициент мощности 1, Чёрный"
   },
   {
@@ -94,7 +94,7 @@ export const ТРЁХФАЗНЫЕ_ = [
     "price": 2106636,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, CyberPower, HSTP3T10KEBCWOB, Трёхфазный (3Ф/3Ф), On-Line, 10кВА/9кВт, Батареи: 9Ач/40 шт. (не поставляются в комплекте), чёрный"
   },
   {
@@ -106,7 +106,7 @@ export const ТРЁХФАЗНЫЕ_ = [
     "price": 12578756,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, CyberPower, HSTP3T120KE, Трёхфазный (3Ф/3Ф), On-Line, Мощность 120кВА/108кВт, Без батарей"
   },
   {
@@ -118,7 +118,7 @@ export const ТРЁХФАЗНЫЕ_ = [
     "price": 3573470,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, CyberPower, HSTP3T20KEBCWOB, Трёхфазный (3Ф/3Ф), On-Line, 20кВА/18кВт, Батареи: 12Ач/40 шт. (не поставляются в комплекте), чёрный"
   },
   {
@@ -130,7 +130,7 @@ export const ТРЁХФАЗНЫЕ_ = [
     "price": 4442590,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, CyberPower, HSTP3T30KEBCWOB, Трёхфазный (3Ф/3Ф), On-Line, 30кВА/27кВт, Батареи: 12Ач/40 шт. (не поставляются в комплекте), чёрный"
   },
   {
@@ -142,7 +142,7 @@ export const ТРЁХФАЗНЫЕ_ = [
     "price": 5322768,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, CyberPower, HSTP3T40KEBCWOB, Трёхфазный (3Ф/3Ф), On-Line, 40кВА/36кВт, Батареи: 12Ач/80шт (не поставляются в комплекте), чёрный"
   },
   {
@@ -154,7 +154,7 @@ export const ТРЁХФАЗНЫЕ_ = [
     "price": 4636590,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, CyberPower, HSTP3T30KE, Трёхфазный (3Ф/3Ф), On-Line, 30кВА/27кВт, Батареи: 12Ач/40 шт. (не поставляются в комплекте), чёрный"
   },
   {
@@ -166,7 +166,7 @@ export const ТРЁХФАЗНЫЕ_ = [
     "price": 6550887,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, APC, Easy UPS E3SUPS20KHB, Мощность 20кВА/20кВт, Трёхфазный, On-Line, LCD/RS485/сухие контакты/Ethernet (SNMP/Modbus/TCP/IP/BACnet), Без АКБ, Белый"
   },
   {
@@ -178,7 +178,7 @@ export const ТРЁХФАЗНЫЕ_ = [
     "price": 9907467,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, APC, Easy UPS E3SUPS40KHB, Мощность 40кВА/40кВт, Трёхфазный, On-Line, LCD/RS485/сухие контакты/Ethernet (SNMP/Modbus/TCP/IP/BACnet), Без АКБ, Чёрный"
   },
   {
@@ -190,7 +190,8 @@ export const ТРЁХФАЗНЫЕ_ = [
     "price": 15060276,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, APC, Easy UPS E3MUPS80KHBS, Комплект:E3MUPS80KHB, Мощность 80кВА/80кВт, Трёхфазный, On-Line, LCD/RS485/сухие контакты/Ethernet (SNMP/Modbus/TCP/IP/BACnet), Без АКБ, Белый"
   }
 ];
+

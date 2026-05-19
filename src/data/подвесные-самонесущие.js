@@ -10,7 +10,7 @@ export const ПОДВЕСНЫЕ_САМОНЕСУЩИЕ = [
     "price": 291,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИКАЛс-М4П-А4-3 кН, самонесущий с повивом из стеклонитей без промежуточной оболочки в модульной конструкции"
   },
   {
@@ -22,7 +22,7 @@ export const ПОДВЕСНЫЕ_САМОНЕСУЩИЕ = [
     "price": 437,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИКАЛс-М6П-А4-7 кН, самонесущий кабель с повивом из стеклонитей без промежуточной оболочки"
   },
   {
@@ -34,7 +34,7 @@ export const ПОДВЕСНЫЕ_САМОНЕСУЩИЕ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, СКО, ОКМС-4(G.652.D) 3кН, предназначен для подвеса между столбами городского освещения, между зданиями и сооружениями при повышенных требованиях ограничения нагрузки на опоры."
   },
   {
@@ -46,7 +46,7 @@ export const ПОДВЕСНЫЕ_САМОНЕСУЩИЕ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, СКО, ОККМC-0,22(G.652.D)-4-6кН, предназначен для воздушной прокладки-на опорах линий связи, контактной сети железных дорог, опорах линий электропередач в точках с максимальной величиной потенциала электрического поля до 12 кВ, между зданиями и сооружениями."
   },
   {
@@ -58,7 +58,7 @@ export const ПОДВЕСНЫЕ_САМОНЕСУЩИЕ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИКАЛс-М4П-А8-3 кН , самонесущий с повивом из стеклонитей без промежуточной оболочки в модульной конструкции"
   },
   {
@@ -70,7 +70,7 @@ export const ПОДВЕСНЫЕ_САМОНЕСУЩИЕ = [
     "price": 466,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИКАЛс-М6П-А8-7 кН, самонесущий кабель с повивом из стеклонитей без промежуточной оболочки"
   },
   {
@@ -82,7 +82,7 @@ export const ПОДВЕСНЫЕ_САМОНЕСУЩИЕ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, СКО, ОКМС-8(G.652.D) 3кН, предназначен для подвеса между столбами городского освещения, между зданиями и сооружениями при повышенных требованиях ограничения нагрузки на опоры."
   },
   {
@@ -94,7 +94,7 @@ export const ПОДВЕСНЫЕ_САМОНЕСУЩИЕ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, СКО, ОККМC-0,22(G.652.D)-8-6кН, предназначен для воздушной прокладки-на опорах линий связи, контактной сети железных дорог, опорах линий электропередач в точках с максимальной величиной потенциала электрического поля до 12 кВ, между зданиями и сооружениями."
   },
   {
@@ -106,7 +106,7 @@ export const ПОДВЕСНЫЕ_САМОНЕСУЩИЕ = [
     "price": 328,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИКАЛс-М4П-А12-3 кН, самонесущий с повивом из стеклонитей без промежуточной оболочки в модульной конструкции"
   },
   {
@@ -118,7 +118,7 @@ export const ПОДВЕСНЫЕ_САМОНЕСУЩИЕ = [
     "price": 357,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИКАЛс-М4П-А16-3 кН, самонесущий с повивом из стеклонитей без промежуточной оболочки в модульной конструкции"
   },
   {
@@ -130,7 +130,7 @@ export const ПОДВЕСНЫЕ_САМОНЕСУЩИЕ = [
     "price": 502,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИКАЛс-М6П-А16-7 кН, самонесущий кабель с повивом из стеклонитей без промежуточной оболочки"
   },
   {
@@ -142,7 +142,7 @@ export const ПОДВЕСНЫЕ_САМОНЕСУЩИЕ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, СКО, ОКМС-16(G.652.D) 3кН, предназначен для подвеса между столбами городского освещения, между зданиями и сооружениями при повышенных требованиях ограничения нагрузки на опоры."
   },
   {
@@ -154,7 +154,7 @@ export const ПОДВЕСНЫЕ_САМОНЕСУЩИЕ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, СКО, ОККМC-0,22(G.652.D)-16-6кН, предназначен для воздушной прокладки-на опорах линий связи, контактной сети железных дорог, опорах линий электропередач в точках с максимальной величиной потенциала электрического поля до 12 кВ, между зданиями и сооружениями."
   },
   {
@@ -166,7 +166,7 @@ export const ПОДВЕСНЫЕ_САМОНЕСУЩИЕ = [
     "price": 538,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИКАЛс-М6П-А24-7 кН, самонесущий кабель с повивом из стеклонитей без промежуточной оболочки"
   },
   {
@@ -178,7 +178,7 @@ export const ПОДВЕСНЫЕ_САМОНЕСУЩИЕ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, СКО, ОККМC-0,22(G.652.D)-24-6кН, предназначен для воздушной прокладки-на опорах линий связи, контактной сети железных дорог, опорах линий электропередач в точках с максимальной величиной потенциала электрического поля до 12 кВ, между зданиями и сооружениями."
   },
   {
@@ -190,7 +190,7 @@ export const ПОДВЕСНЫЕ_САМОНЕСУЩИЕ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, СКО, ОККМ-0,22-24 7кН, предназначен для подвеса на опорах линий связи, контактной сети железных дорог, опорах линий электропередачи напряжением до 35 кВ в точках с максимальной величиной потенциала электрического поля до 12 кВ, между зданиями и сооружениями с максимально допустимой нагрузкой до 10кН."
   },
   {
@@ -202,7 +202,7 @@ export const ПОДВЕСНЫЕ_САМОНЕСУЩИЕ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИКАЛс-М4П-А24-7 кН, самонесущий кабель с повивом из стеклонитей без промежуточной оболочки"
   },
   {
@@ -214,7 +214,7 @@ export const ПОДВЕСНЫЕ_САМОНЕСУЩИЕ = [
     "price": 422,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИКАЛс-М4П-А24-3 кН, самонесущий с повивом из стеклонитей без промежуточной оболочки в модульной конструкции"
   },
   {
@@ -226,7 +226,7 @@ export const ПОДВЕСНЫЕ_САМОНЕСУЩИЕ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, СКО, ОКМС-24(G.652.D) 6кН, предназначен для подвеса между столбами городского освещения, между зданиями и сооружениями при повышенных требованиях ограничения нагрузки на опоры."
   },
   {
@@ -238,7 +238,7 @@ export const ПОДВЕСНЫЕ_САМОНЕСУЩИЕ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИКАС-М6П-А24-15 кН, самонесущий кабель с повивом из стеклонитей, с промежуточной оболочкой"
   },
   {
@@ -250,7 +250,7 @@ export const ПОДВЕСНЫЕ_САМОНЕСУЩИЕ = [
     "price": 444,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИКАЛс-М6П-А32-3 кН, самонесущий кабель с повивом из стеклонитей без промежуточной оболочки"
   },
   {
@@ -262,7 +262,7 @@ export const ПОДВЕСНЫЕ_САМОНЕСУЩИЕ = [
     "price": 626,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИКАЛс-М6П-А32-7 кН , самонесущий с повивом из стеклонитей без промежуточной оболочки в модульной конструкции"
   },
   {
@@ -274,7 +274,7 @@ export const ПОДВЕСНЫЕ_САМОНЕСУЩИЕ = [
     "price": 538,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИКАЛс-М6П-А48-3 кН, самонесущий кабель с повивом из стеклонитей без промежуточной оболочки"
   },
   {
@@ -286,7 +286,7 @@ export const ПОДВЕСНЫЕ_САМОНЕСУЩИЕ = [
     "price": 590,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Белтелекабель, ОКСНМ-10-01-0,22-48-3,0 кН, самонесущий в модульной конструкций"
   },
   {
@@ -298,7 +298,7 @@ export const ПОДВЕСНЫЕ_САМОНЕСУЩИЕ = [
     "price": 873,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИКАЛс-М6П-А48-10 кН, самонесущий кабель с повивом из стеклонитей без промежуточной оболочки"
   },
   {
@@ -310,7 +310,7 @@ export const ПОДВЕСНЫЕ_САМОНЕСУЩИЕ = [
     "price": 655,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИКАЛс-М6П-А48-7 кН, самонесущий кабель с повивом из стеклонитей без промежуточной оболочки"
   },
   {
@@ -322,7 +322,7 @@ export const ПОДВЕСНЫЕ_САМОНЕСУЩИЕ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, СКО, ОККМC-0,22(G.652.D)-48-6кН, предназначен для воздушной прокладки-на опорах линий связи, контактной сети железных дорог, опорах линий электропередач в точках с максимальной величиной потенциала электрического поля до 12 кВ, между зданиями и сооружениями."
   },
   {
@@ -334,7 +334,7 @@ export const ПОДВЕСНЫЕ_САМОНЕСУЩИЕ = [
     "price": 606,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИКАЛс-М8П-А64-3 кН, самонесущий кабель с повивом из стеклонитей без промежуточной оболочки"
   },
   {
@@ -346,7 +346,7 @@ export const ПОДВЕСНЫЕ_САМОНЕСУЩИЕ = [
     "price": 640,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Белтелекабель, ОКСНМ-10-01-0,22-64-3,0 кН, самонесущий в модульной конструкций"
   },
   {
@@ -358,7 +358,7 @@ export const ПОДВЕСНЫЕ_САМОНЕСУЩИЕ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИКАЛс-М8П-А64-7 кН, самонесущий кабель с повивом из стеклонитей без промежуточной оболочки"
   },
   {
@@ -370,7 +370,7 @@ export const ПОДВЕСНЫЕ_САМОНЕСУЩИЕ = [
     "price": 800,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИКАЛс-М8П-А96-3 кН, самонесущий кабель с повивом из стеклонитей без промежуточной оболочки"
   },
   {
@@ -382,7 +382,7 @@ export const ПОДВЕСНЫЕ_САМОНЕСУЩИЕ = [
     "price": 793,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Белтелекабель, ОКСНМ-10-01-0,22-96-3,0 кН, самонесущий в модульной конструкций"
   },
   {
@@ -394,7 +394,7 @@ export const ПОДВЕСНЫЕ_САМОНЕСУЩИЕ = [
     "price": 1143,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИКАЛс-М6П-А144-3 кН, самонесущий кабель с повивом из стеклонитей без промежуточной оболочки"
   },
   {
@@ -406,7 +406,8 @@ export const ПОДВЕСНЫЕ_САМОНЕСУЩИЕ = [
     "price": 1143,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Белтелекабель, ОКСНМ-10-01-0,22-144-3,0 кН, самонесущий в модульной конструкций"
   }
 ];
+

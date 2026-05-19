@@ -10,7 +10,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 23115,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Dahua, DH-IPC-T1E40-A, 4MP CMOS 1/3 дюймовая IR 30 м, Smart H.265+. Smart H.264+"
   },
   {
@@ -22,7 +22,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 31506,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Dahua, DH-IPC-HDW1431T1-A, Купольная, 4 Мп, CMOS-матрица 1/2.9\", ИК-подсветка - до 30 м, Функция день/ночь, Объектив: f=2.8 мм, 12VDC"
   },
   {
@@ -34,7 +34,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 22998,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Dahua, DH-IPC-HDPW1431R1P-0280B, Матрица 1/3” 4 Мп progressive CMOS, Разрешение 2688 (Г) 1520 (В), ROM 128 Мб / RAM 128 Мб, Объектив c фиксированным фокусным расстоянием, Фокусное расстояние 2,8 мм"
   },
   {
@@ -46,7 +46,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 45086,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Dahua, DH-IPC-HDW1439V-A-IL, купольная, 4 Мп, КМОП-матрица 1/2.8\", высокая чувствительность, высокое разрешение"
   },
   {
@@ -58,7 +58,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 56813,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Dahua, DH-IPC-HDW1431T1P-ZS-2812, Купольная, CMOS-матрица 1/3\", Механический ИК-фильтр, Функция день/ночь, 4.0 мега., 0.03 лк/F=1.6, Объектив: f = 2,8 мм – 12 мм, Скор. записи: 2560  1440 до 25/30 к/c, DC 12В, PoE (802.3af)"
   },
   {
@@ -70,7 +70,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 55686,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Dahua, DH-IPC-HDPW1431R1P-ZS, купольная, CMOS-матрица 1/3\", Механический ИК-фильтр, Функция день/ночь, 4.0 мега., 0.03 лк/F=1.7, Объектив: f = 2,8 мм – 12 мм, Скор. записи: до 25/30 к/c, DC 12В, PoE (802.3af)"
   },
   {
@@ -82,7 +82,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 62837,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Dahua, DH-IPC-HDBW1431RP-ZS-2812, купольная 4-мегапиксельная ИК-фиксированная купольная сетевая камера"
   },
   {
@@ -94,7 +94,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 78405,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Dahua, DH-IPC-HDW2449T-S-PRO, 4MP, 1,8\" CMOS, H.264+/H.265+, WizSense"
   },
   {
@@ -106,7 +106,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 65892,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Dahua, DH-IPC-HDW2449TP-S-IL-0280B, Eyeball, 4-мегапиксельная интеллектуальная двойная подсветка, WizSense"
   },
   {
@@ -118,7 +118,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 152280,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Dahua, DH-IPC-HDBW2441RP-ZAS-27135, 4-мегапиксельная ИК-вариофокальная купольная сетевая камера WizSense"
   },
   {
@@ -130,7 +130,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 44508,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Dahua, DH-IPC-HDBW2441EP-S-0280B, 4-мегапиксельная ИК-фиксированная купольная сетевая камера WizSense"
   },
   {
@@ -142,7 +142,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Dahua, DH-IPC-HDBW2441R-ZS-K1, 4-мегапиксельная ИК-вариофокальная купольная сетевая камера WizSense"
   },
   {
@@ -154,7 +154,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 117913,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Dahua, DH-IPC-HDBW2441RP-ZS-27135, 4-мегапиксельная ИК-вариофокальная купольная сетевая камера WizSense"
   },
   {
@@ -166,7 +166,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 99280,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Dahua, DH-IPC-HDW2441TP-ZS-27135, купольная, 4-мегапиксельная ИК-вариофокальная сетевая камера WizSense"
   },
   {
@@ -178,7 +178,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 41642,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Dahua, DH-IPC-HDBW2449E-S-IL, купольная, 4MP, H.264+/H.265+, 1/2.9\" CMOS, 12 VDC"
   },
   {
@@ -190,7 +190,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 87096,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Dahua, DH-IPC-HDBW2449F-AS-IL, купольная, 4MP, H.264+/H.265+, 1/2.9\" CMOS, 12 VDC"
   },
   {
@@ -202,7 +202,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Dahua, DH-IPC-HDBW5442H-Z4HE, купольная, 4 Мп, варифокальная, сетевая, WizMind"
   },
   {
@@ -214,7 +214,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Dahua, DH-IPC-HDBW5441FP-AS-E2-0280B, 4-мегапиксельный 1/2.8\" CMOS-датчик, низкая яркость и изображение высокой четкости"
   },
   {
@@ -226,7 +226,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Dahua, DH-IPC-HDBW5442E-ZHE, купольная, матрица 1/1.8”, 4 Мп, CMOS"
   },
   {
@@ -238,7 +238,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Dahua, DH-IPC-HDBW5442R-ASE, купольная, 4Мп видеокамера WDR с ИК-подсветкой и искусственным интеллектом"
   },
   {
@@ -250,7 +250,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Dahua, DH-IPC-HDBW5442HP-ZHE, купольная, 4Мп, варифокальная, сетевая, WizMind"
   },
   {
@@ -262,7 +262,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Dahua, DH-IPC-HDBW5442HP-ZE, Матрица 1/1.8” 4Мп progressive scan CMOS, Сжатие H.265+, H.265, H.264+, H.264, H.264B, H.264H"
   },
   {
@@ -274,7 +274,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 68438,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD2143G2-IU, Купольная, CMOS- матрица 1/3\" progressive, ИК до 30м, AcuSense 4 mp, 0.005 Lux F1.6, Фиксированный f2.8мм, Аудио 1Микрофон, 1MicroSD до 512Gb, WDR, IP67, PoE, 12VDC"
   },
   {
@@ -286,7 +286,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 73008,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD2143G2-LIS2U (2,8 мм), 4МП,1/2,9 дюймовая CMOS"
   },
   {
@@ -298,7 +298,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 70506,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD1147G2H-LIUF, Купольная, CMOS- матрица 1/3\" progressive Smart ИК/Белая до 30м ColorVu 4 mp 0.001 Lux F1.0 Фиксированный f2.8мм Аудио 1Микрофон 1MicroSD до 512Gb, IK08 WDR IP67, PoE, 12VDC"
   },
   {
@@ -310,7 +310,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 51165,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD1143G2-LIUF, Купольная, CMOS- матрица 1/3\" progressive Smart, ИК/Белая до 30м, 4 mp, 0.005 Lux F1.6, Фиксированный f2.8мм, Аудио 1Микрофон, 1MicroSD до 512Gb, WDR, IP67, PoE 12VDC"
   },
   {
@@ -322,7 +322,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD1743G0-IZ-SA, Купольная, CMOS- матрица 1/3\" progressive, EXIR 2.0 ИК до 30м, 4 mp, 0.005 Lux F1.6, Варифокальный моторизованный объектив f28–12 мм, Аудио 1Микрофон, 1MicroSD до 256Gb, Audio: 1 input/1 output Alarm, WDR, PoE, 12VDC"
   },
   {
@@ -334,7 +334,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD3143G2-IU, Купольная, CMOS- матрица 1/2.9\" progressive, ИК до 40м, 4 mp, 0.005 Lux F1.6, Фиксированный f2.8мм, Аудио 1Микрофон, 1MicroSD до 512Gb, Audio: 1 input/1 output Alarm, WDR, PoE, 12VDC"
   },
   {
@@ -346,7 +346,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 48839,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD1343G2-LIUF, Купольная CMOS- матрица 1/3\" progressive, Smart ИК/Белая до 30м, 4 mp, 0.005 Lux F1.6, Фиксированный f2.8мм, Аудио 1Микрофон 1MicroSD до 512Gb, WDR, IP67, PoE, 12VDC"
   },
   {
@@ -358,7 +358,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 65234,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD1347G2H-LIUF, Купольная, CMOS- матрица, 1/3\" progressive Smart ИК/Белая до 30м ColorVu 4 mp 0.001 Lux F1.0 Фиксированный f2.8мм Аудио 1Микрофон 1MicroSD до 512Gb, WDR IP67, PoE, 12VDC"
   },
   {
@@ -370,7 +370,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 77522,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD1743G2-LIZU, Купольная, CMOS- матрица 1/3\" progressive, Smart ИК/Белая до 30м, 4 mp 0.005 Lux F1.6 Варифокальный моторизованный объектив f28–12 мм, Аудио 1Микрофон 1MicroSD до 512Gb, WDR IP67 PoE 12VDC"
   },
   {
@@ -382,7 +382,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 82174,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD1743G2-LIZSU, Купольная, CMOS- матрица 1/3\" progressive, Smart ИК/Белая до 30м, 4 mp 0.005 Lux F1.6 Варифокальный моторизованный объектив f28–12 мм, Аудио 1Микрофон 1MicroSD до 512Gb, WDR IP67 PoE 12VDC"
   },
   {
@@ -394,7 +394,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 63692,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD2343G2-IU, Купольная, CMOS- матрица 1/3\" progressive, ИК до 30м, AcuSense, 4 mp, 0.005 Lux F1.6, Фиксированный f2.8мм, Аудио 1Микрофон 1MicroSD до 512Gb, WDR, IP67, PoE, 12VDC"
   },
   {
@@ -406,7 +406,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD2345G0P-I, Купольная, CMOS- матрица 1/2.7\" progressive, ИК до 10м, 4 mp 0.028Lux F2.5 Фиксированный широкоугольный f168мм 180°, MicroSD до 256Gb, WDR PoE 12VDC"
   },
   {
@@ -418,7 +418,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 101748,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD2346G2P-ISU/SL(C), Купольная, CMOS- матрица 2  1/2,5\" progressive, ИК до 30м, DarkFighter 4 mp, 0,003 Lux F1.6, Фиксированный f2.8мм, Аудио 1Микрофон, 1MicroSD до 512Gb, Alarm, WDR, IP67, PoE 12VDC"
   },
   {
@@ -430,7 +430,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 129850,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD2347G2P-LSU/SL(C), Купольная, CMOS- матрица 2  1/2,5\" progressive, подцветка до 30м, ColorVu 4 mp, 0,0005 Lux F1.0, Фиксированный f2.8мм, Встроенный динамик, Аудио 1Микрофон, 1MicroSD до 512Gb, Alarm, WDR, IP67, PoE 12VDC"
   },
   {
@@ -442,7 +442,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 90881,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD2347G2H-LIU, Купольная, CMOS- матрица 1/1.8\" progressive Smart ИК/Белая до 30м ColorVu 4 mp 0.0005 Lux F1.0 Фиксированный f2.8мм, Аудио 1Микрофон 1MicroSD до 512Gb, WDR 130 dB PoE, 12VDC"
   },
   {
@@ -454,7 +454,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 63256,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD2443G2-I, Кубическая, CMOS- матрица 1/3\" progressive, ИК до 10м, AcuSense, 4 mp, 0.008 Lux F2.0, Фиксированный f2.8мм, Аудио 1Микрофон 1MicroSD до 512Gb, WDR, PoE, 12VDC"
   },
   {
@@ -466,7 +466,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 129850,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD2347G2P, Купольная, CMOS- матрица 2  1/2.5\" progressive, белый Свет до 30м, ColorVu 4 mp, 0.0005 Lux F1.0 Панорамный двойной объектив f2.8мм, Аудио 1Микрофон 1MicroSD до 512Gb, Audio: 1 input/1 output Alarm активный стробоскоп/ звуковая сигнализация WDR 130 dB PoE 12VDC"
   },
   {
@@ -478,7 +478,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 91689,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD2543G2-IS, 4 МП, Датчик изображения 1/3\" прогрессивная развертка CMOS"
   },
   {
@@ -490,7 +490,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 86852,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD2543G2-I, Мини-купольная, CMOS- матрица 1/3\" progressive, ИК до 30м, AcuSense, 4 mp, 0.005 Lux F1.6, Фиксированный f2.8мм, Аудио 1Микрофон 1MicroSD до 512Gb, IK08, WDR, IP67, PoE, 12VDC"
   },
   {
@@ -502,7 +502,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 134495,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD2743G2-IZS, Купольная, CMOS- матрица 1/3\" progressive, ИК до 40м AcuSense 4 mp 0.005 Lux F1.6 Варифокальный моторизованный объектив f28–12 мм, 1MicroSD до 256Gb Audio: 1 input/1 output Alarm WDR, PoE, 12VDC"
   },
   {
@@ -514,7 +514,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD3741G2-IZS-AF(2.7-13.5mm), 4 Мп уличная купольная IP-камера с EXIR-подсветкой до 40 м"
   },
   {
@@ -526,7 +526,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 100098,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD3741G2-LIZSU-TS"
   },
   {
@@ -538,7 +538,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 46513,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD1143G2-LIU, Купольная, CMOS- матрица 1/3\" progressive Smart, ИК/Белая до 30м, 4 mp, 0.005 Lux F1.6, Фиксированный f2.8мм, Аудио 1Микрофон, 1MicroSD до 512Gb, WDR, IP67, PoE 12VDC"
   },
   {
@@ -550,7 +550,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 100205,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP Видеокамера, Hikvision, DS-2CD2147G3-LIY"
   },
   {
@@ -562,7 +562,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 44187,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD1343G2-LIU, Матрица: 1/3\" Прогрессивная CMOS, ИК-подсветка: дальность до 30 м"
   },
   {
@@ -574,7 +574,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 48308,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP Видеокамера, HiLook, IPC-D149HA-LU, Купольная, 4 МП обнаружения людей и транспорта, ColorVu умный гибридный свет до 30м, сжатия H.265+, встроенный микрофон, IP67, IK08"
   },
   {
@@ -586,7 +586,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 46749,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP Видеокамера, HiLook, IPC-T249HA-LU, Купольная, 4 МП обнаружения людей и транспорта, ColorVu умный гибридный свет до 30м, сжатия H.265+, встроенный микрофон, IP67"
   },
   {
@@ -598,7 +598,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 22000,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP Видеокамера, HiLook, IPC-T241HE-UC, Купольная, 4 МП обнаружения людей и транспорта, ИК-подцветка 20м, сжатия H.265+, POE, IP67"
   },
   {
@@ -610,7 +610,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 26400,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP Видеокамера, HiLook, IPC-D140HA-LUC, Купольная, 4 МП обнаружения людей и транспорта, Smart Dual-Light до 30м, сжатия H.265+, встроенный микрофон, IP67, IK08"
   },
   {
@@ -622,7 +622,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 26400,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP Видеокамера, HiLook, IPC-T240HA-LUC, Купольная, 4 МП обнаружения людей и транспорта, Smart Dual-Light до 30м, сжатия H.265+, встроенный микрофон, IP67"
   },
   {
@@ -634,7 +634,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 32999,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP Видеокамера, HiLook, IPC-T240HA-LUFC/SL, Купольная, 4 МП обнаружения людей и транспорта, умный гибридный свет до 30м, сжатия H.265+, двусторонняя аудиосвязь, слот для SD-карты до 512 ГБ, IP67"
   },
   {
@@ -646,7 +646,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 38499,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP Видеокамера, HiLook, IPC-D140HA-LU, Купольная, 4 МП обнаружения людей и транспорта, Smart Dual-Light до 30м, сжатия H.265+, встроенный микрофон, IP67, IK08"
   },
   {
@@ -658,7 +658,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 36666,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP Видеокамера, HiLook, IPC-T240HA-LU, Купольная, 4 МП обнаружения людей и транспорта, Smart Dual-Light до 30м, сжатия H.265+, встроенный микрофон, IP67"
   },
   {
@@ -670,7 +670,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 22000,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP Видеокамера, HiLook, IPC-D141HE-UC, Купольная, 4 МП обнаружения людей и транспорта, ИК-подцветка 20м, сжатия H.265+, IP67,"
   },
   {
@@ -682,7 +682,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 65118,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD1147G3-LIU"
   },
   {
@@ -694,7 +694,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 23115,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Dahua, DH-IPC-B1E40-A, 4MP CMOS 1/3 дюймовая IR 30 м, Smart H.265+. Smart H.264+"
   },
   {
@@ -706,7 +706,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 31506,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Dahua, DH-IPC-HFW1431TC1-A, Цилиндрическая, 4MP CMOS 1/2,9 дюйма, IR 30 м, 12 VDC"
   },
   {
@@ -718,7 +718,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 45086,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Dahua, DH-IPC-HFW1439TL1-A-IL, 4 Мп интеллектуальная цилиндрическая камера с двумя осветителями"
   },
   {
@@ -730,7 +730,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 56810,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Dahua, DH-IPC-HFW1431T1P-ZS-2812, цилиндрическая, CMOS-матрица 1/3\", Механический ИК-фильтр, Функция день/ночь, 4.0 мега., 0.03 лк/F=1.7, Объектив: f = 2,8 мм – 12 мм, Скор. записи: до 25/30 к/c, DC 12В, PoE (802.3af)"
   },
   {
@@ -742,7 +742,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 65892,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Dahua, DH-IPC-HFW2449SP-S-IL-0280B, 4-мегапиксельная, цилиндрическая, интеллектуальная двойная подсветка Фиксированная WizSense"
   },
   {
@@ -754,7 +754,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 78405,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Dahua, DH-IPC-HFW2449TL-S-PRO, 4MP, 1.8\" CMOS, H.264+/H.265+/WizSense"
   },
   {
@@ -766,7 +766,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 140980,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Dahua, DH-IPC-HFW2449T-ZAS-IL, цилиндрическая, 4MP, H.264+/H.265+/WizSense"
   },
   {
@@ -778,7 +778,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 108204,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Dahua, DH-IPC-HFW2441TP-ZAS-27135, цилиндрическая, 4 Мп, ИК-вариофокальная WizSense"
   },
   {
@@ -790,7 +790,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 117913,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Dahua, DH-IPC-HFW2441T-ZS-K1, цилиндрическая, 4-мегапиксельная, WizSense"
   },
   {
@@ -802,7 +802,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 117913,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Dahua, DH-IPC-HFW2441TP-ZS-27135, цилиндрическая, 4-мегапиксельная, WizSense"
   },
   {
@@ -814,7 +814,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 287818,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Dahua, DH-IPC-HFW3441TP-AS-P, CMOS 1/2,7 дюйма, IR 30 м, 12 VDC"
   },
   {
@@ -826,7 +826,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 48839,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD1043G2-LIUF, Цилиндрическая, CMOS- матрица 1/3\" progressive Smart, ИК/Белая до 30м, 4 mp, 0.005 Lux F1.6, Фиксированный f2.8мм, Аудио 1Микрофон, 1MicroSD до 512Gb, WDR, IP67, PoE, 12VDC"
   },
   {
@@ -838,7 +838,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 65234,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD1047G2H-LIUF, Цилиндрическая, CMOS- матрица 1/3\" progressive, Smart ИК/Белая до 30м, ColorVu, 4 mp, 0.001 Lux F1.0, Фиксированный f2.8мм, Аудио 1Микрофон 1MicroSD до 512Gb, WDR, IP67, PoE, 12VDC"
   },
   {
@@ -850,7 +850,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 348851,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-TCG406-E(12V/PoE)(2812), 4MP, ANPR, цилиндрическая IP-камера"
   },
   {
@@ -862,7 +862,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 67367,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD2043G2-IU, Цилиндрическая, CMOS- матрица 1/3\" progressive, ИК до 40м, AcuSense 4 mp, 0.005 Lux F1.6, Фиксированный f2.8мм, Аудио 1Микрофон, 1MicroSD до 512Gb, WDR, IP67, PoE, 12VDC"
   },
   {
@@ -874,7 +874,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 64917,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD2043G2-I, Матрица. 1/3 Progressive Scan CMOS, Питание: 12VDC ±25% или PoE IEEE802.3af, макс. потребление 6Вт"
   },
   {
@@ -886,7 +886,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 93027,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокамера, Hikvision, DS-2CD1643G0-IZ(2.8-12mm), Цилиндрическая, CMOS- матрица 1/3\" progressive До 50 м 4 mp 0.005 Lux F1.6 Варифокальный моторизованный объектив f28–12 мм металлический корпус, WDR PoE 12VDC"
   },
   {
@@ -898,7 +898,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 81863,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD1643G2-LIZSU, Цилиндрическая, CMOS- матрица 1/3\" progressive, Smart ИК/Белая до 50м, 4 mp 0.005 Lux F1.6 Варифокальный моторизованный объектив f28–12 мм, Аудио 1Микрофон 1MicroSD до 512Gb, Alarm WDR IP67 PoE 12VDC"
   },
   {
@@ -910,7 +910,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 77522,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD1643G2-LIZU, Цилиндрическая, CMOS- матрица 1/3\" progressive, Smart ИК/Белая до 50м, 4 mp 0.005 Lux F1.6 Варифокальный моторизованный объектив f28–12 мм, Аудио 1Микрофон 1MicroSD до 512Gb, WDR IP67 PoE 12VDC"
   },
   {
@@ -922,7 +922,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 74653,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD1T47G2H-LIUF, Цилиндрическая, CMOS- матрица 1/3\" progressive, Smart ИК/Белая до 50м, ColorVu, 4 mp, 0.001 Lux F1.0, Фиксированный f2.8мм, Аудио 1Микрофон 1MicroSD до 512Gb, WDR, IP67, PoE, 12VDC"
   },
   {
@@ -934,7 +934,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 111438,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD2T46G2P-ISU/SL(C), Цилиндрическая, CMOS- матрица 2х 1/2.5\" progressive, ИК до 40м, AcuSense, 4 mp, 0.003 Lux, F1.6, Фиксированный f2.8мм, 1MicroSD до 512Gb, WDR, IP67, PoE, 12VDC"
   },
   {
@@ -946,7 +946,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 122368,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD2T47G2P-LSU/SL(C), Цилиндрическая, CMOS- матрица 2х 1/2.5\" progressive, ИК до 40м, ColorVu, 4 mp, 0.003 Lux, F1.6, Фиксированный f2.8мм, 1MicroSD до 512Gb, WDR, IP67, PoE, 12VDC"
   },
   {
@@ -958,7 +958,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD3641G2-IZS-AF(2.7-13.5mm), 4 Мп уличная циллиндрическая IP-камера с EXIR-подсветкой до 40 м"
   },
   {
@@ -970,7 +970,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD3646G2-IZS(2.7-13.5mm)(H), 4 Мп уличная циллиндрическая IP-камера с EXIR-подсветкой до 40 м"
   },
   {
@@ -982,7 +982,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 69124,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD2043G2-LI2U, Цилиндрическая, CMOS- матрица 1/2.9\" progressive Smart ИК/Белая до 40м AcuSense 4 mp 0.005 Lux F1.6 Фиксированный f2.8мм, Аудио 2UМикрофон 1MicroSD до 512Gb, WDR, PoE, 12VDC"
   },
   {
@@ -994,7 +994,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 95158,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD2046G2-IU(C), Цилиндрическая, 1/3\" прогрессивная CMOS AcuSense, DarkFighter, ИК 40 м 4 mp, 0,003 lux F1.4, Встроенный микрофон, microSD 256Gb, WDR, PoE, 12VDC"
   },
   {
@@ -1006,7 +1006,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 81628,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD2047G2H-LIU, Цилиндрическая, Прогрессивная CMOS- матрица 1/1.8\", Макс. разрешение. 2688  1520, Встроенный микрофон"
   },
   {
@@ -1018,7 +1018,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 134495,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD2643G2-IZS, Цилиндрическая, CMOS- матрица 1/3\" progressive, ИК до 60м AcuSense 4 mp 0.005 Lux F1.6 Варифокальный моторизованный объектив f28–12 мм, 1MicroSD до 256Gb, Audio: 1 input/1 output Alarm, WDR PoE, 12VDC"
   },
   {
@@ -1030,7 +1030,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD3043G2-IU, Цилиндрическая, CMOS- матрица 1/2.9\" progressive ИК до 40м 4 mp 0.005 Lux F1.6, Фиксированный f2.8мм Аудио 1Микрофон 1MicroSD до 512Gb, WDR, PoE, 12VDC"
   },
   {
@@ -1042,7 +1042,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 70607,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD2047G2-L"
   },
   {
@@ -1054,7 +1054,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, IDS-2CD7A46G0/P-IZHS(2.8~12mm), 4 МП, RJ45, H.264/H.264+, H.265/H.265+"
   },
   {
@@ -1066,7 +1066,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 44187,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD1043G2-LIU, Цилиндрическая, CMOS- матрица 1/3\" progressive Smart, ИК/Белая до 30м, 4 mp, 0.005 Lux F1.6, Фиксированный f2.8мм, Аудио 1Микрофон, 1MicroSD до 512Gb, WDR, IP67, PoE, 12VDC"
   },
   {
@@ -1078,7 +1078,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 116284,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD2T66G2P-ISU/SL(2.8mm)(C)"
   },
   {
@@ -1090,7 +1090,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 89538,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD2046G2-I(С)"
   },
   {
@@ -1102,7 +1102,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 89767,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD2047G3-LIY"
   },
   {
@@ -1114,7 +1114,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 46749,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP Видеокамера, HiLook, IPC-B149HA-LU, Цилиндрическая, 4 МП обнаружения людей и транспорта, ColorVu умный гибридный свет до 20м, сжатия H.265+, встроенный микрофон, IP67"
   },
   {
@@ -1126,7 +1126,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 22000,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP Видеокамера, HiLook, IPC-B141HE-UC, Цилиндрическая, 4 МП обнаружения людей и транспорта, ИК-подцветка 20м, сжатия H.265+, IP67,"
   },
   {
@@ -1138,7 +1138,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 26400,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP Видеокамера, HiLook, IPC-B140HA-LUC, Цилиндрическая, 4 МП обнаружения людей и транспорта, Smart Dual-Light до 20м, сжатия H.265+, встроенный микрофон, IP67"
   },
   {
@@ -1150,7 +1150,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 32999,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP Видеокамера, HiLook, IPC-B140HA-LUFC/SL, Цилиндрическая, 4 МП обнаружения людей и транспорта, умный гибридный свет до 30м, сжатия H.265+, двусторонняя аудиосвязь, слот для SD-карты до 512 ГБ, IP67"
   },
   {
@@ -1162,7 +1162,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 36666,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP Видеокамера, HiLook, IPC-B140HA-LU, Цилиндрическая, 4 МП обнаружения людей и транспорта, Smart Dual-Light до 30м, сжатия H.265+, встроенный микрофон, IP67"
   },
   {
@@ -1174,7 +1174,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 60127,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD1047G2H-LIU, Матрица: 1/3 Progressive Scan CMOS, Питание: 12VDC ±25% или PoE IEEE802.3af, макс. потребление 7Вт"
   },
   {
@@ -1186,7 +1186,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 60080,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2CD1047G3-LIU, Матрица: 1/3 Progressive Scan CMOS, Питание: 12 V DC ±25 % / PoE IEEE 802.3af, максимальная мощность около 10 Вт"
   },
   {
@@ -1198,7 +1198,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 88163,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Поворотная видеокамера, Dahua, DH-IPC-PT2449C1-S-PV-PRO, 4-мегапиксельная ИК-камера с белым светом и полноцветная сетевая PT-камера WizSense"
   },
   {
@@ -1210,7 +1210,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 52477,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Поворотная видеокамера, Dahua, DH-IPC-PT1439H-PV, Купольная 4-мегапиксельная ИК-камера с белым светом и полноцветная сетевая PT-камера"
   },
   {
@@ -1222,7 +1222,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 150369,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Поворотная видеокамера, Dahua, DH-SD29404DB-GNY, 4-мегапиксельная, 4-кратная, PTZ-камера, IR, WizSense"
   },
   {
@@ -1234,7 +1234,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 107408,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Поворотная видеокамера, Dahua, DH-SD3C405DB-GNY-A-PV, 4-мегапиксельная, 5-кратная, PTZ-камера, Двойное освещение, WizSense"
   },
   {
@@ -1246,7 +1246,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 317151,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Поворотная видеокамера, Dahua, DH-SD49425GB-HNR, 1/2.8\"\" STARVIS™ CMOS, 25x кратное оптическое увеличение, Видеоаналитика: SMD Plus (Умный детектор движения)/защита периметра/Автотркинг/видео метаданные"
   },
   {
@@ -1258,7 +1258,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 339422,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Поворотная видеокамера, Dahua, DH-SD4E425GB-HNR-A-PV1, 4-мегапиксельная, 25-кратная, PTZ-камера, Starlight, IR, WizSense"
   },
   {
@@ -1270,7 +1270,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 595987,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Поворотная видеокамера, Dahua, DH-SDT4E425-4F-GB-A-PV1-S2, 4-мегапиксельная, 25-кратная, PTZ-камера, TiOC, WizSense"
   },
   {
@@ -1282,7 +1282,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Поворотная видеокамера, Dahua, DH-SD5A425GB-HNR, 4Мп сетевая PTZ-видеокамера 25x Starlight DH-SD5A425GB-HNR"
   },
   {
@@ -1294,7 +1294,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Поворотная видеокамера, Dahua, DH-SD5A432GB-HNR, 4MP 32x Starlight ИК WizSense Сетевая PTZ-камера"
   },
   {
@@ -1306,7 +1306,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 308539,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2SE4C425MWG-E(14F0), Поворотная TandemVu, 4мп 25x кратное оптическое увеличение, сжатие: H.265+/H.265/H.264+/H.264, WDR"
   },
   {
@@ -1318,7 +1318,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 281019,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Поворотная видеокамера, Hikvision, DS-2DE4425IW-DE(T5), 1/2,8\" Прогрессивная CMOS матрица, ИК-подсветка"
   },
   {
@@ -1330,7 +1330,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 38761,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Hikvision, DS-2DE2C400IWG/W(W), 4мм, 1/2.9\" Progressive Scan CMOS"
   },
   {
@@ -1342,7 +1342,7 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 307765,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Поворотная видеокамера, Hikvision, DS-2DE5425IWG-E(B)"
   },
   {
@@ -1354,7 +1354,8 @@ export const 4_МЕГАПИКСЕЛЬНЫЕ_IP_ВИДЕОКАМЕРЫ = [
     "price": 410881,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Поворотная видеокамера, Hikvision, DS-2DE5432IWG-E(B), 1/2.8 Progressive Scan CMOS, ИК-подсветка, Макс. разрешение: 25601440"
   }
 ];
+

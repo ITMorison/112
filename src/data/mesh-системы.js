@@ -10,7 +10,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 102856,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой маршрутизатор со встроенной беспроводной точкой доступа, ASUS, XD6 (W-1-PK), Wi-Fi 6, 2,4 ГГц/5 ГГц, 802.11a/b/g/n/ac/ax, AX5400, 1 порт 10/100/1000M WAN, 3 порта 10/100/1000M LAN, MESH, 1 модуль в комплекте"
   },
   {
@@ -22,7 +22,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 110536,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой маршрутизатор со встроенной беспроводной точкой доступа, ASUS, XD5 (W-2-PK), Wi-Fi 6, 2,4 ГГц/5 ГГц, 802.11/n/ac/ax, AX3000, 1 порт 10/100/1000M WAN/LAN, 1 порт 10/100/1000M LAN, 2 модуля в комплекте"
   },
   {
@@ -34,7 +34,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 87080,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой маршрутизатор со встроенной беспроводной точкой доступа, ASUS, XD4 PLUS (B-2-PK), Wi-Fi 6, 2,4 ГГц/5 ГГц, 802.11a/b/g/n/ac/ax, AX1800, 2 внутренние антенны, 1x10/100/1000М LAN/WAN, 1x10/100/1000М LAN, AiMesh, черный, 2 модуля в комплекте"
   },
   {
@@ -46,7 +46,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 116002,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой маршрутизатор со встроенной беспроводной точкой доступа, ASUS, XD4 PLUS (W-2-PK), Wi-Fi 6, 2,4 ГГц/5 ГГц, 802.11a/b/g/n/ac/ax, AX1800, 1x10/100/1000М LAN/WAN, 1x10/100/1000М LAN, AiMesh, белый, 2 модуля в комплекте"
   },
   {
@@ -58,7 +58,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 187652,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой маршрутизатор со встроенной беспроводной точкой доступа, ASUS, XD6S (W-2-PK), Wi-Fi 6, 802.11/n/ac/ax, AX5400 , 1 порт 10/100/1000M WAN, 1 порт 10/100/1000M LAN, 2 модуля в комплекте"
   },
   {
@@ -70,7 +70,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 194606,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой маршрутизатор со встроенной беспроводной точкой доступа, ASUS, XD6 (W-2-PK), Wi-Fi 6, 802.11a/b/g/n/ac/ax, AX5400, 1 порт 10/100/1000M WAN, 3 порта 10/100/1000M LAN, MESH, 2 модуля в комплекте"
   },
   {
@@ -82,7 +82,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 111550,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой маршрутизатор со встроенной беспроводной точкой доступа, ASUS, BD4 (W-2-PK), Wi-Fi 7, 2,4 ГГц/5 ГГц, 802.11/n/ac/ax, AX3000, 1 порт 10/100/1000M WAN/LAN, 1 порт 10/100/1000M LAN, 2 модуля в комплекте"
   },
   {
@@ -94,7 +94,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 149380,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой маршрутизатор со встроенной беспроводной точкой доступа, ASUS, BD4 (W-3-PK), Wi-Fi 7, 2,4 ГГц/5 ГГц, 802.11/n/ac/ax, AX3000, 1 порт 10/100/1000M WAN/LAN, 1 порт 10/100/1000M LAN, 3 модуля в комплекте"
   },
   {
@@ -106,7 +106,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 45580,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная система Wi-Fi, Xiaomi, RA82 (2-pack), Wi-Fi 6, 2,4 ГГц/5 ГГц, 802.11a/b/g/n/ac/ax, Mesh роутер AX3000, 1x 10/100/1000М WAN, 3x10/100/1000М LAN, 2 модуля в комплекте"
   },
   {
@@ -118,7 +118,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 22300,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная система Wi-Fi, Xiaomi, Mesh роутер AX3000T RU, RD23, 802.11 a/b/g/n/ac/ax, Wi-Fi 6, 1000 мбит/с"
   },
   {
@@ -130,7 +130,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 14540,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная система Wi-Fi, Xiaomi, Mesh роутер AC1200 RU (1-pack), RD13"
   },
   {
@@ -142,7 +142,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 28120,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная система Wi-Fi, Xiaomi, Mesh роутер AC1200 RU (2-pack), RD13"
   },
   {
@@ -154,7 +154,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 40730,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная система Wi-Fi, Xiaomi, Mesh роутер AC1200 RU (3-pack), RD13"
   },
   {
@@ -166,7 +166,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 22300,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная система Wi-Fi, Xiaomi, Mesh роутер AX3000 NE (1-pack), 4x 10/100/1000Mbps WAN/LAN adaptive port"
   },
   {
@@ -178,7 +178,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 41700,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная система Wi-Fi, Xiaomi, Mesh роутер AX3000 NE (2-pack), 4x 10/100/1000Mbps WAN/LAN adaptive port"
   },
   {
@@ -190,7 +190,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 61100,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная система Wi-Fi, Xiaomi, Mesh роутер AX3000 NE (3-pack), RD28"
   },
   {
@@ -202,7 +202,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 50430,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная MESH-система Wi-Fi, TP-Link, Deco E4 (2-pack), MESH, Wi-Fi 5, 802.11a/b/g/n/ac, 2.4ГГц/5ГГц, АС1167, 2 порта 10/100М, 2 модуля Deco в комплекте"
   },
   {
@@ -214,7 +214,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 69830,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная MESH-система Wi-Fi, TP-Link, Deco E4 (3-pack), MESH, Wi-Fi 5, 802.11a/b/g/n/ac, 2.4ГГц/5ГГц, АС1167, 2 порта 10/100М, 3 модуля в комплекте"
   },
   {
@@ -226,7 +226,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 32000,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Deco M4(1-pack), Wi-Fi 5, 802.11a/b/g/n/ac, 2,4 ГГц/5 ГГц, AC1200, 2 порта 10/100/1000M WAN/LAN, 1 модуль в комплекте"
   },
   {
@@ -238,7 +238,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 64980,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Deco M4(2-pack), Wi-Fi 5, 802.11a/b/g/n/ac, 2,4 ГГц/5 ГГц, AC1200, 2 порта 10/100/1000M WAN/LAN, 2 модуля в комплекте"
   },
   {
@@ -250,7 +250,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 93110,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Deco M4(3-pack), Wi-Fi 5, 802.11a/b/g/n/ac, 2,4 ГГц/5 ГГц, AC1200, 2 порта 10/100/1000M WAN/LAN, 3 модуля в комплекте"
   },
   {
@@ -262,7 +262,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 99900,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Deco M5 (2-pack), Wi-Fi 5, 802.11a/b/g/n/ac, 2,4 ГГц/5 ГГц, AC1300, 2 порта 10/100/1000M WAN/LAN, 2 модуля в комплекте"
   },
   {
@@ -274,7 +274,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 144520,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Deco M5 (3-pack), Wi-Fi 5, 802.11a/b/g/n/ac, 2,4 ГГц/5 ГГц, AC1300, 2 порта 10/100/1000M WAN/LAN, 3 модуля в комплекте"
   },
   {
@@ -286,7 +286,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 84380,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Домашняя Mesh-система, TP-Link, Deco S4(3-pack), 2,4 ГГц/5 ГГц, 802.11a/b/g/n/ac, AC1200, 3 модуля в комплекте"
   },
   {
@@ -298,7 +298,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 143550,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Deco M9 Plus(2-pack), Wi-Fi 5, 2,4 ГГц/5 ГГц, 2 порта 10/100/1000M WAN/LAN, AC2200 Mesh Wi-Fi система для умного дома, IEEE 802.11a/b/g/n/ac, 44 MU-MIMO, 2 модуля"
   },
   {
@@ -310,7 +310,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 218240,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Deco M9 Plus(3-pack), Wi-Fi 5, 2,4 ГГц/5 ГГц, 2 порта 10/100/1000M WAN/LAN, AC2200 Mesh Wi-Fi система для умного дома, IEEE 802.11a/b/g/n/ac, 44 MU-MIMO, 3 модуля"
   },
   {
@@ -322,7 +322,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 91170,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Домашняя Mesh-система Wi-Fi 5, TP-Link, Deco S7 (2-pack), Wi-Fi 5, 2,4 ГГц/5 ГГц, 802.11a/b/g/n/ac, AC1900, 3 гигабитных порта WAN/LAN, 2 модуля в комплекте"
   },
   {
@@ -334,7 +334,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 132880,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Домашняя Mesh-система Wi-Fi 5, TP-Link, Deco S7(3-pack), Wi-Fi 5, 2,4 ГГц/5 ГГц, 802.11a/b/g/n/ac, AC1900, 3 гигабитных порта WAN/LAN, 3 модуля в комплекте"
   },
   {
@@ -346,7 +346,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 34910,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная MESH-система Wi-Fi, TP-Link, Deco X10(1-pack), Wi-Fi 6, 2,4 ГГц/5 ГГц, 802.11a/b/g/n/ac/ax, AX1500, 2 гигабитных порта WAN или LAN (на каждом устройстве), 1 модуль"
   },
   {
@@ -358,7 +358,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 70800,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная MESH-система Wi-Fi, TP-Link, Deco X10(2-pack), Wi-Fi 6, 2,4 ГГц/5 ГГц, 802.11a/b/g/n/ac/ax, AX1500, 2 гигабитных порта WAN или LAN (на каждом устройстве), 2 модуля"
   },
   {
@@ -370,7 +370,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 105720,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная MESH-система Wi-Fi, TP-Link, Deco X10(3-pack), Wi-Fi 6, 802.11a/b/g/n/ac/ax, 2,4 ГГц/5 ГГц, AX1500, 2 гигабитных порта WAN или LAN (на каждом устройстве), 3 модуля"
   },
   {
@@ -382,7 +382,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 61100,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Домашняя Mesh-система Wi-Fi 6, TP-Link, Deco X1500(2-pack), WI-FI 6, 2,4 ГГц/5 ГГц, 802.11ax/b/g/n/ac/a, AX1500, 2 модуля в комплекте"
   },
   {
@@ -394,7 +394,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 94080,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Домашняя Mesh-система Wi-Fi 6, TP-Link, Deco X1500(3-pack), WI-FI 6, 2,4 ГГц/5 ГГц, 802.11ax/b/g/n/ac/a, AX1500, 3 модуля в комплекте"
   },
   {
@@ -406,7 +406,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 93110,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная MESH-система Wi-Fi, TP-Link, Deco X20 (2-pack), AX1800, Wi-Fi 6, 802.11a/b/g/n/ac/ax, 2,4 ГГц/5 ГГц, 2 порта 10/100/1000M WAN/LAN, 2 модуля в комплекте"
   },
   {
@@ -418,7 +418,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 135790,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная MESH-система Wi-Fi, TP-Link, Deco X20(3-pack), AX1800, Wi-Fi 6, 2,4 ГГц/5 ГГц, 802.11a/b/g/n/ac/ax, 2 порта 10/100/1000M WAN/LAN, 3 модуля в комплекте"
   },
   {
@@ -430,7 +430,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 58190,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная MESH-система Wi-Fi, TP-Link, Deco X50(1-pack), AX3000, Wi-Fi 6, 2,4 ГГц/5 ГГц, 802.11a/b/g/n/ac/ax"
   },
   {
@@ -442,7 +442,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 106690,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная MESH-система Wi-Fi, TP-Link, Deco X50(2-pack), AX3000, Wi-Fi 6, 2,4 ГГц/5 ГГц, 802.11a/b/g/n/ac/ax, 3 порта 10/100/1000M WAN/LAN, 2 модуля в комплекте"
   },
   {
@@ -454,7 +454,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 149370,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная MESH-система Wi-Fi, TP-Link, Deco X50(3-pack), AX3000, Wi-Fi 6, 2,4 ГГц/5 ГГц, 802.11a/b/g/n/ac/ax, 3 порта 10/100/1000M WAN/LAN, 3 модуля в комплекте"
   },
   {
@@ -466,7 +466,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 135790,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная MESH-система Wi-Fi, TP-Link, Deco X50-PoE(2-pack), AX3000, Wi-Fi 6, 2,4 ГГц/5 ГГц, 802.11a/b/g/n/ac/ax, 2 порта 2,5 гбит/с WAN/LAN, PoE 802.3at, 2 модуля в комплекте"
   },
   {
@@ -478,7 +478,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 74680,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная MESH-система Wi-Fi, TP-Link, Deco X50-Outdoor(1-pack), Wi-Fi 6, 802.11a/b/g/n/ac/ax, AX3000, 2,4 ГГц/5 ГГц, 2 гигабитных порта WAN/LAN, PoE 802.3at, –30...+60 °C, уличное исполнение"
   },
   {
@@ -490,7 +490,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 53340,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная MESH-система Wi-Fi, TP-Link, Deco X55(1-pack), 2,4 ГГц/5 ГГц, 802.11a/b/g/n/ac/ax, AX3000, WI-FI 6, 3 порта 10/100/1000M WAN/LAN, 1 модуль в комплекте"
   },
   {
@@ -502,7 +502,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 106690,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная MESH-система Wi-Fi, TP-Link, Deco X55(2-pack), 2,4 ГГц/5 ГГц, 802.11a/b/g/n/ac/ax, AX3000, WI-FI 6, 3 порта 10/100/1000M WAN/LAN, 2 модуля в комплекте"
   },
   {
@@ -514,7 +514,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 128030,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная MESH-система Wi-Fi, TP-Link, Deco X55(3-pack), 2,4 ГГц/5 ГГц, 802.11a/b/g/n/ac/ax, AX3000, WI-FI 6, 3 порта 10/100/1000M WAN/LAN, 3 модуля в комплекте"
   },
   {
@@ -526,7 +526,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 75650,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная MESH-система Wi-Fi, TP-Link, Deco X60(1-pack), AX5400, Wi-Fi 6, 2,4 ГГц/5 ГГц, 802.11a/b/g/n/ac/ax, 2 порта 10/100/1000M WAN/LAN, 1 модуль в комплекте"
   },
   {
@@ -538,7 +538,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 149370,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная MESH-система Wi-Fi, TP-Link, Deco X60(2-pack), AX5400, Wi-Fi 6, 2,4 ГГц/5 ГГц, 802.11a/b/g/n/ac/ax, 2 порта 10/100/1000M WAN/LAN, 2 модуля в комплекте"
   },
   {
@@ -550,7 +550,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 213390,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная MESH-система Wi-Fi, TP-Link, Deco X60(3-pack), AX5400, Wi-Fi 6, 2,4 ГГц/5 ГГц, 802.11a/b/g/n/ac/ax,2 порта 10/100/1000M WAN/LAN 3 модуля в комплекте"
   },
   {
@@ -562,7 +562,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 26180,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная MESH-система Wi-Fi, TP-Link, Deco E4 (1-pack), AC1200, Wi-Fi 5, 2,4 ГГц/5 ГГц, , 802.11a/b/g/n/ac,2 порта 10/100М WAN/LAN, 1 модуль в комплекте"
   },
   {
@@ -574,7 +574,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 0,
     "stock": 50,
     "is_available": false,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная MESH-система Wi-Fi, TP-Link, Deco BE25(1-pack), 2,4 ГГц/5 ГГц, 802.11be/b/ax/n/ac/a/g, WI-FI 7, 1 порт 2.5 Гбит/с, 1 модуль в комплекте"
   },
   {
@@ -586,7 +586,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 111540,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная MESH-система Wi-Fi, TP-Link, Deco BE25(2-pack), 2,4 ГГц/5 ГГц, 802.11be/b/ax/n/ac/a/g, WI-FI 7, 2 порта 2.5 Гбит/с, 2 модуля в комплекте"
   },
   {
@@ -598,7 +598,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 0,
     "stock": 50,
     "is_available": false,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная MESH-система Wi-Fi, TP-Link, Deco BE25(3-pack), 2,4 ГГц/5 ГГц, 802.11be/b/ax/n/ac/a/g, WI-FI 7, 3 порта 2.5 Гбит/с, 3 модуля в комплекте"
   },
   {
@@ -610,7 +610,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 112510,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Mesh-система Wi-Fi, Tp-Link, Deco BE65(1-pack), 802.11a/b/g/n/ac/ax/be, BE9300, 2,4 ГГц/5 ГГц/6 ГГц, 4  порта 2.5 Гбит/с WAN/LAN, 1  порт USB, 1 модуль в комплекте"
   },
   {
@@ -622,7 +622,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 234730,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Mesh-система Wi-Fi, Tp-Link, Deco BE65(2-pack), 802.11a/b/g/n/ac/ax/be, BE9300, 2,4 ГГц/5 ГГц/6 ГГц, 4  порта 2.5 Гбит/с WAN/LAN, 1  порт USB, 2 модуля в комплекте"
   },
   {
@@ -634,7 +634,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 94080,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Mesh-система Wi-Fi , Tp-Link, Deco P9(2-pack), 802.11a/b/g/n/ac, AC1200 , 2,4 ГГц/5 ГГц, 2 гигабитных порта, 2 модуля в комплекте"
   },
   {
@@ -646,7 +646,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 137730,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Mesh-система Wi-Fi , Tp-Link, Deco P9(3-pack), 802.11a/b/g/n/ac, AC1200 , 2,4 ГГц/5 ГГц, 2 гигабитных порта, 3 модуля в комплекте"
   },
   {
@@ -658,7 +658,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 34910,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Mesh-система Wi-Fi , Tp-Link, Deco S7(1-pack), 802.11a/b/g/n/ac, AC1900 , 2,4 ГГц/5 ГГц, 3  гигабитных порта, 1 модуль в комплекте"
   },
   {
@@ -670,7 +670,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 236670,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная MESH-система Wi-Fi, TP-Link, Deco BE65 Pro(2-pack), 6 ГГц/5 ГГц/2,4Ггц, 802.11be/b/ax/n/ac/a/g, WI-FI 7, 2 порта 5 Гбит/с, 2 модуля в комплекте"
   },
   {
@@ -682,7 +682,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 353070,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная MESH-система Wi-Fi, TP-Link, Deco BE85(1-pack), 2,4 ГГц/5 ГГц, 802.11be/b/ax/n/ac/a/g, WI-FI 7, 1 порт 2.5 Гбит/с, 1 модуль в комплекте"
   },
   {
@@ -694,7 +694,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 32000,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Mercusys, Halo H30(2-pack), WI-FI 5, 802.11a/b/g/n/ac, AC1200, 2 порта 10/100M WAN/LAN, Домашняя Mesh Wi-Fi система (2 модуля в комплекте)"
   },
   {
@@ -706,7 +706,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 43640,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Mercusys, Halo H30G(2-pack), Wi-Fi 5, 802.11a/b/g/n/ac, 2,4 ГГц/5 ГГц, AC1300, 2 порта 10/100/1000M WAN/LAN, Домашняя Mesh Wi-Fi система (2 модуля в комплекте)"
   },
   {
@@ -718,7 +718,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 46550,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Mercusys, Halo H50G(2-pack), Wi-Fi 5, 2,4 ГГц/5 ГГц, 802.11a/b/g/n/ac, AC1900, 3 порта 10/100/1000M WAN/LAN, Домашняя Mesh Wi-Fi система (2 модуля в комплекте)"
   },
   {
@@ -730,7 +730,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 62070,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Mercusys, Halo H70X(2-pack), Wi-Fi 6, 802.11a/b/g/n/ac/ax, AX1800, 2,4 ГГц/5 ГГц, 3 порта 10/100/1000M WAN/LAN, Домашняя Mesh Wi-Fi система (2 модуля)"
   },
   {
@@ -742,7 +742,7 @@ export const MESH_СИСТЕМЫ = [
     "price": 66920,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Mercusys, Halo H80X(2-pack), Wi-Fi 6, 802.11a/b/g/n/ac/ax, 2,4 ГГц/5 ГГц, AX3000, 3 порта 10/100/1000M WAN/LAN, Домашняя Mesh Wi-Fi система (2 модуля)"
   },
   {
@@ -754,7 +754,9 @@ export const MESH_СИСТЕМЫ = [
     "price": 0,
     "stock": 50,
     "is_available": false,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Домашняя Mesh-система, TP-Link, HX141 (1-pack), Wi-Fi-6, 802.11a/b/g/n/ac/ax, Wi-Fi 6, AX1500, 1 порт WAN/LAN 10/100/1000 Мбит/с, 1 порт LAN 10/100/1000 Мбит/с, поддержка TR-069, TR-181, TR-098, TR-111, TR-104 и TR-143, одно устройство в комплекте."
   }
 ];
+
+

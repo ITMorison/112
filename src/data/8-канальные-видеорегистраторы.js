@@ -10,7 +10,7 @@ export const 8_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 81092,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Dahua, DHI-NVR2108HC-W, Беспроводной сетевой регистратор Dahua 8CH 1HDD Cooper 1U"
   },
   {
@@ -22,7 +22,7 @@ export const 8_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 75447,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Dahua, DHI-NVR1108HS-8P-S3/H, каналов, Квадруплекс, Макс. разрешение до 8Мп (1 канал 8Мп 30к/сек или 4 канала 1080P 30к/сек), Выходы видео: 1 разъем HDMI, 1 разъем VGA, 2 USB2.0, 1 SATA до 8Tb, PoE, DC 48/53V, 2/1,8A"
   },
   {
@@ -34,7 +34,7 @@ export const 8_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 37170,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Dahua, DHI-NVR1108HS-S3/H, 8 каналов, макс. разрешение до 8 Мп (1 канал 8Мп 30к/сек или 4 канала 1080P 30к/сек), Выходы видео: 1 разъем HDMI, 1 разъем VGA, 2 USB2.0, 1 SATA до 8Tb, DC 12V/1,5A"
   },
   {
@@ -46,7 +46,7 @@ export const 8_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 59704,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Dahua, DHI-NVR2108-4KS3, 8-канальный, 1U, 1HDD, Смарт, H.265+, H.265, H.264+, H.264, MJPEG"
   },
   {
@@ -58,7 +58,7 @@ export const 8_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 100385,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Dahua, DHI-NVR2108-8P-4KS3, 8-канальный, 1U, 1HDD, Смарт, H.265+, H.265, H.264+, H.264, MJPEG"
   },
   {
@@ -70,7 +70,7 @@ export const 8_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 78279,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Dahua, DHI-NVR4108-4KS3, 8-канальный интеллектуальный сетевой видеорегистратор 1U 1HDD Lite"
   },
   {
@@ -82,7 +82,7 @@ export const 8_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 247806,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Dahua, DHI-NVR5208-EI2, 8 каналов 1U 2HDD WizSense Сетевой видеорегистратор"
   },
   {
@@ -94,7 +94,7 @@ export const 8_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 47314,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Hikvision, DS-7108NI-Q1/M(D), 8 каналов, H.265+/H.265/H.264+/H.264, Разрешение записи: Full HD, D1, CIF, 60 Мбит/с, 1 SATA HDD 6 ТБ,"
   },
   {
@@ -106,7 +106,7 @@ export const 8_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 187992,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Hikvision, DS-7608NXI-I2/S, 8 каналов, H.265+/H.265, H.264+/H.264"
   },
   {
@@ -118,7 +118,7 @@ export const 8_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 71514,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Hikvision, DS-7608NXI-K1(D), 8 каналов, H.265+/H.265/H.264+/H.264, Разрешение записи: 4K, Full HD, D1, CIF, 80 Мбит/с, Интеллектуальная аналитика, Обнаружение движения 2.0, 1 SATA HDD 10 ТБ,"
   },
   {
@@ -130,7 +130,7 @@ export const 8_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 38073,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Hikvision, DS-7108NI-Q1(D), 8 каналов, Mini NVR, H.265+/H.265/H.264+/H.264, Разрешение записи: Full HD, D1, CIF, 60 Мбит/с, 1 SATA HDD 6 ТБ,"
   },
   {
@@ -142,7 +142,7 @@ export const 8_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 54476,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, HiLook, NVR-108MH-C(D), 8-х канальный, 80 Мбит/с, до 1 канала@8 МП/3 каналов@4 МП/6 каналов@1080p, H.265+/H.265/H.264+/H.264, 1 SATA до 8ТБ,"
   },
   {
@@ -154,7 +154,7 @@ export const 8_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 94131,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, HiLook, NVR-108MH-C/8P(D), 8-х канальный, 80 Мбит/с, до 1 канала@8 МП/3 каналов@4 МП/6 каналов@1080p, H.265+/H.265/H.264+/H.264, 1 SATA до 8ТБ, 8 каналов POE"
   },
   {
@@ -166,7 +166,7 @@ export const 8_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 40333,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, HiLook, NVR-108MH-D(D), 8-х канальный, 80 Мбит/с, 4 каналов 1080p, H.265+/H.265/H.264+/H.264, 1 SATA до 6ТБ, одновременный выход HDMI и VGA"
   },
   {
@@ -178,7 +178,7 @@ export const 8_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 75073,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, HiLook, NVR-108MH-D/8P(D), 8-х канальный, 80 Мбит/с, 4 каналов 1080p, H.265+/H.265/H.264+/H.264, 1 SATA до 6ТБ, одновременный выход HDMI и VGA, 4 канала POE"
   },
   {
@@ -190,7 +190,7 @@ export const 8_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 37583,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, HiLook, NVR-108H-D(D), 8-х канальный, 80 Мбит/с, 4 каналов 1080p, H.265+/H.265/H.264+/H.264, 1 SATA до 6ТБ, одновременный выход HDMI и VGA"
   },
   {
@@ -202,7 +202,7 @@ export const 8_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 65833,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, HiLook, NVR-208MH-C(D), 8-х канальный, 80 Мбит/с, до 1 канала@8 МП/3 каналов@4 МП/6 каналов@1080p, H.265+/H.265/H.264+/H.264, 2 SATA до 8ТБ,"
   },
   {
@@ -214,7 +214,7 @@ export const 8_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 90555,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Hikvision, DS-7108NI-Q1/8P/M(D), 8 каналов, Форматы сжатия видео: H.265+, H.265, H.264+, H.264"
   },
   {
@@ -226,7 +226,7 @@ export const 8_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 86485,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Hikvision, DS-7108NI-Q1/8P(D), 8 каналов, Форматы сжатия видео: H.265+, H.265, H.264+, H.264"
   },
   {
@@ -238,7 +238,7 @@ export const 8_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 188379,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Hikvision, DS-7608NXI-I2/S(E)"
   },
   {
@@ -250,7 +250,8 @@ export const 8_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 254274,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Hikvision, DS-7608NXI-I2/VPro"
   }
 ];
+

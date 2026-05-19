@@ -10,7 +10,7 @@ export const 16_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 70131,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Dahua, DHI-NVR2116-4KS3, 16-канальный, 1U, 1HDD, Смарт, H.265+, H.265, H.264+, H.264, MJPEG"
   },
   {
@@ -22,7 +22,7 @@ export const 16_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 255091,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Dahua, DHI-NVR4216-16P-EI, 16-канальный 1U, 16PoE, 2HDD, сетевой видеорегистратор WizSense"
   },
   {
@@ -34,7 +34,7 @@ export const 16_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 134258,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Dahua, DHI-NVR4216-EI, 16-канальный 1U 2HDD Сетевой видеорегистратор WizSense"
   },
   {
@@ -46,7 +46,7 @@ export const 16_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 281193,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Dahua, DHI-NVR5216-EI2, 16 каналов, 1U, 2HDD, WizSense"
   },
   {
@@ -58,7 +58,7 @@ export const 16_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 244469,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Dahua, DHI-NVR5216-EI, 16 каналов, 1U, 2HDD, WizSense"
   },
   {
@@ -70,7 +70,7 @@ export const 16_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 427498,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Dahua, DHI-NVR5216-16P-EI2, 16 каналов, 16 PoE, 1U, 2HDD, WizSense"
   },
   {
@@ -82,7 +82,7 @@ export const 16_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 70720,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Hikvision, DS-7616NI-Q1(E), 16 каналов, H.265+/H.265/H.264+/H.264, Разрешение записи: 4K, Full HD, D1, CIF, 160 Мбит/с, Обнаружение движения 2.0, 1 SATA HDD 8Тб ,"
   },
   {
@@ -94,7 +94,7 @@ export const 16_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 77026,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Hikvision, DS-7616NXI-K1(B), 16 каналов, H.265+/H.265/H.264+/H.264, Разрешение записи: 4K, Full HD, D1, CIF, 160 Мбит/с, Интеллектуальная аналитика, Обнаружение движения 2.0, 1 SATA HDD 10 ТБ,"
   },
   {
@@ -106,7 +106,7 @@ export const 16_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 109887,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Hikvision, DS-7616NXI-K2(D), 16 каналов, H.265+/H.265/H.264+/H.264, Разрешение записи: 4K, Full HD, D1, CIF, 160 Мбит/с, Интеллектуальная аналитика, Обнаружение движения 2.0, 2 SATA HDD 10 ТБ,"
   },
   {
@@ -118,7 +118,7 @@ export const 16_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 63523,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, HiLook, NVR-116MH-C(D), 16-х канальный, 160 Мбит/с, до 1 канала @ 8MP или 5 каналов @ 1080P, H.265+/H.265/H.264+/H.264, 1 SATA до 8ТБ,"
   },
   {
@@ -130,7 +130,7 @@ export const 16_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 72571,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, HiLook, NVR-216MH-C(D), 16-х канальный, 160 Мбит/с, о 1 канала @ 8MP или 5 каналов @ 1080P, H.265+/H.265/H.264+/H.264, 2 SATA до 8ТБ,"
   },
   {
@@ -142,7 +142,7 @@ export const 16_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 470949,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Hikvision, DS-7716NXI-I4/16P/S(E)"
   },
   {
@@ -154,7 +154,7 @@ export const 16_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 357920,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Hikvision, DS-7716NI-M4"
   },
   {
@@ -166,7 +166,7 @@ export const 16_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 63523,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, HiLook, NVR-116MH-C(E), 16-х канальный, 160 Мбит/с, до 1 канала @ 8MP или 5 каналов @ 1080P, H.265+/H.265/H.264+/H.264, 1 SATA до 8ТБ,"
   },
   {
@@ -178,7 +178,7 @@ export const 16_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 114597,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Hikvision, DS-7616NXI-K2(E)"
   },
   {
@@ -190,7 +190,7 @@ export const 16_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 81630,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Hikvision, DS-7616NXI-K1(D), 16 каналов, H.265+/H.265/H.264+/H.264, Разрешение записи: 4K, Full HD, D1, CIF, 160 Мбит/с, Интеллектуальная аналитика, Обнаружение движения 2.0, 1 SATA HDD 10 ТБ,"
   },
   {
@@ -202,7 +202,8 @@ export const 16_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 301949,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Hikvision, DS-7616NXI-I2/VPro"
   }
 ];
+

@@ -10,7 +10,7 @@ export const СКАНЕРЫ = [
     "price": 65960,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сканер, Canon, CANOSCAN LIDE 300, 2995C010AB, Планшетный, 2400 x 2400 DPI, USB2.0 Mini-B, 4 кнопки, Питание через USB-порт"
   },
   {
@@ -22,7 +22,7 @@ export const СКАНЕРЫ = [
     "price": 103790,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сканер, Canon, CANOSCAN LIDE 400, 2996C010AA, Планшетный, 2400 x 2400 DPI, USB2.0 Mini-B, 4 кнопки, Питание через USB-порт"
   },
   {
@@ -34,7 +34,7 @@ export const СКАНЕРЫ = [
     "price": 311370,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Протяжный сканер, Canon, imageFORMULA DR-C225 II, 3258C003, 600 x 600 DPI, USB2.0, 45 листов, 25 стр/мин, 40-209 г/кв.м, длина 3000 мм, Вес:2,8 кг"
   },
   {
@@ -46,7 +46,7 @@ export const СКАНЕРЫ = [
     "price": 438440,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Протяжный сканер, Canon, imageFORMULA DR-C230, 2646C003, 600 x 600 DPI, USB2.0, 60 листов, 30 стр./мин / 60 изобр./мин, 40-209 г/кв.м, длина 3000 мм, Вес:2,8 кг, до 4 500 сканирований в день"
   },
   {
@@ -58,7 +58,7 @@ export const СКАНЕРЫ = [
     "price": 612070,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Протяжный сканер, Canon, imageFORMULA DR-C240, 0651C003, 600 x 600 DPI, USB2.0, 60 листов, 45 стр/мин, 40-209 г/кв.м, длина 3000 мм, Вес:2,8 кг, до 6 000 сканирований в день"
   },
   {
@@ -70,7 +70,7 @@ export const СКАНЕРЫ = [
     "price": 687730,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Протяжный сканер, Canon, imageFORMULA DR-M140 II, 6050C003, 600 x 600 DPI, USB2.0, 80 листов, 40 стр/мин, 20-209 г/кв.м, длина 356 мм, Вес:2,6 кг"
   },
   {
@@ -82,7 +82,7 @@ export const СКАНЕРЫ = [
     "price": 688700,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Протяжный сканер, Canon, imageFORMULA DR-M160 II, 9725B003, 600 x 600 DPI, USB2.0, Wi-Fi, 75 листов, 60 стр/мин, 20-209 г/кв.м, длина 3000 мм, Вес:3,3 кг"
   },
   {
@@ -94,7 +94,7 @@ export const СКАНЕРЫ = [
     "price": 557750,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Протяжный сканер, Canon, imageFORMULA DR-S250N, 6383C003, 600 x 600 DPI, USB2.0, Wi-Fi, 60 листов, 50 стр/мин, 20-209 г/кв.м, длина 356 мм, Вес:3,4 кг"
   },
   {
@@ -106,7 +106,7 @@ export const СКАНЕРЫ = [
     "price": 134830,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Протяжный сканер, Canon, imageFORMULA P-208 II, 9704B003, 600 x 600 DPI, USB 2.0, 10 листов, 8 стр/мин, 52–209 г/кв.м, длина 356 мм, Вес: 0,6 кг"
   },
   {
@@ -118,7 +118,7 @@ export const СКАНЕРЫ = [
     "price": 232800,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Протяжный сканер, Canon, imageFORMULA P-215 II, 9705B003, 600 x 600 DPI, USB 2.0, 20 листов, 15 стр/мин, 52-128 г/кв.м, длина 1000 мм, Вес: 1 кг"
   },
   {
@@ -130,7 +130,7 @@ export const СКАНЕРЫ = [
     "price": 355020,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Настольный сканер, Canon, IRISCAN DESK6 PRO, 3981V745"
   },
   {
@@ -142,7 +142,7 @@ export const СКАНЕРЫ = [
     "price": 1009770,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Протяжный сканер, Canon, imageFORMULA DR-M260, 2405C003, 600 x 600 DPI, USB3.1, Wi-Fi, 80 листов, 60 стр/мин, 27–413 г/кв.м, длина 3000 мм, Kofax VRS, Вес:3,6 кг, До 7500 листов в день"
   },
   {
@@ -154,7 +154,7 @@ export const СКАНЕРЫ = [
     "price": 2120420,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Протяжный сканер, Canon, imageFORMULA DR-M1060II, 6049C003, 600 x 600 dpi, USB2.0, емкость подачи 80 листов, 60 стр./мин., 3000 мм, 6,1 кг"
   },
   {
@@ -166,7 +166,7 @@ export const СКАНЕРЫ = [
     "price": 166119,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сканер, Xerox, Duplex Travel Scanner (100N03205), A4, Протяжный (мобильный), 8 сек./стр., ёмкость автоподатчика - 1 лист, USB 2.0, макс. нагрузка - 100 стр./день"
   },
   {
@@ -178,7 +178,7 @@ export const СКАНЕРЫ = [
     "price": 382669,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сканер, Xerox, Duplex Portable Scanner (100N03261), DADF, A4, 15 стр./мин., 30 изобр./мин., ёмкость автоподатчика - 20 листов, USB 2.0, макс. нагрузка - 1 000 стр./день"
   },
   {
@@ -190,7 +190,7 @@ export const СКАНЕРЫ = [
     "price": 631633,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сканер, Xerox, DocuMate 6440, A4, DADF, 40 стр./мин., 80 изобр./мин., ёмкость автоподатчика - 80 листов, USB 2.0, макс. нагрузка - 9 000 стр./день"
   },
   {
@@ -202,7 +202,7 @@ export const СКАНЕРЫ = [
     "price": 370080,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сканер, Xerox, D35 (100N03729), DADF, A4, 45 стр./мин., 90 изобр./мин., ёмкость автоподатчика - 50 листов, USB 2.0, макс. нагрузка - 8 000 стр./день"
   },
   {
@@ -214,7 +214,7 @@ export const СКАНЕРЫ = [
     "price": 0,
     "stock": 50,
     "is_available": false,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сканер, Xerox, D70n (100N03676), DADF, A4, 90 стр./мин., 180 изобр./мин., ёмкость автоподатчика - 120 листов, USB 3.1 Gen 1, Ethernet, макс. нагрузка - 15 000 стр./день"
   },
   {
@@ -226,7 +226,7 @@ export const СКАНЕРЫ = [
     "price": 4860681,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сканер, Xerox, W110 (100N03675), DADF, A3, 120 стр./мин., 240 изобр./мин., ёмкость автоподатчика - 500 листов, USB 3.1 Gen 1, макс. нагрузка - 100 000 стр./день"
   },
   {
@@ -238,7 +238,7 @@ export const СКАНЕРЫ = [
     "price": 9109503,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сканер, Xerox, W130 (100N03612), DADF, A3, 130 стр./мин., 260 изобр./мин., ёмкость автоподатчика - 500 листов, USB 3.1 Gen 1, макс. нагрузка - 100 000 стр./день"
   },
   {
@@ -250,7 +250,8 @@ export const СКАНЕРЫ = [
     "price": 10018501,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сканер, Xerox, W130 (100N03917), DADF, A3, 135стр./мин., 270 изобр./мин., 500 листов (бумага плотностью 75~90 г/м2), USB 3.1 Gen 1, Ethernet, Нагрузка (max) 100 000 стр./день"
   }
 ];
+

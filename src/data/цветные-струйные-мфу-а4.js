@@ -10,7 +10,7 @@ export const ЦВЕТНЫЕ_СТРУЙНЫЕ_МФУ_А4 = [
     "price": 38790,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цветное МФУ, Canon, Pixma E414, 1366C009AA, Струйное, A4, 8,0 изобр./мин. (A4), Чернила PG-46/CL-56, Подача 60 листов, Планшетный сканер, 19 сек., USB 2.0"
   },
   {
@@ -22,7 +22,7 @@ export const ЦВЕТНЫЕ_СТРУЙНЫЕ_МФУ_А4 = [
     "price": 92140,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цветное МФУ, Canon, Pixma G2410, 2313C009AA, Струйное, A4, 8,8 изобр./мин. (A4), Чернила GI-490, СНПЧ, Подача 100 листов, Планшетный сканер, 19 сек., ЖК-экран 1,2\", USB 2.0"
   },
   {
@@ -34,7 +34,7 @@ export const ЦВЕТНЫЕ_СТРУЙНЫЕ_МФУ_А4 = [
     "price": 101840,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цветное МФУ, Canon, Pixma G2430, 5991C009AA, Струйное, A4, 11 изобр./мин. (A4), Чернила GI-41, СНПЧ, Подача 100 листов, Планшетный сканер, 1,5 мс/линия, USB 2.0"
   },
   {
@@ -46,7 +46,7 @@ export const ЦВЕТНЫЕ_СТРУЙНЫЕ_МФУ_А4 = [
     "price": 101840,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цветное МФУ, Canon, Pixma G3410, 2315C009AA, Струйное, A4, 8,8 изобр./мин. (A4), Чернила GI-490, СНПЧ, Подача 100 листов, Планшетный сканер, 19 сек., ЖК-экран 1,2\", USB 2.0, Wi-Fi"
   },
   {
@@ -58,7 +58,7 @@ export const ЦВЕТНЫЕ_СТРУЙНЫЕ_МФУ_А4 = [
     "price": 101840,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цветное МФУ, Canon, Pixma G3416, 2315C052AB, Струйное, A4, 8,8 изобр./мин. (A4), Чернила GI-490, СНПЧ, Подача 100 листов, Планшетный сканер, 19 сек., ЖК-экран 1,2\", USB 2.0, Wi-Fi"
   },
   {
@@ -70,7 +70,7 @@ export const ЦВЕТНЫЕ_СТРУЙНЫЕ_МФУ_А4 = [
     "price": 106690,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цветное МФУ, Canon, Pixma G3430, 5989C009AA, Струйное, A4, 11 изобр./мин. (A4), Чернила GI-41, СНПЧ, Подача 100 листов, Планшетный сканер, 1,5 мс/линия, USB 2.0, Wi-Fi"
   },
   {
@@ -82,7 +82,7 @@ export const ЦВЕТНЫЕ_СТРУЙНЫЕ_МФУ_А4 = [
     "price": 121240,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цветное МФУ, Canon, Pixma G3470, 5805C009AA, Струйное, A4, 11 изобр./мин. (A4), Чернила GI-41, СНПЧ, Подача 100 листов, Планшетный сканер, 1,5 мс/линия, ЖК-экран 1,35\", USB 2.0, Wi-Fi, черный"
   },
   {
@@ -94,7 +94,7 @@ export const ЦВЕТНЫЕ_СТРУЙНЫЕ_МФУ_А4 = [
     "price": 121240,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цветное МФУ, Canon, Pixma G3470, 5805C029AA, Струйное, A4, 11 изобр./мин. (A4), Чернила GI-41, СНПЧ, Подача 100 листов, Планшетный сканер, 1,5 мс/линия, ЖК-экран 1,35\", USB 2.0, Wi-Fi, белый"
   },
   {
@@ -106,7 +106,7 @@ export const ЦВЕТНЫЕ_СТРУЙНЫЕ_МФУ_А4 = [
     "price": 9699999,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цветное МФУ, Canon, Pixma G3470, 5805C049AA, Струйное, A4, 11 изобр./мин. (A4), Чернила GI-41, СНПЧ, Подача 100 листов, Планшетный сканер, 1,5 мс/линия, ЖК-экран 1,35\", USB 2.0, Wi-Fi, красный"
   },
   {
@@ -118,7 +118,7 @@ export const ЦВЕТНЫЕ_СТРУЙНЫЕ_МФУ_А4 = [
     "price": 306520,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цветное МФУ, Canon, Pixma G640, 4620C009AA, Струйное, A4, 3,9 изобр./мин. (A4), Чернила GI-43, СНПЧ, Подача 100 листов, Планшетный сканер, 1,5 мс/линия, ЖК-дисплей Full Dot, USB 2.0, Wi-Fi"
   },
   {
@@ -130,7 +130,7 @@ export const ЦВЕТНЫЕ_СТРУЙНЫЕ_МФУ_А4 = [
     "price": 53340,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цветное МФУ, Canon, Pixma TS4140i, 7181C007AA, Струйное, А4, 14 изобр./мин, Чернила PG-495/CL-486, Подача 100 листов, Планшетный сканер, WI-FI, USB"
   },
   {
@@ -142,7 +142,7 @@ export const ЦВЕТНЫЕ_СТРУЙНЫЕ_МФУ_А4 = [
     "price": 58190,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цветное МФУ, Canon, Pixma TS6540i, 7179C009AA, Струйное, А4, 14 изобр./мин, Чернила PG-495/CL-486, Подача 100 листов, Планшетный сканер, Монохромный OLED-дисплей 1,42\", Wi-Fi, USB"
   },
   {
@@ -154,7 +154,7 @@ export const ЦВЕТНЫЕ_СТРУЙНЫЕ_МФУ_А4 = [
     "price": 113480,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "МФУ струйное, Xiaomi, Wireless All-in-One Inkjet Printer, PMDYJ02HT/BHR7410RU, Струйный, Цветная печать, Максимальный формат А4, Печать фотографий, копирование, сканирование, Уровень шума 48 дБ, Струйная печать, Разрешение сканера 600*300dpi, Рабочая частота 2.400-2.4835 ГГц, Выходная мощность ВЧ: <20 дБм, Номинальное напряжение: 220-240 В ~, Вес нетто: около 4,6 кг, Размеры товара: 450 306  160 мм, Белый"
   },
   {
@@ -166,7 +166,7 @@ export const ЦВЕТНЫЕ_СТРУЙНЫЕ_МФУ_А4 = [
     "price": 254140,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цветное МФУ, Canon, MAXIFY GX2040, 6171C007AA, Струйное, A4, 15 стр./мин., Подача 250 листов, Планшетный сканер, Сенсорный дисплей 2.7\", 180 МГц CPU, 128 МБ RAM, USB 2.0, Ethernet 10/100, Wi-Fi"
   },
   {
@@ -178,7 +178,7 @@ export const ЦВЕТНЫЕ_СТРУЙНЫЕ_МФУ_А4 = [
     "price": 145490,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цветное МФУ, Canon, MAXIFY GX3040, 5777C009AA, Струйное, A4, 18 стр./мин., Подача 351 лист, Планшетный сканер, ЖК дисплей 1.35\", 360 МГц CPU, USB 2.0, Wi-Fi"
   },
   {
@@ -190,7 +190,8 @@ export const ЦВЕТНЫЕ_СТРУЙНЫЕ_МФУ_А4 = [
     "price": 167800,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цветное МФУ, Canon, MAXIFY GX4040, 5779C009AA, Струйное, А4, 18 стр./мин., Подача 351 лист, Планшетный сканер, ЖК дисплей 2.7\", 300 МГц CPU, USB 2.0, Ethernet 10/100, Wi-Fi"
   }
 ];
+

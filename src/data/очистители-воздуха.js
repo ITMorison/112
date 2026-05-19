@@ -10,7 +10,7 @@ export const ОЧИСТИТЕЛИ_ВОЗДУХА = [
     "price": 46550,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Очиститель воздуха, Xiaomi, Smart Air Purifier 4 Compact, AC-M18-SC/BHR5860EU, Трехслойная очистка, Обслуживаемая площадь 16-27 м2, Высокоэффективная фильтрация, 2.4 GHz Wi-Fi, Вес 2.2 кг, Белый"
   },
   {
@@ -22,7 +22,7 @@ export const ОЧИСТИТЕЛИ_ВОЗДУХА = [
     "price": 77590,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Очиститель воздуха, Xiaomi, Smart Air Purifier 4 Lite, AC-M17-SC / BHR5274GL, Трехслойная очистка, Обслуживаемая площадь 43 м2, LED дисплей, Датчик качества воздуха, Белый"
   },
   {
@@ -34,7 +34,7 @@ export const ОЧИСТИТЕЛИ_ВОЗДУХА = [
     "price": 87290,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Очиститель воздуха, Xiaomi, Smart Air Purifier 4, AC-M16-SC / BHR5096GL, Трехслойная очистка, Датчик качества воздуха, Белый"
   },
   {
@@ -46,7 +46,7 @@ export const ОЧИСТИТЕЛИ_ВОЗДУХА = [
     "price": 130940,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Очиститель воздуха, Xiaomi, Smart Air Purifier 4 Pro, AC-M15-SC / BHR5056EU, Трехслойная очистка, Датчик качества воздуха, Белый"
   },
   {
@@ -58,7 +58,7 @@ export const ОЧИСТИТЕЛИ_ВОЗДУХА = [
     "price": 44610,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Очиститель воздуха, Smartmi, Air Purifier E1 (ZMKQJHQE11/AP5080DGEU), Обслуживаемая площадь 18 м, Скорость подачи чистого воздуха 150 м/ч, Уровень шума 49 дБА, Серый/Белый"
   },
   {
@@ -70,7 +70,7 @@ export const ОЧИСТИТЕЛИ_ВОЗДУХА = [
     "price": 63040,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Очиститель воздуха, Smartmi, Air Purifier P1 (ZMKQJHQP12), Трехслойная очистка, Дисплей, Обслуживаемая площадь 48 м, Мощность очистки 220 м/ч, Уровень шума 50 дБа, Серебристый"
   },
   {
@@ -82,7 +82,7 @@ export const ОЧИСТИТЕЛИ_ВОЗДУХА = [
     "price": 63040,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Очиститель воздуха, Smartmi, Air Purifier P1 (ZMKQJHQP11), Трехслойная очистка, Дисплей, Обслуживаемая площадь 48 м, Мощность очистки 220 м/ч, Уровень шума 50 дБа, Темно-серый"
   },
   {
@@ -94,7 +94,7 @@ export const ОЧИСТИТЕЛИ_ВОЗДУХА = [
     "price": 184290,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умный очиститель воздуха, Xiaomi, Smart Air Purifier Elite/Y-600/ BHR6359EU, Сокращение вирусов до 99.9%, Светодиодная и плазменная технология UV-C, Обслуживаемая площадь до 125 м.кв, Сертификация по лечению аллергии, Белый"
   },
   {
@@ -106,7 +106,7 @@ export const ОЧИСТИТЕЛИ_ВОЗДУХА = [
     "price": 107660,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Очиститель воздуха, Smartmi, Air Purifier 2 (KQJHQ02ZM/AP5070DBEU), Фильтр HEPA 13-го класса, CADR - 380 м/ч, CADR TVOC - 100 м/ч, УФ антибактериальная лампа, OLED дисплей, Обслуживаемая площадь 48 м, 40 Вт, Синий"
   },
   {
@@ -118,7 +118,7 @@ export const ОЧИСТИТЕЛИ_ВОЗДУХА = [
     "price": 55280,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Очиститель воздуха, Xiaomi, Smart Pet Care Air Purifier, AC-M30-SC, Трехслойная очистка, Обслуживаемая площадь 16-27 м2, Высокоэффективная фильтрация, 230 м/ч, Wi-Fi, Вес 2.3 кг, Белый"
   },
   {
@@ -130,7 +130,7 @@ export const ОЧИСТИТЕЛИ_ВОЗДУХА = [
     "price": 77590,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Очиститель воздуха, Smartmi, Air Purifier 3 (KQJHQ03ZM/AP508101EU), 66 дБ, Фильтр HEPA 13-го класса, CADR - 400 м/ч, OLED дисплей, Обслуживаемая площадь 48 м, 40 Вт, Темно-серый"
   },
   {
@@ -142,7 +142,7 @@ export const ОЧИСТИТЕЛИ_ВОЗДУХА = [
     "price": 359860,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Очиститель воздуха, Dreame, PM10 RU, CVF24A, Применимая область 36, Равномерная зона очистки 100, PCADR (твердые частицы), 300m/ч, FCADR (формальдегид) 165m/ч, Воздушное расстояние 10м, Срок службы HEPA фильтра 2 года, Класс HEPA H13, Уровень фильтрации 6, Очистка 14 видов загрязняющих веществ, Уровень шума 60 дБ, Двойной воздуховод + струйная технология, Работа через фирменное приложение, Голосовое управление на английском, LCD экран, 7-мерное зондирование, автоматический мониторинг, Отслеживает движение и автоматически регулирует выход воздуха в нужном месте, Скорость удаления частиц 99.97%, Скорость удаления формальдегида 97.20%, Плазменная стерилизация, Ультрафиолетовая стерилизация, Разложение формальдегида, Очищение воздуха, Подача воздуха, Серый"
   },
   {
@@ -154,7 +154,7 @@ export const ОЧИСТИТЕЛИ_ВОЗДУХА = [
     "price": 408360,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Очиститель воздуха, Dreame, PM20 RU, CVF14A, Применимая область 48, Равномерная зона очистки 100, PCADR (твердые частицы), 400m/ч, FCADR (формальдегид) 220m/ч, Воздушное расстояние 10м, Срок службы HEPA фильтра 2 года, Класс HEPA H13, Уровень фильтрации 6, Очистка 14 видов загрязняющих веществ, Уровень шума 60 дБ, Двойной воздуховод + струйная технология, Работа через фирменное приложение, Голосовое управление на английском, LCD экран, 7-мерное зондирование, автоматический мониторинг, Отслеживает движение и автоматически регулирует выход воздуха в нужном месте, Скорость удаления частиц 99.97%, Скорость удаления формальдегида 97.20%, Плазменная стерилизация, Ультрафиолетовая стерилизация, Разложение формальдегида, Очищение воздуха, Подача воздуха, Обогрев, Серый"
   },
   {
@@ -166,7 +166,7 @@ export const ОЧИСТИТЕЛИ_ВОЗДУХА = [
     "price": 13473,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Озонатор, Kitfort, КТ-2891-2, Мощность 2 Вт, Выход озона 20 мг/ч, Длина шнура Micro-USB 0,4 м, Цвет черно-зеленый"
   },
   {
@@ -178,7 +178,7 @@ export const ОЧИСТИТЕЛИ_ВОЗДУХА = [
     "price": 10660,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Озонатор, Kitfort, КТ-3866, 20 мг/ч, УФ излучение, Время работы 7ч-15 д, Li-Ion 3,7 В, 2 А*ч, Мощность 1.2 Вт, Белый"
   },
   {
@@ -190,7 +190,8 @@ export const ОЧИСТИТЕЛИ_ВОЗДУХА = [
     "price": 203690,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Очиститель воздуха, Mijia, Smart Air Purifier Max EU, AC-M34-SC / BHR08XEEU, Трехслойная очистка, Датчик качества воздуха, Белый"
   }
 ];
+

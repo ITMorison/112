@@ -10,7 +10,7 @@ export const ПОДВЕСНЫЕ_ДИЭЛЕКТРИЧЕСКИЕ_ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра,ИК/Д2-Т-А1-1.1 кН (плоский), предназначены для подвеса на опорах линий связи, между зданиями и сооружениями."
   },
   {
@@ -22,7 +22,7 @@ export const ПОДВЕСНЫЕ_ДИЭЛЕКТРИЧЕСКИЕ_ = [
     "price": 131,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИК-Т-А2-1.0 кН, подвесной круглый с двумя периферийными силовыми элементами"
   },
   {
@@ -34,7 +34,7 @@ export const ПОДВЕСНЫЕ_ДИЭЛЕКТРИЧЕСКИЕ_ = [
     "price": 0,
     "stock": 50,
     "is_available": false,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИК/Д2-Т-А2-2.0 кН, подвесной круглый с двумя периферийными силовыми элементами"
   },
   {
@@ -46,7 +46,7 @@ export const ПОДВЕСНЫЕ_ДИЭЛЕКТРИЧЕСКИЕ_ = [
     "price": 95,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра,ИК/Д2-Т-А2-1.2 кН ,плоский, пруток 1,7 мм, предназначены для подвеса на опорах линий связи, между зданиями и сооружениями."
   },
   {
@@ -58,7 +58,7 @@ export const ПОДВЕСНЫЕ_ДИЭЛЕКТРИЧЕСКИЕ_ = [
     "price": 116,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, СКО, ОКПК-0,22-2(G.652D) 1,2кН,(flat drop) предназначены для подвеса на опорах линий связи, между зданиями и сооружениями."
   },
   {
@@ -70,7 +70,7 @@ export const ПОДВЕСНЫЕ_ДИЭЛЕКТРИЧЕСКИЕ_ = [
     "price": 146,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, СКО, ОКПК-0,22-4(G.652D) 1,2кН, (flat drop) предназначены для подвеса на опорах линий связи, между зданиями и сооружениями."
   },
   {
@@ -82,7 +82,7 @@ export const ПОДВЕСНЫЕ_ДИЭЛЕКТРИЧЕСКИЕ_ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИК-Т-А4-1.0 кН, подвесной круглый с двумя периферийными силовыми элементами"
   },
   {
@@ -94,7 +94,7 @@ export const ПОДВЕСНЫЕ_ДИЭЛЕКТРИЧЕСКИЕ_ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, СКО, ОКПК-0,22-4(G.652D) 1,4кН, (flat drop) предназначены для подвеса на опорах линий связи, между зданиями и сооружениями."
   },
   {
@@ -106,7 +106,7 @@ export const ПОДВЕСНЫЕ_ДИЭЛЕКТРИЧЕСКИЕ_ = [
     "price": 146,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИК/Д2-Т-А4-1.1 кН (плоский), предназначены для подвеса на опорах линий связи, между зданиями и сооружениями."
   },
   {
@@ -118,7 +118,7 @@ export const ПОДВЕСНЫЕ_ДИЭЛЕКТРИЧЕСКИЕ_ = [
     "price": 335,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИК/Д-М4П-А4-4.0 кН, подвесной кабель с внешним несущим элементом (стеклопластиковый пруток)"
   },
   {
@@ -130,7 +130,7 @@ export const ПОДВЕСНЫЕ_ДИЭЛЕКТРИЧЕСКИЕ_ = [
     "price": 160,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра,ИК/Д2-Т-А6-1.2 кН, плоский, пруток 1,7 мм, предназначены для подвеса на опорах линий связи, между зданиями и сооружениями."
   },
   {
@@ -142,7 +142,7 @@ export const ПОДВЕСНЫЕ_ДИЭЛЕКТРИЧЕСКИЕ_ = [
     "price": 175,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, СКО, ОКПК-0,22-8(G.652.D) 1,2кН, (flat drop) предназначен для подвеса на опорах линий связи."
   },
   {
@@ -154,7 +154,7 @@ export const ПОДВЕСНЫЕ_ДИЭЛЕКТРИЧЕСКИЕ_ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, СКО, ОКПК-0,22-8(G.652D) 1.4кН, (flat drop) предназначены для подвеса на опорах линий связи, между зданиями и сооружениями."
   },
   {
@@ -166,7 +166,7 @@ export const ПОДВЕСНЫЕ_ДИЭЛЕКТРИЧЕСКИЕ_ = [
     "price": 175,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра,ИК/Д2-Т-А8-1.2 кН ,плоский, пруток 1,7 мм, предназначены для подвеса на опорах линий связи, между зданиями и сооружениями."
   },
   {
@@ -178,7 +178,7 @@ export const ПОДВЕСНЫЕ_ДИЭЛЕКТРИЧЕСКИЕ_ = [
     "price": 218,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИК-Т-А8-1.0 кН, подвесной круглый с двумя периферийными силовыми элементами"
   },
   {
@@ -190,7 +190,7 @@ export const ПОДВЕСНЫЕ_ДИЭЛЕКТРИЧЕСКИЕ_ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИК/Д-М4П-А8-4.0 кН, подвесной кабель с внешним несущим элементом (стеклопластиковый пруток)"
   },
   {
@@ -202,7 +202,7 @@ export const ПОДВЕСНЫЕ_ДИЭЛЕКТРИЧЕСКИЕ_ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра,ИК/Д2-Т-А8-1.2 кН (плоский), предназначены для подвеса на опорах линий связи, между зданиями и сооружениями."
   },
   {
@@ -214,7 +214,7 @@ export const ПОДВЕСНЫЕ_ДИЭЛЕКТРИЧЕСКИЕ_ = [
     "price": 204,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, СКО, ОКПК-0,22-12(G.652D) 1.2кН,(flat drop) предназначены для подвеса на опорах линий связи, между зданиями и сооружениями."
   },
   {
@@ -226,7 +226,7 @@ export const ПОДВЕСНЫЕ_ДИЭЛЕКТРИЧЕСКИЕ_ = [
     "price": 204,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный,Интегра, ИК/Д2-Т-А12-1.2 кН ,плоский, пруток 1,7 мм, предназначены для подвеса на опорах линий связи, между зданиями и сооружениями."
   },
   {
@@ -238,7 +238,7 @@ export const ПОДВЕСНЫЕ_ДИЭЛЕКТРИЧЕСКИЕ_ = [
     "price": 204,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИК-Т-А12-1.0 кН, подвесной круглый с двумя периферийными силовыми элементами"
   },
   {
@@ -250,7 +250,7 @@ export const ПОДВЕСНЫЕ_ДИЭЛЕКТРИЧЕСКИЕ_ = [
     "price": 393,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИК/Д-М4П-А12-4.0 кН, подвесной кабель с внешним несущим элементом (стеклопластиковый пруток)"
   },
   {
@@ -262,7 +262,7 @@ export const ПОДВЕСНЫЕ_ДИЭЛЕКТРИЧЕСКИЕ_ = [
     "price": 204,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный,Интегра, ИК/Д2-Т-А12-1.9 кН (плоский), предназначены для подвеса на опорах линий связи, между зданиями и сооружениями."
   },
   {
@@ -274,7 +274,7 @@ export const ПОДВЕСНЫЕ_ДИЭЛЕКТРИЧЕСКИЕ_ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, СКО, ОКПК-0,22-16(G.652D) 1.2кН, (flat drop) предназначены для подвеса на опорах линий связи, между зданиями и сооружениями."
   },
   {
@@ -286,7 +286,7 @@ export const ПОДВЕСНЫЕ_ДИЭЛЕКТРИЧЕСКИЕ_ = [
     "price": 247,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный,Интегра, ИК/Д2-Т-А16-1.9 кН (плоский), предназначены для подвеса на опорах линий связи, между зданиями и сооружениями."
   },
   {
@@ -298,7 +298,7 @@ export const ПОДВЕСНЫЕ_ДИЭЛЕКТРИЧЕСКИЕ_ = [
     "price": 320,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИК-Т-А16-1.0 кН, подвесной круглый с двумя периферийными силовыми элементами"
   },
   {
@@ -310,7 +310,7 @@ export const ПОДВЕСНЫЕ_ДИЭЛЕКТРИЧЕСКИЕ_ = [
     "price": 407,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИК/Д-М4П-А16-4.0 кН, подвесной кабель с внешним несущим элементом (стеклопластиковый пруток)"
   },
   {
@@ -322,7 +322,7 @@ export const ПОДВЕСНЫЕ_ДИЭЛЕКТРИЧЕСКИЕ_ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИК/Д2-Т-А24-1.4 кН (плоский), предназначены для подвеса на опорах линий связи, между зданиями и сооружениями."
   },
   {
@@ -334,7 +334,7 @@ export const ПОДВЕСНЫЕ_ДИЭЛЕКТРИЧЕСКИЕ_ = [
     "price": 437,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИК/Д-М4П-А24-4.0 кН, подвесной кабель с внешним несущим элементом (стеклопластиковый пруток)"
   },
   {
@@ -346,7 +346,7 @@ export const ПОДВЕСНЫЕ_ДИЭЛЕКТРИЧЕСКИЕ_ = [
     "price": 306,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, СКО, ОКПК-0,22-24(G.652D) 1.2кН, (flat drop) предназначены для подвеса на опорах линий связи, между зданиями и сооружениями."
   },
   {
@@ -358,7 +358,7 @@ export const ПОДВЕСНЫЕ_ДИЭЛЕКТРИЧЕСКИЕ_ = [
     "price": 488,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИК/Д-М4П-А32-4.0 кН, подвесной кабель с внешним несущим элементом (стеклопластиковый пруток)"
   },
   {
@@ -370,7 +370,7 @@ export const ПОДВЕСНЫЕ_ДИЭЛЕКТРИЧЕСКИЕ_ = [
     "price": 684,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИК/Д-М4П-А48-4.0 кН, подвесной кабель с внешним несущим элементом (стеклопластиковый пруток)"
   },
   {
@@ -382,7 +382,7 @@ export const ПОДВЕСНЫЕ_ДИЭЛЕКТРИЧЕСКИЕ_ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИК/Д-М4П-А48-6.0 кН, подвесной кабель с внешним несущим элементом (стеклопластиковый пруток)"
   },
   {
@@ -394,7 +394,8 @@ export const ПОДВЕСНЫЕ_ДИЭЛЕКТРИЧЕСКИЕ_ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра,ИК/Д2-Т-А1-1.2 кН, плоский, пруток 1,7 мм, предназначены для подвеса на опорах линий связи, между зданиями и сооружениями."
   }
 ];
+

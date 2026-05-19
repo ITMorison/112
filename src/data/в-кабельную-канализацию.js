@@ -10,7 +10,7 @@ export const В_КАБЕЛЬНУЮ_КАНАЛИЗАЦИЮ = [
     "price": 247,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, СКО, ОКЛ-4(G.652.D)-Т/С 2,7 кН, броня из стальной гофрированной ленты, без промежуточной оболочки для прокладки в кабельную канализацию в центральной трубке"
   },
   {
@@ -22,7 +22,7 @@ export const В_КАБЕЛЬНУЮ_КАНАЛИЗАЦИЮ = [
     "price": 444,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, СКО, ОКЛм-0.22-4П-2.7 кН, броня из стальной гофрированной ленты для прокладки в кабельную канализацию в модульной констркуции."
   },
   {
@@ -34,7 +34,7 @@ export const В_КАБЕЛЬНУЮ_КАНАЛИЗАЦИЮ = [
     "price": 320,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИКСЛ-Т-А4-2.7 кН, в центральной трубке, прокладки в грунтах 1-3 групп, в том числе, зараженных грызунами, а также в кабельной канализации, трубах, по мостам и эстакадам, а также для прокладки в асфальтовом или бетонном покрытии дорог"
   },
   {
@@ -46,7 +46,7 @@ export const В_КАБЕЛЬНУЮ_КАНАЛИЗАЦИЮ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИКСЛ-М4П-А4-2.7 кН, бронированный стальной гофрированной ламинированной лентой, для прокладки в кабельную канализацию в модульной конструкции"
   },
   {
@@ -58,7 +58,7 @@ export const В_КАБЕЛЬНУЮ_КАНАЛИЗАЦИЮ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИКСЛ-М4П-B4-2.7 кН,в модульной конструкций ,прокладки в грунтах 1-3 групп, в том числе, зараженных грызунами, а также в кабельной канализации, трубах, по мостам и эстакадам, а также для прокладки в асфальтовом или бетонном покрытии дорог"
   },
   {
@@ -70,7 +70,7 @@ export const В_КАБЕЛЬНУЮ_КАНАЛИЗАЦИЮ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИКСЛ-Т-М8-2.7 кН, многомодовый бронированный стальной гофрированной ламинированной лентой, для прокладки в кабельную канализацию в центральной трубке"
   },
   {
@@ -82,7 +82,7 @@ export const В_КАБЕЛЬНУЮ_КАНАЛИЗАЦИЮ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИКСЛ-М4П-М4-2.7 кН, многомодовый ,бронированный стальной гофрированной ламинированной лентой, для прокладки в кабельную канализацию в модульной конструкции"
   },
   {
@@ -94,7 +94,7 @@ export const В_КАБЕЛЬНУЮ_КАНАЛИЗАЦИЮ = [
     "price": 728,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, СКО, ОКЛН-0.22-6П-2.7 кН, броня из стальной гофрированной ленты в негорючем исполнении"
   },
   {
@@ -106,7 +106,7 @@ export const В_КАБЕЛЬНУЮ_КАНАЛИЗАЦИЮ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, СКО, ОКЛ-8(G.652.D)-Т/С 2.7 кН, броня из стальной гофрированной ленты без промежуточной оболочки для прокладки в кабельную канализацию в центральной трубке"
   },
   {
@@ -118,7 +118,7 @@ export const В_КАБЕЛЬНУЮ_КАНАЛИЗАЦИЮ = [
     "price": 276,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИКСЛ-Т-А8-2.7 кН, в центральной трубке ,прокладки в грунтах 1-3 групп, в том числе, зараженных грызунами, а также в кабельной канализации, трубах, по мостам и эстакадам, а также для прокладки в асфальтовом или бетонном покрытии дорог"
   },
   {
@@ -130,7 +130,7 @@ export const В_КАБЕЛЬНУЮ_КАНАЛИЗАЦИЮ = [
     "price": 349,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИКСЛ-М4П-А8-2.7 кН, бронированный стальной гофрированной ламинированной лентой, для прокладки в кабельную канализацию в модульной конструкции"
   },
   {
@@ -142,7 +142,7 @@ export const В_КАБЕЛЬНУЮ_КАНАЛИЗАЦИЮ = [
     "price": 485,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, СКО, ОКЛм-0.22-8П-2.7 кН, броня из стальной гофрированной ленты для прокладки в кабельную канализацию в модульной констркуции."
   },
   {
@@ -154,7 +154,7 @@ export const В_КАБЕЛЬНУЮ_КАНАЛИЗАЦИЮ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИКСЛ-Т-А12-2.7 кН, в центральной трубке ,применяется для прокладки в грунтах 1-3 групп, в том числе, зараженных грызунами, а также в кабельной канализации, трубах, по мостам и эстакадам, а также для прокладки в асфальтовом или бетонном покрытии дорог"
   },
   {
@@ -166,7 +166,7 @@ export const В_КАБЕЛЬНУЮ_КАНАЛИЗАЦИЮ = [
     "price": 378,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИКСЛ-М4П-А12-2.7 кН, в модульной конструкции ,применяется для прокладки в грунтах 1-3 групп, в том числе, зараженных грызунами, а также в кабельной канализации, трубах, по мостам и эстакадам, а также для прокладки в асфальтовом или бетонном покрытии дорог"
   },
   {
@@ -178,7 +178,7 @@ export const В_КАБЕЛЬНУЮ_КАНАЛИЗАЦИЮ = [
     "price": 407,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, СКО, ОКЛм-0,22-12П-2.7 кН, броня из стальной гофрированной ленты для прокладки в кабельную канализацию в модульной констркуции."
   },
   {
@@ -190,7 +190,7 @@ export const В_КАБЕЛЬНУЮ_КАНАЛИЗАЦИЮ = [
     "price": 364,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИКСЛ-Т-А16-2.7 кН, в центральной трубке ,применяется для прокладки в грунтах 1-3 групп, в том числе, зараженных грызунами, а также в кабельной канализации, трубах, по мостам и эстакадам, а также для прокладки в асфальтовом или бетонном покрытии дорог"
   },
   {
@@ -202,7 +202,7 @@ export const В_КАБЕЛЬНУЮ_КАНАЛИЗАЦИЮ = [
     "price": 378,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИКСЛ-М4П-А16-2.7 кН, бронированный стальной гофрированной ламинированной лентой, для прокладки в кабельную канализацию в модульной конструкции"
   },
   {
@@ -214,7 +214,7 @@ export const В_КАБЕЛЬНУЮ_КАНАЛИЗАЦИЮ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, СКО, ОКЛм-0,22-16П-2.7 кН, броня из стальной гофрированной ленты для прокладки в кабельную канализацию в модульной констркуции."
   },
   {
@@ -226,7 +226,7 @@ export const В_КАБЕЛЬНУЮ_КАНАЛИЗАЦИЮ = [
     "price": 706,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИКСЛ-Т-А24-2.7 кН, в центральной трубке , применяется для прокладки в грунтах 1-3 групп, в том числе, зараженных грызунами, а также в кабельной канализации, трубах, по мостам и эстакадам, а также для прокладки в асфальтовом или бетонном покрытии дорог"
   },
   {
@@ -238,7 +238,7 @@ export const В_КАБЕЛЬНУЮ_КАНАЛИЗАЦИЮ = [
     "price": 437,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИКСЛ-М4П-А24-2.7 кН, бронированный стальной гофрированной ламинированной лентой, для прокладки в кабельную канализацию в модульной конструкции"
   },
   {
@@ -250,7 +250,7 @@ export const В_КАБЕЛЬНУЮ_КАНАЛИЗАЦИЮ = [
     "price": 437,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, СКО, ОКЛм-0.22-24П-2.7 кН, броня из стальной гофрированной ленты для прокладки в кабельную канализацию в модульной констркуции."
   },
   {
@@ -262,7 +262,7 @@ export const В_КАБЕЛЬНУЮ_КАНАЛИЗАЦИЮ = [
     "price": 495,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИКСЛ-М4П-А32-2.7 кН, в канализацию, бронированный стальной гофрированной ламинированной лентой в модульной конструкций"
   },
   {
@@ -274,7 +274,7 @@ export const В_КАБЕЛЬНУЮ_КАНАЛИЗАЦИЮ = [
     "price": 495,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, СКО, ОКЛм-0.22-32П-2.7 кН, броня из стальной гофрированной ленты для прокладки в кабельную канализацию в модульной констркуции."
   },
   {
@@ -286,7 +286,7 @@ export const В_КАБЕЛЬНУЮ_КАНАЛИЗАЦИЮ = [
     "price": 538,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, СКО, ОКЛм-0.22-36П-2.7 кН, броня из стальной гофрированной ленты для прокладки в кабельную канализацию в модульной констркуции."
   },
   {
@@ -298,7 +298,7 @@ export const В_КАБЕЛЬНУЮ_КАНАЛИЗАЦИЮ = [
     "price": 495,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИКСЛ-М4П-А36-2.7 кН, бронированный стальной гофрированной ламинированной лентой, для прокладки в кабельную канализацию в модульной конструкции"
   },
   {
@@ -310,7 +310,7 @@ export const В_КАБЕЛЬНУЮ_КАНАЛИЗАЦИЮ = [
     "price": 553,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИКСЛ-М4П-А48-2.7 кН, бронированный стальной гофрированной ламинированной лентой, для прокладки в кабельную канализацию в модульной конструкции"
   },
   {
@@ -322,7 +322,7 @@ export const В_КАБЕЛЬНУЮ_КАНАЛИЗАЦИЮ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, СКО, ОКЛм-0.22-48П-2.7 кН, броня из стальной гофрированной ленты для прокладки в кабельную канализацию в модульной констркуции."
   },
   {
@@ -334,7 +334,7 @@ export const В_КАБЕЛЬНУЮ_КАНАЛИЗАЦИЮ = [
     "price": 1310,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИКСЛ-М6П-А64-2.7 кН, бронированный стальной гофрированной ламинированной лентой, для прокладки в кабельную канализацию в модульной конструкции"
   },
   {
@@ -346,7 +346,7 @@ export const В_КАБЕЛЬНУЮ_КАНАЛИЗАЦИЮ = [
     "price": 1033,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, СКО, ОКЛ-0,22-64П 2,7 кН, броня из стальной гофрированной ленты для прокладки в кабельную канализацию в модульной констркуции."
   },
   {
@@ -358,7 +358,7 @@ export const В_КАБЕЛЬНУЮ_КАНАЛИЗАЦИЮ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, СКО, ОКЛм-0.22-64П-2.7 кН, броня из стальной гофрированной ленты для прокладки в кабельную канализацию в модульной констркуции."
   },
   {
@@ -370,7 +370,7 @@ export const В_КАБЕЛЬНУЮ_КАНАЛИЗАЦИЮ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИКСЛ-М8П-А64-2.7 кН, бронированный стальной гофрированной ламинированной лентой, для прокладки в кабельную канализацию в модульной конструкции"
   },
   {
@@ -382,7 +382,7 @@ export const В_КАБЕЛЬНУЮ_КАНАЛИЗАЦИЮ = [
     "price": 1019,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИКСЛ-М8П-А96-2.7 кН, бронированный стальной гофрированной ламинированной лентой, для прокладки в кабельную канализацию в модульной конструкции"
   },
   {
@@ -394,7 +394,7 @@ export const В_КАБЕЛЬНУЮ_КАНАЛИЗАЦИЮ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, СКО, ОКЛм-0.22-96П-2.7 кН, броня из стальной гофрированной ленты для прокладки в кабельную канализацию в модульной констркуции."
   },
   {
@@ -406,7 +406,7 @@ export const В_КАБЕЛЬНУЮ_КАНАЛИЗАЦИЮ = [
     "price": 1455,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИКСЛ-М8П-А128-2,7 кН, бронированный стальной гофрированной ламинированной лентой, для прокладки в кабельную канализацию в модульной конструкции"
   },
   {
@@ -418,7 +418,7 @@ export const В_КАБЕЛЬНУЮ_КАНАЛИЗАЦИЮ = [
     "price": 1746,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, СКО, ОКЛ-0,22-144П 2,7 кН, броня из стальной гофрированной ленты для прокладки в кабельную канализацию в модульной констркуции."
   },
   {
@@ -430,7 +430,7 @@ export const В_КАБЕЛЬНУЮ_КАНАЛИЗАЦИЮ = [
     "price": 1746,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Интегра, ИКСЛ-М12П-А144-2.7 кН, бронированный стальной гофрированной ламинированной лентой, для прокладки в кабельную канализацию в модульной конструкции"
   },
   {
@@ -442,7 +442,8 @@ export const В_КАБЕЛЬНУЮ_КАНАЛИЗАЦИЮ = [
     "price": 262,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель оптоволоконный, Белтелекабель, ОКСТЦ-10-01-0,22- 2-2,7 кН, в кабельную канализацию в трубке"
   }
 ];
+

@@ -16,3 +16,4 @@ export const CONNECTORS_ADAPTERS = [
     "image": "https://market-telecom.kz/files/products/68796_1.170x220.jpg"
   }
 ];
+

@@ -10,7 +10,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 713920,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Интерактивная доска (панель), Dahua, DHI-LPH65-MC480-U, 65\", 4K (3840  2160), Android 13.0, 8+128GB"
   },
   {
@@ -22,7 +22,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 936050,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Интерактивная панель, XG, 86BCDB138128, 86\", Android 13, A55-8core, 311D2-B, ОЗУ 8 гб, ПЗУ 128 гб, чёрный"
   },
   {
@@ -34,7 +34,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 635835,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Интерактивная панель, Dahua, DHI-LPH65-SC410-S2, 65\", 4K (3840  2160)"
   },
   {
@@ -46,7 +46,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 1003950,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Интерактивная доска (панель), Dahua, DHI-LPH75-MC480-U, 75\", 4K, Android 13.0, 8+128GB"
   },
   {
@@ -58,7 +58,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 858935,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Интерактивная панель, Dahua, DHI-LPH75-SC410-S2, 75\", 4K (3840  2160)"
   },
   {
@@ -70,7 +70,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 725075,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Интерактивная панель, Dahua, DHI-LCH75-MC410-B, 75\", Android9,0, ОЗУ 4гб, ПЗУ 32гб, DLED, чёрно-серый"
   },
   {
@@ -82,7 +82,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 847780,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Интерактивная панель, Dahua, DHI-LPH75-ST470-P, 75\", 4K (3840  2160), ОЗУ 8гб, ПЗУ 64гб, яркость 400cd/m, Android 11, чёрно - серый"
   },
   {
@@ -94,7 +94,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 1305135,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Интерактивная доска (панель), Dahua, DHI-LPH86-MC480-U, 86\", 4K, Android 13.0, 8+128GB"
   },
   {
@@ -106,7 +106,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 1193585,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Интерактивная панель, Dahua, DHI-LPH86-SC410-S2, 86\", 4K (3840  2160)"
   },
   {
@@ -118,7 +118,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 2677200,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Интерактивная панель, Dahua, DHI-LPH98-MC470-P, 98\", Android11, ОЗУ 12гб, ПЗУ 64гб, DLED, яркость 400кд, чёрно-серый"
   },
   {
@@ -130,7 +130,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Интерактивная панель, MAXHUB, V6550, XBoard V7 Series, 65\""
   },
   {
@@ -142,7 +142,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Интерактивная панель, MAXHUB, V7550, XBoard V7 Series, 75\", 4K UHD, 38402160, сенсорная, 50 касаний, Wi-Fi 6, Bluetooth 5.2"
   },
   {
@@ -154,7 +154,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Интерактивная панель, MAXHUB, V8650, XBoard V7 Series, 86\", 4K UHD, 38402160, IPS, 50 касаний, Wi-Fi 6, Bluetooth 5.2, 210W + 20W, камера 350 МП"
   },
   {
@@ -166,7 +166,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 780850,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Экран интерактивный, Hikvision, DS-D5A75RB/A2, 75\", Android 14.0, 8+128"
   },
   {
@@ -178,7 +178,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 2788750,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Интерактивная панель, Hikvision, DS-D5C98RB/A,"
   },
   {
@@ -190,7 +190,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 4629325,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Интерактивная панель, iiyama, TE10518UWI-B1AG, 105\", 5K, Android 13, V100, A311D2 Quad core A76+A55, ОЗУ 8гб, ПЗУ 64гб, чёрный"
   },
   {
@@ -202,7 +202,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 2182500,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Интерактивная панель, iiyama, TE9812MIS-B3AG, 98\", 4K, Android 11, CPU: Quad core A55, GPU: Mali G52, RAM: 8GB, ROM: 64GB"
   },
   {
@@ -214,7 +214,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 814315,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Интерактивная панель, XG, 75TDSM148128, Android 14, ОЗУ 8гб, ПЗУ 128гб, со встроенным микрофоном"
   },
   {
@@ -226,7 +226,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 864513,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Интерактивная панель, iiyama, TE7514MIS-B1AG, 75\", 4K, Android 13, V100, Quad core A76+A55, ОЗУ 8гб, ПЗУ 64гб, чёрный"
   },
   {
@@ -238,7 +238,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Интерактивная панель, XG, 75AIVTBTM1416256, 75\", Android 14, Встроенная технология AI, ОЗУ 16гб, ПЗУ 256гб, чёрный"
   },
   {
@@ -250,7 +250,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Интерактивная панель, XG, 86AIVTBTM1416256, 86\", Android 14, Встроенная технология AI, ОЗУ 16гб, ПЗУ 256гб, чёрный"
   },
   {
@@ -262,7 +262,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 504400,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Интерактивная панель, XG, 65TLS148128, Android 14, ОЗУ 8гб, ПЗУ 128гб"
   },
   {
@@ -274,7 +274,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 870090,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Интерактивная панель, XG, NTR 75PCP138128DC, 75\", 13 Android, 8+128"
   },
   {
@@ -286,7 +286,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 870090,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Интерактивная панель, XG, 75TDFMAX148128, Android 14, ОЗУ 8гб, ПЗУ 128гб"
   },
   {
@@ -298,7 +298,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 504400,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Интерактивная панель, XG, 65TSDBRPC1316256, Android 13, ОЗУ 16гб, ПЗУ 256гб"
   },
   {
@@ -310,7 +310,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 819893,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Интерактивная панель, XG, 75TSDBLC1316256, Android 13, ОЗУ 16гб, ПЗУ 256гб"
   },
   {
@@ -322,7 +322,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 698400,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Интерактивная панель, XG, 75TLSM148128, Android 14, ОЗУ 8гб, ПЗУ 128гб"
   },
   {
@@ -334,7 +334,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 602370,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Интерактивная панель, XG, 65TDS148128, Android 14, ОЗУ 8гб, ПЗУ 128гб"
   },
   {
@@ -346,7 +346,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 803160,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Интерактивная панель, XG, 75TDS148128, Android 14, ОЗУ 8гб, ПЗУ 128гб"
   },
   {
@@ -358,7 +358,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 1059725,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Интерактивная панель, XG, 86TDS148128, 86\", Android 14, ОЗУ 8гб, ПЗУ 128гб"
   },
   {
@@ -370,7 +370,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 1018500,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Интерактивная панель, XG, 86TDFMAX148128, Android 14, ОЗУ 8гб, ПЗУ 128гб"
   },
   {
@@ -382,7 +382,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 976063,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Интерактивная панель, XG, 75TDFMAX21316256, 75\", Android 13, ОЗУ 16гб, ПЗУ 256гб"
   },
   {
@@ -394,7 +394,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 1266093,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Интерактивная панель, XG, 86TDFMAX21316256, 86\", Android 13, ОЗУ 16гб, ПЗУ 256гб"
   },
   {
@@ -406,7 +406,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 2392748,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Интерактивная панель, XG, 98TDFMAX21316256, 98\", Android 13, ОЗУ 16гб, ПЗУ 256гб"
   },
   {
@@ -418,7 +418,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 984550,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Интерактивная панель, XG, 86TLS148128, Android 14, ОЗУ 8гб, ПЗУ 128гб"
   },
   {
@@ -430,7 +430,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 960300,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Профессиональный дисплей, Dahua, DHI-LDV65-HAI400L, 65\", 16:9, 700 кд/кв.м, 38402160"
   },
   {
@@ -442,7 +442,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 911800,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Интерактивный киоск, Dahua, DHI-LDW43-LWI200T, (K-shape), 43\", LED, FHD, 320cd\\m, Белый"
   },
   {
@@ -454,7 +454,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 194000,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, iiyama, ProLite PLT1624M, T1624MSC-B1, 15.6\", 1920x1080, IPS, 16:9, 60 Гц, 450 кд/м?, 25 мс, 16.7М, 800:1, 178/178, HDMI*1, USB*2, Mini jack, Регулировка наклона, Черный"
   },
   {
@@ -466,7 +466,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 169750,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, iiyama, ProLite PLT2252M, T2252MSC-W2, TOUCH, 21.5\", 1920x1080, IPS, 60 Гц, HDMI*1, DP*1, USB (v3.2 x2), 250кд/м2, 1000:1, 5мс, Регулировка наклона/поворота/высоты/вращения, 100x100, 178/178, 16:9, 16.7, Черный"
   },
   {
@@ -478,7 +478,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 169750,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, iiyama, ProLite PLT2254M, T2254MSC-B1AG, TOUCH, 21.5\", 3840x2160, IPS, 60 Гц, HDMI (v2.0), DP(v1.2), DVI, USB (v3.2 x2), 350кд/м2, 1000:1, 4мс, Регулировка наклона/поворота/высоты/вращения, 100x100, 178/178, 16:9, 16.7, Черный"
   },
   {
@@ -490,7 +490,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 183330,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, iiyama, ProLite PL2255M, T2255MSC-B1, TOUCH, 21.5\", 1920x1080, IPS, 60 Гц, HDMI*1, DP*1, DVI, USB (v3.2 x2), 400кд/м2, 1000:1, 5 мс, Регулировка наклона/поворота/высоты/вращения, 100x100, 178/178, 16:9, 16.7, Черный"
   },
   {
@@ -502,7 +502,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 183330,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, iiyama, ProLite PLT2254M, T2254MSC-B2AG, TOUCH, 21.5\", 1920x1080, IPS, 120ГЦ, HDMI (v2.0), DP(v1.2), DVI, USB (v3.2 x2), 300кд/м2, 1300:1, 4мс, Регулировка наклона/поворота/высоты/вращения, 100x100, 178/178, 16:9, 16.7, Черный"
   },
   {
@@ -514,7 +514,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 192933,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, iiyama, ProLite PLT2454M, T2454MSC-B3AG A, 24\", TOUCH, 10 точек касания, 1920x1080, IPS, 60 Гц, HDMI*1, VGA*1, USB-Hub*2, 250кд/м2, 1000:1, 5мс, Регулировка наклона, VESA 100x100мм, 178/178, 16:9, 16.7 млн., Черный"
   },
   {
@@ -526,7 +526,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 202730,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, iiyama, ProLite PL2455M, T2455MSC-B1, 24\", 3840x2160, IPS, 60 Гц, HDMI (v2.0), DP(v1.2), DVI, USB (v3.2 x2), 350кд/м2, 1000:1, 4мс, Регулировка наклона/поворота/высоты/вращения, 100x100, 178/178, 16:9, 16.7, Черный"
   },
   {
@@ -538,7 +538,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 218250,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, iiyama, ProLite PL2454M, T2454MSC-B2AG, 23.8\", 1920x1080, IPS, 16:9, 75 Гц, 300 кд/м?, 5 мс, 16.7М, 1000:1, 178/178, HDMI*1, DP*1, USB*2, Mini jack, Регулировка наклона, Черный"
   },
   {
@@ -550,7 +550,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 220180,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, iiyama, ProLite PLT2755Q, T2755QSC-B1, 27\", 2560x1440, IPS, 16:9, 75 Гц, 400 кд/м?, 5 мс, 16.7М, 1000:1, 178/178, HDMI*1, DP*1, USB*2, Mini jack, Регулировка наклона, Черный"
   },
   {
@@ -562,7 +562,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 271115,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, iiyama, ProLite PLT2752M, T2752MSC-W1, 27\", 1920x1080, IPS, 16:9, 60 Гц, 400 кд/м?, 5 мс, 16.7М, 1000:1, 178/178, HDMI*1, DP*1, USB*2, Mini jack, Регулировка наклона, Белый"
   },
   {
@@ -574,7 +574,7 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 286150,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, iiyama, ProLite PLT2754M, T2754MSC-B1AG A, 27\", 1920x1080, IPS, 60 Гц, VGA*1, HDMI*1, Аудиовыход, 300 кд/м2, 1000:1, 4 мс, 178/178, 16:9, Черный"
   },
   {
@@ -586,7 +586,8 @@ export const ИНТЕРАКТИВНЫЕ_ПАНЕЛИ = [
     "price": 354050,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, iiyama, ProLite PL2738M, TF2738MSC-B2 A, TOUCH, 27\", Open Frame, 1920x1080, IPS, 16:9, 500 кд/м, 5 мс, 16.7М, 1000:1, 178/178, DVI*1, HDMI*1, DP*1, Speakers 2 x 3W, landscape, portrait, face-up, Черный"
   }
 ];
+

@@ -10,7 +10,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 144807,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф коммуникационный, SHIP, 601S.6615.03.100, 103 серия, 19'' 15U, 600*600*800 мм, Ш*Г*В, Передняя дверь закалённое стекло, Задняя дверь глухая металлическая, IP20, Чёрный"
   },
   {
@@ -22,7 +22,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 162962,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф коммуникационный, SHIP, 601S.6815.03.100, 103 серия, 19'' 15U, 600*800*800 мм, Ш*Г*В, Передняя дверь закалённое стекло, Задняя дверь глухая металлическая, Передняя дверь закалённое стекло, Задняя дверь глухая металлическая, IP20, Чёрный"
   },
   {
@@ -34,7 +34,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 160579,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф коммуникационный, SHIP, 601S.6620.03.100, 103 серия, 19'' 20U, 600*600*1000 мм, Ш*Г*В, Передняя дверь закалённое стекло, Задняя дверь глухая металлическая, IP20, Чёрный"
   },
   {
@@ -46,7 +46,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 185381,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф коммуникационный, SHIP, 601S.6820.03.100, 103 серия, 19'' 20U, 600*800*1000 мм, Ш*Г*В, Передняя дверь закалённое стекло, Задняя дверь глухая металлическая, IP20, Чёрный"
   },
   {
@@ -58,7 +58,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 179078,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф коммуникационный, SHIP, 601S.6624.03.100, 103 серия, 19'' 24U, 600*600*1200 мм, Ш*Г*В, Передняя дверь закалённое стекло, Задняя дверь глухая металлическая, IP20, Чёрный"
   },
   {
@@ -70,7 +70,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 203321,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф коммуникационный, SHIP, 601S.6824.03.100, 103 серия, 19'' 24U, 600*800*1200 мм, Ш*Г*В, Передняя дверь закалённое стекло, Задняя дверь глухая металлическая, IP20, Чёрный"
   },
   {
@@ -82,7 +82,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 243849,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф коммуникационный, SHIP, 601S.6024.03.100, 103 серия, 19'' 24U, 600*1000*1200 мм, Ш*Г*В, Передняя дверь закалённое стекло, Задняя дверь глухая металлическая, IP20, Чёрный, (Состоит из 3 частей)"
   },
   {
@@ -94,7 +94,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 266962,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф коммуникационный, SHIP, 601S.6027.03.100, 103 серия, 19'' 27U, 600*1000*1400 мм, Ш*Г*В, Передняя дверь закалённое стекло, Задняя дверь глухая металлическая, IP20, Чёрный, (Состоит из 3 частей)"
   },
   {
@@ -106,7 +106,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 215820,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф коммуникационный, SHIP, 601S.6633.03.100, 103 серия, 19'' 33U, 600*600*1600 мм, Ш*Г*В, Передняя дверь закалённое стекло, Задняя дверь глухая металлическая, IP20, Чёрный"
   },
   {
@@ -118,7 +118,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 272262,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф коммуникационный, SHIP, 601S.6642.03.100, 103 серия, 19'' 42U, 600*600*2000 мм, Ш*Г*В, Передняя дверь закалённое стекло, Задняя дверь глухая металлическая, IP20, Чёрный"
   },
   {
@@ -130,7 +130,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 292345,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф коммуникационный, SHIP, 601S.6842.03.100, 103 серия, 19'' 42U, 600*800*2000 мм, Ш*Г*В, Передняя дверь закалённое стекло, Задняя дверь глухая металлическая, IP20, Чёрный"
   },
   {
@@ -142,7 +142,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 330390,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф коммуникационный, SHIP, 601S.6042.03.100, 103 серия, 19'' 42U, 600*1000*2000 мм, Ш*Г*В, Передняя дверь закалённое стекло, Задняя дверь глухая металлическая, IP20, Чёрный, (Состоит из 3 частей)"
   },
   {
@@ -154,7 +154,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 389244,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф коммуникационный, SHIP, 601S.8842.03.100, 103 серия, 19'' 42U, 800*800*2000 мм, Ш*Г*В, Передняя дверь закалённое стекло, Задняя дверь глухая металлическая, IP20, Чёрный"
   },
   {
@@ -166,7 +166,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 396647,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф коммуникационный, SHIP, 601S.8042.03.100, 103 серия, 19'' 42U, 800*1000*2000 мм, Ш*Г*В, Передняя дверь закалённое стекло, Задняя дверь глухая металлическая, IP20, Чёрный"
   },
   {
@@ -178,7 +178,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 154787,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф коммуникационный, SHIP, 601S.6615.24.100, 124 серия, 19'' 15U, 600*600*800 мм, Ш*Г*В, Передняя дверь закалённое стекло с перфорацией по бокам двери, Задняя дверь перфорированная стальная с шестиугольными отверстиями, IP20, Чёрный"
   },
   {
@@ -190,7 +190,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 173332,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф коммуникационный, SHIP, 601S.6815.24.100, 124 серия, 19'' 15U, 600*800*800 мм, Ш*Г*В, Передняя дверь закалённое стекло с перфорацией по бокам двери, Задняя дверь перфорированная стальная с шестиугольными отверстиями, IP20, Чёрный"
   },
   {
@@ -202,7 +202,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 189634,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф коммуникационный, SHIP, 601S.6624.24.100, 124 серия, 19'' 24U, 600*600*1200 мм, Ш*Г*В, Передняя дверь закалённое стекло с перфорацией по бокам двери, Задняя дверь перфорированная стальная с шестиугольными отверстиями, IP20, Чёрный"
   },
   {
@@ -214,7 +214,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 215417,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф коммуникационный, SHIP, 601S.6824.24.100, 124 серия, 19'' 24U, 600*800*1200 мм, Ш*Г*В, Передняя дверь закалённое стекло с перфорацией по бокам двери, Задняя дверь перфорированная стальная с шестиугольными отверстиями, IP20, Чёрный"
   },
   {
@@ -226,7 +226,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 252960,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф коммуникационный, SHIP, 601S.6024.24.100, 124 серия, 19'' 24U, 600*1000*1200 мм, Ш*Г*В, Передняя дверь закалённое стекло с перфорацией по бокам двери, Задняя дверь перфорированная стальная с шестиугольными отверстиями, IP20, Чёрный, (Состоит из 3 частей)"
   },
   {
@@ -238,7 +238,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 257980,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф коммуникационный, SHIP, 601S.6833.24.100, 124 серия, 19'' 33U, 600*800*1600 мм, Ш*Г*В, Передняя дверь закалённое стекло с перфорацией по бокам двери, Задняя дверь перфорированная стальная с шестиугольными отверстиями, IP20, Чёрный"
   },
   {
@@ -250,7 +250,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 275260,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф коммуникационный, SHIP, 601S.6027.24.100, 124 серия, 19'' 27U, 600*1000*1400 мм, Ш*Г*В, Передняя дверь закалённое стекло с перфорацией по бокам двери, Задняя дверь перфорированная стальная с шестиугольными отверстиями, IP20, Чёрный, (Состоит из 3 частей)"
   },
   {
@@ -262,7 +262,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 271257,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф коммуникационный, SHIP, 601S.6838.24.100, 124 серия, 19'' 38U, 600*800*1800 мм, Ш*Г*В, Передняя дверь закалённое стекло с перфорацией по бокам двери, Задняя дверь перфорированная стальная с шестиугольными отверстиями, IP20, Чёрный"
   },
   {
@@ -274,7 +274,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 264940,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф коммуникационный, SHIP, 601S.6642.24.100, 124 серия, 19'' 42U, 600*600*2000 мм, Ш*Г*В, Передняя дверь закалённое стекло с перфорацией по бокам двери, Задняя дверь перфорированная стальная с шестиугольными отверстиями, IP20, Чёрный"
   },
   {
@@ -286,7 +286,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 322203,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф коммуникационный, SHIP, 601S.6842.24.100, 124 серия, 19'' 42U, 600*800*2000 мм, Ш*Г*В, Передняя дверь закалённое стекло с перфорацией по бокам двери, Задняя дверь перфорированная стальная с шестиугольными отверстиями, IP20, Чёрный"
   },
   {
@@ -298,7 +298,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 351713,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф коммуникационный, SHIP, 601S.6042.24.100, 124 серия, 19'' 42U, 600*1000*2000 мм, Ш*Г*В, Передняя дверь закалённое стекло с перфорацией по бокам двери, Задняя дверь перфорированная стальная с шестиугольными отверстиями, IP20, Чёрный, (Состоит из 3 частей)"
   },
   {
@@ -310,7 +310,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 362133,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф коммуникационный, SHIP, 601S.6242.24.100, 124 серия, 19'' 42U, 600*1200*2000 мм, Ш*Г*В, Передняя дверь закалённое стекло с перфорацией по бокам двери, Задняя дверь перфорированная стальная с шестиугольными отверстиями, IP20, Чёрный, (Состоит из 3 частей)"
   },
   {
@@ -322,7 +322,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 375534,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф коммуникационный, SHIP, 601S.8842.24.100, 124 серия, 19'' 42U, 800*800*2000 мм, Ш*Г*В, Передняя дверь закалённое стекло с перфорацией по бокам двери, Задняя дверь перфорированная стальная с шестиугольными отверстиям, IP20, Чёрный"
   },
   {
@@ -334,7 +334,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 411850,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф коммуникационный, SHIP, 601S.8042.24.100, 124 серия, 19'' 42U, 800*1000*2000 мм, Ш*Г*В, IP20, Передняя дверь закалённое стекло с перфорацией по бокам двери, Задняя дверь перфорированная стальная с шестиугольными отверстиями, Чёрный"
   },
   {
@@ -346,7 +346,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 490658,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф коммуникационный, SHIP, 601S.8242.24.100, 124 серия, 19'' 42U, 800*1200*2000 мм, Ш*Г*В, Передняя дверь закалённое стекло с перфорацией по бокам двери, Задняя дверь перфорированная стальная с шестиугольными отверстиями, IP20, Чёрный, (Состоит из 3 частей)"
   },
   {
@@ -358,7 +358,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 327529,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф коммуникационный, SHIP, 601S.6847.24.100, 124 серия, 19'' 47U, 600*800*2200 мм, Ш*Г*В, Передняя дверь закалённое стекло с перфорацией по бокам двери, Задняя дверь перфорированная стальная с шестиугольными отверстиями, IP20, Чёрный"
   },
   {
@@ -370,7 +370,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 364315,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф коммуникационный, SHIP, 601S.6047.24.100, 124 серия, 19'' 47U, 600*1000*2200 мм, Ш*Г*В, Передняя дверь закалённое стекло с перфорацией по бокам двери, Задняя дверь перфорированная стальная с шестиугольными отверстиями, IP20, Чёрный, (Состоит из 3 частей)"
   },
   {
@@ -382,7 +382,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 444831,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф коммуникационный, SHIP, 601S.8047.24.100, 124 серия, 19'' 47U, 800*1000*2200 мм, Ш*Г*В, Передняя дверь закалённое стекло с перфорацией по бокам двери, Задняя дверь перфорированная стальная с шестиугольными отверстиями, IP20, Чёрный"
   },
   {
@@ -394,7 +394,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 235236,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф коммуникационный, SHIP, 601S.6824.54.100, 154 серия, 19'' 24U, 600*800*1200 мм, Ш*Г*В, Передняя дверь с перфорацией высокой плотности, Задняя дверь перфорированная стальная с шестиугольными отверстиями, IP20, Чёрный"
   },
   {
@@ -406,7 +406,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 322930,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф коммуникационный, SHIP, 601S.6842.54.100, 154 серия, 19'' 42U, 600*800*2000 мм, Ш*Г*В, Передняя дверь с перфорацией высокой плотности, Задняя дверь перфорированная стальная с шестиугольными отверстиями, IP20, Чёрный"
   },
   {
@@ -418,7 +418,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 448172,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф коммуникационный, SHIP, 601S.8042.54.100, 154 серия, 19'' 42U, 800*1000*2000 мм, Ш*Г*В, Передняя дверь с перфорацией высокой плотности, Задняя дверь перфорированная стальная с шестиугольными отверстиями, IP20, Чёрный"
   },
   {
@@ -430,7 +430,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 323017,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф коммуникационный, SHIP, 601S.6842.65.100, 165 серия, 19'' 42U, 600*800*2000 мм, Ш*Г*В, Перфорированная двустворчатая передняя дверь, Задняя дверь с перфорацией высокой плотности, IP20, Чёрный"
   },
   {
@@ -442,7 +442,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 517010,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф коммуникационный, SHIP, H.8242.56.100, 19\" 42U, 800*1200*2000 мм, H серия, чёрный, Передняя дверь с перфорацией высокой плотности, Перфорированная двустворчатая задняя дверь, состоит из 4 частей"
   },
   {
@@ -454,7 +454,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 423552,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф коммуникационный, SHIP, H.6242.56.100, 19\" 42U, 600*1200*2000 мм, H серия, чёрный, Передняя дверь с перфорацией высокой плотности, Перфорированная двустворчатая задняя дверь, состоит из 3 частей"
   },
   {
@@ -466,7 +466,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 398870,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф коммуникационный, SHIP, H.6042.56.100, 19\" 42U, 600*1000*2000 мм, H серия, чёрный, Передняя дверь с перфорацией высокой плотности, Перфорированная двустворчатая задняя дверь, состоит из 3 частей"
   },
   {
@@ -478,7 +478,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 455502,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф коммуникационный, SHIP, H.8842.56.100, 19\" 42U, 800*800*2000 мм, H серия, чёрный, Передняя дверь с перфорацией высокой плотности, Перфорированная двустворчатая задняя дверь, состоит из 4 частей"
   },
   {
@@ -490,7 +490,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 481703,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф коммуникационный, SHIP, H.8042.56.100, 19\" 42U, 800*1000*2000 мм, H серия, чёрный, Передняя дверь с перфорацией высокой плотности, Перфорированная двустворчатая задняя дверь, состоит из 4 частей"
   },
   {
@@ -502,7 +502,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 513404,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф коммуникационный, Ship, VE.8042.56.100, 19\" 42U, 800*1000*2000mm, чёрный, (Состоит из 4 частей)"
   },
   {
@@ -514,7 +514,7 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 890099,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Стойка коммуникационная, APC, ER6202FP1, 19'' 42U, 600*1000*2000 мм, Ш*Г*В, Передняя дверь перфорированная, Задняя дверь перфорированная, IP20, Чёрный"
   },
   {
@@ -526,7 +526,8 @@ export const ШКАФЫ_НАПОЛЬНЫЕ_СЕРВЕРНЫЕ = [
     "price": 1517893,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф для сетевого оборудования, APC, AR3100, 42U"
   }
 ];
+

@@ -10,7 +10,7 @@ export const УВЛАЖНИТЕЛИ_ВОЗДУХА = [
     "price": 19390,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Увлажнитель воздуха, Xiaomi, Smart Humidifier 2 Lite/MJJSQ06DY/BHR6605EU, Объем 4 л, Уровень шума 38 дБ, Вес 1.4, Водяной пар 300 мл/ч, Антибактериальная технология, Белый"
   },
   {
@@ -22,7 +22,7 @@ export const УВЛАЖНИТЕЛИ_ВОЗДУХА = [
     "price": 27150,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Увлажнитель воздуха, Xiaomi, Smart Humidifier 2/MJJSQ05DY/BHR6026EU, Объем 4.5 л, Уровень шума 38 дБ, Вес 1.57, Белый"
   },
   {
@@ -34,7 +34,7 @@ export const УВЛАЖНИТЕЛИ_ВОЗДУХА = [
     "price": 46550,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Увлажнитель воздуха, Xiaomi, Smart Evaporative Humidifier, CJSJSQ02XYUE/BHR8532EU, Объем 4 л, Уровень шума 20 дБ, Вес 2.6, Водяной пар 400 мл/ч, Белый"
   },
   {
@@ -46,7 +46,7 @@ export const УВЛАЖНИТЕЛИ_ВОЗДУХА = [
     "price": 63040,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Увлажнитель воздуха, Smartmi, Evaporative Humidifier 3 (CJXJSQ05ZM), Трехслойная очистка, 5 л, Датчик качества воздуха, Дисплей, 50 дБ(А), Белый"
   },
   {
@@ -58,7 +58,7 @@ export const УВЛАЖНИТЕЛИ_ВОЗДУХА = [
     "price": 92140,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Увлажнитель воздуха, Smartmi, Humidifier Rainforest (CJJSQ06ZM), Скорость испарения 200 мл/ч, Объем 3 л, Обслуживаемая площадь 11-20 м.кв, Белый"
   },
   {
@@ -70,7 +70,7 @@ export const УВЛАЖНИТЕЛИ_ВОЗДУХА = [
     "price": 12600,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Увлажнитель воздуха, Deerma, F500, Беспроводной, Мощность 25 Вт, Управление механическое, Обслуживаемая площадь 31-40 м, Объем резервуара 5л, Скорость испарения 300 мл/ч, Белый"
   },
   {
@@ -82,7 +82,7 @@ export const УВЛАЖНИТЕЛИ_ВОЗДУХА = [
     "price": 11630,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Увлажнитель воздуха, Deerma, F600, Размер 315*208мм, Уровень шума 34дБ, Объем 5л, Скорость испарения 350 мл/ч, Белый"
   },
   {
@@ -94,7 +94,7 @@ export const УВЛАЖНИТЕЛИ_ВОЗДУХА = [
     "price": 13570,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Увлажнитель воздуха, Deerma, DEM-F323W, Номинальная мощность 25 Вт, Объем 5 л, Управление механическое, Обслуживаемая площадь 20-30 м.кв, Скорость испарения 300 мл/ч, Черный"
   },
   {
@@ -106,7 +106,7 @@ export const УВЛАЖНИТЕЛИ_ВОЗДУХА = [
     "price": 13570,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Увлажнитель воздуха, Deerma, F325, Мощность 25 Вт, Управление механическое, Обслуживаемая площадь 30 м, Объем резервуара 5л, Скорость испарения 300 мл/ч, Возможность ароматизации воздуха, Белый"
   },
   {
@@ -118,7 +118,7 @@ export const УВЛАЖНИТЕЛИ_ВОЗДУХА = [
     "price": 17450,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Увлажнитель воздуха, Deerma, LD220, Напольный, Объем 4л, Время работы до 16 ч, LED-дисплей, Уровень шума до 35 Дб, Автоотключение без воды, Белый"
   },
   {
@@ -130,7 +130,7 @@ export const УВЛАЖНИТЕЛИ_ВОЗДУХА = [
     "price": 25210,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Увлажнитель воздуха, Deerma, ST636W, Сенсорное управление, LED дисплей, Мощность 28 Вт, Объем резервуара 4,5 л, ABS пластик, Белый"
   },
   {
@@ -142,7 +142,7 @@ export const УВЛАЖНИТЕЛИ_ВОЗДУХА = [
     "price": 8332,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Мини осушитель воздуха, Deerma, DEM-CS50MW, 20 Вт, 75*75*206 мм, Белый"
   },
   {
@@ -154,7 +154,7 @@ export const УВЛАЖНИТЕЛИ_ВОЗДУХА = [
     "price": 47520,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Увлажнитель воздуха, Mijia, Smart Evaporative Humidifier Pro EU, CJSJSQ06ZMZUE/BHR082TEU, Объем 5 л, Уровень шума 55 дБ, Водяной пар 600 мл/ч, Белый"
   },
   {
@@ -166,7 +166,7 @@ export const УВЛАЖНИТЕЛИ_ВОЗДУХА = [
     "price": 48490,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Увлажнитель воздуха, Smartmi, Evaporative Humidifier 3 Lite (CJXJSQ06ZM), 4 л, 50 дБ(А), Белый"
   },
   {
@@ -178,7 +178,7 @@ export const УВЛАЖНИТЕЛИ_ВОЗДУХА = [
     "price": 24046,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Увлажнитель воздуха, Kitfort, КТ-2805,Тип увлажнителя ультразвуковой, Рекомендуемая площадь 20 м, Установка настольная, Максимальное время непрерывной работы 10 ч, Белый"
   },
   {
@@ -190,7 +190,7 @@ export const УВЛАЖНИТЕЛИ_ВОЗДУХА = [
     "price": 9690,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Увлажнитель, Scarlett, SC-AH986M17, Объем 2.3 л, Управление механическое, Площадь 30 м, Расход воды максимальный 300 мл/ч, Автоматическое отключение, Белый"
   },
   {
@@ -202,7 +202,7 @@ export const УВЛАЖНИТЕЛИ_ВОЗДУХА = [
     "price": 24240,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Увлажнитель воздуха, Scarlett, SC-AH986M24, Тип ультразвуковой, Индикация работы, Ароматизатор, Автоотключение, Цвет черный"
   },
   {
@@ -214,7 +214,7 @@ export const УВЛАЖНИТЕЛИ_ВОЗДУХА = [
     "price": 87290,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Увлажнитель воздуха, Redmond, RHF-3316, Ультразвуковой, Рекомендуемая площадь 35 м, Резервуар для воды 5л, Расход воды 400 мл/ч, Сенсорное управление, Длина шнура 1.5 м, Мощность 105 Вт, Черный"
   },
   {
@@ -226,7 +226,7 @@ export const УВЛАЖНИТЕЛИ_ВОЗДУХА = [
     "price": 14540,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ультразвуковой увлажнитель воздуха, Centek, СТ-5101, <300мл/ч>, 8.5ч работы, 2,5л, 30м2, Черный"
   },
   {
@@ -238,7 +238,8 @@ export const УВЛАЖНИТЕЛИ_ВОЗДУХА = [
     "price": 41021,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Увлажнитель воздуха, Kitfortt, КТ-2810, Ультразвуковой, Обслуживаемая площадь до 30м?, Объем 4л, Уровень шума < 35 дБ, Максимальное испарение 300 мл/ч, Время работы 13ч, Таймер 10 ч, Ароматизация, Мощность 25 Вт, Белый"
   }
 ];
+

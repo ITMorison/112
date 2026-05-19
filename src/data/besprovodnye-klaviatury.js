@@ -10,7 +10,7 @@ export const BESPROVODNYE_KLAVIATURY = [
     "price": 3298,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, XG, XK-220OGB, Ультра-тонкая, Беспроводная 2.4ГГц, Кол-во стандартных клавиш 104, Анг/Рус/Каз, Черный"
   },
   {
@@ -22,7 +22,7 @@ export const BESPROVODNYE_KLAVIATURY = [
     "price": 5335,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, XG, XK-550OGB, Ультра-тонкая, Беспроводная 2.4ГГц, Bluetooth 5.0, Кол-во стандартных клавиш 104, Анг/Рус/Каз, Серый"
   },
   {
@@ -34,7 +34,7 @@ export const BESPROVODNYE_KLAVIATURY = [
     "price": 4452,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Delux, DLK-150GB, Ультратонкая, Беспроводная 2.4ГГц, Кол-во стандартных клавиш 104, 12 мультимедиа-клавиш (FN), Размер: 433*124*20,7 мм., Анг/Рус/Каз, Чёрный"
   },
   {
@@ -46,7 +46,7 @@ export const BESPROVODNYE_KLAVIATURY = [
     "price": 4840,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Delux, DLK-1900OGB, Ультратонкая, Беспроводная 2.4ГГц, Кол-во стандартных клавиш 104, Размер: 449*161,8*24,9 мм., Анг/Рус/Каз, Защита от случайного пролива воды/кофе, Чёрный"
   },
   {
@@ -58,7 +58,7 @@ export const BESPROVODNYE_KLAVIATURY = [
     "price": 6227,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Genius, KB-7200, Беспроводная 2.4ГГц, Кол-во стандартных клавиш 104, Батарейки в комплекте, Размер: 435,7*140,2*23,3 мм., Анг/Рус, Защита от случайного пролива воды/кофе, Чёрный"
   },
   {
@@ -70,7 +70,7 @@ export const BESPROVODNYE_KLAVIATURY = [
     "price": 7058,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Genius, Slimstar 7230, Ультратонкая, Беспроводная 2.4ГГц, Кол-во стандартных клавиш 104, Батарейки в комплекте, Размер: 449*161,8*24,9 мм., Анг/Рус, Защита от случайного пролива воды/кофе, Чёрный"
   },
   {
@@ -82,7 +82,7 @@ export const BESPROVODNYE_KLAVIATURY = [
     "price": 11640,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Rapoo, E9310M, Ультра-тонкая, Беспроводная 2.4ГГц, Bluetooth3.0, Bluetooth 4.0, Кол-во стандартных клавиш 104, Батарейки в комплекте, Анг/Рус, Алюминий, Серый"
   },
   {
@@ -94,7 +94,7 @@ export const BESPROVODNYE_KLAVIATURY = [
     "price": 11640,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Rapoo, E9310M, Ультра-тонкая, Беспроводная 2.4ГГц, Bluetooth3.0, Bluetooth 4.0, Кол-во стандартных клавиш 104, Батарейки в комплекте, Анг/Рус, Алюминий, Белый"
   },
   {
@@ -106,7 +106,7 @@ export const BESPROVODNYE_KLAVIATURY = [
     "price": 10476,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Rapoo, Ralemo Pre 5, 2.4 Гц, Bluetooth 5.0, 79 клавиш, USB, Перезаряжаемая литиевая батарея, Англ/Рус, Белый"
   },
   {
@@ -118,7 +118,7 @@ export const BESPROVODNYE_KLAVIATURY = [
     "price": 10476,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Rapoo, Ralemo Pre 5, 2.4 Гц, Bluetooth 5.0, 79 клавиш, USB, Перезаряжаемая литиевая батарея, Англ/Рус, Сиреневый"
   },
   {
@@ -130,7 +130,7 @@ export const BESPROVODNYE_KLAVIATURY = [
     "price": 10476,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Rapoo, Ralemo Pre 5, Ультра-тонкая, Беспроводная 2.4ГГц, Кол-во стандартных клавиш 80+7 дополнительных, Батарейки в комплекте, Анг/Рус, Розовый"
   },
   {
@@ -142,7 +142,8 @@ export const BESPROVODNYE_KLAVIATURY = [
     "price": 10476,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Rapoo, Ralemo Pre 5, 2.4 Гц, Bluetooth 5.0, 79 клавиш, USB, Перезаряжаемая литиевая батарея, Англ/Рус, Голубой"
   }
 ];
+

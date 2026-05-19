@@ -10,7 +10,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 170710,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "ТВ Станция Бейсик, Яндекс, YNDX-00074, с Алисой на YaGPT 43\", KSF LED, 4K Ultra HD, 60 Гц, 320 нит, 20 Вт, 2 динамика, YaOS X, RAM 2 GB, Flash 32 GB, 178/178, Wi-Fi, USB 2х2.0, Bluetooth 5.1, HDMI 3х2.1, черный"
   },
   {
@@ -22,7 +22,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 210965,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "ТВ Станция Бейсик, Яндекс, YNDX-00075, с Алисой на YaGPT 50\", KSF LED, 4K Ultra HD, 60 Гц, 320 нит, 30 Вт, 2 динамика, YaOS X, RAM 2 GB, Flash 32 GB, 178/178, Wi-Fi, USB 2х2.0, Bluetooth 5.1, HDMI 3х2.1, черный"
   },
   {
@@ -34,7 +34,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 241035,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "ТВ Станция Бейсик, Яндекс, YNDX-00076, с Алисой на YaGPT 55\", KSF LED, 4K Ultra HD, 60 Гц, 320 нит, 30 Вт, 2 динамика, YaOS X, RAM 2 GB, Flash 32 GB, 178/178, Wi-Fi, USB 2х2.0, Bluetooth 5.1, HDMI 3х2.1, черный"
   },
   {
@@ -46,7 +46,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 361800,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "ТВ Станция Бейсик, Яндекс, YNDX-00077, с Алисой на YaGPT 65\", KSF LED, 4K Ultra HD, 60 Гц, 400 нит, 30 Вт, 2 динамика, YaOS X, RAM 2 GB, Flash 32 GB, 178/178, Wi-Fi, USB 2х2.0, Bluetooth 5.1, HDMI 3х2.1, черный"
   },
   {
@@ -58,7 +58,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 221150,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "ТВ Станция, Яндекс, Бейсик QLED 43\", YNDX-00078, Ultra HD 4K, 38402160, 60 Гц, 350 (nits), звук 20 Вт, 2х1 динамика, YaOS X, RAM 2 GB, Flash 32 GB, Wi-Fi, Bluetooth 5.1 + BLE, 3HDMI 2.1, 95857081"
   },
   {
@@ -70,7 +70,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 271590,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "ТВ Станция, Яндекс, Бейсик QLED 50\", YNDX-00079, Ultra HD 4K, 38402160, 60 Гц, 450 (nits), звук 30 Вт, 2х1 динамика, YaOS X, RAM 2 GB, Flash 32 GB, Wi-Fi, Bluetooth 5.1 + BLE, 3HDMI 2.1, 111265582"
   },
   {
@@ -82,7 +82,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 321545,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "ТВ Станция, Яндекс, Бейсик QLED 55\", YNDX-00080, Ultra HD 4K, 38402160, 60 Гц, 450 (nits), звук 30 Вт, 2х1 динамика, YaOS X, RAM 2 GB, Flash 32 GB, Wi-Fi, Bluetooth 5.1 + BLE, 3HDMI 2.1, 122672382"
   },
   {
@@ -94,7 +94,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 421940,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "ТВ Станция, Яндекс, Бейсик QLED 65\", YNDX-00081, Ultra HD 4K, 38402160, 60 Гц, 450 (nits), звук 30 Вт, 2х1 динамика, YaOS X, RAM 2 GB, Flash 32 GB, Wi-Fi, Bluetooth 5.1 + BLE, 3HDMI 2.1, 144684483"
   },
   {
@@ -106,7 +106,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 552890,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "ТВ Станция, Яндекс, Про MiniLED 55\", YNDX-00103, Ultra HD 4K, 38402160, 144 Гц, 550 (nits), звук 50 Вт, число динамиков - 22 + 1 , YaOS X, RAM 4 GB, Flash 32 GB, Wi-Fi, Bluetooth 5.1 + BLE, 3HDMI 2.1, 122672378"
   },
   {
@@ -118,7 +118,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 733310,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "ТВ Станция, Яндекс, Про MiniLED 65\", YNDX-00104, Ultra HD 4K, 38402160, 144 Гц, 550 (nits), звук 50 Вт, число динамиков - 22 + 1, YaOS X, RAM 4 GB, Flash 32 GB, Wi-Fi, Bluetooth 5.1 + BLE, 3HDMI 2.1, 144684478"
   },
   {
@@ -130,7 +130,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 944770,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "ТВ Станция, Яндекс, Про MiniLED 75\",YNDX-00105, Ultra HD 4K, 38402160, 144 Гц, 550 (nits), звук 50 Вт, число динамиков - 22 + 1 , YaOS X, RAM 4 GB, Flash 32 GB, Wi-Fi, Bluetooth 5.1 + BLE, 3HDMI 2.1, 166896979"
   },
   {
@@ -142,7 +142,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 311360,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Телевизор Яндекс, ТВ Станция с Алисой на YandexGPT, YNDX-00094, QLED 50\", 38402160 4K UHD, 60 Гц, 450 (nits), звук 34 Вт , 4 динамика, YaOS X, RAM 3 GB, Flash 32 GB, Wi-Fi, 2  USB 2.0 + 1USB 3.0, Bluetooth 5.1 + BLE, 3HDMI 2.2, черный"
   },
   {
@@ -154,7 +154,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 351615,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Телевизор Яндекс, ТВ Станция с Алисой на YandexGPT, YNDX-00095, QLED 55\", 38402160 4K UHD, 60 Гц, 450 (nits), звук 34 Вт , 4 динамика, YaOS X, RAM 3 GB, Flash 32 GB, Wi-Fi, 3  USB 2.0 + 1USB 3.0, Bluetooth 5.1 + BLE, 3HDMI 2.3, черный"
   },
   {
@@ -166,7 +166,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 447160,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Телевизор Яндекс, ТВ Станция с Алисой на YandexGPT, YNDX-00096, QLED 65\", 38402160 4K UHD, 60 Гц, 450 (nits), звук 34 Вт , 4 динамика, YaOS X, RAM 3 GB, Flash 32 GB, Wi-Fi, 4  USB 2.0 + 1USB 3.0, Bluetooth 5.1 + BLE, 3HDMI 2.4, черный"
   },
   {
@@ -178,7 +178,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 402055,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "ТВ Станция Про, Яндекс, YNDX-00101, с Алисой 55\", QLED, 4K Ultra HD, 60 Гц, 550 (nits), звук 44 Вт, 6 динамиков, YaOS X, RAM 3 GB, Flash 32 GB, 178/178, Wi-Fi, USB 13.0, 12.0, Bluetooth ВТ 5.1, HDMI 2.1, черный"
   },
   {
@@ -190,7 +190,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 77590,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Смарт телевизор, Xiaomi, A 2025 32\", L32M8-A2RU, HD (1366*768), 60 Гц, Android, Quad A55, Mali G31 MP2, 1.5GB/8GB, 178/178, динамики 2x5 В, Bluetooth, Wi-Fi, HDMIx2, USB, AV, LAN,VESA 100*100, металическая рамка, черный"
   },
   {
@@ -202,7 +202,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 135790,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Смарт телевизор, Xiaomi, A 2025 43\", L43MA-AURU, UHD (3840x2160), 60 Гц, Android, Quad A55, Mali G52 MC1, 2GB/8GB, 178/178, динамики 2x8 В, Bluetooth, Wi-Fi, HDMIx3, USB, AV, LAN, VESA 200*100, металическая рамка, черный"
   },
   {
@@ -214,7 +214,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 164890,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Смарт телевизор, Xiaomi, A 2025 50\", L50MA-ARU, UHD (3840x2160), 60 Гц, Android, Quad A55, Mali G52 MC1, 2GB/8GB, 178/178, динамики 2x10 В, Bluetooth, Wi-Fi, HDMIx3, USB, AV, LAN, VESA 200*200, металическая рамка, черный"
   },
   {
@@ -226,7 +226,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 271590,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Смарт телевизор, Xiaomi, A 2025 65\", L65MA-ARU, UHD (3840x2160), 60 Гц, Android, Quad A55, Mali G52 MC1, 2GB/8GB, 178/178, динамики 2x10 В, Bluetooth, Wi-Fi, HDMIx3, USBx2, AV, LAN, VESA 400*300, металическая рамка, черный"
   },
   {
@@ -238,7 +238,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 145490,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Смарт телевизор, Xiaomi, A Pro 2025 43\", L43MA-SRU, QLED, UHD (3840x2160), 60 Гц, Android, Quad A55, Mali G52 MC1, 2GB/8GB, 178/178, динамики 2x8 В, Bluetooth, Wi-Fi, HDMIx3, USB, AV, LAN, VESA 100*200, металлическая рамка, черный"
   },
   {
@@ -250,7 +250,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 213390,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Смарт телевизор, Xiaomi, A Pro 2025 55\", L55MA-SRU, QLED, UHD (3840x2160), 60 Гц, Android, Quad A55, Mali G52 MC1, 2GB/8GB, 178/178, динамики 2x10 В, Bluetooth, Wi-Fi, HDMIx3, USB, AV, LAN, VESA 200*200, металическая рамка, черный"
   },
   {
@@ -262,7 +262,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 300690,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Смарт телевизор, Xiaomi, A Pro 2025 65\", L65MA-SRU, QLED, UHD (3840x2160), 60 Гц, Android, Quad A55, Mali G52 MC1, 2GB/8GB, 178/178, динамики 2x10 В, Bluetooth, Wi-Fi, HDMIx3, USBx2, AV, LAN, VESA 400*300, металическая рамка, черный"
   },
   {
@@ -274,7 +274,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 407390,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Смарт телевизор, Xiaomi, A Pro 2025 75\", L75MA-SRU, QLED, UHD (3840x2160), 60 Гц, Android, Quad A55, Mali G52 MC1, 2GB/8GB, 178/178, динамики 2x10 В, Bluetooth, Wi-Fi, HDMIx3, USBx2, AV, LAN, VESA 400*400, металическая рамка, черный"
   },
   {
@@ -286,7 +286,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 281290,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Смарт телевизор, Xiaomi, 2025 S MiniLED 55\", L55MA-SPLRU, MiniLED, 4K(3840x2160),144 Гц, Android, Quad cortex A73, Mali-G52 (2EE) MC1, 3GB/32GB, 178/178, динамики 2x12.5 В, Bluetooth, Wi-Fi, HDMI2.1x3, USB(2.0)x1 USB(3.0)x1, AV, LAN, VESA 300*300, пластиковая рамка,темно-серый"
   },
   {
@@ -298,7 +298,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 407390,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Смарт телевизор, Xiaomi, 2025 S MiniLED 65\", L65MA-SPLRU, MiniLED, 4K(3840x2160),144 Гц, Android, Quad cortex A73, Mali-G52 (2EE) MC1, 3GB/32GB, 178/178, динамики 2x12.5 В, Bluetooth, Wi-Fi, HDMI2.1x3, USB(2.0)x1 USB(3.0)x1, AV, LAN, VESA 300*300, пластиковая рамка,темно-серый"
   },
   {
@@ -310,7 +310,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 543190,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Смарт телевизор, Xiaomi, 2025 S MiniLED 75\", L75MA-SPLRU, MiniLED, 4K(3840x2160),144 Гц, Android, Quad cortex A73, Mali-G52 (2EE) MC1, 3GB/32GB, 178/178, динамики 2x12.5 В, Bluetooth, Wi-Fi, HDMI2.1x3, USB(2.0)x1 USB(3.0)x1, AV, LAN, VESA 400*300, пластиковая рамка,темно-серый"
   },
   {
@@ -322,7 +322,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 678990,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Смарт телевизор, Xiaomi,2025 Max 85\", L85MA-MAXRU, QLED, 4K(3840x2160),144 Гц, Android, Quad cortex A73, Mali-G52 (2EE) MC1, 3GB/32GB, 178/178, динамики 2x15 В, Bluetooth, Wi-Fi, HDMI2.1x3, USB(2.0)x1 USB(3.0)x1, AV, LAN, VESA 500*400, металическая рамка,темно-серый"
   },
   {
@@ -334,7 +334,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 1357990,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Смарт телевизор, Xiaomi,2025 Max 100\", L100MA-MAXRU, QLED, 4K(3840x2160),144 Гц, Android, Quad cortex A73, Mali-G52 (2EE) MC1, 3GB/32GB, 178/178, динамики 2x15 В, Bluetooth, Wi-Fi, HDMI2.1x3, USB(2.0)x1 USB(3.0)x1, AV, LAN, VESA 700*400, металическая рамка,темно-серый"
   },
   {
@@ -346,7 +346,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 126090,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Смарт телевизор, Xiaomi, A 2026 43”, L43MB-AURU, 4K UHD (38402160), 60Гц, Android, QuadA55, MaliG52MC1, 2GB/8GB, 178°/178°, Dolby Audio/DTS-X/DTS, динамики 210Вт, Bluetooth, WiFi, HDMIx3, USB, AV, LAN, Optical Out, CI+ Slot, VESA 100200мм, металлическая рамка, черный"
   },
   {
@@ -358,7 +358,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 155190,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Смарт телевизор, Xiaomi, A 2026 50”, L50MB-ARU, 4K UHD (38402160), 60Гц, Android, QuadA55, MaliG52MC1, 2GB/8GB, 178°/178°, Dolby Audio/DTS-X/DTS, динамики 210Вт, Bluetooth, WiFi, HDMIx3, USB, AV, LAN, Optical Out, CI+ Slot, VESA 100200мм, металлическая рамка, черный"
   },
   {
@@ -370,7 +370,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 193990,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Смарт телевизор, Xiaomi, A 2026 55”, L55MB-ARU, 4K UHD (38402160), 60Гц, Android, QuadA55, MaliG52MC1, 2GB/8GB, 178°/178°, Dolby Audio/DTS-X/DTS, динамики 210Вт, Bluetooth, WiFi, HDMIx3, USB, AV, LAN, Optical Out, CI+ Slot, VESA 200300мм, металлическая рамка, черный"
   },
   {
@@ -382,7 +382,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 261890,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Смарт телевизор, Xiaomi, A 2026 65”, L65MB-ARU, 4K UHD (38402160), 60Гц, Android, QuadA55, MaliG52MC1, 2GB/8GB, 178°/178°, Dolby Audio/DTS-X/DTS, динамики 210Вт, Bluetooth, WiFi, HDMIx3, USB, AV, LAN, Optical Out, CI+ Slot, VESA 300300мм, металлическая рамка, черный"
   },
   {
@@ -394,7 +394,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 155190,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Смарт телевизор, Xiaomi, A Pro 2026 43”, L43MB-APRU, QLED, 4K UHD (38402160), 60Гц, Android, QuadA55, MaliG52MC1, 2GB/8GB, 178°/178°, Dolby Audio/DTS-X/DTS, динамики 210Вт, Bluetooth, WiFi, HDMIx3, USB, AV, LAN, Optical Out, CI+ Slot, VESA 100200мм, металлическая рамка, черный"
   },
   {
@@ -406,7 +406,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 184290,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Смарт телевизор, Xiaomi, A Pro 2026 50”, L50MB-APRU, QLED, 4K UHD (38402160), 60Гц, Android, QuadA55, MaliG52MC1, 2GB/8GB, 178°/178°, Dolby Audio/DTS-X/DTS, динамики 210Вт, Bluetooth, WiFi, HDMIx3, USB, AV, LAN, Optical Out, CI+ Slot, VESA 100x200мм, металлическая рамка, черный"
   },
   {
@@ -418,7 +418,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 223090,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Смарт телевизор, Xiaomi, A Pro 2026 55”, L55MB-APRU, QLED, 4K UHD (38402160), 60Гц, Android, QuadA55, MaliG52MC1, 2GB/8GB, 178°/178°, Dolby Audio/DTS-X/DTS, динамики 210Вт, Bluetooth, WiFi, HDMIx3, USB, AV, LAN, Optical Out, CI+ Slot, VESA 200300мм, металлическая рамка, темно-серый"
   },
   {
@@ -430,7 +430,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 310390,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Смарт телевизор, Xiaomi, A Pro 2026 65”, L65MB-APRU, QLED 4K UHD (38402160), 60Гц, Android, QuadA55, MaliG52MC1, 2GB/8GB, 178°/178°, Dolby Audio/DTS-X/DTS, динамики 210Вт, Bluetooth, WiFi, HDMIx3, USB, AV, LAN, Optical Out, CI+ Slot, VESA 300300мм, металлическая рамка, темно-серый"
   },
   {
@@ -442,7 +442,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 407390,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Смарт телевизор, Xiaomi, A Pro 2026 75”, L75MB-APRU, 4K UHD (38402160), 60Гц, Android, QuadA55, MaliG52MC1, 2GB/8GB, 178°/178°, Dolby Audio/DTS-X/DTS, динамики 210Вт, Bluetooth, WiFi, HDMIx3, USB, AV, LAN, Optical Out, CI+ Slot, VESA 400300мм, металлическая рамка, темно-серый"
   },
   {
@@ -454,7 +454,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 320090,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Смарт телевизор, Xiaomi, S Pro Mini LED 2026 55\", L55MB-SRU, QD-Mini LED, 4K UHD (38402160), 144Гц, Android, QuadA73, MaliG52MC1, 3GB/32GB, 178°/178°, Dolby Atmos/Dolby Audio/DTS-X, динамики 215Вт, Bluetooth, WiFi, HDMIx3, USBx2, AV, LAN, Optical Out, 3.5 мм Jack, CI+ Slot, VESA 300300мм, металлическая рамка, темно-серый"
   },
   {
@@ -466,7 +466,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 436490,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Смарт телевизор, Xiaomi, S Pro Mini LED 2026 65\", L65MB-SRU, QD-Mini LED, 4K UHD (38402160), 144Гц, Android, QuadA73, MaliG52MC1, 3GB/32GB, 178°/178°,Dolby Atmos/Dolby Audio/DTS-X, динамики 215Вт, Bluetooth, WiFi, HDMIx3, USBx2, AV, LAN, Optical Out, 3.5 мм Jack, CI+ Slot, VESA 300300мм, металлическая рамка, темно-серый"
   },
   {
@@ -478,7 +478,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 581990,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Смарт телевизор, Xiaomi, S Pro Mini LED 2026 75\", L75MB-SRU, QD-Mini LED, 4K UHD (38402160), 144Гц, Android, QuadA73, MaliG52MC1, 3GB/32GB, 178°/178°,Dolby Atmos/Dolby Audio/DTS-X, динамики 215Вт, Bluetooth, WiFi, HDMIx3, USBx2, AV, LAN, Optical Out, 3.5 мм Jack, CI+ Slot, VESA 400300мм, металлическая рамка, темно-серый"
   },
   {
@@ -490,7 +490,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 76620,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Смарт телевизор, Dahua, DHI-LTV24-SD100, 24\", HD (1366*768), 60 Гц, Android 11, 1GB/8GB, 178/178, динамики 2x6 В, HDMI*2,USB 2.0*2,mini AV In*1,RJ-45*1, VESA 200*200, черный"
   },
   {
@@ -502,7 +502,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 116390,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Смарт телевизор, Dahua, DHI-LTV40-SD200, 40\", FHD (1920*1080), 60 Гц, Android 11, 1GB/8GB, 178/178, динамики 2x6 В, HDMI 1.4*1,HDMI-ARC, mini AV-In*1, USB 2.0*2, RJ-45*1,Tuner*2, CI*1, VESA 200*200, черный"
   },
   {
@@ -514,7 +514,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 131910,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Смарт телевизор, Dahua, DHI-LTV43-SD200, 43\", FHD (1920*1080), 60 Гц, Android 11, 1GB/8GB, 178/178, динамики 2x8 В, HDMI*2,USB 2.0*2,mini AV In*1,RJ-45*1,Tuner*2,CI*1, VESA 200*200, черный"
   },
   {
@@ -526,7 +526,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 145295,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Смарт телевизор, Dahua, DHI-LTV43-SD400, 43\", Ultra HD (38402160), 60 Гц, Android 11, 2GB/8GB, 178/178, динамики 2x8 В, HDMI*2,USB 2.0*2,mini AV In*1,RJ-45*1, VESA 200*200, черный"
   },
   {
@@ -538,7 +538,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 174590,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Смарт телевизор, Dahua, DHI-LTV43-QSD400, 43\", QLED, 3840*2160, 60 Гц, Android 11, 2GB/8GB, 178/178, динамики 2x8 В, HDMI 2.1*2, HDMI-eARC, mini AV-In*1, USB 2.0*2, RJ-45*1, Tuner*2, CI*1, VESA 300*300, черный"
   },
   {
@@ -550,7 +550,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 203690,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Смарт телевизор, Dahua, DHI-LTV50-QSD400, 50\", QLED, 3840*2160, 60 Гц, Android 11, 2GB/8GB, 178/178, динамики 2x8 В, HDMI 2.1*2, HDMI-eARC, mini AV-In*1, USB 2.0*2, RJ-45*1, Tuner*2, CI*1, VESA 300*300, черный"
   },
   {
@@ -562,7 +562,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 232790,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Смарт телевизор, Dahua, DHI-LTV55-QSD400, 55\", QLED, 3840*2160, 60 Гц, Android 11, 2GB/8GB, 178/178, динамики 2x8 В, HDMI 2.1*2, HDMI-eARC, mini AV-In*1, USB 2.0*2, RJ-45*1, Tuner*2, CI*1, VESA 300*300, черный"
   },
   {
@@ -574,7 +574,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 329790,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Смарт телевизор, Dahua, DHI-LTV65-QSD400, 65\", QLED, 3840*2160, 60 Гц, Android 11, 2GB/8GB, 178/178, динамики 2x8 В, HDMI 2.1*2, HDMI-eARC, mini AV-In*1, USB 2.0*2, RJ-45*1, Tuner*2, CI*1, VESA 300*300, черный"
   },
   {
@@ -586,7 +586,7 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 387990,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Смарт телевизор Xiaomi S Pro Mini LED 2026 65\", L65MC-SRU, QD-Mini LED, 4K UHD (38402160), 60Гц, Android, Quad Cortex A55, MaliG52MC1, 3GB/32GB, 178°/178°,Dolby Atmos/Dolby Audio/DTS-X, динамики 215Вт, Bluetooth, WiFi, HDMIx3, USBx1, AV, LAN, Optical Out, CI+ Slot, VESA 300300мм, металлическая рамка, темно-серый"
   },
   {
@@ -598,7 +598,8 @@ export const ТЕЛЕВИЗОРЫ = [
     "price": 0,
     "stock": 50,
     "is_available": false,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Смарт телевизор Xiaomi S Pro Mini LED 2026 75\", L75MC-SRU, QD-Mini LED, 4K UHD (38402160), 60Гц, Android, Quad Cortex A55, MaliG52MC1, 2 GB/32GB, 178°/178°,Dolby Atmos/Dolby Audio/DTS-X, динамики 215Вт, Bluetooth, WiFi, HDMIx3, USBx1, AV, LAN, Optical Out, CI+ Slot, VESA 400300мм, металлическая рамка, темно-серый"
   }
 ];
+

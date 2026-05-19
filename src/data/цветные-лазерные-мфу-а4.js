@@ -10,7 +10,7 @@ export const ЦВЕТНЫЕ_ЛАЗЕРНЫЕ_МФУ_А4 = [
     "price": 797251,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цветное МФУ, Xerox, VersaLink C415DN, C415V_DN, Лазерное, А4, 40 стр./мин., Подача 251 лист, Двусторонний автоподатчик документов, до 98 изобр./мин., Сенсорный дисплей 7\", 1.2 ГГц CPU, 2 ГБ RAM, 32 ГБ eMMC, USB 2.0, Ethernet 10/100/1000, NFC, Fax"
   },
   {
@@ -22,7 +22,7 @@ export const ЦВЕТНЫЕ_ЛАЗЕРНЫЕ_МФУ_А4 = [
     "price": 1313825,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цветное МФУ, Xerox, VersaLink C625DN, C625V_DN, Лазерное , А4, 50 стр./мин., Подача 650 листов, Двусторонний автоподатчик документов, до 98 изобр./мин., Сенсорный дисплей 7\", 1.2 ГГц CPU, 4 ГБ RAM, 32 ГБ eMMC, USB 2.0, Ethernet 10/100/1000, NFC, Fax"
   },
   {
@@ -34,7 +34,7 @@ export const ЦВЕТНЫЕ_ЛАЗЕРНЫЕ_МФУ_А4 = [
     "price": 383150,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цветное МФУ, Canon, i-SENSYS MF655CDW, 5158C004AA, Лазерное, A4, 21 стр./мин., Подача 251 лист, Односторонний автоподатчик документов, Сенсорный дисплей 5\", 800 МГц CPU, 1 ГБ RAM, USB 2.0, Ethernet 10/100/1000, Wi-Fi"
   },
   {
@@ -46,7 +46,7 @@ export const ЦВЕТНЫЕ_ЛАЗЕРНЫЕ_МФУ_А4 = [
     "price": 354050,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цветное МФУ, Canon, i-SENSYS MF752CDW, 5455C012AA, Лазерное, A4, 33 стр./мин., Подача 350 листов, Двусторонний автоподатчик документов, Сенсорный дисплей 5\", 1.2 ГГц CPU, 1 ГБ RAM, USB 2.0, Ethernet 10/100/1000, Wi-Fi"
   },
   {
@@ -58,7 +58,7 @@ export const ЦВЕТНЫЕ_ЛАЗЕРНЫЕ_МФУ_А4 = [
     "price": 396730,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цветное МФУ, Canon, i-SENSYS MF754CDW, 5455C023AA, Лазерное, A4, 33 стр./мин., Подача 300 листов, Двусторонний автоподатчик документов, Сенсорный дисплей 5\", 1.2 ГГц CPU, 1 ГБ RAM, USB 2.0, Ethernet 10/100/1000, Wi-Fi"
   },
   {
@@ -70,7 +70,7 @@ export const ЦВЕТНЫЕ_ЛАЗЕРНЫЕ_МФУ_А4 = [
     "price": 352110,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цветное МФУ, Canon, i-SENSYS MF752CDW II, 7185C013AA, Лазерное, A4, 33 стр./мин., Подача 350 листов, Двусторонний автоподатчик документов, Сенсорный дисплей 5\", 1.2 ГГц CPU, 1 ГБ RAM, USB 2.0, Ethernet 10/100/1000, Wi-Fi"
   },
   {
@@ -82,7 +82,7 @@ export const ЦВЕТНЫЕ_ЛАЗЕРНЫЕ_МФУ_А4 = [
     "price": 397700,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цветное МФУ, Canon, i-SENSYS MF754CDW II, 7185C010AA, Лазерное, A4, 33 стр./мин., Подача 300 листов, Двусторонний автоподатчик документов, Сенсорный дисплей 5\", 1.2 ГГц CPU, 1 ГБ RAM, USB 2.0, Ethernet 10/100/1000, Wi-Fi"
   },
   {
@@ -94,7 +94,7 @@ export const ЦВЕТНЫЕ_ЛАЗЕРНЫЕ_МФУ_А4 = [
     "price": 325920,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цветное МФУ, Canon, i-SENSYS MF651CW, 5158C009AA, Лазерное, A4, 18 стр./мин., Подача 251 лист, Планшетный сканер, Сенсорный дисплей 5\", 800 МГц CPU, 1 ГБ RAM, USB 2.0, Ethernet 10/100/1000, Wi-Fi"
   },
   {
@@ -106,7 +106,7 @@ export const ЦВЕТНЫЕ_ЛАЗЕРНЫЕ_МФУ_А4 = [
     "price": 282270,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цветное МФУ, Canon, i-SENSYS MF664CDW, 6928C001AA, Лазерное, A4, 25 стр./мин., Подача 301 лист, Двусторонний автоподатчик документов, Сенсорный дисплей 5\", 1.2 ГГц CPU, 1 ГБ RAM, USB 2.0, Ethernet 10/100/1000, Wi-Fi"
   },
   {
@@ -118,7 +118,7 @@ export const ЦВЕТНЫЕ_ЛАЗЕРНЫЕ_МФУ_А4 = [
     "price": 313310,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цветное МФУ, Canon, i-SENSYS MF667CDW, 6928C001AA, Лазерное, A4, 25 стр./мин., Подача 301 лист, Двусторонний автоподатчик документов, Сенсорный дисплей 5\", 1.2 ГГц CPU, 1 ГБ RAM, USB 2.0, Ethernet 10/100/1000, Wi-Fi"
   },
   {
@@ -130,7 +130,7 @@ export const ЦВЕТНЫЕ_ЛАЗЕРНЫЕ_МФУ_А4 = [
     "price": 352931,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цветное МФУ, Xerox, C235DNI, C235V_DNI, Лазерное, А4, 22 стр./мин., Подача 251 лист, Односторонний автоподатчик документов, до 20 изобр./мин., Сенсорный дисплей 2.8\", 1 ГГц CPU, 512 МБ RAM, USB 2.0, Ethernet 10/100, Wi-Fi, Fax"
   },
   {
@@ -142,7 +142,8 @@ export const ЦВЕТНЫЕ_ЛАЗЕРНЫЕ_МФУ_А4 = [
     "price": 331442,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цветное МФУ, Xerox, C325DNI, C325V_DNI, Лазерное цветное, А4, 33 стр./мин., Подача 251 лист, Двусторонний автоподатчик документов, до 47 изобр./мин., Сенсорный дисплей 4.3\", 1.2 ГГц CPU, 2 ГБ RAM, 8 ГБ eMMC, USB 2.0, Ethernet 10/100/1000, Wi-Fi, Fax"
   }
 ];
+

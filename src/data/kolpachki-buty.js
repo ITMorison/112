@@ -86,3 +86,4 @@ export const CAPS = [
     "image": "https://market-telecom.kz/files/products/86443_1.170x220.jpg"
   }
 ];
+

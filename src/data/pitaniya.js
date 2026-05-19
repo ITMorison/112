@@ -44,3 +44,4 @@ export const POWER = [
     "image": "https://market-telecom.kz/files/products/1321_1.170x220.jpg"
   }
 ];
+

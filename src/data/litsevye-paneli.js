@@ -44,3 +44,4 @@ export const FACE_PANELS = [
     "image": "https://market-telecom.kz/files/products/01006_1.170x220.jpg"
   }
 ];
+

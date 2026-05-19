@@ -10,7 +10,7 @@ export const MATERINSKIE_PLATY = [
     "price": 33392,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, H510M K V2 (4719331855253), LGA1200, iH470, 2xDDR4 3200/2933/2666MHz, 2xSATA3, 1xM.2 (PCIe 3.0 x4/x2 или SATA), 1xHDMI, 1xPCI-Ex16, 1xPCI-Ex1, mATX"
   },
   {
@@ -22,7 +22,7 @@ export const MATERINSKIE_PLATY = [
     "price": 38790,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, H610M K DDR4 (4719331851675), LGA1700, iH610, 2xDDR4 3200/2933/2666MHz, 2xSATA3, 1xM.2 (PCI-E 3.0x4/x2), 1xHDMI, 1xPCI-Ex16, 1xPCI-Ex1, mATX"
   },
   {
@@ -34,7 +34,7 @@ export const MATERINSKIE_PLATY = [
     "price": 42185,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, H610M H V3 DDR4 (4719331859718), LGA1700, iH610, 2xDDR4 3200/3000/2933/2667/2400 MHz, 4xSATA3, 1xM.2 (PCI-E 3.0x4/x2), 1xD-Sub, 1xHDMI, 1xPCI-Ex16, 1xPCI-Ex1, mATX"
   },
   {
@@ -46,7 +46,7 @@ export const MATERINSKIE_PLATY = [
     "price": 42379,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, H610M K V2 (4719331860134), LGA1700, iH610, 2xDDR5 5600/5200/4800/4400, 2xSATA3, 1xM.2 (PCI-E 3.0x4/x2), 1xHDMI, 1xDP, 1xPCI-Ex16, 1xPCI-Ex1, mATX"
   },
   {
@@ -58,7 +58,7 @@ export const MATERINSKIE_PLATY = [
     "price": 42767,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, H610M H V2( 4719331859985), LGA1700, iH610, 2xDDR5 4400/4800/5200/5600, 4xSATA3, 1xM.2 (PCI-E 3.0x4/x2), 1xD-Sub, 1xHDMI, 1xPCI-Ex16, 1xPCI-Ex1, mATX"
   },
   {
@@ -70,7 +70,7 @@ export const MATERINSKIE_PLATY = [
     "price": 45386,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, H610M H (4719331854041), LGA1700, iH610, 2xDDR5 4400/4800/5200/5600, 4xSATA3, 1xM.2 (PCI-E 3.0x4/x2), 1xD-Sub, 1xHDMI, 1xPCI-Ex16, 1xPCI-Ex1, mATX"
   },
   {
@@ -82,7 +82,7 @@ export const MATERINSKIE_PLATY = [
     "price": 47423,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, H610M S2H V2 (4719331859817), LGA1700, iH610, 2xDDR5 4400/4800/5200/5600, 4xSATA3, 1xM.2 (PCI-E 3.0x4/x2), 1xD-Sub, 1xHDMI, 2xDP, 1xPCI-Ex16, 1xPCI-Ex1, mATX"
   },
   {
@@ -94,7 +94,7 @@ export const MATERINSKIE_PLATY = [
     "price": 52079,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B760M H DDR4 (4719331854645), LGA1700, iB760, 2xDDR4 2666/2933/3000/3200, 4xSATA3, 2xM.2 (PCI-E 4.0x4/x2), Raid, 1xD-Sub, 1xHDMI, 1xPCI-Ex16, 1xPCI-Ex1, mATX"
   },
   {
@@ -106,7 +106,7 @@ export const MATERINSKIE_PLATY = [
     "price": 59936,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B760M E (4719331856052), LGA1700, iB760, 2xDDR5 4000/4800/7200(OC), 4xSATA3, 2xM.2 (PCI-E 4.0x4/x2), Raid, 1xD-Sub, 1хDP, 1xHDMI, 1xPCI-Ex16, 1xPCI-Ex1, mATX"
   },
   {
@@ -118,7 +118,7 @@ export const MATERINSKIE_PLATY = [
     "price": 58190,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B760M H V2 (4719331878054), LGA1700, iB760, 2xDDR5 4000/4800/8000(OC), 4xSATA3, 1xM.2 (PCI-E 4.0x4/x2), Raid, 1хDP, 1xHDMI, 1xPCI-Ex16, 1xPCI-Ex1, mATX"
   },
   {
@@ -130,7 +130,7 @@ export const MATERINSKIE_PLATY = [
     "price": 59160,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B760M D3HP DDR4 (4719331862848), LGA1700, iB760, 4xDDR4 2666/2933/3000/3200/5333(OC), 4xSATA3, 2xM.2 (PCI-E 4.0x4/x2), Raid, 1xD-Sub, 1хDP, 1xHDMI, 1xPCI-Ex16, 2xPCI-Ex1, mATX"
   },
   {
@@ -142,7 +142,7 @@ export const MATERINSKIE_PLATY = [
     "price": 59063,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B760M DS3H DDR4 (4719331850876), LGA1700, iB760, 4xDDR4 2666/2933/3000/3200/5333(OC), 4xSATA3, 2xM.2 (PCI-E 4.0x4/x2), Raid, 1xD-Sub, 2хDP, 1xHDMI, 1xPCI-Ex16, 2xPCI-Ex1, mATX"
   },
   {
@@ -154,7 +154,7 @@ export const MATERINSKIE_PLATY = [
     "price": 69345,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B760M D3HP (4719331864347), LGA1700, iB760, 4xDDR5 4400/4800/5200/5600, 4xSATA3, 2xM.2 (PCI-E 4.0x4/x2), Raid, 1xD-Sub, 1хDP, 1xHDMI, 1xPCI-Ex16, 2xPCI-Ex1, mATX"
   },
   {
@@ -166,7 +166,7 @@ export const MATERINSKIE_PLATY = [
     "price": 71673,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B760M DS3H GEN5 (4719331872793), LGA1700, iB760, 4xDDR5 4400/4800/5200/5600, 4xSATA3, 2xM.2 (PCI-E 4.0x4/x2), Raid, 1xD-Sub, 2хDP, 1xHDMI, 3xPCI-Ex16, mATX"
   },
   {
@@ -178,7 +178,7 @@ export const MATERINSKIE_PLATY = [
     "price": 78463,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B760M D3HP WIFI6 (4719331867638), LGA1700, iB760, 4xDDR5 4000/4800/5200/5600, 4xSATA3, 2xM.2 (PCI-E 4.0x4/x2), Raid, 1xD-Sub, 1хDP, 1xHDMI, 1xPCI-Ex16, 2xPCI-Ex1, WiFi, mATX"
   },
   {
@@ -190,7 +190,7 @@ export const MATERINSKIE_PLATY = [
     "price": 93304,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B760M DS3H WIFI6E GEN5 (4719331872809), LGA1700, iB760, 4xDDR5 4400/4800/5200/5600/7600(OC), 4xSATA3, 2xM.2 (PCI-E 4.0x4/x2), Raid, 2хDP, 1xHDMI, 3xPCI-Ex16, WiFi, mATX"
   },
   {
@@ -202,7 +202,7 @@ export const MATERINSKIE_PLATY = [
     "price": 107757,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B760M GAMING X WIFI6E GEN5 (4719331872953), LGA1700, iB760, 4xDDR5 4400/4800/5200/5600/7600(OC), 4xSATA3, Raid, 2xM.2 (PCI-E 4.0x4/x2), 1хDP, 1xHDMI, 2xPCI-Ex16, WiFi, mATX"
   },
   {
@@ -214,7 +214,7 @@ export const MATERINSKIE_PLATY = [
     "price": 83410,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B760 DS3H GEN5 (4719331872892), LGA1700, iB760, 4xDDR5 4400/4800/5200/5600, 4xSATA3, 2xM.2 (PCI-E 4.0x4/x2), Raid, 1хDP, 1xHDMI, 5xPCI-Ex16, ATX"
   },
   {
@@ -226,7 +226,7 @@ export const MATERINSKIE_PLATY = [
     "price": 96408,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B760 GAMING X GEN5 (4719331872120), LGA1700, iB760, 4xDDR5 4400/4800/5200/5600/7600(OC), 4xSATA3, Raid, 3xM.2 (PCI-E 4.0x4/x2), 1хDP, 1xHDMI, 3xPCI-Ex16, ATX"
   },
   {
@@ -238,7 +238,7 @@ export const MATERINSKIE_PLATY = [
     "price": 93304,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B760 DS3H WIFI6E GEN5 (4719331872939), LGA1700, iB760, 4xDDR5 4000/4800/7600(OC), 4xSATA3, 2xM.2 (PCI-E 4.0x4/x2), Raid, 1хDP, 1xHDMI, 4xPCI-Ex16, WiFi, ATX"
   },
   {
@@ -250,7 +250,7 @@ export const MATERINSKIE_PLATY = [
     "price": 110182,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B760 GAMING X WIFI6E GEN5 (4719331871673), LGA1700, iB760, 4xDDR5 4000/4800/7600(OC), 4xSATA3, Raid, 3xM.2 (PCI-E 4.0x4/x2), 1хDP, 1xHDMI, 3xPCI-Ex16, WiFi, ATX"
   },
   {
@@ -262,7 +262,7 @@ export const MATERINSKIE_PLATY = [
     "price": 105041,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, Z790 D (4719331861186), LGA1700, iZ790, 4xDDR5 7600(OC)/5600/5400/5200/4800/4000, 4xSATA3, 3xM.2 (2*PCI-E 4.0x4/x2, 1*PCI-E 4.0x4/x2 и SATA), Raid, 1хDP, 1xHDMI, 5xPCI-Ex16, ATX"
   },
   {
@@ -274,7 +274,7 @@ export const MATERINSKIE_PLATY = [
     "price": 121434,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, Z790 EAGLE (4719331860981), LGA1700, iZ790, 4xDDR5 7600(OC)/5600/5400/5200/4800/4400, 4xSATA3, 3xM.2 (2*PCI-E 4.0x4/x2, 1*PCI-E 4.0x4/x2 и SATA), Raid, 1хDP, 1xHDMI, 2xPCI-Ex16, 2xPCI-Ex1, ATX"
   },
   {
@@ -286,7 +286,7 @@ export const MATERINSKIE_PLATY = [
     "price": 115129,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, Z790 D AX (4719331860592), LGA1700, iZ790, 4xDDR5 7600(OC)/5600/5400/5200/4800/4400, 4xSATA3, 3xM.2 (2*PCI-E 4.0x4/x2, 1*PCI-E 4.0x4/x2 и SATA), Raid, 1хDP, 1xHDMI, 3xPCI-Ex16, 2xPCI-Ex1, WiFi, ATX"
   },
   {
@@ -298,7 +298,7 @@ export const MATERINSKIE_PLATY = [
     "price": 122792,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, Z790 EAGLE AX (4719331860998), LGA1700, iZ790, 4xDDR5 7600(OC)/5600/5400/5200/4800/4400, 4xSATA3, 3xM.2 (2*PCI-E 4.0x4/x2, 1*PCI-E 4.0x4/x2 и SATA), Raid, 1хDP, 1xHDMI, 2xPCI-Ex16, 2xPCI-Ex1, WiFi, ATX"
   },
   {
@@ -310,7 +310,7 @@ export const MATERINSKIE_PLATY = [
     "price": 56444,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, H810M H (4719331869540), LGA1851, H810, 2xDDR5 5600/6400, 4xSATA3, 1xM.2 (PCI-E 4.0x4/x2), 1xD-Sub, 1xHDMI, 1xPCI-Ex16, 1xPCI-Ex1, mATX"
   },
   {
@@ -322,7 +322,7 @@ export const MATERINSKIE_PLATY = [
     "price": 59354,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, H810M S2H (4719331869168), LGA1851, H810, 2xDDR5 5600/6400, 4xSATA3, 1xM.2 (PCI-E 4.0x4/x2), 1xD-Sub, 1xHDMI, 1xDP, 1xPCI-Ex16, 1xPCI-Ex1, mATX"
   },
   {
@@ -334,7 +334,7 @@ export const MATERINSKIE_PLATY = [
     "price": 73613,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, H810M GAMING WIFI6 (4719331869090), LGA1851, H810, 2xDDR5 5600/6400, 4xSATA3, 1xM.2 (PCI-E 4.0x4/x2), 1xHDMI, 1xDP, 1xPCI-Ex16, 1xPCI-Ex1, WiFi, mATX"
   },
   {
@@ -346,7 +346,7 @@ export const MATERINSKIE_PLATY = [
     "price": 72255,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B860M E (4719331868260), LGA1851, iB860, 2xDDR5 5600/6400/8800(OC), 4xSATA3, Raid, 2xM.2 (PCI-E 4.0x4/x2), 1хDP, 1xHDMI, 1xDP, mATX"
   },
   {
@@ -358,7 +358,7 @@ export const MATERINSKIE_PLATY = [
     "price": 90685,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B860M D3HP (4719331866860), LGA1851, iB860, 4xDDR5 5600/6400/9066(OC), 4xSATA3, Raid, 2xM.2 (PCI-E 4.0x4/x2), 1хDP, 1xHDMI, 3xPCI-Ex16, mATX"
   },
   {
@@ -370,7 +370,7 @@ export const MATERINSKIE_PLATY = [
     "price": 101452,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B860M DS3H (4719331866709), LGA1851, iB860, 4xDDR5 5600/6400/9066(OC), 4xSATA3, Raid, 2xM.2 (PCI-E 4.0x4/x2), 2хDP, 1xHDMI, 3xPCI-Ex16, ATX"
   },
   {
@@ -382,7 +382,7 @@ export const MATERINSKIE_PLATY = [
     "price": 109125,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B860M DS3H WIFI6E (4719331866815), LGA1851, iB860, 4xDDR5 5600/6500/9066(OC), 4xSATA3, Raid, 2xM.2 (PCI-E 4.0x4/x2), 2хDP, 1xHDMI, 4xPCI-Ex16, WiFi, mATX"
   },
   {
@@ -394,7 +394,7 @@ export const MATERINSKIE_PLATY = [
     "price": 103392,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B860M GAMING WIFI6 (4719331866891), LGA1851, iB860, 2xDDR5 5600/6400/9066(OC), 4xSATA3, Raid, 2xM.2 (1*PCI-E 4.0x4/x2. 1*PCI-E 5.0x4/x2), 1хDP, 1xHDMI, 2xPCI-Ex16, WiFi, mATX"
   },
   {
@@ -406,7 +406,7 @@ export const MATERINSKIE_PLATY = [
     "price": 128127,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B860M GAMING X WIFI6E (4719331867133), LGA1851, iB860, 4xDDR5 5600/6400/9200(OC), 4xSATA3, Raid, 2xM.2 (PCI-E 4.0x4/x2), 1хDP, 1xHDMI, 1xUSB4® USB Type-C® port, 2xPCI-Ex16, WiFi, mATX"
   },
   {
@@ -418,7 +418,7 @@ export const MATERINSKIE_PLATY = [
     "price": 142677,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B860M AORUS ELITE WIFI6E (4719331866877), LGA1851, iB860, 4xDDR5 5600/6400/9200(OC), 4xSATA3, Raid, 3xM.2 (PCI-E 4.0x4/x2), 1хDP, 1xHDMI, 1xUSB4® USB Type-C® port, 2xPCI-Ex16, WiFi, mATX"
   },
   {
@@ -430,7 +430,7 @@ export const MATERINSKIE_PLATY = [
     "price": 105623,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B860 DS3H (4719331868178), LGA1851, iB860, 4xDDR5 5600/6400/9066(OC), 4xSATA3, Raid, 2xM.2 (PCI-E 4.0x4/x2), 1хDP, 1xHDMI, 5xPCI-Ex16, ATX"
   },
   {
@@ -442,7 +442,7 @@ export const MATERINSKIE_PLATY = [
     "price": 120852,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B860 DS3H WIFI6E (4719331867515), LGA1851, iB860, 4xDDR5 5600/6400/9066(OC), 4xSATA3, Raid, 2xM.2 (PCI-E 4.0x4/x2), 1хDP, 1xHDMI, 5xPCI-Ex16, WiFi, ATX"
   },
   {
@@ -454,7 +454,7 @@ export const MATERINSKIE_PLATY = [
     "price": 130746,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B860 EAGLE WIFI6E (4719331866822), LGA1851, iB860, 4xDDR5 5600/6400/9066(OC), 4xSATA3, Raid, 3xM.2 (PCI-E 4.0x4/x2), 1хDP, 1xHDMI, 3xPCI-Ex16, WiFi, ATX"
   },
   {
@@ -466,7 +466,7 @@ export const MATERINSKIE_PLATY = [
     "price": 145005,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B860 GAMING X WIFI6E (4719331866532), LGA1851, iB860, 4xDDR5 5600/6400/9066(OC), 4xSATA3, Raid, 3xM.2 (PCI-E 4.0x4/x2), 1хDP, 1xHDMI, 1xUSB4® USB Type-C® port, 3xPCI-Ex16, WiFi, ATX"
   },
   {
@@ -478,7 +478,7 @@ export const MATERINSKIE_PLATY = [
     "price": 161495,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B860 A ELITE WF7 ICE (4719331866846), LGA1851, iB860, 4xDDR5 5600/6400/9200(OC), 4xSATA3, Raid, 3xM.2 (PCI-E 4.0x4/x2), 1хDP, 1xHDMI, 1xUSB4® USB Type-C®, 3xPCI-Ex16, WiFi, ATX"
   },
   {
@@ -490,7 +490,7 @@ export const MATERINSKIE_PLATY = [
     "price": 119979,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, Z890M GAMING X (4719331865160), LGA1851, iZ890, 4xDDR5 9200(OC)/6400/6200/6000/5800/5600, 4xSATA3, 3xM.2 (1*PCI-E 5.0x4/x2, 2*PCI-E 4.0x4/x2), Raid, 2*DP, HDMI, 2xPCI-Ex16, mATX"
   },
   {
@@ -502,7 +502,7 @@ export const MATERINSKIE_PLATY = [
     "price": 133365,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, Z890 UD WIFI6E (4719331865313), LGA1851, iZ890, 4xDDR5 8800(OC)/6400/6200/6000/5800/5600, 4xSATA3, 3xM.2 (1*PCI-E 5.0x4/x2, 2*PCI-E 4.0x4/x2), Raid, 1*DP, 1*USB4® USB Type-C® port, 4xPCI-Ex16, WiFi, ATX"
   },
   {
@@ -514,7 +514,7 @@ export const MATERINSKIE_PLATY = [
     "price": 151116,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, Z890 EAGLE WIFI7 (4719331864927), LGA1851, iZ890, 4xDDR5 9200(OC)/6400/6200/6000/5800/5600, 4xSATA3, 4xM.2 (2*PCI-E 4.0x4/x2, 1*PCI-E 5.0x4/x2, 1*PCI-E 4.0x4/x2 или SATA3), Raid, 1*DP, 1*USB4® USB Type-C®, 3xPCI-Ex16, WiFi, ATX"
   },
   {
@@ -526,7 +526,7 @@ export const MATERINSKIE_PLATY = [
     "price": 166636,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, Z890 GAMING X WIFI7 (4719331864941), LGA1851, iZ890, 4xDDR5 9200(OC)/6400/6200/6000/5800/5600, 4xSATA3, 4xM.2 (2*PCI-E 4.0x4/x2, 1*PCI-E 5.0x4/x2, 1*PCI-E 4.0x4/x2 или SATA3), Raid, 1*DP, 1*HDMI, 1*USB4® USB Type-C®, 3xPCI-Ex16, WiFi, ATX"
   },
   {
@@ -538,7 +538,7 @@ export const MATERINSKIE_PLATY = [
     "price": 185551,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, Z890 A ELITE WF7 ICE (4719331865221), LGA1851, iZ890, 4xDDR5 9200(OC)/6400/6200/6000/5800/5600, 4xSATA3, 4xM.2 (2*PCI-E 4.0x4/x2, 1*PCI-E 5.0x4/x2, 1*PCI-E 4.0x4/x2 или SATA3), Raid, 1*HDMI, 1*DP, 1*Intel® Thunderbolt™ 4 (USB4® USB Type-C®), 3xPCI-Ex16, WiFi, ATX"
   },
   {
@@ -550,7 +550,7 @@ export const MATERINSKIE_PLATY = [
     "price": 356853,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, Z890 AORUS MASTER (4719331864903), LGA1851, iZ890, 4xDDR5 9500(OC)/6400/6200/6000/5800/5600, 4xSATA3, 5xM.2 (2*PCI-E 4.0x4/x2, 2*PCI-E 5.0x4/x2, 1*PCI-E 4.0x4/x2 или SATA3), Raid, 1*HDMI, 2*Intel® Thunderbolt™ 4 (исполнение USB Type-C®) DisplayPort и Thunderbolt™, 3xPCI-Ex16, 10GbE LAN, Intel® Wi-Fi 7 BE200NGW, ATX"
   },
   {
@@ -562,7 +562,7 @@ export const MATERINSKIE_PLATY = [
     "price": 33843,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, A520M K V2 (4719331852771), AM4, А520, 2xDDR4 2133/2400/2667/3200/5100(OC), 4xSATA3, 1xM.2 (PCIe 3.0 x4/x2 and SATA), Raid, 1xD-Sub, 1xHDMI, 1xPCI-Ex16, 1xPCI-Ex1, mATX"
   },
   {
@@ -574,7 +574,7 @@ export const MATERINSKIE_PLATY = [
     "price": 38402,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, A520M H ARGB (4719331879822), AM4, А520, 2xDDR4 2133/2400/2667/2933/3200/5100(OC), 4xSATA3, 1xM.2 (PCIe 3.0 x4/x2), 1xDP, 1xHDMI, 1xPCI-Ex16, 1xPCI-Ex1, mATX"
   },
   {
@@ -586,7 +586,7 @@ export const MATERINSKIE_PLATY = [
     "price": 39760,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, A520M S2H (4719331809720), AM4, А520, 2xDDR4 2133/2400/2667/3200/5100(OC), 4xSATA3, 1xM.2 (PCIe 3.0 x2/x4 и SATA), 1xDVI-D, 1xHDMI, 1xD-Sub, 1xPCI-Ex16, 2xPCI-Ex1, mATX"
   },
   {
@@ -598,7 +598,7 @@ export const MATERINSKIE_PLATY = [
     "price": 41312,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, A520M DS3H V2 (4719331854690), AM4, А520, 4xDDR4 2400/2667/3200/4733(OC), 4xSATA3, 1xM.2 (PCIe 3.0 x4/x2), 1xHDMI, 1xDP, 1xPCI-Ex16, 1xPCI-Ex1, mATX"
   },
   {
@@ -610,7 +610,7 @@ export const MATERINSKIE_PLATY = [
     "price": 48005,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B550M K (4719331852764), AM4, B550, 4xDDR4 2400/2667/3200, 4xSATA3, 2xM.2 (1*PCIe 4.0 x4/x2 и SATA, 1*PCIe 3.0 x2), 1xHDMI, 1хDP, 1xPCI-Ex16, 1xPCI-Ex1, mATX"
   },
   {
@@ -622,7 +622,7 @@ export const MATERINSKIE_PLATY = [
     "price": 63331,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B550M AORUS ELITE (4719331809546), AM4, B550, 4xDDR4 3200, 4xSATA3, 2xM.2, RAID, 1xHDMI, 1хDVI-D, 2xPCI-Ex16, 1xPCI-Ex1, mATX"
   },
   {
@@ -634,7 +634,7 @@ export const MATERINSKIE_PLATY = [
     "price": 75165,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B550M GAMING X WIFI6 (4719331870096), AM4, B550, 4xDDR4 3200, 4xSATA3, 2xM.2 (1*PCIe 4.0x4/x2 & SATA. 1*PCIe 3.0x2 & SATA), RAID, 1xHDMI, 1хDP, 2xPCI-Ex16, 1xPCI-Ex1, WiFi, mATX"
   },
   {
@@ -646,7 +646,7 @@ export const MATERINSKIE_PLATY = [
     "price": 83895,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B550 AORUS ELITE V2 (4719331809898), AM4, B550, 4xDDR4 3200MHz, 4xSATA3, 2xM.2, RAID, 1xDP, 1xHDMI, 3xPCI-Ex16, 1xPCI-Ex1, ATX"
   },
   {
@@ -658,7 +658,7 @@ export const MATERINSKIE_PLATY = [
     "price": 56153,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, A620M H (4719331855512), AM5, A620, 2xDDR5 4400/4800/5200/6400(OC), 4xSATA3, 1xM.2 (PCIe 4.0 x4/x2), RAID, 1xHDMI, 1хDP, 1xPCI-Ex16, 1xPCI-Ex1, mATX"
   },
   {
@@ -670,7 +670,7 @@ export const MATERINSKIE_PLATY = [
     "price": 61585,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, A620M DS3H (4719331855567), AM5, A620, 4xDDR5 4800/5200/7600(OC), 4xSATA3, 1xM.2 (PCIe 4.0 x4/x2), RAID, 1xHDMI, 1хDP, 1xD-Sub, 1xPCI-Ex16, 1xPCI-Ex1, mATX"
   },
   {
@@ -682,7 +682,7 @@ export const MATERINSKIE_PLATY = [
     "price": 70800,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, A620M GAMING X (4719331854096), AM5, A620, 4xDDR5 4800/5200/8000(OC), 4xSATA3, 1xM.2 (PCIe 4.0 x4/x2), RAID, 1xHDMI, 1хDP, 1xPCI-Ex16, 1xPCI-Ex1, mATX"
   },
   {
@@ -694,7 +694,7 @@ export const MATERINSKIE_PLATY = [
     "price": 73613,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B650M D3HP (4719331857851), AM5, B650, 4xDDR5 4800/5200/7600(OC), 4xSATA3, 2xM.2 (PCIe 4.0 x4/x2), RAID, 1xHDMI, 2хDP, 1xPCI-Ex16, 1xPCI-Ex1, mATX"
   },
   {
@@ -706,7 +706,7 @@ export const MATERINSKIE_PLATY = [
     "price": 94371,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B650M GAMING PLUS WIFI (4719331862213), AM5, B650, 4xDDR5 4800/5200/8000(OC), 4xSATA3, 2xM.2 (PCIe 4.0 x4/x2), RAID, 1xHDMI, 2хDP, 1xPCI-Ex16, 1xPCI-Ex1, WiFi, mATX"
   },
   {
@@ -718,7 +718,7 @@ export const MATERINSKIE_PLATY = [
     "price": 96020,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B650 UD AX-Y1 (4719331863944), AM5, B650, 4xDDR5 4800/5200/7600(OC), 4xSATA3, 3xM.2 (PCIe 4.0 x4/x2), RAID, 1xHDMI, 1хDP, 4xPCI-Ex16, WiFi, ATX"
   },
   {
@@ -730,7 +730,7 @@ export const MATERINSKIE_PLATY = [
     "price": 93013,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B650 EAGLE (4719331863081), AM5, B650, 4xDDR5 4400/4800/5200/7600(OC), 4xSATA3, 3xM.2 (PCIe 4.0 x4/x2), RAID, 1xHDMI, 1хDP, 4xPCI-Ex16, ATX"
   },
   {
@@ -742,7 +742,7 @@ export const MATERINSKIE_PLATY = [
     "price": 95632,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B650 EAGLE AX (4719331860158), AM5, B650, 4xDDR5 4400/4800/5200/7600(OC), 4xSATA3, 3xM.2 (PCIe 4.0 x4/x2), RAID, 1xHDMI, 1хDP, 4xPCI-Ex16, WiFi, ATX"
   },
   {
@@ -754,7 +754,7 @@ export const MATERINSKIE_PLATY = [
     "price": 69636,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B840M D2H (4719331868116), AM5, B840, 2xDDR5 4400/4800/5200/7600(OC), 4xSATA3, Raid, 2xM.2 (1*PCI-E 4.0x4/x2, 1*PCI-E 3.0x2), 1xHDMI, 2xPCI-Ex16, mATX"
   },
   {
@@ -766,7 +766,7 @@ export const MATERINSKIE_PLATY = [
     "price": 79918,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B840M DS3H (4719331868437), AM5, B840, 4xDDR5 4400/4800/5200/8200(OC), 4xSATA3, Raid, 2xM.2 (PCI-E 4.0x4/x2), 2хDP, 1xHDMI, 2xPCI-Ex16, mATX"
   },
   {
@@ -778,7 +778,7 @@ export const MATERINSKIE_PLATY = [
     "price": 81276,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B840M D3HP WIFI6E (4719331879662), AM5, B840, 4xDDR5 5600/5800/6000/6200/6400/8200(OC), 4xSATA3, Raid, 2xM.2 (PCI-E 4.0x4/x2), 2хDP, 1xHDMI, 1xPCI-Ex16, 1xPCI-Ex1, WiFi, mATX"
   },
   {
@@ -790,7 +790,7 @@ export const MATERINSKIE_PLATY = [
     "price": 90103,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B840M EAGLE WIFI6 (4719331868970), AM5, B840, 2xDDR5 4400/4800/5200/7600(OC), 4xSATA3, Raid, 2xM.2 (PCI-E 4.0x4/x2, PCI-E 3.0x2), 1хDP, 1xHDMI, 2xPCI-Ex16, WiFi, mATX"
   },
   {
@@ -802,7 +802,7 @@ export const MATERINSKIE_PLATY = [
     "price": 98639,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B840M DS3H WIFI6 (4719331874667), AM5, B840, 4xDDR5 4400/4800/5200/8200(OC), 4xSATA3, Raid, 2xM.2 (PCI-E 4.0x4/x2), 2хDP, 1xHDMI, 2xPCI-Ex16, WiFi, mATX"
   },
   {
@@ -814,7 +814,7 @@ export const MATERINSKIE_PLATY = [
     "price": 110473,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B840 GAMING X WIFI6E (4719331876937), AM5, B840, 4xDDR5 4400/4800/5200/8200(OC), 4xSATA3, Raid, 3xM.2 (2*PCI-E 4.0x4/x2, 1*PCI-E 3.0x4/x2), 1хDP, 1xHDMI, 4xPCI-Ex16, WiFi, ATX"
   },
   {
@@ -826,7 +826,7 @@ export const MATERINSKIE_PLATY = [
     "price": 93110,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B850M D3HP (4719331867058), AM5, B850, 4xDDR5 4400/4800/5200/8200(OC), 4xSATA3, 2xM.2 (PCIe 4.0 x4/x2), RAID, 1xHDMI, 2хDP, 2xPCI-Ex16, mATX"
   },
   {
@@ -838,7 +838,7 @@ export const MATERINSKIE_PLATY = [
     "price": 91752,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B850M FORCE (4719331874322), AM5, B850, 2xDDR5 4400/4800/5200/9600(OC), 4xSATA3, 3xM.2 (PCIe 4.0 x4/x2), RAID, 1xHDMI, 1хDP, 2xPCI-Ex16, mATX"
   },
   {
@@ -850,7 +850,7 @@ export const MATERINSKIE_PLATY = [
     "price": 102810,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B850M DS3H (4719331866518), AM5, B850, 4xDDR5 4400/4800/5200/8200(OC), 4xSATA3, 2xM.2 (PCIe 4.0 x4/x2), RAID, 1xHDMI, 2хDP, 2xPCI-Ex16, mATX"
   },
   {
@@ -862,7 +862,7 @@ export const MATERINSKIE_PLATY = [
     "price": 100870,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B850M FORCE WIFI6E (4719331874308), AM5, B850, 2xDDR5 4400/4800/5200/9600(OC), 4xSATA3, 3xM.2 (PCIe 4.0 x4/x2), RAID, 1xHDMI, 1хDP, 2xPCI-Ex16, WiFi, mATX"
   },
   {
@@ -874,7 +874,7 @@ export const MATERINSKIE_PLATY = [
     "price": 110861,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B850M EAGLE WIFI6E (4719331871826), AM5, B850, 4xDDR5 4400/4800/5200/8200(OC), 4xSATA3, 2xM.2 (1*PCIe 5.0 x4/x2, 1*PCIe 4.0 x4/x2), RAID, 1xHDMI, 2хDP, 2xPCI-Ex16, WiFi, mATX"
   },
   {
@@ -886,7 +886,7 @@ export const MATERINSKIE_PLATY = [
     "price": 123083,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B850M EAGLE WIFI6E ICE (4719331871789), AM5, B850, 4xDDR5 4400/4800/5200/8200(OC), 4xSATA3, 2xM.2 (PCIe 4.0 x4/x2), RAID, 1xHDMI, 2хDP, 2xPCI-Ex16, WiFi, mATX"
   },
   {
@@ -898,7 +898,7 @@ export const MATERINSKIE_PLATY = [
     "price": 128030,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B850M EAGLE WIFI7 (4719331879648), AM5, B850, 4xDDR5 5600/5800/6000/6200/6400/8200(OC), 4xSATA3, 2xM.2 (1*PCIe 5.0 x4/x2, 1*PCIe 4.0 x4/x2), RAID, 1xHDMI, 2хDP, 2xPCI-Ex16, WiFi, mATX"
   },
   {
@@ -910,7 +910,7 @@ export const MATERINSKIE_PLATY = [
     "price": 145985,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B850M AORUS ELITE WIFI6E ICE (4719331866082), AM5, B850, 4xDDR5 4400/4800/5200/8200(OC), 4xSATA3, 2xM.2 (PCIe 4.0 x4/x2), RAID, 1 x Front HDMI port, 1хDP, 2xPCI-Ex16, WiFi, mATX"
   },
   {
@@ -922,7 +922,7 @@ export const MATERINSKIE_PLATY = [
     "price": 114159,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B850 GAMING WF6 (4719331866631), AM5, B850, 4xDDR5 4400/4800/5200/8200(OC), 4xSATA3, 3xM.2 (PCIe 4.0 x4/x2), RAID, 1xHDMI, 1хDP, 4xPCI-Ex16, WiFi, ATX"
   },
   {
@@ -934,7 +934,7 @@ export const MATERINSKIE_PLATY = [
     "price": 130649,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B850 EAGLE WIFI6E (4719331866587), AM5, B850, 4xDDR5 4400/4800/5200/8200(OC), 4xSATA3, 3xM.2 (PCIe 4.0 x4/x2), RAID, 1xHDMI, 1хDP, 4xPCI-Ex16, WiFi, ATX"
   },
   {
@@ -946,7 +946,7 @@ export const MATERINSKIE_PLATY = [
     "price": 135790,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B850 EAGLE ICE (4719331871680), AM5, B850, 4xDDR5 4400/4800/5200/8200(OC), 4xSATA3, 3xM.2 (PCIe 4.0 x4/x2), RAID, 1xHDMI, 1хDP, 3xPCI-Ex16, ATX"
   },
   {
@@ -958,7 +958,7 @@ export const MATERINSKIE_PLATY = [
     "price": 140931,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B850 EAGLE WF7 ICE (4719331871239), AM5, B850, 4xDDR5 4400/4800/5200/8200(OC), 4xSATA3, 3xM.2 (PCIe 4.0 x4/x2), RAID, 1xHDMI, 1хDP, 3xPCI-Ex16, WiFi, ATX"
   },
   {
@@ -970,7 +970,7 @@ export const MATERINSKIE_PLATY = [
     "price": 147333,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B850 GAMING X WIFI6E (4719331866457), AM5, B850, 4xDDR5 4400/4800/5200/8200(OC), 4xSATA3, 3xM.2 (PCIe 4.0 x4/x2), RAID, 1xHDMI, 1хDP, 3xPCI-Ex16, WiFi, ATX"
   },
   {
@@ -982,7 +982,7 @@ export const MATERINSKIE_PLATY = [
     "price": 159943,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, B850 AORUS ELITE WF7 ICE (4719331866099), AM5, B850, 4xDDR5 4400/4800/5200/8200(OC), 4xSATA3, 3xM.2 (PCIe 4.0 x4/x2), RAID, 1хDP, 3xPCI-Ex16, WiFi, ATX"
   },
   {
@@ -994,7 +994,7 @@ export const MATERINSKIE_PLATY = [
     "price": 183611,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, X870M AORUS ELITE WIFI7 (4719331874346), AM5, X870, 4xDDR5 4400/4800/5200/8200(OC), 2xSATA3, 2xM.2 (1*PCIe 4.0 x4/x2, 1*PCIe 5.0 x4/x2), Raid, 1xHDMI, 2xUSB4 Type-C®, 2xPCI-Ex16, Wi-Fi, mATX"
   },
   {
@@ -1006,7 +1006,7 @@ export const MATERINSKIE_PLATY = [
     "price": 148109,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, X870 GAMING WF6 (4719331865399), AM5, X870, 4xDDR5 4400/4800/5200/8200(OC), 4xSATA3, 3xM.2 (2*PCIe 4.0 x4/x2, 1*PCIe 4.0 x2), Raid, 1xHDMI, 2xUSB4 Type-C®, 3xPCI-Ex16, Wi-Fi, ATX"
   },
   {
@@ -1018,7 +1018,7 @@ export const MATERINSKIE_PLATY = [
     "price": 156451,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, X870 EAGLE WIFI7 (4719331864996), AM5, X870, 4xDDR5 4400/4800/5200/8000(OC), 4xSATA3, 3xM.2 (PCIe 4.0 x4/x2), Raid, 1xHDMI, 2xUSB4 Type-C®, 3xPCI-Ex16, Wi-Fi, ATX"
   },
   {
@@ -1030,7 +1030,7 @@ export const MATERINSKIE_PLATY = [
     "price": 178276,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, X870 GAMING X WIFI7 (4719331865368), AM5, X870, 4xDDR5 4400/4800/5200/8000(OC), 4xSATA3, 3xM.2 (PCIe 4.0 x4/x2), Raid, 1xHDMI, 2xUSB4 Type-C®, 3xPCI-Ex16, Wi-Fi, ATX"
   },
   {
@@ -1042,7 +1042,7 @@ export const MATERINSKIE_PLATY = [
     "price": 197385,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, X870 AORUS ELITE WIFI7 ICE (4719331864682), AM5, X870, 4xDDR5 4400/4800/5200/8000(OC), 4xSATA3, 4xM.2 (PCIe 4.0 x4/x2), Raid, 1xHDMI, 2xUSB4 Type-C®, 3xPCI-Ex16, Wi-Fi, ATX"
   },
   {
@@ -1054,7 +1054,7 @@ export const MATERINSKIE_PLATY = [
     "price": 201362,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, X870 AORUS ELITE X3D ICE (4719331876678), AM5, X870, 4xDDR5 4800/5200/8800(OC), 2xSATA3, 4xM.2 (2*PCIe 4.0 x4/x2, 2*PCIe 5.0 x4/x2), Raid, 1xHDMI, 2xUSB4 Type-C®, 2xPCI-Ex16, Wi-Fi, ATX"
   },
   {
@@ -1066,7 +1066,7 @@ export const MATERINSKIE_PLATY = [
     "price": 207570,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, X870E AORUS ELITE WIFI7 (4719331864613), AM5, X870E, 4xDDR5 4400/4800/5200/8000(OC), 4xSATA3, 4xM.2 (PCIe 4.0 x4/x2), Raid, 1xHDMI, 2xUSB4 Type-C®, 3xPCI-Ex16, Wi-Fi, ATX"
   },
   {
@@ -1078,7 +1078,7 @@ export const MATERINSKIE_PLATY = [
     "price": 218531,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, X870E AORUS ELITE WIFI7 ICE (4719331871529), AM5, X870E, 4xDDR5 4400/4800/5200/8200(OC), 4xSATA3, 4xM.2 (PCIe 4.0 x4/x2), Raid, 1xHDMI, 2xUSB4 Type-C®, 3xPCI-Ex16, Wi-Fi, ATX"
   },
   {
@@ -1090,7 +1090,7 @@ export const MATERINSKIE_PLATY = [
     "price": 228037,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, X870E AORUS ELITE X3D (4719331876470), AM5, X870E, 4xDDR5 4800/5200/9000(OC), 4xSATA3, 4xM.2 (2*PCIe 4.0 x4/x2, 2*PCIe 5.0 x4/x2), Raid, 1xHDMI, 2xUSB4 Type-C®, 3xPCI-Ex16, Wi-Fi, ATX"
   },
   {
@@ -1102,7 +1102,7 @@ export const MATERINSKIE_PLATY = [
     "price": 236379,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, X870E AORUS PRO (4719331864866), AM5, X870E, 4xDDR5 4400/4800/5200/8000(OC), 4xSATA3, 4xM.2 (PCIe 4.0 x4/x2), Raid, 1xHDMI, 2xUSB4 Type-C®, 3xPCI-Ex16, Wi-Fi, ATX"
   },
   {
@@ -1114,7 +1114,7 @@ export const MATERINSKIE_PLATY = [
     "price": 231044,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, X870E AORUS PRO ICE (4719331864798), AM5, X870E, 4xDDR5 4400/4800/5200/8000(OC), 4xSATA3, 4xM.2 (PCIe 4.0 x4/x2), Raid, 1xHDMI, 2xUSB4 Type-C®, 3xPCI-Ex16, Wi-Fi, ATX"
   },
   {
@@ -1126,7 +1126,7 @@ export const MATERINSKIE_PLATY = [
     "price": 238125,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, X870 AORUS STEALTH (4719331878801), AM5, X870, 4xDDR5 4400/4800/5200/8200(OC), 2xSATA3, 4xM.2 (PCIe 4.0 x4/x2), Raid, 1xHDMI, 2xUSB4 Type-C®, 2xPCI-Ex16, Wi-Fi, ATX"
   },
   {
@@ -1138,7 +1138,7 @@ export const MATERINSKIE_PLATY = [
     "price": 256555,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, X870E AORUS PRO X3D ICE (4719331876487), AM5, X870E, 4xDDR5 4800/5200/9000(OC), 4xSATA3, 4xM.2 (3*PCIe 4.0 x4/x2. 1*PCIe 5.0 x4/x2), Raid, 1xHDMI, 2xUSB4 Type-C®, 1xPCI-Ex16, Wi-Fi, ATX"
   },
   {
@@ -1150,7 +1150,7 @@ export const MATERINSKIE_PLATY = [
     "price": 266449,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, X870E AORUS PRO X3D (4719331878603), AM5, X870E, 4xDDR5 4800/5200/9000(OC), 4xSATA3, 4xM.2 (2xPCIe 5.0 x4/x2, 2xPCIe 4.0 x4/x2), Raid, 1xHDMI, 2xUSB4 Type-C®, 3xPCI-Ex16, Wi-Fi, ATX"
   },
   {
@@ -1162,7 +1162,7 @@ export const MATERINSKIE_PLATY = [
     "price": 278186,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, Gigabyte, X870E AERO X3D WOOD (4719331878481), AM5, X870E, 4xDDR5 4400/4800/5200/9000(OC), 4xSATA3, 4xM.2 (2xPCIe 5.0 x4/x2, 2xPCIe 4.0 x4/x2), Raid, 1xHDMI, 2xUSB4 Type-C®, 2xPCI-Ex16, Wi-Fi, ATX"
   },
   {
@@ -1174,7 +1174,7 @@ export const MATERINSKIE_PLATY = [
     "price": 97000,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, ASRock, Q270 PRO BTC+ (4710483935473), LGA1151, iQ270, 2xDDR4 2400/2133, 4xSATA3, 1xM.2 SATA3, Raid, 1xHDMI, 1xPCI-Ex16, 12xPCI-Ex1, ATX"
   },
   {
@@ -1186,7 +1186,7 @@ export const MATERINSKIE_PLATY = [
     "price": 36171,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, ASRock, H610M-H2/M.2 (4710483946929), LGA1700, iH610, 2xDDR4 3200, 4xSATA3, 1xM.2 (PCI-E 3.0x4), 2xHDMI, 1xPCI-Ex16, 1xPCI-Ex1, mATX"
   },
   {
@@ -1198,7 +1198,7 @@ export const MATERINSKIE_PLATY = [
     "price": 41894,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, ASRock, H610M-H2/M.2 D5 (4710483943775), LGA1700, iH610, 2xDDR5 4800/5600, 4xSATA3, 1xM.2 (PCI-E 3.0x4), 2xHDMI, 1xPCI-Ex16, 1xPCI-Ex1, mATX"
   },
   {
@@ -1210,7 +1210,7 @@ export const MATERINSKIE_PLATY = [
     "price": 44610,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, ASRock, H610M-HDV/M.2+D5 (4710483943478), LGA1700, iH610, 2xDDR5 4800/5600, 4xSATA3, 1xM.2 (PCI-E 3.0x4), 1xD-Sub, 1xHDMI, 1xDP, 1xPCI-Ex16, 1xPCI-Ex1, mATX"
   },
   {
@@ -1222,7 +1222,7 @@ export const MATERINSKIE_PLATY = [
     "price": 54310,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, ASRock, B760M-H2/M.2 (4710483944215), LGA1700, iB760, 2xDDR5 5200/5600/7200+(OC), 4xSATA3, 2xM.2 (PCI-E 4.0x4), Raid, 2xHDMI, 1xPCI-Ex16, 2xPCI-Ex1, mATX"
   },
   {
@@ -1234,7 +1234,7 @@ export const MATERINSKIE_PLATY = [
     "price": 54601,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, ASRock, B760M-HDV/M.2 (4710483943485), LGA1700, iB760, 2xDDR5 5200/5600/7200+(OC), 4xSATA3, 2xM.2 (PCI-E 4.0x4, PCI-E 3.0x4), Raid, 1xD-Sub, 1xDP, 1xHDMI, 1xPCI-Ex16, 2xPCI-Ex1, mATX"
   },
   {
@@ -1246,7 +1246,7 @@ export const MATERINSKIE_PLATY = [
     "price": 59160,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, ASRock, B650M-H/M.2+ (4710483943768), AM5, B650, 2xDDR5 6400+(OC), 4xSATA3, 2xM.2 (PCI-E 4.0x4), 1xHDMI, 1xDP, 1xPCI-Ex16, 2xPCI-Ex1, mATX"
   },
   {
@@ -1258,7 +1258,8 @@ export const MATERINSKIE_PLATY = [
     "price": 227171,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Материнская плата, ASRock, X870E NOVA WIFI (4710483949654), AM5, X870, 4xDDR5 7800+(OC), 4xSATA3, 4xM.2 (3*PCIe Gen4x4, 1*PCIe Gen4x4 & SATA3), 1xHDMI, 2xPCI-Ex16, WiFi, ATX"
   }
 ];
+

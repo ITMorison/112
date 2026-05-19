@@ -10,7 +10,7 @@ export const МОНОХРОМНЫЕ_ЛАЗЕРНЫЕ_МФУ_А3 = [
     "price": 1767003,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Базовый модуль МФУ, Xerox, VersaLink B7125/30/35, B7101V_D, Лазерный , А3, 25 / 30 / 35 стр./мин., Подача 620 листов, Двусторонний автоподатчик документов, до 80 изобр./мин., Сенсорный дисплей 7\", 1.05 ГГц CPU, 4 ГБ RAM, USB 3.0, Ethernet 10/100/1000, NFC"
   },
   {
@@ -22,7 +22,7 @@ export const МОНОХРОМНЫЕ_ЛАЗЕРНЫЕ_МФУ_А3 = [
     "price": 2778897,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Базовый модуль МФУ, Xerox, VersaLink B7125/30/35, B7101V_S, Лазерный , А3, 25 / 30 / 35 стр./мин., Подача 1 140 листов, Двусторонний автоподатчик документов, до 80 изобр./мин., Сенсорный дисплей 7\", 1.05 ГГц CPU, 4 ГБ RAM, 320 ГБ HDD, USB 3.0, Ethernet 10/100/1000, NFC"
   },
   {
@@ -34,7 +34,7 @@ export const МОНОХРОМНЫЕ_ЛАЗЕРНЫЕ_МФУ_А3 = [
     "price": 3547694,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Базовый модуль МФУ, Xerox, VersaLink B7125/30/35, B7101V_T, Лазерный , А3, 25 / 30 / 35 стр./мин., Подача 3 180 листов, Двусторонний автоподатчик документов, до 80 изобр./мин., Сенсорный дисплей 7\", 1.05 ГГц CPU, 4 ГБ RAM, 320 ГБ HDD, USB 3.0, Ethernet 10/100/1000, NFC"
   },
   {
@@ -46,7 +46,7 @@ export const МОНОХРОМНЫЕ_ЛАЗЕРНЫЕ_МФУ_А3 = [
     "price": 69474,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Комплект инициализации, Xerox, VersaLink B7125 (097S05185)"
   },
   {
@@ -58,7 +58,7 @@ export const МОНОХРОМНЫЕ_ЛАЗЕРНЫЕ_МФУ_А3 = [
     "price": 528590,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Комплект инициализации, Xerox, VersaLink B7130 (097S05190)"
   },
   {
@@ -70,7 +70,7 @@ export const МОНОХРОМНЫЕ_ЛАЗЕРНЫЕ_МФУ_А3 = [
     "price": 1147792,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Комплект инициализации, Xerox, VersaLink B7135 (097S05191)"
   },
   {
@@ -82,7 +82,7 @@ export const МОНОХРОМНЫЕ_ЛАЗЕРНЫЕ_МФУ_А3 = [
     "price": 4827674,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Базовый модуль МФУ, Xerox, AltaLink B8245/B8255, B8201V_F, Лазерный, SRA3, 45/55 стр./мин., Подача 3 140 листов, Двусторонний автоподатчик документов, до 161 изобр./мин., Сенсорный дисплей 10.1\", 1.91 ГГц CPU, 4 ГБ RAM, 256 ГБ SSD, USB 2.0, Ethernet 10/100/1000, NFC, Fax"
   },
   {
@@ -94,7 +94,7 @@ export const МОНОХРОМНЫЕ_ЛАЗЕРНЫЕ_МФУ_А3 = [
     "price": 201141,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Комплект инициализации, Xerox, 097S05250, Для Xerox AltaLink B8245"
   },
   {
@@ -106,7 +106,7 @@ export const МОНОХРОМНЫЕ_ЛАЗЕРНЫЕ_МФУ_А3 = [
     "price": 704026,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Комплект инициализации, Xerox, 097S05251, Для Xerox AltaLink B8255"
   },
   {
@@ -118,7 +118,7 @@ export const МОНОХРОМНЫЕ_ЛАЗЕРНЫЕ_МФУ_А3 = [
     "price": 10610819,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Базовый модуль МФУ, Xerox, AltaLink B8270, B8202V_F, Лазерный, SRA3, 72 стр./мин., Подача 3 140 листов, Двусторонний автоподатчик документов, до 270 изобр./мин., Сенсорный дисплей 10.1\", 1.91 ГГц CPU, 4 ГБ RAM, 256 ГБ SSD, USB 2.0, Ethernet 10/100/1000, NFC, Fax"
   },
   {
@@ -130,7 +130,7 @@ export const МОНОХРОМНЫЕ_ЛАЗЕРНЫЕ_МФУ_А3 = [
     "price": 704026,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Комплект инициализации, Xerox, 097S05252, Для Xerox AltaLink B8270"
   },
   {
@@ -142,7 +142,7 @@ export const МОНОХРОМНЫЕ_ЛАЗЕРНЫЕ_МФУ_А3 = [
     "price": 989400,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монохромное МФУ, Canon, imageRUNNER 2224, 5942C001AA, Лазерное, A3, 24 стр./мин., Подача 350 листов, Планшетный сканер, Сенсорный дисплей 3.5\", 1.6 ГГц CPU, 1 ГБ RAM, USB 2.0"
   },
   {
@@ -154,7 +154,7 @@ export const МОНОХРОМНЫЕ_ЛАЗЕРНЫЕ_МФУ_А3 = [
     "price": 974850,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монохромное МФУ, Canon, imageRUNNER 2224N, 5941C002AA, Лазерное, A3, 24 стр./мин., Подача 350 листов, Планшетный сканер (АПД DADF-AY2 опционален), Сенсорный дисплей 3.5\", 1.6 ГГц CPU, 1 ГБ RAM, USB 2.0, Ethernet 10/100, Wi-Fi"
   },
   {
@@ -166,7 +166,7 @@ export const МОНОХРОМНЫЕ_ЛАЗЕРНЫЕ_МФУ_А3 = [
     "price": 1039840,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монохромное МФУ, Canon, imageRUNNER 2425, 4293C003AA, Лазерное, A3, 25 стр./мин., Подача 330 листов, Планшетный сканер, Сенсорный дисплей 7\", 1 ГГц CPU, 2 ГБ RAM, USB 2.0, Ethernet 10/100/1000, Wi-Fi"
   },
   {
@@ -178,7 +178,7 @@ export const МОНОХРОМНЫЕ_ЛАЗЕРНЫЕ_МФУ_А3 = [
     "price": 1481190,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монохромное МФУ, Canon, imageRUNNER 2425i, 4293C004AA, Лазерное, A3, 25 стр./мин., Подача 330 листов, Двусторонний автоподатчик документов, Сенсорный дисплей 7\", 1 ГГц CPU, 2 ГБ RAM, USB 2.0, Ethernet 10/100/1000, Wi-Fi"
   },
   {
@@ -190,7 +190,7 @@ export const МОНОХРОМНЫЕ_ЛАЗЕРНЫЕ_МФУ_А3 = [
     "price": 1796440,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монохромное МФУ, Canon, imageRUNNER 2925i, 5976C005AA, Лазерное, A3, 25 стр./мин., Подача 1200 листов, Двусторонний автоподатчик документов, Сенсорный дисплей 7\", 1.6 ГГц CPU, 2 ГБ RAM, USB 2.0, Ethernet 10/100/1000, Wi-Fi"
   },
   {
@@ -202,7 +202,7 @@ export const МОНОХРОМНЫЕ_ЛАЗЕРНЫЕ_МФУ_А3 = [
     "price": 2751890,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монохромное МФУ, Canon, imageRUNNER 2930i, 5975C005AA, Лазерное, A3, 30 стр./мин., Подача 1200 листов, Двусторонний автоподатчик документов, Сенсорный дисплей 7\", 1.6 ГГц CPU, 2 ГБ RAM, USB 2.0, Ethernet 10/100/1000, Wi-Fi"
   },
   {
@@ -214,7 +214,7 @@ export const МОНОХРОМНЫЕ_ЛАЗЕРНЫЕ_МФУ_А3 = [
     "price": 4547544,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монохромное МФУ, Canon, imageRUNNER ADVANCE DX 4925i, 5972C005AA, Лазерное, A3, 25 стр./мин., Подача 1200 листов, Планшетный сканер (АПД опционален), Сенсорный дисплей 10.1\", 1.8 ГГц CPU, 4.5 ГБ RAM, USB 2.0, Ethernet 10/100/1000"
   },
   {
@@ -226,7 +226,8 @@ export const МОНОХРОМНЫЕ_ЛАЗЕРНЫЕ_МФУ_А3 = [
     "price": 7273060,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монохромное МФУ, Canon, imageRUNNER ADVANCE DX 4935i, 5971C005AA, Лазерное, A3, 35 стр./мин., Подача 1200 листов, Планшетный сканер (АПД опционален), Сенсорный дисплей 10.1\", 1.8 ГГц CPU, 4.5 ГБ RAM, USB 2.0, Ethernet 10/100/1000"
   }
 ];
+

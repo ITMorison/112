@@ -10,7 +10,7 @@ export const КОНТРОЛЛЕРЫ_СО_СЧИТЫВАТЕЛЕМ = [
     "price": 38480,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер доступа, Dahua, DHI-ASI1201E, Mifare, сенсорный, автономный доступ, IP66"
   },
   {
@@ -22,7 +22,7 @@ export const КОНТРОЛЛЕРЫ_СО_СЧИТЫВАТЕЛЕМ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер доступа, Dahua, DHI-ASI8216DA-W (12В), 8'' cенсорный ЖК-дисплей с разрешением 1280800, Метод проверки. QR-код. Пульт дистанционного управления. Распознавание лица. Карта. Пароль. Вены ладони"
   },
   {
@@ -34,7 +34,7 @@ export const КОНТРОЛЛЕРЫ_СО_СЧИТЫВАТЕЛЕМ = [
     "price": 41002,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер доступа, Dahua, DHI-ASI1201E-D (12В), EM-Marine водонепроницаемый автономный RFID"
   },
   {
@@ -46,7 +46,7 @@ export const КОНТРОЛЛЕРЫ_СО_СЧИТЫВАТЕЛЕМ = [
     "price": 78458,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер доступа, Dahua, DHI-ASI1212M-DW, Mifare водонепроницаемый автономный RFID"
   },
   {
@@ -58,7 +58,7 @@ export const КОНТРОЛЛЕРЫ_СО_СЧИТЫВАТЕЛЕМ = [
     "price": 68204,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер доступа, Dahua, DHI-ASI3203E-W (12В), Контроллер доступа Dahua с функцией распознавания лиц, Однодверный, 2 Мп, DWDR, Wi-Fi"
   },
   {
@@ -70,7 +70,7 @@ export const КОНТРОЛЛЕРЫ_СО_СЧИТЫВАТЕЛЕМ = [
     "price": 88998,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер доступа, Dahua, DHI-ASI3213A-W (12В), контроллер доступа с распознаванием лиц, 2 Мп, DWDR, Wi-Fi"
   },
   {
@@ -82,7 +82,7 @@ export const КОНТРОЛЛЕРЫ_СО_СЧИТЫВАТЕЛЕМ = [
     "price": 105206,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер доступа, Dahua, DHI-ASI3214A-W (12В), контроллер доступа с распознаванием лиц и отпечатком пальца, 2 Мп, DWDR, Wi-Fi"
   },
   {
@@ -94,7 +94,7 @@ export const КОНТРОЛЛЕРЫ_СО_СЧИТЫВАТЕЛЕМ = [
     "price": 122705,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер доступа, Dahua, DHI-ASI6214S-PW, 4,3-дюймовый стеклянный сенсорный экран с разрешением 272  480"
   },
   {
@@ -106,7 +106,7 @@ export const КОНТРОЛЛЕРЫ_СО_СЧИТЫВАТЕЛЕМ = [
     "price": 95982,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер доступа, Dahua, DHI-ASI6213S-PW (12В), 4.3'' cенсорный ЖК-дисплей с разрешением 480272"
   },
   {
@@ -118,7 +118,7 @@ export const КОНТРОЛЛЕРЫ_СО_СЧИТЫВАТЕЛЕМ = [
     "price": 18964,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Оборудование видеодомофонии, Dahua, DHI-DEE1010B-S2, модуль расширения контроля доступа, RJ485 конвертер DC12В макс.10Вт."
   },
   {
@@ -130,7 +130,7 @@ export const КОНТРОЛЛЕРЫ_СО_СЧИТЫВАТЕЛЕМ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер доступа, Dahua, DHI-ASI8213S-W (12В), 8'' cенсорный ЖК-дисплей с разрешением 1280800"
   },
   {
@@ -142,7 +142,7 @@ export const КОНТРОЛЛЕРЫ_СО_СЧИТЫВАТЕЛЕМ = [
     "price": 81399,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Терминал доступа, Hikvision, DS-K1T343MX, 4,3-дюймовый дисплей, 12V, Кол-во лиц 1500"
   },
   {
@@ -154,7 +154,7 @@ export const КОНТРОЛЛЕРЫ_СО_СЧИТЫВАТЕЛЕМ = [
     "price": 153727,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер доступа, Hikvision, DS-K1T341CM, Дисплей 4,3\", 12V, Кол-во лиц: 3000"
   },
   {
@@ -166,7 +166,7 @@ export const КОНТРОЛЛЕРЫ_СО_СЧИТЫВАТЕЛЕМ = [
     "price": 68607,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер доступа, Hikvision, DS-K1A340X, Распознавание лица, 4.3'- сенсорный экран, 2мп камера, Linux, от -10 °C до 40 °C, внутренний, 12 VDC"
   },
   {
@@ -178,7 +178,7 @@ export const КОНТРОЛЛЕРЫ_СО_СЧИТЫВАТЕЛЕМ = [
     "price": 75002,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер доступа, Hikvision, DS-K1A340WX, Распознавание лица, 4.3'- сенсорный экран, 2мп камера, Linux, Wi-Fi, от -10 °C до 40 °C, внутренний, 12 VDC"
   },
   {
@@ -190,7 +190,7 @@ export const КОНТРОЛЛЕРЫ_СО_СЧИТЫВАТЕЛЕМ = [
     "price": 105817,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер доступа, Hikvision, DS-K1T342MX, Распознавание лица, 4.3'- сенсорный экран, 2мп камера, Mifare (1356 МГц), TCP/IP ISUP5.0 ISAPI, от -10 °C до 40 °C, IP65, 12 VDC"
   },
   {
@@ -202,7 +202,7 @@ export const КОНТРОЛЛЕРЫ_СО_СЧИТЫВАТЕЛЕМ = [
     "price": 134307,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер доступа, Hikvision, DS-K1T341CMW, Распознавание лица, 4.3'- сенсорный экран, 2мп камера, Wi-Fi 2.4 G, 802.11b/g/n, Mifare (1356 МГц), TCP/IP ISUP5.0 ISAPI, от -10 °C до 40 °C, IP65, 12-24VDC/2A"
   },
   {
@@ -214,7 +214,7 @@ export const КОНТРОЛЛЕРЫ_СО_СЧИТЫВАТЕЛЕМ = [
     "price": 87600,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер доступа, Hikvision, DS-K1T343MWX, терминал распознавания лиц, 4,3-дюймовый сенсорный ЖК-экран,2-мегапиксельный широкоугольный объектив, встроенный модуль считывания карт M1,"
   },
   {
@@ -226,7 +226,7 @@ export const КОНТРОЛЛЕРЫ_СО_СЧИТЫВАТЕЛЕМ = [
     "price": 209892,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер доступа, Hikvision, DS-K1T670MX, Терминал распознавания лиц, 7'- сенсорный экран, 2мп камера, распознавание до 5 человек одновременно, ISAPI ISUP 5.0 TCP/IP (IPv4 и IPv6), от -30 °C до 60 °C, IP65, 12VDC/2A"
   },
   {
@@ -238,7 +238,7 @@ export const КОНТРОЛЛЕРЫ_СО_СЧИТЫВАТЕЛЕМ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер доступа, Hikvision, DS-K1T671M, 7-дюймовый сенсорный ЖК-экран, широкоугольный объектив 2 мегапикселя, встроенный модуль считывания карт M1, Частота считывания карт1356 МГц, -30  до 60 , IP65"
   },
   {
@@ -250,7 +250,7 @@ export const КОНТРОЛЛЕРЫ_СО_СЧИТЫВАТЕЛЕМ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер доступа, Hikvision, DS-K1T673DX, Распознавание лица, распознавание лицевой маски, 7'- сенсорный экран, 2мп камера, 10 000 лиц, 10 000 отпечатков пальцев, (с модулем отпечатков пальцев), 50 000 карт и 150 000 событий, от -30 °C до 60 °C, IP65"
   },
   {
@@ -262,7 +262,7 @@ export const КОНТРОЛЛЕРЫ_СО_СЧИТЫВАТЕЛЕМ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер доступа, Hikvision, DS-K1T673TDX, Распознавание лица, распознавание лицевой маски, 7'- сенсорный экран, 2мп камера, 100 000 лиц, 10 000 отпечатков пальцев (с модулем отпечатков пальцев), 500 000 карт и 150 000 событий, от -30 °C до 60 °C, IP65"
   },
   {
@@ -274,7 +274,7 @@ export const КОНТРОЛЛЕРЫ_СО_СЧИТЫВАТЕЛЕМ = [
     "price": 109887,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер доступа, Hikvision, DS-K1T342MX-E1, Терминал распознования лиц, 4,3-дюймовый сенсорный ЖК-экран, Linux , 2 МП, встроенный модуль считывания карт M1, POE, -30 °C до 60 °C"
   },
   {
@@ -286,7 +286,7 @@ export const КОНТРОЛЛЕРЫ_СО_СЧИТЫВАТЕЛЕМ = [
     "price": 147874,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер доступа , Hikvision, DS-K1T344MBWX-QRE1, Терминал распознования лиц, 4,5-дюймовый сенсорный ЖК-экран, Linux , 2 МП, поддерживает аутентификацию по лицу, карте, PIN-коду и QR-коду, POE, -30 °C до 60 °C"
   },
   {
@@ -298,7 +298,7 @@ export const КОНТРОЛЛЕРЫ_СО_СЧИТЫВАТЕЛЕМ = [
     "price": 88375,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер доступа, Hikvision, DS-K1T323MBWX-QRE1,"
   },
   {
@@ -310,7 +310,7 @@ export const КОНТРОЛЛЕРЫ_СО_СЧИТЫВАТЕЛЕМ = [
     "price": 130819,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер доступа , Hikvision, DS-K1T344MX-E1, Терминал распознования лиц, 4,5-дюймовый сенсорный ЖК-экран, Linux , 2 МП, gоддерживает аутентификацию по лицу, карте и PIN-коду, POE, -30 °C до 60 °C"
   },
   {
@@ -322,7 +322,7 @@ export const КОНТРОЛЛЕРЫ_СО_СЧИТЫВАТЕЛЕМ = [
     "price": 77522,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер доступа, Hikvision, DS-K1T323MBWX-E1"
   },
   {
@@ -334,7 +334,7 @@ export const КОНТРОЛЛЕРЫ_СО_СЧИТЫВАТЕЛЕМ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Модуль обнаружения алкоголя, Hikvision, DS-KAB673-A"
   },
   {
@@ -346,7 +346,8 @@ export const КОНТРОЛЛЕРЫ_СО_СЧИТЫВАТЕЛЕМ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Пластиковая насадка для модуля обнаружения алкоголя, Hikvision, DS-K7MX-A0, комплект 40 шт."
   }
 ];
+

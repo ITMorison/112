@@ -10,7 +10,7 @@ export const МОНОХРОМНЫЕ_ЛАЗЕРНЫЕ_МФУ_А4 = [
     "price": 99900,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монохромное МФУ, Xerox, WorkCentre 3025BI, 3025V_BI, Лазерное, А4, 20 стр./мин., Подача 150 листов, Планшетный сканер, ЖК Дисплей, 600 МГц CPU, 128 МБ RAM, USB 2.0, Wi-Fi"
   },
   {
@@ -22,7 +22,7 @@ export const МОНОХРОМНЫЕ_ЛАЗЕРНЫЕ_МФУ_А4 = [
     "price": 126090,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монохромное МФУ, Xerox, WorkCentre 3025NI, 3025V_NI, Лазерное, А4, 20 стр./мин., Подача 150 листов, Односторонний автоподатчик документов, до 17 изобр./мин., ЖК Дисплей, 600 МГц CPU, 128 МБ RAM, USB 2.0, Ethernet 10/100, Wi-Fi, Fax"
   },
   {
@@ -34,7 +34,7 @@ export const МОНОХРОМНЫЕ_ЛАЗЕРНЫЕ_МФУ_А4 = [
     "price": 145490,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монохромное МФУ, Xerox, B225DNI, B225V_DNI, Лазерное, А4, 34 стр./мин., Подача 251 лист, Односторонний автоподатчик документов, до 23 изобр./мин., ЖК Дисплей, 1 ГГц CPU, 512 МБ RAM, USB 2.0, Ethernet 10/100, Wi-Fi"
   },
   {
@@ -46,7 +46,7 @@ export const МОНОХРОМНЫЕ_ЛАЗЕРНЫЕ_МФУ_А4 = [
     "price": 174590,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монохромное МФУ, Xerox, B235DNI, B235V_DNI, Лазерное , А4, 34 стр./мин., Подача 251 лист, Односторонний автоподатчик документов, до 23 изобр./мин., Сенсорный дисплей 2.8\", 1 ГГц CPU, 512 МБ RAM, USB 2.0, Ethernet 10/100, Wi-Fi"
   },
   {
@@ -58,7 +58,7 @@ export const МОНОХРОМНЫЕ_ЛАЗЕРНЫЕ_МФУ_А4 = [
     "price": 193990,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монохромное МФУ, Xerox, B305DNI, B305V_DNI, Лазерное, А4, 38 стр./мин., Подача 350 листов, Односторонний автоподатчик документов, до 46 изобр./мин., Сенсорный дисплей 2.8\", 1 ГГц CPU, 512 МБ RAM, USB 2.0, Ethernet 10/100, Wi-Fi"
   },
   {
@@ -70,7 +70,7 @@ export const МОНОХРОМНЫЕ_ЛАЗЕРНЫЕ_МФУ_А4 = [
     "price": 242490,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монохромное МФУ, Xerox, B315DNI, B315V_DNI, Лазерное, А4, 40 стр./мин., Подача 350 листов, Двусторонний автоподатчик документов, до 92 изобр./мин., Сенсорный дисплей 2.8\", 1 ГГц CPU, 512 МБ RAM, USB 2.0, Ethernet 10/100, Wi-Fi"
   },
   {
@@ -82,7 +82,7 @@ export const МОНОХРОМНЫЕ_ЛАЗЕРНЫЕ_МФУ_А4 = [
     "price": 586741,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монохромное МФУ, Xerox, VersaLink B415DN, B415V_DN, Лазерное, А4, 47 стр./мин., Подача 650 листов, Двусторонний автоподатчик документов, до 98 изобр./мин., Сенсорный дисплей 7\", 1.2 ГГц CPU, 2 ГБ RAM, 32 ГБ eMMC, USB 2.0, Ethernet 10/100/1000, NFC, Fax"
   },
   {
@@ -94,7 +94,7 @@ export const МОНОХРОМНЫЕ_ЛАЗЕРНЫЕ_МФУ_А4 = [
     "price": 1074946,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монохромное МФУ, Xerox, VersaLink B625DN, B625V_DN, Лазерное , А4, 61 стр./мин., Подача 650 листов, Двусторонний автоподатчик документов, до 144 изобр./мин., Сенсорный дисплей 7\", 1.2 ГГц CPU, 4 ГБ RAM, 32 ГБ eMMC, USB 2.0, Ethernet 10/100/1000, NFC, Fax"
   },
   {
@@ -106,7 +106,7 @@ export const МОНОХРОМНЫЕ_ЛАЗЕРНЫЕ_МФУ_А4 = [
     "price": 224070,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монохромное МФУ, Canon, i-SENSYS MF3010 BUNDLE, 5252B034AA, Лазерное, A4, 18 стр./мин., Подача 150 листов, Планшетный сканер, 64 МБ RAM, USB 2.0"
   },
   {
@@ -118,7 +118,7 @@ export const МОНОХРОМНЫЕ_ЛАЗЕРНЫЕ_МФУ_А4 = [
     "price": 229890,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монохромное МФУ, Canon, i-SENSYS MF272DW, 5621C013AA, Лазерное, A4, 29 стр./мин., Подача 151 лист, Планшетный сканер, ЖК дисплей, 1.2 ГГц CPU, 256 МБ RAM, USB 2.0, Ethernet 10/100, Wi-Fi"
   },
   {
@@ -130,7 +130,7 @@ export const МОНОХРОМНЫЕ_ЛАЗЕРНЫЕ_МФУ_А4 = [
     "price": 264810,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монохромное МФУ, Canon, i-SENSYS MF275DW, 5621C001AA, Лазерное, A4, 29 стр./мин., Подача 151 лист, Односторонний автоподатчик документов, ЖК дисплей, 1.2 ГГц CPU, 256 МБ RAM, USB 2.0, Ethernet 10/100, Wi-Fi"
   },
   {
@@ -142,7 +142,7 @@ export const МОНОХРОМНЫЕ_ЛАЗЕРНЫЕ_МФУ_А4 = [
     "price": 265780,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монохромное МФУ, Canon, i-SENSYS MF237W BUNDLE, 1418C170AA, Лазерное, A4, 23 стр./мин., Подача 251 лист, Односторонний автоподатчик документов, ЖК дисплей, 256 МБ RAM, USB 2.0, Ethernet 10/100, Wi-Fi"
   },
   {
@@ -154,7 +154,7 @@ export const МОНОХРОМНЫЕ_ЛАЗЕРНЫЕ_МФУ_А4 = [
     "price": 275480,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монохромное МФУ, Canon, i-SENSYS MF461DW, 5951C020AA, Лазерное, A4, 36 стр./мин., Подача 350 листов, Двусторонний автоподатчик документов, Сенсорный дисплей 5\", 1.2 ГГц CPU, 1 ГБ RAM, USB 2.0, Ethernet 10/100/1000, Wi-Fi"
   },
   {
@@ -166,7 +166,7 @@ export const МОНОХРОМНЫЕ_ЛАЗЕРНЫЕ_МФУ_А4 = [
     "price": 288090,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монохромное МФУ, Canon, i-SENSYS MF463DW, 5951C008AA, Лазерное, A4, 40 стр./мин., Подача 350 листов, Двусторонний автоподатчик документов, Сенсорный дисплей 5\", 1.2 ГГц CPU, 1 ГБ RAM, USB 2.0, Ethernet 10/100/1000, Wi-Fi"
   },
   {
@@ -178,7 +178,7 @@ export const МОНОХРОМНЫЕ_ЛАЗЕРНЫЕ_МФУ_А4 = [
     "price": 295850,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монохромное МФУ, Canon, i-SENSYS MF465DW, 5951C007AA, Лазерное, A4, 40 стр./мин., Подача 350 листов, Двусторонний автоподатчик документов, Сенсорный дисплей 5\", 1.2 ГГц CPU, 1 ГБ RAM, USB 2.0, Ethernet 10/100/1000, Wi-Fi"
   },
   {
@@ -190,7 +190,7 @@ export const МОНОХРОМНЫЕ_ЛАЗЕРНЫЕ_МФУ_А4 = [
     "price": 478210,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монохромное МФУ, Canon, i-SENSYS MF552DW, 5160C011AA, Лазерное, A4, 43 стр./мин., Подача 650 листов, Двусторонний автоподатчик документов, Сенсорный дисплей 5\", 800 МГц CPU, 1 ГБ RAM, USB 2.0, Ethernet 10/100/1000, Wi-Fi"
   },
   {
@@ -202,7 +202,7 @@ export const МОНОХРОМНЫЕ_ЛАЗЕРНЫЕ_МФУ_А4 = [
     "price": 953510,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монохромное МФУ, Canon, i-SENSYS MF553DW, 5160C023AA, Лазерное, A4, 43 стр./мин., Подача 650 листов, Двусторонний автоподатчик документов, Сенсорный дисплей 5\", 800 МГц CPU, 1 ГБ RAM, USB 2.0, Ethernet 10/100/1000, Wi-Fi"
   },
   {
@@ -214,7 +214,7 @@ export const МОНОХРОМНЫЕ_ЛАЗЕРНЫЕ_МФУ_А4 = [
     "price": 281300,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монохромное лазерное МФУ, Canon, i-SENSYS MF287DW, 6354C009AA, Лазерное, A4, 33 стр./мин. (А4), Подача 285 листов, Односторонний автоподатчик документов, до 20 изобр./мин., Шестистрочный сенсорный ЖК-дисплей, 1.2 ГГц CPU, 256 МБ RAM, USB 2.0, Ethernet 10/100, Wi-Fi"
   },
   {
@@ -226,7 +226,7 @@ export const МОНОХРОМНЫЕ_ЛАЗЕРНЫЕ_МФУ_А4 = [
     "price": 795788,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монохромное МФУ, Canon, imageRUNNER 1643iii, 5160C007AA, Лазерное, A4, 43 стр./мин., Подача 650 листов, Двусторонний автоподатчик документов, Сенсорный дисплей 5\", 800 МГц CPU, 1 ГБ RAM, USB 2.0, Ethernet 10/100/1000, Wi-Fi"
   },
   {
@@ -238,7 +238,7 @@ export const МОНОХРОМНЫЕ_ЛАЗЕРНЫЕ_МФУ_А4 = [
     "price": 1332780,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монохромное МФУ, Canon, imageRUNNER 1643iFii, 5160C006AA, Лазерное, A4, 43 стр./мин., Подача 650 листов, Двусторонний автоподатчик документов, Сенсорный дисплей 5\", 800 МГц CPU, 1 ГБ RAM, USB 2.0, Ethernet 10/100/1000, Wi-Fi"
   },
   {
@@ -250,7 +250,7 @@ export const МОНОХРОМНЫЕ_ЛАЗЕРНЫЕ_МФУ_А4 = [
     "price": 1197950,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монохромное МФУ, Canon, imageRUNNER ADVANCE DX 619i, 5849C005AA, Лазерное, A4, 61 стр./мин., Подача 650 листов, Двусторонний автоподатчик документов, Сенсорный дисплей 10.1\", 1.8 ГГц CPU, 3.5 ГБ RAM, USB 2.0, Ethernet 10/100/1000"
   },
   {
@@ -262,7 +262,8 @@ export const МОНОХРОМНЫЕ_ЛАЗЕРНЫЕ_МФУ_А4 = [
     "price": 4908200,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монохромное МФУ, Canon, imageRUNNER ADVANCE DX 719i, 5850C005AA, Лазерное, A4, 71 стр./мин., Подача 650 листов, Двусторонний автоподатчик документов, Сенсорный дисплей 10.1\", 1.8 ГГц CPU, 3.5 ГБ RAM, USB 2.0, Ethernet 10/100/1000"
   }
 ];
+

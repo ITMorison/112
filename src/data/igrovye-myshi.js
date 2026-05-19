@@ -10,7 +10,7 @@ export const IGROVYE_MYSHI = [
     "price": 3622,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, XG, XM-04OUB, Игровая, Оптическая, Проводная, 3600dpi, RGB, Длина кабеля 1,5 метра, Чёрный"
   },
   {
@@ -22,7 +22,7 @@ export const IGROVYE_MYSHI = [
     "price": 9690,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Мышь, Xiaomi, Gaming Mouse Lite GL, YXSB01YM/BHR8869GL, 5 В150 мА, Совместим с: Windows 10, macOS 10.13 и более поздние версии, Размер устройства 125 x 63 x 39 мм, Вес около 72 гр, Проводное USB-соединение, Рабочая температура От 0°C до 40°C, Черный"
   },
   {
@@ -34,7 +34,7 @@ export const IGROVYE_MYSHI = [
     "price": 11155,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Delux, M600, Игровая, Оптическая, Проводная, 2400dpi, Длина кабеля 1,5 метра, Белый"
   },
   {
@@ -46,7 +46,7 @@ export const IGROVYE_MYSHI = [
     "price": 16092,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Delux, M820DC, Игровая, Оптическая, Проводная, 2400dpi, Длина кабеля 1,5 метра, Белый"
   },
   {
@@ -58,7 +58,7 @@ export const IGROVYE_MYSHI = [
     "price": 4412,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Genius, Scorpion M300, RGB, Игровая, Оптическая 800-1200dpi, Проводная 1,8м, USB, Черная"
   },
   {
@@ -70,7 +70,7 @@ export const IGROVYE_MYSHI = [
     "price": 5519,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Genius, Scorpion Spear, RGB, Игровая, Оптическая 800-1200dpi, Проводная 1,8м, USB, Черная"
   },
   {
@@ -82,7 +82,7 @@ export const IGROVYE_MYSHI = [
     "price": 5907,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Genius, Scorpion M705, RGB, Игровая, Оптическая 800-7200dpi, Проводная 1,8м, USB, Черная"
   },
   {
@@ -94,7 +94,7 @@ export const IGROVYE_MYSHI = [
     "price": 3395,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Rapoo, V11S, Игровая, Оптическая, Проводная, 800/1200/1600 dpi, Длина кабеля 1,5 метра, LED подсветка, Чёрный"
   },
   {
@@ -106,7 +106,7 @@ export const IGROVYE_MYSHI = [
     "price": 5810,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Rapoo, V16RGB, Игровая, Оптическая, Проводная, 2000 dpi, Длина кабеля 1,8 метра, Чёрный"
   },
   {
@@ -118,7 +118,7 @@ export const IGROVYE_MYSHI = [
     "price": 12444,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Rapoo, V20S, Игровая, Оптическая, Проводная, 3000 dpi, Длина кабеля 1,8 метра, LED подсветка, Чёрный"
   },
   {
@@ -130,7 +130,7 @@ export const IGROVYE_MYSHI = [
     "price": 11417,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Rapoo, V28S, Игровая, Оптическая, Проводная, 7000 dpi, RGB, Длина кабеля 1,8 метра, Чёрный"
   },
   {
@@ -142,7 +142,7 @@ export const IGROVYE_MYSHI = [
     "price": 16005,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Rapoo, V30L, Игровая, Оптическая, Беспроводная, 2.4 Гц, 400-12000 dpi, RGB, Встроенная литиевая батарея 800 mAh, Черный"
   },
   {
@@ -154,7 +154,7 @@ export const IGROVYE_MYSHI = [
     "price": 23270,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Rapoo, V30W, Игровая, Оптическая, Беспроводная, 16000 dpi, RGB подсветка, Чёрный"
   },
   {
@@ -166,7 +166,7 @@ export const IGROVYE_MYSHI = [
     "price": 23765,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Rapoo, VT9S, Игровая, Оптическая, Беспроводная, 16000 dpi, RGB, Чёрный"
   },
   {
@@ -178,7 +178,7 @@ export const IGROVYE_MYSHI = [
     "price": 24250,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Rapoo, VT350S, Игровая, Оптическая, Беспроводная, 16000 dpi, LED подсветка, Чёрный"
   },
   {
@@ -190,7 +190,7 @@ export const IGROVYE_MYSHI = [
     "price": 26675,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Rapoo, VT950 Pro, Игровая, Оптическая, Комбинированная, USB/Беспроводная, Встроенный аккумулятор, 2.4GHz, 16000dpi, LED подсветка, Тканевая оплетка кабеля, Черный"
   },
   {
@@ -202,7 +202,7 @@ export const IGROVYE_MYSHI = [
     "price": 25705,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Rapoo, VT1 PRO MAX, Игровая, Оптическая, Беспроводная, 2.4 Гц, 50 - 26000 dpi, RGB, Встроенная литиевая батарея 800 mAh, Эргономичный дизайн, Черный"
   },
   {
@@ -214,7 +214,7 @@ export const IGROVYE_MYSHI = [
     "price": 26190,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Rapoo, VT960S, Игровая, Оптическая, Комбинированная, USB/Беспроводная, Встроенный аккумулятор, 2.4GHz, 16000dpi, LED подсветка, Тканевая оплетка кабеля, Металлический корпус, Черный"
   },
   {
@@ -226,7 +226,7 @@ export const IGROVYE_MYSHI = [
     "price": 37087,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Cougar, Revenger Pro 4K, Игровая, Оптическая 26000 dpi, 7 кнопок, Беспроводная, USB, Чёрная"
   },
   {
@@ -238,7 +238,7 @@ export const IGROVYE_MYSHI = [
     "price": 37087,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Cougar, Revenger Pro 4K, Игровая, Оптическая 26000 dpi, 7 кнопок, Беспроводная, USB, Белая"
   },
   {
@@ -250,7 +250,7 @@ export const IGROVYE_MYSHI = [
     "price": 41172,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Cougar, DualBlader, PMW3389, Игровая, Оптическая 16000 dpi, 12 кнопок, Проводная 1,8, USB, Чёрная"
   },
   {
@@ -262,7 +262,7 @@ export const IGROVYE_MYSHI = [
     "price": 40535,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Endgame Gear, XM2we Black, EGG-XM2WE-BLK, Игровая, Оптическая, Проводная,PixArt PAW3950 U+1F95A, 30000dpi, 750 IPS, 50G, 8000Hz, 6 кнопок, Беспроводная, 1000Hz, USB, Длина провода1,8м, USB, Черная"
   },
   {
@@ -274,7 +274,7 @@ export const IGROVYE_MYSHI = [
     "price": 40535,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Endgame Gear, XM2we White, EGG-XM2-8K-V2-WHT, Игровая, Оптическая, Проводная,PixArt PAW3950 U+1F95A, 30000dpi, 750 IPS, 50G, 8000Hz, 6 кнопок, Беспроводная, 1000Hz, USB, Длина провода1,8м, USB, Белая"
   },
   {
@@ -286,7 +286,7 @@ export const IGROVYE_MYSHI = [
     "price": 40535,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Endgame Gear, OP1 8k v2 Black, EGG-OP1-8K-V2-BLK, Игровая, Оптическая, Проводная, PixArt PAW3950 U+1F95A, 30000dpi, 750 IPS, 50G, 8000Hz, 6 кнопок, Длина провода1,8м, USB, Черная"
   },
   {
@@ -298,7 +298,7 @@ export const IGROVYE_MYSHI = [
     "price": 40535,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Endgame Gear, OP1 8k v2 White, EGG-OP1-8K-V2-WHT, Игровая, Оптическая, Проводная, PixArt PAW3950 U+1F95A, 30000dpi, 750 IPS, 50G, 8000Hz, 6 кнопок, Длина провода1,8м, USB, Белая"
   },
   {
@@ -310,7 +310,7 @@ export const IGROVYE_MYSHI = [
     "price": 52332,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Endgame Gear, OP1w 4k v2, EGG-OP1W-4K-V2-BLK, PixArt PAW3950 U+1F95A, Wireless, Игровая, Оптическая 30000dpi, 750 IPS, 7 кнопок, Беспроводная, USB, Чёрная"
   },
   {
@@ -322,7 +322,7 @@ export const IGROVYE_MYSHI = [
     "price": 52332,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Endgame Gear, OP1w 4k v2 Dark Frost EGG-OP1W-4K-V2-DF, PixArt PAW3950 U+1F95A, Wireless, Игровая, Оптическая 30000dpi, 750 IPS, 7 кнопок, Беспроводная, USB, Темно серый"
   },
   {
@@ -334,7 +334,7 @@ export const IGROVYE_MYSHI = [
     "price": 52332,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Endgame Gear, OP1w 4k v2 White, EGG-OP1W-4K-V2-WHT, PixArt PAW3950 U+1F95A, Wireless, Игровая, Оптическая 30000dpi, 750 IPS, 7 кнопок, Беспроводная, USB, Белая"
   },
   {
@@ -346,7 +346,7 @@ export const IGROVYE_MYSHI = [
     "price": 14540,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Ajazz, AJ139/V2/MC/Black, AJ139 V2 MC, Игровая, Оптическая, PixArt PAW3311, до 12000 DPI, Беспроводная, USB, 2,4 ГГц, Bluetooth, Чёрный"
   },
   {
@@ -358,7 +358,7 @@ export const IGROVYE_MYSHI = [
     "price": 18032,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Ajazz, AJ159/NLP/Black, AJ159 NL P, Оптическая, Сенсор Ajazz-T PAW3395, до 26000 DPI, 650 IPS, 6 кнопок, Беспроводная, USB, Bluetooth, NearLink, Ускорение 50G, Чёрный"
   },
   {
@@ -370,7 +370,7 @@ export const IGROVYE_MYSHI = [
     "price": 20360,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Ajazz, AJ179/PRO/White, AJ179 PRO, Оптическая, Сенсор PixArt PAW3395, до 26000 DPI, Беспроводная, USB, 2,4 ГГц, Bluetooth, Белый"
   },
   {
@@ -382,7 +382,7 @@ export const IGROVYE_MYSHI = [
     "price": 18032,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Ajazz, AJ159/NLP/White, AJ159 NL P, Оптическая, Сенсор Ajazz-T PAW3395, до 26000 DPI, 650 IPS, 6 кнопок, Беспроводная, USB, Bluetooth, NearLink, Ускорение 50G, Белый"
   },
   {
@@ -394,7 +394,7 @@ export const IGROVYE_MYSHI = [
     "price": 20360,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Ajazz, AJ179/PRO/Black, AJ179 PRO, Оптическая, Сенсор PixArt PAW3395, до 26000 DPI, Беспроводная, USB, 2,4 ГГц, Bluetooth, Чёрный"
   },
   {
@@ -406,7 +406,7 @@ export const IGROVYE_MYSHI = [
     "price": 35880,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Ajazz, AJ159/APEX/Black, AJ159 APEX, Оптическая, Сенсор Ajazz PAW3950APEX, до 42000dpi, 5 кнопок, Беспроводная, USB, 2,4 ГГц, Bluetooth, Чёрный"
   },
   {
@@ -418,7 +418,7 @@ export const IGROVYE_MYSHI = [
     "price": 35880,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Ajazz, AJ179/APEX/White, AJ179 APEX, Оптическая, Сенсор Ajazz PAW3950APEX, до 42000 DPI, Беспроводная, USB, 2,4 ГГц, Bluetooth, Белый"
   },
   {
@@ -430,7 +430,7 @@ export const IGROVYE_MYSHI = [
     "price": 65950,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Dark Project, DPP_Novus_PRO_BB, Novus Pro, Игровая, Оптическая, 26000dpi, 650 IPS, 6 кнопок, Беспроводная, USB, 2,4 ГГц, Чёрно-Фиолетовый"
   },
   {
@@ -442,7 +442,7 @@ export const IGROVYE_MYSHI = [
     "price": 32970,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, VGN, 31161, Dragonfly Y2 Pro, Игровая, Оптическая, Сенсор PAW3395, Беспроводная, USB, 2,4 ГГц, Bluetooth, Чёрный"
   },
   {
@@ -454,7 +454,7 @@ export const IGROVYE_MYSHI = [
     "price": 32970,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, VGN, 31163, Dragonfly Y2 Pro, Игровая, Оптическая, Сенсор PAW3395, Беспроводная, USB, 2,4 ГГц, Bluetooth, Белый"
   },
   {
@@ -466,7 +466,7 @@ export const IGROVYE_MYSHI = [
     "price": 43640,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, VGN, 31155, Dragonfly Y2 Ultra, Игровая, Оптическая, Сенсор PAW3950, Беспроводная, USB, 2,4 ГГц, Bluetooth, Чёрный"
   },
   {
@@ -478,7 +478,7 @@ export const IGROVYE_MYSHI = [
     "price": 43640,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, VGN, 31157, Dragonfly Y2 Ultra, Игровая, Оптическая, Сенсор PAW3950, Беспроводная, USB, 2,4 ГГц, Bluetooth, Белый"
   },
   {
@@ -490,7 +490,7 @@ export const IGROVYE_MYSHI = [
     "price": 44610,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, VGN, 31156, Dragonfly Y2 Ultra +, Игровая, Оптическая, Сенсор PAW3950, Беспроводная, USB, 2,4 ГГц, Bluetooth, Чёрный"
   },
   {
@@ -502,7 +502,7 @@ export const IGROVYE_MYSHI = [
     "price": 44610,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, VGN, 31158, Dragonfly Y2 Ultra +, Игровая, Оптическая, Сенсор PAW3950, Беспроводная, USB, 2,4 ГГц, Bluetooth, Белый"
   },
   {
@@ -514,7 +514,7 @@ export const IGROVYE_MYSHI = [
     "price": 18808,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Glorious, Model D, GD-BLACK, Игровая, Оптическая, Проводная, Pixart PMW-3360 Sensor, 12000 DPI, 250+ IPS, 50G, 1000 Hz, RGB, 6 кнопок, Длина провода 2м, Матовый черный"
   },
   {
@@ -526,7 +526,7 @@ export const IGROVYE_MYSHI = [
     "price": 18614,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Glorious, Model D-, GLO-MS-DM-MW, Игровая, Оптическая, Проводная, Pixart PMW-3360 Sensor, 12000 DPI, 250+ IPS, 50G, 1000 Hz, RGB, 6 кнопок, Длина провода 2м, Матовый белый"
   },
   {
@@ -538,7 +538,7 @@ export const IGROVYE_MYSHI = [
     "price": 20166,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Glorious, Model D, GD-WHITE, Игровая, Оптическая, Проводная, Pixart PMW-3360 Sensor, 12000 DPI, 250+ IPS, 50G, 1000 Hz, RGB, 6 кнопок, Длина провода 2м, Матовый белый"
   },
   {
@@ -550,7 +550,7 @@ export const IGROVYE_MYSHI = [
     "price": 20069,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Glorious, Model D-, GLO-MS-DM-MB, Игровая, Оптическая, Проводная, Pixart PMW-3360 Sensor, 12000 DPI, 250+ IPS, 50G, 1000 Hz, RGB, 6 кнопок, Длина провода 2м, Матовый черный"
   },
   {
@@ -562,7 +562,7 @@ export const IGROVYE_MYSHI = [
     "price": 20554,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Glorious, Model I, GLO-MS-I-MW, Игровая, Оптическая, Проводная, Glorious BAMF Sensor, 19000 DPI, 400 IPS, 50G, 1000 Hz, RGB, 9 кнопок, Длина провода 2м, Белый"
   },
   {
@@ -574,7 +574,7 @@ export const IGROVYE_MYSHI = [
     "price": 25404,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Glorious, Model O 2, GLO-MS-OV2-MW, Игровая, Оптическая, Проводная, Glorious BAMF 2.0 Sensor, 26000 DPI, 650 IPS, 50G, 1000 Hz, RGB, 6 кнопок, Длина провода 2м, Матовый белый"
   },
   {
@@ -586,7 +586,7 @@ export const IGROVYE_MYSHI = [
     "price": 32970,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Glorious, Model D Wireless, GLO-MS-DW-MW, Игровая, Оптическая, Беспроводная, Glorious BAMF Sensor, 19000 DPI, 400 IPS, 50G, 1000 Hz, RGB, 6 кнопок, Длина провода 2м, Матовый белый"
   },
   {
@@ -598,7 +598,7 @@ export const IGROVYE_MYSHI = [
     "price": 32970,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Glorious, Model D- Wireless, GLO-MS-DMW-MW, Игровая, Оптическая, Беспроводная, Glorious BAMF Sensor, 19000 DPI, 400 IPS, 50G, 1000 Hz, RGB, 6 кнопок, Длина провода 2м, Матовый белый"
   },
   {
@@ -610,7 +610,7 @@ export const IGROVYE_MYSHI = [
     "price": 32970,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Glorious, Model D Wireless, GLO-MS-DW-MB, Игровая, Оптическая, Беспроводная, Glorious BAMF Sensor, 19000 DPI, 400 IPS, 50G, 1000 Hz, RGB, 6 кнопок, Длина провода 2м, Матовый черный"
   },
   {
@@ -622,7 +622,7 @@ export const IGROVYE_MYSHI = [
     "price": 32970,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Glorious, Model D- Wireless, GLO-MS-DMW-MB, Игровая, Оптическая, Беспроводная, Glorious BAMF Sensor, 19000 DPI, 400 IPS, 50G, 1000 Hz, RGB, 6 кнопок, Длина провода 2м, Матовый черный"
   },
   {
@@ -634,7 +634,7 @@ export const IGROVYE_MYSHI = [
     "price": 38984,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Glorious, Model I 2 Wireless, GLO-MS-IWV2-MW, Игровая, Оптическая, Беспроводная, 2.4 Ghz, Bluetooth 5.2 LE, Glorious BAMF 2.0 Sensor, 26000 DPI, 650 IPS, 50G, 1000 Hz, RGB, 9 кнопок, Длина провода 2м, Матовый белый"
   },
   {
@@ -646,7 +646,7 @@ export const IGROVYE_MYSHI = [
     "price": 38887,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Glorious, Model O 2 Wireless, GLO-MS-OWV2-MB, Игровая, Оптическая, Беспроводная, 2.4 Ghz, Bluetooth 5.2 LE, Glorious BAMF 2.0 Sensor, 26000 DPI, 650 IPS, 50G, 1000 Hz, RGB, 6 кнопок, Длина провода 2м, Матовый черный"
   },
   {
@@ -658,7 +658,7 @@ export const IGROVYE_MYSHI = [
     "price": 38984,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Glorious, Model I 2 Wireless, GLO-MS-IWV2-MB, Игровая, Оптическая, Беспроводная, 2.4 Ghz, Bluetooth 5.2 LE, Glorious BAMF 2.0 Sensor, 26000 DPI, 650 IPS, 50G, 1000 Hz, RGB, 9 кнопок, Длина провода 2м, Матовый черный"
   },
   {
@@ -670,7 +670,7 @@ export const IGROVYE_MYSHI = [
     "price": 36753,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Glorious, Model D 2 PRO, GLO-MS-PDWV2-1K-B, Игровая, Оптическая, Беспроводная, Glorious BAMF 2.0 Sensor, 26000 DPI, 650 IPS, 50G, 1000 Hz, 6 кнопок, Длина провода 2м, Черный"
   },
   {
@@ -682,7 +682,7 @@ export const IGROVYE_MYSHI = [
     "price": 36559,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Glorious, Model O 2 PRO, GLO-MS-POWV2-1K-B, Игровая, Оптическая, Беспроводная, Glorious BAMF 2.0 Sensor, 26000 DPI, 650 IPS, 50G, 1000 Hz, 6 кнопок, Длина провода 2м, Черный"
   },
   {
@@ -694,7 +694,7 @@ export const IGROVYE_MYSHI = [
     "price": 47423,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Glorious, Model D 2 PRO, GLO-MS-PDWV2-4K8K-B, Игровая, Оптическая, Беспроводная, Glorious BAMF 2.0 Sensor, 26000 DPI, 650 IPS, 50G, 8000 Hz, 6 кнопок, Длина провода 2м, Черный"
   },
   {
@@ -706,7 +706,7 @@ export const IGROVYE_MYSHI = [
     "price": 47423,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Glorious, Model O 2 PRO, GLO-MS-POWV2-4K8K-B, Игровая, Оптическая, Беспроводная, Glorious BAMF 2.0 Sensor, 26000 DPI, 650 IPS, 50G, 8000 Hz, 6 кнопок, Длина провода 2м, Черный"
   },
   {
@@ -718,7 +718,7 @@ export const IGROVYE_MYSHI = [
     "price": 42379,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Glorious, Model D PRO, GLO-MS-PDW-FLA-FORGE, Игровая, Оптическая, Беспроводная, Glorious BAMF Sensor, 19000 DPI, 400 IPS, 50G, 1000 Hz, 6 кнопок, Длина провода 2м, Forge Розовый"
   },
   {
@@ -730,7 +730,7 @@ export const IGROVYE_MYSHI = [
     "price": 40439,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Glorious, Model O Pro, GLO-MS-OW-BL-FORGE, Игровая, Оптическая, Беспроводная, Glorious BAMF Sensor, 19000 DPI, 400 IPS, 50G, 1000 Hz, 6 кнопок, Длина провода 2м, Синий/белый"
   },
   {
@@ -742,7 +742,7 @@ export const IGROVYE_MYSHI = [
     "price": 39760,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, HyperX, 6N0A8AA, Pulsefire Haste 2, Игровая, Оптическая 32000dpi, 650 IPS, 6 кнопок, Проводная, USB, Белая"
   },
   {
@@ -754,7 +754,7 @@ export const IGROVYE_MYSHI = [
     "price": 39760,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, HyperX, 6N0A7AA, Pulsefire Haste 2, Игровая, Оптическая 32000dpi, 650 IPS, 6 кнопок, Проводная, USB, Чёрный"
   },
   {
@@ -766,7 +766,7 @@ export const IGROVYE_MYSHI = [
     "price": 38790,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, HyperX, A1KY6AA, Pulsefire Fuse, Игровая, Оптическая 12000dpi, 300 IPS, 6 кнопок, Беспроводная, Чёрный"
   },
   {
@@ -778,7 +778,7 @@ export const IGROVYE_MYSHI = [
     "price": 33940,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, HyperX, 8R2E6AA, Pulsefire Haste 2 Core Wireless, Игровая, Оптическая 32000dpi, 300 IPS, 6 кнопок, Беспроводная, Чёрный"
   },
   {
@@ -790,7 +790,7 @@ export const IGROVYE_MYSHI = [
     "price": 33940,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, HyperX, 8R2E7AA, Pulsefire Haste 2 Core Wireless, Игровая, Оптическая 32000dpi, 300 IPS, 6 кнопок, Беспроводная, Белый"
   },
   {
@@ -802,7 +802,7 @@ export const IGROVYE_MYSHI = [
     "price": 52370,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, HyperX, 7D388AA, Pulsefire Haste 2 Mini Wireless, Игровая, Оптическая 32000dpi, 650 IPS, 6 кнопок, Беспроводная, USB, Чёрный"
   },
   {
@@ -814,7 +814,7 @@ export const IGROVYE_MYSHI = [
     "price": 52370,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, HyperX, 7D389AA, Pulsefire Haste 2 Mini Wireless, Игровая, Оптическая 32000dpi, 650 IPS, 6 кнопок, Беспроводная, USB, Белый"
   },
   {
@@ -826,7 +826,7 @@ export const IGROVYE_MYSHI = [
     "price": 57220,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, HyperX, 6N0B0AA, Pulsefire Haste 2 Wireless, Игровая, Оптическая 26000dpi, 650 IPS, 6 кнопок, Беспроводная, USB, Чёрная"
   },
   {
@@ -838,7 +838,7 @@ export const IGROVYE_MYSHI = [
     "price": 57220,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, HyperX, 6N0A9AA, Pulsefire Haste 2 Wireless, Игровая, Оптическая 26000dpi, 650 IPS, 6 кнопок, Беспроводная, USB, Белый"
   },
   {
@@ -850,7 +850,7 @@ export const IGROVYE_MYSHI = [
     "price": 53340,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, HyperX, A2PB3AA, Saga, Игровая, Оптическая 32000dpi, 650 IPS, 6 кнопок, Проводная, Чёрный"
   },
   {
@@ -862,7 +862,7 @@ export const IGROVYE_MYSHI = [
     "price": 77590,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, HyperX, A2PB2AA, Saga Pro, Игровая, Оптическая 32000dpi, 650 IPS, 6 кнопок, Беспроводная, Чёрный"
   },
   {
@@ -874,7 +874,7 @@ export const IGROVYE_MYSHI = [
     "price": 77590,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, HyperX, A1KY5AA, Pulsefire Haste 2 Pro - 4K, Игровая, Оптическая 32000dpi, 650 IPS, 6 кнопок, Беспроводная, Серый"
   },
   {
@@ -886,7 +886,7 @@ export const IGROVYE_MYSHI = [
     "price": 35880,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Razer ,DeathAdder V2, RZ01-03210300-R3M1, Игровая, Оптическая, до 20 000dpi, 8 кнопок, Razer Chroma™ RGB подсветка с реальными 16,8 млн настраиваемыми цветами, Проводная, USB, 82 г Зеленая"
   },
   {
@@ -898,7 +898,7 @@ export const IGROVYE_MYSHI = [
     "price": 29090,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Razer, DeathAdder V2 X HyperSpeed, RZ01-04130100-R3G1, Игровая, Оптическая, 14000 DPI, 450 IPS, 7 Кнопок, Беспроводная, 2.4 ГГц / Bluetooth, 103 г, Черный"
   },
   {
@@ -910,7 +910,7 @@ export const IGROVYE_MYSHI = [
     "price": 49460,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Razer, DeathAdder V3 HyperSpeed, RZ01-05140100-R3G1, Игровая, Оптическая, 26000 DPI, 500 IPS, 6 Кнопок, Беспроводная / Проводная, 2.4 ГГц, 55 г, Чёрный"
   },
   {
@@ -922,7 +922,7 @@ export const IGROVYE_MYSHI = [
     "price": 65562,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Razer ,DeathAdder V3 Pro, RZ01-04630100-R3G1, Игровая, Оптическая, до 30 000dpi, 5 кнопок, Razer Chroma™ RGB подсветка с реальными 16,8 млн настраиваемыми цветами, беспроводная, USB, 63 г Чёрная"
   },
   {
@@ -934,7 +934,7 @@ export const IGROVYE_MYSHI = [
     "price": 65562,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Razer ,DeathAdder V3 Pro - White, RZ01-04630200-R3G1, Игровая, Оптическая, до 20 000dpi, 8 кнопок, Razer Chroma™ RGB подсветка с реальными 16,8 млн настраиваемыми цветами, беспроводная, USB, 82 г Белая"
   },
   {
@@ -946,7 +946,7 @@ export const IGROVYE_MYSHI = [
     "price": 32970,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Razer, Orochi V2, RZ01-03730100-R3G1, Игровая, Оптическая, 18000 DPI, 450 IPS, 6 Кнопок, Беспроводная, 2.4 ГГц / Bluetooth, 60 г, Чёрный"
   },
   {
@@ -958,7 +958,7 @@ export const IGROVYE_MYSHI = [
     "price": 48490,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Razer, Naga V2 HyperSpeed, RZ01-03600100-R3G1, Игровая для MOBA и MMO игр, Оптическая 16000dpi (сенсор 5G), 3 сменные боковые панели с конфигурациями на 2, 6 и 12 кнопок(19 + 1) программируемые кнопки (с 12-кнопочной панелью), Подсветка Chroma настраиваемая 16.8 млн цветов, беспроводная, USB, Чёрная"
   },
   {
@@ -970,7 +970,7 @@ export const IGROVYE_MYSHI = [
     "price": 89230,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Razer, Naga V2 Pro, RZ01-04400100-R3G1, Игровая для MOBA и MMO игр, Оптическая 30000dpi (сенсор 5G), 3 сменные боковые панели с конфигурациями на 2, 6 и 12 кнопок(19 + 1) программируемые кнопки (с 12-кнопочной панелью), беспроводная, USB, Чёрная"
   },
   {
@@ -982,7 +982,7 @@ export const IGROVYE_MYSHI = [
     "price": 64980,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Razer, Viper Ultimate, RZ01-03050200-R3G1, Оптическая 20000dpi (сенсор Focus+), 650 IPS, 50G, 8 кнопок, Подсветка Chroma настраиваемая 16.8 млн цветов, Беспроводная, 125.7 x 70 x 43.2 мм, 74 г, Чёрная"
   },
   {
@@ -994,7 +994,7 @@ export const IGROVYE_MYSHI = [
     "price": 34910,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Razer, Viper V3 HyperSpeed, RZ01-04910100-R3M1, Оптическая 30000dpi (сенсор Focus Pro), 750 IPS, 70G, 58 г, 5 кнопок, Беспроводная, до 80 часов автономной работы, Кабель Speedflex Type-A на Type-C, Прорезиненные противоскользящие накладки на мышь, Чёрная"
   },
   {
@@ -1006,7 +1006,7 @@ export const IGROVYE_MYSHI = [
     "price": 35880,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Razer, Basilisk V3, RZ01-04000100-R3M1, Игровая для FPS игр, Оптическая 26 000dpi (сенсор 5G), 10+1 программируемых кнопок, Прорезиненные боковые вставки, Подсветка 16.8 млн цветов, Проводная, 130*60*42,5, USB, Черный"
   },
   {
@@ -1018,7 +1018,7 @@ export const IGROVYE_MYSHI = [
     "price": 48490,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Razer, Basilisk V3 35k, RZ01-05230100-R3M1, Проводная, Оптический сенсор Focus Pro 35K, IPS 750, Ускорение 70G, DPI 35 000, RGB, Чёрный"
   },
   {
@@ -1030,7 +1030,7 @@ export const IGROVYE_MYSHI = [
     "price": 72740,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Razer, Basilisk V3 Pro, RZ01-04620200-R3G1, Игровая для FPS игр, Оптическая 26 000dpi (сенсор 5G), 8 кнопок, Прорезиненные боковые вставки, Подсветка Chroma настраиваемая 16.8 млн цветов, Белый"
   },
   {
@@ -1042,7 +1042,7 @@ export const IGROVYE_MYSHI = [
     "price": 30060,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Razer, Basilisk V3 X HyperSpeed, RZ01-04870100-R3G1, Игровая, Оптическая, 18000 DPI, 450 IPS, 7 Кнопок, Беспроводная, 2.4 ГГц / Bluetooth, 110 г, Чёрный"
   },
   {
@@ -1054,7 +1054,7 @@ export const IGROVYE_MYSHI = [
     "price": 44610,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Razer, DeathAdder V3, RZ01-04640100-R3M1, Игровая, Оптическая, 30000 DPI, 750 IPS, 6 Кнопок, Проводная, USB, 59 г, Чёрный"
   },
   {
@@ -1066,7 +1066,7 @@ export const IGROVYE_MYSHI = [
     "price": 24250,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Razer, Cobra, RZ01-04650100-R3M1, Игровая, Оптический сенсор c разрешением 8500 DPI, RGB-подсветка: Razer Chroma RGB, Проводная — кабель Razer Speedflex, Ресурс переключателей: 90 миллионов щелчков, 58 г, Чёрная"
   },
   {
@@ -1078,7 +1078,7 @@ export const IGROVYE_MYSHI = [
     "price": 58190,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Razer, Cobra HyperSpeed, RZ01-05570100-R3G1, Игровая, Оптическая 26000dpi, 7 кнопок, Подсветка, Беспроводная, USB, Чёрная"
   },
   {
@@ -1090,7 +1090,7 @@ export const IGROVYE_MYSHI = [
     "price": 64010,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Razer ,Cobra Pro, RZ01-04660100-R3G1, Игровая, Оптическая, до 20 000dpi, 8 кнопок, Razer Chroma™ RGB подсветка с реальными 16,8 млн настраиваемыми цветами, беспроводная, USB, 82 г Чёрная"
   },
   {
@@ -1102,7 +1102,7 @@ export const IGROVYE_MYSHI = [
     "price": 82440,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, ZOWIE, ZA13-DW Wireless, 9H.N4RBE.A2E, DPI 400 / 800 / 1000 / 1200 / 1600 / 3200, USB 2.0 / 3.0 Plug & Play, 7 кнопок, 65 грамм, 125 / 500 / 1000 / 2000 / 4000 Гц Частота отчетов, Размер Небольшая (S), Симметричный Дизайн, Беспроводная, Подключение с улучшенным 4K-приемником, Чёрный"
   },
   {
@@ -1114,7 +1114,7 @@ export const IGROVYE_MYSHI = [
     "price": 96990,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, ZOWIE, EC2-DW 4K Wireless, 9H.N4VBE.A3E, DPI 400 / 800 / 1000 / 1200 / 1600 / 3200, USB 2.0 / 3.0 Plug & Play, 7 кнопок, 60 грамм, 125 / 500 / 1000 / 2000 / 4000 Гц Частота отчетов, Размер Средняя (M), Ассиметричный Эргономичный Дизайн, Беспроводная, Подключение с улучшенным 4K-приемником, Белый"
   },
   {
@@ -1126,7 +1126,7 @@ export const IGROVYE_MYSHI = [
     "price": 82440,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, ZOWIE, EC3-DW 4K Wireless, 9H.N4WBE.A2E, DPI 400 / 800 / 1000 / 1200 / 1600 / 3200, USB 2.0 / 3.0 Plug & Play, 7 кнопок, 59 гр, 125 / 500 / 1000 / 2000 / 4000 Гц Частота отчетов, Размер Небольшая (S), Ассиметричный Эргономичный Дизайн, Беспроводная, Подключение с улучшенным 4K-приемником, Чёрный"
   },
   {
@@ -1138,7 +1138,7 @@ export const IGROVYE_MYSHI = [
     "price": 82440,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, ZOWIE, U2-DW Wireless, 9H.N4PBE.A2E, DPI 400 / 800 / 1600 / 3200, USB 2.0 / 3.0 Plug & Play, 7 кнопок, 60 грамм, 125 / 500 / 1000 / 2000 / 4000 Гц Частота отчетов, Размер Небольшая (S), Ассиметричный Эргономичный Дизайн, Беспроводная, Колесо прокрутки 24-ступенчатое, Чёрный"
   },
   {
@@ -1150,7 +1150,7 @@ export const IGROVYE_MYSHI = [
     "price": 82440,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, ZOWIE, FK2-DW Wireless, 9H.N4MBE.A2E, оптический, 3200 DPI, 4000 Гц, 7 кнопок, 85 гр, 124х64х36 мм, кабель 2 м, беспроводная, черный"
   },
   {
@@ -1162,7 +1162,7 @@ export const IGROVYE_MYSHI = [
     "price": 82440,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, ZOWIE, S2-DW Wireless, 9H.N4NBE.A2E, DPI 400 / 800 / 1000 / 1200 / 1600 / 3200, USB 2.0 / 3.0 Plug & Play, 7 кнопок, 69 гр, 125 / 500 / 1000 / 2000 / 4000 Гц Частота опроса, Эргономичный Дизайн, Чёрный"
   },
   {
@@ -1174,7 +1174,7 @@ export const IGROVYE_MYSHI = [
     "price": 83410,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, ZOWIE, EC3-CW Wireless, 9H.N4ABE.A2E, DPI 400 / 800 / 1600 / 3200, USB 2.0 / 3.0 Plug & Play, 5 кнопок,76 гр, 125 / 500 / 1000 Гц Частота отчетов, Размер Небольшая (S), Ассиметричный Эргономичный Дизайн, Беспроводная, Колесо прокрутки 24-ступенчатое, Чёрный"
   },
   {
@@ -1186,7 +1186,7 @@ export const IGROVYE_MYSHI = [
     "price": 41700,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, ZOWIE, FK1+-C, 9H.N3CBA.A2E, оптический, 3200 DPI, 1000 Гц, кнопок 5, 77 гр, 129х65х39 мм (size-XL), кабель 2 м, Проводная, Чёрный"
   },
   {
@@ -1198,7 +1198,7 @@ export const IGROVYE_MYSHI = [
     "price": 87290,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, ZOWIE, U2 Wireless, 9H.N4KBE.A2E, DPI 400 / 800 / 1600 / 3200, USB 2.0 / 3.0 Plug & Play, 5 кнопок, 79 грамм, 125 / 500 / 1000 Гц Частота отчетов, Размер Небольшая (S), Ассиметричный Эргономичный Дизайн, Беспроводная, Колесо прокрутки 24-ступенчатое, Чёрный"
   },
   {
@@ -1210,7 +1210,7 @@ export const IGROVYE_MYSHI = [
     "price": 78560,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Steelseries, Aerox 5 Wireless, 62406, Игровая, Оптическая, 18000 CPI, 6 кнопок, Подсветка RGB, Беcпроводная, 2.4 ГГц / Bluetooth 5,0, Чёрная"
   },
   {
@@ -1222,7 +1222,7 @@ export const IGROVYE_MYSHI = [
     "price": 73710,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Steelseries, Prime Wireless, 62593, Игровая, Съемное соединение, Оптическая True Move Air, 18000 CPI, 400 IPS, 40 G, 5 кнопок, RGB, Беспроводная, Чёрная"
   },
   {
@@ -1234,7 +1234,7 @@ export const IGROVYE_MYSHI = [
     "price": 32970,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Steelseries, Aerox 3 (2022) Onyx, 62611, Игровая, Оптическая, 8500 CPI, 6 кнопок, Подсветка RGB, Проводная 1.8 м, USB, Чёрная"
   },
   {
@@ -1246,7 +1246,7 @@ export const IGROVYE_MYSHI = [
     "price": 58190,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Steelseries, Aerox 3 Wireless (2022) Snow, 62608, Игровая, Оптическая, 18000 CPI, 6 кнопок, Подсветка RGB, Беcпроводная, 2.4 ГГц / Bluetooth 5,0, Белая"
   },
   {
@@ -1258,7 +1258,7 @@ export const IGROVYE_MYSHI = [
     "price": 52370,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Steelseries, Aerox 3 Wireless (2022) Onyx, 62612, Игровая, Оптическая, 18000 CPI, 6 кнопок, Подсветка RGB, Беcпроводная, 2.4 ГГц / Bluetooth 5,0, Чёрная"
   },
   {
@@ -1270,7 +1270,7 @@ export const IGROVYE_MYSHI = [
     "price": 44610,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Steelseries, Aerox 5, 62401, Игровая, Оптическая, 8500 CPI, 6 кнопок, Подсветка RGB, Проводная 1.8 м, USB, Чёрная"
   },
   {
@@ -1282,7 +1282,8 @@ export const IGROVYE_MYSHI = [
     "price": 52370,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Steelseries, Aerox 3 Wireless (2022) Ghost, 62610, Игровая, Оптическая, 18000 CPI, 6 кнопок, Подсветка RGB, Беcпроводная, 2.4 ГГц / Bluetooth 5,0, Серая"
   }
 ];
+

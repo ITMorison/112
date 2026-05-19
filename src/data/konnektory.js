@@ -86,3 +86,4 @@ export const CONNECTORS = [
     "image": "https://market-telecom.kz/files/products/72768_1.170x220.jpg"
   }
 ];
+

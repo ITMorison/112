@@ -10,7 +10,7 @@ export const ГОТОВЫЕ_РЕШЕНИЯ = [
     "price": 2767330,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Суперсервер (промышленный компьютер), Supermicro, SYS-622B-TRT 152R1 , Xeon 6507P, 1x480GB NVMe PCIe 4.0 SSD M.2, 2x1200W, 2х RJ45 10G LAN"
   },
   {
@@ -22,7 +22,7 @@ export const ГОТОВЫЕ_РЕШЕНИЯ = [
     "price": 1496573,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Суперсервер (промышленный компьютер), Supermicro, SYS-511R-M 782, Xeon 6337P, 1x32GB DDR5-5600 ECC RDIMM, 1x480GB NVMe PCIe 4.0 SSD M.2, 1x600W, 2 RJ-45 1G LAN"
   },
   {
@@ -34,7 +34,7 @@ export const ГОТОВЫЕ_РЕШЕНИЯ = [
     "price": 1543039,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Суперсервер (промышленный компьютер), Supermicro, SYS-511R-M 776, Xeon 6325P, 1x32GB DDR5-5600 ECC RDIMM, 1x480GB NVMe PCIe 4.0 SSD M.2, 1x600W, 2  RJ-45 1G LAN"
   },
   {
@@ -46,7 +46,7 @@ export const ГОТОВЫЕ_РЕШЕНИЯ = [
     "price": 2309032,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Суперсервер (промышленный компьютер), Supermicro, AS-1015CS-TNR 729, EPYС 9015, 1x32GB DDR5-5600 ECC RDIMM, 1x480GB NVMe PCIe 4.0 SSD M.2, 2x860W"
   },
   {
@@ -58,7 +58,7 @@ export const ГОТОВЫЕ_РЕШЕНИЯ = [
     "price": 2368544,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Суперсервер (промышленный компьютер), Supermicro, SYS-111C-NR, Xeon Silver 4510, 1x32GB DDR5-5600 ECC RDIMM, 1x480GB NVMe PCIe 4.0 SSD M.2, 2x860W"
   },
   {
@@ -70,7 +70,7 @@ export const ГОТОВЫЕ_РЕШЕНИЯ = [
     "price": 2403010,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Суперсервер (промышленный компьютер), Supermicro, SYS-121C-TN2R 1692, Xeon Silver 4510, 1x32GB DDR5-5600 ECC RDIMM, 1x480GB NVMe PCIe 4.0 SSD M.2, 2x860W"
   },
   {
@@ -82,7 +82,7 @@ export const ГОТОВЫЕ_РЕШЕНИЯ = [
     "price": 2535541,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Суперсервер (промышленный компьютер), Supermicro, AS-1015CS-TNR 730, EPYС 9124, 1x32GB DDR5-5600 ECC RDIMM, 1x480GB NVMe PCIe 4.0 SSD M.2, 2x860W"
   },
   {
@@ -94,7 +94,7 @@ export const ГОТОВЫЕ_РЕШЕНИЯ = [
     "price": 2768983,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Суперсервер (промышленный компьютер), Supermicro, SYS-622B-TRT 152, Xeon 6507P, 1x32GB DDR5-5600 ECC RDIMM, 1x480GB NVMe PCIe 4.0 SSD M.2, 2x1200W, 2х RJ45 10G LAN"
   },
   {
@@ -106,7 +106,7 @@ export const ГОТОВЫЕ_РЕШЕНИЯ = [
     "price": 2593486,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Суперсервер (промышленный компьютер), Supermicro, SYS-621P-TRT 419, Xeon Silver 4510, 1x32GB DDR5-5600 ECC RDIMM, 1x480GB NVMe PCIe 4.0 SSD M.2, 2x1200W, 2  RJ-45 10G LAN"
   },
   {
@@ -118,7 +118,7 @@ export const ГОТОВЫЕ_РЕШЕНИЯ = [
     "price": 2706185,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Суперсервер (промышленный компьютер), Supermicro, SYS-621P-TRT 421, Xeon Silver 4514Y, 1x32GB DDR5-5600 ECC RDIMM, 1x480GB NVMe PCIe 4.0 SSD M.2, 2x1200W, 2  RJ-45 10G LAN"
   },
   {
@@ -130,7 +130,7 @@ export const ГОТОВЫЕ_РЕШЕНИЯ = [
     "price": 2971930,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Суперсервер (промышленный компьютер), Supermicro, SYS-621P-TRT 420, Xeon Silver 4516Y+, 1x32GB DDR5-5600 ECC RDIMM, 1x480GB NVMe PCIe 4.0 SSD M.2, 2x1200W, 2  RJ-45 10G LAN"
   },
   {
@@ -142,7 +142,7 @@ export const ГОТОВЫЕ_РЕШЕНИЯ = [
     "price": 2999785,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Суперсервер (промышленный компьютер), Supermicro, SYS-121C-TN2R 1687, Xeon Gold 5520+, 1x32GB DDR5-5600 ECC RDIMM, 1x480GB NVMe PCIe 4.0 SSD M.2, 2x860W"
   },
   {
@@ -154,7 +154,8 @@ export const ГОТОВЫЕ_РЕШЕНИЯ = [
     "price": 1499024,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Суперсервер (промышленный компьютер), Supermicro, SYS-511R-M 820, Xeon 6353P 8С/16T 2.7Ghz, 1x32GB DDR5-5600 ECC RDIMM, 1x480GB NVMe PCIe 4.0 SSD M.2, 1x600W, 2 RJ-45 1G LAN"
   }
 ];
+

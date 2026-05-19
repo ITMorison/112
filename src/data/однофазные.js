@@ -10,7 +10,7 @@ export const ОДНОФАЗНЫЕ = [
     "price": 11630,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Стабилизатор (AVR), SVC, AVR-600-L, Мощность 600ВА/300Вт, LED-индикаторы, Диапазон работы AVR: 174-280В, 4 вых., 1.2 м., Чёрный"
   },
   {
@@ -22,7 +22,7 @@ export const ОДНОФАЗНЫЕ = [
     "price": 13570,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Стабилизатор (AVR), SVC, AVR-1000-L, Мощность 1000ВА/500Вт, LED-индикаторы, Диапазон работы AVR: 174-280В, 4 вых., 1.2 м., Чёрный"
   },
   {
@@ -34,7 +34,7 @@ export const ОДНОФАЗНЫЕ = [
     "price": 14540,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Стабилизатор (AVR), SVC, AVR-1200-U, Мощность 1200ВА/600Вт, Диапазон работы AVR: 176-276В, Тип выходных разъёмов: Schuko х 6 шт., LED-индикаторы, Защита телефонной линии, Чёрный"
   },
   {
@@ -46,7 +46,7 @@ export const ОДНОФАЗНЫЕ = [
     "price": 10660,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Стабилизатор (AVR), SVC, AVR-1005-U, Мощность 600ВА/300Вт, Диапазон работы AVR: 176-273В, Тип выходных разъёмов: Schuko х 3 шт., LED-индикаторы, Чёрный"
   },
   {
@@ -58,7 +58,7 @@ export const ОДНОФАЗНЫЕ = [
     "price": 13473,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Стабилизатор (AVR), SVC, AVR-1008-U, Мощность 1000ВА/500Вт, Диапазон работы AVR: 176-273В, Тип выходных разъёмов: Schuko х 4 шт., LED-индикаторы, Чёрный"
   },
   {
@@ -70,7 +70,7 @@ export const ОДНОФАЗНЫЕ = [
     "price": 11630,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Стабилизатор (AVR), SVC, AVR-600-S, Мощность 600ВА/300Вт, LED-индикаторы, Диапазон работы AVR: 184-284В, Выходные разъемы: schuko x 3, Чёрный"
   },
   {
@@ -82,7 +82,7 @@ export const ОДНОФАЗНЫЕ = [
     "price": 12600,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Стабилизатор (AVR), SVC, AVR-1000-S, Мощность 1000ВА/500Вт, Выходное напряжение: 220В +/-10%, LED-индикаторы, Диапазон работы AVR: 184-284В, Выходные разъемы: schuko x 3, Чёрный"
   },
   {
@@ -94,7 +94,7 @@ export const ОДНОФАЗНЫЕ = [
     "price": 14540,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Стабилизатор (AVR), SVC, AVR-1500-S, Мощность 1500ВА/750Вт, Выходное напряжение: 220В +/-10%, LED-индикаторы, Диапазон работы AVR: 184-284В, Выходные разъемы: schuko x 3, Чёрный"
   },
   {
@@ -106,7 +106,7 @@ export const ОДНОФАЗНЫЕ = [
     "price": 16480,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Стабилизатор (AVR), SVC, R-600, 600ВА/500Вт, Диапазон работы AVR: 140-260В, Выходное напряжение: 220В +/-7%, Задержка включения, выход 2 шт Shсuko, LCD-дисплей, Защита: от перегрузки, короткого замыкания, повышенной температуры, Чёрно-красный"
   },
   {
@@ -118,7 +118,7 @@ export const ОДНОФАЗНЫЕ = [
     "price": 18420,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Стабилизатор (AVR), SVC, R-1000, 1000ВА/1000Вт, Диапазон работы AVR: 140-260В, Выходное напряжение: 220В +/-7%, Задержка включения, выход 2 шт Shсuko, LCD-дисплей, Защита: от перегрузки, короткого замыкания, повышенной температуры, Чёрно-красный"
   },
   {
@@ -130,7 +130,7 @@ export const ОДНОФАЗНЫЕ = [
     "price": 22300,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Стабилизатор (AVR), SVC, R-1500, 1500ВА/1500Вт, Диапазон работы AVR: 140-260В, Выходное напряжение: 220В +/-7%, Задержка включения, выход 2 шт Shсuko, LCD-дисплей, Защита: от перегрузки, короткого замыкания, повышенной температуры, Чёрно-красный"
   },
   {
@@ -142,7 +142,7 @@ export const ОДНОФАЗНЫЕ = [
     "price": 26180,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Стабилизатор (AVR), SVC, R-2000, 2000ВА/2000Вт, Диапазон работы AVR: 140-260В, Выходное напряжение: 220В +/-7%, Задержка включения, выход 2 шт Shсuko, LCD-дисплей, Защита: от перегрузки, короткого замыкания, повышенной температуры, Чёрно-красный"
   },
   {
@@ -154,7 +154,7 @@ export const ОДНОФАЗНЫЕ = [
     "price": 37820,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Стабилизатор (AVR), SVC, R-3000, 3000ВА/3000Вт, Диапазон работы AVR: 140-260В, Выходное напряжение: 220В +/-7%, Задержка включения, Клеммная колодка, LCD-дисплей, Защита: от перегрузки, короткого замыкания, повышенной температуры, Чёрно-красный"
   },
   {
@@ -166,7 +166,7 @@ export const ОДНОФАЗНЫЕ = [
     "price": 45580,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Стабилизатор (AVR), SVC, R-5000, 5000ВА/5000Вт, Диапазон работы AVR: 140-260В, Выходное напряжение: 220В +/-7%, Задержка включения, Клеммная колодка, LCD-дисплей, Защита: от перегрузки, короткого замыкания, повышенной температуры, Чёрно-красный"
   },
   {
@@ -178,7 +178,7 @@ export const ОДНОФАЗНЫЕ = [
     "price": 18420,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Стабилизатор (AVR), SVC, W-500, Мощность 500ВА/500Вт, LED-дисплей, Диапазон работы AVR: 140-260В, Вых.: 220В+/-7%, 1 х Shcuko, Кабель питания: 1,35м, Габариты: 290*160*65, Черно-белый"
   },
   {
@@ -190,7 +190,7 @@ export const ОДНОФАЗНЫЕ = [
     "price": 21330,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Стабилизатор (AVR), SVC, W-1000, Мощность 1000ВА/1000Вт, LED-дисплей, Диапазон работы AVR: 140-260В, Вых.: 220В+/-7%, 1 х Schuko, Кабель питания: 1,35м, Габариты: 290*160*65, Черно-белый"
   },
   {
@@ -202,7 +202,7 @@ export const ОДНОФАЗНЫЕ = [
     "price": 25210,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Стабилизатор (AVR), SVC, W-1500, Мощность 1500ВА/1500Вт, LED-дисплей, Диапазон работы AVR: 140-260В, Вых.: 220В+/-7%, 2 х Shcuko, Кабель питания: 1,35м, Габариты: 320*200*65, Черно-белый"
   },
   {
@@ -214,7 +214,7 @@ export const ОДНОФАЗНЫЕ = [
     "price": 28120,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Стабилизатор (AVR), SVC, W-2000, Мощность 2000ВА/2000Вт, LED-дисплей, Диапазон работы AVR: 140-260В, Вых.: 220В+/-7%, 2 х Shcuko, Кабель питания: 1,35м, Габариты: 320*200*65, Черно-белый"
   },
   {
@@ -226,7 +226,7 @@ export const ОДНОФАЗНЫЕ = [
     "price": 41700,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Стабилизатор (AVR), SVC, W-3000, Мощность 3000ВА/3000Вт, LED-дисплей, Диапазон работы AVR: 140-260В, Вых.: 220В+/-7%, Клеммная колодка, Габариты: 380*234*105, Белый"
   },
   {
@@ -238,7 +238,7 @@ export const ОДНОФАЗНЫЕ = [
     "price": 49460,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Стабилизатор (AVR), SVC, W-5000, Мощность 5000ВА/5000Вт, LED-дисплей, Диапазон работы AVR: 140-260В, Вых.: 220В+/-7%, Клеммная колодка, Габариты: 380*234*105, Белый"
   },
   {
@@ -250,7 +250,7 @@ export const ОДНОФАЗНЫЕ = [
     "price": 96990,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Стабилизатор (AVR), SVC, W-10000, 10000ВА/6000Вт, Диапазон работы AVR: 140-260В, Выходное напряжение: 220В +/-8%, Задержка включения, Клеммная колодка, LCD-дисплей, Защита: от перегрузки, короткого замыкания, повышенной температуры, Белый"
   },
   {
@@ -262,7 +262,7 @@ export const ОДНОФАЗНЫЕ = [
     "price": 131910,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Стабилизатор (AVR), SVC, W-15000, 15000ВА/15000Вт, Диапазон работы AVR: 140-260В, Выходное напряжение: 220В +/-8-10%, Задержка включения, Клеммная колодка, LCD-дисплей, Защита: от перегрузки, короткого замыкания, повышенной температуры, Белый"
   },
   {
@@ -274,7 +274,7 @@ export const ОДНОФАЗНЫЕ = [
     "price": 155190,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Стабилизатор (AVR), SVC, W-20000, 20000ВА/20000Вт, Диапазон работы AVR: 140-260В, Выходное напряжение: 220В +/-8-10%, Задержка включения, Клеммная колодка, LCD-дисплей, Защита: от перегрузки, короткого замыкания, повышенной температуры, Белый"
   },
   {
@@ -286,7 +286,7 @@ export const ОДНОФАЗНЫЕ = [
     "price": 180410,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Стабилизатор (AVR), SVC, W-30000, 30000ВА/30000Вт, Диапазон работы AVR: 140-260В, Выходное напряжение: 220В +/-8-10%, Задержка включения, Клеммная колодка, LCD-дисплей, Защита: от перегрузки, короткого замыкания, повышенной температуры, Белый"
   },
   {
@@ -298,7 +298,7 @@ export const ОДНОФАЗНЫЕ = [
     "price": 89230,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Стабилизатор (AVR), SVC, T-10000, 10000ВА/6000Вт, Диапазон работы AVR: 140-260В, Выходное напряжение: 220В +/-8%, Задержка включения, Клеммная колодка, LCD-дисплей, Защита: от перегрузки, короткого замыкания, повышенной температуры, Чёрно-красный"
   },
   {
@@ -310,7 +310,7 @@ export const ОДНОФАЗНЫЕ = [
     "price": 103780,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Стабилизатор (AVR), SVC, T-12000, 12000ВА/7500Вт, Диапазон работы AVR: 140-260В, Выходное напряжение: 220В +/-8%, Задержка включения, Клеммная колодка, LCD-дисплей, Защита: от перегрузки, короткого замыкания, повышенной температуры, Чёрно-красный"
   },
   {
@@ -322,7 +322,7 @@ export const ОДНОФАЗНЫЕ = [
     "price": 135790,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Стабилизатор (AVR), SVC, T-15000, 15000ВА/1500Вт, Диапазон работы AVR: 140-260В, Выходное напряжение: 220В +/-8-10%, Задержка включения, Клеммная колодка, LCD-дисплей, Защита: от перегрузки, короткого замыкания, повышенной температуры, Белый"
   },
   {
@@ -334,7 +334,7 @@ export const ОДНОФАЗНЫЕ = [
     "price": 170710,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Стабилизатор (AVR), SVC, T-20000, 20000ВА/20000Вт, Диапазон работы AVR: 140-260В, Выходное напряжение: 220В +/-8-10%, Задержка включения, Клеммная колодка, LCD-дисплей, Защита: от перегрузки, короткого замыкания, повышенной температуры, Белый"
   },
   {
@@ -346,7 +346,7 @@ export const ОДНОФАЗНЫЕ = [
     "price": 15510,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Стабилизатор (AVR), SVC, FL-600, 600ВА/500Вт, Диапазон работы AVR: 140-260В, Выходное напряжение: 220В +/-7%, Задержка включения, выход 2 шт Sсhuko, LCD-дисплей, Защита: от перегрузки, короткого замыкания, повышенной температуры, Белый"
   },
   {
@@ -358,7 +358,7 @@ export const ОДНОФАЗНЫЕ = [
     "price": 17450,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Стабилизатор (AVR), SVC, FL-1000, 1000ВА/1000Вт, Диапазон работы AVR: 140-260В, Выходное напряжение: 220В +/-7%, Задержка включения, выход 2 шт Schuko, LCD-дисплей, Защита: от перегрузки, короткого замыкания, повышенной температуры, Белый"
   },
   {
@@ -370,7 +370,7 @@ export const ОДНОФАЗНЫЕ = [
     "price": 24240,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Стабилизатор (AVR), SVC, FL-2000, 2000ВА/2000Вт, Диапазон работы AVR: 140-260В, Выходное напряжение: 220В +/-7%, Задержка включения, выход 2 шт Schuko, LCD-дисплей, Защита: от перегрузки, короткого замыкания, повышенной температуры, Белый"
   },
   {
@@ -382,7 +382,7 @@ export const ОДНОФАЗНЫЕ = [
     "price": 43640,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Стабилизатор (AVR), SVC, FL-5000, 5000ВА/5000Вт, Диапазон работы AVR: 140-260В, Выходное напряжение: 220В +/-7%, Задержка включения, Клеммная колодка, LCD-дисплей, Защита: от перегрузки, короткого замыкания, повышенной температуры, Белый"
   },
   {
@@ -394,7 +394,7 @@ export const ОДНОФАЗНЫЕ = [
     "price": 17450,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Стабилизатор (AVR), SVC, WL-500, Мощность 500ВА/500Вт, LED-дисплей, Диапазон работы AVR: 140-260В, Вых.: 220В+/-7%, 1 х Schuko, Кабель питания: 1,35м, Белый"
   },
   {
@@ -406,7 +406,7 @@ export const ОДНОФАЗНЫЕ = [
     "price": 20360,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Стабилизатор (AVR), SVC, WL-1000, Мощность 1000ВА/1000Вт, LED-дисплей, Диапазон работы AVR: 140-260В, Вых.: 220В+/-7%, 1 х Schuko, Кабель питания: 1,35м, Белый"
   },
   {
@@ -418,7 +418,7 @@ export const ОДНОФАЗНЫЕ = [
     "price": 27150,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Стабилизатор (AVR), SVC, WL-2000, Мощность 2000ВА/2000Вт, LED-дисплей, Диапазон работы AVR: 140-260В, Вых.: 220В+/-7%, 2 х Schuko, Кабель питания: 1,35м, Белый"
   },
   {
@@ -430,7 +430,8 @@ export const ОДНОФАЗНЫЕ = [
     "price": 47520,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Стабилизатор (AVR), SVC, WL-5000, Мощность 5000ВА/5000Вт, LED-дисплей, Диапазон работы AVR: 140-260В, Вых.: 220В+/-7%, Клеммная колодка, Белый"
   }
 ];
+

@@ -10,7 +10,7 @@ export const МОНТАЖНЫЕ_КОРОБКИ_ДЛЯ_ВИДЕОДОМОФОНИ
     "price": 20833,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монтажная коробка, Dahua, VTM96, 293,9 мм  152 мм  35,9 мм, Рабочая температура. от –30 °C до +60 °C"
   },
   {
@@ -22,7 +22,7 @@ export const МОНТАЖНЫЕ_КОРОБКИ_ДЛЯ_ВИДЕОДОМОФОНИ
     "price": 14910,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монтажная коробка, Dahua, VTM95, 293,9 мм  152 мм  35,9 мм, Рабочая температура. от –30 °C до +60 °C"
   },
   {
@@ -34,7 +34,7 @@ export const МОНТАЖНЫЕ_КОРОБКИ_ДЛЯ_ВИДЕОДОМОФОНИ
     "price": 17964,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монтажная коробка, Dahua, VTM116-01, Алюминий, для DHI-VTO6222E-P"
   },
   {
@@ -46,7 +46,7 @@ export const МОНТАЖНЫЕ_КОРОБКИ_ДЛЯ_ВИДЕОДОМОФОНИ
     "price": 8982,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монтажная коробка, Dahua, VTM117, накладная панель для монтажа вызывной панели для DHI-VTO6222E-P"
   },
   {
@@ -58,7 +58,7 @@ export const МОНТАЖНЫЕ_КОРОБКИ_ДЛЯ_ВИДЕОДОМОФОНИ
     "price": 42680,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монтажная коробка, Dahua, VTOB119, SPCC (малоуглеродистая сталь), совместно с VTO9541D"
   },
   {
@@ -70,7 +70,7 @@ export const МОНТАЖНЫЕ_КОРОБКИ_ДЛЯ_ВИДЕОДОМОФОНИ
     "price": 19982,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монтажная коробка, Dahua, VTM121, врезная, размер 373 мм  143 мм  67,5 мм"
   },
   {
@@ -82,7 +82,7 @@ export const МОНТАЖНЫЕ_КОРОБКИ_ДЛЯ_ВИДЕОДОМОФОНИ
     "price": 26704,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монтажная коробка, Dahua, VTM130, накладная, для вызывной панели серии VTO65/75, 376.5 mm  136 mm  37.5 mm"
   },
   {
@@ -94,7 +94,7 @@ export const МОНТАЖНЫЕ_КОРОБКИ_ДЛЯ_ВИДЕОДОМОФОНИ
     "price": 8982,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монтажная коробка, Dahua, VTM134, накладная, 190 mm  120 mm  38.5 mm"
   },
   {
@@ -106,7 +106,7 @@ export const МОНТАЖНЫЕ_КОРОБКИ_ДЛЯ_ВИДЕОДОМОФОНИ
     "price": 23257,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кронштейн для терминалов распознавания лиц, Hikvision, DS-KAB6-ZU1, Кронштейн на основание турникета и скоростных проходных, поверхностный монтаж, подвижный крепежный механиз, нагрузка до 10 кг, 95.4100100мм, IP65"
   },
   {
@@ -118,7 +118,7 @@ export const МОНТАЖНЫЕ_КОРОБКИ_ДЛЯ_ВИДЕОДОМОФОНИ
     "price": 10659,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кронштейн, Hikvision, DS-KAB6-W1, Настенный монтаж, алюминиевый сплав, Применение: в помещении и на открытом воздухе, масса 213 г"
   },
   {
@@ -130,7 +130,7 @@ export const МОНТАЖНЫЕ_КОРОБКИ_ДЛЯ_ВИДЕОДОМОФОНИ
     "price": 23257,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кронштейн для терминалов распознавания лиц, Hikvision, DS-KAB6-ZU2, торцевой кронштейн для терминала распознования лиц, турникеты с обозначением «Pg» поддерживают этот кронштейн, угол поворота: 10° вниз, 100 мм ? 100 мм ? 196 мм, алюминиевый сплав, цинковый сплав, силикагель и ПК, 1,1 кг"
   },
   {
@@ -142,7 +142,7 @@ export const МОНТАЖНЫЕ_КОРОБКИ_ДЛЯ_ВИДЕОДОМОФОНИ
     "price": 77522,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кронштейн, Hikvision, DS-KAB671-B, Напольный, для монтажа СКУД терминалов контроля доступа и домофонов, IP66, Вес: 6.7кг, Размер: 134222598.5мм"
   },
   {
@@ -154,7 +154,7 @@ export const МОНТАЖНЫЕ_КОРОБКИ_ДЛЯ_ВИДЕОДОМОФОНИ
     "price": 49421,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кронштейн, Hikvision, DS-KAB6-D1,"
   },
   {
@@ -166,7 +166,7 @@ export const МОНТАЖНЫЕ_КОРОБКИ_ДЛЯ_ВИДЕОДОМОФОНИ
     "price": 2714,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монтажная коробка, Hikvision, DS-KABV6113-A, серии KV6 угол наклона 30°, -40° C до +70° C, Стекловолокно"
   },
   {
@@ -178,7 +178,8 @@ export const МОНТАЖНЫЕ_КОРОБКИ_ДЛЯ_ВИДЕОДОМОФОНИ
     "price": 4070,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монтажная коробка, Hikvision, DS-KABV6113-RS"
   }
 ];
+

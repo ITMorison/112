@@ -10,7 +10,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 84972,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Ubiquiti, USW-Lite-8-POE, Unifi Switch, Управляемый L2, 4 порта 10/100/1000 Mbps RJ45 PoE+, 802.3af/at, бюджет 52W, 4 порта 10/100/1000 Мбит/с RJ45, Настольный/настенный"
   },
   {
@@ -22,7 +22,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 154909,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Ubiquiti, USW-Lite-16-POE, Unifi Switch, Управляемый L2, 8 портов 10/100/1000 Mbps RJ45 PoE+, 802.3af/at, бюджет 45W, 8 портов 10/100/1000 Мбит/с RJ45, Настольный/настенный"
   },
   {
@@ -34,7 +34,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 306423,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Ubiquiti, USW-ENTERPRISE-8-POE, Unifi Switch, Управляемый L3, 2x SFP+, 8 порта 10/100/1000/2500 Mbps RJ45 PoE+, 802.3af/at, бюджет 120W, Настольный/настенный"
   },
   {
@@ -46,7 +46,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 45105,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, H3C, LS-1600V2-6P-HPWR-GL, управляемый L2, 4*10/100/1000BASE-T RJ45 PoE+, 1*10/100/1000BASE-T RJ45, 1*1G SFP, 15.4W (802.3af) на 4 порта, 30W (802.3at) на 2 порта, Total PoE 73W, настольный"
   },
   {
@@ -58,7 +58,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 62856,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, H3C, LS-1600V2-10P-HPWR-GL, управляемый L2, 8*10/100/1000BASE-T RJ45 PoE+, 1*10/100/1000BASE-T RJ45, 1*1G SFP, 15.4W (802.3af) на 8 портов, 30W (802.3at) на 4 порта, Total PoE 125W"
   },
   {
@@ -70,7 +70,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 40789,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Grandstream, GWN7711P, управляемый L2, 8 портов RJ-45 10/100/1000 Мбит/с,, 4 порта PoE/PoE+ 802.3af/at или Passive PoE +24 В, бюджет PoE 60W, Бесшумный режим: без вентилятора, настольный/настенный, корпус металлический"
   },
   {
@@ -82,7 +82,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 92150,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, D-Link, DGS-1100-08PV2/A4A, Управляемый L2 PoE-коммутатор, 8х1000Base-T PoE, PoE-бюджет 64 Вт, Web-интерфейс, SNMP"
   },
   {
@@ -94,7 +94,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 70616,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, D-Link, DGS-1100-08PLV2/A1A, Настраиваемый L2, 8 портов 10/100/1000Base-T (4 порта PoE 802.3af/at, PoE-бюджет 80 Вт), Комплект для монтажа на стену"
   },
   {
@@ -106,7 +106,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 49460,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, TP-Link, TL-SG108PE, Easy Smart гигабитный 8портовый коммутатор с 4 портами PoE+ 802.3af/at, Бюджет PoE: 64 Вт"
   },
   {
@@ -118,7 +118,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 23826,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, TP-Link, TL-SG105PE, Easy Smart гигабитный 5портовый коммутатор с 4 портами PoE+ Бюджет PoE: 65 Вт"
   },
   {
@@ -130,7 +130,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 69830,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, TP-Link, SG2008P, JetStream 8-портовый гигабитный Smart коммутатор с 4 портами PoE+ (62 Вт), Управляемый"
   },
   {
@@ -142,7 +142,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 75650,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, TP-Link, SG2210P, JetStream гигабитный 8-портовый Smart коммутатор PoE (61 Вт) с 2 SFP-слотами. Управляемый"
   },
   {
@@ -154,7 +154,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 115420,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, TP-Link, SG2016P, Управляемый L2, JetStream, 16 портов RJ45 10/100/1000 Мбит/с, порты 1-8 802.3af/at 120W"
   },
   {
@@ -166,7 +166,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 32747,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Dahua, DH-CS4006-4ET-60, Управляемый, 4 порта 10/100M (PoE 802.3af/at/Hi-PoE,60W), 2 порта 10/100/1000M,"
   },
   {
@@ -178,7 +178,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 39343,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Dahua, DH-CS4006-4GT-60, 130 мм  90 мм  26 мм, 6-портовый, Рабочая температура. от –10°C до +55°C"
   },
   {
@@ -190,7 +190,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 33647,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Dahua, DH-CS4006-4ET2GT-36, Управляемый, 4 порта 10/100M (PoE 802.3af/at,36W), 2 порта 10/100/1000M"
   },
   {
@@ -202,7 +202,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 33921,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Dahua, DH-CS4006-4ET2GT-60, Управляемый, 4 порта 10/100M (PoE 802.3af/at,60W), 2 порта 10/100/1000M"
   },
   {
@@ -214,7 +214,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 37500,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Dahua, DH-CS4010-8ET-60, Управляемый, 8 портов 10/100M (PoE 802.3af/at/Hi-PoE,60W), 2 порта 10/100/1000M,"
   },
   {
@@ -226,7 +226,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 73478,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Dahua, DH-CS4010-8GT-60, 190 мм  106 мм  30 мм, 10-портовый, Рабочая температура. от –10 °C до +55 °C"
   },
   {
@@ -238,7 +238,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 86563,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Dahua, DH-CS4010-8GT-110, Управляемый L2, 8xRJ45 10/100/1000Мбит/с (PoE/PoE+/Hi-PoE), суммарно до 60Вт, 2xRJ45 10/100/1000Мбит/с (uplink)"
   },
   {
@@ -250,7 +250,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 56270,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Dahua, DH-CS4010-8ET-110, Управляемый, 8 портов 10/100M (PoE 802.3af/at/Hi-PoE,110W), 2 порта 10/100/1000M,"
   },
   {
@@ -262,7 +262,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 52562,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Dahua, DH-CS4010-8ET2GT-60, Управляемый, 8 портов 10/100M (PoE 802.3af/at/Hi-PoE,60W), 2 порта 10/100/1000M"
   },
   {
@@ -274,7 +274,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 56270,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Dahua, DH-CS4010-8ET2GT-110, Управляемый, 8 портов 10/100M (PoE 802.3af/at/Hi-PoE,60W), 2 порта 10/100/1000M"
   },
   {
@@ -286,7 +286,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 117118,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Dahua, DH-S4210-8GT-110, Управляемый, 8 портов 10/100/1000 Mbps (PoE 802.3af/at/bt/Hi-PoE,110W), 2 SFP"
   },
   {
@@ -298,7 +298,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 36911,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Hikvision, DS-3E1510P-EI/M-8P2F, Управляемый L2, 8 x Gigabit RJ45, РоЕ 802.3af/at 80W, 2 x SFP, Настольный, Long Range Ports 1 to 8: up to 300 m."
   },
   {
@@ -310,7 +310,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 18046,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Hikvision, DS-3E1105P-EI/M (V2), Управляемый L2, 4 x 10/100 Mbps, РоЕ 802.3af/at 45W, 1 x 10/100 Mbps RJ45, Настольный, Long Range Ports 1 to 4: up to 300 m."
   },
   {
@@ -322,7 +322,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 19823,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Hikvision, DS-3E1106P-EI/M, Управляемый L2, 4 x 10/100 Mbps, РоЕ 802.3af/at 45W, 2 x 10/100 Mbps RJ45, Настольный, Long Range Ports 1 to 4: up to 300 m."
   },
   {
@@ -334,7 +334,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 21874,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Hikvision, DS-3E1106P-EI, Управляемый L2, 4 x 10/100 Mbps, РоЕ 802.3af/at 60W, 2 x 10/100 Mbps RJ45, Настольный, Long Range Ports 1 to 4: up to 300 m."
   },
   {
@@ -346,7 +346,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 21874,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Hikvision, DS-3E1506P-EI/M, Управляемый L2, 4 x Gigabit RJ45, РоЕ 802.3af/at 45W, 2 x Gigabit RJ45, Настольный, Long Range Ports 1 to 4: up to 300 m."
   },
   {
@@ -358,7 +358,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 25428,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Hikvision, DS-3E1506P-EI/M-4P1T1F, Управляемый L2, 4 x Gigabit RJ45, РоЕ 802.3af/at 45W, 1 x Gigabit RJ45, 1 x SFP, Настольный, Long Range Ports 1 to 4: up to 300 m."
   },
   {
@@ -370,7 +370,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 25838,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Hikvision, DS-3E1106HP-EI, Управляемый L2, 4 x 10/100 Mbps, РоЕ 802.3af/at/bt 60W, 2 x 10/100 Mbps RJ45, Настольный, Long Range Ports 1 to 4: up to 300 m."
   },
   {
@@ -382,7 +382,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 19960,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Hikvision, DS-3E1505P-EI/M"
   },
   {
@@ -394,7 +394,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 26659,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Hikvision, DS-3E1506P-EI, Управляемый L2, 4 x Gigabit RJ45, РоЕ 802.3af/at 60W, 2 x Gigabit RJ45, Настольный, Long Range Ports 1 to 4: up to 300 m."
   },
   {
@@ -406,7 +406,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 30213,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Hikvision, DS-3E1309P-EI/M, Управляемый L2, 8 x 10/100 Mbps, РоЕ 802.3af/at 60W, 1 x Gigabit RJ45, Настольный, Long Range Ports 1 to 8: up to 300 m."
   },
   {
@@ -418,7 +418,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 43064,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Hikvision, DS-3E1310P-EI (B), Управляемый L2, 8 x 10/100 Mbps, РоЕ 802.3af/at 110W, 2 x Gigabit RJ45, Настольный, Металл"
   },
   {
@@ -430,7 +430,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 35955,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Hikvision, DS-3E1310P-EI/M, Управляемый L2, 8 x 10/100 Mbps , РоЕ 802.3af/at 60W, 2 x Gigabit RJ45, Настольный, Long Range Ports 1 to 8: up to 300 m."
   },
   {
@@ -442,7 +442,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 36911,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Hikvision, DS-3E1510P-EI/M, Управляемый L2, 8 x Gigabit RJ45, РоЕ 802.3af/at 60W, 2 x Gigabit RJ45, Настольный, Металл"
   },
   {
@@ -454,7 +454,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 40603,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Hikvision, DS-3E1510P-EI/M(B) , Управляемый L2, 8 x Gigabit RJ45, РоЕ 802.3af/at 80W, 2 x Gigabit RJ45, Настольный, Металл"
   },
   {
@@ -466,7 +466,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 37732,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Hikvision, DS-3E1309P-EI (B), Управляемый L2, 8 x 10/100 Mbps, 1  Gigabit RJ45 port, РоЕ 802.3af/at 110W, Настольный, Long Range Ports 1 to 8: up to 300 m."
   },
   {
@@ -478,7 +478,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 49763,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Hikvision, DS-3E1510P-EI (V2), Управляемый L2, 8 x Gigabit RJ45, РоЕ 802.3af/at 110W, 2 x Gigabit RJ45, Настольный, Long Range Ports 1 to 8: up to 300 m."
   },
   {
@@ -490,7 +490,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 85444,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Hikvision, DS-3E1510P-SI, Управляемый L2, 8 x Gigabit RJ45, РоЕ 802.3af/at 110W, 2 x SFP, Настольный, Long Range Ports 1 to 8: up to 300 m."
   },
   {
@@ -502,7 +502,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 41833,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Hikvision, DS-3T1306P-SI/HS, Управляемый L2, 4 x 10/100 Mbps, РоЕ 802.3af/at 60W, 1 x Gigabit RJ45, 1 x SFP combo, Настольный, Long Range Ports 1 to 4: up to 300 m."
   },
   {
@@ -514,7 +514,7 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 69723,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Hikvision, DS-3T1310P-SI/HS, Управляемый L2, 8 x 10/100 Mbps, РоЕ 802.3af/at 110W, 1 x Gigabit RJ45, 1 x SFP, Настольный, Long Range Ports 1 to 8: up to 300 m."
   },
   {
@@ -526,7 +526,9 @@ export const UPRAVLYAEMYE_SOHO_POE = [
     "price": 0,
     "stock": 50,
     "is_available": false,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Ubiquiti, USW-Pro-8-PoE, Unifi Switch, Управляемый L2, 2x SFP+, 8 порта 10/100/1000 Mbps RJ45 PoE+, 802.3af/at/bt, бюджет 120W, Настольный/настенный"
   }
 ];
+
+

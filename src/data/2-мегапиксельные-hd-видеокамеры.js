@@ -12,7 +12,7 @@ export const 2_МЕГАПИКСЕЛЬНЫЕ_HD_ВИДЕОКАМЕРЫ = [
     "price": 9067,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "HDCVI видеокамера, Dahua, DH-HAC-T1A21P-0280B, купольная, CMOS-матрица 1/2,7\", Механический ИК-фильтр, ИК-подсветка - до 20 м, Функция день/ночь, 2.0 мега., 0 лк/F=2.0, Объектив: f=2,8 мм, WDR, Скор. записи: 25/30 кадров в секунду при 1080P, 25/30/50/60 кадров в секунду при 720P, 12VDC"
   },
   {
@@ -26,7 +26,7 @@ export const 2_МЕГАПИКСЕЛЬНЫЕ_HD_ВИДЕОКАМЕРЫ = [
     "price": 17867,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "HDCVI видеокамера, Dahua, DH-HAC-HDW1200CLQP-IL-A-0280B, купольная, 2 Мп, интеллектуальная камера с двойным светом"
   },
   {
@@ -40,7 +40,7 @@ export const 2_МЕГАПИКСЕЛЬНЫЕ_HD_ВИДЕОКАМЕРЫ = [
     "price": 26937,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "HDCVI видеокамера, Dahua, DH-HAC-D3A21P-VF-2712, Купольная, Вариофокальная, Матрица 1/2.7\" CMOS. 2Мп. разрешение 19201080 (25/30к/с - 1080Р. 25/30/50/60к/с - 720P). вариофокальный объектив 2.7~12мм. угол обзора 106°~33°. класс защиты IP67. питание 12V ± 30%. потребл.мощность 4.6W"
   },
   {
@@ -54,7 +54,7 @@ export const 2_МЕГАПИКСЕЛЬНЫЕ_HD_ВИДЕОКАМЕРЫ = [
     "price": 9067,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цилиндрическая видеокамера, Dahua, DH-HAC-B1A21P-0280B, Датчик изображения\t1/2.7\" CMOS, Система сканирования\tПрогрессивная, Фокусное расстояние\t2.8мм"
   },
   {
@@ -68,7 +68,7 @@ export const 2_МЕГАПИКСЕЛЬНЫЕ_HD_ВИДЕОКАМЕРЫ = [
     "price": 12271,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "HDCVI видеокамера, Dahua, DH-HAC-HFW1200CLP-IL-A-0280B, цилиндрическая, 2 Мп, смарт-камера с двойным светом"
   },
   {
@@ -82,7 +82,7 @@ export const 2_МЕГАПИКСЕЛЬНЫЕ_HD_ВИДЕОКАМЕРЫ = [
     "price": 20758,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "HDCVI видеокамера, Dahua, DH-HAC-HFW1200RLP-IL-T, цилиндрическая, 2 Мп, смарт-камера с двойным светом"
   },
   {
@@ -96,7 +96,8 @@ export const 2_МЕГАПИКСЕЛЬНЫЕ_HD_ВИДЕОКАМЕРЫ = [
     "price": 26937,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "HDCVI видеокамера, Dahua, DH-HAC-B4A21P-VF-2712, Цилиндрическая, вариофокальная, CMOS-матрица 1/2.7\", Механический ИК-фильтр, ИК-подсветка - до 40 м, Функция день/ночь, 2.0 мега., Объектив: f= 2.7-12 мм, Разрешения видеосигнала: 1080P (1920  1080), 12VDC"
   }
 ];
+

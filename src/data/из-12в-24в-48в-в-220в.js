@@ -10,7 +10,7 @@ export const ИЗ_12В_24В_48В_В_220В = [
     "price": 43640,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Инвертор, SVC, ES-1000-LCD, Мощность 1100ВА/800Вт, Вход 12В и/или 220В, Выход 220В (Чистая синусоида на выходе), Диапазон работы AVR: 154-264±3В, Функция заряда батарей 19A, Чёрный"
   },
   {
@@ -22,7 +22,7 @@ export const ИЗ_12В_24В_48В_В_220В = [
     "price": 47520,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Инвертор, SVC, ES-1300-LCD, Мощность 1300ВА/1000Вт, Вход 12В и/или 220В, Выход 220В (Чистая синусоида на выходе), Диапазон работы AVR: 154-264±3В, Функция заряда батарей 19A, Чёрный"
   },
   {
@@ -34,7 +34,7 @@ export const ИЗ_12В_24В_48В_В_220В = [
     "price": 13209,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Инвертор, SVC, SI-300, Мощность 300ВА/300Вт, Вход 12В/Выход 210-240В, 1 вых.: Shuko CEE7, USB-порт 2А, Защита от перегрева, перегрузки, короткого замыкания, Чёрный"
   },
   {
@@ -46,7 +46,7 @@ export const ИЗ_12В_24В_48В_В_220В = [
     "price": 16480,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Инвертор, SVC, SI-500, Мощность 500ВА/500Вт, Вход 12В/Выход 210-240В, 1 вых.: Shuko CEE7, Выход USB-порта 2А /5В (2100мА), Защита от перегрева, перегрузки, короткого замыкания, Чёрный"
   },
   {
@@ -58,7 +58,7 @@ export const ИЗ_12В_24В_48В_В_220В = [
     "price": 29090,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Инвертор, SVC, SI-1000, Мощность 1000ВА/1000Вт, Вход 12В/Выход 210-240В, 1 вых.: Shuko CEE7, USB-порт 2А, Защита от перегрева, перегрузки, короткого замыкания, Чёрный"
   },
   {
@@ -70,7 +70,7 @@ export const ИЗ_12В_24В_48В_В_220В = [
     "price": 37820,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Инвертор, SVC, SI-1500, Мощность 1500ВА/1500Вт, Вход 12В/Выход 210-240В, 1 вых.: Shuko CEE7, USB-порт 2А, Экран, Защита от перегрева, перегрузки, короткого замыкания, Чёрный"
   },
   {
@@ -82,7 +82,7 @@ export const ИЗ_12В_24В_48В_В_220В = [
     "price": 64980,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Инвертор, SVC, SI-2000, Мощность 2000ВА/2000Вт, Вход 12В/Выход 210-240В, 2 вых.: Shuko CEE7, USB-порт 2А, Экран, Защита от перегрева, перегрузки, короткого замыкания, Чёрный"
   },
   {
@@ -94,7 +94,7 @@ export const ИЗ_12В_24В_48В_В_220В = [
     "price": 37409,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Инвертор, SVC, DIL-600, Мощность 600ВА/360Вт, Вход 12В и/или 220В, Выход 220В, (Чистая синусоида на выходе), Функция заряда батарей 10A, Чёрный"
   },
   {
@@ -106,7 +106,7 @@ export const ИЗ_12В_24В_48В_В_220В = [
     "price": 52172,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Инвертор, SVC, DIL-800, Мощность 800ВА/640Вт, Вход 12В и/или 220В, Выход 220В, (Чистая синусоида на выходе), Функция заряда батарей 15A, Чёрный"
   },
   {
@@ -118,7 +118,7 @@ export const ИЗ_12В_24В_48В_В_220В = [
     "price": 57220,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Инвертор, SVC, DIL-1000, Мощность 1000ВА/800Вт, Вход 12В и/или 220В, Выход 220В, (Чистая синусоида на выходе) Функция заряда батарей 20A, Чёрный"
   },
   {
@@ -130,7 +130,7 @@ export const ИЗ_12В_24В_48В_В_220В = [
     "price": 65917,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Инвертор, SVC, DIL-1200, Мощность 1200ВА/1000Вт, Вход 12В и/или 220В, Выход 220В, (Чистая синусоида на выходе), Функция заряда батарей 20A, Чёрный"
   },
   {
@@ -142,7 +142,7 @@ export const ИЗ_12В_24В_48В_В_220В = [
     "price": 48490,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Инвертор, SVC, DI-600-F-LCD, Мощность 600ВА/360Вт, Вход 12В и/или 220В, Выход 220В (Чистая синусоида на выходе), Диапазон работы AVR: 145-270В, Функция заряда батарей 10A, Чёрный"
   },
   {
@@ -154,7 +154,7 @@ export const ИЗ_12В_24В_48В_В_220В = [
     "price": 62045,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Инвертор, SVC, DI-800-F-LCD, Мощность 800ВА/640Вт, Вход 12В и/или 220В, Выход 220В (Чистая синусоида на выходе), Диапазон работы AVR: 145-270В, USB-порт, Функция заряда батарей 15A, Чёрный"
   },
   {
@@ -166,7 +166,7 @@ export const ИЗ_12В_24В_48В_В_220В = [
     "price": 65800,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Инвертор, SVC, DI-1000-F-LCD, Мощность 1000ВА/800Вт, Вход 12В и/или 220В, Выход 220В (Чистая синусоида на выходе), Диапазон работы AVR: 145-270В, Функция заряда батарей 20A, Чёрный"
   },
   {
@@ -178,7 +178,7 @@ export const ИЗ_12В_24В_48В_В_220В = [
     "price": 77119,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Инвертор, SVC, DI-1200-F-LCD, Мощность 1200ВА/1000Вт, Вход 12В и/или 220В, Выход 220В (Чистая синусоида на выходе), Диапазон работы AVR: 145-270В, USB-порт, Функция заряда батарей 20A, Чёрный"
   },
   {
@@ -190,7 +190,7 @@ export const ИЗ_12В_24В_48В_В_220В = [
     "price": 215403,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Инвертор, SVC, MP-2012, Мощность 2000ВА/2000Вт, Диапазон работы AVR: 100-290В (режим инвертора), 160-275В (режим ИБП), Вход 12В/220В, Выход 220В/230В, Чистая cинусоида, Зарядный ток 45 А, Время переключения режимов 4-6 мс, Кулер 9 см, Клеммное подключение, Чёрный"
   },
   {
@@ -202,7 +202,7 @@ export const ИЗ_12В_24В_48В_В_220В = [
     "price": 220755,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Инвертор, SVC, MP-3024, Мощность 3000ВА/3000Вт, Диапазон работы AVR: 100-290В (режим инвертора), 160-275В (режим ИБП), Вход 24В/220В, Выход 220В/230В, Чистая синусоида, Зарядный ток 45А(макс.), Время переключения режимов <10 мс Клеммное подключение, Чёрный"
   },
   {
@@ -214,7 +214,7 @@ export const ИЗ_12В_24В_48В_В_220В = [
     "price": 234034,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Инвертор, SVC, MP-4048, Мощность 4000ВА/4000Вт, Рабочее напряжение: 160-265B, Вход 48В/220В, Выходное напряжение 160-265В, Чистая синусоида, Зарядный ток 45 А, Время переключения режимов 4-6 мс, Кулер 9 см, Клеммное подключение, Чёрный"
   },
   {
@@ -226,7 +226,7 @@ export const ИЗ_12В_24В_48В_В_220В = [
     "price": 297991,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Инвертор, SVC, MP-6048, Мощность 6000ВА/6000Вт, Рабочее напряжение: 160-265B, Вход 48В/220В, Выходное напряжение 160-265В, Чистая синусоида, Зарядный ток 45 А, Время переключения режимов 4-6 мс, Кулер 9 см, Клеммное подключение, Чёрный"
   },
   {
@@ -238,7 +238,7 @@ export const ИЗ_12В_24В_48В_В_220В = [
     "price": 47534,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Автомобильная зарядное устройство, SVC, AC GB/T - 7кВт , Мощность: 7000Вт, Выходное напряжение: 400В, Максимальный ток: 32А, Тип разъема для зарядки: GB/T кабель, Длина кабеля: 3 м, LED- индикаторы, Защита от перегрева, перегрузки, короткого замыкания, Габариты Ш*В*Г: 75*200*190,50 (мм)"
   },
   {
@@ -250,7 +250,7 @@ export const ИЗ_12В_24В_48В_В_220В = [
     "price": 175345,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Автомобильная зарядная станция, SVC, AC GB/T - 11кВт , Мощность: 11кВт, Выходное напряжение: 400В, Максимальный ток: 16А, Тип разъема для зарядки: GB/T , Длина кабеля: 5 м, LED- индикаторы, Дисплей 4.3\" для контроля параметров в реальном времени, Защита от перегрева, перегрузки, короткого замыкания, Габариты Ш*В*Г: 270*400*190,51(мм), Настенное крепление/крепление на столбе"
   },
   {
@@ -262,7 +262,7 @@ export const ИЗ_12В_24В_48В_В_220В = [
     "price": 195818,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Автомобильная зарядная станция, SVC, AC GB/T - 22кВт, Мощность: 22000Вт, Выходное напряжение: 400В, Максимальный ток: 32А, Тип разъема для зарядки: GB/T кабель, Длина кабеля: 5 м, Дисплей 4.3\" для контроля параметров в реальном времени, Защита от перегрева, перегрузки, короткого замыкания, Габариты Ш*В*Г: 270*400*190,51(мм), Настенное крепление"
   },
   {
@@ -274,7 +274,7 @@ export const ИЗ_12В_24В_48В_В_220В = [
     "price": 342507,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Автомобильная зарядная станция, SVC, AC Type 2 - 22кВт, Мощность: 22000Вт, Выходное напряжение: 400В, Максимальный ток: 32А, Тип разъема для зарядки: Type 2 кабель, Длина кабеля: 5 м, LED- индикаторы, Защита от перегрева, перегрузки, короткого замыкания, Настенное крепление/крепление на столбе"
   },
   {
@@ -286,7 +286,7 @@ export const ИЗ_12В_24В_48В_В_220В = [
     "price": 4333994,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Автомобильная зарядная станция, SVC, DC GB/T - 80кВт, Мощность: 80 кВт, Вход: AC 323В-437В/Выход: DC 50В-1000В, Тип разъема для зарядки: GB/T кабель, Длина кабеля: 5 м, 8' сенсорный экран, Защита от перегрева, перегрузки, короткого замыкания, Напольное размещение, Комплект: станция - 1 шт., модули -2 шт."
   },
   {
@@ -298,7 +298,7 @@ export const ИЗ_12В_24В_48В_В_220В = [
     "price": 5368760,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Автомобильная зарядная станция, SVC, DC GB/T - 120кВт, Мощность: 120 кВт, Вход: AC 323В-437В/Выход: DC 50В-1000В, Тип разъема для зарядки: GB/T кабель, Длина кабеля: 5 м, 8' сенсорный экран, Защита от перегрева, перегрузки, короткого замыкания, Напольное размещение, Комплект: станция - 1 шт., модули -3 шт."
   },
   {
@@ -310,7 +310,7 @@ export const ИЗ_12В_24В_48В_В_220В = [
     "price": 8351866,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Автомобильная зарядная станция, SVC, DC GB/T - 160кВт, Мощность: 160 кВт, Вход: AC 323В-437В/Выход: DC 50В-1000В, Тип разъема для зарядки: GB/T кабель, Длина кабеля: 5 м, 8' сенсорный экран, Защита от перегрева, перегрузки, короткого замыкания, Напольное размещение, Комплект: станция - 1 шт., модули -4 шт."
   },
   {
@@ -322,7 +322,7 @@ export const ИЗ_12В_24В_48В_В_220В = [
     "price": 138148,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Напольная стойка, SVC, для автомобильной зарядной станции Type 2 - 7кВт"
   },
   {
@@ -334,7 +334,7 @@ export const ИЗ_12В_24В_48В_В_220В = [
     "price": 42727,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Напольная стойка, SVC, для автомобильной зарядной станции AC GB/T - 7кВт"
   },
   {
@@ -346,7 +346,8 @@ export const ИЗ_12В_24В_48В_В_220В = [
     "price": 65993,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Напольная стойка, SVC, для автомобильной зарядной станции AC Type 2 - 22кВт"
   }
 ];
+

@@ -10,7 +10,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 33756,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа маршрутизатор, Grandstream, GWN7062, 1x GbE WAN, 1x GbE WAN/LAN, 3x GbE LAN, 1 порт USB 3.0, 802.11a/b/g/n/ac/ax, AX1800"
   },
   {
@@ -22,7 +22,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 14550,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор с беспроводной точкой доступа, ASUS, RT-N12E, 2,4 ГГц, 300 Мбит/с, 2х внешние антенны (5dBi)"
   },
   {
@@ -34,7 +34,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 47782,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор с беспроводной точкой доступа, ASUS, RT-AX52, 2.4GHz/5GHz, 802.11a/b/g/n/ac/ax, AX1800, 1 порт 10/100/1000M WAN, 3 порта 10/100/1000M LAN"
   },
   {
@@ -46,7 +46,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 39770,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор с беспроводной точкой доступа, ASUS, RT-AX52 Pro, 2.4GHz/5GHz, 802.11a/b/g/n/ac/ax, AX3000, 1 порт 10/100/1000M WAN, 3 порта 10/100/1000M LAN"
   },
   {
@@ -58,7 +58,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 20966,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор с беспроводной точкой доступа, ASUS, RT-AC1200, 2.4/5 ГГц, 1200 Мбит/с, MIMO, 4x внешние антенны, 1х USB 2.0, 1xWAN порт 10/100M, 4xLAN порта 10/100M"
   },
   {
@@ -70,7 +70,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 49417,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой маршрутизатор со встроенной беспроводной точкой доступа, ASUS, RT-AX53U, 2.4G Hz/5 GHz, 802.11a/b/g/n/ac/ax, AX1800, 1 порт 10/100/1000M WAN, 3 порта 10/100/1000M LAN, 1 x USB"
   },
   {
@@ -82,7 +82,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 66218,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой маршрутизатор со встроенной беспроводной точкой доступа, ASUS, RT-AX59U, 802.11/n/ac/ax, AX4200, 1 порт 10/100/1000M WAN, 4 порта 10/100/1000M LAN"
   },
   {
@@ -94,7 +94,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 132540,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор с беспроводной точкой доступа, ASUS, RT-AX86U Pro, 802.11a/b/g/n/ac/ax, AX5700, 2.5G/1Gbps multi-Gig port (configurable), 1 порт 10/100/1000M WAN, 4 порта 10/100/1000M LAN, 2 x USB 3.2Gen1"
   },
   {
@@ -106,7 +106,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 65533,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой маршрутизатор со встроенной беспроводной точкой доступа, ASUS, RT-AX58U, 802.11a/b/g/n/ac/ax, AX3000, External antenna x4, MU-MIMO, OFDMA, Beamforming, 1x10/100/1000T WAN, 4x10/100/1000T LAN, USB 3.1 Gen 1 x 1"
   },
   {
@@ -118,7 +118,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 85360,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой маршрутизатор со встроенной беспроводной точкой доступа, ASUS, RT-BE58U"
   },
   {
@@ -130,7 +130,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 54805,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой маршрутизатор со встроенной беспроводной точкой доступа, ASUS, RT-BE50, Wi-Fi 7 (802.11be), один WAN-порт 2,5 Гбит\\с (WAN), три LAN-порта 1Гбит\\с"
   },
   {
@@ -142,7 +142,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 68870,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой маршрутизатор со встроенной беспроводной точкой доступа, ASUS, TUF-AX3000, 802.11a/b/g/n/ac/ax, AX3000, 1 порт 10/100/1000M WAN, 4 порта 10/100/1000M LAN, 1 x USB (3.2 Gen1)"
   },
   {
@@ -154,7 +154,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 96030,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой маршрутизатор со встроенной беспроводной точкой доступа, ASUS, TUF-BE3600, WiFi 7, 802.11be"
   },
   {
@@ -166,7 +166,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 43650,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой маршрутизатор со встроенной беспроводной точкой доступа, ASUS, RT-AX1800U, 802.11/n/ac/ax, AX1800, 1 порт 10/100/1000M WAN, 3 порта 10/100/1000M LAN, 1 порт USB3.2"
   },
   {
@@ -178,7 +178,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 86457,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой маршрутизатор со встроенной беспроводной точкой доступа, ASUS, RT-AX5400, 802.11/n/ac/ax, AX5400, 1 порт 10/100/1000M WAN, 4 порта 10/100/1000M LAN, 1 порт USB3.2"
   },
   {
@@ -190,7 +190,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 92684,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой маршрутизатор со встроенной беспроводной точкой доступа, ASUS, TUF-AX4200, 802.11/n/ac/ax, AX4200, 1 порт 2,5G WAN, 4 порта 10/100/1000M LAN, 1 порт USB3.2"
   },
   {
@@ -202,7 +202,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 102856,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой маршрутизатор со встроенной беспроводной точкой доступа, ASUS, RT-AX86S, 802.11a/b/g/n/ac/ax, AX5700, 1 порт 10/100/1000M WAN, 4 порта 10/100/1000M LAN, 2 x USB (3.2 Gen1+ USB2.0)"
   },
   {
@@ -214,7 +214,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 52829,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой маршрутизатор со встроенной беспроводной точкой доступа, ASUS, RT-AX57, 802.11/n/ac/ax, AX3000, 1 порт 10/100/1000M WAN, 4 порта 10/100/1000M LAN"
   },
   {
@@ -226,7 +226,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 105730,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой маршрутизатор со встроенной беспроводной точкой доступа, ASUS, TUF-AX6000, 802.11/n/ac/ax, AX6000, 1 порт 2,5G WAN, 4 порта 10/100/1000M LAN 1 порт 2,5G LAN, 1 порт USB3.2"
   },
   {
@@ -238,7 +238,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 118340,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой маршрутизатор со встроенной беспроводной точкой доступа, ASUS, TUF-BE6500, WiFi 7, 802.11be, BE6500, 1x2.5G-WAN, 3x2.5-LAN, 1xUSB 3.0"
   },
   {
@@ -250,7 +250,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 123095,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой маршрутизатор со встроенной беспроводной точкой доступа, ASUS, GS-AX5400, 802.11a/b/g/n/ac/ax, AX5400, 1 порт 10/100/1000M WAN, 4 порта 10/100/1000M LAN, 1 x USB (3.2 Gen1)"
   },
   {
@@ -262,7 +262,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 158591,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой маршрутизатор со встроенной беспроводной точкой доступа, ASUS, RT-AX88U PRO, 802.11ax, AX6000, 1 порт 2,5G WAN, 1 порт 2,5G LAN 4 порта 1000M LAN"
   },
   {
@@ -274,7 +274,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 135135,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой маршрутизатор со встроенной беспроводной точкой доступа, ASUS, GT-AX6000, 802.11a/b/g/n/ac/ax, Wi-Fi6 AX6000, External antenna x 4, 1GE Порт WAN, 4x1GE портов LAN, 1x2.5GE LAN, 1x2.5GE LAN/WAN,1xUSB3.2 Gen1, 1xUSB2.0"
   },
   {
@@ -286,7 +286,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 236680,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой маршрутизатор со встроенной беспроводной точкой доступа, ASUS, GT-AXE11000, 802.11ax, AX11000, 1 порт 10/100/1000M WAN , 4 портов 10/100/1000M LAN, 1 порт 25G WAN/LAN, 1 порт USB3.2"
   },
   {
@@ -298,7 +298,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 253144,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Трехдиапазонный игровой маршрутизатор , ASUS, GT-AX11000, до 11000 Мбит/с, Wi-Fi 6 (802.11ax), External antenna x 8, 1GE Порт WAN, 4x1GE портов LAN, Multi-Gig Ethernet port 2.5G/1G x1, USB 3.1 Gen1 x 2"
   },
   {
@@ -310,7 +310,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 349461,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой маршрутизатор со встроенной беспроводной точкой доступа, ASUS, GT-AXE16000, 802.11ax, AX16000, 1 порт 25G WAN, 4 портов 10/100/1000M LAN, 2 порта 10000М WAN/LAN , 1 порт USB3.2 1 порт USB2.0"
   },
   {
@@ -322,7 +322,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 13208,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, D-Link, DIR-615S/RU/B1A, до 300 Мбит/с, 1 Порт WAN 10/100BASE-TX,4 порта LAN 10/100BASE-TX"
   },
   {
@@ -334,7 +334,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 12125,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, D-Link, DIR-615/Z1A, 300М, 1 WAN порт 10/100М + 4 LAN порта 10/100М"
   },
   {
@@ -346,7 +346,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 15617,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, D-Link, DIR-620S/RU/B1A, 300М, 1 WAN порт + 4 LAN порта + порт USB 2.0, поддержка 3G/LTE, принт-сервер"
   },
   {
@@ -358,7 +358,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 21537,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, D-Link, DIR-815/SRU/S1A, 802.11a/b/g/n/ac AC1200М, 1WAN порт 10/100M, 4LAN порта 10/100M, порт USB 2.0"
   },
   {
@@ -370,7 +370,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 22795,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, D-Link, DIR-815/RU/R4A, 802.11a/b/g/n/ac AC1200М, 1WAN порт 10/100M, 4LAN порта 10/100M, порт USB 2.0"
   },
   {
@@ -382,7 +382,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 25608,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, D-Link, DIR-822/RU/E1A, 1200М, 1 WAN порт 10/100M + 4 LAN порта 10/100M"
   },
   {
@@ -394,7 +394,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 30555,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, D-Link, DIR-825/RU/R7A, 802.11a/b/g/n/ac, AC1200 Wave 2, AC1200 Wave 2, 4 порта LAN 10/100/1000BASE-T, Порт USB 2.0, EasyMesh 802.11k/v"
   },
   {
@@ -406,7 +406,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 25996,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, D-Link, DIR-841/RU/A1B, 802.11a/b/g/n/ac, AC1200, MU-MIMO, Beamforming, Порт WAN 10/100/1000BASE-T, 4 порта LAN 10/100BASE-TX"
   },
   {
@@ -418,7 +418,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 33368,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, D-Link, DIR-842/RU/R1B, 802.11a/b/g/n/ac, AC1200, MU-MIMO, Порт WAN 10/100/1000BASE-T, 4 порта LAN 10/100/100BASE-TX"
   },
   {
@@ -430,7 +430,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 29585,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, D-Link, DIR-842/RU/R7A, 802.11a/b/g/n/ac, AC1200, MU-MIMO, Порт WAN 10/100/1000BASE-T, 4 порта LAN 10/100/100BASE-TX"
   },
   {
@@ -442,7 +442,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 36844,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, D-Link, DIR-853/URU/R3A, 802.11a/b/g/n/ac, 1300М, 1 порт WAN 10/100/1000Мбит/с + 4 порта LAN 10/100/1000Мбит/с + 1 порт USB 3.0., 2 x 2 MU-MIMO"
   },
   {
@@ -454,7 +454,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 0,
     "stock": 50,
     "is_available": false,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": ""
   },
   {
@@ -466,7 +466,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 0,
     "stock": 50,
     "is_available": false,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": ""
   },
   {
@@ -478,7 +478,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 0,
     "stock": 50,
     "is_available": false,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": ""
   },
   {
@@ -490,7 +490,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 29585,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, D-Link, DIR-1260/RU/R1A, IEEE 802.11a/b/g/n/ac, AC1200, Порт WAN 10/100/1000BASE-T + 4 порта LAN 10/100/1000BASE-T+ порт USB 2.0 (поддержка 3G/LTE), 2 x 2, MU-MIMO"
   },
   {
@@ -502,7 +502,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 34435,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, D-Link, DIR-X1510/RU/R1A, 802.11a/b/g/n/ac/ax, AX1500, 1 Порт WAN 10/100/1000BASE-T, 4 порта LAN 10/100/1000BASE-T"
   },
   {
@@ -514,7 +514,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 40320,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, D-Link, DIR-X1530/RU/A1A, 802.11a/b/g/n/ac/ax, AX1500, 1 Порт WAN 10/100/1000BASE-T, 3 порта LAN 10/100/1000BASE-T"
   },
   {
@@ -526,7 +526,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 46715,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, D-Link, DIR-X1860/RU/R1A, 802.11a/b/g/n/ac/ax, AX1800, 1 Порт WAN 10/100/1000BASE-T, 3 порта LAN 10/100/1000BASE-T"
   },
   {
@@ -538,7 +538,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 13570,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Xiaomi, Router AC1200 (RB02), WI-FI5, 802.11 a/b/g/n/ac, 4 внешних антенны 22 MIMO 2.4GHz, 22 MIMO 5GHz, 1 WAN 10/100/1000, 2 LAN 10/100/1000"
   },
   {
@@ -550,7 +550,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 18420,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Xiaomi, Router AX1500 RU, WI-FI6, 802.11 a/b/g/n/ac, 4  10/100/1000 Мбит/с самоадаптивный порт WAN/LAN, 4 внешних антенны 2(22) MIMO 2.4GHz, 5GHz"
   },
   {
@@ -562,7 +562,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 7265,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Xiaomi, Mi Router 4A (White) RU, Global version, 802.11a/b/g/n/ac, 2 х 10/100TX LAN, 1 х 10/100TX WAN порт,АС300М, Белый"
   },
   {
@@ -574,7 +574,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 6683,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор Wi-Fi точка доступа,Xiaomi, Mi Router 4C, 802.11 b/g/n, WAN 1x10/100 Мбит/с, LAN 2x10/100 Мбит/с, АС300М, Белый"
   },
   {
@@ -586,7 +586,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 30060,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, TL-WR1502X, AX1500, 1хWAN, 1хLAN, 1xUSB, Портативный гигабитный маршрутизатор, скорость до 1500 Мбит/с"
   },
   {
@@ -598,7 +598,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 39760,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Tp-Link, TL-WR3002X, 802.11a/b/g/n/ac/ax, AX3000 , 2,4 ГГц/5 ГГц, 1  WAN-порт 2.5 Гбит/с\r\n1  LAN-порт1 Гбит/с, 1 порт USB 3.0."
   },
   {
@@ -610,7 +610,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 10272,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, TL-WR820N, 300 Мбит/с, 1 порт WAN 10/100 Мбит/с, 2 порта LAN 10/100 Мбит/с"
   },
   {
@@ -622,7 +622,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 11533,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, TL-WR844N, Беспроводной маршрутизатор серии N, 300М, 1 WAN порт 10/100М + 4 LAN порта 10/100М"
   },
   {
@@ -634,7 +634,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 13085,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, TL-WR840N, 300М, 1 WAN порт 10/100М + 4 LAN порта 10/100М"
   },
   {
@@ -646,7 +646,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 13764,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, TL-WR841N, 300 Мбит/сб ,1 порт WAN 10/100 Мбит/с,4 порта LAN 10/100 Мбит/с"
   },
   {
@@ -658,7 +658,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 14055,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, TL-WR845N, Беспроводной маршрутизатор серии N, 300М, 1 WAN порт 10/100М + 4 LAN порта 10/100М"
   },
   {
@@ -670,7 +670,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 15995,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, TL-WR842N, 300 Мбит/с, 4 порта LAN 10/100 Мбит/с, 1 порт WAN 10/100 Мбит/с, 1 порт USB 2.0"
   },
   {
@@ -682,7 +682,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 12794,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, TL-WR850N, Беспроводной маршрутизатор серии N, 300М, 1 WAN порт 10/100М + 4 LAN порта 10/100М"
   },
   {
@@ -694,7 +694,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 19875,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer C24, 5 ГГц: 433 Мбит/с (802.11ac), 2.4 ГГц: 300 Мбит/с (802.11n), AC750, 1 WAN порт 10/100М + 4 LAN порта 10/100М"
   },
   {
@@ -706,7 +706,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 19099,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer C54, 802.11a/b/g/n/ac, AC1200М, 22 MU-MIMO, 1 WAN порт 10/100М + 4 LAN порта 10/100М"
   },
   {
@@ -718,7 +718,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 21136,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer C20, 802.11a/b/g/n/AC. 2.4Ггц/5Ггц AC750, 1 WAN порт 10/100М + 4 LAN порта 10/100М"
   },
   {
@@ -730,7 +730,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 22785,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer C50, 1200М, 1 WAN порт 10/100М + 4 LAN порта 10/100М"
   },
   {
@@ -742,7 +742,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 22785,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer A5, до 1,2 Гбит/с, 1 порт WAN 10/100 Мбит/с, 4 порта LAN 10/100 Мбит/с"
   },
   {
@@ -754,7 +754,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 28314,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer A64, 802.11a/b/g/n/ac Wave 2, AC1300, MU-MIMO, Beamforming, 4 фиксированные антенны, 1xWAN 10/100/1000T, 4xLAN 10/100/1000T"
   },
   {
@@ -766,7 +766,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 29090,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer C64, 802.11a/b/g/n/ac, AC1300, 22 MU-MIMO, 1 WAN порт 10/100/1000М + 4 LAN порта 10/100/1000М, 4 фиксированные антенны"
   },
   {
@@ -778,7 +778,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 31030,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer A6, до 1,2 Гбит/с, до 867 Мбит/с на 5 ГГц, до 450 Мбит/с на 2,4 ГГц,1 гигабитный порт WAN, 4 гигабитных порта LAN"
   },
   {
@@ -790,7 +790,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 31030,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer C6, до 1,3 Гбит/с, до 867 Мбит/с на 5 ГГц ,до 300 Мбит/с на 2,4 ГГц, 1 гигабитный порт WAN, 4 гигабитных порта LAN"
   },
   {
@@ -802,7 +802,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 34910,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer C6U, Wi-Fi 5, 802.11ac/n/a 5 ГГц, 802.11n/b/g 2,4 ГГц, 5 ГГц: 867 Мбит/с (802.11ac) 2,4 ГГц: 300 Мбит/с (802.11n), 4 фиксированные высокопроизводительные антенны + 1 встроенная, MU-MIMO, 1 GE порт WAN, 4 GE порта LAN, 1 порт USB 2.0 с возможностью подключения USB-модемов 3G/4G"
   },
   {
@@ -814,7 +814,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 33940,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer C80, до 1300 Мбит/с на диапазоне 5 ГГц,, до 600 Мбит/с на 2,4 ГГц.,1 гигабитный порт WAN,, 4 гигабитных порта LAN"
   },
   {
@@ -826,7 +826,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 34910,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer C86, 802.11a/b/g/n/ac. AC1900, 1 порт 10/100/1000M WAN, 4 порта 10/100/1000M LAN"
   },
   {
@@ -838,7 +838,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 59160,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Tp-Link, Archer GE230, 802.11a/b/g/n/ac/ax/be, BE3600 , 2,4 ГГц/5 ГГц, 1 2.5 Gbps WAN,\r\n1 2.5 Gbps LAN,\r\n3 1 Gbps LAN, 1 USB 3.0."
   },
   {
@@ -850,7 +850,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 161010,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer GE550, 802.11be, WAN 5 Гбит/с, 4 порта LAN 2,5/5 Гбит/с"
   },
   {
@@ -862,7 +862,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 318150,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Tp-Link, Archer GE800, 802.11a/b/g/n/ac/ax/be, BE19000, 2,4 ГГц/5 ГГц/6 ГГц, 1  порт WAN/LAN 10 Гбит/с,\r\n1  комбинированный порт WAN/LAN SFP+/RJ45 10 Гбит/с,\r\n4  порта LAN 2,5 Гбит/с, 1  порт USB 3.0."
   },
   {
@@ -874,7 +874,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 34910,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer A8, IEEE 802.11a/b/g/n/ac, 2,4 ГГц, 5 ГГц, 33 MU-MIMO, 1 гигабитный порт WAN, 4 гигабитных порта LAN, АС1900"
   },
   {
@@ -886,7 +886,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 40730,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer AX10, Wi-Fi-6 до 1,5 Гбит/с — до 1201 Мбит/с на частоте 5 ГГц, до 300 Мбит/с на частоте 2,4 ГГц, 802.11a/b/g/n/ac/ax, 4 фиксированные антенны MU-MIMO, OFDMA, 1 гигабитный порт WAN, 4 гигабитных порта LAN"
   },
   {
@@ -898,7 +898,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 30545,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer AX1500, 1 гигабитный порт WAN, 4 гигабитных порта LAN"
   },
   {
@@ -910,7 +910,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 33940,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer AX12, 802.11a/b/g/n/ac/ax, AX1500, 1x10/100/1000 WAN, 3x10/100/1000 LAN"
   },
   {
@@ -922,7 +922,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 32000,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer AX17, 802.11a/b/g/n/ac/ax, AX1500"
   },
   {
@@ -934,7 +934,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 29090,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer AX18, 802.11a/b/g/n/ac/ax, AX1500"
   },
   {
@@ -946,7 +946,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 40730,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer AX23, 802.11a/b/g/n/ac/ax, AX1800, 4 фиксированные антенны MU-MIMO, OFDMA, 1 гигабитный порт WAN, 4 гигабитных порта LAN"
   },
   {
@@ -958,7 +958,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 47520,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer AX20, Wi-Fi-6 до 1,8 Гбит/с — до 1201 Мбит/с на частоте 5 ГГц, до 574 Мбит/с на частоте 2,4 ГГц, 802.11a/b/g/n/ac/ax, 4 фиксированные антенны MU-MIMO, OFDMA, 1 гигабитный порт WAN, 4 гигабитных порта LAN"
   },
   {
@@ -970,7 +970,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 42670,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-LINK, Archer AX3000, Wi-Fi 6, 802.11ax/ac/n/a 5 ГГц, 802.11ax/n/b/g 2,4 ГГц, 44 MU-MIMO. 1 порт WAN 2,5 Гбит/с. 8 гигабитных портов LAN"
   },
   {
@@ -982,7 +982,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 50430,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer AX53, 802.11a/b/g/n/ac/ax, AX3000, MU-MIMO, Beamforming, 4 фиксированные антенны, 1xWAN 10/100/1000T, 4xLAN 10/100/1000T"
   },
   {
@@ -994,7 +994,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 55280,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer AX55, 802.11a/b/g/n/ac/ax, AX3000, 1  порт WAN 10/100/1000 Мбит/с, 4  порта LAN 10/100/1000 Мбит/с"
   },
   {
@@ -1006,7 +1006,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 57220,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer AX55 Pro, 802.11a/b/g/n/ac/ax, AX3000, 1  порт WAN 10/100/1000 Мбит/с, 4  порта LAN 10/100/1000 Мбит/с"
   },
   {
@@ -1018,7 +1018,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 52370,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer AX58, 802.11a/b/g/n/ac/ax, AX3000, 1  порт WAN 10/100/1000 Мбит/с, 4  порта LAN 10/100/1000 Мбит/с"
   },
   {
@@ -1030,7 +1030,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 69830,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer Air R5, IEEE 802.11a/b/g/n/ac/ax, AX3000, Гигабитный порт WAN, Гигабитный порт LAN"
   },
   {
@@ -1042,7 +1042,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 171680,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer Air R5(3-pack), AX3000, Гигабитный порт WAN, Гигабитный порт LAN"
   },
   {
@@ -1054,7 +1054,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 74680,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer AX72, IEEE 802.11a/b/g/n/ac/ax, 5 ГГц, 2,4 ГГц, 6 антенн, 44 MU-MIMO, OFDMA, Wi-Fi 6, 1 порт WAN/LAN 2,5 Гбит/с, 1 гигабитный порт WAN/LAN, 4 гигабитных порта LAN, 1 порт USB 3.0, AX5400"
   },
   {
@@ -1066,7 +1066,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 85350,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer AX73, IEEE 802.11a/b/g/n/ac/ax, 5 ГГц, 2,4 ГГц, 6 антенн, 44 MU-MIMO, OFDMA, Wi-Fi 6, 1 порт WAN/LAN 2,5 Гбит/с, 1 гигабитный порт WAN/LAN, 4 гигабитных порта LAN, 1 порт USB 3.0, АХ5400"
   },
   {
@@ -1078,7 +1078,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 87290,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Tp-Link, Archer GXE75, 802.11a/b/g/n/ac/ax, AXE5400 , 2,4 ГГц/5 ГГц/6 ГГц, 1  порт WAN/LAN 2.5 Гбит/с, 1  порт WAN/LAN 10/100/1000 Мбит/с,\r\n3  порта LAN 10/100/1000 Мбит/с, 1  порт USB 3.0."
   },
   {
@@ -1090,7 +1090,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 105720,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer AX80, IEEE 802.11a/b/g/n/ac/ax, AX6000, порт WAN/LAN 2,5 Гбит/с, гигабитный порт WAN/LAN, три гигабитных порта LAN и порт USB 3.0"
   },
   {
@@ -1102,7 +1102,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 143550,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer AX90, IEEE 802.11a/b/g/n/ac/ax, 5 ГГц, 2,4 ГГц, 8 съёмных антенн, 44 MU-MIMO, Wi-Fi 6, 1 порт WAN/LAN 2,5 Гбит/с, 1 гигабитный порт WAN/LAN, 3 гигабитных порта LAN, АХ6600"
   },
   {
@@ -1114,7 +1114,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 164890,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer AX95, 802.11a/b/g/n/ac/ax, AX7800, 5 ГГц, 2,4 ГГц, 1 порт WAN/LAN 2,5 Гбит/с, 1 порт WAN/LAN 10/100/1000 Мбит/с, 3 порта LAN 10/100/1000 Мбит/с"
   },
   {
@@ -1126,7 +1126,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 48490,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer BE220, 802.11be, BE3600, WAN 2,5 Гбит/с, 4 порта LAN 2,5 Гбит/с"
   },
   {
@@ -1138,7 +1138,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 53340,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer BE230, 802.11be, BE3600, WAN 2,5 Гбит/с, порту LAN 2,5 Гбит/с и трём гигабитным портам LAN"
   },
   {
@@ -1150,7 +1150,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 64980,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer AX5400, 802.11a/b/g/n/ac/ax, AX5400, 1  порт WAN 10/100/1000 Мбит/с, 4  порта LAN 10/100/1000 Мбит/с"
   },
   {
@@ -1162,7 +1162,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 160040,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-LINK, Archer AX6000, Wi-Fi 6, 802.11ax/ac/n/a 5 ГГц, 802.11ax/n/b/g 2,4 ГГц, 44 MU-MIMO. 1 порт WAN 2,5 Гбит/с. 8 гигабитных портов LAN"
   },
   {
@@ -1174,7 +1174,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 96020,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Tp-Link, Archer BE400, 802.11a/b/g/n/ac/ax/be, BE6500 , 2,4 ГГц/5 ГГц, 1  порт WAN/LAN 2,5 Гбит/с, \r\n1  порт LAN 2,5 Гбит/с, \r\n3  порта LAN 10/100/1000 Мбит/с, 1  порт USB 3.0."
   },
   {
@@ -1186,7 +1186,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 98930,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Tp-Link, Archer BE450, 802.11a/b/g/n/ac/ax/be, BE7200, 2,4 ГГц/5 ГГц, 1  порт WAN/LAN 10 Гбит/с, 1  порт WAN/LAN 2,5 Гбит/с, 3  порта LAN 1 Гбит/с, 1  порт USB 3.0."
   },
   {
@@ -1198,7 +1198,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 139670,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer BE550, 802.11be, BE9300, WAN 2,5 Гбит/с, 4 порта LAN 2,5 Гбит/с"
   },
   {
@@ -1210,7 +1210,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 159070,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Tp-Link, Archer BE700, 802.11a/b/g/n/ac/ax/be, BE15000, 2,4 ГГц/5 ГГц/6 ГГц, 1  порт WAN/LAN 10 Гбит/с, 1  порт WAN/LAN 2,5 Гбит/с, 3  порта LAN 1 Гбит/с, 1  порт USB 3.0."
   },
   {
@@ -1222,7 +1222,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 309420,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer BE800, 802.11be, WAN 2,5 Гбит/с, 4 порта LAN 2,5 Гбит/с"
   },
   {
@@ -1234,7 +1234,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 427760,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Tp-Link, Archer BE900, 802.11a/b/g/n/ac/ax/be, BE24000, 2,4 ГГц/5 ГГц/6 ГГц, 1  порт WAN/LAN 10 Гбит/с, 1 10 Gbps SFP+/RJ45 WAN/LAN Internet Port, 4 2.5 Gbps LAN, 1 1 Gbps LAN, 1 USB 3.0, 1 USB 2.0."
   },
   {
@@ -1246,7 +1246,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 45590,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, EX511, Wi-Fi-6, 802.11a/b/g/n/ac/ax, AX3000 4 фиксированные антенны MU-MIMO, OFDMA, 1 гигабитный порт WAN, 4 гигабитных порта LAN"
   },
   {
@@ -1258,7 +1258,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 8138,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Mercusys, MW301R, N300, 300 мбит/с, 2 порта LAN 10/100 Мбит/с, 1 порт WAN 10/100 Мбит/с"
   },
   {
@@ -1270,7 +1270,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 8914,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор,Mercusys, MW305R, N300, 300 мбит/с, 3 порта LAN 10/100 Мбит/с, 1 порт WAN 10/100 Мбит/с"
   },
   {
@@ -1282,7 +1282,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 10272,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Mercusys, MW325R, 300 Мбит/с, 3 порта LAN 10/100 Мбит/с, 1 порт WAN 10/100 Мбит/с,"
   },
   {
@@ -1294,7 +1294,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 12212,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизаор, Mercusys, MW330HP, N300 Турбо Wi-Fi, до 300 Мбит/с, 3 порта LAN 10/100 Мбит/с, 1 порт WAN 10/100 Мбит/с"
   },
   {
@@ -1306,7 +1306,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 12309,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Mercusys, MR20, 802.11a/b/g/n/ac, AC750, 1 порт WAN 10/100 Мбит/с, 2 порта LAN 10/100 Мбит/с"
   },
   {
@@ -1318,7 +1318,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 13958,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Mercusys, AC10, до 1200Мбит/с, 1 порт WAN 10/100 Мбит/с, 2 порта LAN 10/100 Мбит/с"
   },
   {
@@ -1330,7 +1330,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 58190,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Mercusys, MR90X, 802.11a/b/g/n/ac/ax, AX6000, порт 2,5 Гбит/с, 2,4 ГГц/5 ГГц"
   },
   {
@@ -1342,7 +1342,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 15704,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Mercusys, AC12, 1200 мбит/с, 3 порта LAN 10/100 Мбит/с, 1 порт WAN 10/100 Мбит/с"
   },
   {
@@ -1354,7 +1354,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 19390,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Mercusys, MR30G, 802.11a/b/g/n/ac, AC1200, 1 гигабитный порт WAN, 2 гигабитных порта LAN"
   },
   {
@@ -1366,7 +1366,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 21330,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Mercusys, AC12G, AC1200, 1200 Мбит/с, 1 порт WAN 10/100/1000 мбит/с , 3 порт LAN 10/100/1000 мбит/с"
   },
   {
@@ -1378,7 +1378,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 22300,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Mercusys, MR60X, 802.11a/b/g/n/ac/ax, AX1500, 1 гигабитный порт WAN + 2 гигабитных порта LAN"
   },
   {
@@ -1390,7 +1390,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 29090,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Mercusys, MR50G, 802.11a/b/g/n/ac, AC1900, 600 Мбит/с на 2,4 ГГц, 1300 Мбит/с на 5 ГГц, 1 гигабитный порт WAN, 2 гигабитных порта LAN"
   },
   {
@@ -1402,7 +1402,7 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 30060,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Mercusys, MR70X, 802.11a/b/g/n/ac/ax, AX1800, 1 гигабитный порт WAN + 3 гигабитных порта LAN, 4 фиксированные антенны 5 дБи"
   },
   {
@@ -1414,7 +1414,8 @@ export const SOHO_MARSHRUTIZATORY = [
     "price": 31030,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Mercusys, MR80X, 802.11a/b/g/n/ac/ax, AX3000, 1 гигабитный порт WAN + 3 гигабитных порта LAN, 4 фиксированные антенны 5 дБи"
   }
 ];
+

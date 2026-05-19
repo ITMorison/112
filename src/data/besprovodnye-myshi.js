@@ -10,7 +10,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 1164,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, XG, XM-550OGB, Оптическая, 800-1200-1600DPI , 2*AAA, Беспроводная, RGB, Чёрный"
   },
   {
@@ -22,7 +22,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 1455,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, XG, XM-221OGB, Оптическая, 800-1200-1600DPI , 2*AAA, Беспроводная, Чёрный"
   },
   {
@@ -34,7 +34,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 1736,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, XG, XM-775OGB, Оптическая, 3D, 1000dpi, Беспроводная, Чёрный"
   },
   {
@@ -46,7 +46,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 2803,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Delux, DLM-136OGB, 3D, Оптическая, 1200dpi, Беспроводная 2.4ГГц, Нано-ресивер, Эффективная дистанция 10 м., Размер: 103*55.3*38.1мм., Чёрный"
   },
   {
@@ -58,7 +58,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 2716,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Delux, DLM-321OGB, Оптическая, 800/1000/1600 dpi,Беспроводная 2.4ГГц, Нано-ресивер, Эффективная дистанция 10 м., Чёрно-зелёный"
   },
   {
@@ -70,7 +70,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 2609,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Delux, DLM-107OGB, 3D, Оптическая, 1000dpi, Беcпроводная 2.4ГГц, Нано-ресивер, Эффективная дистанция 10 м., Размер: 103,6*58,1*38,1 мм., Чёрный"
   },
   {
@@ -82,7 +82,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 3870,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Delux, DLM-137OGB, 3D, Оптическая, 1000dpi, Беcпроводная 2.4ГГц, Нано-ресивер, Эффективная дистанция 10 м., Размер: 102,5*61,1*40,85 мм., Чёрный"
   },
   {
@@ -94,7 +94,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 3201,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Delux, DLM-391OGB, 3D, Оптическая, 1000dpi, Беспроводная 2.4ГГц, Нано-ресивер, Эффективная дистанция 10 м., Размер: 111,60*61*95*39 мм., Чёрный"
   },
   {
@@ -106,7 +106,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 3482,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Delux, DLM-516OGB, 3D, Оптическая, 1600 dpi, Радиус действия 10 м, 2.4 Гц, Чёрный"
   },
   {
@@ -118,7 +118,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 20554,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Delux, M618XSD, 2.4 G, Bluetooth 5.0, 800/1200/1600/2400/4000 dpi, Батарея 1000 Mah, Type-C, Черный"
   },
   {
@@ -130,7 +130,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 3633,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Genius, NX-7005, 3D, Оптическая, 1200dpi, Беcпроводная 2.4ГГц, 1 x AA, Черный"
   },
   {
@@ -142,7 +142,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 3633,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Genius, NX-7005, 3D, Оптическая, 1200dpi, Беcпроводная 2.4ГГц, 1 x AA, Голубой"
   },
   {
@@ -154,7 +154,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 3633,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Genius, NX-7005, 3D, Оптическая, 1200dpi, Беcпроводная 2.4ГГц, 1 x AA, Белый"
   },
   {
@@ -166,7 +166,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 3633,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Genius, NX-7005, 3D, Оптическая, 1200dpi, Беcпроводная 2.4ГГц, 1 x AA, Красный"
   },
   {
@@ -178,7 +178,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 4152,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Genius, NX-7000, 3D, Оптическая, 1200dpi, Беcпроводная 2.4ГГц, 58x39x100 мм, Черный"
   },
   {
@@ -190,7 +190,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 3633,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Genius, NX-7000, 3D, Оптическая, 1200dpi, Беcпроводная 2.4ГГц, Белый"
   },
   {
@@ -202,7 +202,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 3633,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Genius, NX-7000, 3D, Оптическая, 1200dpi, Беcпроводная 2.4ГГц, Голубой"
   },
   {
@@ -214,7 +214,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 3633,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Genius, NX-7000, 3D, Оптическая, 1200dpi, Беcпроводная 2.4ГГц, Красный"
   },
   {
@@ -226,7 +226,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 4567,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Genius, NX-8006S, 3D, Оптическая, 1600dpi, Беcпроводная 2.4ГГц, 1 x AA, Черно - Красный"
   },
   {
@@ -238,7 +238,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 5044,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Genius, NX-8006S, 3D, Оптическая, 1600dpi, Беcпроводная 2.4ГГц, 1x AA, Черный"
   },
   {
@@ -250,7 +250,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 4840,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Genius, NX-7010, 3D, Оптическая, 1600dpi, Беcпроводная 2.4ГГц, Бело-Красный"
   },
   {
@@ -262,7 +262,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 4671,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Genius, NX-7010, 3D, Оптическая, 1600dpi, Беcпроводная 2.4ГГц, Бело-Голубой"
   },
   {
@@ -274,7 +274,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 4671,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Genius, NX-7015, 3D, Оптическая, 1600dpi, Беcпроводная 2.4ГГц, Розово Коричневый"
   },
   {
@@ -286,7 +286,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 5917,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Genius, NX-7015, 3D, Оптическая, 1600dpi, Беcпроводная 2.4ГГц, Серебристый"
   },
   {
@@ -298,7 +298,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 5626,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Genius, NX-7015, 3D, Оптическая, 1600dpi, Беcпроводная 2.4ГГц, Золотой"
   },
   {
@@ -310,7 +310,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 5086,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Genius, NX-7015, 3D, Оптическая, 1600dpi, Беcпроводная 2.4ГГц, Темно Серый"
   },
   {
@@ -322,7 +322,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 4671,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Genius, NX-7015, 3D, Оптическая, 1600dpi, Беcпроводная 2.4ГГц, Шоколадный"
   },
   {
@@ -334,7 +334,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 5917,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Genius, Ergo 8100S, 3D, Оптическая, 1600dpi, Беcпроводная 2.4ГГц, Батарейка АА*1, Радиус действия до 10 м, Серый"
   },
   {
@@ -346,7 +346,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 7275,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Genius, ECO-8100, 3D, Оптическая, 1600dpi, Беcпроводная 2.4ГГц, Встроенный аккумулятор, Чёрный"
   },
   {
@@ -358,7 +358,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 7566,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Genius, ECO-8015, 3D, Оптическая, 1600dpi, Беcпроводная 2.4ГГц, 1 x AA, 5.8 х 3.8 х 10 см, Темно серый"
   },
   {
@@ -370,7 +370,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 6984,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Genius, ECO-8015, 3D, Оптическая, 800dpi, Беcпроводная 2.4ГГц, Серый"
   },
   {
@@ -382,7 +382,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 7473,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Genius, Ergo 8300S, 3D, Оптическая, 1600dpi, Беcпроводная 2.4ГГц, Встроенный аккумулятор, Серый"
   },
   {
@@ -394,7 +394,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 7473,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Genius, Ergo 8300S, 3D, Оптическая, 1600dpi, Беcпроводная 2.4ГГц, Встроенный аккумулятор, Черный"
   },
   {
@@ -406,7 +406,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 3062,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Rapoo, B20, 3D, Оптическая, 1000dpi, Беспроводной 2.4 ГГц, Нано-ресивер, Эффективная дистанция 10 м., Батарейки в комплекте, До 9 месяцев работы на одном заряде, Чёрный"
   },
   {
@@ -418,7 +418,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 3529,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Rapoo, 1620, 3D, Оптическая, 1000dpi, Беспроводной 2.4 ГГц, Нано-ресивер, Эффективная дистанция 10 м., Батарейки в комплекте, До 9 месяцев работы на одном заряде, Чёрный"
   },
   {
@@ -430,7 +430,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 3579,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Rapoo, M50 Plus Silent, 3D, Оптическая, 1000dpi, Беспроводной 2.4 ГГц, Нано-ресивер, Эффективная дистанция 10 м., Батарейки в комплекте, До 9 месяцев работы на одном заряде, Чёрный"
   },
   {
@@ -442,7 +442,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 3773,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Rapoo, M-10 Plus, 3D, Оптическая, 1000dpi, Беспроводной 2.4 ГГц, Нано-ресивер, Эффективная дистанция 10 м., Батарейки в комплекте, Белый"
   },
   {
@@ -454,7 +454,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 3676,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Rapoo, M-10 Plus, 3D, Оптическая, 1000dpi, Беспроводной 2.4 ГГц, Нано-ресивер, Эффективная дистанция 10 м., Батарейки в комплекте, Размер: 106,2*59,4*42,8 мм., Чёрный"
   },
   {
@@ -466,7 +466,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 5905,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Rapoo, M500 Silent, 3D, Оптическая, 1000dpi, Беспроводной 2.4 ГГц, Нано-ресивер, Эффективная дистанция 10 м., Батарейки в комплекте, Черный"
   },
   {
@@ -478,7 +478,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 4840,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Мышь, Xiaomi, Wireless Mouse Lite 2 White GL, XMWXSB02YM/BHR8915GL, Совместима с Windows 7, macOS 10.13 и более поздние версии, Размер устройства 108,5 x 57,5 x 35,6 мм, Рабочая температура От 0°C до 40°C, Беспроводное соединение 2,4 ГГц, Номинальный вход 1,5 В50 мА, Вес около 45 гр, Белый"
   },
   {
@@ -490,7 +490,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 4840,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Мышь, Xiaomi, Wireless Mouse Lite 2 Black GL, XMWXSB02YM/BHR8916GL, Совместима с Windows 7, macOS 10.13 и более поздние версии, Размер устройства 108,5 x 57,5 x 35,6 мм, Рабочая температура От 0°C до 40°C, Беспроводное соединение 2,4 ГГц, Номинальный вход 1,5 В50 мА, Вес около 45 гр, Черный"
   },
   {
@@ -502,7 +502,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 6780,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Мышь, Xiaomi, Wireless Mouse Comfort Edition White, XMWXSB04YM/BHR9354GL, Размер 111.2 x 74.5 x 40.6 мм, 2.4GHz беспроводное соединение, Входящие параметры 1.5V 50mA, Нетто 62 гр (без батареи), Windows 10, macOS 10.13 и более младшие версии, Белый"
   },
   {
@@ -514,7 +514,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 6780,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Мышь, Xiaomi, Wireless Mouse Comfort Edition Black, XMWXSB04YM/BHR9359GL, Размер 111.2 x 74.5 x 40.6 мм, 1200 dpi, 2.4GHz беспроводное соединение, Входящие параметры 1.5V 50mA, Нетто 62 гр (без батареи), Windows 10, macOS 10.13 и более младшие версии, Черный"
   },
   {
@@ -526,7 +526,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 6780,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Мышь, Xiaomi, Dual-mode Wireless Mouse 2 White, BHR8849GL/XMSMSB01YM, Совместимо с Windows 7, macOS 10.13 и более новые версии, Размер 111 x 64 x 40 мм, Bluetooth Low Energy and 2.4GHz wireless connection, 1.5V50mA, Вес мыши около 62гр., Белый"
   },
   {
@@ -538,7 +538,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 6780,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Мышь, Xiaomi, Dual-mode Wireless Mouse 2 Black, BHR8850GL/XMSMSB01YM, Совместимо с Windows 7, macOS 10.13 и более новые версии, Размер 111 x 64 x 40 мм, Bluetooth Low Energy and 2.4GHz wireless connection, 1.5V50mA, Вес мыши около 62гр., Черный"
   },
   {
@@ -550,7 +550,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 7750,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Мышь, Xiaomi, Wireless Mouse 3 Blue GL, XMWXSB03YM/BHR8914GL, Совместима с: Windows 10, macOS 10.13 и более поздние версии, Номинальный вход 1,5 В50 мА, Беспроводное соединение 2,4 ГГц, Bluetooth, 119 x 64 x 41 мм, Вес нетто продукта: 57г (без аккумулятора), Рабочая температура: От 0°C до 40°C, Голубой"
   },
   {
@@ -562,7 +562,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 7750,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Мышь, Xiaomi, Wireless Mouse 3 White GL, XMWXSB03YM/BHR8912GL, Совместима с: Windows 10, macOS 10.13 и более поздние версии, Номинальный вход 1,5 В50 мА, Беспроводное соединение 2,4 ГГц, Bluetooth, 119 x 64 x 41 мм, Вес нетто продукта: 57г (без аккумулятора), Рабочая температура: От 0°C до 40°C, Совместима с: Windows 10, macOS 10.13 и более поздние версии, Номинальный вход 1,5 В50 мА, Беспроводное соединение 2,4 ГГц, Bluetooth, 119 x 64 x 41 мм, Вес нетто продукта: 57г (без аккумулятора), Рабочая температура: От 0°C до 40°C, Белый"
   },
   {
@@ -574,7 +574,7 @@ export const BESPROVODNYE_MYSHI = [
     "price": 7750,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Мышь, Xiaomi, Wireless Mouse 3 Black GL, XMWXSB03YM/BHR8913GL, Совместима с: Windows 10, macOS 10.13 и более поздние версии, Номинальный вход 1,5 В50 мА, Беспроводное соединение 2,4 ГГц, Bluetooth, 119 x 64 x 41 мм, Вес нетто продукта: 57г (без аккумулятора), Рабочая температура: От 0°C до 40°C, Совместима с: Windows 10, macOS 10.13 и более поздние версии, Номинальный вход 1,5 В50 мА, Беспроводное соединение 2,4 ГГц, Bluetooth, 119 x 64 x 41 мм, Вес нетто продукта: 57г (без аккумулятора), Рабочая температура: От 0°C до 40°C, Черный"
   },
   {
@@ -586,7 +586,8 @@ export const BESPROVODNYE_MYSHI = [
     "price": 7750,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Мышь, Xiaomi, Wireless Mouse 3 Pink GL, XMWXSB03YM/BHR8911GL, Совместима с: Windows 10, macOS 10.13 и более поздние версии, Номинальный вход 1,5 В50 мА, Беспроводное соединение 2,4 ГГц, Bluetooth, 119 x 64 x 41 мм, Вес нетто продукта: 57г (без аккумулятора), Рабочая температура: От 0°C до 40°C, Совместима с: Windows 10, macOS 10.13 и более поздние версии, Номинальный вход 1,5 В50 мА, Беспроводное соединение 2,4 ГГц, Bluetooth, 119 x 64 x 41 мм, Вес нетто продукта: 57г (без аккумулятора), Рабочая температура: От 0°C до 40°C, Розовый"
   }
 ];
+

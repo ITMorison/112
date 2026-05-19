@@ -16,3 +16,4 @@ export const FIBER_ACCESSORIES = [
     "image": "https://market-telecom.kz/files/products/61357_1.170x220.jpg"
   }
 ];
+

@@ -10,7 +10,7 @@ export const PROVODNYE_KLAVIATURY = [
     "price": 1930,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, XG, XK-100UB, Ультратонкая, USB, Кол-во стандартных клавиш 104, Анг/Рус/Каз, Чёрный"
   },
   {
@@ -22,7 +22,7 @@ export const PROVODNYE_KLAVIATURY = [
     "price": 2522,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, XG, XK-300UB, Ультратонкая, USB, Кол-во стандартных клавиш 104, Анг/Рус/Каз, Чёрный"
   },
   {
@@ -34,7 +34,7 @@ export const PROVODNYE_KLAVIATURY = [
     "price": 3207,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, XG, XK-200UB, USB, Кол-во стандартных клавиш 104, Размер: 439.2 x 141.5 x 25.5 мм., Длина кабеля 1,45 метра, Анг/Рус/Каз, Чёрная"
   },
   {
@@ -46,7 +46,7 @@ export const PROVODNYE_KLAVIATURY = [
     "price": 5611,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, XG, Cyber Dragon, Ультратонкая, Кол-во стандартных клавиш 104, Размер: 36.5*14*4 см., Анг/Рус, Защита от случайного пролива воды/кофе, Бело-лиловый"
   },
   {
@@ -58,7 +58,7 @@ export const PROVODNYE_KLAVIATURY = [
     "price": 4464,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Delux, DLK-290UB, Ультратонкая, USB, Кол-во стандартных клавиш 103, 18 мультимедиа-клавиш, Размер: 451*188*18 мм., Длина кабеля 1,4 метра, Анг/Рус/Каз, Чёрный"
   },
   {
@@ -70,7 +70,7 @@ export const PROVODNYE_KLAVIATURY = [
     "price": 3870,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Delux, DLK-6010UB, USB, Кол-во стандартных клавиш 104, Размер: 449,9*161,84*24,9 мм., Длина кабеля 1,4 метра, Анг/Рус/Каз, Защита от случайного пролива воды/кофе, Чёрный"
   },
   {
@@ -82,7 +82,7 @@ export const PROVODNYE_KLAVIATURY = [
     "price": 4656,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Delux, DLK-180UB, USB, Кол-во стандартных клавиш 104, Размер: 439.2 x 141.5 x 25.5 мм., Длина кабеля 1,6 метра, Анг/Рус/Каз, Чёрная"
   },
   {
@@ -94,7 +94,7 @@ export const PROVODNYE_KLAVIATURY = [
     "price": 5626,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Delux, DLK-02UB, USB, Кол-во стандартных клавиш 102, 10 мультимеда-клавиш, Размер: 436,9*159,9*27,4 мм., Длина кабеля 1,5 метра, Анг/Рус/Каз, Чёрный"
   },
   {
@@ -106,7 +106,7 @@ export const PROVODNYE_KLAVIATURY = [
     "price": 5325,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Delux, DLK-6060UB, USB, Кол-во стандартных клавиш 104, 8 мультимедиа-клавиш, Размер: 446*211*24 мм., Длина кабеля 1,6 метра, Защита от случайного пролива воды/кофе, Чёрный"
   },
   {
@@ -118,7 +118,7 @@ export const PROVODNYE_KLAVIATURY = [
     "price": 5820,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Delux, SK800U, Ультратонкая, USB, Кол-во стандартных клавиш 103, 18 мультимедиа-клавиш, Размер: 451*188*18 мм., Длина кабеля 1,4 метра, Анг/Рус/Каз, Чёрный"
   },
   {
@@ -130,7 +130,7 @@ export const PROVODNYE_KLAVIATURY = [
     "price": 5086,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Genius, Smart KB-117, USB, Длина кабеля 1.4 метра, Англ/ Рус, 44.3 х 3.3 х 13.7 см , Влагозащита, Пластик, Черный"
   },
   {
@@ -142,7 +142,7 @@ export const PROVODNYE_KLAVIATURY = [
     "price": 4850,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Genius, Smart KB-117S, USB, Длина кабеля 1.4 метра, Англ/ Рус, 44.3 х 3.3 х 13.7 см , Влагозащита, Пластик, Черный"
   },
   {
@@ -154,7 +154,7 @@ export const PROVODNYE_KLAVIATURY = [
     "price": 4048,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Rapoo, NK1900, USB, Кол-во стандартных клавиш 104, Длина кабеля 1,5 метра, Анг/Рус/Каз, Чёрный"
   },
   {
@@ -166,7 +166,8 @@ export const PROVODNYE_KLAVIATURY = [
     "price": 4850,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Rapoo, NK2400, USB, Кол-во стандартных клавиш 104, Длина кабеля 1,5 метра, Анг/Рус/Каз, Чёрный"
   }
 ];
+

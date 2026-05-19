@@ -10,7 +10,7 @@ export const ПРИЕМНО_КОНТРОЛЬНЫЕ_ПРИБОРЫ = [
     "price": 82088,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Прибор приемно-контрольный пожарный, Dahua, DHI-HY-C102-4 (24 В), 4 ШС: до 32 устройства в одном шлейфе, Интерфейсы: RS-485, RS-232, USB, RJ45, ППКП может интегрироваться с другими системам и программному обеспечению верхнего уровня."
   },
   {
@@ -22,7 +22,7 @@ export const ПРИЕМНО_КОНТРОЛЬНЫЕ_ПРИБОРЫ = [
     "price": 462288,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Прибор приемно-контрольный и управления пожарный адресный, Dahua, DHI-HY-1022 (24 В), Двухпроводная и бесполярная: системная петлевая линия использует технологию питания устройств шлейфа без внешнего источника питания, Сильная защита от помех, Удобная проводка, Простота конструкции и установки."
   },
   {
@@ -34,7 +34,7 @@ export const ПРИЕМНО_КОНТРОЛЬНЫЕ_ПРИБОРЫ = [
     "price": 661406,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Прибор приемно-контрольный и управления пожарный адресный, Dahua, DHI-HY-1025 (24 В), Двухпроводная и бесполярная: системная петлевая линия использует технологию питания устройств шлейфа без внешнего источника питания, Сильная защита от помех, Удобная проводка, Простота конструкции и установки."
   },
   {
@@ -46,7 +46,7 @@ export const ПРИЕМНО_КОНТРОЛЬНЫЕ_ПРИБОРЫ = [
     "price": 10144,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Модуль контроля адресный, Dahua, DHI-HY-1400 (24 В), Удобная проводка: двухпроводная, Бесполярная, Сверхнизкое энергопотребление: сверхнизкий ток мониторинга и рабочий ток"
   },
   {
@@ -58,7 +58,7 @@ export const ПРИЕМНО_КОНТРОЛЬНЫЕ_ПРИБОРЫ = [
     "price": 12174,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Модуль контроля и управления адресный, Dahua, DHI-HY-1410 (24 В), Удобная проводка: двухпроводная, Бесполярная, Сверхнизкое энергопотребление: сверхнизкий ток мониторинга и аварийный ток"
   },
   {
@@ -70,7 +70,7 @@ export const ПРИЕМНО_КОНТРОЛЬНЫЕ_ПРИБОРЫ = [
     "price": 12173,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Модуль контроля и управления адресный, Dahua, DHI-HY-1410E (24 В), Удобная проводка: двухпроводная, Бесполярная, Сверхнизкое энергопотребление: сверхнизкий ток мониторинга и рабочий ток"
   },
   {
@@ -82,7 +82,7 @@ export const ПРИЕМНО_КОНТРОЛЬНЫЕ_ПРИБОРЫ = [
     "price": 8116,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Изолятор короткого замыкания адресный, Dahua, DHI-HY-1431, Адресный изоляторный модуль, Рабочее напряжение 24В, Двух проводное бесполярное подключение, Дальность подключения 1500м, Ток короткого замыкания 450mA"
   },
   {
@@ -94,7 +94,7 @@ export const ПРИЕМНО_КОНТРОЛЬНЫЕ_ПРИБОРЫ = [
     "price": 10144,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Модуль кольцевого шлейфа, Dahua, DHI-HY-1450 (24 В), Модуль кольцевого шлейфа, Для организации кольцевой топологии связи адресных устройств, Рабочее напряжение 24В, Двух проводное бесполярное подключение, Дальность подключения 1500м,"
   },
   {
@@ -106,7 +106,7 @@ export const ПРИЕМНО_КОНТРОЛЬНЫЕ_ПРИБОРЫ = [
     "price": 7760,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Модуль контроля и управления адресный, Dahua, DHI-HY-1420 (24 В), Удобная проводка: двухпроводная, Бесполярная, Сверхнизкое энергопотребление: сверхнизкий ток мониторинга и рабочий ток"
   },
   {
@@ -118,7 +118,7 @@ export const ПРИЕМНО_КОНТРОЛЬНЫЕ_ПРИБОРЫ = [
     "price": 50222,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кодировщик, Dahua, DHI-HY-BM-1712, Белый, Кодировщик предназначен для считывания/записи логических адресов, С детектора дымового, Теплового, Ручного и извещателя газа."
   },
   {
@@ -130,7 +130,7 @@ export const ПРИЕМНО_КОНТРОЛЬНЫЕ_ПРИБОРЫ = [
     "price": 26375,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Адресная панель-ретранслятор, Dahua, DHI-HY-1330 (24 В), Удобная проводка: двухпроводная, Бесполярная, Сверхнизкое энергопотребление: сверхнизкий ток мониторинга и аварийный ток"
   },
   {
@@ -142,7 +142,7 @@ export const ПРИЕМНО_КОНТРОЛЬНЫЕ_ПРИБОРЫ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер сигнализации, Dahua, DHI-ARC9016C-V3, контроллер охранной сигнализации"
   },
   {
@@ -154,7 +154,7 @@ export const ПРИЕМНО_КОНТРОЛЬНЫЕ_ПРИБОРЫ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура для сигнализации, Dahua, DHI-ARK50C-R, Экран: Разрешение: 128  64, Размер ЖК-дисплея: 56,27 мм  38,35 мм, Зуммер: Встроенный."
   },
   {
@@ -166,7 +166,7 @@ export const ПРИЕМНО_КОНТРОЛЬНЫЕ_ПРИБОРЫ = [
     "price": 33642,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Модуль расширения M-Bus на 8 зон, Dahua, DHI-ARM808, Количество зон: 8, Количество тревожных выходов NC/COM/NO: 1, Размеры (с основанием): 136,0 мм  132,0 мм  30,0 мм., Рабочее напряжение: 12 В постоянного тока, 2 Вт., Протокол связи: M-Bus."
   },
   {
@@ -178,7 +178,7 @@ export const ПРИЕМНО_КОНТРОЛЬНЫЕ_ПРИБОРЫ = [
     "price": 16038,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Модуль расширения входов, Dahua, DHI-ARM808-RS, Количество зон: 8., Количество тревожных выходов: 2., RS-485: 1 подключение к кабелю длиной не более 300 м, RVV2*1.5., Размеры (с основанием): 90,0 мм  62,0 мм  12,6 мм."
   },
   {
@@ -190,7 +190,7 @@ export const ПРИЕМНО_КОНТРОЛЬНЫЕ_ПРИБОРЫ = [
     "price": 3991042,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графическая система управления пожарной сигнализацией, Dahua, DHI-HY-1101, Централизованный мониторинг и управление системами пожарной сигнализации и безопасности в современных зданиях, Простота конструкции и установки."
   },
   {
@@ -202,7 +202,7 @@ export const ПРИЕМНО_КОНТРОЛЬНЫЕ_ПРИБОРЫ = [
     "price": 31210,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Модуль контроля и управления адресный, Dahua, DHI-HY-1410/1 (24 В), Удобная проводка: двухпроводная, Бесполярная, Сверхнизкое энергопотребление: сверхнизкий ток мониторинга и аварийный ток"
   },
   {
@@ -214,7 +214,7 @@ export const ПРИЕМНО_КОНТРОЛЬНЫЕ_ПРИБОРЫ = [
     "price": 7826,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Изолятор короткого замыкания адресный, Dahua, DHI-HY-1431/1, Адресный изоляторный модуль, Для участка кольцевой цепи, Рабочее напряжение 24В, Двух проводное бесполярное подключение, Дальность подключения 1500м, Ток короткого замыкания 450mA"
   },
   {
@@ -226,7 +226,8 @@ export const ПРИЕМНО_КОНТРОЛЬНЫЕ_ПРИБОРЫ = [
     "price": 180798,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Модуль контроля и управления адресный, Dahua, DHI-HY-1410/62 (24 В), Удобная проводка: двухпроводная, Бесполярная, Сверхнизкое энергопотребление: сверхнизкий ток мониторинга и аварийный ток"
   }
 ];
+

@@ -10,7 +10,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 309430,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа , Ubiquiti, AF-5XHD, AirFiber, 2x RP-SMA, 1x SMA, 2*10/100/1000M, LTU WI-FI, PoE 802.3af, с адаптером питания, Внутренняя"
   },
   {
@@ -22,7 +22,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 87688,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, Ubiquiti, LBE-5AC-LR, LiteBeam, 1 порт 10/100/1000 RJ-45, 450 Mbps, Passive Poe 24V, адаптер в комплекте, внешняя"
   },
   {
@@ -34,7 +34,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 38509,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, Ubiquiti, LBE-M5-23, LiteBeam, 1 порт 10/100 RJ-45, 100 Mbps, Passive Poe 24V, адаптер в комплекте, внешняя"
   },
   {
@@ -46,7 +46,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 35114,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, Ubiquiti, Loco5AC, NanoStation, 1 порт 10/100/1000 RJ-45, 450 Mbps, Passive Poe 24V, внешняя"
   },
   {
@@ -58,7 +58,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 168877,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, Ubiquiti, Loco5AC-5, NanoStation, 1 порт 10/100/1000 RJ-45, 450 Mbps, Passive Poe 24V, без адаптера в комплекте, внешняя"
   },
   {
@@ -70,7 +70,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 36860,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, Ubiquiti, LocoM2, NanoStation, 1 порт 10/100 RJ-45, 150 Mbps, Passive Poe 24V, адаптер в комплекте, внешняя"
   },
   {
@@ -82,7 +82,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 48112,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, Ubiquiti, LocoM5, NanoStation, 1 порт 10/100 RJ-45, 150 Mbps, Passive Poe 24V, адаптер в комплекте, внешняя"
   },
   {
@@ -94,7 +94,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 70422,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, Ubiquiti, NBE-5AC-Gen2, NanoBeam, 2 порта 10/100/1000 RJ-45, 450 Mbps, Passive Poe 24V, адаптер в комплекте, внешняя"
   },
   {
@@ -106,7 +106,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 79540,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, Ubiquiti, LAP-GPS, 1 порт 10/100/1000 RJ-45, 450 Mbps, Passive Poe 24V, адаптер в комплекте, внешняя"
   },
   {
@@ -118,7 +118,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 61692,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, Ubiquiti, NSM2, NanoStation, 2 порта 10/100/1000 RJ-45, 150 Мбит/с, Passive Poe 24V, адаптер в комплекте, внешняя"
   },
   {
@@ -130,7 +130,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 64311,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, Ubiquiti, NSM5, NanoStation, 2 порта 10/100/1000 RJ-45, 150 Мбит/с, Passive Poe 24V, адаптер в комплекте, внешняя"
   },
   {
@@ -142,7 +142,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 86427,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, Ubiquiti, PBE-2AC-400, PowerBeam, 1 порт 10/100/1000 RJ-45, 450 Mbps, Passive Poe 24V, адаптер в комплекте, внешняя"
   },
   {
@@ -154,7 +154,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 94672,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, Ubiquiti, PBE-5AC-Gen2, PowerBeam, 1 порт 10/100/1000 RJ-45, 450 Mbps, Passive Poe 24V, адаптер в комплекте, внешняя"
   },
   {
@@ -166,7 +166,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 53641,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, Ubiquiti, LBE-5AC-Gen2, LiteBeam, 1 порт 10/100/1000 RJ-45, 450 Mbps, Passive Poe 24V, адаптер в комплекте, внешняя"
   },
   {
@@ -178,7 +178,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 61013,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, Ubiquiti, PBE-M5-300, owerBeam, 1 порт 10/100 RJ-45, 150 Mbps, Passive Poe 24V, адаптер в комплекте, внешняя, КОМПЛЕКТ: PBE-M5-300, АНТЕННА, ЭЛЕМЕНТЫ КРЕПЛЕНИЯ (2 шт), ИТОГО 4 части"
   },
   {
@@ -190,7 +190,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 67124,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, Ubiquiti, PBE-M5-400, PowerBeam, 1 порт 10/100/1000 RJ-45, 150 Mbps, Passive Poe 24V, адаптер в комплекте, внешняя, КОМПЛЕКТ: PBE-M5-400, АНТЕННА, ЭЛЕМЕНТЫ КРЕПЛЕНИЯ (2 шт), ИТОГО 4 части"
   },
   {
@@ -202,7 +202,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 92635,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, Ubiquiti, R5AC-Lite, Rocket, 1 порт 10/100/1000 RJ-45, 2xRP-SMA, 500 Mbps, Passive Poe 24V, адаптер в комплекте, внешняя"
   },
   {
@@ -214,7 +214,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 162475,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, Ubiquiti, RP-5AC-Gen2, Rocket Prism, 1 порт 10/100/1000 RJ-45, 500 Mbps, Passive Poe 24V, адаптер в комплекте, внешняя"
   },
   {
@@ -226,7 +226,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 110968,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа, Ubiquiti, LTU-XR, Extreme-Range, Режим КЛИЕНТА, 1 порт 10/100/1000M, Passive PoE (адаптер в комплекте)"
   },
   {
@@ -238,7 +238,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 103402,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, Ubiquiti, LBE-5AC-XR, LiteBeam, 1 порт 10/100/1000 RJ-45, 450 Mbps, Passive Poe 24V, адаптер в комплекте, внешняя"
   },
   {
@@ -250,7 +250,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 47239,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, Ubiquiti, NBE-M5-16, NanoBeam, 1 порт 10/100 RJ-45, 150 Mbps, Passive Poe 24V, адаптер в комплекте, внешняя"
   },
   {
@@ -262,7 +262,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 90210,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, Ubiquiti, NS-5AC, NanoStation, 1 порт 10/100/1000 RJ-45, 450 Mbps, Passive Poe 24V, адаптер в комплекте, внешняя"
   },
   {
@@ -274,7 +274,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 126100,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, Ubiquiti, PBE-5AC-500, PowerBeam, 1 порт 10/100/1000 RJ-45, 450 Mbps, Passive Poe 24V, адаптер в комплекте, внешняя. КОМПЛЕКТ: PBE-5AC-500, АНТЕННА, КОЖУХ Антенны, БОЛТЫ ГАЙКИ (2 пакета), ЭЛЕМЕНТЫ КРЕПЛЕНИЯ (4 шт), ИТОГО 9 частей"
   },
   {
@@ -286,7 +286,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 175279,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, Ubiquiti, PBE-5AC-620, PowerBeam, 1 порт 10/100/1000 RJ-45, 450 Mbps, Passive Poe 24V, адаптер в комплекте, внешняя"
   },
   {
@@ -298,7 +298,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 57521,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, Ubiquiti, PBE-M2-400, PowerBeam, 1 порт 10/100/1000 RJ-45, 150 Mbps, Passive Poe 24V, адаптер в комплекте, внешняя. КОМПЛЕКТ: PBE-M2-400, АНТЕННА, ЭЛЕМЕНТЫ КРЕПЛЕНИЯ (2 шт), ИТОГО 4 части"
   },
   {
@@ -310,7 +310,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 16684,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кронштейн, Ubiquiti, Quick-Mount, Кронштейн, для монтажа устройств GigaBeam, LTU Lite, NanoBeam, NanoStation, NanoStationloco, UniFi Building-to-Building Bridge"
   },
   {
@@ -322,7 +322,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 99425,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, MikroTik, CubeG-5ac60ay, Cube 60Pro ac, 802.11a/n/ac/ay, 10/100/1000 Ethernet ports, PoE in 802.3af/at, От -40 ° C до 70 ° C"
   },
   {
@@ -334,7 +334,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 194000,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, MikroTik, CubeG-5ac60aypair, Wireless Wire Cube Pro, 802.11a/n/ac/ay, 10/100/1000 Ethernet ports, PoE in 802.3af/at, От -40 ° C до 70 ° C (2 шт в комплекте)"
   },
   {
@@ -346,7 +346,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 324950,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, MikroTik, RBLHGG-5acD-XL4pack, LHG XL 5 ac, 802.11a/n/ac, 5GHz, 27dBi, 1 порт 10/100/1000M, Passive PoE in, RouterOS, -40°C to 70°C, IP54 (упаковка 4 штуки)"
   },
   {
@@ -358,7 +358,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 71586,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, MikroTik,RB911G-2HPnD-12S, mANTBox 2 12s, 802.11b/g/n, N300, 2.4GHz, 12dBi, 1 порт 10/100/1000M, Passive PoE in, RouterOS (4), -40°C to 70°C, IP54"
   },
   {
@@ -370,7 +370,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 65960,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, MikroTik, LHG-5axD, LHG 5 ax, 1xGbit LAN, PoE-IN - Passive PoE, 5 GHz, RouterOS, -40°C to 70°C"
   },
   {
@@ -382,7 +382,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 78376,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, MikroTik, LHG-5axD-XL, LHG XL 5 ax, 1xGbit LAN, PoE-IN - Passive PoE, 5 GHz, RouterOS, -40°C to 70°C"
   },
   {
@@ -394,7 +394,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 69743,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, MikroTik, RBSXTG-5HPacD-SA, SXT SA5 ac, 802.11a/n/ac, 5GHz, 14dBi, 1 порт 10/100/1000M, Passive PoE in, RouterOS (4), -40°C to 70°C, IP54"
   },
   {
@@ -406,7 +406,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 99425,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, MikroTik, RBLHGG-60ad, LHG 60G, 1xGbit LAN, PoE-IN 802.3af/at, 60GHz Base Stations 2 Gbps P-to-P, RouterOS, -40°C to 70°C"
   },
   {
@@ -418,7 +418,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 127555,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, MikroTik, L22UGS-5HaxD2HaxD-15S, mANTBox ax 15s, 1x2.5Gigabit SFP port, 1xGigabit LAN PoE in Passive PoE, USB type A, USB, RouterOS, Gigabit PoE injector, 802.11a/b/g/n/ac/ax, AX3000, -40°C to 70°C"
   },
   {
@@ -430,7 +430,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 142493,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, MikroTik, RBLHG5kit, LHG 5 Tripack, 1 порт 10/100М, 802.11a/n, 300 Mbit/s, 5 GHz, 24.5dBi, PoE-IN Passive PoE, RouterOS, -40°С до 70 °C, IP54 (упаковка 3 штуки)"
   },
   {
@@ -442,7 +442,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 63050,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, MikroTik, RBwAPG-60ad, wAP 60G, 1xGbit LAN, PoE-IN 802.3af/at, 60GHz P-to-P, RouterOS, -40°C to 70°C"
   },
   {
@@ -454,7 +454,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 96030,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, MikroTik, RBwAPG-60ad-A, wAP 60G AP, 802.11 a/b/g/n/ac, RouterOS, 1  Ethernet 10/100/1000 Мбит/сек"
   },
   {
@@ -466,7 +466,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 26675,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, MikroTik, RBSXTsq2nD, SXTsq Lite2, 802.11b/g/n, 2.4GHz, 10dBi, 1 порт 10/100M, Passive PoE in, RouterOS (3), -40°C to 70°C, IP54"
   },
   {
@@ -478,7 +478,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 27504,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, MikroTik, RBSXTsq5nD, SXTsq Lite5, АС300, 802.11a/n, 5GHz, 16dBi, 1 порт 10/100M, Passive PoE in, RouterOS (3), -40°C to 70°C, IP54"
   },
   {
@@ -490,7 +490,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 43165,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, MikroTik, RBSXTsqG-5acD, SXTsq 5 ac,АС867, 802.11a/n/ac, 5GHz, 16dBi, 1 порт 10/100/1000M, Passive PoE in, RouterOS (3), -40°C to 70°C, IP54"
   },
   {
@@ -502,7 +502,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 18592,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа, Hikvision, DS-3WF0FC-2N/O, Ethernet 2  RJ45 10M/100M 2.4Ghz 1км., 300 Мбит/с 802.11b/g/n Passive PoE, -30 °C to 70 °C IP55"
   },
   {
@@ -514,7 +514,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 54685,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа, Hikvision, DS-3WF02-5AC/D, Ethernet 2  RJ45 10M/100M 5.0GHz 5км., 867 Мбит/с 802.11/a/n/ac PoE Input/Output, -30 °C to 70 °C IP55"
   },
   {
@@ -526,7 +526,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 30076,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа, Hikvision, DS-3WF02C-5AC/O V3, RJ45, IP55"
   },
   {
@@ -538,7 +538,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 47621,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа, Hikvision, DS-3WF3000-EI-5AC/P,"
   },
   {
@@ -550,7 +550,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 39646,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа, Hikvision, DS-3WF03C-5AC/O V3, Ethernet 2  RJ45 1000M 5.0GHz 15км., 867 Мбит/с 802.11/a/n/ac Passive PoE, -30 °C to 70 °C IP55"
   },
   {
@@ -562,7 +562,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 22010,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа, Hikvision, DS-3WF0FA-2N/O, Ethernet 2  RJ45 10M/100M 2.4Ghz 1км., 300 Мбит/с 802.11b/g/n Passive PoE, -30 °C to 70 °C IP55"
   },
   {
@@ -574,7 +574,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 99116,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа, Hikvision, DS-3WF0FA-5AC/O, Ethernet 2  RJ45 1000M 5.0GHz 1км., 867 Мбит/с 802.11/a/n/ac PoE or PoE, -30 °C to 70 °C IP55"
   },
   {
@@ -586,7 +586,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 0,
     "stock": 50,
     "is_available": false,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": ""
   },
   {
@@ -598,7 +598,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 33940,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Wi-Fi точка доступа, TP-Link, CPE210, Наружная, 2.4Ггц, 300М, 1 порт 10/100 Мбит/с с поддержкой PoE"
   },
   {
@@ -610,7 +610,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 39760,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Wi-Fi точка доступа, TP-Link, CPE220, Наружная, 2.4Ггц, 300М, 1 порт 10/100 Мбит/с, поддержка PoE"
   },
   {
@@ -622,7 +622,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 43640,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Wi-Fi точка доступа, TP-link, CPE605, 5 ГГц 150 Мбит/с 23 дБи наружная точка доступа Wi-Fi"
   },
   {
@@ -634,7 +634,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 46550,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Wi-Fi точка доступа, TP-Link, CPE510, Наружняя, 5 ГГц, 300 Мбит/с, 1 порт LAN 10/100 Мбит/с с поддежкой PoE"
   },
   {
@@ -646,7 +646,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 48490,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Wi-Fi точка доступа, TP-Link, CPE610, Наружняя, 5 ГГц, 300 Мбит/с, 1 порт LAN 10/100 Мбит/с с поддержкой PoE"
   },
   {
@@ -658,7 +658,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 59160,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Wi-Fi точка доступа, TP-Link, CPE710, 5 ГГц, 802.11a/n/ac до 867 Мбит/с на 5 ГГц, Наружная, 23 дБи направленная антенна 22 MIMO, до 30 км, -40...+70 "
   },
   {
@@ -670,7 +670,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 40517,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной мост Wi-Fi, DAHUA,DH-WB2-60N-I, 802.11b/g/n, N300, 1LAN port 10/100M (RJ-45), 1WAN port 10/100 (RJ-45), –40 °C to +70 °C, IP65"
   },
   {
@@ -682,7 +682,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 26346,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Wi-Fi точка доступа, Planet, WNAP-6308, 2.4GHz 150Mbps 802.11n, 23dBm, Внешняя антенна (нет в комплекте)"
   },
   {
@@ -694,7 +694,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 69830,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Wi-Fi точка доступа, TP-Link, EAP211-Bridge KIT, 802.11 a/n/ac, Порт 2,5 Гбит/с с поддержкой PoE+"
   },
   {
@@ -706,7 +706,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 79530,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Wi-Fi точка доступа, TP-Link, EAP215-Bridge KIT, 802.11a/b/g/n/ac/ax, AX6000, Порт 2,5 Гбит/с с поддержкой PoE+"
   },
   {
@@ -718,7 +718,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 51950,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа, Hikvision, DS-3WF0EC-5ACT(B), Ethernet 3  RJ45 10M/100M 5.0GHz 500м, 867 Мбит/с 802.11/a/n/ac PoE Input/Output, -30 °C to 70 °C, IP55"
   },
   {
@@ -730,7 +730,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 51950,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа, Hikvision, DS-3WF0EC-5ACT, Ethernet 3  RJ45 10M/100M 5.0GHz 500м, 867 Мбит/с 802.11/a/n/ac PoE Input/Output, -30 °C to 70 °C, IP55"
   },
   {
@@ -742,7 +742,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 25428,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа, Hikvision, DS-3WF0EC-2NT, Ethernet 2  RJ45 10M/100M 2.4Ghz 300м. 300 Мбит/с 802.11b/g/n Passive PoE, -30 °C to 70 °C, IP55"
   },
   {
@@ -754,7 +754,7 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 19139,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа, Hikvision, DS-3WF0BC-2NT, Ethernet 2  RJ45 10M/100M 2.4Ghz 200м., 300 Мбит/с 802.11b/g/n Passive PoE, -30 °C to 70 °C, IP55"
   },
   {
@@ -766,7 +766,8 @@ export const WI_FI_РАДИО_МОСТЫ = [
     "price": 19139,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа, Hikvision, DS-3WF0BC-2NT(B), Комплект поставки: беспроводные мосты (2 шт.), PoE-инжекторы (2 шт.), адаптеры питания (2 шт.), крепёж, документация"
   }
 ];
+

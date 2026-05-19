@@ -30,3 +30,4 @@ export const ADAPTERS = [
     "image": "https://market-telecom.kz/files/products/28782_1.170x220.jpg"
   }
 ];
+

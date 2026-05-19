@@ -10,7 +10,7 @@ export const KORPUSA = [
     "price": 7263,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, XG, Cronus, ATX/Micro ATX, USB 1.0x2, USB 2.0x1, HD-Audio, Высота процессорного кулера 145мм, Длина VGA до 290мм, 1*5.25\"/2*3.5\"/2*2.5\", Толщина 0.4мм, 410x195x355мм, Без Б/П, Черный"
   },
   {
@@ -22,7 +22,7 @@ export const KORPUSA = [
     "price": 9330,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, XG, XC-370-2, ATX/Micro ATX, USB 3.0x2, USB 2.0x1, HD-Audio, Высота процессорного кулера 145мм, Длина VGA до 290мм, 1*5.25\"/2*3.5\"/2*2.5\", Толщина 0.4мм, 410x195x355мм, Без Б/П, Черный"
   },
   {
@@ -34,7 +34,7 @@ export const KORPUSA = [
     "price": 8633,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, XG,Phantom, Micro ATX, USB3.0*1/2.0*1, HD-Audio+Mic, Высота процессорного кулера до 160мм, Сталь 0.4, 355*185**369 мм, Чёрный, Без Б/П"
   },
   {
@@ -46,7 +46,7 @@ export const KORPUSA = [
     "price": 11610,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, XG, Galaxy, ATX/Micro ATX, USB 2.0x2,HD-Audio+Mic, Высота процессорного кулера 150мм, Длина VGA до 330мм, 2*3.5\"/2*2.5\", Толщина 0.4мм, 340x180x410мм, RGB, Без Б/П, Черный"
   },
   {
@@ -58,7 +58,7 @@ export const KORPUSA = [
     "price": 12974,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, XG, Dark Shadow, ATX/Micro ATX, USB 2.0x2, USB 3.0x1, Высота процессорного кулера 150мм, Длина VGA до 300мм, 2*3.5\"/2*2.5\", Толщина 0.4мм, 425x190x350мм, Без Б/П, Стекло,Черный"
   },
   {
@@ -70,7 +70,7 @@ export const KORPUSA = [
     "price": 15569,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, XG, Cube, Mini-ITX, Micro-ATX , USB 2.0x1, USB 3.0x1, Высота процессорного кулера 157мм, Длина VGA до 320мм, 2*3.5\"/2*2.5\", Толщина 0.4мм, Без Б/П, Стекло,Черный"
   },
   {
@@ -82,7 +82,7 @@ export const KORPUSA = [
     "price": 18894,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Delux, Atom, ATX, USB3.0*1/2.0*2, HD-Audio+Mic, Высота процессорного кулера до 150мм, Длина VGA до 330мм, 2*3.5\"/2*2.5\", Сталь 0.6, Стекляная боковая панель, 390x181x435мм, Чёрный , Без Б/П"
   },
   {
@@ -94,7 +94,7 @@ export const KORPUSA = [
     "price": 21673,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, XG, Megatron, ATX, USB3.0*1/2.0*1, HD-Audio+Mic, Кулер 12см RGB, Высота процессорного кулера до 165мм, Длина VGA до 280мм, Сталь 0.5, Стекляная боковая панель, 2*3.5\"/2*2.5\", RGB, 424x205x390мм, RGB, Чёрный, Без Б/П"
   },
   {
@@ -106,7 +106,7 @@ export const KORPUSA = [
     "price": 25723,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, XG,Thor, ATX, USB3.0*1/2.0*1, HD-Audio+Mic, Высота процессорного кулера до 160мм, Сталь 0.4, Стекляная боковая панель, RGB, 445x185x425мм, Чёрный, Без Б/П"
   },
   {
@@ -118,7 +118,7 @@ export const KORPUSA = [
     "price": 9944,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, HuntKey, HK360, ATX/Micro ATX, USB 2*3.0, HD-Audio+ Mic, Высота процессорного кулера до 155мм, Длина VGA до 330мм, 1*3.5\"/2*2.5\", Толщина 0,45мм, 345x180x412мм, Без Б/П, Черный"
   },
   {
@@ -130,7 +130,7 @@ export const KORPUSA = [
     "price": 18196,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Huntkey, G35, Micro ATX/Mini-ITX, USB 1*3.0/2*2.0, HD-Audio+Mic, Кулер 3*12см RGB, Высота процессорного кулера до 160 мм, Длина VGA до 340мм, 1*3.5\"/1*2.5\", Слот 7, Толщина 0,5мм, 365x198x408мм, Без Б/П, Чёрный"
   },
   {
@@ -142,7 +142,7 @@ export const KORPUSA = [
     "price": 23038,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Huntkey, S900, Micro ATX/Mini-ITX, USB 1*3.0/2*2.0, HD-Audio+Mic, Кулер 5*12см ARGB, Высота процессорного кулера до 155 мм, Длина VGA до 320мм, 2*3.5\"/1*2.5\", Слот 4, Толщина 0,5мм, 345x270x374мм, Без Б/П, Чёрный"
   },
   {
@@ -154,7 +154,7 @@ export const KORPUSA = [
     "price": 23644,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Huntkey, S900 White, Micro ATX/Mini-ITX, USB 1*3.0/2*2.0, HD-Audio+Mic, Кулер 5*12см ARGB, Высота процессорного кулера до 155 мм, Длина VGA до 320мм, 2*3.5\"/1*2.5\", Слот 4, Толщина 0,5мм, 345x270x374мм, Без Б/П, Белый"
   },
   {
@@ -166,7 +166,7 @@ export const KORPUSA = [
     "price": 19463,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Huntkey, GS450C, ATX/Micro ATX, USB 1*3.0/2*2.0, HD-Audio+Mic, Кулер 3*12см FRGB, Высота процессорного кулера до 160 мм, Длина VGA до 320мм, 2*3.5\"/2*2.5\", Слот 7, Толщина 0,5мм, 360x200x450мм, Без Б/П, Чёрный"
   },
   {
@@ -178,7 +178,7 @@ export const KORPUSA = [
     "price": 21049,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Huntkey, GS450S, ATX/Micro ATX, USB 1*3.0/2*2.0, HD-Audio+Mic, Кулер 3*12см FRGB, Высота процессорного кулера до 160 мм, Длина VGA до 300мм, 2*3.5\"/2*2.5\", Слот 7, Толщина 0,5мм, 360x200x450мм, Без Б/П, Чёрный"
   },
   {
@@ -190,7 +190,7 @@ export const KORPUSA = [
     "price": 22795,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Huntkey, GX750A, ATX/Micro ATX, USB 1*3.0/2*2.0, HD-Audio, Кулер 3*12см RGB, Высота процессорного кулера до 165 мм, Длина VGA до 415мм, 2*3.5\"/2.5\", Слот 7, Толщина 0,6мм, 465x218x461мм, Без Б/П, Чёрный"
   },
   {
@@ -202,7 +202,7 @@ export const KORPUSA = [
     "price": 29192,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Huntkey, GX760A Fortune, ATX/Micro ATX, USB 1*3.0/2*2.0, HD-Audio, Кулер 4*12см ARGB, Высота процессорного кулера до 160 мм, Длина VGA до 400мм, 1*3.5\"/2.5\", Слот 7, Толщина 0,6мм, 424x215x465мм, Без Б/П, Чёрный"
   },
   {
@@ -214,7 +214,7 @@ export const KORPUSA = [
     "price": 30453,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Huntkey, GX760A Fortune White, ATX/Micro ATX, USB 1*3.0/2*2.0, HD-Audio, Кулер 4*12см ARGB, Высота процессорного кулера до 160 мм, Длина VGA до 400мм, 1*3.5\"/2.5\", Слот 7, Толщина 0,6мм, 424x215x465мм, Без Б/П, Белый"
   },
   {
@@ -226,7 +226,7 @@ export const KORPUSA = [
     "price": 30359,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, CH160 MESH WH R-CH160-WHNMI0-G-1, Mini-ITX, Type-C*1/3.0*2, HD-Audio, Высота процессорного кулера до 172мм, Длина VGA до 305мм (до 230мм при блоке АТХ), 1*3.5\" или 1*2.5\", Сталь 0,6, 336x200x283,5мм, Без Б/П, Белый"
   },
   {
@@ -238,7 +238,7 @@ export const KORPUSA = [
     "price": 30088,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, CH160 WH R-CH160-WHNGI0-G-1, Mini-ITX, Type-C*1/3.0*2, HD-Audio, Высота процессорного кулера до 172мм, Длина VGA до 230мм (ATX)/305мм (SFX), 1*3.5\" или 1*2.5\", Сталь 0,6, 336x200x283,5мм, Без Б/П, Белый"
   },
   {
@@ -250,7 +250,7 @@ export const KORPUSA = [
     "price": 32028,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, CH260 R-CH260-BKNGM0-G-1, Micro ATX/Mini-ITX, Type C*1/USB 3.0*2, HD-Audio+Mic, Высота процессорного кулера до 174мм, Длина VGA до 388/413мм, 1*3.5\"/1*2.5\", Сталь 0,6, 438x225x312,5мм, Без Б/П, Черный"
   },
   {
@@ -262,7 +262,7 @@ export const KORPUSA = [
     "price": 35128,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, CH260 WH R-CH260-WHNGM0-G-1, Micro ATX/Mini-ITX, Type C*1/USB 3.0*2, HD-Audio+Mic, Высота процессорного кулера до 174мм, Длина VGA до 388/413мм, 1*3.5\"/1*2.5\", Сталь 0,6, 438x225x312,5мм, Без Б/П, Белый"
   },
   {
@@ -274,7 +274,7 @@ export const KORPUSA = [
     "price": 32829,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, CH170 DIGITAL R-CH170-BKNPI0D-G-1, Mini-ITX, Type-C*1/3.0*2, HD-Audio, Высота процессорного кулера до 172мм, Длина VGA до 305мм (до 230мм при блоке АТХ), 1*3.5\" или 1*2.5\", Сталь 0,6, 250x200x280мм, Без Б/П, Черный"
   },
   {
@@ -286,7 +286,7 @@ export const KORPUSA = [
     "price": 34666,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, CH170 DIGITAL WH R-CH170-WHNPI0D-G-1, Mini-ITX, Type-C*1/3.0*2, HD-Audio, Высота процессорного кулера до 172мм, Длина VGA до 305мм (до 230мм при блоке АТХ), 1*3.5\" или 1*2.5\", Сталь 0,6, 250x200x280мм, Без Б/П, Белый"
   },
   {
@@ -298,7 +298,7 @@ export const KORPUSA = [
     "price": 39960,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, CH270 DIGITAL R-CH270-BKNDM0-G-1, Micro ATX/Mini-ITX, Type C*1/USB 3.0*2, HD-Audio+Mic, Высота процессорного кулера до 174мм, Длина VGA до 388/413мм, 1*3.5\"/1*2.5\", Сталь 0,6, 296x225x486мм, Без Б/П, Черный"
   },
   {
@@ -310,7 +310,7 @@ export const KORPUSA = [
     "price": 44532,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, CH270 DIGITAL WH R-CH270-WHNDM0-G-1, Micro ATX/Mini-ITX, Type C*1/USB 3.0*2, HD-Audio+Mic, Высота процессорного кулера до 174мм, Длина VGA до 388/413мм, 1*3.5\"/1*2.5\", Сталь 0,6, 296x225x486мм, Без Б/П, Белый"
   },
   {
@@ -322,7 +322,7 @@ export const KORPUSA = [
     "price": 18578,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, WAVE 2 DP-MATX-DPWAVE2, Mini-ITX/Micro ATX, USB 3.0/2.0, HD-Audio+Mic, Высота процессорного кулера до 140мм, Длина VGA до 340мм, 1*5.25\"/ 2*3.5\"/3*2.5\", Толщина 0,5мм, 387x175x353,5мм, Без Б/П, Чёрный"
   },
   {
@@ -334,7 +334,7 @@ export const KORPUSA = [
     "price": 21692,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, MATREXX 30 DP-MATX-MATREXX30, Mini-ITX/Micro ATX, USB 3.0/2.0, HD-Audio+Mic, Кулер 1*120мм, Высота процессорного кулера до 151мм, Длина VGA до 250мм, 1*5,25\" (для Mini-ITX) /2*3.5\"/2*2.5\", Толщина 0,5мм, 405.8x193x378.2мм, Без Б/П, Чёрный"
   },
   {
@@ -346,7 +346,7 @@ export const KORPUSA = [
     "price": 32175,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, CC360 ARGB R-CC360-BKAPM3-G-1, Mini-ITX/Micro ATX, USB 3.0/2.0, HD-Audio+Mic, Кулер 3*120мм ARGB, Высота процессорного кулера до 165мм, Длина VGA до 320мм, 2*3.5\"/2+1*2.5\", Толщина 0,5мм, 418x215x431мм, Без Б/П, Чёрный"
   },
   {
@@ -358,7 +358,7 @@ export const KORPUSA = [
     "price": 32694,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, CC360 WH ARGB R-CC360-WHAPM3-G-1, Mini-ITX/Micro ATX, USB 3.0/2.0, HD-Audio+Mic, Кулер 3*120мм ARGB, Высота процессорного кулера до 165мм, Длина VGA до 320мм, 2*3.5\"/2+1*2.5\", Толщина 0,5мм, 418x215x431мм, Без Б/П, Белый"
   },
   {
@@ -370,7 +370,7 @@ export const KORPUSA = [
     "price": 36026,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, CH370 R-CH370-BKNAM1-G-1, Micro ATX/Mini-ITX, USB 3.0*2, HD-Audio+Mic, Кулер 1*120мм, Высота процессорного кулера до 165мм, Длина VGA до 320мм, 2*3.5\"/2+1*2.5\", Сталь 0,6, 413x215x431мм, Без Б/П, Чёрный"
   },
   {
@@ -382,7 +382,7 @@ export const KORPUSA = [
     "price": 37105,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, CH370 WH R-CH370-WHNAM1-G-1, Micro ATX/Mini-ITX, USB 3.0*2, HD-Audio+Mic, Кулер 1*120мм, Высота процессорного кулера до 165мм, Длина VGA до 320мм, 2*3.5\"/2+1*2.5\", Сталь 0,6, 413x215x431мм, Без Б/П, Белый"
   },
   {
@@ -394,7 +394,7 @@ export const KORPUSA = [
     "price": 40914,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, CH360 R-CH360-BKAPE3-G-1, Micro ATX/Mini-ITX, Type-C*1/3.0*1, HD-Audio+Mic, Кулер 2*140/1*120мм ARGB, Высота процессорного кулера до 165мм, Длина VGA до 320мм, 2*3.5\"/2+1*2.5\", Сталь 0,6, 428x215x431мм, Без Б/П, Чёрный"
   },
   {
@@ -406,7 +406,7 @@ export const KORPUSA = [
     "price": 47110,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, CH360 WH R-CH360-WHAPE3-G-1, Micro ATX/Mini-ITX, Type-C*1/3.0*1, HD-Audio+Mic, Кулер 2*140/1*120мм ARGB, Высота процессорного кулера до 165мм, Длина VGA до 320мм, 2*3.5\"/2+1*2.5\", Сталь 0,6, 428x215x431мм, Без Б/П, Белый"
   },
   {
@@ -418,7 +418,7 @@ export const KORPUSA = [
     "price": 41412,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, MATREXX 55 V4 R-MATREXX55-BKADA4-G-4, ATX/Micro ATX, USB 3.0*2, HD-Audio+Mic, Кулер 120мм/3*140мм ARGB, Высота процессорного кулера до 165мм, Длина VGA до 370мм, 2*3.5\"/2+1*2.5\", Сталь 0,6, 421x215x483мм, Без Б/П, Чёрный"
   },
   {
@@ -430,7 +430,7 @@ export const KORPUSA = [
     "price": 45564,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, MATREXX 55 V3 ADD-RGB WH 3F, DP-ATX-MATREXX55V3-AR-WH-3F, E-ATX/ATX/Micro ATX, USB 3.0*1/2.0*2, HD-Audio+Mic, Кулер 3*120см ARGB, Высота процессорного кулера до 160мм, Длина VGA до 370мм, 2*3.5\"/2+2*2.5\", Сталь 0,6, 446х210х479мм, Без Б/П, Белый"
   },
   {
@@ -442,7 +442,7 @@ export const KORPUSA = [
     "price": 48678,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, MATREXX 55 MESH V4, R-MATREXX55-BKAGA4-G-4, ATX/Micro ATX, USB 3.0*2, HD-Audio, Кулер 1*120мм/3*140мм ARGB, Высота процессорного кулера до 165мм, Длина VGA до 370мм, 2*3.5\"/3*2.5\", Сталь 0,6, 421х215х483мм, Без Б/П,Чёрный"
   },
   {
@@ -454,7 +454,7 @@ export const KORPUSA = [
     "price": 22068,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, CC560 Limited V2 R-CC560-BKNAA0-G-2, ATX/Micro ATX, USB 3.0*1/2.0*1, HD-Audio, Высота процессорного кулера до 165мм, Длина VGA до 370мм, 2*3.5\"/2+1*2.5\", Слот 7, Сталь 0,6, 432x215x483мм, Без Б/П, Чёрный"
   },
   {
@@ -466,7 +466,7 @@ export const KORPUSA = [
     "price": 33058,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, CC560 V2 R-CC560-BKGAA4-G-2, ATX/Micro ATX, USB 3.0*1/2.0*1, HD-Audio+Mic, 3*120mm Led Mint/1*120mm Led Mint , Высота процессорного кулера до 163мм, Длина VGA до 370мм, 2*3.5\"/2+1*2.5\", Слот 7, Сталь 0,6, 416x210x477мм, Без Б/П, Чёрный"
   },
   {
@@ -478,7 +478,7 @@ export const KORPUSA = [
     "price": 33327,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, CC560 WH V2 R-CC560-WHGAA4-G-2, ATX/Micro ATX, USB 3.0*1/2.0*1, HD-Audio+Mic, 3*120mm Led Mint/1*120mm Led Mint , Высота процессорного кулера до 163мм, Длина VGA до 370мм, 2*3.5\"/2+1*2.5\", Слот 7, Сталь 0,6, 416x210x477мм, Без Б/П, Белый"
   },
   {
@@ -490,7 +490,7 @@ export const KORPUSA = [
     "price": 34920,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, CC560 ARGB V2 R-CC560-BKTAA4-G-2, ATX/Micro-ATX/Mini-ITX, USB 3.0, USB 2.0, Audio, 4*120mm ARGB, Высота процессорного кулера до 165мм, Длина VGA до 370мм, 2*3.5\"/2+1*2.5\", Слот 7, Сталь 0,6, 432x215x483мм, Без Б/П, Чёрный"
   },
   {
@@ -502,7 +502,7 @@ export const KORPUSA = [
     "price": 35812,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, CC560 MESH V2 R-CC560-BKAMA4-G-2, ATX/Micro ATX/Mini-ITX, USB 3.0*2, HD-Audio, 4*120mm ARGB, Высота процессорного кулера до 165мм, Длина VGA до 370мм, 2*3.5\"/2+1*2.5\", Слот 7, Сталь 0,6, 432x215x483мм, Без Б/П, Чёрный"
   },
   {
@@ -514,7 +514,7 @@ export const KORPUSA = [
     "price": 36654,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, CC560 MESH V2 WH R-CC560-WHAMA4-G-2, ATX/Micro ATX/Mini-ITX, USB 3.0*2, HD-Audio, 4*120mm ARGB, Высота процессорного кулера до 165мм, Длина VGA до 370мм, 2*3.5\"/2+1*2.5\", Слот 7, Сталь 0,6, 432x215x483мм, Без Б/П, Белый"
   },
   {
@@ -526,7 +526,7 @@ export const KORPUSA = [
     "price": 36711,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, CG530 4F R-CG530-BKADA4-G-1, ATX/Micro ATX/Mini-ITX, USB 3.1*1/3.0*2, Audio+Mic, 4*120mm ARGB, Высота процессорного кулера до 160мм, Длина VGA до 410мм, 2*3.5\"/2+1*2.5\", Слот 7, Сталь 0,6, 440x285x399мм, Без Б/П, Черный"
   },
   {
@@ -538,7 +538,7 @@ export const KORPUSA = [
     "price": 38509,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, CG530 4F WH R-CG530-WHADA4-G-1, ATX/Micro ATX/Mini-ITX, USB 3.1*1/3.0*2, Audio+Mic, 4*120mm ARGB, Высота процессорного кулера до 160мм, Длина VGA до 410мм, 2*3.5\"/2+1*2.5\", Слот 7, Сталь 0,6, 440x285x399мм, Без Б/П, Белый"
   },
   {
@@ -550,7 +550,7 @@ export const KORPUSA = [
     "price": 48678,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, CG560 R-CG560-BKAAE4-G-1, E-ATX/ATX/Micro ATX, USB 3.0*2, 3*120mm ARGB/1*140mm, HD-Audio+Mic, Высота процессорного кулера до 175мм, Длина VGA до 380мм, 2*3.5\"/2*2.5\", Слот 7, Сталь 0,9, 452x230x470мм, Без Б/П, Чёрный"
   },
   {
@@ -562,7 +562,7 @@ export const KORPUSA = [
     "price": 39823,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, CG580 R-CG580-BKNDA0-G-1, ATX/Micro ATX/Mini-ITX, USB 3.0*2, HD-Audio, Высота процессорного кулера до 176мм, Длина VGA до 410мм, 2*3.5\"/2+1*2.5\", Сталь 0,6, 437х235х501мм, Без Б/П,Чёрный"
   },
   {
@@ -574,7 +574,7 @@ export const KORPUSA = [
     "price": 41679,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, CG580 WH R-CG580-WHNDA0-G-1, ATX/Micro ATX/Mini-ITX, USB 3.0*2, HD-Audio, Высота процессорного кулера до 176мм, Длина VGA до 410мм, 2*3.5\"/2+1*2.5\", Сталь 0,6, 437х235х501мм, Без Б/П, Белый"
   },
   {
@@ -586,7 +586,7 @@ export const KORPUSA = [
     "price": 52404,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, CG580 4F R-CG580-BKADA4-G-1, ATX/Micro ATX/Mini-ITX, USB 3.1*1/3.0*2, HD-Audio, 4*120мм ARGB, Высота процессорного кулера до 176мм, Длина VGA до 410мм (до 262 мм с радиатором), 2*3.5\"/2*2.5\", Сталь 0,6, 437х235х501мм, Без Б/П, Чёрный"
   },
   {
@@ -598,7 +598,7 @@ export const KORPUSA = [
     "price": 54156,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, CG580 4F WH R-CG580-WHADA4-G-1, ATX/Micro ATX/Mini-ITX, USB 3.1*1/3.0*2, HD-Audio, 4*120мм ARGB, Высота процессорного кулера до 176мм, Длина VGA до 410мм (до 262 мм с радиатором), 2*3.5\"/2*2.5\", Сталь 0,6, 437х235х501мм, Без Б/П, Белый"
   },
   {
@@ -610,7 +610,7 @@ export const KORPUSA = [
     "price": 41318,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, CG580 4F V2 R-CG580-BKADA4-G-2, ATX/Micro ATX/Mini-ITX, USB 3.1*1/3.0*2, HD-Audio, 4*120мм ARGB, Высота процессорного кулера до 176мм, Длина VGA до 410мм (до 262 мм с радиатором), 2*3.5\"/2*2.5\", Сталь 0,6, 437х235х501мм, Без Б/П, Чёрный"
   },
   {
@@ -622,7 +622,7 @@ export const KORPUSA = [
     "price": 56811,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, CG580 4F V2 WH R-CG580-WHADA4-G-2, ATX/Micro ATX/Mini-ITX, USB 3.1*1/3.0*2, HD-Audio, 4*120мм ARGB, Высота процессорного кулера до 176мм, Длина VGA до 410мм (до 262 мм с радиатором), 2*3.5\"/2*2.5\", Сталь 0,6, 437х235х501мм, Без Б/П, Белый"
   },
   {
@@ -634,7 +634,7 @@ export const KORPUSA = [
     "price": 57145,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, CH560 R-CH560-BKAPE4-G-1, E-ATX/ATX/Micro ATX/Mini-ITX, USB 3.1*1/3.0*1, HD-Audio+Mic, Кулер 3*140см/120 ARGB, Высота процессорного кулера до 175мм, Длина VGA до 380мм, 2*3.5\"/2+1*2.5\", Сталь 0,6, 458х230х471мм, Без Б/П,Чёрный"
   },
   {
@@ -646,7 +646,7 @@ export const KORPUSA = [
     "price": 61035,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, CH560 WH R-CH560-WHAPE4-G-1, E-ATX/ATX/Micro ATX/Mini-ITX, USB 3.1*1/3.0*1, HD-Audio+Mic, Кулер 3*140см/120 ARGB, Высота процессорного кулера до 175мм, Длина VGA до 380мм, 2*3.5\"/2+1*2.5\", Сталь 0,6, 458х230х471мм, Без Б/П, Белый"
   },
   {
@@ -658,7 +658,7 @@ export const KORPUSA = [
     "price": 64077,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, CH560 DIGITAL R-CH560-BKAPE4D-G-1, E-ATX/ATX/Micro ATX/Mini-ITX, USB 3.1*1/3.0*1, HD-Audio+Mic, Кулер 3*140см/120 ARGB, Высота процессорного кулера до 175мм, Длина VGA до 380мм, 2*3.5\"/2+1*2.5\", Сталь 0,6, 458х230х471мм, Без Б/П,Чёрный"
   },
   {
@@ -670,7 +670,7 @@ export const KORPUSA = [
     "price": 58132,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, CH690 DIGITAL R-CH690-BKNNA0D-G-1, ATX/Micro ATX/Mini-ITX, USB 3.1*1/3.0*2, HD-Audio+Mic, Высота процессорного кулера до 182мм, Длина VGA до 450мм, 1*3.5\"/2+1*2.5\", Сталь 0,6, 481х240х516мм, Без Б/П, Чёрный"
   },
   {
@@ -682,7 +682,7 @@ export const KORPUSA = [
     "price": 60911,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, CH690 DIGITAL WH R-CH690-WHNNA0D-G-1, ATX/Micro ATX/Mini-ITX, USB 3.1*1/3.0*2, HD-Audio+Mic, Высота процессорного кулера до 182мм, Длина VGA до 450мм, 1*3.5\"/2+1*2.5\", Сталь 0,6, 481х240х516мм, Без Б/П, Белый"
   },
   {
@@ -694,7 +694,7 @@ export const KORPUSA = [
     "price": 82098,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, CH780 R-CH780-BKADE41-G-1, E-ATX/ATX/Micro ATX/Mini-ITX, USB 3.1*1/3.0*4, HD-Audio+Mic, Кулер 1*420см ARGB, Высота процессорного кулера до 132мм, Длина VGA до 480мм, 2*3.5\"/2+1*2.5\", Сталь 0,6, 528х250х551мм, Без Б/П,Чёрный"
   },
   {
@@ -706,7 +706,7 @@ export const KORPUSA = [
     "price": 90412,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, CH780 WH R-CH780-WHADE41-G-1, E-ATX/ATX/Micro ATX/Mini-ITX, USB 3.1*1/3.0*4, HD-Audio+Mic, Кулер 1*420см ARGB, Высота процессорного кулера до 132мм, Длина VGA до 480мм, 2*3.5\"/2+1*2.5\", Сталь 0,6, 528х250х551мм, Без Б/П, Белый"
   },
   {
@@ -718,7 +718,7 @@ export const KORPUSA = [
     "price": 49321,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, CK560 R-CK560-BKAAE4-G-1, E-ATX/ATX/Micro ATX, USB 3.0*2, HD-Audio+Mic, 3*120mm ARGB/1*140mm, Высота процессорного кулера до 175мм, Длина VGA до 380мм, 2*3.5\"/2*2.5\", Слот 7, Сталь 0,9, 456x230x471мм, Без Б/П, Чёрный"
   },
   {
@@ -730,7 +730,7 @@ export const KORPUSA = [
     "price": 19616,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Aerocool, CS-105 Blue ACCS-PC09011.B1, Micro ATX/mini-ITX, USB 1*3.0/1*2.0, HD-Audio+Mic, Кулер 120мм LED, Высота процессорного кулера 148 мм, Длина VGA до 320мм, 1*5.25\"/ 2*3.5\"/1*2.5\", 361x187x355мм, Без Б/П, Чёрный"
   },
   {
@@ -742,7 +742,7 @@ export const KORPUSA = [
     "price": 21018,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Aerocool, CS-111-G-BK-v1, Micro ATX/mini-ITX, USB 3.0/2*2.0, HD-Audio+Mic, Кулер 120мм, Высота процессорного кулера 160 мм, Длина VGA до 305мм, 2*3.5\"/2*2.5\", 387x212x320мм, Без Б/П, Чёрный"
   },
   {
@@ -754,7 +754,7 @@ export const KORPUSA = [
     "price": 19616,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Aerocool, Tomahawk-S-BK-v2 , ATX/Micro ATX, USB 2*2.0, HD-Audio+ Mic, Высота процессорного кулера до 167мм, Длина VGA до 324мм, 1*3.5\"/4*2.5\", Толщина 0,5мм, 440,5x202x399мм, Без Б/П, Черный"
   },
   {
@@ -766,7 +766,7 @@ export const KORPUSA = [
     "price": 17541,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Aerocool, CS-1101, ATX/Micro ATX, USB 3.0/2*2.0, HD-Audio+Mic, Кулер 8cm, Высота процессорного кулера до 150мм, Длина VGA до 375мм (без переднего кулера), 1*5.25\"/ 3*3.5\"/1*2.5\", Толщина 0,4мм, 410x195x411мм, Без Б/П, Чёрный"
   },
   {
@@ -778,7 +778,7 @@ export const KORPUSA = [
     "price": 33109,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Aerocool, Bionic-G-BK-v2, ATX/Micro ATX, USB 2*3.0/1*2.0, HD-Audio+Mic, Кулер 1*12см RGB, Высота процессорного кулера до 158 мм, Длина VGA до 297мм (без переднего радиатора), 2*3.5\"/4*2.5\", Толщина 0,5мм, 450x206x372мм, Без Б/П, Чёрный"
   },
   {
@@ -790,7 +790,7 @@ export const KORPUSA = [
     "price": 46602,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Aerocool, Gladiator Duo-G-BK-v1, ATX/Micro ATX, USB 2*3.0, HD-Audio+Mic, Кулер 3*12см ARGB, Высота процессорного кулера до 161 мм, Длина VGA до 326мм, 2*3.5\"/3*2.5\", Толщина 0,5мм, 519x210x404мм, Без Б/П, Чёрный"
   },
   {
@@ -802,7 +802,7 @@ export const KORPUSA = [
     "price": 44955,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Aerocool, D520A-BK-v1, ATX/Micro ATX, USB 1*Type C/2*3.0, HD-Audio+Mic, Кулер 4*12 см APNX ARGB, Высота процессорного кулера до 180 мм, Длина VGA до 400мм, 1*3.5\"/3*2.5\", Толщина 0,6-0,8мм, 460x235x480мм, Без Б/П, Чёрный"
   },
   {
@@ -814,7 +814,7 @@ export const KORPUSA = [
     "price": 41225,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Aerocool, P500C-G-BK-v1, ATX/Micro ATX, USB 2*3.0/2.0, HD-Audio+Mic, Кулер 4*12 см ARGB, Высота процессорного кулера до 162 мм, Длина VGA до 450мм, 2*3.5\"/3*2.5\", Толщина 0,7мм, 398x285x475.8мм, Без Б/П, Чёрный"
   },
   {
@@ -826,7 +826,7 @@ export const KORPUSA = [
     "price": 44135,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Aerocool, P500C-G-WT-v1, ATX/Micro ATX, USB 2*3.0/2.0, HD-Audio+Mic, Кулер 4*12 см ARGB, Высота процессорного кулера до 162 мм, Длина VGA до 450мм, 2*3.5\"/3*2.5\", Толщина 0,7мм, 398x285x475.8мм, Без Б/П, Белый"
   },
   {
@@ -838,7 +838,7 @@ export const KORPUSA = [
     "price": 46871,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Aerocool, P500A-BK-v1, ATX/Micro ATX, USB 1*Type C/2*3.0, HD-Audio+Mic, Кулер 4*12 см APNX ARGB, Высота процессорного кулера до 180 мм, Длина VGA до 420мм, 1*3.5\"/3*2.5\", Толщина 0,6-0,8мм, 460x235x480мм, Без Б/П, Чёрный"
   },
   {
@@ -850,7 +850,7 @@ export const KORPUSA = [
     "price": 48618,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Aerocool, P500B Digi-BK-v1, ATX/Micro ATX, USB 2*3.0/2.0, HD-Audio+Mic, USB 1*Type C/2*3.0, Высота процессорного кулера до 170 мм, Длина VGA до 425мм, 2*3.5\"/3*2.5\", Толщина 0,6-0,8мм, 445x235x500мм, Без Б/П, Чёрный"
   },
   {
@@ -862,7 +862,7 @@ export const KORPUSA = [
     "price": 50119,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Aerocool, P500C Evo-G-WT-v1, ATX/Micro ATX, USB 2*3.0/2.0, HD-Audio+Mic, USB 1*Type C/2*3.0, Высота процессорного кулера до 162 мм, Длина VGA до 450мм, 2*3.5\"/3*2.5\", Толщина 0,7мм, 398х285x475,4мм, Без Б/П, Белый"
   },
   {
@@ -874,7 +874,7 @@ export const KORPUSA = [
     "price": 66203,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Aerocool, APNX C1 BK (C1-R-BK-v1), ATX/Micro ATX, USB 1*Type C/2*3.0 , HD-Audio+Mic, Кулер 4*12 ARGB см, Высота процессорного кулера до 166 мм, Длина VGA до 395мм, 3*3.5\"/3*2.5\", Толщина 0,8мм, 502x230x464мм, Без Б/П, Чёрный"
   },
   {
@@ -886,7 +886,7 @@ export const KORPUSA = [
     "price": 69733,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Aerocool, APNX C1 WH (C1-R-WT-v1), ATX/Micro ATX, USB 1*Type C/2*3.0 , HD-Audio+Mic, Кулер 4*12см ARGB, Высота процессорного кулера до 166 мм, Длина VGA до 395мм, 3*3.5\"/3*2.5\", Толщина 0,8мм, 502x230x464мм, Без Б/П, Белый"
   },
   {
@@ -898,7 +898,7 @@ export const KORPUSA = [
     "price": 71940,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Aerocool, APNX V1 (V1-BK-v1), ATX/Micro ATX, USB 1*Type C/2*3.2, HD-Audio+Mic, Высота процессорного кулера до 170 мм, Длина VGA до 395мм, 2*3.5\"/6*2.5\", Толщина 0,8мм, 485.5x290x500мм, Без Б/П, Чёрный"
   },
   {
@@ -910,7 +910,7 @@ export const KORPUSA = [
     "price": 71940,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Aerocool, APNX V1 BW (V1-BW-v1), ATX/Micro ATX, USB 1*Type C/2*3.2, HD-Audio+Mic, Высота процессорного кулера до 170 мм, Длина VGA до 395мм, 2*3.5\"/6*2.5\", Толщина 0,8мм, 485.5x290x500мм, Без Б/П, Чёрно-белый"
   },
   {
@@ -922,7 +922,7 @@ export const KORPUSA = [
     "price": 76858,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Aerocool, APNX V1 W (V1-WT-v1), ATX/Micro ATX, USB 1*Type C/2*3.2, HD-Audio+Mic, Высота процессорного кулера до 170 мм, Длина VGA до 395мм, 2*3.5\"/6*2.5\", Толщина 0,8мм, 485.5x290x500мм, Без Б/П, Белый"
   },
   {
@@ -934,7 +934,7 @@ export const KORPUSA = [
     "price": 82237,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Aerocool, APNX V1-W-BK-v1, ATX/Micro ATX, USB 1*Type C/2*3.2, HD-Audio+Mic, Высота процессорного кулера до 170 мм, Длина VGA до 395мм, 2*3.5\"/6*2.5\", Толщина 0,8мм, 485.5x290x500мм, Без Б/П, Чёрно-белый"
   },
   {
@@ -946,7 +946,7 @@ export const KORPUSA = [
     "price": 83768,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, HAVN, BF 360 Black (HVN-CA-BF360-02), E-ATX/ATX/Micro ATX, USB 1*Type C/2*3.0, Высота процессорного кулера до 195 мм, Длина VGA до 410мм, 1*3.5\"/2*2.5\", Толщина 0,8мм, 515x254x522.6мм, Без Б/П, Чёрный"
   },
   {
@@ -958,7 +958,7 @@ export const KORPUSA = [
     "price": 83798,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, HAVN, BF 360 White (HVN-CA-BF360-02), E-ATX/ATX/Micro ATX, USB 1*Type C/2*3.0, Высота процессорного кулера до 195 мм, Длина VGA до 410мм, 1*3.5\"/2*2.5\", Толщина 0,8мм, 515x254x522.6мм, Без Б/П, Белый"
   },
   {
@@ -970,7 +970,7 @@ export const KORPUSA = [
     "price": 102822,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, HAVN, BF 360 Flow Black (HVN-CA-BF360-04), E-ATX/ATX/Micro ATX, USB 1*Type C/2*3.0, Кулер 2*180/1*140 мм, Высота процессорного кулера до 195 мм, Длина VGA до 410мм, 1*3.5\"/2*2.5\", Толщина 0,8мм, 515x254x522.6мм, Без Б/П, Чёрный"
   },
   {
@@ -982,7 +982,7 @@ export const KORPUSA = [
     "price": 102822,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, HAVN, BF 360 Flow White (HVN-CA-BF360-03), E-ATX/ATX/Micro ATX, USB 1*Type C/2*3.0 , Кулер 2*180/1*140 мм, Высота процессорного кулера до 195 мм, Длина VGA до 410мм, 1*3.5\"/2*2.5\", Толщина 0,8мм, 515x254x522.6мм, Без Б/П, Белый"
   },
   {
@@ -994,7 +994,7 @@ export const KORPUSA = [
     "price": 110842,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, HAVN, HS 420 BK (HVN-CA-HS420-06), E-ATX/ATX/Micro ATX, USB 1*Type C/2*3.2, HD-Audio, Высота процессорного кулера до 185 мм, Длина VGA до 480мм, 5*3.5\"/5*2.5\", Толщина 0,8мм, 541x259,5x547мм, Без Б/П, Чёрный"
   },
   {
@@ -1006,7 +1006,7 @@ export const KORPUSA = [
     "price": 110842,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, HAVN, HS 420 WH (HVN-CA-HS420-05), E-ATX/ATX/Micro ATX, USB 1*Type C/2*3.2, HD-Audio, Высота процессорного кулера до 185 мм, Длина VGA до 480мм, 5*3.5\"/5*2.5\", Толщина 0,8мм, 541x259,5x547мм, Без Б/П, Белый"
   },
   {
@@ -1018,7 +1018,7 @@ export const KORPUSA = [
     "price": 151320,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, HAVN, HS 420 VGPU BK (HVN-CA-HS420-08), E-ATX/ATX/Micro ATX, USB 1*Type C/2*3.2, HD-Audio, Высота процессорного кулера до 185 мм, Длина VGA до 470мм, 5*3.5\"/5*2.5\", Толщина 0,8мм, 541x259,5x547мм, Без Б/П, Чёрный"
   },
   {
@@ -1030,7 +1030,7 @@ export const KORPUSA = [
     "price": 151320,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, HAVN, HS 420 VGPU WH (HVN-CA-HS420-07), E-ATX/ATX/Micro ATX, USB 1*Type C/2*3.2, HD-Audio, Высота процессорного кулера до 185 мм, Длина VGA до 470мм, 5*3.5\"/5*2.5\", Толщина 0,8мм, 541x259,5x547мм, Без Б/П, Белый"
   },
   {
@@ -1042,7 +1042,7 @@ export const KORPUSA = [
     "price": 20200,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Cougar, MX110 RGB, ATX/Micro ATX/Mini ITX, USB 3.0/2*2.0, HD-Audio+Mic, Кулер 4*12см RGB, Высота процессорного кулера до 158 мм, Длина VGA до 305мм, 2*3.5\"/2+2*2.5\", Толщина 0,6мм, 452x200x360мм, Без Б/П, Черный"
   },
   {
@@ -1054,7 +1054,7 @@ export const KORPUSA = [
     "price": 34380,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Cougar, MX220 RGB, ATX/Micro ATX/Mini ITX, USB 1*Type C/2*3.0, 4 Pole Headset Audio Jack, RGB Button, Кулер 4*12см ARGB, Высота процессорного кулера до 160 мм, Длина VGA до 340мм, 2*3.5\"/2+2*2.5\", Толщина 0,6мм, 485x205x393мм, Без Б/П, Чёрный"
   },
   {
@@ -1066,7 +1066,7 @@ export const KORPUSA = [
     "price": 36661,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Cougar, MX220 RGB (White), ATX/Micro ATX/Mini ITX, USB 1*Type C/2*3.0, 4 Pole Headset Audio Jack, RGB Button, Кулер 4*12см ARGB, Высота процессорного кулера до 160 мм, Длина VGA до 340мм, 2*3.5\"/2+2*2.5\", Толщина 0,6мм, 485x205x393мм, Без Б/П, Белый"
   },
   {
@@ -1078,7 +1078,7 @@ export const KORPUSA = [
     "price": 45258,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Cougar, MX600 Mini RGB, Micro ATX/Mini ITX, USB 1*Type C/2*3.0, 4 Pole Headset Audio Jack & RGB Button, Кулер 2*16см ARGB/1*12см ARGB, Высота процессорного кулера до 175 мм, Длина VGA до 380мм, 2*3.5\"/2+1*2.5\", Толщина 0,6мм, 445x232x456мм, Без Б/П, Чёрный"
   },
   {
@@ -1090,7 +1090,7 @@ export const KORPUSA = [
     "price": 27645,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Cougar, Airface Pure Pro Black, ATX/Micro ATX/Mini ITX, USB Type-C/2*3.0, HD-Audio, Кулер 4*12см ARGB, Высота процессорного кулера до 175 мм, Длина VGA до 320мм, 2*3.5\"/2+1*2.5\", Толщина 0,6мм, 375x220x460мм, Без Б/П, Чёрный"
   },
   {
@@ -1102,7 +1102,7 @@ export const KORPUSA = [
     "price": 36002,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Cougar, Airface 180, ATX/Micro ATX/Mini ITX/CEB, USB 3.0*2/Type-C, 4 Pole Headset Audio, RGB button, Кулер 2*18см RGB/1*12см ARGB PWN, Высота процессорного кулера до 170 мм, Длина VGA до 340мм, 2*3.5\"/1+1*2.5\", Толщина 0,6мм, 483x220x410мм, Без Б/П, Чёрный"
   },
   {
@@ -1114,7 +1114,7 @@ export const KORPUSA = [
     "price": 38019,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Cougar, Airface 180 WH, ATX/Micro ATX/Mini ITX/CEB, USB 3.0*2/Type-C, 4 Pole Headset Audio, RGB button, Кулер 2*18см RGB/1*12см ARGB PWM, Высота процессорного кулера до 170 мм, Длина VGA до 340мм, 2*3.5\"/1+1*2.5\", Толщина 0,6мм, 483x220x410мм, Без Б/П, Белый"
   },
   {
@@ -1126,7 +1126,7 @@ export const KORPUSA = [
     "price": 33950,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Cougar, Airface RGB, ATX/Micro ATX/Mini ITX, USB 2*3.0/2.0, HD-Audio+Mic, Кулер 2*14см/1*12см ARGB, Высота процессорного кулера до 190 мм, Длина VGA до 330мм, 2*3.5\"/2*2.5\", Толщина 0,6мм, 491x230x386мм, Без Б/П, Чёрный"
   },
   {
@@ -1138,7 +1138,7 @@ export const KORPUSA = [
     "price": 34435,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Cougar, Airface RGB White, ATX/Micro ATX/Mini ITX, USB 2*3.0/2.0, HD-Audio+Mic, Кулер 2*14см/1*12см ARGB, Высота процессорного кулера до 190 мм, Длина VGA до 330мм, 2*3.5\"/2*2.5\", Толщина 0,6мм, 491x230x386мм, Без Б/П, Белый"
   },
   {
@@ -1150,7 +1150,7 @@ export const KORPUSA = [
     "price": 58174,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Cougar, Airface ECO RGB, E-ATX/CEB/ATX/Micro ATX/Mini ITX, USB Type-C/2*3.0, HD-Audio+Mic, Кулер 2*18см/1*12см ARGB, Высота процессорного кулера до 190 мм, Длина VGA до 390мм, 2*3.5\"/2*2.5\", Толщина 0,6мм, 509x240x480мм, Без Б/П, Чёрный"
   },
   {
@@ -1162,7 +1162,7 @@ export const KORPUSA = [
     "price": 58499,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Cougar, Airface ECO RGB White, E-ATX/CEB/ATX/Micro ATX/Mini ITX, USB Type-C/2*3.0, HD-Audio+Mic, Кулер 2*18см/1*12см ARGB, Высота процессорного кулера до 190 мм, Длина VGA до 390мм, 2*3.5\"/2*2.5\", Толщина 0,6мм, 509x240x480мм, Без Б/П, Белый"
   },
   {
@@ -1174,7 +1174,7 @@ export const KORPUSA = [
     "price": 28562,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Cougar, Uniface Mini RGB (White) CGR-55C9W-RGB, Micro ATX/Mini ITX, USB 2*3.0/1*2.0, HD-Audio+Mic, Кулер 2*14см ARGB/1*12см ARGB, Высота процессорного кулера до 160 мм, Длина VGA до 340мм, 2*3.5\"/2+2*2.5\", Толщина 0,6мм, 422x210x390мм, Без Б/П, Белый"
   },
   {
@@ -1186,7 +1186,7 @@ export const KORPUSA = [
     "price": 44513,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Cougar, Uniface RGB CGR-5C78B-RGB, E-ATX/CEB/ATX/Micro ATX/Mini ITX, USB 1*Type C/2*3.0, 4 Pole Headset Audio, Кулер 4*12см ARGB, Высота процессорного кулера до 180 мм, Длина VGA до 400мм, 2*3.5\"/2+1*2.5\", Толщина 0,6мм, 493x230x475мм, Без Б/П, Чёрный"
   },
   {
@@ -1198,7 +1198,7 @@ export const KORPUSA = [
     "price": 44892,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Cougar, Uniface RGB (White) CGR-5C78W-RGB, E-ATX/CEB/ATX/Micro ATX/Mini ITX, USB 1*Type C/2*3.0, 4 Pole Headset Audio, Кулер 4*12см ARGB, Высота процессорного кулера до 180 мм, Длина VGA до 400мм, 2*3.5\"/2+1*2.5\", Толщина 0,6мм, 493x230x475мм, Без Б/П, Белый"
   },
   {
@@ -1210,7 +1210,7 @@ export const KORPUSA = [
     "price": 41424,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Cougar, Duoface RGB CGR-5ZD1B-RGB, CEB/ATX/Micro ATX/Mini ITX, USB 2*3.0/1*2.0, HD-Audio+Mic, Кулер 2*14см ARGB/1*14см ARGB, Высота процессорного кулера до 190 мм, Длина VGA до 330мм, 2*3.5\"/2*2.5\", Толщина 0,6мм, 491x230x386мм, Без Б/П, Чёрный"
   },
   {
@@ -1222,7 +1222,7 @@ export const KORPUSA = [
     "price": 50561,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Cougar, Duoface Pro RGB CGR-5AD1B-RGB, CEB/ATX/Micro ATX/Mini ITX, USB 1*Type C/2*3.0/1*2.0, HD-Audio+Mic, Кулер 3*12см ARGB/1*12см ARGB, Высота процессорного кулера до 190 мм, Длина VGA до 390мм, 2*3.5\"/2*2.5\", Толщина 0,6мм, 496x240x465мм, Без Б/П, Чёрный"
   },
   {
@@ -1234,7 +1234,7 @@ export const KORPUSA = [
     "price": 53108,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Cougar, Duoface Pro RGB (White) CGR-5AD1W-RGB, CEB/ATX/Micro ATX/Mini ITX, USB 1*Type C/2*3.0/1*2.0, HD-Audio+Mic, Кулер 3*12см ARGB/1*13см ARGB, Высота процессорного кулера до 190 мм, Длина VGA до 390мм, 2*3.5\"/2*2.5\", Толщина 0,6мм, 496x240x465мм, Без Б/П, Белый"
   },
   {
@@ -1246,7 +1246,7 @@ export const KORPUSA = [
     "price": 41322,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Cougar, FV150 RGB, ATX/Micro ATX/Mini ITX, USB 1*Type C/2*3.0, 4 Pole Headset Audio, Кулер 4*12см ARGB, Высота процессорного кулера до 180 мм, Длина VGA до 400мм, 2*3.5\"/1+1*2.5\", Слот 7+3, Толщина 0,6мм, 400x300x420мм, Без Б/П, Чёрный"
   },
   {
@@ -1258,7 +1258,7 @@ export const KORPUSA = [
     "price": 43505,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Cougar, FV150 RGB White, ATX/Micro ATX/Mini ITX, USB 1*Type C/2*3.0, 4 Pole Headset Audio, Кулер 4*12см ARGB, Высота процессорного кулера до 180 мм, Длина VGA до 400мм, 2*3.5\"/1+1*2.5\", Слот 7+3, Толщина 0,6мм, 400x300x420мм, Без Б/П, Белый"
   },
   {
@@ -1270,7 +1270,7 @@ export const KORPUSA = [
     "price": 64990,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Cougar, OmnyX, ATX/Micro ATX/Mini ITX, USB 2 *Type C/4*3.0, 4 Pole Headset Audio, Кулер 4*16см ARGB, Высота процессорного кулера до 170 мм, Длина VGA до 380мм, 2*3.5\"/2*2.5\", Слот 7, Толщина 0,6мм, 520x300x470мм, Без Б/П, Чёрный"
   },
   {
@@ -1282,7 +1282,7 @@ export const KORPUSA = [
     "price": 66930,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Cougar, OmnyX White , ATX/Micro ATX/Mini ITX, USB 2 *Type C/4*3.0, 4 Pole Headset Audio, Кулер 4*16см ARGB, Высота процессорного кулера до 170 мм, Длина VGA до 380мм, 2*3.5\"/2*2.5\", Слот 7, Толщина 0,6мм, 520x300x470мм, Без Б/П, Белый"
   },
   {
@@ -1294,7 +1294,7 @@ export const KORPUSA = [
     "price": 64298,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Cougar, CFV235, CEB/ATX/Micro ATX/Mini ITX, USB 1*Type C/2*3.0, 4 Pole Headset Audio, RGB button, Кулер 3*12см ARGB PWM, Высота процессорного кулера до 175 мм, Длина VGA до 430 мм, 2*3.5\"/2+2*2.5\", Слот 7, Толщина 0,6мм, 493x235x460мм, Без Б/П, Чёрный"
   },
   {
@@ -1306,7 +1306,7 @@ export const KORPUSA = [
     "price": 67035,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Cougar, CFV235 WH, E-ATX/CEB/ATX/Micro ATX, USB 1*Type C/2*3.0, 4 Pole Headset Audio, RGB button, Кулер 3*12см ARGB PWM, Высота процессорного кулера до 175 мм, Длина VGA до 430 мм, 2*3.5\"/2+2*2.5\", Слот 7, Толщина 0,6мм, 493x235x460мм, Без Б/П, Белый"
   },
   {
@@ -1318,7 +1318,7 @@ export const KORPUSA = [
     "price": 82212,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Cougar, FV270, E-ATX/CEB/ATX/Micro ATX, USB 1*Type C/2*3.0, 4 Pole Headset Audio, Кулер 1*12см ARGB, Высота процессорного кулера до 180 мм, Длина VGA до 420 гор/450мм верт, 2*3.5\"/2+2*2.5\", Слот 7, Толщина 0,6мм, 530x268x512мм, Без Б/П, Чёрный"
   },
   {
@@ -1330,7 +1330,7 @@ export const KORPUSA = [
     "price": 82450,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Cougar, FV270 WH, E-ATX/CEB/ATX/Micro ATX, USB 1*Type C/2*3.0, 4 Pole Headset Audio, Кулер 1*12см ARGB, Высота процессорного кулера до 180 мм, Длина VGA до 420 гор/450мм верт, 2*3.5\"/2+2*2.5\", Слот 7, Толщина 0,6мм, 530x268x512мм, Без Б/П, Белый"
   },
   {
@@ -1342,7 +1342,7 @@ export const KORPUSA = [
     "price": 18631,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Formula V, Mana Black, ATX /Micro ATX/Mini-ITX, USB Type C/3.0/2.0, HD-Audio+Mic, Кулер 4*120мм RGB, Высота процессорного кулера до 160мм, Длина VGA до 300мм, 2*3.5\"/1*2.5\", Толщина 0,5мм, 365x200x450мм, Без Б/П, Чёрный"
   },
   {
@@ -1354,7 +1354,7 @@ export const KORPUSA = [
     "price": 15973,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Formula V, Crystal Z1 Black, ATX/Micro ATX/Mini-ITX, USB 3.0/2.0*2, HD-Audio+Mic, Высота процессорного кулера до 165мм, Длина VGA до 300мм, 1*3.5\"/2*2.5\", Толщина 0,5мм, 346x212x487мм, Без Б/П, Чёрный"
   },
   {
@@ -1366,7 +1366,7 @@ export const KORPUSA = [
     "price": 20540,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Formula V, Crystal Z1+ Black, ATX/micro ATX/mini-ITX, USB Type C/3.0/2.0, HD-Audio+Mic, Кулер 3*120мм ARGB, Высота процессорного кулера до 165мм, Длина VGA до 300мм, 1*3.5\"/2*2.5\", Толщина 0,5мм, 346x212x487мм, Без Б/П, Чёрный"
   },
   {
@@ -1378,7 +1378,7 @@ export const KORPUSA = [
     "price": 37830,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Formula V, Crystal Z6 Floe Black, ATX/micro ATX, USB Type C/3.0*2, HD-Audio, Кулер 4*120мм Floe ARPW, Высота процессорного кулера до 165мм, Длина VGA до 410мм, 2*3.5\"/2*2.5\", Толщина 0,6мм, 425x280x435мм, Без Б/П, Чёрный"
   },
   {
@@ -1390,7 +1390,7 @@ export const KORPUSA = [
     "price": 45099,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Formula V, Crystal Z7 PA Black, EATX/ATX/micro ATX, USB Type C/3.0*1, HD-Audio, Кулер 5*120 мм ARGB, Высота процессорного кулера до 175мм, Длина VGA до 435мм, 3*3.5\"/1*2.5\", Толщина 0,7мм, 453.6x290x457.7мм, Без Б/П, Черный"
   },
   {
@@ -1402,7 +1402,7 @@ export const KORPUSA = [
     "price": 46349,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Formula V, Crystal Z7 PA White, EATX/ATX/micro ATX, USB Type C/3.0*1, HD-Audio, Кулер 5*120 мм ARGB, Высота процессорного кулера до 175мм, Длина VGA до 435мм, 3*3.5\"/1*2.5\", Толщина 0,7мм, 453.6x290x457.7мм, Без Б/П, Белый"
   },
   {
@@ -1414,7 +1414,7 @@ export const KORPUSA = [
     "price": 53544,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Formula V, Crystal Z9 Floe Black, ATX/micro ATX, USB Type C/2*3.0, HD-Audio, Кулер 7*120мм Floe ARPW, Высота процессорного кулера до 165мм, Длина VGA до 410мм, 2*3.5\"/1*2.5\", Толщина 0,6мм, 428x280x460мм, Без Б/П, Чёрный"
   },
   {
@@ -1426,7 +1426,7 @@ export const KORPUSA = [
     "price": 36078,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Formula V, Crystal E1 Floe Black, ATX/micro ATX/ITX, USB Type C*1/3.0*2, HD-Audio, Кулер 3*120мм Floe ARPW, Высота процессорного кулера до 160мм, Длина VGA до 400мм, 2*3.5\"/3*2.5\", Толщина 0,7мм, 413x210x485мм, Без Б/П, Чёрный"
   },
   {
@@ -1438,7 +1438,7 @@ export const KORPUSA = [
     "price": 36078,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Formula V, Crystal E1 Cosmic White, ATX/micro ATX/ITX, USB Type C*1/3.0*2, HD-Audio, Кулер 3*120мм Floe ARPW, Высота процессорного кулера до 160мм, Длина VGA до 400мм, 2*3.5\"/3*2.5\", Толщина 0,7мм, 413x210x485мм, Без Б/П, Белый"
   },
   {
@@ -1450,7 +1450,7 @@ export const KORPUSA = [
     "price": 39917,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Formula V, Crystal U9 PA Black, EATX/ATX/micro ATX, USB Type C/3.0*2, HD-Audio, Кулер 4*120 мм ARGB, Высота процессорного кулера до 182мм, Длина VGA до 420мм, 1*3.5\"/1*2.5\", Толщина 0,7мм, 480x235x484мм, Без Б/П, Черный"
   },
   {
@@ -1462,7 +1462,7 @@ export const KORPUSA = [
     "price": 44929,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Formula V, Crystal U9 PA White, EATX/ATX/micro ATX, USB Type C/3.0*2, HD-Audio, Кулер 4*120 мм ARGB, Высота процессорного кулера до 182мм, Длина VGA до 420мм, 1*3.5\"/1*2.5\", Толщина 0,7мм, 480x235x484мм, Без Б/П, Белый"
   },
   {
@@ -1474,7 +1474,7 @@ export const KORPUSA = [
     "price": 41904,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Formula V, Crystal U2 Floe Black, ATX/micro ATX/mini-ITX, USB Type C/3.0/2.0, HD-Audio, Кулер 4*120мм Floe ARPW, Высота процессорного кулера до 160мм, Длина VGA до 410мм, 2*3.5\"/2*2.5\", Толщина 0,5мм, 450x280x435мм, Без Б/П, Чёрный"
   },
   {
@@ -1486,7 +1486,7 @@ export const KORPUSA = [
     "price": 43203,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Formula V, Crystal U2 Floe White, ATX/micro ATX/mini-ITX, USB Type C/3.0/2.0, HD-Audio, Кулер 4*120мм Floe ARPW, Высота процессорного кулера до 160мм, Длина VGA до 410мм, 2*3.5\"/2*2.5\", Толщина 0,5мм, 450x280x435мм, Без Б/П, Белый"
   },
   {
@@ -1498,7 +1498,7 @@ export const KORPUSA = [
     "price": 39703,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Formula V, Air Power G9 DUO PA Black, EATX/ATX/micro ATX/mini-ITX, USB Type C*1/3.0*2, HD-Audio, Кулер 4*120мм ARGB, Высота процессорного кулера до 182мм, Длина VGA до 420мм, 1*3.5\"/1*2.5\", Толщина 0,7мм, 480x235x484мм, Без Б/П, Чёрный"
   },
   {
@@ -1510,7 +1510,7 @@ export const KORPUSA = [
     "price": 42723,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Formula V, Air Power G9 DUO SA White, EATX/ATX/micro ATX/mini-ITX, USB Type C*1/3.0*2, HD-Audio, Кулер 4*120мм ARGB, Высота процессорного кулера до 182мм, Длина VGA до 420мм, 1*3.5\"/1*2.5\", Толщина 0,7мм, 480x235x484мм, Без Б/П, Белый"
   },
   {
@@ -1522,7 +1522,7 @@ export const KORPUSA = [
     "price": 46578,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Formula V, Air Power G8 Cosmic Black, ATX/micro ATX/mini-ITX, USB Type C*1/3.0*2, HD-Audio, Кулер 5*120мм ARPW, Высота процессорного кулера до 178мм, Длина VGA до 420мм, 1*3.5\"/3*2.5\", Толщина 0,5мм, 480x235x470мм, Без Б/П, Чёрный"
   },
   {
@@ -1534,7 +1534,7 @@ export const KORPUSA = [
     "price": 23183,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, 1108-5961R0028, G561E-BK, Mid-Tower, ATX/mATX/Mini-ITX, USB3.0*1 / USB2.0*2, HD-Audio, Кулер 1*12см FRGB, Высота процессорного кулера 160мм, Длина VGA 360мм, Количество отсеков 2*3,5\" / 2*2,5\" /1*5,25\", Сталь/Закаленное стекло, 370x180x427мм, Без Б/П, Черный"
   },
   {
@@ -1546,7 +1546,7 @@ export const KORPUSA = [
     "price": 23183,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, G561E-WH, 1108-5961R0029, ATX/MATX/ITX, 2*3.5\"/2*2.5\", Высота кулера до 160 мм, Длина VGA до 360 мм, 424x200x452 мм, Без Б/П, Белый"
   },
   {
@@ -1558,7 +1558,7 @@ export const KORPUSA = [
     "price": 32883,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, Storm 2 AB, 1115-3803R0006, ATX/MATX/ITX, 2*3.5\"/3*2.5\", Высота кулера до 155 мм, Длина VGA до 330 мм, 386x200x449 мм, Без Б/П, Черный"
   },
   {
@@ -1570,7 +1570,7 @@ export const KORPUSA = [
     "price": 34823,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, Storm 2 AW, 1115-3803R0007, ATX/MATX/ITX, 2*3.5\"/3*2.5\", Высота кулера до 155 мм, Длина VGA до 330 мм, 386x200x449 мм, Без Б/П, Белый"
   },
   {
@@ -1582,7 +1582,7 @@ export const KORPUSA = [
     "price": 20273,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, Edge, 9101-0100R0017, MATX/ITX, 3*3.5\"/5*2.5\", Высота кулера до 155 мм, Длина VGA до 320 мм, 380x200x450 мм, Без Б/П, Черный"
   },
   {
@@ -1594,7 +1594,7 @@ export const KORPUSA = [
     "price": 61013,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, HYPE-M BK, 9101-0000R0185, MATX/ITX, 2*3.5\"/3*2.5\", Высота кулера до 157 мм, Длина VGA до 400 мм, 453x280x377 мм, Без Б/П, Черный"
   },
   {
@@ -1606,7 +1606,7 @@ export const KORPUSA = [
     "price": 62953,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, HYPE-M WH, 9101-0000R0186, MATX/ITX, 2*3.5\"/3*2.5\", Высота кулера до 157 мм, Длина VGA до 400 мм, 453x280x377 мм, Без Б/П, Белый"
   },
   {
@@ -1618,7 +1618,7 @@ export const KORPUSA = [
     "price": 38703,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, Siege BK, 9101-0800R0031, ATX/MATX/ITX, 2*3.5\"/3*2.5\", Высота кулера до 165 мм, Длина VGA до 410 мм, 465x210x485 мм, Без Б/П, Черный"
   },
   {
@@ -1630,7 +1630,7 @@ export const KORPUSA = [
     "price": 42583,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, Precision 2 Black, 1128-8008R0017, ATX/MATX/ITX, 2*3.5\"/2*2.5\", Высота кулера до 170 мм, Длина VGA до 360 мм, 443x210x493 мм, Без Б/П, Черный"
   },
   {
@@ -1642,7 +1642,7 @@ export const KORPUSA = [
     "price": 44523,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, Precision 2 White, 1128-8008R0013, ATX/MATX/ITX, 2*3.5\"/2*2.5\", Высота кулера до 170 мм, Длина VGA до 360 мм, 443x210x493 мм, Без Б/П, Белый"
   },
   {
@@ -1654,7 +1654,7 @@ export const KORPUSA = [
     "price": 39673,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, AERIS 330 MB, 1117-3709R0001, MATX/ITX, 2*3.5\"/3*2.5\", Высота кулера до 155 мм, Длина VGA до 330 мм, 386х200х449 мм, Без Б/П, Черный"
   },
   {
@@ -1666,7 +1666,7 @@ export const KORPUSA = [
     "price": 44523,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, F36 WH, 1116-4036R0010, MATX/ITX, 2*3.5\"/3*2.5\", Высота кулера до 169 мм, Длина VGA до 350 мм, 419x216x388 мм, Без Б/П, Черный"
   },
   {
@@ -1678,7 +1678,7 @@ export const KORPUSA = [
     "price": 54223,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, T20 BK, 9101-1000R0001, Mid-Tower, M-ATX, USB3.0*1/ Type-C*1/ HD-Audio, Кулер ARGB 2*12см, Высота процессорного кулера 160мм, Длина VGA 382мм, Количество отсеков 1*3,5\" / 2*2,5\", Сталь/Закаленное стекло, 340*215*462 мм, Без Б/П, Черный"
   },
   {
@@ -1690,7 +1690,7 @@ export const KORPUSA = [
     "price": 42583,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, P31 BK, 1125-2003R0002, ATX/MATX/ITX, 1*3.5\"/3*2.5\", Высота кулера до 168 мм, Длина VGA до 355 мм, 436.5x204x403 мм, Без Б/П, Черный"
   },
   {
@@ -1702,7 +1702,7 @@ export const KORPUSA = [
     "price": 44523,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, F35 BW, 1116-4035R0003, MATX/ITX/BTF, 2*3.5\"/3*2.5\", Высота кулера до 169 мм, Длина VGA до 350 мм, 419x216x388 мм, Без Б/П, Черный"
   },
   {
@@ -1714,7 +1714,7 @@ export const KORPUSA = [
     "price": 45493,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, F46 BK, 1116-4046R0002, ATX/MATX/ITX, 2*3.5\"/3*2.5\", Высота кулера до 169 мм, Длина VGA до 350 мм, 419x216x449 мм, Без Б/П, Черный"
   },
   {
@@ -1726,7 +1726,7 @@ export const KORPUSA = [
     "price": 56163,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, Brufen COC, 1126-3608R0043, Mid Tower, E-ATX/ATX/ m-ATX/ITX, USB3.0*2, Type-C*1, HD-Audio, Кулер ARGB 5*12см, Длина процессорного кулера 170мм, Длина VGA 340мм, Количество отсеков 2*3,5\" / 2*2,5\", Сталь/ Закаленное стекло, 436х210х461мм, Без Б/П, Черный"
   },
   {
@@ -1738,7 +1738,7 @@ export const KORPUSA = [
     "price": 43553,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, VISTA 2 MW, 9101-0600R0017, MATX/ITX, 2*3.5\"/2*2.5\", Высота кулера до 165 мм, Длина VGA до 410 мм, 433x210x450 мм, Без Б/П, Черный"
   },
   {
@@ -1750,7 +1750,7 @@ export const KORPUSA = [
     "price": 47433,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, F35 WW, 1116-4035R0002, MATX/ITX, 2*3.5\"/3*2.5\", Высота кулера до 169 мм, Длина VGA до 350 мм, 419x216x388 мм, Без Б/П, Белый"
   },
   {
@@ -1762,7 +1762,7 @@ export const KORPUSA = [
     "price": 44523,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, P31 WH, 1125-2003R0003, ATX/MATX/ITX, 1*3.5\"/3*2.5\", Высота кулера до 168 мм, Длина VGA до 355 мм, 436.5x204x403 мм, Без Б/П, Белый"
   },
   {
@@ -1774,7 +1774,7 @@ export const KORPUSA = [
     "price": 48403,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, F45 BW, 1116-4045R0003, ATX/MATX/ITX, 2*3.5\"/3*2.5\", Высота кулера до 169 мм, Длина VGA до 350 мм, 419x216x449 мм, Без Б/П, Черный"
   },
   {
@@ -1786,7 +1786,7 @@ export const KORPUSA = [
     "price": 52283,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, F45 WW, 1116-4045R0002, ATX/MATX/ITX, 2*3.5\"/3*2.5\", Высота кулера до 169 мм, Длина VGA до 350 мм, 419x216x449 мм, Без Б/П, Белый"
   },
   {
@@ -1798,7 +1798,7 @@ export const KORPUSA = [
     "price": 52283,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, CLAW 460 WB, 1110-6607R0018, ATX/MATX/ITX, 2*3.5\"/2*2.5\", Высота кулера до 175 мм, Длина VGA до 420 мм, 483x220x458 мм, Без Б/П, Черный"
   },
   {
@@ -1810,7 +1810,7 @@ export const KORPUSA = [
     "price": 54310,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, Abyss TR, 12990800039, Mid Tower, E-ATX/ATX/m-ATX/Mini-ITX, USB3.0*2/ USB2.0*2/ HD-Audio, Кулер 1*12см ARGB, Высота процессорного кулера 170мм, Длина VGA 455мм, Количество отсеков 2*3,5\" / 4*2,5\", Сталь, 465x526x597мм, Без Б/П, Чёрный"
   },
   {
@@ -1822,7 +1822,7 @@ export const KORPUSA = [
     "price": 39673,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, Aero mini, 1110-6607R0017, MATX/ITX, 2*3.5\"/2*2.5\", Высота кулера до 155 мм, Длина VGA до 340 мм, 393x193x415 мм, Без Б/П, Черный"
   },
   {
@@ -1834,7 +1834,7 @@ export const KORPUSA = [
     "price": 29003,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, Aero mini ECO, 1110-6607R0018, MATX/ITX, 2*3.5\"/2*2.5\", Высота кулера до 155 мм, Длина VGA до 340 мм, 393x193x415 мм, Без Б/П, Черный"
   },
   {
@@ -1846,7 +1846,7 @@ export const KORPUSA = [
     "price": 38703,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, Defender MB, 9101-0600R0014, M-ATX, USB2.0*2/ USB3.1*1/ HD-Audio, Кулер 4*120мм ARGB, Высота процессорного кулера 165мм, Длина VGA 410мм, Количество отсеков 2*3,5\" / 3*2,5\", Сталь/Закаленное стекло, 461*210*450 мм, Без Б/П, Чёрный"
   },
   {
@@ -1858,7 +1858,7 @@ export const KORPUSA = [
     "price": 34823,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, Destroyer MB 6670M, 9101-0300R0006, 14100901679, Mini Tower, m-ATX/Mini-ITX, USB2.0*2/ USB3.0*1/ HD-Audio, Кулер 4*12см FRGB, Длина процессорного кулера 165мм, Длина VGA 410мм, Количество отсеков 2*3,5\" / 3*2,5\", Сталь, 415*210*435мм, Без Б/П, Черный"
   },
   {
@@ -1870,7 +1870,7 @@ export const KORPUSA = [
     "price": 41613,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, 1126-3603R0048, Draco XD, Mid Tower, ATX/M-ATX/ITX, USB3.0*1 / USB2.0*1, HD-Audio, Кулер 4*120мм, Высота процессорного кулера 170мм, Длина VGA 340мм, Количество отсеков 2*3,5\" / 2*2,5\", Сталь/Пластик, 421x210x460мм, Без Б/П, Чёрный"
   },
   {
@@ -1882,7 +1882,7 @@ export const KORPUSA = [
     "price": 30943,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, Forge COC, 1117-3701R0005, MATX/ITX, 2*3.5\"/3*2.5\", Высота кулера до 155 мм, Длина VGA до 330 мм, 386x200x449 мм, Без Б/П, Черный"
   },
   {
@@ -1894,7 +1894,7 @@ export const KORPUSA = [
     "price": 28033,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, FORGE MB, 1117-3701R0004, MATX/ITX, 2*3.5\"/3*2.5\", Высота кулера до 155 мм, Длина VGA до 330 мм, 386x200x449 мм, Без Б/П, Черный"
   },
   {
@@ -1906,7 +1906,7 @@ export const KORPUSA = [
     "price": 28033,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, Fortress TG, 1126-3602R0022, ATX/MATX/ITX, 2*3.5\"/2*2.5\", Высота кулера до 164 мм, Длина VGA до 340 мм, 421x210x460 мм, Без Б/П, Черный"
   },
   {
@@ -1918,7 +1918,7 @@ export const KORPUSA = [
     "price": 66833,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, Hype-A BK, 9101-0000R0165, 14100902944, Mid-Tower, ATX/ M-ATX/ M-ITX, USB3.0*1/ USB2.0*2/ HD-Audio, Кулер ARGB 4*12см, Высота процессорного кулера 157мм, Длина VGA 400мм, Количество отсеков 2*3,5\" / 3*2,5\", Сталь/Закаленное стекло, 418*280*435 мм, Без Б/П, Черный"
   },
   {
@@ -1930,7 +1930,7 @@ export const KORPUSA = [
     "price": 34823,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, 9101-0000R0222, Infinity Mini 3 ARGB Fans, M-ATX, USB 3.0*1/ USB 2.0*2, HD Audio, Кулер ARGB 3*120mm, Высота процессорного кулера 155мм, Длина VGA 330мм, Количество отсеков 1*3,5\" / 2*2,5\", Сталь/Закаленное стекло, 358х275х373мм, Без Б/П, Черный"
   },
   {
@@ -1942,7 +1942,7 @@ export const KORPUSA = [
     "price": 45493,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, Infinity Mini BK, 9101-0000R0209, 9101-0000R0191, M-ATX, USB 3.0*1/ USB 2.0*2, HD Audio, Кулер ARGB 7*120mm, Высота процессорного кулера 155мм, Длина VGA 330мм, Количество отсеков 1*3,5\" / 2*2,5\", Сталь/Закаленное стекло, 358х275х373мм, Без Б/П, Черный"
   },
   {
@@ -1954,7 +1954,7 @@ export const KORPUSA = [
     "price": 45493,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, Infinity Mini WH, 9101-0000R0211, 9101-0000R00190, M-ATX, USB 3.0*1/ USB 2.0*2, HD Audio, Кулер ARGB 7*120mm, Высота процессорного кулера 155мм, Длина VGA 330мм, Количество отсеков 1*3,5\" / 2*2,5\", Сталь/Закаленное стекло, 358х275х373мм, Без Б/П, Белый"
   },
   {
@@ -1966,7 +1966,7 @@ export const KORPUSA = [
     "price": 74593,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, Infinity Pro BK, 9101-0000R0156, 14100903090, Mid Tower, ATX/m-ATX/ITX, USB 3.0*1/ Type-C*1/ HD Audio, 5*120мм ARGB вентиляторы, Высота процессорного кулера 160мм, Длина VGA 400мм, Количество отсеков 1*3,5\" / 3*2,5\", Сталь/Закаленное стекло, 418х272х454мм, Без Б/П, Черный"
   },
   {
@@ -1978,7 +1978,7 @@ export const KORPUSA = [
     "price": 19303,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, NOVA N5, 1108-5965R0007, ATX/MATX/ITX, 2*3.5\"/2*2.5\", Высота кулера до 156 мм, Длина VGA до 360 мм, 430x200x437 мм, Без Б/П, Черный"
   },
   {
@@ -1990,7 +1990,7 @@ export const KORPUSA = [
     "price": 22213,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, NOVA N6, 1108-5966R0012, ATX/MATX/ITX, 2*3.5\"/2*2.5\", Высота кулера до 156 мм, Длина VGA до 360 мм, 430x200x437 мм, Без Б/П, Черный"
   },
   {
@@ -2002,7 +2002,7 @@ export const KORPUSA = [
     "price": 39673,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, Vista COC AB, 1115-3806R0004, 12380600001, Mid Tower, ATX/m-ATX/ITX, USB2.0*1/ USB3.0*1/ TypeC *1/ HD-Audio, Кулер 6*12cм ARGB, Высота процессорного кулера 155мм, Длина VGA 330мм, Количество отсеков 2*3,5\" / 2*2,5\", Сталь/Закаленное стекло, 340*200*448 мм, Без Б/П, Чёрный"
   },
   {
@@ -2014,7 +2014,7 @@ export const KORPUSA = [
     "price": 41613,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, Vista COC AW, 1115-3806R0005, 12380600002, Mid Tower, ATX/m-ATX/ITX, USB2.0*1/ USB3.0*1/ TypeC *1/ HD-Audio, Кулер 5*12cм ARGB, Высота процессорного кулера 155мм, Длина VGA 330мм, Количество отсеков 2*3,5\" / 2*2,5\", Сталь/Закаленное стекло, 340*200*448 мм, Без Б/П, Белый"
   },
   {
@@ -2026,7 +2026,7 @@ export const KORPUSA = [
     "price": 29973,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, 1STPLAYER, B7-BK-4M3C4, BLACK.SIR B7-BK-4M3C4, Mid-Tower, ATX/M-ATX/M-ITX, USB3.0*1, USB2.0*2, HD AUDIO+Mic, 4*120мм M3 ARGB вентилятор, Высота процессорного кулера до 165мм, Длина VGA до 315мм, 2*3,5/2*2,5, Сталь/Пластик/Закаленное стекло, 365x210x452мм, Без Б/П, Черный"
   },
   {
@@ -2038,7 +2038,7 @@ export const KORPUSA = [
     "price": 24250,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, 1STPLAYER, DK-3-BK-1F5M-2F5S, Mid-Tower, ATX/M-ATX/M-ITX, USB3.0*1, USB2.0*2, HD AUDIO, 3*120мм F5 RGB вентилятор, Высота процессорного кулера до 155мм, Длина VGA до 290мм, 1*3,5/1*2,5 или 2*3,5, Сталь/Пластик/Закаленное стекло, 380x190x435мм, Без Б/П, Черный"
   },
   {
@@ -2050,7 +2050,7 @@ export const KORPUSA = [
     "price": 19303,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, 1STPLAYER, RB-4-BK-1F5M, Mid-Tower, ATX/M-ATX/M-ITX, USB3.0*1, USB2.0*2, HD AUDIO/Mic, 1*120мм F5 вентилятор, Высота процессорного кулера до 150мм, Длина VGA до 300мм, 2*3,5/2*2,5, Сталь/Закаленное стекло, 365x200x428мм, Без Б/П, Черный"
   },
   {
@@ -2062,7 +2062,7 @@ export const KORPUSA = [
     "price": 25123,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, 1STPLAYER, D4-BK-1F5M-3F5S, Mid-Tower, ATX/M-ATX/ M-ITX, USB3.0*1, USB2.0*2, HD AUDIO, 4*120мм F5 RGB вентилятор, Высота процессорного кулера 160мм, Длина VGA до 305мм, 1*3,5/1*2,5 или 2*3,5, Сталь/Закаленное стекло, 380*190*447мм, Без Б/П, Черный"
   },
   {
@@ -2074,7 +2074,7 @@ export const KORPUSA = [
     "price": 27063,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, 1STPLAYER, D4-WH-1F5MW-3F5SW, Mid-Tower, ATX/M-ATX/ M-ITX, USB3.0*1, USB2.0*2, HD AUDIO, 4*120мм F5 RGB вентилятор, Высота процессорного кулера до 155мм, 1*3,5/1*2,5 или 2*3,5, Длина VGA до 290мм, Алюминий/Пластик/Закаленное стекло, 380x190x435мм, Без Б/П, Белый"
   },
   {
@@ -2086,7 +2086,7 @@ export const KORPUSA = [
     "price": 29003,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, 1STPLAYER, FD3-BK-1F5M-3F5S, Mid-Tower, ATX/M-ATX, USB3.0*1, USB2.0*2, HD AUDIO/MIC, 4*120мм F5 RGB вентилятор, Высота процессорного кулера до 155мм, Длина VGA до 290мм, 1*3,5/1*2,5, Сталь/Пластик/Закаленное стекло, 338x192x447мм, Без Б/П, Черный"
   },
   {
@@ -2098,7 +2098,7 @@ export const KORPUSA = [
     "price": 38703,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, 1STPLAYER, BV6-BK, BV6-BK-2FH7R-1FH7, M-ATX / ITX, 1*3.5\"/2*2.5\", Вентилятор 3*12см, Высота кулера до 160 мм, Длина VGA до 410 мм, 425x275x354 мм, Без Б/П, Черный"
   },
   {
@@ -2110,7 +2110,7 @@ export const KORPUSA = [
     "price": 45493,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, 1STPLAYER, BV7-BK, BV7-BK-3FH7R-1FH7, ATX / M-ATX / ITX, 1*3.5\"/2*2.5\", Вентилятор 4*12см, Высота кулера до 160 мм, Длина VGA до 410 мм, 425x275x398 мм, Без Б/П, Черный"
   },
   {
@@ -2122,7 +2122,7 @@ export const KORPUSA = [
     "price": 54223,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, 1STPLAYER ,Mi8-BK-3FC7R-1FC7, Mid-Tower, ATX/M-ATX/M-ITX, USB3.0*1, Type C*1, HD AUDIO/Mic, 4*120мм FB вентилятор, Высота процессорного кулера до 180мм, Длина VGA до 425мм, Сталь/Закаленное стекло, 450x245x475мм, Без Б/П, Черный"
   },
   {
@@ -2134,7 +2134,7 @@ export const KORPUSA = [
     "price": 36860,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, 1STPLAYER, UV5 BK, UV5-BK-2FC7R-1FC7, M-ATX / ITX, 1*3.5\"/2*2.5\", Кулер 3*12см, Высота кулера до 157 мм, Длина VGA до 330 мм, 280385377 мм, Без Б/П, Черный"
   },
   {
@@ -2146,7 +2146,7 @@ export const KORPUSA = [
     "price": 38800,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, 1STPLAYER, UV5 WH, UV5-WH-2FC7R-W-1FC7-W, M-ATX / ITX, 1*3.5\"/2*2.5\", Кулер 3*12см, Высота кулера до 157 мм, Длина VGA до 330 мм, 280385377 мм, Без Б/П, Белый"
   },
   {
@@ -2158,7 +2158,7 @@ export const KORPUSA = [
     "price": 38800,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, 1STPLAYER, UV6 BK, UV6-BK-2FC7R-1FC7, M-ATX / ITX, 2*3.5\"/3*2.5\", Кулер 3*12см, Высота кулера до 157 мм, Длина VGA до 400 мм, 280453377 мм, Без Б/П, Черный"
   },
   {
@@ -2170,7 +2170,7 @@ export const KORPUSA = [
     "price": 41710,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, 1STPLAYER, UV6 WH, UV6-WH-2FC7R-W-1FC7-W, M-ATX / ITX, 2*3.5\"/3*2.5\", Кулер 3*12см, Высота кулера до 157 мм, Длина VGA до 400 мм, 280453377 мм, Без Б/П, Белый"
   },
   {
@@ -2182,7 +2182,7 @@ export const KORPUSA = [
     "price": 33853,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, 1STPLAYER, T7 P BK, T7-P-BK-4F7, ATX / M-ATX / ITX, 1*3.5\"/3*2.5\", Кулер 4*12см, Высота кулера до 185 мм, Длина VGA до 340 мм, 235410440 мм, Без Б/П, Черный"
   },
   {
@@ -2194,7 +2194,7 @@ export const KORPUSA = [
     "price": 33853,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, 1STPLAYER, T7 P WH, T7-P-WH-4F7-W, ATX / M-ATX / ITX, 1*3.5\"/3*2.5\", Кулер 4*12см, Высота кулера до 185 мм, Длина VGA до 340 мм, 235410440 мм, Без Б/П, Белый"
   },
   {
@@ -2206,7 +2206,7 @@ export const KORPUSA = [
     "price": 48403,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, 1STPLAYER, FIREBASE GM7, GM7-BK-3FN7R-1FN7, ATX / Micro-ATX / Mini-ITX, 1*3.5\"/1*2.5\", Вентилятор 4*120, Высота кулера до 190 мм, Длина VGA до 400 мм, 483235446 мм, Без Б/П, Черный"
   },
   {
@@ -2218,7 +2218,7 @@ export const KORPUSA = [
     "price": 54223,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, 1STPLAYER, RT7 BK, RT7-BK-3FC7R-1FC7, ATX / M-ATX / ITX, 2*3.5\"/3*2.5\", Кулер 4*12см, Высота кулера до 157 мм, Длина VGA до 400 мм, 443280440 мм, Без Б/П, Черный"
   },
   {
@@ -2230,7 +2230,7 @@ export const KORPUSA = [
     "price": 54223,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, 1STPLAYER, RT7 WH, RT7-WH-3FC7R-W-1FC7-W, ATX / M-ATX / ITX, 2*3.5\"/3*2.5\", Кулер 4*12см, Высота кулера до 157 мм, Длина VGA до 400 мм, 443280440 мм, Без Б/П, Белый"
   },
   {
@@ -2242,7 +2242,7 @@ export const KORPUSA = [
     "price": 36763,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, 1STPLAYER, WD7 Black, WD7-BK-4FA7-2FA7R, ATX/Micro-ATX, 2*3.5\"/2*2.5\", Высота кулера до 165 мм, Длина VGA до 315 мм, 365210452 мм, Без Б/П, Черный"
   },
   {
@@ -2254,7 +2254,7 @@ export const KORPUSA = [
     "price": 38703,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, 1STPLAYER, WD7 White, WD7-WH-4FA7-W-2FA7R-W, ATX/Micro-ATX, 2*3.5\"/2*2.5\", Высота кулера до 165 мм, Длина VGA до 315 мм, 365210452 мм, Без Б/П, Черный"
   },
   {
@@ -2266,7 +2266,7 @@ export const KORPUSA = [
     "price": 33853,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, 1STPLAYER, AU6-BK, AU6-BK-2FA7-14-2FA7R-1FA7, M-ATX / ITX, 1*3.5\"/2*2.5\", Вентилятор 4*14 / 1*12см, Высота кулера до 170 мм, Длина VGA до 390 мм, 457x215x407 мм, Без Б/П, Черный"
   },
   {
@@ -2278,7 +2278,7 @@ export const KORPUSA = [
     "price": 35793,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, 1STPLAYER, AU6-WH, AU6-WH-2FA7-14-W-2FA7R-W-1FA7-W, M-ATX / ITX, 1*3.5\"/2*2.5\", Вентилятор 4*14 / 1*12см, Высота кулера до 170 мм, Длина VGA до 390 мм, 457x215x407 мм, Без Б/П, Белый"
   },
   {
@@ -2290,7 +2290,7 @@ export const KORPUSA = [
     "price": 35793,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, 1STPLAYER, AU7-BK, AU7-BK-2FA7-14-2FA7R-1FA7, ATX / M-ATX / ITX, 1*3.5\"/2*2.5\", Вентилятор 4*14см, Высота кулера до 170 мм, Длина VGA до 390 мм, 457x215x465 мм, Без Б/П, Черный"
   },
   {
@@ -2302,7 +2302,7 @@ export const KORPUSA = [
     "price": 37733,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, 1STPLAYER, AU7-WH, AU7-WH-2FA7-14-W-2FA7R-W-1FA7-W, ATX / M-ATX / ITX, 1*3.5\"/2*2.5\", Вентилятор 4*14см, Высота кулера до 170 мм, Длина VGA до 390 мм, 457x215x465 мм, Без Б/П, Белый"
   },
   {
@@ -2314,7 +2314,7 @@ export const KORPUSA = [
     "price": 25123,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, 1STPLAYER, X4 M BK, X4-M-BK-2F7-14-1F7, M-ATX / ITX, 2*3.5\"/2*2.5\", Кулер 1*12,2*14 см, Высота кулера до 160 мм, Длина VGA до 330 мм, 210375423 мм, Без Б/П, Черный"
   },
   {
@@ -2326,7 +2326,7 @@ export const KORPUSA = [
     "price": 52283,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, 1STPLAYER, IF8 BK, IF8-BK-4FO7-14, EATX / ATX / M-ATX / ITX, 3*3.5\"/3*2.5\", Кулер 4*14см, Высота кулера до 180 мм, Длина VGA до 435 мм, 440223480 мм, Без Б/П, Черный"
   },
   {
@@ -2338,7 +2338,7 @@ export const KORPUSA = [
     "price": 53253,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, 1STPLAYER, IF8 WH, IF8-WH-4FO7-14-W, EATX / ATX / M-ATX / ITX, 3*3.5\"/3*2.5\", Кулер 4*14см, Высота кулера до 180 мм, Длина VGA до 435 мм, 440223480 мм, Без Б/П, Белый"
   },
   {
@@ -2350,7 +2350,7 @@ export const KORPUSA = [
     "price": 29003,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, 1STPLAYER, XP-G-WH-4F7-W, Mid-Tower, ATX/M-ATX, USB3.0*1, USB2.0*2, HD AUDIO/Mic, 4*120мм F2 LED вентилятор, Высота процессорного кулера до 165мм, Длина VGA до 320мм, 2*3,5/3*2,5, Сталь/Закаленное стекло, 368x210x480мм, Без Б/П, Белый"
   },
   {
@@ -2362,7 +2362,7 @@ export const KORPUSA = [
     "price": 48403,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, 1STPLAYER, Mi6-EV-BK, Mini-Tower, M-ATX/M-ITX, USB3.0*1, Type C*1, HD AUDIO/Mic, Высота процессорного кулера до 165мм, Длина VGA до 320мм, 1*3,5/1*2,5, Сталь/Пластик/Закаленное стекло, 440x205x352мм, Без Б/П, Черный"
   },
   {
@@ -2374,7 +2374,7 @@ export const KORPUSA = [
     "price": 82935,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, 1STPLAYER, SP7-EV-BK, STEAMPUNK SP7 EMOTION VIEW, Mid-Tower, ATX/M-ATX, USB3.0*2, Type C*1, HD AUDIO/Mic, Высота процессорного кулера до 185мм, Длина VGA до 400мм, 2*3,5/2*2,5, Сталь/Закаленное стекло, 380x190x435мм, Без Б/П, Черный"
   },
   {
@@ -2386,7 +2386,7 @@ export const KORPUSA = [
     "price": 33853,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, N4 Rev.1, Mid Tower, ATX/mATX/Mini-ITX, USB 3.01/USB 2.02, HD Audio/Mic, 3*120/140 мм с RGB LED подсветкой, Высота процессорного кулера до 163 мм, Длина видеокарты до 315 мм, Количество отсеков 2*3.5\"/2*2.5\", размеры 396204446 мм, Без Б/П, Черный"
   },
   {
@@ -2398,7 +2398,7 @@ export const KORPUSA = [
     "price": 27063,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, N5 OF, ATX, Mid Tower, ATX / mATX / Mini-ITX, USB 3.0*1/2.0*2, Audio/Mic, Кулер 3*12см Белый LED, Высота процессорного куллера до 158 мм, Длина VGA до 365 мм, Количество отсеков 2*3.5\"/4*2.5\"/1*5.25\", 437*200*450 мм, Без Б/П, Чёрный"
   },
   {
@@ -2410,7 +2410,7 @@ export const KORPUSA = [
     "price": 28033,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, N5 TF, Mid Tower, ATX/mATX/Mini-ITX, USB 3.0*1/2.0*2, HD Audio/Mic, Кулер 4*12см RGB LED, Высота процессорного куллера до 158 мм, Длина VGA до 365 мм, Количество отсеков 2*3.5\"/4*2.5\", 432*200*450 мм, Без Б/П, Чёрный"
   },
   {
@@ -2422,7 +2422,7 @@ export const KORPUSA = [
     "price": 30943,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, N7 PLUS V2, N7 PLUS V2, ATX, 1*3.5\"/3*2.5\", Высота кулера до 160 мм, Длина VGA до 340 мм, 402х210х490 мм, Без Б/П, Черный"
   },
   {
@@ -2434,7 +2434,7 @@ export const KORPUSA = [
     "price": 38703,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, M4 White, Mini Tower, mATX/Mini-ITX, USB 3.02/USB 2.01, HD Audio, 4120мм RGB вентиляторы, Высота процессорного куллера до 157 мм, Длина VGA до 320 мм, Кол-во отсеков 1*3.5\"/2*2.5\", 385х208х425 мм, Без Б/П, Белый"
   },
   {
@@ -2446,7 +2446,7 @@ export const KORPUSA = [
     "price": 34823,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, M5 Black, M5 Black, Micro-ATX, 1*3.5\"/1*2.5\", Высота кулера до 180 мм, Длина VGA до 410 мм, 474х220х408 мм, Без Б/П, Черный"
   },
   {
@@ -2458,7 +2458,7 @@ export const KORPUSA = [
     "price": 27063,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, S2 TG, Mid Tower, ATX / mATX / Mini-ITX, USB 3.0*1/2.0*2, HD-Audio/Mic, Кулер 3*12см, Высота процессорного куллера до 156 мм, Длина VGA до 330 мм, Количество отсеков 2*3.5\"/2*2.5\", 424*196*462 мм, Без Б/П, Чёрный"
   },
   {
@@ -2470,7 +2470,7 @@ export const KORPUSA = [
     "price": 23183,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, S3, Mid Tower, ATX / mATX / Mini-ITX, USB 3.0*1/2.0*2, HD-Audio/Mic, Кулер 1*12см, Высота процессорного куллера до 156 мм, Длина VGA до 330 мм, Количество отсеков 2*3.5\"/2*2.5\", 412*189*451 мм, Без Б/П, Чёрный"
   },
   {
@@ -2482,7 +2482,7 @@ export const KORPUSA = [
     "price": 27063,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, S3 TG, Mid Tower, ATX / mATX / Mini-ITX, USB 3.0*1/2.0*2, HD-Audio/Mic, Кулер 3*12см, Высота процессорного куллера до 156 мм, Длина VGA до 330 мм, Количество отсеков 2*3.5\"/2*2.5\", 424*196*462 мм, Без Б/П, Чёрный"
   },
   {
@@ -2494,7 +2494,7 @@ export const KORPUSA = [
     "price": 30709,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, S4 PLUS, Mid-Tower, ATX / mATX / Mini-ITX, USB 3.0*1/2.0*2, HD Audio/Mic, Кулер 3*12см RGB, Высота процессорного куллера до 160 мм, Длина VGA до 315мм, Количество отсеков 2*3.5\"/1*2.5\", 400*206*458 мм, Без Б/П, Чёрный"
   },
   {
@@ -2506,7 +2506,7 @@ export const KORPUSA = [
     "price": 34823,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, i3 NEO V2 Black, i3 NEO V2 Black, ATX, 2*3.5\"/1*2.5\", Высота кулера до 160 мм, Длина VGA до 400 мм, 476х219х484 мм, Без Б/П, Черный"
   },
   {
@@ -2518,7 +2518,7 @@ export const KORPUSA = [
     "price": 36763,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, i3 NEO V2 White, i3 NEO V2 White, ATX, 2*3.5\"/1*2.5\", Высота кулера до 160 мм, Длина VGA до 400 мм, 476х219х484 мм, Без Б/П, Белый"
   },
   {
@@ -2530,7 +2530,7 @@ export const KORPUSA = [
     "price": 31913,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, i3 NEO ARGB Black, Mid- Tower, ATX/m-ATX /Mini-ITX, USB2.0*1/ USB3.0*2, Audio/Mic, Кулер 4*12см ARGB LED, Высота процессорного куллера до 160 мм, Длина VGA до 355 мм, Количество отсеков 2*3.5\"/3*2.5\", 422*219*484 мм, Без Б/П, Черный"
   },
   {
@@ -2542,7 +2542,7 @@ export const KORPUSA = [
     "price": 33853,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, i3 NEO ARGB White, Mid- Tower, ATX/m-ATX /Mini-ITX, USB2.0*1/ USB3.0*2, Audio/Mic, Кулер 4*12см ARGB LED, Высота процессорного куллера до 160 мм, Длина VGA до 355 мм, Количество отсеков 2*3.5\"/3*2.5\", 422*219*484 мм, Без Б/П, Белый"
   },
   {
@@ -2554,7 +2554,7 @@ export const KORPUSA = [
     "price": 51313,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, i3 NEO TG White, Mid Tower, ATX / mATX / Mini-ITX, USB 3.0*2/2.0*1, Audio/Mic, Кулер 4*12см ARGB, Высота процессорного куллера до 162мм, Длина VGA до 355 мм, Количество отсеков 2*3.5\"/3*2.5\", 415*219*484мм, Без Б/П, Белый"
   },
   {
@@ -2566,7 +2566,7 @@ export const KORPUSA = [
     "price": 28363,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, i4 Black, Mid-Tower, ATX/M-ATX/M-ITX, USB 2.0*1, USB 3.0*2, HD Audio+Mic, 6*120мм Black Fan вентиляторы, Высота процессорного кулера до 170мм, Длина VGA до 320мм, 396*225*484мм, Сталь/Пластик, Без Б/П, Черный"
   },
   {
@@ -2578,7 +2578,7 @@ export const KORPUSA = [
     "price": 29973,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, P10 Black, Mini Tower, mATX/Mini-ITX, USB 3.01/USB Type-C1, HD Audio, 1120мм ZM-AF120 ARGB вентилятор, Высота процессорного куллера до 173 мм, Длина VGA до 384 мм, Кол-во отсеков 23.5\"/3*2.5\", 418х216х422 мм, Без Б/П, Черный"
   },
   {
@@ -2590,7 +2590,7 @@ export const KORPUSA = [
     "price": 59833,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, P10 NAMU White, Mini Tower, mATX/Mini-ITX, USB 3.01/USB Type-C1, HD Audio, 3120мм вентиляторы, Высота процессорного куллера до 173 мм, Длина VGA до 340 мм, Кол-во отсеков 23.5\"/3*2.5\", 423х216х422 мм, Без Б/П, Белый"
   },
   {
@@ -2602,7 +2602,7 @@ export const KORPUSA = [
     "price": 43022,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, P30 AIR Black, Mini-Tower, M-ATX/M-ITX, USB 3.0*1, Type-C*1, 3*140 ARGB Fan вентиляторы, Высота процессорного кулера до 181мм, Длина VGA до 392мм, 452*235*420мм, Сталь/Пластик/Закаленное стекло, Без Б/П, Черный"
   },
   {
@@ -2614,7 +2614,7 @@ export const KORPUSA = [
     "price": 58103,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, P30 Black V2, P30 Black V2, Micro-ATX, 2*3.5\"/1*2.5\", Высота кулера до 173 мм, Длина VGA до 420 мм, 452х235х429 мм, Без Б/П, Черный"
   },
   {
@@ -2626,7 +2626,7 @@ export const KORPUSA = [
     "price": 58103,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, P30 White V2, P30 White V2, Micro-ATX, 2*3.5\"/1*2.5\", Высота кулера до 173 мм, Длина VGA до 420 мм, 452х235х429 мм, Без Б/П, Белый"
   },
   {
@@ -2638,7 +2638,7 @@ export const KORPUSA = [
     "price": 62953,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, P30 AIR White, P30 AIR White, Micro-ATX, 2*3.5\"/1*2.5\", Высота кулера до 181 мм, Длина VGA до 397 мм, 452х235х420 мм, Без Б/П, Белый"
   },
   {
@@ -2650,7 +2650,7 @@ export const KORPUSA = [
     "price": 85263,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, P40 DS Black, P40 DS Black, ATX, 2*3.5\"/1*2.5\", Высота кулера до 165 мм, Длина VGA до 420 мм, 452х235х492 мм, Без Б/П, Черный"
   },
   {
@@ -2662,7 +2662,7 @@ export const KORPUSA = [
     "price": 87203,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, P40 DS White, P40 DS White, ATX, 2*3.5\"/1*2.5\", Высота кулера до 165 мм, Длина VGA до 420 мм, 452х235х492 мм, Без Б/П, Белый"
   },
   {
@@ -2674,7 +2674,7 @@ export const KORPUSA = [
     "price": 25123,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, T3 PLUS, Mini Tower, mATX/Mini-ITX, USB 3.01/USB 2.02, HD Audio, 2120мм вентиляторы, Высота процессорного куллера до 150 мм, Длина VGA до 290 мм, Кол-во отсеков 1*3.5\"/1*2.5\", 355х206х422 мм, Без Б/П, Черный"
   },
   {
@@ -2686,7 +2686,7 @@ export const KORPUSA = [
     "price": 30046,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, T4 PLUS White, Mini Tower, mATX/Mini-ITX, USB 3.02/USB 2.01, HD Audio, 1120мм ARGB вентилятор, Высота процессорного куллера до 157 мм, Длина VGA до 320 мм, Кол-во отсеков 13.5\"/2*2.5\", 385х208х425 мм, Без Б/П, Белый"
   },
   {
@@ -2698,7 +2698,7 @@ export const KORPUSA = [
     "price": 17363,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, T6, Mid Tower, ATX/mATX/Mini-ITX, USB 3.01/USB 2.02, HD Audio, 1*120мм вентилятор, Высота процессорного куллера до 165 мм, Длина VGA до 280 мм, Кол-во отсеков 2*3.5\"/2*2.5\"/1*5.25\", 377х200х430 мм, Без Б/П, Черный"
   },
   {
@@ -2710,7 +2710,7 @@ export const KORPUSA = [
     "price": 52283,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, Z10 , Mid Tower, ATX / mATX / Mini-ITX, 2*USB 3.0, 1*USB Type-C, HD Audio/Mic, Кулер 3*14см/ 1*12см Black, Высота процессорного кулера 173мм, Длина VGA до 395 мм, Количество отсеков 2*3.5\"/2*2.5\", 481*220*488 мм, Без Б/П, Черный"
   },
   {
@@ -2722,7 +2722,7 @@ export const KORPUSA = [
     "price": 58103,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, Z10 PLUS, Mid Tower, ATX / mATX / Mini-ITX, 2*USB 3.0, 1*USB Type-C, HD Audio/Mic, Кулер 4*14см ARGB, Высота процессорного кулера 173мм, Длина VGA до 395 мм, Количество отсеков 2*3.5\"/2*2.5\" , 481*220*488 мм, Без Б/П, Черный"
   },
   {
@@ -2734,7 +2734,7 @@ export const KORPUSA = [
     "price": 56735,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, Z10 DUO, Mid Tower, E-ATX / ATX / mATX / Mini-ITX, 2*USB 3.0, 1*USB Type-C, HD Audio/Mic, Кулер 4*12см ARGB, Высота процессорного куллера до 173 мм, Длина VGA до 395 мм, Количество отсеков 2*3.5\"/2*2.5\", 220*481*488 мм, Без Б/П, Черный"
   },
   {
@@ -2746,7 +2746,7 @@ export const KORPUSA = [
     "price": 62953,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, Z10 DUO White, Mid Tower, E-ATX/ATX/mATX/Mini-ITX, USB 3.02, USB Type-C1, HD Audio/Mic, 4 вентилятора 120 мм с ARGB подсветкой, Высота процессорного кулера до 173 мм, Длина видеокарты до 395 мм, Количество отсеков 23.5\"/22.5\", размеры 220481488 мм, Без Б/П, Белый"
   },
   {
@@ -2758,7 +2758,7 @@ export const KORPUSA = [
     "price": 23183,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, S2, Mid Tower, ATX / mATX / Mini-ITX, USB 3.0*1/2.0*2, HD-Audio/Mic, Кулер 1*12см, Высота процессорного куллера до 156 мм, Длина VGA до 330 мм, Количество отсеков 2*3.5\"/2*2.5\", 412*189*451 мм, Без Б/П, Чёрный"
   },
   {
@@ -2770,7 +2770,7 @@ export const KORPUSA = [
     "price": 29973,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, N5 MF, ATX, Mid Tower, ATX / mATX / Mini-ITX, USB 3.0*1/2.0*2, Audio/Mic, Кулер 4*12см RGB LED, Высота процессорного куллера до 158 мм, Длина VGA до 365 мм, Количество отсеков 2*3.5\"/4*2.5\" , 437*200*450 мм, Без Б/П, Черный"
   },
   {
@@ -2782,7 +2782,7 @@ export const KORPUSA = [
     "price": 67803,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, P40 Prism Plus Black, P40 Prism Plus Black, ATX, 3*3.5\"/2*2.5\", Высота кулера до 165 мм, Длина VGA до 420 мм, 452х235х495 мм, Без Б/П, Черный"
   },
   {
@@ -2794,7 +2794,7 @@ export const KORPUSA = [
     "price": 67803,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, P40 NAMU Black, P40 NAMU Black, ATX, 2*3.5\"/1*2.5\", Высота кулера до 165 мм, Длина VGA до 420 мм, 452х235х492 мм, Без Б/П, Черный"
   },
   {
@@ -2806,7 +2806,7 @@ export const KORPUSA = [
     "price": 67803,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, P40 NAMU White, P40 NAMU White, ATX, 2*3.5\"/1*2.5\", Высота кулера до 165 мм, Длина VGA до 420 мм, 452х235х492 мм, Без Б/П, Белый"
   },
   {
@@ -2818,7 +2818,7 @@ export const KORPUSA = [
     "price": 67803,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, P40 Prism Plus White, P40 Prism Plus White, ATX, 3*3.5\"/2*2.5\", Высота кулера до 165 мм, Длина VGA до 420 мм, 452х235х495 мм, Без Б/П, Белый"
   },
   {
@@ -2830,7 +2830,7 @@ export const KORPUSA = [
     "price": 73623,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, P60 White, P60 White, ATX, 1*3.5\"/1*2.5\", Высота кулера до 170 мм, Длина VGA до 435 мм, 475х290х478 мм, Без Б/П, Белый"
   },
   {
@@ -2842,7 +2842,7 @@ export const KORPUSA = [
     "price": 34823,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, CHRONIX V2 Black, CHRONIX V2 Black, ATX, 1*3.5\"/2*2.5\", Высота кулера до 165 мм, Длина VGA до 410 мм, 436х215х487 мм, Без Б/П, Черный"
   },
   {
@@ -2854,7 +2854,7 @@ export const KORPUSA = [
     "price": 34823,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, CHRONIX V2 White, CHRONIX V2 White, ATX, 1*3.5\"/2*2.5\", Высота кулера до 165 мм, Длина VGA до 410 мм, 436х215х487 мм, Без Б/П, Белый"
   },
   {
@@ -2866,7 +2866,7 @@ export const KORPUSA = [
     "price": 35890,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Jonsbo, D31 STD White, Mini-Tower, ITX/DTX/M-ATX, Type-C*1/USB3.0*1, Audio+Mic, Высота процессорного кулера до 168 мм, Длина VGA до 400 мм, 1*3.5\"/2*2.5\", Сталь, Пластик, Закаленное стекло, 205*363*452 мм, Без Б/П, Белый"
   },
   {
@@ -2878,7 +2878,7 @@ export const KORPUSA = [
     "price": 37830,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Jonsbo, D31 MESH Black, Mini-Tower, M-ATX/DTX/ITX, Type-C*1/USB3.0*1, Audio+Mic, Высота процессорного кулера до 168 мм, Длина VGA до 400 мм, 2*2.5\"/1*3,5\", Сталь, Пластик, Закаленное стекло, 205*352*440, Без Б/П, Черный"
   },
   {
@@ -2890,7 +2890,7 @@ export const KORPUSA = [
     "price": 37830,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Jonsbo, D31 MESH White, Mini-Tower, M-ATX/DTX/ITX, Type-C*1/USB3.0*1, Audio+Mic, Высота процессорного кулера до 168 мм, Длина VGA до 400 мм, 2*2.5\"/1*3,5\", Сталь, Пластик, Закаленное стекло, 205*347.5*440, Без Б/П, Белый"
   },
   {
@@ -2902,7 +2902,7 @@ export const KORPUSA = [
     "price": 52865,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Jonsbo, D31 MESH SCREEN, D31 MESH SC Black, Mini-Tower, ITX/M-ATX/DTX, USB Type-C*1, USB Type-A*1, Audio+Mic, Высота процессорного кулера до 168 мм, Длина видеокарты до 330-400 мм, 2*2,5\"/ 1*3,5\", Сталь, Пластик, Закаленное стекло, 205*363*452мм, экран 8\", IPS, 300 кд, 1280х800, 60Гц, Черный"
   },
   {
@@ -2914,7 +2914,7 @@ export const KORPUSA = [
     "price": 29973,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Jonsbo, D32 STD MESH Black, D32 STD MESH Black, Micro-ATX / Mini-ITX, 1*Type-C,1*USB3.0,1*HD+Audio, 1*3.5\"/3*2.5\", Высота кулера до 164 мм, Длина VGA до 365 мм, 384х207х314 мм, ABS пластик / сталь, Без Б/П, Черный"
   },
   {
@@ -2926,7 +2926,7 @@ export const KORPUSA = [
     "price": 29973,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Jonsbo, D32 STD MESH White, D32 STD MESH White, Micro-ATX / Mini-ITX, 1*3.5\"/3*2.5\", Высота кулера до 164 мм, Длина VGA до 365 мм, 384х207х314 мм, Без Б/П, Белый"
   },
   {
@@ -2938,7 +2938,7 @@ export const KORPUSA = [
     "price": 29973,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Jonsbo, D32 STD White, D32 STD White, Micro-ATX / Mini-ITX, 1*Type-C,1*USB3.0,1*HD+Audio, 1*3.5\"/3*2.5\", Высота кулера до 164 мм, Длина VGA до 365 мм, 384х207х314 мм, Сталь / закаленное стекло, Без Б/П, Белый"
   },
   {
@@ -2950,7 +2950,7 @@ export const KORPUSA = [
     "price": 34823,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Jonsbo, D32 PRO MESH White, D32 PRO MESH White, Micro-ATX / Mini-ITX, 2*3.5\"/4*2.5\", Высота кулера до 164 мм, Длина VGA до 365 мм, 384х207х314 мм, Без Б/П, Белый"
   },
   {
@@ -2962,7 +2962,7 @@ export const KORPUSA = [
     "price": 31234,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Jonsbo, D41 MESH White, Mid-Tower, ATX/M-ATX, Type-C*1/USB3.0*1, Audio+Mic, Высота процессорного кулера до 168 мм, Длина VGA до 400 мм, 3*2.5\"/2*3,5\", Сталь, Пластик, Закаленное стекло 205*392*440, Без Б/П, Белый"
   },
   {
@@ -2974,7 +2974,7 @@ export const KORPUSA = [
     "price": 51313,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Jonsbo, D41 STD SCREEN, D41 STD SC White, Mid-Tower, ATX/M-ATX, USB Type-C*1, USB 3.0*1, Audio+Mic, Высота процессорного кулера до 168 мм, Длина видеокарты до 400 мм, 2*3.5/3*2.5, Сталь, Пластик, Закаленное стекло, 205*407*452, Экран 8\", IPS, 300 кд, 1280х800, 60Гц, Белый"
   },
   {
@@ -2986,7 +2986,7 @@ export const KORPUSA = [
     "price": 34823,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Jonsbo, D200 White, D200 White, Micro-ATX / Mini-ITX, 1*3.5\"/1*2.5\", Высота кулера до 171 мм, Длина VGA до 410 мм, 437х216х419 мм, Без Б/П, Белый"
   },
   {
@@ -2998,7 +2998,7 @@ export const KORPUSA = [
     "price": 34823,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Jonsbo, D200 Black, D200 Black, Micro-ATX / Mini-ITX, 1*3.5\"/1*2.5\", Высота кулера до 171 мм, Длина VGA до 410 мм, 437х216х419 мм, Без Б/П, Черный"
   },
   {
@@ -3010,7 +3010,7 @@ export const KORPUSA = [
     "price": 58103,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Jonsbo, D300, D300 Black, Mini-Tower, ITX/M-ATX, USB 3.2 Type-C*1/USB3.0*2/Audio+Mic*1, Высота процессорного куллера 180мм, Длина VGA до 430мм, 3*2,5\"/2*3,5\", Сталь, Закаленное стекло, 236.4*420.9*460.2 мм, Без Б/П, Черный"
   },
   {
@@ -3022,7 +3022,7 @@ export const KORPUSA = [
     "price": 58103,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Jonsbo, D300, D300 White, Mini-Tower, ITX/M-ATX, USB 3.2 Type-C*1/USB3.0*2/Audio+Mic*1, Высота процессорного куллера 180мм, Длина VGA до 430мм, 3*2,5\"/2*3,5\", Сталь, Закаленное стекло, 236.4*420.9*460.2 мм, Без Б/П, Белый"
   },
   {
@@ -3034,7 +3034,7 @@ export const KORPUSA = [
     "price": 48403,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Jonsbo, D400 Black, Mid-Tower, ATX/M-ATX/m-ITX, Type-C*1/USB3.0*2, Audio+Mic, Высота процессорного кулера до 169 мм, Длина VGA до 450 мм, 1*2.5\"/1*3,5\", Сталь, Пластик, Закаленное стекло, 488*239*514, Без Б/П, Черный"
   },
   {
@@ -3046,7 +3046,7 @@ export const KORPUSA = [
     "price": 48403,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Jonsbo, D400 White, Mid-Tower, ATX/M-ATX/m-ITX, Type-C*1/USB3.0*2, Audio+Mic, Высота процессорного кулера до 169 мм, Длина VGA до 450 мм, 2*2.5\"/1*3,5\", Сталь, Пластик, Закаленное стекло, 488*239*514, Без Б/П, Белый"
   },
   {
@@ -3058,7 +3058,7 @@ export const KORPUSA = [
     "price": 47433,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Jonsbo, Z20, Z20 White, Mini-Tower, Mini-ITX/Micro-ATX, USB 3.2 Type-A*1/USB 3.2 Type-C*1/Audio+Mic*1, Высота процессорного куллера 164мм, Длина VGA до 363мм, 3*2,5\"/1*3,5\", Сталь, Закаленное стекло, 370*186*295мм, Без Б/П, Белый"
   },
   {
@@ -3070,7 +3070,7 @@ export const KORPUSA = [
     "price": 47433,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Jonsbo, Z20, Z20 BK-Orange, Mini-Tower, Mini-ITX/Micro-ATX, USB 3.2 Type-A*1/USB 3.2 Type-C*1/Audio+Mic*1, Высота процессорного куллера 164мм, Длина VGA до 363мм, 3*2,5\"/1*3,5\", Сталь, Закаленное стекло, 370*186*295мм, Без Б/П, Черно-Оранжевый"
   },
   {
@@ -3082,7 +3082,7 @@ export const KORPUSA = [
     "price": 42195,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Jonsbo, Z20, Z20 WH-Pink, Mini-Tower, Mini-ITX/Micro-ATX, USB 3.2 Type-A*1/USB 3.2 Type-C*1/Audio+Mic*1, Высота процессорного куллера 164мм, Длина VGA до 363мм, 3*2,5\"/1*3,5\", Сталь, Закаленное стекло, 370*186*295мм, Без Б/П, Бело-Розовый"
   },
   {
@@ -3094,7 +3094,7 @@ export const KORPUSA = [
     "price": 58673,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Jonsbo, TK-0 Black, Micro-Tower, ITX, USB3.2 Type-C*1/USB3.0*1, Audio+Mic, Высота процессорного кулера до 135мм, Длина VGA до 230мм, 1*3,5\"/*2.5\"*1, Сталь, Закаленное стекло, 235*250*280, Без Б/П, Черный"
   },
   {
@@ -3106,7 +3106,7 @@ export const KORPUSA = [
     "price": 58702,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Jonsbo, TK-0 White, Micro-Tower, ITX, USB3.2 Type-C*1/USB3.0*1, Audio+Mic, Высота процессорного кулера до 135мм, Длина VGA до 230мм, 1*3,5\" /\"2.5*1, Сталь, Закаленное стекло, 235*250*280, Без Б/П, Белый"
   },
   {
@@ -3118,7 +3118,7 @@ export const KORPUSA = [
     "price": 67803,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Jonsbo,TK-1, TK-1 Black, Micro-Tower, M-ATX/M-ITX, USB3.2 Type-C*1/USB3.0*1, Audio+Mic, Высота процессорного кулера до 165мм, Длина VGA до 280мм, 2*3,5\" или 2*2.5\"/1*3.5\", Сталь, Закаленное стекло, 299*310*345, Без Б/П, Черный"
   },
   {
@@ -3130,7 +3130,7 @@ export const KORPUSA = [
     "price": 67803,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Jonsbo,TK-1, TK-1 White, Micro-Tower, M-ATX/M-ITX, USB3.2 Type-C*1/USB3.0*1, Audio+Mic, Высота процессорного кулера до 165мм, Длина VGA до 280мм, 2*3,5\" или 2*2.5\"/1*3.5\", Сталь, Закаленное стекло, 299*310*345, Без Б/П, Белый"
   },
   {
@@ -3142,7 +3142,7 @@ export const KORPUSA = [
     "price": 73623,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Jonsbo, TK-2, TK-2 , Midi-Tower, ATX/ITX/Micro ATX, USB Type-C*1/USB 3.0*1/Audio+Mic*1, Высота процессорного куллера 165мм, Длина VGA до 220мм, 1*2,5\"/2*3,5\", 300*408*435мм, Без Б/П, Черный"
   },
   {
@@ -3154,7 +3154,7 @@ export const KORPUSA = [
     "price": 58103,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Jonsbo, TK-2, TK-2 White, Midi-Tower, ATX/ITX/Micro ATX, USB Type-C*1/USB 3.0*1/Audio+Mic*1, Высота процессорного куллера 165мм, Длина VGA до 220мм, 1*2,5\"/2*3,5\", Сталь, Закаленное стекло, 300*408*435мм, Без Б/П, Белый"
   },
   {
@@ -3166,7 +3166,7 @@ export const KORPUSA = [
     "price": 67803,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Jonsbo, TK-3, TK-3 Black, Mid-Tower, ITX/M-ATX/ATX, USB 3.0 Type-C*1/USB 3.0 *2/Audio+Mic*1, Высота процессорного куллера 165мм, Длина VGA до 420мм, 2*3,5\" или 1*2,5\"/1*3,5\", Сталь, Закаленное стекло, 288*438*415мм, Без Б/П, Черный"
   },
   {
@@ -3178,7 +3178,7 @@ export const KORPUSA = [
     "price": 67803,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Jonsbo, TK-3, TK-3 White, Mid-Tower, ITX/M-ATX/ATX, USB 3.0 Type-C*1/USB 3.0 *2/Audio+Mic*1, Высота процессорного куллера 165мм, Длина VGA до 420мм, 2*3,5\" или 1*2,5\"/1*3,5\", Сталь, Закаленное стекло, 288*438*415мм, Без Б/П, Белый"
   },
   {
@@ -3190,7 +3190,7 @@ export const KORPUSA = [
     "price": 48985,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Jonsbo, T8 PLUS, T8 PLUS Silver, Mini-Tower, ITX, Type-C, USB 3.0*1, 1*140мм. Высота процессорного кулера до 135 мм, Длина VGA до 270 мм, 4*2,5\" или 3*2,5\"+120мм вентилятор ,Сталь, Закаленное стекло, 163*272*282, Без Б/П, Серебряный"
   },
   {
@@ -3202,7 +3202,7 @@ export const KORPUSA = [
     "price": 91083,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Jonsbo, UMX6-G Silver, Mid-Tower, EATX/ATX/Micro-ATX/ITX, USB 3.0*2/USB2.0*2/Type-C*1, Audio+Mic*1, Высота процессорного кулера до 169 мм, Длина VGA до 330 мм, 2*2.5''+2*3.5''/4*2.5, Сталь, Алюминий, Закаленное стекло, 224*482*501мм, Без Б/П, Серебряный"
   },
   {
@@ -3214,7 +3214,7 @@ export const KORPUSA = [
     "price": 117564,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Jonsbo, MOD-3 White, Mid-Tower, EATX/ATX/M-ATX/ITX, USB 3.0*2, Audio+Mic, Высота процессорного кулера до 170 мм, Длина VGA до 400 мм, 2*2.5''+1*3.5''/3*2.5'', Сталь, Пластик, Закаленное стекло, 232*647*620мм, Без Б/П, Белый"
   },
   {
@@ -3226,7 +3226,7 @@ export const KORPUSA = [
     "price": 133763,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Jonsbo, MOD5 Gray, Mid-Tower, ATX/M-ATX/M-ITX, USB 3.0*2, Type-C*1, Audio+Mic, Высота процессорного кулера до 180 мм, Длина VGA до 400 мм, 3*2,5\"/1*3,5\", Алюминий, Сталь, Закаленное стекло, 255*600*635мм, Без Б/П, Серый"
   },
   {
@@ -3238,7 +3238,7 @@ export const KORPUSA = [
     "price": 62953,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Bequiet!, Pure Base 501 Airflow, BG074, Mid Tower, ATX/M-ATX/Mini-ATX, USB 3.2 Gen 2 Type C *1, USB 3.2 Type A*2, HD Audio/mic, 2*140 мм Pure Wings 3 PWM, Высота процессорного куллера до 178 мм, Длина VGA до 368 мм, 5*2,5\"/2*3,5\", Пластик/Сталь, 450x232x443мм, Без Б/П, Черный"
   },
   {
@@ -3250,7 +3250,7 @@ export const KORPUSA = [
     "price": 58103,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Bequiet!, PURE BASE 501 Airflow White, BG075, Без Б/П, ATX PS/2, E-ATX/ ATX/ M-ATX/ Mini-ITX, 2xUSB 3.0, USB 3.1 Gen 2 Type C, Mic+Audio, Midi Tower, Чёрный"
   },
   {
@@ -3262,7 +3262,7 @@ export const KORPUSA = [
     "price": 68773,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Bequiet!, Pure Base 501 Airflow Window, BGW74, Mid Tower, ATX/M-ATX/Mini-ATX, USB 3.2 Gen 2 Type C *1, USB 3.2 Type A*2, HD Audio/mic, 2*140 мм Pure Wings 3 PWM, Высота процессорного куллера до 178 мм, Длина VGA до 368 мм, 2*3,5\"/5*2,5\", Сталь/Пластик/Закаленное стекло, 450x232x443мм, Без Б/П, Черный"
   },
   {
@@ -3274,7 +3274,7 @@ export const KORPUSA = [
     "price": 72653,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Bequiet!, Pure Base 501 Airflow Window, BGW75, Mid Tower, ATX/M-ATX/Mini-ATX, USB 3.2 Gen 2 Type C *1, USB 3.2 Type A*2, HD Audio/mic, 2*140 мм Pure Wings 3 PWM, Высота процессорного куллера до 178 мм, Длина VGA до 368 мм, 2*3,5\"/5*2,5\", Сталь/Пластик/Закаленное стекло, 450x232x443мм, Без Б/П, Белый"
   },
   {
@@ -3286,7 +3286,7 @@ export const KORPUSA = [
     "price": 73623,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Bequiet!, Pure Base 501 DX, BGW76, Mid Tower, ATX/M-ATX/Mini-ATX, USB 3.2 Gen 2 Type C *1, USB 3.2 Type A*2, HD Audio/mic, 3*140 мм ARGB, 5*2,5\"/2*3,5\", Высота процессорного куллера до 178 мм, Длина VGA до 368 мм, Сталь/Пластик/Закаленное стекло, 450x231x463 мм, Без Б/П, Черный"
   },
   {
@@ -3298,7 +3298,7 @@ export const KORPUSA = [
     "price": 76533,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Bequiet!, Pure Base 501 DX, BGW77, Mid Tower, ATX/M-ATX/Mini-ATX, USB 3.2 Gen 2 Type C *1, USB 3.2 Type A*2, HD Audio/mic, 3*140 мм ARGB, 5*2,5\"/2*3,5\", Высота процессорного куллера до 178 мм, Длина VGA до 368 мм, Сталь/Пластик/Закаленное стекло, 450x231x463 мм, Без Б/П, Белый"
   },
   {
@@ -3310,7 +3310,7 @@ export const KORPUSA = [
     "price": 79443,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Bequiet!, Pure Base 501 LX, BGW78, Mid Tower, ATX/M-ATX/Mini-ATX, USB 3.2 Gen 2 Type C *1, USB 3.2 Type A*2, HD Audio/mic, 3*120 мм ARGB/1*140мм, 5*2,5\"/2*3,5\", Высота процессорного куллера до 178 мм, Длина VGA до 368 мм, Сталь/Пластик/Закаленное стекло, 450x231x463 мм, Без Б/П, Черный"
   },
   {
@@ -3322,7 +3322,7 @@ export const KORPUSA = [
     "price": 83323,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Bequiet!, Pure Base 501 LX, BGW79, Mid Tower, ATX/M-ATX/Mini-ATX, USB 3.2 Gen 2 Type C *1, USB 3.2 Type A*2, HD Audio/mic, 3*120 мм ARGB/1*140мм, 5*2,5\"/2*3,5\", Высота процессорного куллера до 178 мм, Длина VGA до 368 мм, Сталь/Пластик/Закаленное стекло, 450x231x463 мм, Без Б/П, Белый"
   },
   {
@@ -3334,7 +3334,7 @@ export const KORPUSA = [
     "price": 61100,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Bequiet!, Pure Base 600, BG021, Midi Tower, ATX/Micro ATX/Mini-ITX, USB 3.2 Type-A*2, HD-Audio/Mic, 1*120 мм Pure Wings 2/1*140 мм Pure Wings 2, Высота процессорного куллера до 165 мм, Длина VGA до 425 мм, 2*5.25\"/3*3.5\"/8*2.5\", Пластик/Сталь, 492*220*470 мм, Без Б/П, Черный"
   },
   {
@@ -3346,7 +3346,7 @@ export const KORPUSA = [
     "price": 61100,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Bequiet!, Pure Base 600, BG022, Midi Tower, ATX/Micro ATX/Mini-ITX, USB 3.2 Type-A*2, HD-Audio/Mic, 1*120 мм Pure Wings 2/1*140 мм Pure Wings 2, Высота процессорного куллера до 165 мм, Длина VGA до 425 мм, 2*5.25\"/3*3.5\"/8*2.5\", Пластик/Сталь, 492*220*470 мм, Без Б/П, Серый"
   },
   {
@@ -3358,7 +3358,7 @@ export const KORPUSA = [
     "price": 71770,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Bequiet!, Pure Base 600, BGW20, Midi Tower, ATX/ M-ATX/ Mini-ITX, USB 3.2 Type-A*2, Mic+Audio, 3*140мм Pure Wings 2, длина видеокарты 425мм, высота процессорного кулера 165мм, 3*3,5\"/8*2,5\", Пластик/Сталь/Закаленное стекло, 492*220*470мм, Без Б/П, Чёрно-Оранжевый"
   },
   {
@@ -3370,7 +3370,7 @@ export const KORPUSA = [
     "price": 71770,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Bequiet!, Pure Base 600, BGW21, Midi Tower, ATX/ M-ATX/ Mini-ITX, USB 3.2 Type-A*2, Mic+Audio, 1*140мм Pure Wings 2, 1*120мм Pure Wings 2, Длина видеокарты 425мм, высота процессорного кулера 165мм, 3*3,5\"/8*2,5\", Пластик/Сталь/Закаленное стекло, 492*220*470мм, Без Б/П, Чёрный"
   },
   {
@@ -3382,7 +3382,7 @@ export const KORPUSA = [
     "price": 119300,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Bequiet!, Silent BASE 802 White, BG040, Mid Tower, E-ATX/ATX/Micro-ATX/Mini-ITX, USB 3.2*2/Type C*1, HD Audio+Mic, 3*140мм Pure Wings 2 , Высота процессорного кулера 185 мм, Длина VGA до 432 мм, 3*3.5\"/7*2.5\", Сталь/Пластик, 539*245*537 мм, Без Б/П, Белый"
   },
   {
@@ -3394,7 +3394,7 @@ export const KORPUSA = [
     "price": 131910,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Bequiet!, Silent Base 802, BGW39, Mid Tower, E-ATX/ATX/M-ATX/Mini-ITX, USB 3.2 Type-C*1, USB 3.2 Type-A*2, Hd Audio/Mic, 3*140 мм Pure Wings 2, Высота процессорного куллера до 185 мм, Длина VGA до 432 мм, 3*3.5\"/7*2.5\", Сталь/Пластик, Закаленное стекло, 539*281*553 мм, Без Б/П, Черный"
   },
   {
@@ -3406,7 +3406,7 @@ export const KORPUSA = [
     "price": 74593,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Bequiet!, Light Base 500 Black, BGW83, ATX / M-ATX / Mini-ITX, 2*3.5\"/2*2.5\", 1 / 2, Вентилятор 4*120см, Высота кулера до 185 мм, Длина VGA до 400 мм, 432х305х436 мм, Без Б/П, Черный"
   },
   {
@@ -3418,7 +3418,7 @@ export const KORPUSA = [
     "price": 87203,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Bequiet!, Light Base 500 LX Black, BGW85, ATX / M-ATX / Mini-ITX, 1*3.5\"/2*2.5\", 1 / 2, Вентилятор 4*120см, Высота кулера до 185 мм, Длина VGA до 400 мм, 432х305х436 мм, Без Б/П, Черный"
   },
   {
@@ -3430,7 +3430,7 @@ export const KORPUSA = [
     "price": 96903,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Bequiet!, Light Base 500 LX White, BGW86, ATX / M-ATX / Mini-ITX, 1*3.5\"/2*2.5\", 1 / 2, Вентилятор 4*120см, Высота кулера до 185 мм, Длина VGA до 400 мм, 432х305х436 мм, Без Б/П, Белый"
   },
   {
@@ -3442,7 +3442,7 @@ export const KORPUSA = [
     "price": 83323,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Bequiet!, LIGHT BASE 600 DX Black, BGW65, Без Б/П, ATX PS/2, E-ATX/ ATX/ M-ATX/ Mini-ITX, 2xUSB 3.0, USB 3.1 Gen 2 Type C, Mic+Audio, Midi Tower, Чёрный"
   },
   {
@@ -3454,7 +3454,7 @@ export const KORPUSA = [
     "price": 87203,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Bequiet!, LIGHT BASE 600 DX White, BGW66, Без Б/П, ATX PS/2, E-ATX/ ATX/ M-ATX/ Mini-ITX, 2xUSB 3.0, USB 3.1 Gen 2 Type C, Mic+Audio, Midi Tower, Чёрный"
   },
   {
@@ -3466,7 +3466,7 @@ export const KORPUSA = [
     "price": 102910,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Bequiet!, Light Base 600 LX, BGW67, Mid Tower, ATX/M-ATX/M-ITX, USB 3.2 Gen 2 Type C *1, USB 3.2 Type A*2, HD Audio/mic, 3*120 мм Light Wings LX Reversed, 1*120 мм Light Wings LX, Высота процессорного кулера до 170мм, Длина VGA до 400мм, 2*2,5\"/1*3,5\", Сталь/Закаленное стекло, 554*390*523мм, Без Б/П, Черный"
   },
   {
@@ -3478,7 +3478,7 @@ export const KORPUSA = [
     "price": 110009,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Bequiet!, Light Base 600 LX, BGW68, Mid Tower, ATX/M-ATX/M-ITX, USB 3.2 Gen 2 Type C *1, USB 3.2 Type A*2, HD Audio/mic, 3*120 мм Light Wings LX Reversed, 1*120 мм Light Wings LX, Высота процессорного кулера до 170мм, Длина VGA до 400мм, 1*3,5/2*2,5, Сталь/Закаленное стекло, 554*390*523мм, Без Б/П, Белый"
   },
   {
@@ -3490,7 +3490,7 @@ export const KORPUSA = [
     "price": 101753,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Bequiet!, LIGHT BASE 900 DX Black, BGW69, Без Б/П, ATX PS/2, E-ATX/ ATX/ M-ATX/ Mini-ITX, 2xUSB 3.0, USB 3.1 Gen 2 Type C, Mic+Audio, Midi Tower, Чёрный"
   },
   {
@@ -3502,7 +3502,7 @@ export const KORPUSA = [
     "price": 106603,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Bequiet!, LIGHT BASE 900 DX White, BGW70, Без Б/П, ATX PS/2, E-ATX/ ATX/ M-ATX/ Mini-ITX, 2xUSB 3.0, USB 3.1 Gen 2 Type C, Mic+Audio, Midi Tower, Чёрный"
   },
   {
@@ -3514,7 +3514,7 @@ export const KORPUSA = [
     "price": 128040,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Bequiet!, Light Base 900 FX, BGW71, Full Tower, E-ATX/XL-ATX/ATX/M-ATX/Mini-ATX, USB 3.2 Gen 2 Type C *1, USB 3.2 Type A*2, HD Audio/mic, 3*140мм Light Wings Reversed, 1*140 мм Light Wings, Высота процессорного кулера до 190мм, Длина VGA до 495мм, 1*3,5/4*2,5, Сталь/Закаленное стекло, 532*327*465мм, Без Б/П, Черный"
   },
   {
@@ -3526,7 +3526,7 @@ export const KORPUSA = [
     "price": 135800,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Bequiet!, Light Base 900 FX, BGW72, Full Tower, E-ATX/XL-ATX/ATX/M-ATX/Mini-ATX, USB 3.2 Gen 2 Type C *1, USB 3.2 Type A*2, HD Audio/mic, 3*140мм Light Wings Reversed, 1*140 мм Light Wings, Высота процессорного кулера до 190мм, Длина VGA до 495мм, 1*3,5/4*2,5, Сталь/Закаленное стекло, 532*327*465мм, Без Б/П, Белый"
   },
   {
@@ -3538,7 +3538,7 @@ export const KORPUSA = [
     "price": 38703,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Thermaltake, S200 TG ARGB, CA-1X2-00M1WN-00, Mid Tower, ATX/M-ATX/Mini-ITX, USB 3.0*2, HD Audio *1, 3*120мм Вентилятор, Высота процессорного куллера до 166 мм, Длина VGA до 330 мм, 2*2,5\"/2*3,5\", Сталь, 3мм Закаленное стекло*1, 460*210*395.3мм, Без Б/П, Чёрный"
   },
   {
@@ -3550,7 +3550,7 @@ export const KORPUSA = [
     "price": 42050,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Thermaltake, S300 TG, CA-1P5-00M6WN-00, Mid-tower, Mini-ITX/M-ATX/ATX, USB 2.0*2/USB 3.0*1, HD Audio,1*120мм вентилятор, Высота процессорного куллера до 170 мм, Длина VGA до 360 мм, 2*3.5\"/ 2*2.5\", Сталь, 4мм Закаленное стекло*1, 493*230*508мм, Без Б/П, Белый"
   },
   {
@@ -3562,7 +3562,7 @@ export const KORPUSA = [
     "price": 80898,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Thermaltake, View 31 TG RGB, CA-1H8-00M1WN-01, Mid-tower, ATX/M-ATX/Mini-ITX, USB 3.0*2/2.0*2, HD-Audio+Mic, 3*140 мм RGB, Высота процессорного куллера до 180 мм, Длина VGA до 420 мм, 3*3.5\"/3*2,5\", Сталь, 4мм Закаленное стекло*2, 497*250*511 мм, Без Б/П, Чёрный"
   },
   {
@@ -3574,7 +3574,7 @@ export const KORPUSA = [
     "price": 35652,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Thermaltake, View 200 TG Black ARGB, CA-1X3-00M1WN-00, Mid Tower, ATX/M-ATX/Mini ATX, USB3.0*2, HD-Audio, 3*120мм ARGB Lite fan, Высота кулерного процессора 166мм, Длина VGA до 300мм, 2*3,5\"/3*2,5\", Сталь, 3мм Закаленное стекло*1, Без Б/П, 460*210*395,3мм, Черный"
   },
   {
@@ -3586,7 +3586,7 @@ export const KORPUSA = [
     "price": 35415,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Thermaltake, View 200 TG ARGB, CA-1X3-00M6WN-00, Mid Tower, ATX/M-ATX/Mini ATX, USB3.0*2, HD-Audio, 3*120мм ARGB Lite fan, Высота кулерного процессора 166мм, Длина VGA до 300мм, 2*3,5\"/3*2,5\", Сталь, 3мм Закаленное стекло*1, Без Б/П, 460*210*395,3мм, Белый"
   },
   {
@@ -3598,7 +3598,7 @@ export const KORPUSA = [
     "price": 40595,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Thermaltake, The Tower 100 Turquoise, CA-1R3-00SBWN-00, Mini Tower, Mini-ITX, USB 3.2 (Gen 2) Type-C*1, USB 3.0*2, 2*120 мм, 2*2,5\"/2*3,5\", Максимальная длина видеокарты 330мм, Максимальная высота процессорного кулера 190мм, Сталь, Закаленное стекло*3, 462.8*266*266мм, Без Б/П, Бирюзовый"
   },
   {
@@ -3610,7 +3610,7 @@ export const KORPUSA = [
     "price": 54184,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Thermaltake, The Tower 200 Racing Green, CA-1X9-00SCWN-00, Mini Tower, Mini-ITX, USB 3.0*2/Type C*1, HD-Audio+Mic, Кулер 2*140 мм, Высота процессорного кулера до 200 мм, Длина VGA до 380 мм, 2*3,5\"/2*2,5\", Сталь, 3мм Закаленное стекло*1, 280*300*537мм, Без Б/П, Зеленый"
   },
   {
@@ -3622,7 +3622,7 @@ export const KORPUSA = [
     "price": 50741,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Thermaltake, The Tower 200, CA-1X9-00SBWN-00, Mini Tower, Mini-ITX, USB 3.0*2/Type C*1, HD-Audio+Mic, Кулер 2*140 мм, Высота процессорного кулера до 200 мм, Длина VGA до 380 мм, 2*3,5\"/2*2,5\", Сталь, 3мм Закаленное стекло*1, 280*300*537мм, Без Б/П, Бирюзовый"
   },
   {
@@ -3634,7 +3634,7 @@ export const KORPUSA = [
     "price": 74593,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Thermaltake, The Tower 200 Snow, CA-1X9-00S6WN-00, Mini Tower, Mini-ITX, USB 3.0*2/Type C*1, HD-Audio+Mic, Кулер 2*140 мм, Высота процессорного кулера до 200 мм, Длина VGA до 380 мм, 2*3,5\"/2*2,5\", Сталь, 3мм Закаленное стекло*1, 280*300*537мм, Без Б/П, Белый"
   },
   {
@@ -3646,7 +3646,7 @@ export const KORPUSA = [
     "price": 74593,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Thermaltake, The Tower 200, CA-1X9-00S1WN-00, Mini Tower, Mini-ITX, USB 3.0*2/Type C*1, HD-Audio+Mic, Кулер 2*140 мм, Высота процессорного кулера до 200 мм, Длина VGA до 380 мм, 2*3,5\"/2*2,5\", Сталь, 3мм Закаленное стекло*1, 280*300*537мм, Без Б/П, Чёрный"
   },
   {
@@ -3658,7 +3658,7 @@ export const KORPUSA = [
     "price": 59170,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Thermaltake, The Tower 200 Bumblebee, CA-1X9-00S4WN-00, Mini Tower, Mini-ITX, USB 3.0*2/Type C*1, HD-Audio+Mic, Кулер 2*140 мм, Высота процессорного кулера до 200 мм, Длина VGA до 380 мм, 2*3,5\"/2*2,5\", Сталь, 3мм Закаленное стекло*1, 280*300*537мм, Без Б/П, Желтый"
   },
   {
@@ -3670,7 +3670,7 @@ export const KORPUSA = [
     "price": 77590,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Thermaltake, The Tower 300 Matcha Green, CA-1Y4-00SEWN-00, Micro-Tower, Mini-ITX/M-ATX, USB 3.2*1, USB 3.0*2, HD Audio/mic, 3*140мм CT140, Максимальная длина видеокарты 400мм, Максимальная высота процессорного кулера 210мм, 3*3,5\"/3*2,5\", Сталь, 3мм Закаленное стекло*3, 551*342*281мм, Без Б/П, Зеленый"
   },
   {
@@ -3682,7 +3682,7 @@ export const KORPUSA = [
     "price": 34336,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Thermaltake, H200 TG RGB, CA-1M3-00M1WN-00, Mid tower, ATX/Mini-ITX/M-ATX, USB 3.0*2, HD Audio, 1*120мм, Высота процессорного кулера до 180мм, Длина VGA до 320мм, 2*3.5\" или 3*2.5\", Сталь, 4мм Закаленное стекло*1, 454x210x416мм, Без Б/П, Черный"
   },
   {
@@ -3694,7 +3694,7 @@ export const KORPUSA = [
     "price": 25336,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Thermaltake, H350 TG RGB, CA-1R9-00M1WN-00, Mid tower, ATX/M-ATX/Mini-ITX, USB 3.0*1/2.0*2, HD-Audio, 1*120 мм, Высота процессорного куллера до 150 мм, Длина VGA до 300 мм, 2*3.5\"/2*2.5\", 442*210*480 мм, Сталь, 4мм Закаленное стекло*1, 442*210*480мм, Без Б/П, Чёрный"
   },
   {
@@ -3706,7 +3706,7 @@ export const KORPUSA = [
     "price": 45784,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Thermaltake, H570 TG ARGB Snow, CA-1T9-00M6WN-01, Mid-tower, ATX/EATX/M-ATX/Mini-ITX, USB 3.2 (Gen 1) Type-C*2, HD Audio, 3*120мм ARGB Lite fan, Высота процессорного куллера до 160 мм, Длина VGA 375мм, 2*3,5/4*2,5, Сталь, 4мм Закаленное стекло*1, 487*216*463,6мм, Без Б/П, Белый"
   },
   {
@@ -3718,7 +3718,7 @@ export const KORPUSA = [
     "price": 41225,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Thermaltake, Level 20 MT ARGB, CA-1M7-00M1WN-00, Mid-tower, ATX/M-ATX/Mini-ITX, USB 3.0*2, HD-Audio, 1*120 мм / 3*120 мм Addressable RGB, Высота процессорного куллера до 170 мм, Длина VGA до 366 мм, 2*3.5\"/2*2.5\", 455*204*471 мм, Сталь, 4мм Закаленное стекло*2, Без Б/П, Чёрный"
   },
   {
@@ -3730,7 +3730,7 @@ export const KORPUSA = [
     "price": 66833,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Thermaltake, Ceres 300 TG ARGB Snow, CA-1Y2-00M6WN-00, Mid Tower, Mini-ITX/M-ATX/ATX/E-ATX, USB 3.0*2/Type C*1, HD-Audio+Mic, 2*140 мм CT140 ARGB fan/1*140мм CT140, Высота процессорного кулера до 185мм, Длина VGA до 370 мм, 1*3.5\"/2*2.5\", Сталь, Закаленное стекло 4мм, 475*245*463мм, Без Б/П, Белый"
   },
   {
@@ -3742,7 +3742,7 @@ export const KORPUSA = [
     "price": 66833,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Thermaltake, Ceres 300 TG ARGB, CA-1Y2-00M1WN-00, Mid Tower, Mini-ITX/M-ATX/ATX/E-ATX, USB 3.0*2/Type C*1, HD-Audio+Mic, 2*140 мм CT140 ARGB fan /1*140мм CT140, Высота процессорного кулера до 185мм, Длина VGA до 370 мм, 1*3.5\"/2*2.5\", Сталь, Закаленное стекло 4мм, 475*245*463мм, Без Б/П, Черный"
   },
   {
@@ -3754,7 +3754,7 @@ export const KORPUSA = [
     "price": 66833,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Thermaltake, Ceres 300 TG ARGB Matcha Green, CA-1Y2-00MEWN-00, Mid Tower, Mini-ITX/M-ATX/ATX/E-ATX, USB 3.0*2/Type C*1, HD-Audio+Mic, 2*140 мм CT140 ARGB fan/1*140мм CT140, Высота процессорного кулера до 185мм, Длина VGA до 370 мм, 1*3.5\"/2*2.5\", Сталь, Закаленное стекло 4мм, 475*245*463мм, Без Б/П, Зеленый"
   },
   {
@@ -3766,7 +3766,7 @@ export const KORPUSA = [
     "price": 68773,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Thermaltake, Ceres 330 TG ARGB Hydrangea Blue, CA-1Y2-00MFWN-00, Mid-tower, Mini-ITX/M-ATX/ATX/E-ATX, USB 3.0*2, USB 3.2 (Gen 2) Type-C*1, HD Audio/Mic, 2*140мм CT140 ARGB white fan/1*140мм CT140 white fan, Высота процессорного куллера 185мм, Длина VGA до 370мм, 1*3,5\"/3*2,5\", Сталь, 4мм Закаленное стекло, 475*245*463 мм, Без Б/П, Голубой"
   },
   {
@@ -3778,7 +3778,7 @@ export const KORPUSA = [
     "price": 68773,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Thermaltake, Ceres 330 TG ARGB Snow, CA-1Y2-00M6WN-01, Mid-tower, Mini-ITX/M-ATX/ATX/E-ATX, USB 3.0*2, USB 3.2 (Gen 2) Type-C*1, HD Audio/Mic, 2*140мм CT140 ARGB white fan/1*140мм CT140 white fan, Высота процессорного куллера 185мм, Длина VGA до 370мм, 1*3,5\"/3*2,5\", Сталь, 4мм Закаленное стекло, 475*245*463 мм, Без Б/П, Белый"
   },
   {
@@ -3790,7 +3790,7 @@ export const KORPUSA = [
     "price": 58472,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Thermaltake, Ceres 350 MX, CA-1Z3-00M1WN-00, Mid Tower, ATX/M-ATX/M-ITX/E-ATX, USB 3.2 Type-C*1, USB 3.0*2, HD Audio+Mic, 2*140мм CT140 ARGB вентилятор, 1*140мм CT140 вентилятор, Высота процессорного куллера до 185 мм, Длина VGA до 360 мм, 3*2,5\"/1*3,5\", Сталь/Закаленное стекло, 475х245х463мм, Без Б/П, Черный"
   },
   {
@@ -3802,7 +3802,7 @@ export const KORPUSA = [
     "price": 60791,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Thermaltake, Ceres 350 MX, CA-1Z3-00M6WN-00, Mid Tower, ATX/M-ATX/M-ITX/E-ATX, USB 3.2 Type-C*1, USB 3.0*2, HD Audio+Mic, 2*140мм CT140 ARGB вентилятор, 1*140мм CT140 вентилятор, Высота процессорного куллера до 185 мм, Длина VGA до 360 мм, 3*2,5\"/1*3,5\", Сталь/Закаленное стекло, 475х245х463мм, Без Б/П, Белый"
   },
   {
@@ -3814,7 +3814,7 @@ export const KORPUSA = [
     "price": 61287,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Thermaltake, Ceres 350 MX Bumblebee, CA-1Z3-00M4WN-00, Mid Tower, ATX/M-ATX/M-ITX/E-ATX, USB 3.2 Type-C*1, USB 3.0*2, HD Audio+Mic, 2*140мм CT140 ARGB вентилятор, 1*140мм CT140 вентилятор, Высота процессорного куллера до 185 мм, Длина VGA до 360 мм, 3*2,5\"/1*3,5\", Сталь/Закаленное стекло, 475х245х463мм, Без Б/П, Желтый"
   },
   {
@@ -3826,7 +3826,7 @@ export const KORPUSA = [
     "price": 61309,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Thermaltake, Ceres 350 MX Hydrangea Blue, CA-1Z3-00MFWN-00, Mid Tower, ATX/M-ATX/M-ITX/E-ATX, USB 3.2 Type-C*1, USB 3.0*2, HD Audio+Mic, 2*140мм CT140 ARGB вентилятор, 1*140мм CT140 вентилятор, Высота процессорного куллера до 185 мм, Длина VGA до 360 мм, 3*2,5\"/1*3,5\", Сталь/Закаленное стекло, 475х245х463мм, Без Б/П, Голубой"
   },
   {
@@ -3838,7 +3838,7 @@ export const KORPUSA = [
     "price": 39993,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Thermaltake, Divider 300 TG, CA-1S2-00M1WN-00, Mid Tower, ATX/M-ATX/Mini-ITX, USB 3.0*2/3.2 Type C*1, HD-Audio, 1*120 мм Turbo fan, Высота процессорного куллера до 145 мм, Длина VGA до 360 мм, 2*3.5\"/5*2.5\", Сталь, Закаленное стекло*2, 475*220*461 мм, Без Б/П, Чёрный"
   },
   {
@@ -3850,7 +3850,7 @@ export const KORPUSA = [
     "price": 45105,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Thermaltake, Divider 370 TG ARGB, CA-1S4-00M1WN-00, Mid Tower, ATX/M-ATX/Mini-ITX/E-ATX, USB 3.0*2, HD Audio*1, 3*120мм ARGB PWM fan, Высота процессорного куллера до 170 мм, Длина VGA до 400 мм, 2*3.5\"/ 4*2.5\", 491*220,3*469,1мм, Сталь, 3мм Закаленное стекло, Без Б/П, Чёрный"
   },
   {
@@ -3862,7 +3862,7 @@ export const KORPUSA = [
     "price": 45105,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Thermaltake, Divider 370 TG ARGB Snow, CA-1S4-00M6WN-00, Mid Tower, ATX/M-ATX/Mini-ITX/E-ATX, USB 3.0*2, HD Audio*1, 3*120мм ARGB PWM fan, Высота процессорного куллера до 170 мм, Длина VGA до 400 мм, 2*3.5\"/ 4*2.5\", 491*220,3*469,1мм, Сталь, 3мм Закаленное стекло, Без Б/П, Белый"
   },
   {
@@ -3874,7 +3874,7 @@ export const KORPUSA = [
     "price": 51400,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Thermaltake, Divider 500 TG Air, CA-1T4-00M1WN-02, Mid-tower, ATX/M-ATX/Mini-ITX, USB 3.2 (Gen 2) Type-C*1, USB 3.0*2, HD Audio, 2*120мм, 2*3,5\"/7*2,5\", Сталь, 2*Закаленное стекло 3мм, 530*230*466мм, Без Б/П, Черный"
   },
   {
@@ -3886,7 +3886,7 @@ export const KORPUSA = [
     "price": 59936,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Thermaltake, V350 TG ARGB Air Snow, CA-1S3-00M6WN-03, Mid Tower, ATX/M-ATX/Mini-ITX, USB 3.2 (Gen 2) Type-C*1/USB 3.0*2, HD Audio, 3*120мм ARGB fan /1*120мм Turbo fan, Высота процессорного куллера до 160 мм, Длина VGA до 390 мм, 2*3.5\"/ 5*2.5\", Сталь, Закаленное стекло*1, 475*220*461мм, Без Б/П, Белый"
   },
   {
@@ -3898,7 +3898,7 @@ export const KORPUSA = [
     "price": 35438,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Thermaltake, H200 TG White RGB, CA-1M3-00M6WN-00, Mid tower, ATX/Mini-ITX/M-ATX, USB 3.0*2, HD Audio, 1*120мм, Высота процессорного кулера до 180мм, Длина VGA до 320мм, 2*3.5\"/3*2.5\", Сталь, 4мм Закаленное стекло*1, 454x210x416мм, Без Б/П, Белый"
   },
   {
@@ -3910,7 +3910,7 @@ export const KORPUSA = [
     "price": 56891,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Thermaltake, Divider 500 TG ARGB, CA-1T4-00M1WN-01, Mid-tower, ATX/M-ATX/Mini-ITX, USB 3.2 (Gen 2) Type-C*1, USB 3.0*2, HD Audio, 3*120мм ARGB fan/1*120мм fan, Максимальная высота процессорного кулера 170мм, Длина VGA 390мм, 2*3,5\"/7*2,5\", Сталь, 2*Закаленное стекло 3мм, Без Б/П, Черный"
   },
   {
@@ -3922,7 +3922,7 @@ export const KORPUSA = [
     "price": 65571,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Thermaltake, CTE C700 TG ARGB, CA-1X7-00F1WN-01, Mid Tower, Mini-ITX/M-ATX/ATX/E-ATX, USB 3.2 (Gen 2) Type-C*1, USB 3.0*2, HD Audio, Кулер 3*140 мм CT140 white fan, Высота процессорного кулера до 190мм, Длина VGA до 410мм, 7*3,5\"/ 6*2,5\", Сталь/Пластик, ЗАкаленное стекло, 566.5*327.6*505.5мм, Без Б/П, Черный"
   },
   {
@@ -3934,7 +3934,7 @@ export const KORPUSA = [
     "price": 93993,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Thermaltake, The Tower 500 Snow, CA-1X1-00M6WN-00, Mid tower, E-ATX/Micro-ATX/Mini-ITX/ATX, USB 3.2 (Gen 2) Type-C*1, USB 3.0*2, HD Audio, 2*120мм Standard fan, Высота процессорного куллера до 180 мм, Длина VGA до 320 мм, 4*3,5/8*2,5, Сталь, 398*388*608мм, Без Б/П, Белый"
   },
   {
@@ -3946,7 +3946,7 @@ export const KORPUSA = [
     "price": 95933,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Thermaltake, CTE C700 Air Snow, CA-1X7-00F6WN-00, Mid Tower, Mini-ITX/M-ATX/ATX/E-ATX, USB 3.2 (Gen 2) Type-C*1, USB 3.0*2, HD Audio, Кулер 3*140 мм CT140 fan, Высота процессорного кулера до 190мм, Длина VGA до 410мм, 6*3,5\"/7*2,5\", Сталь / термопластик, 4мм Закаленное стекло, 566.5*327.6*505.5мм, Без Б/П, Белый"
   },
   {
@@ -3958,7 +3958,7 @@ export const KORPUSA = [
     "price": 27063,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Thermaltake, Versa H18, CA-1J4-00S1WN-00, Micro-Tower, M-ATX/Mini-ITX, USB 3.0*1, USB 2.0*1, HD-Audio, Кулер 12см, Длина VGA до 350мм, Процессорный кулер 155мм, 2*2,5\"/2*3,5\", Сталь, 398*205*439мм, Без Б/П, Чёрный"
   },
   {
@@ -3970,7 +3970,7 @@ export const KORPUSA = [
     "price": 33067,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, XPG, Invader White, INVADER-WHCWW, Mid Tower, ATX/ m-ATX/ Mini-ITX, USB 3.0*2/ HD-Audio+Mic, Кулер 2*12см, Высота процессорного кулера до 170мм, Длина VGA до 430мм, Количество внутренних отсеков 2*3,5\"/2*2,5\", Сталь/Закаленное стекло, 470x206x482мм, без Б/П, Белый"
   },
   {
@@ -3982,7 +3982,7 @@ export const KORPUSA = [
     "price": 34538,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, XPG, Invader Black, INVADER-BKCWW, Mid Tower, ATX/ m-ATX/ Mini-ITX, USB 3.0*2/ HD-Audio+Mic, Кулер 2*12см, Высота процессорного кулера до 170мм, Длина VGA до 430мм, Количество внутренних отсеков 2*3,5\"/2*2,5\", Сталь/Закаленное стекло, 470x206x482мм, без Б/П, Черный"
   },
   {
@@ -3994,7 +3994,7 @@ export const KORPUSA = [
     "price": 48674,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, XPG, Cruiser Black, CRUISERST-BKCWW, Mid Tower, E-ATX/ATX/ m-ATX/ Mini-ITX, USB 3.0*2/ Type C*1/ HD-Audio+Mic, Кулер 3*12см ARGB, Высота процессорного кулера до 170мм, Длина VGA до 380мм, Количество внутренних отсеков 2*3,5\"/2*2,5\", Сталь/Закаленное стекло, 493x234x466 мм, без Б/П, Черный"
   },
   {
@@ -4006,7 +4006,7 @@ export const KORPUSA = [
     "price": 34693,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, XPG, Defender White, DEFENDER-WHCWW, Mid Tower, E-ATX/ATX/ m-ATX/ Mini-ITX/CEB/EEB, USB 3.0*2/ HD Audio+Mic, Кулер 3*12см, Высота процессорного кулера до 170мм, Длина VGA до 400мм, Количество внутренних отсеков 2*3,5\"/4*2,5\" , Сталь/Закаленное стекло, 492x220x441 мм, без Б/П, Белый"
   },
   {
@@ -4018,7 +4018,7 @@ export const KORPUSA = [
     "price": 30279,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, XPG, Starker White, STARKER-WHCWW, Mid Tower, ATX/ m-ATX/ Mini-ITX, USB 3.0*2/ HD-Audio+Mic, Кулер 2*12см ARGB, Высота процессорного кулера до 165мм, Длина VGA до 350мм, Количество внутренних отсеков 3*3,5\"/3*2,5\", Сталь/Закаленное стекло, 465x215x400 мм, без Б/П, Белый"
   },
   {
@@ -4030,7 +4030,7 @@ export const KORPUSA = [
     "price": 77503,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, NZXT, H6 Flow, CC-H61FW-01, Mid-Tower, ATX/M-ATX/M-ITX, USB 3.2 Type-A *1, USB 3.2 Type-C *1, Audio+Mic *1, 3*120мм F120Q fan (Передняя-правая), Высота процессорного кулера 163мм, Длина VGA 365мм, 2*2,5/1*3,5, Сталь/Закаленное стекло, 415*287*435мм, без Б/П, Белый"
   },
   {
@@ -4042,7 +4042,7 @@ export const KORPUSA = [
     "price": 96903,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, NZXT, H6 Flow RGB, CC-H61FB-R1, Mid-Tower, ATX/M-ATX/M-ITX, USB 3.2 Type-A *2, USB 3.2 Type-C *1, Audio=Mic *1, 3*120мм F120 RGB fan (передняя правая), Высота процессорного кулера 163мм, Длина VGA 365мм, 2*2,5/1*3,5, Сталь/ Темное закаленное стекло, 415*287*435мм, без Б/П, Черный"
   },
   {
@@ -4054,7 +4054,7 @@ export const KORPUSA = [
     "price": 37432,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gigabyte, C102 GLASS (GB-C102G) 4719331554835, Micro ATX / Mini ITX, 2*USB3.0, HD-Audio+Mic, 2*Кулер 12см, H450*W210*D450 мм, Без Б/П, Чёрный"
   },
   {
@@ -4066,7 +4066,7 @@ export const KORPUSA = [
     "price": 39566,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gigabyte, C102 GLASS (GB-C102GI) 4719331554842, Micro ATX / Mini ITX, 2*USB3.0, HD-Audio+Mic, 2*Кулер 12см, H450*W210*D450 мм, Без Б/П, Белый"
   },
   {
@@ -4078,7 +4078,7 @@ export const KORPUSA = [
     "price": 63719,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gigabyte, C301 GLASS WHITE V2 (GB-C301GW V2) 4719331553456, E-ATX/ATX/Micro ATX, 2*USB3.0, 1*USB3.1 Gen2 Type-C, HD-Audio+Mic, LED Switch, 4*Кулер 12см (ARGB & PWM), H486*W220*D473 мм, Без Б/П, Белый"
   },
   {
@@ -4090,7 +4090,7 @@ export const KORPUSA = [
     "price": 73710,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gigabyte, C500 PANORAMIC STEALTH ICE (GB-C500PI ST) 4719331555030, ATX/Micro ATX/Mini ITX, 2*USB3.0, 1*USB3.2 Gen2 Type-C, HD-Audio+Mic, 4*Кулер 12см (ARGB), H501*W235*D430 мм, Без Б/П, Белый"
   },
   {
@@ -4102,7 +4102,7 @@ export const KORPUSA = [
     "price": 35185,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Aerocool, Menace Saturn RGB-G-BK-v1, ATX/Micro ATX, USB 2*3.0, HD-Audio+Mic, Кулер 2*12см RGB, Высота процессорного кулера до 157мм, Длина VGA до 317мм (без переднего радиатора), 2*3.5\"/3*2.5\", Толщина 0,5мм, 205x457x392мм, Без Б/П, Чёрный"
   },
   {
@@ -4114,7 +4114,7 @@ export const KORPUSA = [
     "price": 40675,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, MATREXX 50 DP-ATX-MATREXX50-MESH-4FS, E-ATX/ATX/Micro ATX, USB 3.0*1/2.0*2, HD-Audio+Mic, Кулер 4*12см FRGB, Высота процессорного кулера до 160мм, Длина VGA до 370мм (гор)/ 340мм (верт), 2*3.5\"/4*2.5\", Сталь 0,6, 442x210x479мм, Без Б/П,Чёрный"
   },
   {
@@ -4126,7 +4126,7 @@ export const KORPUSA = [
     "price": 21692,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Aerocool, CS-109-G-WT-v1, Micro ATX/mini-ITX, USB 1*3.0/2*2.0, HD-Audio+Mic, Кулер 120мм FRGB, Высота процессорного кулера 156 мм, Длина VGA до 260мм, 2*3.5\"/4*2.5\", 385.4x195x314.8мм, Без Б/П, Белый"
   },
   {
@@ -4138,7 +4138,7 @@ export const KORPUSA = [
     "price": 24452,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Aerocool, Falcon-G-BK-v1, ATX/Micro ATX/Mini-ITX, USB 2*3.0/1*2.0, HD-Audio+Mic, Кулер 4*12см FRGB, Высота процессорного кулера до 157 мм, Длина VGA до 290мм (без переднего радиатора), 2*3.5\"/2*2.5\", Толщина 0,5мм, 457x206x357мм, Без Б/П, Чёрный"
   },
   {
@@ -4150,7 +4150,7 @@ export const KORPUSA = [
     "price": 108630,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Bequiet!, Pure Base 500FX, BGW43, Midi Tower, ATX/M-ATX/Mini-ITX, USB 3.2 Gen.1*1/ USB 3.2 Gen.2 Type C*1, Mic+Audio, 3*120 мм Light Wings PWM/ 1*140 мм Light Wings PWM, Высота процессорного куллера до 190 мм, Длина VGA до 369 мм, 2*3.5\"/4*2.5\", Пластик/Сталь/Закаленное стекло, 450*232*443 мм, Без Б/П, RGB LED подсветка, Чёрный"
   },
   {
@@ -4162,7 +4162,7 @@ export const KORPUSA = [
     "price": 35793,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, SPARK PRO BLACK, 12920100015, Mid Tower, ATX/m-ATX/Mini-ITX, USB3.0*1/ Type C*1/ HD-Audio, Высота процессорного кулера до 168мм, Длина VGA до 355мм, Количество отсеков 1*3,5\" / 3*2,5\", Сталь, 401x204x386мм, Без Б/П, Черный"
   },
   {
@@ -4174,7 +4174,7 @@ export const KORPUSA = [
     "price": 89143,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Jonsbo, MOD-3 Mini White, Mini-Tower, M-ATX/ITX, USB 3.0*1/Type-C*1, Audio+Mic, Высота процессорного кулера до 165 мм, Длина VGA до 360 мм, 1*2.5''/1*3.5'', Сталь, Закаленное стекло, 251*569*535мм, Без Б/П, Белый"
   },
   {
@@ -4186,7 +4186,7 @@ export const KORPUSA = [
     "price": 28033,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Thermaltake, Versa H21, CA-1B2-00M1NN-00, Mid Tower, ATX/M-ATX, USB 3.0/2.0*1, HD-Audio + Mic, 1*120 мм, Высота процессорного куллера до 155 мм, Длина VGA до 315 мм, 3*5.25\"/ 3*3.5\"/3*2.5\", Сталь, 429*209*480 мм, Без Б/П, Чёрный"
   },
   {
@@ -4198,7 +4198,7 @@ export const KORPUSA = [
     "price": 41759,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Thermaltake, H570 TG ARGB Black, CA-1T9-00M1WN-01, Mid-tower, ATX/EATX/M-ATX/Mini-ITX, USB 3.2 (Gen 1) Type-C*2, HD Audio*1, 3*120мм ARGB Lite fan, Высота процессорного куллера до 160 мм, Длина VGA 375мм, 2*3,5/4*2,5, Сталь, 4мм Закаленное стекло*1, 487*216*463,6мм, Без Б/П, Черный"
   },
   {
@@ -4210,7 +4210,7 @@ export const KORPUSA = [
     "price": 89007,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Thermaltake, View 51 TG ARGB, CA-1Q6-00M1WN-00, Full Tower, Mini-ITX/M-ATX/ATX/E-ATX, USB 3.1*1/2.0*2/3.0*3, HD-Audio, 2*200мм ARGB Fan/120mm ARGB Fan, Высота процессорного куллера до 175 мм, Длина VGA до 440 мм, 4*2.5\"/2*3.5\", Сталь, 4мм Закаленное стекло*3, 550*315*525 мм, Без Б/П, Чёрный"
   },
   {
@@ -4222,7 +4222,7 @@ export const KORPUSA = [
     "price": 29973,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, 1STPLAYER, INFINITE SPACE IS6-BK-3F2C3, Mid-Tower, ATX/M-ATX, USB3.0*1, USB2.0*2, HD AUDIO/Mic, 3*120мм F2 ARGB вентилятор, Не совместим с СЖО 280мм, Высота процессорного кулера до 170мм, Длина VGA до 320мм, 2*3,5/2*2,5, Сталь/Пластик/Закаленное стекло, 395x215x468мм, Без Б/П, Черный"
   },
   {
@@ -4234,7 +4234,7 @@ export const KORPUSA = [
     "price": 22213,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, 1STPLAYER, X3-M-BK-4F2C3, FIREBASE X3-M-BK, Mini-Tower, M-ATX/M-ITX, USB3.0*1, USB2.0*2, HD AUDIO/Mic, 4*120мм F2 RGB вентилятор, Высота процессорного кулера до 155мм, Длина VGA до 315мм, 2*3,5/1*2,5, Сталь/Пластик/Закаленное стекло, 388x210x423мм, Без Б/П, Черный"
   },
   {
@@ -4246,7 +4246,7 @@ export const KORPUSA = [
     "price": 64850,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, XPG, Battlecruiser Black, BATTLECRUISER-BKCWW, Mid Tower, E-ATX/ATX/ m-ATX/ Mini-ITX, USB 3.0*2/ Type C*1/ HD Audio/Mic, Кулер 4*12см ARGB, Высота процессорного кулера до 170мм, Длина VGA до 400мм, Количество внутренних отсеков 3*3,5\"/6*2,5\", Сталь/Закаленное стекло, 485x225x506 мм, без Б/П, Черный"
   },
   {
@@ -4258,7 +4258,7 @@ export const KORPUSA = [
     "price": 67803,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, Vista AB, 9101-0000R0167, 14100901970, Mid Tower, E-ATX/ATX/m-ATX/ITX, USB2.0*2/ USB3.0*1/ TypeC *1/ HD-Audio, Кулер 6*12cм ARGB, Высота процессорного кулера 165мм, Длина VGA 410мм, Количество отсеков 2*3,5\" / 2*2,5\", Сталь/Закаленное стекло, 433*210*485 мм, Без Б/П, Чёрный"
   },
   {
@@ -4270,7 +4270,7 @@ export const KORPUSA = [
     "price": 77590,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Thermaltake, The Tower 300 Racing Green, CA-1Y4-00SCWN-00, Micro-Tower, Mini-ITX/M-ATX, USB 3.2*1, USB 3.0*2, HD Audio/mic, 3*140мм CT140 fan, Максимальная длина видеокарты 400мм, Максимальная высота процессорного кулера 210мм, 3*3,5\"/3*2,5\", Сталь, 3мм Закаленное стекло*3, 551*342*281мм, Без Б/П, Зеленый"
   },
   {
@@ -4282,7 +4282,7 @@ export const KORPUSA = [
     "price": 30925,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Chieftec, Mesh, CQ-01B-U3-OP, Mid-Tower, ATX/mATX/Mini-ITX, USB3.0*2,+HD AUDIO, Высота процессорного куллера до 120 мм, Длина VGA до 250 мм, 2*5,25/2*lx3,5 и 3*3,5, Пластик/Сталь, 428*160*410мм, Без Б/П, Черный"
   },
   {
@@ -4294,7 +4294,7 @@ export const KORPUSA = [
     "price": 101753,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, NZXT, H7 Flow RGB, CM-H72FW-R1, Mid-Tower, E-ATX/ATX/M-ATX/M-ITX, USB 3.2 Type-A *2, USB 3.2 Type-C *1, Audio+Mic *1, 3*140мм F Series RGB fan (Спереди), Высота процессорного кулера 185мм, Длина VGA 400мм, 4*2,5/2*3,5, Сталь/Закаленное стекло, 480*230*505мм, без Б/П, Белый"
   },
   {
@@ -4306,7 +4306,7 @@ export const KORPUSA = [
     "price": 38703,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, Infinity Plus BK, 9101-0000R0027, Mid Tower, ATX/M-ATX/M-ITX, USB 3.1*1, HD Audio+Mic, Высота процессорного кулера 160мм, Длина VGA 400мм, Количество отсеков 1*3,5\" / 3*2,5\", Сталь/Закаленное стекло, 454х272х418мм, Без Б/П, Черный"
   },
   {
@@ -4318,7 +4318,7 @@ export const KORPUSA = [
     "price": 38703,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, Infinity Plus WH, 9101-0000R0162, Mid Tower, ATX/M-ATX/M-ITX, USB 3.1*1, HD Audio+Mic, Высота процессорного кулера 160мм, Длина VGA 400мм, Количество отсеков 1*3,5\" / 3*2,5\", Сталь/Закаленное стекло, 454х272х418мм, Без Б/П, Белый"
   },
   {
@@ -4330,7 +4330,7 @@ export const KORPUSA = [
     "price": 126003,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Thermaltake, The Tower 600 White, CA-1Z1-00M6WN-00, Mid Tower, ATX / M-ATX / M-ITX, Type-C*1, USB 3.0*4, HD+Audio*1, 2*140мм вентиляторы, Высота процессорного кулера до 210мм, Длина VGA до 400мм, 1*3,5/3*2,5, Сталь/Пластик/Закаленное стекло, 550х420х286,4мм, Без Б/П, Белый"
   },
   {
@@ -4342,7 +4342,7 @@ export const KORPUSA = [
     "price": 68773,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, Hype-A WH, 9101-0000R0188, 14100902945, Mid-Tower, ATX/ m-ATX, USB3.0*1/ USB2.0*2/ HD-Audio, Кулер ARGB 4*12см, Высота процессорного кулера 157мм, Длина VGA 400мм, Количество отсеков 2*3,5\" / 3*2,5\", Сталь/Закаленное стекло, 418*280*435 мм, Без Б/П, Белый"
   },
   {
@@ -4354,7 +4354,7 @@ export const KORPUSA = [
     "price": 27063,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, Starlight 2 AW White, 12380500002, Mid Tower, ATX/M-ATX/M-ITX/E-ATX, USB2.0*2 / USB3.0*1 / Type-C*1 / HD-Audio, Кулер 6*12см ARGB, Высота процессорного кулера 155мм, Длина VGA 330мм, Количество отсеков 2*3,5\" / 3*2,5\", Сталь, 340*200*436мм, Без Б/П, Белый"
   },
   {
@@ -4366,7 +4366,7 @@ export const KORPUSA = [
     "price": 76533,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, Infinity Pro WH, 9101-0000R0157, 14100903091, Mid Tower, ATX/m-ATX/ITX, USB 3.0*1/ Type-C*1/ HD Audio, 5*120мм ARGB вентиляторы, Высота процессорного кулера 160мм, Длина VGA 400мм, Количество отсеков 1*3,5\" / 3*2,5\", Сталь/Закаленное стекло, 418х272х454мм, Без Б/П, Белый"
   },
   {
@@ -4378,7 +4378,7 @@ export const KORPUSA = [
     "price": 82353,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, N80 WH, 12118000002, Mid Tower, ATX/m-ATX/ITX, USB 3.0*2/ Type-C*1/ HD Audio, 6*120мм ARGB вентиляторы, Высота процессорного кулера 175мм, Длина VGA 415мм, Количество отсеков 2*3,5\" / 2*2,5\", Сталь/Закаленное стекло, 439х241х530мм, Без Б/П, Белый"
   },
   {
@@ -4390,7 +4390,7 @@ export const KORPUSA = [
     "price": 49257,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, S5 NEO White, Mid Tower, ATX/mATX/Mini-ITX, USB 3.01/USB 2.01, HD Audio, 4120мм RGB вентиляторы, Высота процессорного куллера до 165 мм, Длина VGA до 390 мм, 23.5\"/22.5\", 456215*490 мм, Без Б/П, Белый"
   },
   {
@@ -4402,7 +4402,7 @@ export const KORPUSA = [
     "price": 56032,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, P10 NAMU Black, Mini Tower, mATX/Mini-ITX, USB 3.01/USB Type-C1, HD Audio, 3120мм вентиляторы, Высота процессорного куллера до 173 мм, Длина VGA до 340 мм, Кол-во отсеков 23.5\"/3*2.5\", 423х216х422 мм, Без Б/П, Черный"
   },
   {
@@ -4414,7 +4414,7 @@ export const KORPUSA = [
     "price": 41613,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, Infinity BK, 9101-0000R0163, Mid Tower, ATX/M-ATX/M-ITX, USB 3.0*1/Type-C*1, HD Audio+Mic, Высота процессорного кулера 170мм, Длина VGA 360мм, Количество отсеков 2*3,5\" / 3*2,5\", Сталь/Закаленное стекло, 420х273х399мм, Без Б/П, Черный"
   },
   {
@@ -4426,7 +4426,7 @@ export const KORPUSA = [
     "price": 41613,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, Infinity WH, 9101-0000R0189, Mid Tower, ATX/M-ATX/M-ITX, USB 3.0*1/Type-C*1, HD Audio+Mic, Высота процессорного кулера 170мм, Длина VGA 360мм, Количество отсеков 2*3,5\" / 3*2,5\", Сталь/Закаленное стекло, 420х273х399мм, Без Б/П, Белый"
   },
   {
@@ -4438,7 +4438,7 @@ export const KORPUSA = [
     "price": 48403,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, 1STPLAYER, FIREBASE GM7, GM7-WH-3FN7R-W-1FN7-W, ATX / Micro-ATX / Mini-ITX, 1*3.5\"/1*2.5\", Высота кулера до 190 мм, Длина VGA до 400 мм, 483235446 мм, Без Б/П, Белый"
   },
   {
@@ -4450,7 +4450,7 @@ export const KORPUSA = [
     "price": 25123,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Jonsbo, C6-ITX White, C6-ITX White, Mini-ITX, 1*Type-C,1*USB3.0,1*HD+Audio, 1*3.5\"/1*2.5\", Высота кулера до 170 мм, Длина VGA до 335 мм, 202х349х295 мм, Сталь, Без Б/П, Белый"
   },
   {
@@ -4462,7 +4462,7 @@ export const KORPUSA = [
     "price": 29973,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Jonsbo, D32 STD Black, D32 STD Black, Micro-ATX / Mini-ITX, 1*Type-C,1*USB3.0,1*HD+Audio, 1*3.5\"/3*2.5\", Высота кулера до 164 мм, Длина VGA до 365 мм, 384х207х314 мм, Сталь / закаленное стекло, Без Б/П, Черный"
   },
   {
@@ -4474,7 +4474,7 @@ export const KORPUSA = [
     "price": 70713,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Zalman, P60 Black, P60 Black, ATX, 1*3.5\"/1*2.5\", Высота кулера до 170 мм, Длина VGA до 435 мм, 475х290х478 мм, Без Б/П, Черный"
   },
   {
@@ -4486,7 +4486,7 @@ export const KORPUSA = [
     "price": 42583,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, F46 Dark, 1116-4046R0001, ATX/MATX/ITX, 2*3.5\"/3*2.5\", Высота кулера до 169 мм, Длина VGA до 350 мм, 419x216x449 мм, Без Б/П, Черный"
   },
   {
@@ -4498,7 +4498,7 @@ export const KORPUSA = [
     "price": 96903,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, N90 BG, 1118-3090R0002, ATX/MATX/ITX, 2*3.5\"/2*2.5\", Высота кулера до 175 мм, Длина VGA до 415 мм, 439x240.5x530 мм, Без Б/П, Серый"
   },
   {
@@ -4510,7 +4510,7 @@ export const KORPUSA = [
     "price": 96903,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, N90 WH, 1118-3090R0001, ATX/MATX/ITX, 2*3.5\"/2*2.5\", Высота кулера до 175 мм, Длина VGA до 415 мм, 439x240.5x530 мм, Без Б/П, Белый"
   },
   {
@@ -4522,7 +4522,7 @@ export const KORPUSA = [
     "price": 41613,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, Siege WH, 9101-0800R0032, ATX/MATX/ITX, 2*3.5\"/3*2.5\", Высота кулера до 165 мм, Длина VGA до 410 мм, 465x210x485 мм, Без Б/П, Белый"
   },
   {
@@ -4534,7 +4534,7 @@ export const KORPUSA = [
     "price": 21243,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, Silent Hill, 1110-6606R0016, MATX/ITX, 2*3.5\"/2*2.5\", Высота кулера до 170 мм, Длина VGA до 360 мм, 393x193x415 мм, Без Б/П, Черный"
   },
   {
@@ -4546,7 +4546,7 @@ export const KORPUSA = [
     "price": 44620,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, VISTA 2 AB, 9101-0800R0037, ATX/MATX/ITX, 2*3.5\"/2*2.5\", Высота кулера до 165 мм, Длина VGA до 410 мм, 433x210x485 мм, Без Б/П, Черынй"
   },
   {
@@ -4558,7 +4558,7 @@ export const KORPUSA = [
     "price": 47433,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Gamemax, VISTA 2 AW, 9101-0800R0039, ATX/MATX/ITX, 2*3.5\"/2*2.5\", Высота кулера до 165 мм, Длина VGA до 410 мм, 433x210x485 мм, Без Б/П, Белый"
   },
   {
@@ -4570,7 +4570,7 @@ export const KORPUSA = [
     "price": 26093,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, 1STPLAYER, BV5-BK, BV5-BK-2FH7R-1FH7, M-ATX / ITX, 1*3.5\"/2*2.5\", Вентилятор 3*12см, Высота кулера до 155 мм, Длина VGA до 320 мм, 340x270x375 мм, Без Б/П, Черный"
   },
   {
@@ -4582,7 +4582,7 @@ export const KORPUSA = [
     "price": 59393,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, CL660, R-CL660-BKNNA0-G-1, ATX/Micro ATX, USB Type-C/ 3.0*2, HD-Audio+Mic, Кулер 2*120мм ARGB, Высота процессорного кулера до 175мм, Длина VGA до 413/388мм, 2+1*3.5\"/1+1*2.5\", Толщина 0,8мм, 457.5x235x533.5мм, Без Б/П, Чёрный"
   },
   {
@@ -4594,7 +4594,7 @@ export const KORPUSA = [
     "price": 63050,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, CL660, R-CL660-WHNNA0-G-1, ATX/Micro ATX, USB Type-C/ 3.0*2, HD-Audio+Mic, Кулер 2*120мм ARGB, Высота процессорного кулера до 175мм, Длина VGA до 413/388мм, 2+1*3.5\"/1+1*2.5\", Толщина 0,8мм, 457.5x235x533.5мм, Без Б/П, Белый"
   },
   {
@@ -4606,7 +4606,8 @@ export const KORPUSA = [
     "price": 50936,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерный корпус, Deepcool, CG530U 4F R-CG530U-BKAGA4-G, ATX/Micro ATX/Mini-ITX, USB Tyoe-C/3.0*2, Audio+Mic, 4*120mm ARGB, Высота процессорного кулера до 160мм, Длина VGA до 410мм, 2*3.5\"/2+1*2.5\", Слот 7, Сталь 0,6, 475x285x380мм, Без Б/П, Черный"
   }
 ];
+

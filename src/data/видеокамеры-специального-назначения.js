@@ -10,7 +10,7 @@ export const ВИДЕОКАМЕРЫ_СПЕЦИАЛЬНОГО_НАЗНАЧЕНИ�
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Dahua, DH-IPC-MFW5241T2-E3-ASE, 2Мп, объектив 2.8мм, сжатие H.265+/H.265/H.264+/H.264, чувствительность 0.009лк/F2.0 (цвет, 1/3с, 30IRE), POE, IP67, IP6K9K, IK10, -40 +60C, мобильная, для транспорта, сетевая камера"
   },
   {
@@ -22,7 +22,7 @@ export const ВИДЕОКАМЕРЫ_СПЕЦИАЛЬНОГО_НАЗНАЧЕНИ�
     "price": 549214,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Dahua, DHI-ITC413-PW4D-Z3, ANPR, мах. 120 км/ч, 1/1,8-дюймовая CMOS-матрица, 8-32 мм"
   },
   {
@@ -34,7 +34,7 @@ export const ВИДЕОКАМЕРЫ_СПЕЦИАЛЬНОГО_НАЗНАЧЕНИ�
     "price": 526710,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Dahua, DHI-ITC413-PW4D-Z1, цилиндрическая, ANPR, мах. 80 км/ч, 1/1,8-дюймовая CMOS-матрица, 2,7–12 мм"
   },
   {
@@ -46,7 +46,7 @@ export const ВИДЕОКАМЕРЫ_СПЕЦИАЛЬНОГО_НАЗНАЧЕНИ�
     "price": 131629,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Dahua, DH-IPC-PFW3849S-A180-AS-PV, цилиндрическая, 2 объектива  4MP, полноцветный duo, сращивание WizMind"
   },
   {
@@ -58,7 +58,7 @@ export const ВИДЕОКАМЕРЫ_СПЕЦИАЛЬНОГО_НАЗНАЧЕНИ�
     "price": 136843,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера Dahua, DH-IPC-EBW5641-AS, Купольная, 6 Мп, 1,68 мм, \"рыбий глаз\", ИК до 15 м"
   },
   {
@@ -70,7 +70,7 @@ export const ВИДЕОКАМЕРЫ_СПЕЦИАЛЬНОГО_НАЗНАЧЕНИ�
     "price": 179760,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Dahua, DH-IPC-PDW3849-A180-AS-PV, купольная, 24MP, полноцветный duo, сращивание WizMind"
   },
   {
@@ -82,7 +82,7 @@ export const ВИДЕОКАМЕРЫ_СПЕЦИАЛЬНОГО_НАЗНАЧЕНИ�
     "price": 305550,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера Dahua, DH-IPC-EBW8842-AS, Купольная IP-видеокамера с объективом \"рыбий глаз\""
   },
   {
@@ -94,7 +94,8 @@ export const ВИДЕОКАМЕРЫ_СПЕЦИАЛЬНОГО_НАЗНАЧЕНИ�
     "price": 271600,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP видеокамера, Dahua, DH-IPC-HDW8441X-3D, 4-мегапиксельная сетевая камера WizMind с двумя объективами, подсчет людей"
   }
 ];
+

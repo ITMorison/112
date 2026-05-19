@@ -10,7 +10,7 @@ export const GSM_LTE_MODEMY = [
     "price": 107670,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, MikroTik, wAPGR-5HacD2HnD&EC200A-EU, wAP ac LTE kit, RouterOS v7, 802.3af/at, 2,4 ГГц - 802.11b/g/n, 5 GHz - 802.11a/n/ac, 1 модем (Micro SIM), 1 слот miniPCI-e, -40°C to 60°C"
   },
   {
@@ -22,7 +22,7 @@ export const GSM_LTE_MODEMY = [
     "price": 60625,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевое оборудование маршрутизатор, MikroTik, CME22-2n-BG77, CME Gateway RouterOS v7, 802.3af/at, 2,4 ГГц - 802.11b/g/n,1 модем (Nano SIM), -40°C to 70°C"
   },
   {
@@ -34,7 +34,7 @@ export const GSM_LTE_MODEMY = [
     "price": 67415,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, MikroTik, RB912R-2nD-LTm&EC200A-EU, Комплект LtAP mini LTE, RouterOS v7, 802.3af/at, 802.11b/g/n, 2,4 ГГц Максим. скорость передачи данных 300 Мбит/с, 2 модема (Mini SIM), 1 слот miniPCI-e, -40°C to 60°C"
   },
   {
@@ -46,7 +46,7 @@ export const GSM_LTE_MODEMY = [
     "price": 65475,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, MikroTik, wAPR-2nD&EC200A-EU, wAP LTE kit, 1xLAN, PoE-IN Passive PoE, 802.11b/g/n, N300, 2.4 GHz, 1 Micro SIM, LTE cat4, RouterOS, PoE injector, -40°C to 60°C"
   },
   {
@@ -58,7 +58,7 @@ export const GSM_LTE_MODEMY = [
     "price": 133375,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, MikroTik, LtAP-2HnD&FG621-EA, LtAP LTE6 kit, 1 порт 10/100/1000М, 2,4GHz, 802.11b/g/n, 300 Mbit/s, 3 Modem (Mini SIM), RouterOS, -40°С до 70 °C"
   },
   {
@@ -70,7 +70,7 @@ export const GSM_LTE_MODEMY = [
     "price": 135800,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, MikroTik, S53UG+5HaxD2HaxD-TC&FG621-EA, Chateau LTE6 ax, 4 порта 10/100/1000М, 1 порт 2500М, 2.4/5 GHz, АХ1800, 1 слот Micro SIM, 1 слот USB-A, RouterOS, -40°С до 70 °C"
   },
   {
@@ -82,7 +82,7 @@ export const GSM_LTE_MODEMY = [
     "price": 161505,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, MikroTik, LtAP-2HnD&FG621-EA&LR8G, LtAP LR8 LTE6 kit, 1 порт 10/100/1000М, 2,4 GHz, 802.11b/g/n, 300 Mbit/s, 3 Modem (Mini SIM), RouterOS, -40°С до 70 °C"
   },
   {
@@ -94,7 +94,7 @@ export const GSM_LTE_MODEMY = [
     "price": 240075,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, MikroTik, S53UG+5HaxD2HaxD-TC&RG650E-EU, Chateau 5G R17 ax, RouterOS v7, 802.11a/b/g/n/ax, 2,4 ГГц/5ГГц, AX1800, Wi-Fi 6, 1 Modem (Micro SIM), 4x10/100/1000, 1x2.5G"
   },
   {
@@ -106,7 +106,7 @@ export const GSM_LTE_MODEMY = [
     "price": 29090,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор 3G/4G Мобильный , TP-Link, M7000, Слот для SIM-карты, 1 порт micro USB для зарядки. LED-дисплей, 2000 мАч, 802.11b/g/n"
   },
   {
@@ -118,7 +118,7 @@ export const GSM_LTE_MODEMY = [
     "price": 33940,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор 3G/4G Мобильный , TP-Link, M7200, Слот для SIM-карты, 1 порт micro USB для зарядки. LED-дисплей, 2000 мАч, 802.11b/g/n"
   },
   {
@@ -130,7 +130,7 @@ export const GSM_LTE_MODEMY = [
     "price": 46550,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор 3G/4G Мобильный , TP-Link, M7350, Слот для SIM-карты, Слот для карты Micro SD, 1 порт micro USB для зарядки. LED-дисплей, 2000 мАч, 802.11b/g/n"
   },
   {
@@ -142,7 +142,7 @@ export const GSM_LTE_MODEMY = [
     "price": 13861,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор 3G/4G Портативный , TP-Link, TL-MR3020, 1 порт WAN/LAN 10/100 Мбит/с, 802.11b/g/n порт USB 2.0 для модемов 3G/4G, порт Mini-USB для блока питания"
   },
   {
@@ -154,7 +154,7 @@ export const GSM_LTE_MODEMY = [
     "price": 59160,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer MR200, до 150 Мбит/с, 3 порта LAN 10/100 Мбит/с, 1 порт LAN/WAN 10/100 Мбит/с, 1 слот для micro SIM-карты"
   },
   {
@@ -166,7 +166,7 @@ export const GSM_LTE_MODEMY = [
     "price": 36850,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer MR202, до 150 Мбит/с, 3 порта LAN 10/100 Мбит/с, 1 порт LAN/WAN 10/100 Мбит/с, 1 слот для Nano SIM-карты"
   },
   {
@@ -178,7 +178,7 @@ export const GSM_LTE_MODEMY = [
     "price": 64010,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer MR400, 3 порта LAN 10/100 Мбит/с, 1 порт LAN/WAN 10/100 Мбит/с, 1 слот для Micro SIM-карты, АС1200"
   },
   {
@@ -190,7 +190,7 @@ export const GSM_LTE_MODEMY = [
     "price": 42670,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer MR402, 3 порта LAN 10/100 Мбит/с, 1 порт LAN/WAN 10/100 Мбит/с, 1 слот для Nano SIM-карты, АС1200"
   },
   {
@@ -202,7 +202,7 @@ export const GSM_LTE_MODEMY = [
     "price": 61100,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer MR505, AC1200, 2,4 ГГц — IEEE 802.11b/g/n, 5 ГГц — IEEE 802.11a/n/ac, AC 1200, 1x WAN/LAN 10/100/1000 Мбит/с, 2xLAN 10/100/1000 Мбит/с, nano-SIM, Разъём для подключения внешних антенн SMA-F"
   },
   {
@@ -214,7 +214,7 @@ export const GSM_LTE_MODEMY = [
     "price": 178470,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Tp-Link, Archer NX200, 802.11a/b/g/n/ac/ax, AX1800 , 2,4 ГГц/5 ГГц, 1  порт LAN/WAN 10/100/1000 Мбит/с,\r\n2  порта LAN 10/100/1000 Мбит/с,\r\n1  слот для нано-SIM-карты,\r\n2  порта для подключения внешней антенны 5G/4G."
   },
   {
@@ -226,7 +226,7 @@ export const GSM_LTE_MODEMY = [
     "price": 40730,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, TL-MR100, до 150 Мбит/с, 1 порт LAN 10/100 Мбит/с, 1 порт LAN/WAN 10/100 Мбит/с,1 слот для карты Micro SIM"
   },
   {
@@ -238,7 +238,7 @@ export const GSM_LTE_MODEMY = [
     "price": 41700,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, TL-MR100-Outdoor, N300, 1  Nano SIM-карта, 1  WAN/LAN порт 100 Мбит/с (PoE In),"
   },
   {
@@ -250,7 +250,7 @@ export const GSM_LTE_MODEMY = [
     "price": 29090,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, TL-MR105, до 150 Мбит/с, 1 порт LAN 10/100 Мбит/с, 1 порт LAN/WAN 10/100 Мбит/с,1 слот для карты nano SIM"
   },
   {
@@ -262,7 +262,7 @@ export const GSM_LTE_MODEMY = [
     "price": 41700,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, TL-MR110-Outdoor, N300, 1  Nano SIM-карта, 1  WAN/LAN 100 Мбит/с (PoE In)"
   },
   {
@@ -274,7 +274,7 @@ export const GSM_LTE_MODEMY = [
     "price": 85350,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, Archer MR600, 3 порта LAN 10/100/1000 Мбит/с,1 порт LAN/WAN 10/100/1000 Мбит/с,1 слот для Micro SIM-карты, АС1200"
   },
   {
@@ -286,7 +286,7 @@ export const GSM_LTE_MODEMY = [
     "price": 52370,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, TL-MR6400, 300М, 1 WAN порт 10/100М + 3 LAN порта 10/100М + 1 слот для SIM-карты"
   },
   {
@@ -298,7 +298,7 @@ export const GSM_LTE_MODEMY = [
     "price": 15995,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, TL-MR3420, до 300 Мбит/с, Порт USB 2.0 для LTE/HSPA+/HSUPA/HSDPA/UMTS/EVDO USB-модемов,1 порт WAN 10/100 Мбит/с, 4 порта LAN 10/100 Мбит/с, поддержка автосогласования и авто-MDI/MDIX"
   },
   {
@@ -310,7 +310,7 @@ export const GSM_LTE_MODEMY = [
     "price": 37820,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Mercusys, MB230-4G, 802.11a/b/g/n/ac, 1  LAN/WAN 10/100 Мбит/с, 1  порт LAN 10/100 Мбит/с, 1  слот для установки Nano SIM-карты"
   },
   {
@@ -322,7 +322,7 @@ export const GSM_LTE_MODEMY = [
     "price": 29090,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Mercusys, MB130-4G, 802.11a/b/g/n/ac, AC1200, 1  LAN/WAN 10/100 Мбит/с, 1  порт LAN 10/100 Мбит/с, 2 порта для подключения внешней антенны 4G/3G, 1  слот для установки Nano SIM-карты"
   },
   {
@@ -334,7 +334,7 @@ export const GSM_LTE_MODEMY = [
     "price": 28120,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Mercusys, MB110-4G, 802.11b/g/n, N300, 1  LAN/WAN 10/100 Мбит/с, 1  порт LAN 10/100 Мбит/с, 2 порта для подключения внешней антенны 4G/3G, 1  слот для установки Nano SIM-карты"
   },
   {
@@ -346,7 +346,7 @@ export const GSM_LTE_MODEMY = [
     "price": 40740,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой маршрутизатор со встроенной беспроводной точкой доступа, ASUS, 4G-N16, 802.11n , AX300, 1 порт 10/100М LAN, 1 порт Micro SIM"
   },
   {
@@ -358,7 +358,7 @@ export const GSM_LTE_MODEMY = [
     "price": 171254,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа, Mikrotik, RouterBOARD LHGGM&EG18-EA, LHG LTE18 kit, 1 порт 10/100/1000M PoE in 802.3af/at, RouterOS, 1 Modem (Micro SIM)"
   },
   {
@@ -370,7 +370,8 @@ export const GSM_LTE_MODEMY = [
     "price": 99016,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, D-Link, DWR-956/4HDB1E, Встроенный LTE-модем. Слот для SIM-карты (mini-SIM), Порт WAN 10/100/1000BASE-TПорт WAN 10/100/1000BASE-T, 4 порта LAN 10/100/1000BASE-T, Порт FXS"
   }
 ];
+

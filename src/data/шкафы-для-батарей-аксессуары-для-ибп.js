@@ -10,7 +10,7 @@ export const ШКАФЫ_ДЛЯ_БАТАРЕЙ_АКСЕССУАРЫ_ДЛЯ_ИБП
     "price": 62540,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Внутренняя, SNMP карта, DA807, Разъём 10M/100M, RJ-45, UTP, Поддержка шифрования: HTTPS, SSL, SSH, SNMPv3, Многоязычный пользовательский интерфейс"
   },
   {
@@ -22,7 +22,7 @@ export const ШКАФЫ_ДЛЯ_БАТАРЕЙ_АКСЕССУАРЫ_ДЛЯ_ИБП
     "price": 32281,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Внешний Байпас модуль, SVC, Мощность 1кВА, Установка в стойку, 16А, 55*438*60 мм, 1U, Чёрный"
   },
   {
@@ -34,7 +34,7 @@ export const ШКАФЫ_ДЛЯ_БАТАРЕЙ_АКСЕССУАРЫ_ДЛЯ_ИБП
     "price": 212360,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "SNMP-карта, Eaton, Network-M3, Внутренняя установка, Разъём RJ-45 10/100/1000M, Поддержка шифрования: HTTPS1.1, MQTTS, TLS1.2, SNMPv1/v2c/v3, NTP, SMTPS, BOOTP/DHCP, CLI, SSH, ARP and Syslog, Аутентификация: IPv4/v6, TLSv1.2, HTTP(S)v1.1, NTP, SMTP(S), BOOTP/DHCP, SSH, SysLog(S), LDAP, AD, RADIUS Многоязычный пользовательский интерфейс"
   },
   {
@@ -46,7 +46,7 @@ export const ШКАФЫ_ДЛЯ_БАТАРЕЙ_АКСЕССУАРЫ_ДЛЯ_ИБП
     "price": 83032,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Внутренняя SNMP- карта, SVC, IStars IDA-ST200P"
   },
   {
@@ -58,7 +58,7 @@ export const ШКАФЫ_ДЛЯ_БАТАРЕЙ_АКСЕССУАРЫ_ДЛЯ_ИБП
     "price": 122331,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Датчик, Eaton, Environmental Monitoring Probe Gen 2 EMPDT1H1C2, Датчик температуры и влажности"
   },
   {
@@ -70,7 +70,7 @@ export const ШКАФЫ_ДЛЯ_БАТАРЕЙ_АКСЕССУАРЫ_ДЛЯ_ИБП
     "price": 46593,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф для аккумуляторов, SVC, C-4, Габариты: 465*470*610 мм., Вместимость: 17Ач/20шт., 24Ач/12шт., 38Ач/8шт., 65Ач/4шт., 100Ач/4шт., Комплектация: Кабеля для батарей(5 шт. перемычки 6мм.кв, клеммы М8), Автомат защиты(1P65A)"
   },
   {
@@ -82,7 +82,7 @@ export const ШКАФЫ_ДЛЯ_БАТАРЕЙ_АКСЕССУАРЫ_ДЛЯ_ИБП
     "price": 54000,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф для аккумуляторов, SVC, С-6, Габариты: 595*470*610 мм., Вместимость: 17Ач/28шт., 24Ач/16шт., 38Ач/12шт., 65Ач/6шт., 100Ач/6шт., Комплектация: Кабеля для батарей(7 шт. перемычки 6мм.кв, клеммы М8), Автомат защиты(1P65А)"
   },
   {
@@ -94,7 +94,7 @@ export const ШКАФЫ_ДЛЯ_БАТАРЕЙ_АКСЕССУАРЫ_ДЛЯ_ИБП
     "price": 61463,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф для аккумуляторов, SVC, С-8, Габариты: 780*470*610 мм., Вместимость: 17Ач/44шт., 24Ач/28шт., 38Ач/20шт., 65Ач/8шт., 100Ач/8шт., Комплектация: Кабеля для батарей (9шт. перемычки 6 мм.кв, клеммы М8), Автомат защиты.(1P65А)"
   },
   {
@@ -106,7 +106,7 @@ export const ШКАФЫ_ДЛЯ_БАТАРЕЙ_АКСЕССУАРЫ_ДЛЯ_ИБП
     "price": 107575,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф для аккумуляторов, SVC, С-16, Габариты: 780*470*1180 мм., Вместимость: 24Ач/32шт., 38Ач/32шт., 65Ач/16шт., 100Ач/16шт., Комплектация: Кабеля для батарей(17 шт. перемычки 6 мм.кв, клеммы М8), Автомат защиты(1P65A)"
   },
   {
@@ -118,7 +118,7 @@ export const ШКАФЫ_ДЛЯ_БАТАРЕЙ_АКСЕССУАРЫ_ДЛЯ_ИБП
     "price": 160295,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф для аккумуляторов, SVC, С-32, Габариты: 780*890*1180 мм., Вместимость: 65Ач/32шт., 100Ач/32шт., Комплектация: Кабеля для батарей(33 шт. перемычки 6 мм.кв, клеммы М8), Автомат защиты(1P65А)"
   },
   {
@@ -130,7 +130,7 @@ export const ШКАФЫ_ДЛЯ_БАТАРЕЙ_АКСЕССУАРЫ_ДЛЯ_ИБП
     "price": 193662,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф для аккумуляторов, SVC, C-40, Габариты: 950*890*1180 мм., Вместимость: 65Ач/40шт., 100Ач/40шт., Комплектация: Кабеля для батарей(41шт. перемычки 6 мм.кв, клеммы М8), Автомат защиты(1P65А)"
   },
   {
@@ -142,7 +142,7 @@ export const ШКАФЫ_ДЛЯ_БАТАРЕЙ_АКСЕССУАРЫ_ДЛЯ_ИБП
     "price": 595738,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шкаф для аккумуляторов, SVC, С-40 (200Ач), Габариты: 1390*1260*1570 мм., Вместимость: 200Ач/40шт. Без автомата, Комплектация: Кабеля для батарей (41шт. перемычки 6 мм.кв, клеммы М8). Вес: 170 кг, Чёрный"
   },
   {
@@ -154,7 +154,7 @@ export const ШКАФЫ_ДЛЯ_БАТАРЕЙ_АКСЕССУАРЫ_ДЛЯ_ИБП
     "price": 73710,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок распределения питания, CyberPower, PDU20BHVIEC8R (240В), Серия Basic, Входной разъем IEC C20 x 1, Выходной разъем IEC C13 x 6, IEC C19 x 2, Длина кабеля 3,05 м, Высота:1U"
   },
   {
@@ -166,7 +166,7 @@ export const ШКАФЫ_ДЛЯ_БАТАРЕЙ_АКСЕССУАРЫ_ДЛЯ_ИБП
     "price": 443280,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок распределения питания, CyberPower, PDU31414 (240), Входной разъем: IEC 60309 16A x 1, Выходной разъем IEC C19 x 2/IEC C13 x 18, Длина кабеля 3,05 м, Высота: 0U"
   },
   {
@@ -178,7 +178,7 @@ export const ШКАФЫ_ДЛЯ_БАТАРЕЙ_АКСЕССУАРЫ_ДЛЯ_ИБП
     "price": 368590,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок распределения питания, CyberPower, PDU31005 (240), Серия Monitored, Входной разъемIEC C20 x 1, Выходной разъем: IEC C13 x 8, Длина кабеля 3,05 м, Высота: 1U"
   },
   {
@@ -190,7 +190,7 @@ export const ШКАФЫ_ДЛЯ_БАТАРЕЙ_АКСЕССУАРЫ_ДЛЯ_ИБП
     "price": 534460,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок распределения питания, ATS CyberPower PDU32SWHVCEE18ATNET (240В), Серия Switched ATS, Входной разъем IEC 60309 32A x 2, Выходной разъем IEC C19 x 2/IEC C13 x 16, Длина кабеля 3,05 м, Высота: 2U"
   },
   {
@@ -202,7 +202,7 @@ export const ШКАФЫ_ДЛЯ_БАТАРЕЙ_АКСЕССУАРЫ_ДЛЯ_ИБП
     "price": 289050,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер системы мониторинга и управления зарядом АКБ, CyberPower, BM100, Диапазон входного напряжения постоянного тока ( В пост. ): 15-60, Количество контролируемых блоков: 4 шт., Количество контролируемых батарей: 480, Интерфейс связи: RJ25"
   },
   {
@@ -214,7 +214,7 @@ export const ШКАФЫ_ДЛЯ_БАТАРЕЙ_АКСЕССУАРЫ_ДЛЯ_ИБП
     "price": 58190,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Датчик системы мониторинга и управления зарядом АКБ, CyberPower, BP100-12VT, Определение состояния батареи: Сопротивление , Напряжение , Температура, Напряжение аккумуляторной батареи ( В пост. ): 12, Номинальная емкость батареи ( AH ):5-200, Баланс заряда ( mV ): ± 30, Интерфейс связи: RJ25"
   },
   {
@@ -226,7 +226,7 @@ export const ШКАФЫ_ДЛЯ_БАТАРЕЙ_АКСЕССУАРЫ_ДЛЯ_ИБП
     "price": 40730,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Датчик температуры, CyberPower, Temperature Sensor (4P0-0000009-00), Универсальный двухпроводной для ИБП серии HSTP-С, HSTP, SM, SMX"
   },
   {
@@ -238,7 +238,7 @@ export const ШКАФЫ_ДЛЯ_БАТАРЕЙ_АКСЕССУАРЫ_ДЛЯ_ИБП
     "price": 296810,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок распределения питания, ATS CyberPower PDU20MHVCEE10AT (240В), Серия Metered ATS, Входной разъем IEC 60309 16A x 2, Выходной разъем IEC C19 x 2/IEC C13 x 8, Длина кабеля 3,05 м, Высота: 1U"
   },
   {
@@ -250,7 +250,7 @@ export const ШКАФЫ_ДЛЯ_БАТАРЕЙ_АКСЕССУАРЫ_ДЛЯ_ИБП
     "price": 90801,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевая карта управления ИБП, APC, AP9544, Внутренняя установка, для Easy UPS 1-Phase, Поддержка Modbus TCP/IP"
   },
   {
@@ -262,7 +262,7 @@ export const ШКАФЫ_ДЛЯ_БАТАРЕЙ_АКСЕССУАРЫ_ДЛЯ_ИБП
     "price": 236066,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевая карта управления ИБП, APC, AP9640, Внутренняя установка, Поддержка шифрования: HTTPS, SSL, SSH (шифрование до 2048 бит) , SNMPv3, Поддержка IPv6"
   },
   {
@@ -274,7 +274,7 @@ export const ШКАФЫ_ДЛЯ_БАТАРЕЙ_АКСЕССУАРЫ_ДЛЯ_ИБП
     "price": 373682,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевая карта управления ИБП, APC, AP9641, Внутренняя установка, Поддержка шифрования: HTTPS, SSL, SSH (шифрование до 2048 бит) , SNMPv3, Поддержка IPv6, функция мониторинга параметров окружающей среды"
   },
   {
@@ -286,7 +286,7 @@ export const ШКАФЫ_ДЛЯ_БАТАРЕЙ_АКСЕССУАРЫ_ДЛЯ_ИБП
     "price": 193211,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевая карта управления ИБП, APC, AP9547, Внутренняя установка, для Easy UPS 3 Series"
   },
   {
@@ -298,7 +298,7 @@ export const ШКАФЫ_ДЛЯ_БАТАРЕЙ_АКСЕССУАРЫ_ДЛЯ_ИБП
     "price": 144160,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Комплект направляющих для ИБП, APC, SRTGRK1, для ИБП 5/6/8/10/15/20kVA"
   },
   {
@@ -310,7 +310,7 @@ export const ШКАФЫ_ДЛЯ_БАТАРЕЙ_АКСЕССУАРЫ_ДЛЯ_ИБП
     "price": 181443,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Комплект направляющих для ИБП, APC, SRTGRK2, для XLBP"
   },
   {
@@ -322,7 +322,7 @@ export const ШКАФЫ_ДЛЯ_БАТАРЕЙ_АКСЕССУАРЫ_ДЛЯ_ИБП
     "price": 160562,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Комплект направляющих для ИБП, APC, SRTRK4, для ИБП Smart-UPS SRT 1/1.5/2.2/3кВА"
   },
   {
@@ -334,7 +334,7 @@ export const ШКАФЫ_ДЛЯ_БАТАРЕЙ_АКСЕССУАРЫ_ДЛЯ_ИБП
     "price": 5944,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Полки для ИБП в стойку Tray-475L, Глубина 475мм"
   },
   {
@@ -346,7 +346,7 @@ export const ШКАФЫ_ДЛЯ_БАТАРЕЙ_АКСЕССУАРЫ_ДЛЯ_ИБП
     "price": 2344,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Слот, для SNMP карты, Для внутренней установки, Подключение: 2 шлейфа, Материал: пластик"
   },
   {
@@ -358,7 +358,7 @@ export const ШКАФЫ_ДЛЯ_БАТАРЕЙ_АКСЕССУАРЫ_ДЛЯ_ИБП
     "price": 107660,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "SNMP-карта, CyberPower RMCARD205, Внутренняя установка, Разъём: RJ45/RJ45, Протоколы: IPv4/v6, SNMPv1/v3, HTTP/HTTPs, TCP/IP, UDP, DHCP, NTP, DNS, SMTP, SSH, SSL, TLS, Telnet, FTP и Syslog, Аутентификация: RADIUS, LDAP, LDAPS, Windows AD"
   },
   {
@@ -370,7 +370,7 @@ export const ШКАФЫ_ДЛЯ_БАТАРЕЙ_АКСЕССУАРЫ_ДЛЯ_ИБП
     "price": 24822,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монтажные рельсы для ИБП, CyberPower, 4POSTRAILKIT1832"
   },
   {
@@ -382,7 +382,7 @@ export const ШКАФЫ_ДЛЯ_БАТАРЕЙ_АКСЕССУАРЫ_ДЛЯ_ИБП
     "price": 31709,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монтажные рельсы для ИБП, CyberPower 4POSTRAILKIT2136"
   },
   {
@@ -394,7 +394,7 @@ export const ШКАФЫ_ДЛЯ_БАТАРЕЙ_АКСЕССУАРЫ_ДЛЯ_ИБП
     "price": 92237,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок распределения питания, CyberPower, PDU20BVHVIEC24F (240В), Серия Basic, Входной разъем IEC C20 x1, Выходной разъем IEC C19 x 4 IEC C13 x 20, Длина кабеля 3,05 м, Высота: 0U"
   },
   {
@@ -406,7 +406,7 @@ export const ШКАФЫ_ДЛЯ_БАТАРЕЙ_АКСЕССУАРЫ_ДЛЯ_ИБП
     "price": 127060,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Датчик окружающей среды, CyberPower ENVIROSENSOR/SNEV001, совместим с картой RMCARD205/400, Тип разъема: RJ45, Темно-серый"
   },
   {
@@ -418,7 +418,7 @@ export const ШКАФЫ_ДЛЯ_БАТАРЕЙ_АКСЕССУАРЫ_ДЛЯ_ИБП
     "price": 117360,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "SNMP-карта, CyberPower RMCARD400, Внутренняя установка, Разъём: RJ45/RJ45/MicroSD, Протоколы: IPv4/v6, SNMPv1/v3, HTTP/HTTPs, TCP/IP, UDP, DHCP, NTP, DNS, SMTP, SSH, SSL, TLS, Telnet, FTP и Syslog, Аутентификация: RADIUS, LDAP, LDAPS, Windows AD"
   },
   {
@@ -430,7 +430,7 @@ export const ШКАФЫ_ДЛЯ_БАТАРЕЙ_АКСЕССУАРЫ_ДЛЯ_ИБП
     "price": 455502,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок распределения питания, CyberPower, ATS PDU24302 (240), Серия Metered ATS, Входной разъем: IEC 60309 32A x 2, Выходной разъем: IEC C13 x 16/IEC C19 x 2, Длина кабеля: 3,05 м, Высота 2U."
   },
   {
@@ -442,7 +442,7 @@ export const ШКАФЫ_ДЛЯ_БАТАРЕЙ_АКСЕССУАРЫ_ДЛЯ_ИБП
     "price": 504390,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок распределения питания, ATS CyberPower, PDU44005 (240), Серия Switched ATS, Входной разъем IEC C20 x2, Выходной разъем IEC C19 x 2/IEC C13 x 8, Длина кабеля 3,05 м, Высота: 1U"
   },
   {
@@ -454,7 +454,7 @@ export const ШКАФЫ_ДЛЯ_БАТАРЕЙ_АКСЕССУАРЫ_ДЛЯ_ИБП
     "price": 47708,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Комплект кронштейнов для установки в стойку, Legrand, 310952"
   },
   {
@@ -466,7 +466,7 @@ export const ШКАФЫ_ДЛЯ_БАТАРЕЙ_АКСЕССУАРЫ_ДЛЯ_ИБП
     "price": 586511,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Стандартный сетевой интерфейс встроенный, Legrand, CS141B SK 310931, Внутренняя установка, RS-232, Протоколы: IPv4/v6, SNMPv2/v3, HTTP/HTTPs, DHCP, NTP, DNS, SMTP, SFTP, UPSTCP, Modbus TCP"
   },
   {
@@ -478,7 +478,7 @@ export const ШКАФЫ_ДЛЯ_БАТАРЕЙ_АКСЕССУАРЫ_ДЛЯ_ИБП
     "price": 0,
     "stock": 50,
     "is_available": false,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевая карта, Legrand, CS102 SK 311058, Внутренняя установка, RS-232, Протоколы: IPv4/v6, SNMPv2/v3, HTTP/HTTPs, DHCP, NTP, DNS, SMTP, SFTP, UPSTCP, Modbus TCP"
   },
   {
@@ -490,7 +490,7 @@ export const ШКАФЫ_ДЛЯ_БАТАРЕЙ_АКСЕССУАРЫ_ДЛЯ_ИБП
     "price": 70135,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Адаптер для бат. блока,Legrand, 981798"
   },
   {
@@ -502,7 +502,8 @@ export const ШКАФЫ_ДЛЯ_БАТАРЕЙ_АКСЕССУАРЫ_ДЛЯ_ИБП
     "price": 51402,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Внешний Байпас модуль, SVC, Мощность 2-3кВА, Установка в стойку, 16А, 55*438*60 мм, 1U, Чёрный"
   }
 ];
+

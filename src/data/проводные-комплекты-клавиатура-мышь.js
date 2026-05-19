@@ -10,7 +10,7 @@ export const ПРОВОДНЫЕ_КОМПЛЕКТЫ_КЛАВИАТУРА_МЫШЬ
     "price": 2377,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Комплект Клавиатура + Мышь, XG, XD-1100OUB, Оптическая Мышь, USB, Кол-во стандартных клавиш 104, Анг/Рус/Каз, Длина кабеля 1,35 м, Чёрный"
   },
   {
@@ -22,7 +22,7 @@ export const ПРОВОДНЫЕ_КОМПЛЕКТЫ_КЛАВИАТУРА_МЫШЬ
     "price": 3996,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Комплект Клавиатура + Мышь, XG, XD-575OUB, Оптическая Мышь, USB, Кол-во стандартных клавиш 104, Анг/Рус/Каз, Длина кабеля 1,6 м, Чёрный"
   },
   {
@@ -34,7 +34,7 @@ export const ПРОВОДНЫЕ_КОМПЛЕКТЫ_КЛАВИАТУРА_МЫШЬ
     "price": 6392,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Комплект Клавиатура + Мышь, Delux, DLD-6075OUB, Оптическая Мышь, 1000DPI, USB, Кол-во стандартных клавиш 104, Анг/Рус/Каз, Длина кабеля 1,6 метра, Чёрный"
   },
   {
@@ -46,7 +46,7 @@ export const ПРОВОДНЫЕ_КОМПЛЕКТЫ_КЛАВИАТУРА_МЫШЬ
     "price": 7178,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Комплект Клавиатура + Мышь, Delux, DLD-6220OUB, Оптическая Мышь, USB, 1000-3200DPI, Длина кабеля 1,6 метра, Кол-во стандартных клавиш 104, Анг/Рус/Каз, Чёрный"
   },
   {
@@ -58,7 +58,7 @@ export const ПРОВОДНЫЕ_КОМПЛЕКТЫ_КЛАВИАТУРА_МЫШЬ
     "price": 6736,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Комплект Клавиатура + Мышь, Genius, KM-170, USB, Длина кабеля 150см, Рус/Англ/Каз, Чёрный"
   },
   {
@@ -70,7 +70,7 @@ export const ПРОВОДНЫЕ_КОМПЛЕКТЫ_КЛАВИАТУРА_МЫШЬ
     "price": 8293,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Комплект Клавиатура + Мышь, Genius, SLIMSTAR C126, Англ/Рус, USB, Длина кабеля 150см, Пластик, Чёрный"
   },
   {
@@ -82,7 +82,7 @@ export const ПРОВОДНЫЕ_КОМПЛЕКТЫ_КЛАВИАТУРА_МЫШЬ
     "price": 8293,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Комплект Клавиатура + Мышь, Genius, KM-160, USB, Англ/Рус, USB, Пластик, Мембранная клавиатура, Длина кабеля 150см, Чёрный"
   },
   {
@@ -94,7 +94,7 @@ export const ПРОВОДНЫЕ_КОМПЛЕКТЫ_КЛАВИАТУРА_МЫШЬ
     "price": 7255,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Комплект Клавиатура + Мышь, Genius, Smart KM-200, Англ/ Рус, Длина кабеля 135 см, USB, Влагозащита, Пластик, Чёрный"
   },
   {
@@ -106,7 +106,7 @@ export const ПРОВОДНЫЕ_КОМПЛЕКТЫ_КЛАВИАТУРА_МЫШЬ
     "price": 6305,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Комплект Клавиатура + Мышь, Rapoo, X130PRO, Оптическая мышь, 1000DPI, USB, Анг/Рус/Каз, Длина кабеля 1,5 метра, Кол-во стандартных клавиш 104, Защита от пролива воды/кофе, Чёрный"
   },
   {
@@ -118,7 +118,7 @@ export const ПРОВОДНЫЕ_КОМПЛЕКТЫ_КЛАВИАТУРА_МЫШЬ
     "price": 5532,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Комплект Клавиатура + Мышь, Rapoo, X130PRO, Оптическая мышь, 1000DPI, USB, Анг/Рус/Каз, Длина кабеля 1,5 метра, Кол-во стандартных клавиш 104, Защита от пролива воды/кофе, Белый"
   },
   {
@@ -130,7 +130,7 @@ export const ПРОВОДНЫЕ_КОМПЛЕКТЫ_КЛАВИАТУРА_МЫШЬ
     "price": 6746,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Комплект Клавиатура + Мышь, Rapoo, NX2000, USB, Кол-во стандартных клавиш 104, 1600 dpi, Длина кабеля 1,5 метра, Анг/Рус/Каз, Чёрный"
   },
   {
@@ -142,7 +142,7 @@ export const ПРОВОДНЫЕ_КОМПЛЕКТЫ_КЛАВИАТУРА_МЫШЬ
     "price": 23765,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Комплект Клавиатура + Мышь, Rapoo, V150S, Игровой комплект, Оптическая мышь, 6200DPI, USB, Анг/Рус, Длина кабеля 1,8 метра, RGB, Кол-во стандартных клавиш 104, Защита от пролива воды/кофе, Чёрный"
   },
   {
@@ -154,7 +154,8 @@ export const ПРОВОДНЫЕ_КОМПЛЕКТЫ_КЛАВИАТУРА_МЫШЬ
     "price": 0,
     "stock": 50,
     "is_available": false,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Игровой комплект клавиатура + мышь, Cougar, Combat S, Игровая, Гибридная, USB, Подсветка RGB, Оптическая мышь, 6200 DPI, Англ/Рус, Длина кабеля 1,8 метра, Чёрный"
   }
 ];
+

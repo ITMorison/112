@@ -10,7 +10,7 @@ export const РЕПИТЕРЫ_УСИЛИТЕЛИ_WI_FI = [
     "price": 27936,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной повторитель, D-Link, DAP-1610/ACR/A2A, IEEE 802.11a/b/g/n/ac, AC1200, 5 ГГц: до 867 Мбит/с,2,4 ГГц: до 300 Мбит/с, WPS, Порт LAN 10/100BASE-TX"
   },
   {
@@ -22,7 +22,7 @@ export const РЕПИТЕРЫ_УСИЛИТЕЛИ_WI_FI = [
     "price": 12600,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ретранслятор, Xiaomi, Mi WiFi Range Extender AC1200 EU, RC04, 802.11a/b/g/n/ac, Режим усилителя сигнала, режим точки доступа, 2 Внешних антенны, скорость передачи 5 ГГц: 867 Мбит/с, 2,4 ГГц: 300 Мбит/с, 1 порт Ethernet 10/100 Мбит/с"
   },
   {
@@ -34,7 +34,7 @@ export const РЕПИТЕРЫ_УСИЛИТЕЛИ_WI_FI = [
     "price": 6780,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ретранслятор, Xiaomi, WiFi Range Extender N300 RU, RD10M, 802.11b/g/n, Режим усилителя сигнала, режим точки доступа, 2 Внешних антенны, скорость передачи 2,4 ГГц: 300 Мбит/с"
   },
   {
@@ -46,7 +46,7 @@ export const РЕПИТЕРЫ_УСИЛИТЕЛИ_WI_FI = [
     "price": 13279,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Усилитель Wi-Fi сигнала, TP-Link, TL-WA854RE, 300 Мбит/с на 2,4 ГГц, 2 встроенные антенны"
   },
   {
@@ -58,7 +58,7 @@ export const РЕПИТЕРЫ_УСИЛИТЕЛИ_WI_FI = [
     "price": 14443,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Усилитель Wi-Fi сигнала, TP-Link, TL-WA855RE, 300 Мбит/с, 1 порт Ethernet 10/100 Мбит/с (RJ-45)"
   },
   {
@@ -70,7 +70,7 @@ export const РЕПИТЕРЫ_УСИЛИТЕЛИ_WI_FI = [
     "price": 14443,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Усилитель Wi-Fi сигнала, TP-Link, TL-WA850RE, 300 Мбит/с, 1 порт Ethernet 10/100 Мбит/с (RJ45)"
   },
   {
@@ -82,7 +82,7 @@ export const РЕПИТЕРЫ_УСИЛИТЕЛИ_WI_FI = [
     "price": 15995,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Усилитель Wi-Fi сигнала, TP-Link, TL-WA860RE, 300 Мбит/с, 1 порт Ethernet 10/100 Мбит/с (RJ45), 2 внешние антенны"
   },
   {
@@ -94,7 +94,7 @@ export const РЕПИТЕРЫ_УСИЛИТЕЛИ_WI_FI = [
     "price": 20360,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Усилитель Wi-Fi сигнала, TP-Link, RE200, 5 ГГц: до 433 Мбит/с, 2,4 ГГц: до 300 Мбит/с, 1 порт Ethernet 10/100 Мбит/с (RJ45)"
   },
   {
@@ -106,7 +106,7 @@ export const РЕПИТЕРЫ_УСИЛИТЕЛИ_WI_FI = [
     "price": 21136,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Усилитель Wi-Fi сигнала, TP-Link, RE205, 5 ГГц: до 433 Мбит/с, 2,4 ГГц: до 300 Мбит/с, 1 порт Ethernet 10/100 Мбит/с (RJ45)"
   },
   {
@@ -118,7 +118,7 @@ export const РЕПИТЕРЫ_УСИЛИТЕЛИ_WI_FI = [
     "price": 16092,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Усилитель Wi-Fi сигнала, TP-Link, RE220, AC750, 1 порт 10/100 Мбит/с"
   },
   {
@@ -130,7 +130,7 @@ export const РЕПИТЕРЫ_УСИЛИТЕЛИ_WI_FI = [
     "price": 49460,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Усилители Wi-Fi сигнала, Tp-Link, RE235BE, 802.11a/b/g/n/ac/ax/be, BE3600 , 2,4 ГГц/5 ГГц, 1  порт 2.5 Гбит/с."
   },
   {
@@ -142,7 +142,7 @@ export const РЕПИТЕРЫ_УСИЛИТЕЛИ_WI_FI = [
     "price": 25210,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Усилитель Wi-Fi сигнала, TP-Link, RE305, 1 порт Ethernet 10/100 Мбит/с (RJ45), 5 ГГц: до 867 Мбит/с,2,4 ГГц: до 300 Мбит/с"
   },
   {
@@ -154,7 +154,7 @@ export const РЕПИТЕРЫ_УСИЛИТЕЛИ_WI_FI = [
     "price": 23173,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Усилитель Wi-Fi сигнала, TP-Link, RE365, 1 порт RJ45 10/100 Мбит/с, до 1200 мбит/с"
   },
   {
@@ -166,7 +166,7 @@ export const РЕПИТЕРЫ_УСИЛИТЕЛИ_WI_FI = [
     "price": 25210,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Усилитель Wi-Fi сигнала, TP-Link, RE300, 5 ГГц: до 867 Мбит/с,2,4 ГГц: до 300 Мбит/с,AC1200 Mesh усилитель Wi-Fi сигнала"
   },
   {
@@ -178,7 +178,7 @@ export const РЕПИТЕРЫ_УСИЛИТЕЛИ_WI_FI = [
     "price": 41700,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Усилитель Wi-Fi сигнала, TP-Link, RE450, АС1750 Мбит/с, 1 порт Ethernet 10/100/1000 Мбит/с (RJ45), 5 ГГц: До 1300 Мбит/, 2,4 ГГц: До 450 Мбит/с"
   },
   {
@@ -190,7 +190,7 @@ export const РЕПИТЕРЫ_УСИЛИТЕЛИ_WI_FI = [
     "price": 31030,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Усилитель Wi-Fi сигнала, TP-Link, RE500X, 802.11a/b/g/n/ac/ax, AX1500, 2 встроенные антенны, 1 порт 10/100/1000T"
   },
   {
@@ -202,7 +202,7 @@ export const РЕПИТЕРЫ_УСИЛИТЕЛИ_WI_FI = [
     "price": 42670,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Усилитель Wi-Fi сигнала, TP-Link, RE505X, 802.11a/b/g/n/ac/ax, AX1500, 2 внешние антенны, 1 порт 10/100/1000T"
   },
   {
@@ -214,7 +214,7 @@ export const РЕПИТЕРЫ_УСИЛИТЕЛИ_WI_FI = [
     "price": 32000,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Усилитель Wi-Fi сигнала, TP-Link, RE550, 802.11a/b/g/n/ac, AC1900, 3 внешние антенны, 1 порт 10/100/1000T"
   },
   {
@@ -226,7 +226,7 @@ export const РЕПИТЕРЫ_УСИЛИТЕЛИ_WI_FI = [
     "price": 57220,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Усилитель Wi-Fi сигнала, TP-Link, RE605X, AX1800, IEEE 802.11a/b/g/n/ac/ax, 1 гигабитный порт Ethernet"
   },
   {
@@ -238,7 +238,7 @@ export const РЕПИТЕРЫ_УСИЛИТЕЛИ_WI_FI = [
     "price": 104750,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Усилители Wi-Fi сигнала, Tp-Link, RE655BE, 802.11a/b/g/n/ac/ax/be, BE11000 , 2,4 ГГц/5 ГГц/6 ГГц, 1  порт 2.5 Гбит/с."
   },
   {
@@ -250,7 +250,7 @@ export const РЕПИТЕРЫ_УСИЛИТЕЛИ_WI_FI = [
     "price": 55280,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Усилитель Wi-Fi сигнала, TP-Link, RE700X, AX3000, 802.11a/b/g/n/ac/ax, 1 гигабитный порт Ethernet"
   },
   {
@@ -262,7 +262,7 @@ export const РЕПИТЕРЫ_УСИЛИТЕЛИ_WI_FI = [
     "price": 42670,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Усилитель Wi-Fi сигнала, TP-Link, RE705X, AX3000, 1 гигабитный порт Ethernet"
   },
   {
@@ -274,7 +274,7 @@ export const РЕПИТЕРЫ_УСИЛИТЕЛИ_WI_FI = [
     "price": 283230,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Усилители Wi-Fi сигнала, Tp-Link, RE800BE, 802.11a/b/g/n/ac/ax/be, BE19000, 2,4 ГГц/5 ГГц/6 ГГц, 1 10 Gbps LAN Port + 2 Gigabit LAN Ports."
   },
   {
@@ -286,7 +286,7 @@ export const РЕПИТЕРЫ_УСИЛИТЕЛИ_WI_FI = [
     "price": 50430,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Усилитель Wi-Fi сигнала, TP-Link, Archer Air E5, Усилитель сигнала, AX3000, 2,4 ГГц/5 ГГц, MU-MIMO, USB TypeC"
   },
   {
@@ -298,7 +298,7 @@ export const РЕПИТЕРЫ_УСИЛИТЕЛИ_WI_FI = [
     "price": 8817,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Усилитель Wi-Fi сигнала, Mercusys, MW300RE, 300 мбит/с, 3 внешние антенны"
   },
   {
@@ -310,7 +310,7 @@ export const РЕПИТЕРЫ_УСИЛИТЕЛИ_WI_FI = [
     "price": 11533,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Усилитель Wi-Fi сигнала, Mercusys, ME20, 802.11a/b/g/n/ac, AC750, Порт RJ45 10/100 Мбит/с"
   },
   {
@@ -322,7 +322,7 @@ export const РЕПИТЕРЫ_УСИЛИТЕЛИ_WI_FI = [
     "price": 13764,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Усилитель Wi-Fi сигнала, Mercusys, ME30, AC1200, 2 внешние антенны, IEEE 802.11a/b/g/n/ac, 2.4, 5 ГГц"
   },
   {
@@ -334,7 +334,7 @@ export const РЕПИТЕРЫ_УСИЛИТЕЛИ_WI_FI = [
     "price": 29090,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Усилитель Wi-Fi сигнала, Mercusys, ME70X, 802.11a/b/g/n/ac/ax, AX1800, Гигабитный порт Ethernet"
   },
   {
@@ -346,7 +346,8 @@ export const РЕПИТЕРЫ_УСИЛИТЕЛИ_WI_FI = [
     "price": 67900,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Усилитель Wi-Fi сигнала, ASUS, RP-BE58"
   }
 ];
+

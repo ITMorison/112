@@ -10,7 +10,7 @@ export const ОПТОВОЛОКОННЫЕ_ПАТЧ_КОРДЫ_3_0_SIMPLEX_МНО
     "price": 1164,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Патч корд оптоволоконный,, ST/UPC-ST/UPC MM OM1 62.5/125 Simplex 3.0мм 1 м, LSZH"
   },
   {
@@ -22,7 +22,7 @@ export const ОПТОВОЛОКОННЫЕ_ПАТЧ_КОРДЫ_3_0_SIMPLEX_МНО
     "price": 1303,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Патч корд оптоволоконный,, FC/UPC-FC/UPC MM OM1 62.5/125 Simplex 3.0мм 2 м, LSZH"
   },
   {
@@ -34,7 +34,7 @@ export const ОПТОВОЛОКОННЫЕ_ПАТЧ_КОРДЫ_3_0_SIMPLEX_МНО
     "price": 1382,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Патч корд оптоволоконный,, ST/UPC-ST/UPC MM OM4 50/125 Simplex 3.0мм 1 м, LSZH"
   },
   {
@@ -46,7 +46,7 @@ export const ОПТОВОЛОКОННЫЕ_ПАТЧ_КОРДЫ_3_0_SIMPLEX_МНО
     "price": 1382,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Патч корд оптоволоконный,, SC/UPC-ST/UPC MM OM4 50/125 Simplex 3.0мм 1 м, LSZH"
   },
   {
@@ -58,7 +58,7 @@ export const ОПТОВОЛОКОННЫЕ_ПАТЧ_КОРДЫ_3_0_SIMPLEX_МНО
     "price": 1382,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Патч корд оптоволоконный,, SC/UPC-SC/UPC MM OM4 50/125 Simplex 3.0мм 1 м, LSZH"
   },
   {
@@ -70,7 +70,7 @@ export const ОПТОВОЛОКОННЫЕ_ПАТЧ_КОРДЫ_3_0_SIMPLEX_МНО
     "price": 1382,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Патч корд оптоволоконный,, SC/UPC-LC/UPC MM OM4 50/125 Simplex 3.0мм 1 м, LSZH"
   },
   {
@@ -82,7 +82,7 @@ export const ОПТОВОЛОКОННЫЕ_ПАТЧ_КОРДЫ_3_0_SIMPLEX_МНО
     "price": 1310,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Патч корд оптоволоконный,, FC/UPC-ST/UPC MM OM3 50/125 Simplex 3.0мм 1 м, LSZH"
   },
   {
@@ -94,7 +94,7 @@ export const ОПТОВОЛОКОННЫЕ_ПАТЧ_КОРДЫ_3_0_SIMPLEX_МНО
     "price": 1310,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Патч корд оптоволоконный,, ST/UPC-ST/UPC MM OM3 50/125 Simplex 3.0мм 1 м, LSZH"
   },
   {
@@ -106,7 +106,7 @@ export const ОПТОВОЛОКОННЫЕ_ПАТЧ_КОРДЫ_3_0_SIMPLEX_МНО
     "price": 1164,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Патч корд оптоволоконный,, LC/UPC-ST/UPC MM OM2 50/125 Simplex 3.0мм 1 м, LSZH"
   },
   {
@@ -118,7 +118,7 @@ export const ОПТОВОЛОКОННЫЕ_ПАТЧ_КОРДЫ_3_0_SIMPLEX_МНО
     "price": 1310,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Патч корд оптоволоконный,, FC/UPC-SC/UPC MM OM3 50/125 Simplex 3.0мм 1 м, LSZH"
   },
   {
@@ -130,7 +130,7 @@ export const ОПТОВОЛОКОННЫЕ_ПАТЧ_КОРДЫ_3_0_SIMPLEX_МНО
     "price": 1164,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Патч корд оптоволоконный,, SC/UPC-LC/UPC MM OM2 50/125 Simplex 3.0мм 1 м, LSZH"
   },
   {
@@ -142,7 +142,7 @@ export const ОПТОВОЛОКОННЫЕ_ПАТЧ_КОРДЫ_3_0_SIMPLEX_МНО
     "price": 1382,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Патч корд оптоволоконный,, LC/UPC-ST/UPC MM OM4 50/125 Simplex 3.0мм 1 м, LSZH"
   },
   {
@@ -154,7 +154,7 @@ export const ОПТОВОЛОКОННЫЕ_ПАТЧ_КОРДЫ_3_0_SIMPLEX_МНО
     "price": 1382,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Патч корд оптоволоконный,, FC/UPC-FC/UPC MM OM4 50/125 Simplex 3.0мм 1 м, LSZH"
   },
   {
@@ -166,7 +166,7 @@ export const ОПТОВОЛОКОННЫЕ_ПАТЧ_КОРДЫ_3_0_SIMPLEX_МНО
     "price": 1310,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Патч корд оптоволоконный,, SC/UPC-ST/UPC MM OM3 50/125 Simplex 3.0мм 1 м, LSZH"
   },
   {
@@ -178,7 +178,7 @@ export const ОПТОВОЛОКОННЫЕ_ПАТЧ_КОРДЫ_3_0_SIMPLEX_МНО
     "price": 1310,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Патч корд оптоволоконный,, LC/UPC-ST/UPC MM OM3 50/125 Simplex 3.0мм 1 м, LSZH"
   },
   {
@@ -190,7 +190,7 @@ export const ОПТОВОЛОКОННЫЕ_ПАТЧ_КОРДЫ_3_0_SIMPLEX_МНО
     "price": 1164,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Патч корд оптоволоконный,, SC/UPC-SC/UPC MM OM2 50/125 Simplex 3.0мм 1 м, LSZH"
   },
   {
@@ -202,7 +202,7 @@ export const ОПТОВОЛОКОННЫЕ_ПАТЧ_КОРДЫ_3_0_SIMPLEX_МНО
     "price": 1164,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Патч корд оптоволоконный,, FC/UPC-LC/UPC MM OM2 50/125 Simplex 3.0мм 1 м, LSZH"
   },
   {
@@ -214,7 +214,7 @@ export const ОПТОВОЛОКОННЫЕ_ПАТЧ_КОРДЫ_3_0_SIMPLEX_МНО
     "price": 1164,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Патч корд оптоволоконный,, FC/UPC-ST/UPC MM OM2 50/125 Simplex 3.0мм 1 м, LSZH"
   },
   {
@@ -226,7 +226,7 @@ export const ОПТОВОЛОКОННЫЕ_ПАТЧ_КОРДЫ_3_0_SIMPLEX_МНО
     "price": 1164,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Патч корд оптоволоконный,, LC/UPC-ST/UPC MM OM1 62.5/125 Simplex 3.0мм 1 м, LSZH"
   },
   {
@@ -238,7 +238,7 @@ export const ОПТОВОЛОКОННЫЕ_ПАТЧ_КОРДЫ_3_0_SIMPLEX_МНО
     "price": 1164,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Патч корд оптоволоконный,, FC/UPC-FC/UPC MM OM1 62.5/125 Simplex 3.0мм 1 м, LSZH"
   },
   {
@@ -250,7 +250,7 @@ export const ОПТОВОЛОКОННЫЕ_ПАТЧ_КОРДЫ_3_0_SIMPLEX_МНО
     "price": 1164,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Патч корд оптоволоконный,, SC/UPC-SC/UPC MM OM1 62.5/125 Simplex 3.0мм 1 м, LSZH"
   },
   {
@@ -262,7 +262,7 @@ export const ОПТОВОЛОКОННЫЕ_ПАТЧ_КОРДЫ_3_0_SIMPLEX_МНО
     "price": 1382,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Патч корд оптоволоконный,, FC/UPC-ST/UPC MM OM4 50/125 Simplex 3.0мм 1 м, LSZH"
   },
   {
@@ -274,7 +274,7 @@ export const ОПТОВОЛОКОННЫЕ_ПАТЧ_КОРДЫ_3_0_SIMPLEX_МНО
     "price": 1310,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Патч корд оптоволоконный,, FC/UPC-FC/UPC MM OM3 50/125 Simplex 3.0мм 1 м, LSZH"
   },
   {
@@ -286,7 +286,7 @@ export const ОПТОВОЛОКОННЫЕ_ПАТЧ_КОРДЫ_3_0_SIMPLEX_МНО
     "price": 1164,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Патч корд оптоволоконный,, SC/UPC-ST/UPC MM OM2 50/125 Simplex 3.0мм 1 м, LSZH"
   },
   {
@@ -298,7 +298,7 @@ export const ОПТОВОЛОКОННЫЕ_ПАТЧ_КОРДЫ_3_0_SIMPLEX_МНО
     "price": 1382,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Патч корд оптоволоконный,, FC/UPC-LC/UPC MM OM4 50/125 Simplex 3.0мм 1 м, LSZH"
   },
   {
@@ -310,7 +310,7 @@ export const ОПТОВОЛОКОННЫЕ_ПАТЧ_КОРДЫ_3_0_SIMPLEX_МНО
     "price": 1164,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Патч корд оптоволоконный,, LC/UPC-LC/UPC MM OM2 50/125 Simplex 3.0мм 1 м, LSZH"
   },
   {
@@ -322,7 +322,7 @@ export const ОПТОВОЛОКОННЫЕ_ПАТЧ_КОРДЫ_3_0_SIMPLEX_МНО
     "price": 1164,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Патч корд оптоволоконный,, LC/UPC-SC/UPC MM OM1 62.5/125 Simplex 3.0мм 1 м, LSZH"
   },
   {
@@ -334,7 +334,7 @@ export const ОПТОВОЛОКОННЫЕ_ПАТЧ_КОРДЫ_3_0_SIMPLEX_МНО
     "price": 1310,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Патч корд оптоволоконный,, SC/UPC-LC/UPC MM OM3 50/125 Simplex 3.0мм 1 м, LSZH"
   },
   {
@@ -346,7 +346,7 @@ export const ОПТОВОЛОКОННЫЕ_ПАТЧ_КОРДЫ_3_0_SIMPLEX_МНО
     "price": 1310,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Патч корд оптоволоконный,, FC/UPC-LC/UPC MM OM3 50/125 Simplex 3.0мм 1 м, LSZH"
   },
   {
@@ -358,7 +358,7 @@ export const ОПТОВОЛОКОННЫЕ_ПАТЧ_КОРДЫ_3_0_SIMPLEX_МНО
     "price": 1164,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Патч корд оптоволоконный,, FC/UPC-SC/UPC MM OM1 62.5/125 Simplex 3.0мм 1 м, LSZH"
   },
   {
@@ -370,7 +370,7 @@ export const ОПТОВОЛОКОННЫЕ_ПАТЧ_КОРДЫ_3_0_SIMPLEX_МНО
     "price": 1164,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Патч корд оптоволоконный,, FC/UPC-LC/UPC MM OM1 62.5/125 Simplex 3.0мм 1 м, LSZH"
   },
   {
@@ -382,7 +382,7 @@ export const ОПТОВОЛОКОННЫЕ_ПАТЧ_КОРДЫ_3_0_SIMPLEX_МНО
     "price": 1382,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Патч корд оптоволоконный,, LC/UPC-LC/UPC MM OM4 50/125 Simplex 3.0мм 1 м, LSZH"
   },
   {
@@ -394,7 +394,7 @@ export const ОПТОВОЛОКОННЫЕ_ПАТЧ_КОРДЫ_3_0_SIMPLEX_МНО
     "price": 1164,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Патч корд оптоволоконный,, FC/UPC-ST/UPC MM OM1 62.5/125 Simplex 3.0мм 1 м, LSZH"
   },
   {
@@ -406,7 +406,7 @@ export const ОПТОВОЛОКОННЫЕ_ПАТЧ_КОРДЫ_3_0_SIMPLEX_МНО
     "price": 1164,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Патч корд оптоволоконный,, FC/UPC-FC/UPC MM OM2 50/125 Simplex 3.0мм 1 м, LSZH"
   },
   {
@@ -418,7 +418,7 @@ export const ОПТОВОЛОКОННЫЕ_ПАТЧ_КОРДЫ_3_0_SIMPLEX_МНО
     "price": 1164,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Патч корд оптоволоконный,, SC/UPC-ST/UPC MM OM1 62.5/125 Simplex 3.0мм 1 м, LSZH"
   },
   {
@@ -430,7 +430,7 @@ export const ОПТОВОЛОКОННЫЕ_ПАТЧ_КОРДЫ_3_0_SIMPLEX_МНО
     "price": 1310,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Патч корд оптоволоконный,, SC/UPC-SC/UPC MM OM3 50/125 Simplex 3.0мм 1 м, LSZH"
   },
   {
@@ -442,7 +442,7 @@ export const ОПТОВОЛОКОННЫЕ_ПАТЧ_КОРДЫ_3_0_SIMPLEX_МНО
     "price": 1164,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Патч корд оптоволоконный,, ST/UPC-ST/UPC MM OM2 50/125 Simplex 3.0мм 1 м, LSZH"
   },
   {
@@ -454,7 +454,7 @@ export const ОПТОВОЛОКОННЫЕ_ПАТЧ_КОРДЫ_3_0_SIMPLEX_МНО
     "price": 1382,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Патч корд оптоволоконный,, FC/UPC-SC/UPC MM OM4 50/125 Simplex 3.0мм 1 м, LSZH"
   },
   {
@@ -466,7 +466,7 @@ export const ОПТОВОЛОКОННЫЕ_ПАТЧ_КОРДЫ_3_0_SIMPLEX_МНО
     "price": 1164,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Патч корд оптоволоконный,, FC/UPC-SC/UPC MM OM2 50/125 Simplex 3.0мм 1 м, LSZH"
   },
   {
@@ -478,7 +478,7 @@ export const ОПТОВОЛОКОННЫЕ_ПАТЧ_КОРДЫ_3_0_SIMPLEX_МНО
     "price": 1310,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Патч корд оптоволоконный,, LC/UPC-LC/UPC MM OM3 50/125 Simplex 3.0мм 1 м, LSZH"
   },
   {
@@ -490,7 +490,8 @@ export const ОПТОВОЛОКОННЫЕ_ПАТЧ_КОРДЫ_3_0_SIMPLEX_МНО
     "price": 1164,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Патч корд оптоволоконный,, LC/UPC-LC/UPC MM OM1 62.5/125 Simplex 3.0мм 1 м, LSZH"
   }
 ];
+

@@ -10,7 +10,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 77018,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа, Ubiquiti, U6+, 802.11a/b/g/n/ac/ax, AX3000, 1 порт 10/100/1000 RJ45, 300 клиентов, PoE 802.3af, без адаптера питания"
   },
   {
@@ -22,7 +22,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 208065,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа, Ubiquiti, U6-Enterprise, 802.11a/b/g/n/ac/ax, AX10200, 1 порт 10/100/1000 RJ45, 600 клиентов, PoE+ 802.3at, без адаптера питания"
   },
   {
@@ -34,7 +34,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 155297,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа, Ubiquiti, U6-IW, In-Wall, 802.11a/b/g/n/ac/ax, AX5400, 1 порт 10/100/1000 RJ45, 4 порта 10/100/1000 RJ45, 300 клиентов, PoE+ 802.3at, без адаптера питания"
   },
   {
@@ -46,7 +46,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 139583,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа, Ubiquiti, U6-Mesh, 802.11a/b/g/n/ac/ax, AX5400, 1 порт 10/100/1000 RJ45, 300 клиентов, PoE 802.3af, с адаптером питания"
   },
   {
@@ -58,7 +58,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 153551,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа, Ubiquiti, U6-Mesh-Pro, 802.11a/b/g/n/ac/ax, AX3000, 2 порта 10/100/1000 RJ45, 250 клиентов, PoE 802.3af, с адаптером питания, Уличная"
   },
   {
@@ -70,7 +70,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 125227,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа, Ubiquiti, U6-Pro, 802.11a/b/g/n/ac/ax, AX5400, 1 порт 10/100/1000 RJ45, 350 клиентов, PoE 802.3af, без адаптера питания"
   },
   {
@@ -82,7 +82,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 78861,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа, Ubiquiti, U7-Lite, UnFi, 802.11a/b/g/n/ac/ax/be, BE5000, 1 порт 10/100/1000/2500 RJ45, 200 клиентов, PoE 802.3af, без адаптера питания"
   },
   {
@@ -94,7 +94,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 123093,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа, Ubiquiti, U7-LR, UniFi U7 Long Range, Wi-Fi точка доступа, 1 порт 10/100/1000/2500 RJ45, 350 клиентов, PoE 802.3af, без адаптера питания"
   },
   {
@@ -106,7 +106,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 168683,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа, Ubiquiti, U7-Outdoor, Всепогодная WiFi 7 точка доступа, BE5000, 1 порт 10/100/1000/2500 RJ45, 250 клиентов, PoE+802.3at, без адаптера питания, внешняя"
   },
   {
@@ -118,7 +118,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 147440,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа, Ubiquiti, U7-Pro, 802.11a/b/g/n/ac/ax/be, BE5000, 1 порт 10/100/1000/2500 RJ45, 250 клиентов, PoE+802.3at, без адаптера питания"
   },
   {
@@ -130,7 +130,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 679000,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа, Ubiquiti, U7-Pro-5, 802.11a/b/g/n/ac/ax/be, BE5000, 1 порт 10/100/1000/2500 RJ45, 250 клиентов, PoE+802.3at, без адаптера питания, Упаковка 5 штук"
   },
   {
@@ -142,7 +142,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 211654,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа, Ubiquiti, U7-Pro-Max, UniFi, 802.11a/b/g/n/ac/ax/be, BE9200, 1 порт 10/100/1000/2500 RJ45, 500 клиентов, PoE+802.3at, без адаптера питания"
   },
   {
@@ -154,7 +154,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 214370,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа, Ubiquiti, U7-Pro-Outdoor, UniFi, 802.11a/b/g/n/ac/ax/be, BE9300, 1 порт 1/2.5 Gbps RJ45, 300 клиентов, PoE+802.3at, без адаптера питания, внешняя, Уличная"
   },
   {
@@ -166,7 +166,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 153648,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа, Ubiquiti, U7-Pro-XG, UniFi, 802.11a/b/g/n/ac/ax/be, BE10800, 1 порт 10/5/2.5/1-Gbps RJ45, 300 клиентов, PoE+802.3at, без адаптера питания"
   },
   {
@@ -178,7 +178,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 232655,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа, Ubiquiti, U7-Pro-XGS, UniFi, 802.11a/b/g/n/ac/ax/be, BE14600, 1 порт 1/2,5/5/10 Gbps RJ45, 500 клиентов, PoE++802.3at, без адаптера питания"
   },
   {
@@ -190,7 +190,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 72750,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа, Ubiquiti, UAP-AC-M, Unifi Mesh, 802.11a/b/g/n/ac, AC1200, 1 порт 10/100/1000 RJ45, 200 клиентов, PoE 802.3af, с адаптером питания"
   },
   {
@@ -202,7 +202,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 107670,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа, Ubiquiti, UAP-AC-PRO, Unifi, 802.11a/b/g/n/ac, AC1750, 2 порта 10/100/1000 RJ45, 250 клиентов, PoE 802.3af, с адаптером питания"
   },
   {
@@ -214,7 +214,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 136285,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа, Ubiquiti, UAP-FlexHD, Unifi, 802.11a/b/g/n/ac, AC2000, 1 порт 10/100/1000 RJ45, 200 клиентов, PoE 802.3af, с адаптером питания, внутренняя, внешняя"
   },
   {
@@ -226,7 +226,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 359870,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа, Ubiquiti, UAP-nanoHD-3, Unifi, 802.11a/b/g/n/ac, AC2000, 1 порт 10/100/1000 RJ45, 200 клиентов, PoE 802.3af, без адаптера питания, Упаковка 3 штуки"
   },
   {
@@ -238,7 +238,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 64117,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа, Ubiquiti, UK-Ultra, Ubiquiti Swiss Army Knife Ultra, 802.11a/b/g/n/ac, AC1200, 1 порт 10/100/1000 RJ45, 2 x RP-SMA, 200 клиентов, PoE 802.3af, без адаптера питания"
   },
   {
@@ -250,7 +250,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 219220,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа, Ubiquiti, Wave-Nano, 802.11a/n/ac/ay, AY2000+AC800, PtMP/станция 60ГГц + резерв 5ГГц, 1 порт 10/100/1000 RJ45, PoE 802.3af, с адаптером питания"
   },
   {
@@ -262,7 +262,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 140165,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевая точка доступа, Ubiquiti, Wave-Pico, PtMP-станция / PtP WI-FI, 802.11ax/ay, AY2000+AC800, 1 порт 10/100/1000 Mbps, Passive PoE 48V DC, 0.5A, адаптер в комплекте"
   },
   {
@@ -274,7 +274,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 99134,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой контроллер, Ubiquiti, UCK-G2, Cloud Key Gen2, 1-GbE RJ45, Bluetooth LE, 1USB-C (питание), слот micro-SD, дисплей 1.42, 2GB RAM, 32GB eMMC, слот microSD, PoEin 802.3af или 5V/1A USB-C, макс. 5Вт"
   },
   {
@@ -286,7 +286,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 189150,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой контроллер, Ubiquiti, UCK-G2-SSD, Cloud Key Gen2, 1-GbE RJ45, Bluetooth LE, 1USB-C (питание), 1 ТБ 2.5\" SATA SSD (с возможностью замены пользователем) , дисплей 1.42, 3GB RAM, 32GB eMMC, слот microSD, PoEin 802.3af или 5V/1A USB-C, макс. 9,6Вт"
   },
   {
@@ -298,7 +298,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 3798520,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой контроллер, Ubiquiti, CK-Enterprise, Cloud Key, 1 порт GbE RJ45 LAN, 1 порт SFP+ LAN, 1 порт RJ45 MGMT/Console, Управление 1000+ UniFi-устройств и 10000+ клиентов, Стоечный"
   },
   {
@@ -310,7 +310,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 53763,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, MikroTik, RB912UAG-5HPnD-OUT, BaseBox 5, 1 x Gbit LAN PoE-IN Passive PoE, 1xminiPCI-e, USB type A, 802.11a/n, N300, 5 GHz, RouterOS, 1 Mini SIM, -40°C to 70°C"
   },
   {
@@ -322,7 +322,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 44135,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, MikroTik, RB922UAGS-5HPacD, RouterBOARD, 1 порт 10/100/1000М, 1 порт SFP, 5GHz, 802.11a/n/ac, 867 Mbit/s, 1 слот Mini SIM, 1 порт USB-A, RouterOS, -40°С до 70 °C, плата без внешнего корпуса"
   },
   {
@@ -334,7 +334,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 79298,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, MikroTik, RB922UAGS-5HPacD-NM, NetMetal 5, 1xGigabit LAN PoE-IN Passive PoE, 1xSFP cage, 1xUSB, 1xminiPCI-e, 802.11a/n/ac, 5 GHz, AC900, RouterOS, 1 Mini SIM, -40°C to 70°C"
   },
   {
@@ -346,7 +346,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 32786,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, MikroTik, RBcAP2nD, cAP, 1xLAN, PoE-IN 802.3af/at, 802.11b/g/n, N300, 2.4 GHz, RouterOS, -40°C to 70°C"
   },
   {
@@ -358,7 +358,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 55290,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, MikroTik, RBcAPGi-5acD2nD, cAP ac, 2xGigabit LAN, PoE-IN 802.3af/at, PoE-out Ether2 Passive PoE, 802.11a/b/g/n/ac, AС1200, RouterOS, -40°C to 50°C"
   },
   {
@@ -370,7 +370,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 68676,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, MikroTik, RBcAPGi-5acD2nD-XL, cAP XL ac, 2xGigabit LAN, PoE-IN 802.3af/at, PoE-out Ether2 Passive PoE, 802.11a/b/g/n/ac, AС1200, RouterOS, -40°C to 70°C"
   },
   {
@@ -382,7 +382,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 18915,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, MikroTik, RBcAPL-2nD, cAP lite, 1xLAN, PoE-IN 802.3af/at, 802.11b/g/n, N300, 2.4 GHz, RouterOS, -40°C to 70°C"
   },
   {
@@ -394,7 +394,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 61595,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, MikroTik, RBGrooveGA-52HPacn, GrooveA 52 ac, 1xGbit LAN, PoE-IN Passive PoE, 802.11a/b/g/n/ac, RouterOS, -40°C to 70°C"
   },
   {
@@ -406,7 +406,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 76630,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, MikroTik, RBMetalG-52SHPacn, Metal 52 ac, 1xGbit LAN, PoE-IN Passive PoE, 802.11a/b/g/n/ac, RouterOS, -40°C to 70°C"
   },
   {
@@ -418,7 +418,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 85360,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, MikroTik, RBOmniTikPG-5HacD, OmniTIK 5 PoE ac, 5x Gbit LAN, 1 PoE-IN Passive PoE, Ether2-5 PoE-out 802.3af/at, USB type A, 802.11a/n/aс, 5 GHz, AC900, RouterOS, -40°C to 70°C"
   },
   {
@@ -430,7 +430,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 61304,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, MikroTik, wAPG-5HaxD2HaxD, wAP ax, 2 порта 10/100/1000М, 2.4/5 GHz, AX3000, RouterOS, -40°С до 70 °C"
   },
   {
@@ -442,7 +442,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 95836,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, MikroTik, D53G-5HacD2HnD-TC&FG621-EA, 802.11a/b/g/n/ac, AC1200, 5x10/100/1000T, 1 Modem (Micro SIM),"
   },
   {
@@ -454,7 +454,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 85845,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, MikroTik, cAPGi-5HaxD2HaxD, cAP ax, 802.11a/b/g/n/ac/ax, AX1800, 2 порта 10/100/1000M, PoE-out порт Ether2, PoE in 802.3af/at, RouterOS, -40°C to 70°C"
   },
   {
@@ -466,7 +466,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 63050,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, MikroTik, RBOmniTikG-5HacD, OmniTIK 5 ac, 802.11a/n/ac, 5GHz, 7,5dBi omni, 5 портов 10/100/1000M, Ether1 Passive PoE in, USB, RouterOS (4), -40°C to 70°C, IP54"
   },
   {
@@ -478,7 +478,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 107670,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, MikroTik, RBD25G-5HPacQD2HPnD, Audience, 2 порта 10/100/1000М, 2.4 GHz - 300 Mbps, 5 GHz - 867 Mbps, 5 GHz - 1733 Mbps, PoE-IN Passive PoE, RouterOS, -40°С до 60 °C"
   },
   {
@@ -490,7 +490,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 113005,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, MikroTik, L23UGSR-5HaxD2HaxD-NM, NetMetal ax, 1 порт 10/100/1000М, PoE-IN Passive PoE, 1 порт 2.5G SFP, 2.4/5 GHz, AX3000, 1 slot MiniPCI-e, 1 slot Nano SIM, USB-A, -40°С до 70 °C"
   },
   {
@@ -502,7 +502,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 56745,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, MikroTik, RBwAPR-2nD, wAP R, 1 порт 10/100М, 2,4GHz, 802.11b/g/n, 300 Mbit/s, 1 слот Mini SIM, RouterOS, -40°С до 60 °C"
   },
   {
@@ -514,7 +514,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 135800,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, MikroTik, RBwAPGR-5HacD2HnD&R11e-LTE6, wAP ac LTE6 kit, 2 порта 10/100/1000М, 2.4/5GHz, АС1200, 1 слот Micro SIM, RouterOS, -40°С до 70 °C"
   },
   {
@@ -526,7 +526,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 128525,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, MikroTik, H53UiG-5HaxQ2HaxQ, Chateau PRO ax, 5 портов 10/100/1000М, 2.4/5 GHz, AX3600, 1 порт USB-A, RouterOS, -40°С до 70 °C"
   },
   {
@@ -538,7 +538,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 157625,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, MikroTik, cAPGi-5HaxD2HaxD&EG12-EA, cAP LTE12 ax, 802.11a/b/g/n/ac/ax, AX1800, 2 порта 10/100/1000M, PoE-out порт Ether2, PoE in 802.3af/at,1 Modem (Micro SIM), 3G/LTE,RouterOS, -40°C to 70°C"
   },
   {
@@ -550,7 +550,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 196425,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, MikroTik, RBLHGG-60adkit, Wireless Wire Dish, 1 порт 10/100/1000М, 60GHz, 802.3af/at, RouterOS, IP55, -40°С до 70 °C, (2шт в комплекте)"
   },
   {
@@ -562,7 +562,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 195940,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, MikroTik, nRAYG-60adpair, Wireless Wire nRAY, 1 порт 10/100/1000М, 60GHz, 802.3af/at, RouterOS, IP55, -40°С до 70 °C, 2 шт в комплекте (2 отдельные коробки)"
   },
   {
@@ -574,7 +574,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 260930,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, MikroTik, RBLHG-5HPnD-XL4pack, LHG XL HP5, 1 порт 10/100М, 802.11a/n, 300 Mbit/s, 5 GHz, 27dBi, PoE-IN Passive PoE, RouterOS, -40°С до 70 °C, IP54 (упаковка 4 штуки)"
   },
   {
@@ -586,7 +586,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 102820,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа (роутер), H3C, EWP-WA5330-FIT, 802.11a/b/g/n/ac, AC2000, 2 порта 10/100/1000M, Максимальное количество пользователей 256, 802.3at, PoE+, -10°C ~ +55°C"
   },
   {
@@ -598,7 +598,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 116826,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа (роутер), H3C, EWP-WA530X-WW-FIT, 802.11a/b/g/n/ac, AC1200, 2 порта 10/100/1000M, 1 порт 1000M SFP, 802.3at, PoE+, -10°C ~ +55°C"
   },
   {
@@ -610,7 +610,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 49470,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа (роутер), H3C, EWP-WA6020, IEEE802.11a/b/g/n/ac/ax, AX1500, 1 порт 10/100/1000М, 802.3af, DC 54V, -10°C ~ +55°C"
   },
   {
@@ -622,7 +622,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 43165,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа (роутер), H3C, EWP-WA6022H, IEEE802.11a/b/g/n/ac/ax, AX1500, 1 порт uplink 10/100/1000М, 1 порт LAN 10/100/1000М802.3af, DC 54V, -10°C ~ +55°C"
   },
   {
@@ -634,7 +634,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 67900,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа (роутер), H3C, EWP-WA6120, IEEE802.11a/b/g/n/ac/ax, AX1800, 1 порт 10/100/1000М, 802.3af, DC 54V, -10°C ~ +55°C"
   },
   {
@@ -646,7 +646,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 121757,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа (роутер), H3C, EWP-WA6120X, IEEE802.11a/b/g/n/ac/ax, AX1800, 2 порта 10/100/1000M , 802.3af/at, -10°C ~ +55°C, IP67"
   },
   {
@@ -658,7 +658,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 128040,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа (роутер), H3C, EWP-WA6126, IEEE802.11a/b/g/n/ac/ax, AX5400, 1 порт 100/1000M/2.5G, 1 порт 100/1000M, 802.3at/af, -10°C ~ +55°C"
   },
   {
@@ -670,7 +670,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 74205,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводное устройство (роутер), H3C, EWP-WA6120H, 802.11a/b/g/n/ac/ax, AX3000, UpLink:10/100/1000M x 1 RJ-45 LAN, 10/100/1000M x 4 RJ-45 (PoE_OUT Supported), 100 клиентов, PoE 802.3af, с адаптером питания"
   },
   {
@@ -682,7 +682,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 202002,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Роутер, H3C, EWP-WSG1812X-PWR, LAN 2 порта SFP+ 10G, 12 портов 10/100/1000M (PoE+), 2 порта WAN 10/100/1000M, Пропускная способность беспроводной сети 4 Гбит/с, AC 100~240 В, '0°C ~ +45°C"
   },
   {
@@ -694,7 +694,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 185487,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер беспроводного доступа, H3C, EWP-WSG1840X, 4 порта LAN 10/100/1000M,1 порт SFP+ 10G, 2 порта WAN 10/100/1000M, Пропускная способность беспроводной сети 4 Гбит/с, AC 100~240 В, '0°C ~ +45°C"
   },
   {
@@ -706,7 +706,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 137003,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер беспроводного доступа, H3C, EWP-WX1804H-PWR, 4 порта LAN 10/100/1000M, 1 порт WAN 10/100/1000M, Пропускная способность беспроводной сети 500 Мбит/с, управление 4 точками доступа, 802.3at PoE+, -10°C ~ +55°C"
   },
   {
@@ -718,7 +718,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 145306,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер для беспроводных точек доступа, H3C, EWP-WSG1808X-PWR, WAN 2X1000M, LAN 7X1000M (PoE+), 1XSFP+, AC 100~240 В, '0°C ~ +45°C"
   },
   {
@@ -730,7 +730,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 286554,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер точек доступа, Huawei, AC650-128AP, Поддержка до 128 точек доступа, консольный порт RJ-45, порт USB 2.0 Type A, 10 портов 10/100/1000M RJ-45, 2 порта SFP+, FLASH 1GB"
   },
   {
@@ -742,7 +742,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 368317,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер точек доступа, Huawei, AC650-256AP, Поддержка до 256 точек доступа, консольный порт RJ-45, порт USB 2.0 Type A, 10 портов 10/100/1000M RJ-45, 2 порта SFP+, FLASH 1GB"
   },
   {
@@ -754,7 +754,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 34861,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа, Hikvision, DS-3WAP521-SI"
   },
   {
@@ -766,7 +766,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 30826,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, Grandstream, GWN7602, 1x GbE PoE, 2x Ethernet 10/100M с PSE, 1x Ethernet 10/100M, 802.11a/b/g/n/ac, AC1200, до 80 беспроводных клиентов"
   },
   {
@@ -778,7 +778,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 37025,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, Grandstream, GWN7603, 1x GbE PoE, 2x GbE with PSE, 1x GbE, 2.4G/5G, 802.11a/b/g/n/ac, AC1300"
   },
   {
@@ -790,7 +790,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 43291,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, Grandstream, GWN7604, 1x GbE PoE, 2x GbE with PSE, 1x GbE, 2.4G/5G, 802.11a/b/g/n/ac/ax, AX3000, Внутренняя"
   },
   {
@@ -802,7 +802,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 43291,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, Grandstream, GWN7605, 2x GbE POE, 802.11a/b/g/n/ac, AC1200, до 100 беспроводных клиентов, локальный контроллер на 50 точек доступа"
   },
   {
@@ -814,7 +814,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 62119,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, Grandstream, GWN7605LR, 2x GbE POE, 802.11a/b/g/n/ac, AC1200, до 100 беспроводных клиентов, Уличная IP66, локальный контроллер на 50 точек доступа"
   },
   {
@@ -826,7 +826,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 55843,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, Grandstream, GWN7615, 2x GbE POE, 802.11a/b/g/n/ac, AC1200, до 200 беспроводных клиентов, локальный контроллер на 50 точек доступа"
   },
   {
@@ -838,7 +838,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 49567,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, Grandstream, GWN7624, 1x GbE PoE, 2x GbE с PSE, 1x GbE, до 200 беспроводных клиентов, 802.11a/b/g/n/ac, AC1200, локальный контроллер на 30 точек доступа"
   },
   {
@@ -850,7 +850,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 53331,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, Grandstream, GWN7625, 2x GbE POE, 802.11a/b/g/n/ac, AC1200, до 200 беспроводных клиентов, локальный контроллер на 30 точек доступа"
   },
   {
@@ -862,7 +862,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 68395,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, Grandstream, GWN7630, 2x GbE POE, 802.11a/b/g/n/ac, AC2300, до 200 беспроводных клиентов, локальный контроллер на 50 точек доступа"
   },
   {
@@ -874,7 +874,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 78425,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, Grandstream, GWN7630LR, 2x GbE POE, 802.11a/b/g/n/ac, AC2300, до 200 беспроводных клиентов, Уличная IP66, локальный контроллер на 50 точек доступа"
   },
   {
@@ -886,7 +886,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 65882,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, Grandstream, GWN7660, 2x GbE POE, 802.11a/b/g/n/ac/ax, AX1800, до 256 беспроводных клиентов, локальный контроллер на 50 точек доступа"
   },
   {
@@ -898,7 +898,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 49567,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, Grandstream, GWN7660E, 1x10/100/1000M, 802.11a/b/g/n/ac/ax, WI-FI AX3000, 802.3af / 802.3at, Внутренняя"
   },
   {
@@ -910,7 +910,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 72158,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, Grandstream, GWN7660ELR, Наружная, 1x10/100/1000M, 1x2500SFP, 2.4G/5G, 802.11a/b/g/n/ac/ax, AX3000, 802.3af / 802.3at, IP67"
   },
   {
@@ -922,7 +922,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 76182,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, Grandstream, GWN7660LR, 2x GbE POE, 802.11a/b/g/n/ac/ax, AX1800, до 256 беспроводных клиентов, Уличная IP66, локальный контроллер на 50 точек доступа"
   },
   {
@@ -934,7 +934,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 53331,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, Grandstream, GWN7661E, Настенная, 1x GbE PoE, 2x GbE with PSE, 1x GbE, 2.4G/5G, 802.11a/b/g/n/ac/ax, AX3000, 802.3af / 802.3at"
   },
   {
@@ -946,7 +946,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 80937,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, Grandstream, GWN7662, 1x GbE, 1x 2,5G POE, 802.11a/b/g/n/ac/ax, AX5400, до 256 беспроводных клиентов, локальный контроллер на 50 точек доступа"
   },
   {
@@ -958,7 +958,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 124858,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, Grandstream, GWN7664ELR, Наружная,1x2500SFP, 1x 2500M RJ45, 2.4G/5G, 802.11a/b/g/n/ac/ax, AX6000, 802.3af/802.3at, IP67"
   },
   {
@@ -970,7 +970,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 118424,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, Grandstream, GWN7664LR, 1x GbE, 1x 2,5G POE, 802.11a/b/g/n/ac/ax, AX3500, до 750 беспроводных клиентов, локальный контроллер на 50 точек доступа, Уличная IP66"
   },
   {
@@ -982,7 +982,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 80937,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, Grandstream, GWN7665, Внутренняя, 1x1000M, 1x 2500M RJ45, 2.4G/5G, 802.11a/b/g/n/ac/ax, AX5400, 802.3af/802.3at"
   },
   {
@@ -994,7 +994,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 72158,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, Grandstream, GWN7670, Внутренняя, 2x 2500M WAN/LAN, 2.4G/5G, 802.11a/b/g/n/ac/ax/be, 802.3af/802.3at, Wi-Fi7, Суммарная пропускная способность беспроводной сети 3,6 Гбит/с"
   },
   {
@@ -1006,7 +1006,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 103528,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, Grandstream, GWN7664E, Внутренняя, 2x 2.5GbE, 2.4G/5G, 802.11a/b/g/n/ac/ax, AX6000, 802.3af/802.3at"
   },
   {
@@ -1018,7 +1018,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 56370,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, Huawei, AP162E, внутренняя, 802.11a/b/g/n/ax, WiFi 6, AX2975, 128 пользователей, GE (RJ45) x 2, PoE: 802.3af, настенный монтаж 8686мм"
   },
   {
@@ -1030,7 +1030,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 65673,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, Huawei, AP265E, внутренняя, 802.11a/b/g/n/ac/ax, WiFi6, AX3000, до 128 пользователей, GE (RJ45) x 5, PoE: 802.3af, настенный/потолочный/Junction Box"
   },
   {
@@ -1042,7 +1042,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 71146,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, Huawei, AP362E, внутренняя, 802.11a/b/g/n/ac/ax, WiFi6, AX3000, до 128 пользователей, GE (RJ45) x 1, PoE: 802.3af, настенный/потолочный"
   },
   {
@@ -1054,7 +1054,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 82092,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, Huawei, AP371, внутренняя, 802.11a/b/g/n/ac/ax/be, WiFi7, BE3600, до 256 пользователей, 2.5GE (RJ45) x 1, PoE: 802.3at/af, настенный/потолочный"
   },
   {
@@ -1066,7 +1066,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 153238,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, Huawei, AP673, внутренняя, 802.11a/b/g/n/ac/ax/be, WI-FI7, BE13650, 300 пользователей, 5GE (RJ45) x 1, GE (RJ45) x 1, USB 3.0, BLE5.2,PoE: 802.3at/af, Wall, Ceiling"
   },
   {
@@ -1078,7 +1078,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 240802,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, Huawei, AP772, уличная, 802.11a/b/g/n/ac/ax/be, BE6450, 2.5GE (RJ45) x 1, 100M/1000M/2500M auto-sensing 10GE optical (SFP+), GE/2.5GE/10GE, IP68"
   },
   {
@@ -1090,7 +1090,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 50350,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, Huawei, еKitЕnginе AP160, 11ax indoor,2+2 dual bands, интеллектульная антенна, AX1800, 2 порта 10/100/1000M, Uplink: 1 x GE RJ-45. downlink: 1 x GE RJ-45, 2,4 ГГц (2x2) и 5 ГГц (2x2)"
   },
   {
@@ -1102,7 +1102,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 105076,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, Huawei, еKitЕnginе AP263, внутренняя, Dual Radio(2.4G/5GHz), 2*2/2*2 MU-MIMO, 802.3at/af, AX3000, 2 порта 10/100/1000M, USB, BLE,внутренние интеллектуальные антенны, рабочая температура от 0°C до 40°C, температура хранения –40°C до +70°C"
   },
   {
@@ -1114,7 +1114,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 87564,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, Huawei, еKitЕnginе AP271E, внутренняя, 802.11a/b/g/n/ac/ax/be, BE3600, 4 порта 10M/100M/1000M, 3 порта 2.5GE"
   },
   {
@@ -1126,7 +1126,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 62390,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, Huawei, еKitЕnginе AP361, внутренняя,2+2 dual bands,интеллектульная антенна, 802.3af, AX1800, 2 порта 10/100/1000M, NAT, Beamforming, CLI (Telnet), -10 °C ~ +50 °C"
   },
   {
@@ -1138,7 +1138,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 136014,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, Huawei, еKitЕnginе AP661, внутренняя, Dual Radio(2.4G/5GHz), 2*2/2*2 MU-MIMO, AX6600, 1 порт 2.5GE/PoE_IN, 1 порт 10/100/1000M, внутренние интеллектуальные антенны, BLE5.2, -10 °C ~ +50 °C"
   },
   {
@@ -1150,7 +1150,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 177317,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Точка доступа, Huawei, еKitЕnginе AP761, уличная, Dual Radio(2.4G/5GHz), OUTDOOR, AX1800, 1 порт SFP, 1 порт 10/100/1000M,, BLE5.2, –40°C to +65°C, IP68"
   },
   {
@@ -1162,7 +1162,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 30060,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Wi-Fi точка доступа, TP-Link, EAP110, Потолочная, 2.4 Ггц, 300 Мбит/с 1 порт Fast Ethernet."
   },
   {
@@ -1174,7 +1174,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 32000,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Wi-Fi точка доступа, TP-Link, EAP110-Outdoor, Наружная, 2,4 Ггц, 300 Мбит/с, 1 порт Ethernet 10/100 Мбит/с с PoE"
   },
   {
@@ -1186,7 +1186,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 30060,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Wi-Fi точка доступа, TP-Link, EAP115, Потолочная, 2.4 Ггц, 300 Мбит/с 1 порт Fast Ethernet."
   },
   {
@@ -1198,7 +1198,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 23173,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Wi-Fi точка доступа, TP-Link, EAP115-Wall, Настенная, 802.11n/g/b, N300, 2 порта Ethernet 10/100 Мбит/с, PoE (IEEE 802.3af), 2 встроенные всенаправленные антенны"
   },
   {
@@ -1210,7 +1210,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 50430,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Wi-Fi точка доступа, TP-Link, EAP223, 802.11a/b/g/n/ac, AC1350 Гигабитный порт Ethernet (RJ45) с поддержкой PoE IEEE802.3af и Passive PoE, Без адаптера PoE"
   },
   {
@@ -1222,7 +1222,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 69830,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Wi-Fi точка доступа, TP-Link, EAP225, 2.4Ггц и 5 Ггц, AC1350, 802.11ac/n/g/b/a, 1 порт 10/100/1000 Мбит/с с PoE 802.3af, passiv PoE,"
   },
   {
@@ -1234,7 +1234,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 69830,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Wi-Fi точка доступа, TP-Link, EAP225-Outdoor, AC1200 Wave 2 Внутренняя/наружная гигабитная точка доступа MU-MIMO."
   },
   {
@@ -1246,7 +1246,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 46550,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Wi-Fi точка доступа, TP-Link, EAP230-WALL, Omada AC1200, Встраиваемая в стену, 802.11b/g/n/ac, MUMIMО, 2 порта 10/100/1000T, 802.3af/802.3at PoE, MU-MIMO"
   },
   {
@@ -1258,7 +1258,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 52370,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Wi-Fi точка доступа, TP-Link, EAP235-WALL, Omada AC1200, Встраиваемая в стену, 802.11b/g/n/ac, MUMIMО, 4 порта 10/100/1000M, 802.3af/802.3at PoE, MU-MIMO"
   },
   {
@@ -1270,7 +1270,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 79530,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Wi-Fi точка доступа, TP-Link, EAP245, Потолочная, AC1750 Мбит/с, 1 порт 10/100/1000 Мбит/с с поддержкой PoE"
   },
   {
@@ -1282,7 +1282,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 86320,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Wi-Fi точка доступа, TP-Link, EAP265 HD, 802.11a/b/g/n/ac, 2,4 ГГц/5 ГГц, AC1750, 2 порта 10/100/1000М, MU-MIMO, PoE 802.3af/at и Passive PoE"
   },
   {
@@ -1294,7 +1294,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 81470,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Wi-Fi точка доступа, TP-Link, EAP610, IEEE 802.11a/b/g/n/ac/ax, AX1800, OFDMA, MU-MIMO, 1 порт 10/100/1000T (PoE IEEE802.3at)"
   },
   {
@@ -1306,7 +1306,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 116390,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Wi-Fi точка доступа, TP-Link, EAP610-Outdoor, IEEE 802.11a/b/g/n/ac/ax, AX1800, OFDMA, MU-MIMO, 1 порт 10/100/1000T (PoE IEEE802.3at), уличная"
   },
   {
@@ -1318,7 +1318,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 72740,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Wi-Fi точка доступа, TP-Link, EAP613, IEEE 802.11a/b/g/n/ac/ax, AX1800, OFDMA, MU-MIMO, 1 порт 10/100/1000T (PoE IEEE802.3at, Passive PoE)"
   },
   {
@@ -1330,7 +1330,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 63040,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Wi-Fi точка доступа, TP-Link, EAP615-Wall, IEEE 802.11a/b/g/n/ac/ax, AX1800, Uplink: 10/100/1000 Мбит/с Ethernet (1 шт.)• Downlink: 10/100/1000 Мбит/с Ethernet (3 шт.) (один из портов поддерживает PoE Out. Для работы PoE Out требуется подключение PoE+ 802.3at"
   },
   {
@@ -1342,7 +1342,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 115420,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Wi-Fi точка доступа, TP-Link, EAP620 HD, IEEE 802.11a/b/g/n/ac/ax, AX1800, OFDMA, MU-MIMO, 1 порт 10/100/1000T (PoE IEEE802.3at)"
   },
   {
@@ -1354,7 +1354,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 116390,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Wi-Fi точка доступа, TP-Link, EAP623-Outdoor HD, IEEE 802.11a/b/g/n/ac/ax, AX1800, 1 гигабитный порт Ethernet (с поддержкой PoE 802.3af/at и Passive PoE 48В адаптер PoE приобретается отдельно)"
   },
   {
@@ -1366,7 +1366,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 103780,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Wi-Fi точка доступа, TP-Link, EAP650, 802.11a/b/g/n/ac/ax, AX3000, 1 порт Ethernet 1 Гбит/с (с поддержкой PoE IEEE802.3at)"
   },
   {
@@ -1378,7 +1378,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 126090,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Wi-Fi точка доступа, TP-Link, EAP650-Outdoor, IEEE 802.11a/b/g/n/ac/ax, AX3000, 1 гигабитный порт Ethernet RJ45 (с поддержкой PoE 802.3at и Passive PoE 48В адаптер PoE идёт в комплекте)"
   },
   {
@@ -1390,7 +1390,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 64010,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Wi-Fi точка доступа, TP-Link, EAP650-Wall, 802.11a/b/g/n/ac/ax, AX3000, 1 порт Ethernet 1 Гбит/с (с поддержкой PoE IEEE802.3at), Встраиваемая в стену"
   },
   {
@@ -1402,7 +1402,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 93110,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Wi-Fi точка доступа, TP-Link, EAP653, 802.11a/b/g/n/ac/ax, AX3000, 1 порт Ethernet 1 Гбит/с (с поддержкой PoE IEEE802.3at)"
   },
   {
@@ -1414,7 +1414,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 74680,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Wi-Fi точка доступа, TP-Link, EAP655-Wall, 802.11a/b/g/n/ac/ax, AX3000, 1 порт Ethernet 1 Гбит/с (с поддержкой PoE IEEE802.3at/af), Встраиваемая в стену"
   },
   {
@@ -1426,7 +1426,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 196900,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Wi-Fi точка доступа, TP-Link, EAP660 HD, 802.11a/b/g/n/ac/ax, AX3600, 1 порт Ethernet 2,5 Гбит/с (с поддержкой PoE IEEE802.3at)"
   },
   {
@@ -1438,7 +1438,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 139670,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Wi-Fi точка доступа, TP-Link, EAP670, 802.11a/b/g/n/ac/ax, AX5400, 1 Порт Ethernet RJ-45 2,5 Гбит/с с поддержкой PoE IEEE802.3at"
   },
   {
@@ -1450,7 +1450,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 127060,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Wi-Fi точка доступа, TP-Link, EAP673, 802.11a/b/g/n/ac/ax, AX5400, 1 Порт Ethernet RJ-45 2,5 Гбит/с с поддержкой PoE IEEE802.3af/at"
   },
   {
@@ -1462,7 +1462,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 76620,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Wi-Fi точка доступа, TP-Link, EAP725-Wall, 802.11 a/b/g/n/ac/ax/be, BE3600,1  2.5G порт PoE-In + 1  2.5G транзитный порт + 2  гигабитных порта RJ45."
   },
   {
@@ -1474,7 +1474,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 114450,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Wi-Fi точка доступа, TP-Link, EAP772, BE9300, 802.11 a/b/g/n/ac/ax/be, 1 2.5G Ethernet (RJ-45) порт (с поддержкой 802.3at PoE)"
   },
   {
@@ -1486,7 +1486,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 31030,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Wi-Fi точка доступа, TP-Link, TL-WA1201, 802.11a/b/g/n/ac, AC1200, 1 порт Ethernet 10/100/1000T (с поддержкой Passive PoE), 4 фиксированные антенны"
   },
   {
@@ -1498,7 +1498,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 45580,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Wi-Fi точка доступа, TP-Link, TL-WA3001, 802.11a/b/g/n/ac, AX3000, 4 фиксированные антенны, 1 гигабитный порт (с поддержкой Passive PoE)"
   },
   {
@@ -1510,7 +1510,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 15995,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Wi-Fi точка доступа, TP-Link, TL-WA801N, 300 Мбит/с,1 порт Ethernet 10/100 Мбит/с (RJ45), Поддержка пассивного PoE, 2,4 ГГц"
   },
   {
@@ -1522,7 +1522,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 69830,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Wi-Fi Облачный контроллер, TP-Link, Omada OC200, 2 порта Ethernet 10/100 Мбит/с, 1 порт USB 2.0, 1 порт Micro USB, IEEE 802.3af / 802.3at"
   },
   {
@@ -1534,7 +1534,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 173620,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Wi-Fi Облачный контроллер, TP-Link, Omada OC300, 2 порта Ethernet 10/100/1000 Мбит/с, 1 порт USB 3.0, До 500 точек доступа Omada, до 100 коммутаторов JetStream и до 100 роутеров Omada, До 15 тысяч клиентов"
   },
   {
@@ -1546,7 +1546,7 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 115550,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Synology, RT2600ac, Dual-core 1.7GHz, 512MB, Gigabit (RJ-45)"
   },
   {
@@ -1558,7 +1558,8 @@ export const КОРПОРАТИВНЫЙ_WI_FI = [
     "price": 154840,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Synology, WRX560, Quad core 1.4 GHz, 512MB, 2.5GbE (RJ-45)"
   }
 ];
+

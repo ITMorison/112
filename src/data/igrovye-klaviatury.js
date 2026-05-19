@@ -10,7 +10,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 4365,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, XG, Pixel Master, Игровая, USB, Кол-во стандартных клавиш 63, RGB, Длина кабеля 1,5 метра, Анг/Рус, Чёрный"
   },
   {
@@ -22,7 +22,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 6305,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, XG, Steel Shadow, Игровая, USB, Кол-во стандартных клавиш 104, RGB, Длина кабеля 1,5 метра, Анг/Рус, Чёрный"
   },
   {
@@ -34,7 +34,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 4048,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, XG, Wizard, Игровая, USB, Кол-во стандартных клавиш 104, Размер: 490*190,5*23,0 мм., Длина кабеля 1,5 метра, Защита от случайного пролива воды/кофе, Анг/Рус/Каз, Чёрный"
   },
   {
@@ -46,7 +46,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 14520,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, XG, Dark Shadow, Игровая, USB, Кол-во стандартных клавиш 104, RGB, Длина кабеля 1,5 метра, Защита от случайного пролива воды/кофе, Анг/Рус/Каз, Чёрный"
   },
   {
@@ -58,7 +58,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 10185,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Rapoo, V50S, Игровая, USB, Кол-во стандартных клавиш 104, Длина кабеля 1,8 метра, Анг/Рус/Каз, LED, 440*163*40, Чёрный"
   },
   {
@@ -70,7 +70,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 18256,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Rapoo, V500PRO, Игровая, USB, Кол-во стандартных клавиш 104, Длина кабеля 1,8 метра, Анг/Рус, Чёрный"
   },
   {
@@ -82,7 +82,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 18420,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Rapoo, V500PRO, Игровая, USB, Кол-во стандартных клавиш 104, Длина кабеля 1,8 метра, Анг/Рус, Голубой"
   },
   {
@@ -94,7 +94,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 15210,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Rapoo, V500PRO-87, Игровая, USB, Кол-во стандартных клавиш 87, RGB, Алюминий, Анг/Рус, Водонепроницаемый корпус, Черный"
   },
   {
@@ -106,7 +106,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 20069,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Rapoo, V700RGB, Игровая, USB, Кол-во стандартных клавиш 104, Длина кабеля 1,8 метра, RGB, Анг/Рус, Чёрный"
   },
   {
@@ -118,7 +118,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 26975,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Rapoo, V530, Игровая, USB, Кол-во стандартных клавиш 104, Длина кабеля 1,8 метра, Анг/Рус, Черный"
   },
   {
@@ -130,7 +130,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 25277,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Ducky, OK-M-65, Baby Switch DKOKM2567-KYRUPDCOCH1, Игровая, Механическая, 65%, Ducky Linear Inductive Switch, USB, 2,4 ГГц, Bluetooth, Подсветка RGB, Размер: 452x150x41 мм., Анг/Рус, Чёрный"
   },
   {
@@ -142,7 +142,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 25277,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Ducky, OK-M-65, Wine Red Switch DKOKM2567-KWRUPDCOCH1, Игровая, Механическая, 65%, Ducky Linear Inductive Switch, USB, 2,4 ГГц, Bluetooth, Подсветка RGB, Размер: 452x150x41 мм., Анг/Рус, Чёрный"
   },
   {
@@ -154,7 +154,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 27120,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Ducky, OK-M-75, Baby Switch DKOKM2583-KYRUPDCOCH1, Игровая, Механическая, 75%, Ducky Linear Inductive Switch, USB, 2,4 ГГц, Bluetooth, Подсветка RGB, Размер: 452x150x41 мм., Анг/Рус, Чёрный"
   },
   {
@@ -166,7 +166,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 27120,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Ducky, OK-M-75, Wine Red Switch, Игровая, Механическая, 75%, Ducky Linear Inductive Switch, USB, 2,4 ГГц, Bluetooth, Подсветка RGB, Размер: 452x150x41 мм., Чёрный"
   },
   {
@@ -178,7 +178,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 31686,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Ducky, OK-M-98, Baby Switch, Игровая, Механическая, 98%, Ducky Linear Inductive Switch, USB, 2,4 ГГц, Bluetooth, Подсветка RGB, Размер: 452x150x41 мм., Анг/Рус, Чёрный"
   },
   {
@@ -190,7 +190,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 31686,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Ducky, OK-M-98, Wine Red Switch, Игровая, Механическая, 98%, Ducky Linear Inductive Switch, USB, 2,4 ГГц, Bluetooth, Подсветка RGB, Размер: 452x150x41 мм., Чёрный"
   },
   {
@@ -202,7 +202,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 62498,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Ducky, One X Mini Wireless, Игровая, Механическая, 60%, Ducky Linear Inductive Switch, USB, 2,4 ГГц, Bluetooth, Подсветка RGB, Размер: 308x124x39 мм., Чёрный"
   },
   {
@@ -214,7 +214,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 62498,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Ducky, One X Mini Wireless, Игровая, Механическая, 60%, Ducky Linear Inductive Switch, USB, 2,4 ГГц, Bluetooth, Подсветка RGB, Размер: 308x124x39 мм., Белый"
   },
   {
@@ -226,7 +226,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 78998,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Ducky, One X Wireless, Игровая, Механическая, 100%, Ducky Linear Inductive Switch, USB, 2,4 ГГц, Bluetooth, Подсветка RGB, Размер: 452x150x41 мм, Чёрный"
   },
   {
@@ -238,7 +238,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 78998,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Ducky, One X Wireless WH, Игровая, Механическая, 100%, Ducky Linear Inductive Switch, USB, 2,4 ГГц, Bluetooth, Подсветка RGB, Размер: 452x150x41 мм., Анг/Рус, Белый"
   },
   {
@@ -250,7 +250,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 39760,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, VGN, V98Pro V2, 31192, Switch Steam Wave Pro Linear, Игровая, Механическая, Подсветка RGB, Раскладка ENG/RU, Фиолетовый"
   },
   {
@@ -262,7 +262,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 39760,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, VGN, V98Pro V2, 31208, Switch Steam Wave Pro Linear, Игровая, Механическая, Подсветка RGB, Раскладка ENG/RU, Голубой"
   },
   {
@@ -274,7 +274,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 39760,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, VGN, V98Pro V2, 31338, Switch Crystal Wine Linear, Игровая, Механическая, Подсветка RGB, Раскладка ENG/RU, Фиолетовый"
   },
   {
@@ -286,7 +286,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 44610,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, VGN, V98Pro V2, 31901, Switch Box Ice Cream Pro Linear, Игровая, Механическая, Подсветка RGB, Раскладка ENG/RU, Розовый"
   },
   {
@@ -298,7 +298,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 47520,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, VGN, V98Pro V2, 31239, Switch Box Ice Cream Pro Linear, Игровая, Механическая, Подсветка RGB, Раскладка ENG/RU, Зеленый"
   },
   {
@@ -310,7 +310,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 47520,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, VGN, V98Pro V2, 31246, Switch Arctic Fox Clicky, Игровая, Механическая, Подсветка RGB, Раскладка ENG/RU, Голубой"
   },
   {
@@ -322,7 +322,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 47520,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, VGN, V98Pro V2, 31918, Twilight, Switch Berry Ice Cream Linear, Игровая, Механическая, Подсветка RGB, Раскладка ENG/RU, Оранжевый"
   },
   {
@@ -334,7 +334,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 47520,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, VGN, V98Pro V2, 31925, Switch Berry Ice Cream Linear, Игровая, Механическая, Подсветка RGB, Раскладка ENG/RU, Зеленый"
   },
   {
@@ -346,7 +346,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 43252,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Glorious, GMMK2 Full Size, GLO-GMMK2-96-FOX-W, Игровая, Механические переключатели, Glorious Fox Linear Switches, RGB подсветка, Белый"
   },
   {
@@ -358,7 +358,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 43543,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Glorious, GMMK2 Full Size, GLO-GMMK2-96-FOX-P, Игровая, Механические переключатели, Glorious Fox Linear Switches, RGB подсветка, Розовый"
   },
   {
@@ -370,7 +370,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 44028,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Glorious, GMMK2 Full Size, GLO-GMMK2-96-FOX-B, Игровая, Механические переключатели, Glorious Fox Linear Switches, RGB подсветка, Черный"
   },
   {
@@ -382,7 +382,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 43058,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Glorious, GMMK2 Compact, GLO-GMMK2-65-FOX-W, Игровая, Механические переключатели, Glorious Fox Linear Switches, RGB подсветка, Белый"
   },
   {
@@ -394,7 +394,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 43349,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Glorious, GMMK2 Compact, GLO-GMMK2-65-FOX-P, Игровая, Механические переключатели, Glorious Fox Linear Switches, RGB подсветка, Розовый"
   },
   {
@@ -406,7 +406,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 49266,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Glorious, GMMK2 Compact, GLO-GMMK2-65-FOX-B, Игровая, Механические переключатели, Glorious Fox Linear Switches, RGB подсветка, Черный"
   },
   {
@@ -418,7 +418,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 46647,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Glorious, GMMK Numpad Wireless Pre-Built (Fox Linear Switch), GLO-GMMK-NP-FOX-W, Механические клавиши, Подсветка RGB, Bluetooth, Размер 113,5 x 120 x 40 мм, Белый"
   },
   {
@@ -430,7 +430,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 50333,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Glorious, GMMK Numpad Wireless Pre-Built (Fox Linear Switch), GLO-GMMK-NP-FOX-B, Механические клавиши, Подсветка RGB, Bluetooth, Размер 113,5 x 120 x 40 мм, Черный"
   },
   {
@@ -442,7 +442,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 11630,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Ajazz, NKL61/Low/Black, NKL61, Игровая, Механическая, 60%, Low Profile Switch, Проводная, USB, Анг/Рус, Чёрный"
   },
   {
@@ -454,7 +454,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 11630,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Ajazz, NKL61/Low/White, NKL61, Игровая, Механическая, 60%, Low Profile Switch, Проводная, USB, Анг/Рус, Белый"
   },
   {
@@ -466,7 +466,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 13570,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Ajazz, 308i/Cat/Blue, 308i Cat, Мембранная, 75%, Проводная, USB, Анг/Рус, Зелёный"
   },
   {
@@ -478,7 +478,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 18420,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Ajazz, AK820/Red/Black, AK820, Игровая, Механическая, 75%, Red Switches, Проводная, USB, Подсветка белая, Анг/Рус, Чёрный"
   },
   {
@@ -490,7 +490,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 20360,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Ajazz, AK820/Red/GW, AK820, Игровая, Механическая, 75%, AS Red Switches, USB, Подсветка голубая/белая, Анг/Рус, Белый"
   },
   {
@@ -502,7 +502,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 26180,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Ajazz, AK820/Moon/GWY, AK820, Игровая, Механическая, 75%, Moon Switches, USB, Подсветка RGB, Анг/Рус, Серый"
   },
   {
@@ -514,7 +514,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 27732,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Ajazz, AK820/MAX/Magnetic/PWB, AK820 MAX, Игровая, Механическая, 75%, Magnetic Switches, USB, Подсветка RGB, Размер: 333 x 143 x 20,5 мм., Анг/Рус, Белый"
   },
   {
@@ -526,7 +526,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 32000,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Ajazz, AK820/PRO/Gift/PWB, AK820 PRO, Игровая, Механическая, 75%, Gift Switches, USB, 2,4 ГГц, Bluetooth, Подсветка RGB, Размер: 327 x 136 x 40 мм., Анг/Рус, Белый"
   },
   {
@@ -538,7 +538,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 33940,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Ajazz, AK820/MAX/Magnetic/Pink, AK820 Max, Игровая, Механическая, 75%, Magnetic Switches, Проводная, USB, Подсветка RGB, Анг/Рус, Розовый"
   },
   {
@@ -550,7 +550,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 34910,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Ajazz, AK820/MAXPLUS/Dream/Green, AK820 Max Plus, Игровая, Механическая, 75%, Dream Weaver Switches, Бесроводная, USB, 2,4 ГГц, Bluetooth, Подсветка RGB, Анг/Рус, Зелёный"
   },
   {
@@ -562,7 +562,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 37820,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Ajazz, AK820/PRO/Gift/BGY, AK820 Pro, Игровая, Механическая, 75%, Gift Switches, USB, 2,4 ГГц, Bluetooth, Подсветка RGB, Анг/Рус, Черный"
   },
   {
@@ -574,7 +574,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 37820,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Ajazz, AK820/MAX/Magnetic/Grey, AK820 Max, Игровая, Механическая, 75%, Magnetic Switches, Проводная, USB, Подсветка RGB, Анг/Рус, Серый"
   },
   {
@@ -586,7 +586,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 41700,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Ajazz, AK870/PLUS/Avocado/Black, AK870 Plus, Игровая, Механическая, TKL, Avocado Switches, Бесроводная, USB, 2,4 ГГц, Bluetooth, Подсветка RGB, Анг/Рус, Чёрный"
   },
   {
@@ -598,7 +598,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 38790,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Dark Project, DPKB_MIDNIGHT_87_ANSI_UA, ALU87A Midnight, Игровая, Механическая, TKL, g3ms Zircon switches, USB, Подсветка RGB, Размер: 362 x 136 x 42 мм., Анг/Рус, Чёрный"
   },
   {
@@ -610,7 +610,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 38790,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Dark Project, DPKB_DAYLIGHT_87_ANSI_UA, ALU87A Daylight, Игровая, Механическая, TKL, g3ms Zircon switches, USB, Подсветка RGB, Размер: 362 x 136 x 42 мм., Анг/Рус, Серый"
   },
   {
@@ -622,7 +622,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 38790,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Dark Project, DPKB_FUJI_87_ANSI_UA, 87 Fuji V2, Игровая, Механическая, TKL, g3ms Sapphire switches, USB, Подсветка RGB, 365x137x42 мм., Анг/Рус, Белый"
   },
   {
@@ -634,7 +634,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 46550,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Dark Project, DPKB_BUSHIDO_87_ANSI_UA, ALU87B Bushido, Игровая, Механическая, TKL, g3ms Moonstone switches, USB, Подсветка RGB, Размер: 366 x 141 x 45 мм., Анг/Рус, Чёрный"
   },
   {
@@ -646,7 +646,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 53340,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Dark Project, DPKB_CELESTIAL_87_ANSI_UA, ALU87B Celestial, Игровая, Механическая, TKL, g3ms Voidstone switches, USB, Подсветка RGB, Размер: 369 x 142 x 43 мм., Анг/Рус, Фиолетовый"
   },
   {
@@ -658,7 +658,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 75650,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Dark Project, DPKB_NOVA_81_ANSI_WHITE_UA, ALU81A Terra Nova, Игровая, Механическая, 75%, g3ms Moonstone switches, USB, 2,4 ГГц, Bluetooth, Подсветка RGB, Размер: 324 x 140 x 36 мм., Анг/Рус, Белый"
   },
   {
@@ -670,7 +670,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 75650,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Dark Project, DPKB_NOVA_81_ANSI_BLACK_UA, ALU81A Terra Nova, Игровая, Механическая, 75%, g3ms Moonstone switches, USB, 2,4 ГГц, Bluetooth, Подсветка RGB, Размер: 324 x 140 x 36 мм., Анг/Рус, Чёрный"
   },
   {
@@ -682,7 +682,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 63040,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Dark Project, DPKB_NOSTRA_81_ANSI_WHITE_UA, ALU81A Terra Nostra, Игровая, Механическая, 75%, g3ms Moonstone switches, USB, Подсветка RGB, Размер: 324 x 140 x 43 мм., Анг/Рус, Белый"
   },
   {
@@ -694,7 +694,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 63040,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Dark Project, DPKB_NOSTRA_81_ANSI_BLACK_UA, ALU81A Terra Nostra, Игровая, Механическая, 75%, g3ms Moonstone switches, USB, Подсветка RGB, Размер: 324 x 140 x 43 мм., Анг/Рус, Чёрный"
   },
   {
@@ -706,7 +706,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 53253,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Dark Project, KD83A Navy Blue, DPP83_GSH_NAVY_ANSI_UA, TKL, Switch G3MS Sapphire, Игровая, Механическая, Подсветка RGB, Раскладка ENG/RU/UA, Синий"
   },
   {
@@ -718,7 +718,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 32970,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Steelseries, Apex 3 TKL US, 64831, Игровая, Мембранные клавиши, IP32, USB, Подсветка RGB, Анг/Рус, Чёрный"
   },
   {
@@ -730,7 +730,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 47520,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Steelseries, Apex 3 US, 64795 Игровая, Мембранные клавиши, IP32, USB, Подсветка RGB, Размер: 444.72*151.62*39.69 мм., Анг/Рус, Чёрный"
   },
   {
@@ -742,7 +742,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 76620,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Steelseries, Apex 5, 64532 Игровая, Механические клавиши QX2, USB, Подсветка RGB, Размер: 160*370*35 мм., Анг/Рус, Чёрный"
   },
   {
@@ -754,7 +754,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 112510,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Steelseries, Apex 7 (Blue Switch) US, 64774 Игровая, Механические клавиши QX2, USB, Подсветка RGB, Размер: 160*370*35 мм., Анг/Рус, Чёрный"
   },
   {
@@ -766,7 +766,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 95050,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Steelseries, Apex 7 TKL (Red Switch) US, 64646 Игровая, Механические клавиши QX2, USB, Подсветка RGB, Размер: 160*370*35 мм., Анг/Рус, Чёрный"
   },
   {
@@ -778,7 +778,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 67803,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Varmilo, Aurora Muse 65, A88A111H0A5A06A074, Gateron Varmilo Magnet White, 67 клавиш, Магнитная, Подсветка - RGB, Hot swap - Да, Проводная, Type-C, 375*177*80мм, Англ/Рус, Голубой"
   },
   {
@@ -790,7 +790,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 67803,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Varmilo, Asgard Muse 65, A88A112H0A5A06A074, Gateron Varmilo Magnet White, 67 клавиш, Магнитная, Подсветка - RGB, Hot swap - Да, Проводная, Type-C, 375*177*80мм, Англ/Рус, Черный"
   },
   {
@@ -802,7 +802,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 74680,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Varmilo, Aurora VEA108, A26A060D3A3A06A048, Cherry MX Brown, 108 клавиш, Механическая, Подсветка - Белая, Hot Swap - Нет, Проводная, Type C, 358*134*35мм, Англ/Рус, Черный"
   },
   {
@@ -814,7 +814,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 76620,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Varmilo, Aurora VEA108, A26A060D4A3A06A048, Cherry MX Red, 108 клавиш, Механическая, Подсветка - Белая, Hot Swap - Нет, Проводная, Type-C, 505*215*65мм, Англ/Рус, Черный"
   },
   {
@@ -826,7 +826,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 78560,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Varmilo, Aurora VEM108, A36A060A9A3A06A048, Varmilo EC V2 Sakura, 108 клавиш, Механическая, Подсветка - Белая, Hot Swap - Нет, Проводная, Type-C, 505*215*65мм, Англ/Рус, Черный"
   },
   {
@@ -838,7 +838,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 84430,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Varmilo, Beijing Opera VPG108, A61A028D3A5A06A025, Cherry Mx Brown, 108 клавиш, Механическая, Подсветка - RGB, Hot-Swap - Да, Проводная, Type-C, 505*215*65мм, Анг/Рус, Черная"
   },
   {
@@ -850,7 +850,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 89215,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Varmilo, Beijing Opera VPG108, A61A028D5A5A06A025, Cherry Mx Silent Red, 108 клавиш, Механическая, Подсветка - RGB, Hot-Swap - Да, Проводная, Type-C, 505*215*65мм, Анг/Рус, Черный"
   },
   {
@@ -862,7 +862,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 83207,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Varmilo, Beijing Opera VPM108, A53A028B0A3A06A025, Varmilo EC V2 Rose, 108 клавиш, Механическая, Подсветка - белая, Hot-Swap - нет, Проводная, Type-C, 505*215*65мм, Анг/Рус, Черный"
   },
   {
@@ -874,7 +874,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 83207,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Varmilo, Beijing Opera VPM108, A53A028A9A3A06A025, Varmilo EC V2 Sakura, 108 клавиш, Механическая, Подсветка - RGB, Hot-Swap - нет, Проводная, Type-C, 505*215*65мм, Анг/Рус, Черный"
   },
   {
@@ -886,7 +886,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 92840,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Varmilo, Beijing Opera VPT108, A70A028D3A5A06A025, Cherry Mx Brown, 108 клавиш, Механическая, Подсветка - RGB, Hot-Swap - Да, Проводная/Bluetooth/2.4G, Type-C, 505*215*65мм, Анг/Рус, Черный"
   },
   {
@@ -898,7 +898,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 96346,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Varmilo, Chang'e, VPT108, A70A054D5A5A06A043, Cherry MX Silent Red, 108 клавиш, Механическая, Подсветка - RGB, Hot swap - Да, Проводная/Bluetooth/2.4G, Type-C, 502*215*65мм, Англ/Рус, Голубой"
   },
   {
@@ -910,7 +910,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 72653,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Varmilo, CMYK VPM108, A53A024A8A3A06A007, Varmilo EC V2 Daisy, 108 клавиш, Механическая, Подсветка - Белая, Hot-Swap - нет, Проводная, Type-C, 502*215*65мм, Анг/Рус, Черный"
   },
   {
@@ -922,7 +922,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 72653,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Varmilo, CMYK VPM108, A53A024B1A3A06A007, Varmilo EC V2 Ivy, 108 клавиш, Механическая, Подсветка - Белая, Hot-Swap - нет, Проводная, Type-C, 502*215*65мм, Анг/Рус, Черный"
   },
   {
@@ -934,7 +934,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 72653,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Varmilo, CMYK VPM108, A53A024B0A3A06A007, Varmilo EC V2 Rose, 108 клавиш, Механическая, Подсветка - Белая, Hot-Swap - нет, Проводная, Type-C, 502*215*65мм, Анг/Рус, Черный"
   },
   {
@@ -946,7 +946,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 72653,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Varmilo, CMYK VPM108, A53A024A9A3A06A007, Varmilo EC V2 Sakura, 108 клавиш, Механическая, Подсветка - Белая, Hot-Swap - нет, Проводная, Type-C, 502*215*65мм, Анг/Рус, Черный"
   },
   {
@@ -958,7 +958,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 81513,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Varmilo, CMYK VPT108, A70A024D4A5A06A007, Cherry Mx Red, 108 клавиш, Механическая, Подсветка - RGB, Hot-Swap - Да, Проводная/Bluetooth/2.4G, Type-C, 505*215*65мм, Анг/Рус, Черный"
   },
   {
@@ -970,7 +970,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 82547,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Varmilo, Crane VEM108, A01A037A8A4A06A031, Varmilo EC V2 Daisy, 108 клавиш, Механическая, Подсветка - Белая, Hot swap - Нет, Проводная, Type-C, 503*209*63мм, Англ/Рус, Зелёный"
   },
   {
@@ -982,7 +982,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 87290,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Varmilo, Crane VEM108, A01A037A9A4A06A031, Varmilo EC V2 Sakura, 108 клавиш, Механическая, Подсветка - Белая, Hot swap - Нет, Проводная, Type-C, 503*209*63мм, Англ/Рус, Зелёный"
   },
   {
@@ -994,7 +994,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 66920,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Varmilo, Dreams on Board VEM108, A36A030B0A3A06A028, Varmilo EC V2 Rose, 108 клавиш, Механическая, Подсветка - Белая, Hot-Swap - Нет, Проводная, Type-C, 503*209*63мм, Англ/Рус, Розовый"
   },
   {
@@ -1006,7 +1006,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 64010,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Varmilo, Dreams on Board VEM108, A36A030A9A3A06A028, Varmilo EC V2 Sakura, 108 клавиш, Механическая, Подсветка - Белая, Hot-Swap - Нет, Проводная, Type-C, 503*209*63мм, Англ/Рус, Розовый"
   },
   {
@@ -1018,7 +1018,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 58103,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Varmilo, Eucalyptus, VXH67, A44A046D5A3A06A039, Cherry Mx Silent Red, 67 клавиш, Механическая, Подсветка - Белая, Hotswap - Да, Type-C, 385*195*65мм, Англ/Рус, Розовый"
   },
   {
@@ -1030,7 +1030,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 58103,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Varmilo, Eucalyptus, VXT67, A42A046D3A5A06A039, Cherry Mx Brown, 67 клавиш, Механическая, Подсветка - RGB, Hotswap - Да, Проводная/Bluetooth/2.4G, Type-C, 385*195*65мм, Англ/Рус, Розовый"
   },
   {
@@ -1042,7 +1042,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 76620,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Varmilo, Goddess LuoShen VA100, A83A106G6A8A06A071, Kailh Prestige Voice switch, 105 клавиш, Механическая, Подсветка - RGB, Hotswap - Да, Проводная/Bluetooth/2.4G, Type-C Англ/Рус, 438*136*41мм, Бирюзовый"
   },
   {
@@ -1054,7 +1054,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 78560,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Varmilo, Lovebirds-I VEA108, A26A002D3A0A06A003, Cherry MX Brown, 108 клавиш, Механическая, Подсветка - Белая, Hot-Swap - Нет, Проводная, Type-C, 505*215*65 мм, Англ/Рус, Голубой"
   },
   {
@@ -1066,7 +1066,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 96990,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Varmilo, Lovebirds-I, VEM108, A36A002B0A3A06A003, Varmilo EC V2 Rose Switch, 108 клавиш, Механическая, Подсветка - Белая, Hot-Swap - Нет, Проводная, Type-C, 505*215*65 мм, Англ/ Рус, Голубой"
   },
   {
@@ -1078,7 +1078,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 85350,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Varmilo, Lovebirds-I VEM108, A36A002A9A3A06A003, Varmilo EC V2 Sakura, 108 клавиш, Механическая, Подсветка - Белая, Hot-Swap - Нет, Проводная, Type-C, 503*209*63мм, Англ/Рус, Голубой"
   },
   {
@@ -1090,7 +1090,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 93110,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Varmilo, Sword 68 Monet, VTP 68, A68A100G6A8A01A063, Kailh Prestige Voice Switch, 68 клавиш, Механическая, Подсветка - RGB, Hot-Swap - Да, Проводная/Bluetooth/2.4G, Type-C, Англ, 505*208*61мм, Бирюзовый"
   },
   {
@@ -1102,7 +1102,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 73797,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Varmilo, Moonlight VPG108, A61A023D4A5A06A007, Cherry Mx Red, 108 клавиш, Механическая, Подсветка - RGB, Hot-Swap - Да, Проводная, Type-C, 505*215*65мм, Англ/Рус, Черный"
   },
   {
@@ -1114,7 +1114,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 72653,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Varmilo, Moonlight VPM108, A53A023A9A3A06A007, Varmilo EC V2 Sakura, 108 клавиш, Механическая, Подсветка - Белая, Hot-Swap - нет, Проводная, Type-C, 505*215*65мм, Англ/Рус, Черный"
   },
   {
@@ -1126,7 +1126,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 69315,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Varmilo, Panda R2, VPG108, A61A029D4A5A06A007, Cherry MX Red, 108 клавиш, Механическая, Hotswap - Да, Подсветка - RGB, Проводная, Type-C, 505*215*65мм, Англ/Рус, Черный"
   },
   {
@@ -1138,7 +1138,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 92679,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Varmilo, Panda R2 VPT108, A70A029D4A5A06A007, Cherry Mx Red, 108 клавиш, Механическая, Подсветка - RGB, Hot-Swap - Да, Проводная/Bluetooth/2.4G, Type-C, 505*215*65мм, Англ/Рус, Черный"
   },
   {
@@ -1150,7 +1150,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 77590,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Varmilo, Summit R1 VEM108, A36A050B1A3A06A007, Varmilo Rose V2 Switch, 108 клавиш, Механическая, Подсветка - RGB, Hot-Swap - Нет, Проводная, Type-C, 503*209*63мм, Англ/Рус, Черный"
   },
   {
@@ -1162,7 +1162,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 76533,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Varmilo, Summit R1 VPG108, A61A050D4A5A06A007, Cherry Mx Red, 108 клавиш, Механическая, Подсветка - RGB, Hot-Swap - Да, Проводная, Type-C, 505*215*65мм, Англ/Рус, Черный"
   },
   {
@@ -1174,7 +1174,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 90204,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Varmilo, Summit R1 VPT108, A70A050D3A5A06A007, Cherry Mx Brown, 108 клавиш, Механическая, Подсветка - RGB, Hot-Swap - Да, Проводная/Bluetooth/2.4G, Type-C, 505*215*65мм, Англ/Рус, Черный"
   },
   {
@@ -1186,7 +1186,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 96990,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Varmilo, Sword 68 Ariel, VTP68, Varmilo MX Daisy L Switch, A68A089F9A8A06A063, 68 клавиш, Механическая, Подсветка - RGB, Hot-Swap - Да, Проводная/Bluetooth/2.4G, Type-C , Англ/Рус, 420*195*190мм, Голубой"
   },
   {
@@ -1198,7 +1198,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 48490,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Razer, BlackWidow V3 Tenkeyless, RZ03-03490700-R3R1, Игровая, Компактная, Механические переключатели Razer Green, Подсветка клавиш 16.8 млн цветов, Программируемые клавиши, USB, Размер: 154*366*30 мм., Анг/Рус, Чехол, Чёрный"
   },
   {
@@ -1210,7 +1210,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 65950,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Razer, BlackWidow V3, RZ03-03540800-R3R1, Игровая, Механические переключатели Razer Green Mechanical Switch, Подсветка клавиш 16.8 млн цветов, Программируемые клавиши, USB, Анг/Рус, Чёрный"
   },
   {
@@ -1222,7 +1222,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 93110,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Razer, BlackWidow V3 Mini HyperSpeed, RZ03-03891600-R3R1, Игровая, Механические переключатели Razer, Подсветка клавиш 16.8 млн цветов, Программируемые клавиши, USB, Анг/Рус, Чёрный"
   },
   {
@@ -1234,7 +1234,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 93110,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Razer, BlackWidow V3 Mini HyperSpeed, RZ03-03890700-R3R1, Игровая, Механические переключатели Razer, Подсветка клавиш 16.8 млн цветов, Программируемые клавиши, USB, Размер: 31,85*13*4,05, Анг/Рус, Чёрный"
   },
   {
@@ -1246,7 +1246,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 93110,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Razer, Razer DeathStalker V2 (Linear Red Switch) - Russian Layout, RZ03-04500800-R3R1, Игровая, проводная, Оптико-механические переключатели Razer, Программируемые клавиши, Подсветка Chroma 16.8 млн цветов с эффектами, Рус, Чёрный"
   },
   {
@@ -1258,7 +1258,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 56250,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Razer, Huntsman Mini, RZ03-03391500-R3R1, Игровая, Оптические переключатели Razer, Программируемые клавиши, USB, Подсветка Chroma c 16.8 млн. цветовых оттенков, Анг/Рус, Длина кабеля 1.8 метра, Чёрный"
   },
   {
@@ -1270,7 +1270,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 66920,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Razer, Huntsman Mini (Red Switch), RZ03-03392200-R3R1, Игровая, Оптические переключатели Razer, Программируемые клавиши, Съемный кабель USB TYPE-C, Подсветка Chroma c 16.8 млн. цветовых оттенков, Длина кабеля 2 метра, белый"
   },
   {
@@ -1282,7 +1282,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 43834,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, Razer, Ornata V3 Tenkeyless - Russian Layout, RZ03-04881600-R3R1, Игровая, Комбинированные мембранные + механические, Программируемые клавиши, 10 Зон освещения Razer Chroma ™ RGB, Подставка для запястий, USB, Размер: 463*224*32.5 мм., Рус, Чёрный"
   },
   {
@@ -1294,7 +1294,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 65950,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, HyperX, 639N5AA#ABA, Alloy Origins PBT HX Aqua, Игровая, Механическая, HyperX Aqua-Tactile switch, USB, кабель 1.8м, Подсветка RGB, Анг/Рус, Чёрный"
   },
   {
@@ -1306,7 +1306,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 56163,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, HyperX, 639N3AA#ABA, Alloy Origins PBT HX Red, Игровая, Механическая, HyperX Red switch, USB, Подсветка RGB, Размер: 175,31*443,2*35,68 мм., Анг/Рус, Чёрный"
   },
   {
@@ -1318,7 +1318,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 59160,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, HyperX, 639N7AA#ABA, Alloy Origins Core PBT HX Red TKL, Игровая, Механическая, HyperX Red-Linear switch, USB, Подсветка RGB, Размер: 360*132,5*34,5 мм., Анг/Рус, Чёрный"
   },
   {
@@ -1330,7 +1330,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 64980,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, HyperX, 4P4F6AX#ACB, HX-KB6RDX-RU, Alloy Origins, Игровая, Механическая, HyperX Red switch, USB, Подсветка RGB, Размер: 175,31*443,2*35,68 мм., Анг/Рус, Чёрный"
   },
   {
@@ -1342,7 +1342,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 118330,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, HyperX, 7G7A3AA#ACB, Alloy Rise, Игровая, Механическая, HyperX Red switch, USB, Подсветка RGB, Размер: 455*142*49 мм., Анг/Рус, Чёрный"
   },
   {
@@ -1354,7 +1354,7 @@ export const IGROVYE_KLAVIATURY = [
     "price": 100870,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, HyperX, 7G7A4AA#ACB, Alloy Rise 75, Игровая, Механическая, HyperX Red switch, USB, Подсветка RGB, Размер: 311*142*49 мм., Анг/Рус, Черный"
   },
   {
@@ -1366,7 +1366,8 @@ export const IGROVYE_KLAVIATURY = [
     "price": 52370,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Клавиатура, HyperX, 4P5D6AX#ACB, Alloy Origins 65, Игровая, Механическая, HyperX Red switch, USB, Подсветка RGB, Размер: 315*106*37 мм., Анг/Рус, Черный"
   }
 ];
+

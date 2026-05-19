@@ -10,7 +10,7 @@ export const СИСТЕМЫ_ХРАНЕНИЯ_ДАННЫХ = [
     "price": 123530,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Система хранения данных, Synology, DS124, Realtek RTD1619B, 1GB, RJ-45 1GbE"
   },
   {
@@ -22,7 +22,7 @@ export const СИСТЕМЫ_ХРАНЕНИЯ_ДАННЫХ = [
     "price": 164180,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Система хранения данных, Synology, DS223j, Realtek RTD1619B, 1GB, RJ-45 1GbE"
   },
   {
@@ -34,7 +34,7 @@ export const СИСТЕМЫ_ХРАНЕНИЯ_ДАННЫХ = [
     "price": 224124,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Система хранения данных (сервер), Synology, DS223, Realtek RTD1619B, 2GB, RJ-45 1GbE"
   },
   {
@@ -46,7 +46,7 @@ export const СИСТЕМЫ_ХРАНЕНИЯ_ДАННЫХ = [
     "price": 284127,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Система хранения данных (сервер), Synology, DS225+, Celeron J4125, 2GB, RJ-45 1GbE, RJ-45 2,5GbE (express replacement)"
   },
   {
@@ -58,7 +58,7 @@ export const СИСТЕМЫ_ХРАНЕНИЯ_ДАННЫХ = [
     "price": 315478,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Система хранения данных (сервер), Synology, DS423, Realtek RTD1619B, 2GB, RJ-45 1GbE"
   },
   {
@@ -70,7 +70,7 @@ export const СИСТЕМЫ_ХРАНЕНИЯ_ДАННЫХ = [
     "price": 399169,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Система хранения данных (сервер), Synology, DS620slim, 6-bay, Intel Celeron J3355, 2GB RAM, RJ-45 1GbE, 2x65W"
   },
   {
@@ -82,7 +82,7 @@ export const СИСТЕМЫ_ХРАНЕНИЯ_ДАННЫХ = [
     "price": 379926,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Система хранения данных (сервер), Synology, DS725+, AMD Ryzen R1600, 4GB, RJ-45 1GbE, RJ-45 2,5GbE (express replacement)"
   },
   {
@@ -94,7 +94,7 @@ export const СИСТЕМЫ_ХРАНЕНИЯ_ДАННЫХ = [
     "price": 428199,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Система хранения данных (сервер), Synology, DS425+, Celeron J4125, 2GB, RJ-45 1GbE, RJ-45 2,5GbE (express replacement)"
   },
   {
@@ -106,7 +106,7 @@ export const СИСТЕМЫ_ХРАНЕНИЯ_ДАННЫХ = [
     "price": 529110,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Система хранения данных (сервер), Synology, DS925+, AMDV1500B, 4GB, 2xRJ-45 2,5GbE (express replacement)"
   },
   {
@@ -118,7 +118,7 @@ export const СИСТЕМЫ_ХРАНЕНИЯ_ДАННЫХ = [
     "price": 596622,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Система хранения данных (сервер), Synology, RS422+, Ryzen R1600, 1U, 2GB, RJ-45 1GbE"
   },
   {
@@ -130,7 +130,7 @@ export const СИСТЕМЫ_ХРАНЕНИЯ_ДАННЫХ = [
     "price": 657782,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Система хранения данных (сервер), Synology, DS1525+, AMDV1500B, 8GB, 2xRJ-45 2,5GbE (express replacement)"
   },
   {
@@ -142,7 +142,7 @@ export const СИСТЕМЫ_ХРАНЕНИЯ_ДАННЫХ = [
     "price": 944596,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Система хранения данных (сервер), Synology, DS1825+, AMD Ryzen V1500B, 8GB, 2xRJ-45 2,5GbE (express replacement)"
   },
   {
@@ -154,7 +154,7 @@ export const СИСТЕМЫ_ХРАНЕНИЯ_ДАННЫХ = [
     "price": 969124,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Система хранения данных (сервер), Synology, RS1221+, Ryzen V1500B, 2U, 4GB, RJ-45 1GbE"
   },
   {
@@ -166,7 +166,7 @@ export const СИСТЕМЫ_ХРАНЕНИЯ_ДАННЫХ = [
     "price": 1347957,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Система хранения данных (сервер), Synology, RS1221RP+, Ryzen V1500B, 2U, 4GB, RJ-45 1GbE"
   },
   {
@@ -178,7 +178,7 @@ export const СИСТЕМЫ_ХРАНЕНИЯ_ДАННЫХ = [
     "price": 1724407,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Система хранения данных (сервер), Synology, RS2423+, AMD Ryzen V1780B, 2U, 8GB, RJ-45 1GbE"
   },
   {
@@ -190,7 +190,7 @@ export const СИСТЕМЫ_ХРАНЕНИЯ_ДАННЫХ = [
     "price": 1399241,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Система хранения данных (сервер), Synology, DS2422+, Ryzen V1500B, NAS, 4GB, RJ-45 1GbE"
   },
   {
@@ -202,7 +202,7 @@ export const СИСТЕМЫ_ХРАНЕНИЯ_ДАННЫХ = [
     "price": 853237,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Система хранения данных (сервер), Synology, RS822+, Ryzen V1500B, 1U, 2GB, RJ-45 1GbE"
   },
   {
@@ -214,7 +214,7 @@ export const СИСТЕМЫ_ХРАНЕНИЯ_ДАННЫХ = [
     "price": 1061007,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Система хранения данных (сервер), Synology, RS822RP+, Ryzen V1500B, 1U, 2GB, RJ-45 1GbE"
   },
   {
@@ -226,7 +226,7 @@ export const СИСТЕМЫ_ХРАНЕНИЯ_ДАННЫХ = [
     "price": 2102104,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Система хранения данных (сервер), Synology, RS2423RP+, Ryzen V1780B, 2U, 8GB, RJ-45 1GbE"
   },
   {
@@ -238,7 +238,7 @@ export const СИСТЕМЫ_ХРАНЕНИЯ_ДАННЫХ = [
     "price": 3485939,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Система хранения данных (сервер), Synology, RS3621xs+, Intel Xeon D-1541, 2U, 8GB, RJ-45 1GbE"
   },
   {
@@ -250,7 +250,7 @@ export const СИСТЕМЫ_ХРАНЕНИЯ_ДАННЫХ = [
     "price": 4342271,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Система хранения данных (сервер), Synology, RS4021xs+, Intel Xeon D-1541, 3U, 16GB, RJ-45 1GbE"
   },
   {
@@ -262,7 +262,7 @@ export const СИСТЕМЫ_ХРАНЕНИЯ_ДАННЫХ = [
     "price": 1630590,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Система хранения данных (сервер), Synology, RS1619xs+, Intel Xeon D-1527, 1U, 8GB, RJ-45 1GbE"
   },
   {
@@ -274,7 +274,7 @@ export const СИСТЕМЫ_ХРАНЕНИЯ_ДАННЫХ = [
     "price": 1189561,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Дисковая полка для СХД, Huawei, DAE62435U4EV5, SAS Disk Enclosure, 4U, 3.5\", 24 дисковых слотов без дисков"
   },
   {
@@ -286,7 +286,7 @@ export const СИСТЕМЫ_ХРАНЕНИЯ_ДАННЫХ = [
     "price": 1150760,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Дисковая полка для СХД, Huawei, DAE62525U2-10EV5, SAS Disk Enclosure, 2U, 2.5\", 25 дисковых слотов без дисков"
   },
   {
@@ -298,7 +298,7 @@ export const СИСТЕМЫ_ХРАНЕНИЯ_ДАННЫХ = [
     "price": 2965247,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Система хранения данных (не укомплектована дисками), Huawei, 5120-S-L-64G-AC, OceanStor 5120, 2U, Dual Controllers, SAS, AC\\240V HVDC, 64GB Cache, 8*1Gb ETH, 4*10Gb ETH (Including Multi-Mode SFP+), 4*SAS3.0 port, 12*3.5 Inch SAS, LIC-5120V6-BP"
   },
   {
@@ -310,7 +310,7 @@ export const СИСТЕМЫ_ХРАНЕНИЯ_ДАННЫХ = [
     "price": 3318073,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Система хранения данных (не укомплектована дисками), Huawei, 5120-S-L-64G-AC 2408-001, OceanStor 5120, 2U, Dual Controllers, SAS, AC\\240V HVDC, 64GB Cache, 8*1Gb ETH, 4*10Gb ETH (Including Multi-Mode SFP+), 4*SAS3.0 port,12*3.5 Inch SAS, LIC-5120V6-BP"
   },
   {
@@ -322,7 +322,7 @@ export const СИСТЕМЫ_ХРАНЕНИЯ_ДАННЫХ = [
     "price": 3318073,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Система хранения данных (не укомплектована дисками), Huawei, 5120-S-S-64G-AC 2408-001, OceanStor 5120, 2U, Dual Controllers, SAS, AC\\240V HVDC, 64GB Cache, 8*1Gb ETH, 4*10Gb ETH (Including Multi-Mode SFP+), 4*SAS3.0 port, 25*2.5 Inch SAS, LIC-5120V6-BP"
   },
   {
@@ -334,7 +334,7 @@ export const СИСТЕМЫ_ХРАНЕНИЯ_ДАННЫХ = [
     "price": 3758975,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Система хранения данных (не укомплектована дисками), Huawei, D2020-64G-SAS-AC, OceanStor Dorado 2020, 2U, Dual Controllers, SAS, AC\\240V HVDC, 64GB Cache, 8*1Gb ETH,4*10Gb ETH(Including Multi-Mode SFP+),4*SAS3.0 port,25*2.5 Inch SAS, LIC-2020-BS"
   },
   {
@@ -346,7 +346,7 @@ export const СИСТЕМЫ_ХРАНЕНИЯ_ДАННЫХ = [
     "price": 4037007,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Система хранения данных (не укомплектована дисками), Huawei, 5220-S-L-96G-AC, OceanStor 5220, 2U, Dual Controllers, SAS, AC\\240V HVDC, 96GB Cache, 8*1Gb ETH, 4*10Gb ETH (Including Multi-Mode SFP+), 4*SAS3.0 port, 12*3.5 Inch SAS, LIC-5220-AP"
   },
   {
@@ -358,7 +358,7 @@ export const СИСТЕМЫ_ХРАНЕНИЯ_ДАННЫХ = [
     "price": 4380761,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Система хранения данных (не укомплектована дисками), Huawei, D2020-64G-SAS-AC 01, OceanStor Dorado 2020, 2U, Dual Controllers, SAS, AC\\240V HVDC, 64GB Cache, 8*1Gb ETH, 4*10Gb ETH (Including Multi-Mode SFP+), 4*SAS3.0 port, 25*2.5 Inch SAS, LIC-2020-SAN-AD"
   },
   {
@@ -370,7 +370,8 @@ export const СИСТЕМЫ_ХРАНЕНИЯ_ДАННЫХ = [
     "price": 3486412,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Система хранения данных, Lenovo, ThinkSystem DE4000H Hybrid Flash Array, 64GB Cache, 2U24 SFF V2, 7Y75A00TWW"
   }
 ];
+

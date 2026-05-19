@@ -10,7 +10,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 131189,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, PTL-2K-LCD, Мощность 2000ВА/1400Вт,, PTL-серия, LCD\\Tel.line\\USB(Smart), Диапазон работы AVR: 145-275В, Бат.: 12В/7.5Ah*4шт., Вентилятор: 8см*1шт., 3 вых., Чёрный"
   },
   {
@@ -22,7 +22,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 150426,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, PTL-3K-LCD, Мощность 3000ВА/2100Вт, PTL-серия, LCD\\Tel.line\\USB(Smart), Диапазон работы AVR: 145-275В, Бат.: 12В/9Ah*4шт., Вентилятор: 8см*1шт., 3 вых., Чёрный"
   },
   {
@@ -34,7 +34,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 281290,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, PTL-5K-LCD, Мощность 5000ВА/4000Вт, PTL-серия, LCD\\Tel.line\\USB(Smart), Диапазон работы AVR: 145-275В, Бат.: 12В/17Ah*4шт., 3 вых. + клеммная колодка, Чёрный"
   },
   {
@@ -46,7 +46,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 97541,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, PT-1K-LCD, Мощность 1000ВА/1000Вт, PT-серия, On-Line, LСD\\USB\\RS-232, SMART, Диапазон работы AVR: 115-300В, Бат.: 12В/7Ah*2шт., Вентилятор: 8см*1шт., 2 вых., Чёрный"
   },
   {
@@ -58,7 +58,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 168737,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, PT-2K-LCD, Мощность 2000ВА/2000Вт, PT-cерия, On-Line, LCD\\USB\\RS-232, SMART, Диапазон работы AVR: 115-300В, Бат.: 12В/7.5Aч*6шт., Вентилятор: 8см*2шт., 4 вых., Чёрный"
   },
   {
@@ -70,7 +70,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 186431,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, PT-3K-LCD, Мощность 3000ВА/3000Вт, PT-серия, On-Line, LCD\\USB\\RS-232, SMART, Диапазон работы AVR: 115-300В, Бат.: 12В/9Ач*6шт., Вентилятор: 8см*2шт., 3 вых Shuko CEE7+клеммная колодка., Чёрный"
   },
   {
@@ -82,7 +82,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 240047,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, PTS-3KLN-LCD, Мощность 3000ВА/3000Вт, PTS-серия, On-Line, LCD\\Интелектуальный слот\\RS-232, USB порт, Диапазон работы AVR: 110-300В, Бат.: 12В/9Ah*8шт., Вентилятор: 8см*1шт., 3 вых. Schuko CEE7, Чёрный, замена модели PTS-3KL-LCD"
   },
   {
@@ -94,7 +94,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 398554,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, PT-6K-LCD, Мощность 6000ВА/6000Вт, PT-серия, On-Line, LCD\\USB\\RS-232, SMART, Диапазон работы AVR: 110-300В, Бат.: 12В/7Ач*16шт., 2 вых. Shuko CEE7+клеммная колодка, Вентилятор: 12см*2шт., Чёрный"
   },
   {
@@ -106,7 +106,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 448373,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, PT-10K-LCD, Мощность 10кВА/10кВт, PT-серия, On-Line, LCD\\USB\\RS-232, SMART, EPO, Диапазон работы AVR: 110-300В, 2 вых. Shuko CEE7+клеммная колодка, Бат.: 12В/7Ач*16шт., Вентилятор: 12см*2шт., Чёрный"
   },
   {
@@ -118,7 +118,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 116400,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, PTS-1KLN-LCD, Мощность 1000ВА/1000Вт, PTS-серия, On-Line, LCD\\Интелектуальный слот\\RS-232, USB порт, Диапазон работы AVR: 110-300В, Бат.: 12В/9Ah*3шт., Вентилятор: 8см*1шт., 2вых. Schuko CEE7, Чёрный, замена модели PTS-1KL-LCD"
   },
   {
@@ -130,7 +130,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 197880,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, PTS-2KLN-LCD, Мощность 2000ВА/2000Вт, PTS-серия, On-Line, LCD\\Интелектуальный слот\\RS-232, USB порт, Диапазон работы AVR: 110-300В, Бат.: 12В/9Ah*6шт., Вентилятор: 8см*1шт., 2вых. Schuko CEE7, Чёрный, замена модели PTS-2KL-LCD"
   },
   {
@@ -142,7 +142,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 516916,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, PTS-6KL-LCD, Мощность 6кВА/6кВт, PTS-серия, On-Line, LCD\\RS-232, SMART, Диапазон работы AVR: 110-288В, Бат.: 12В/7Ач*16шт., Клеммная колодка, Вентилятор: 12см*1шт., Чёрный"
   },
   {
@@ -154,7 +154,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 654181,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, PTS-10KL-LCD, Мощность 10кВА/10кВт, PTS-серия, On-Line, LCD\\RS-232, SMART, Диапазон работы AVR: 110-288В, Бат.: 12В/9Ач*16шт., Клеммная колодка, Вентилятор: 12см*1шт., Чёрный"
   },
   {
@@ -166,7 +166,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 118478,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, PTX-1KLN-LCD, Мощность 1000ВА/1000Вт, PTX-серия, On-Line, LCD\\Интелектальный слот\\USB\\RS-232, USB порт, Диапазон работы AVR: 110-300В, Батареи: 3 шт., не поставляются в комплекте, внешнее подключение, 2 вых. Shuko CEE7, Чёрный, замена модели PTX-1KL-LCD"
   },
   {
@@ -178,7 +178,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 118478,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, PTX-1KL-LCD, Мощность 1000ВА/900Вт, PTX-серия, On-Line, LCD\\Tel.line\\USB\\RS-232 технология SMART, Диапазон работы AVR: 110-288В, Батареи: 3 шт., не поставляются в комплекте, внешнее подключение, 2 вых. Shuko CEE7, Чёрный"
   },
   {
@@ -190,7 +190,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 153802,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, PTX-2KLN-LCD, Мощность 2000ВА/2000Вт, PTX-серия, On-Line, LCD\\Интелектальный слот\\USB\\RS-232, USB порт, Диапазон работы AVR: 110-300В, Батареи: 6 шт., не поставляются в комплекте, внешнее подключение, 2 вых. Shuko CEE7, Чёрный, замена модели PTX-2KL-LCD"
   },
   {
@@ -202,7 +202,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 223864,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, PTX-3KLN-LCD, Мощность 3000ВА/3000Вт, PTX-серия, On-Line, LCD\\Интелектальный слот\\USB\\RS-232, USB порт, Диапазон работы AVR: 110-300В, Батареи: 8 шт., не поставляются в комплекте, внешнее подключение, 3 вых. Shuko CEE7, Чёрный, замена модели PTX-3KL-LCD"
   },
   {
@@ -214,7 +214,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 378105,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, PTX-6KL-LCD, Мощность 6000ВА/6000Вт, PTX-серия, On-Line, LCD\\Tel.line\\USB\\RS-232 технология SMART, Диапазон работы AVR: 110-288В, Батареи: 16шт., не поставляются в комплекте, внешнее подключение, Клемная колодка, Чёрный"
   },
   {
@@ -226,7 +226,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 434038,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, PTX-10KL-LCD, Мощность 10кВА/10кВт, PTX-серия, On-Line, LCD\\Tel.line\\USB\\RS-232 технология SMART, Диапазон работы AVR: 110-288В, Батареи: 16 шт., не поставляются в комплекте, внешнее подключение, Клеммная колодка, Чёрный"
   },
   {
@@ -238,7 +238,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 192050,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, CyberPower, PR1000ELCD, Мощность 1000ВА/900Вт, PR-серия, Линейно-интерактивный, Напольный, LCD/Smart/USB/RS-232/EPO, AVR: 150-301В, АКБ: 12В/12Ач*2 шт., Вых: 8xIEC C13, Чёрный"
   },
   {
@@ -250,7 +250,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 1068154,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, CyberPower, OLS6KE, Мощность 6000ВА/6000Вт, OLS-серия, On-line, Напольный, Color LCD/Smart/HID USB/RS-232/EPO/Cloud Card/Parallel card/RelayDryContact/Ручной байпас, AVR: 110-300В, АКБ: 12В/7Ач*20шт, Вых: Клеммный блок, Чёрный"
   },
   {
@@ -262,7 +262,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 209510,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, CyberPower, OLS1000EA, Мощность 1000ВА/900Вт, OLS-серия, On-line, Напольный, Color LCD/Smart/USB/RS-232/EPO, AVR: 160-300В, АКБ: 12В/7Ач*3шт, Вых: 4xIEC C13,Чёрный"
   },
   {
@@ -274,7 +274,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 370530,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, CyberPower, PR3000ELCDSL, Мощность 3000ВА/2700Вт, PR-серия, Линейно-интерактивный, Напольный, LCD/Smart/USB/RS-232/EPO, AVR: 151-296 В, АКБ: 12В/9Ач*4 шт., Вых: 8xIEC C13/1xIEC C19, Чёрный"
   },
   {
@@ -286,7 +286,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 1256140,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, CyberPower, OLS10KE, Мощность 10000ВА/10000Вт, OLS-серия, On-line, Напольный, Color LCD/Smart/HID USB/RS-232/EPO/Cloud Card/Parallel card/RelayDryContact/Ручной байпас, AVR: 110-300В, АКБ: 12В/9Ач*20шт, Вых: Клеммный блок, Чёрный"
   },
   {
@@ -298,7 +298,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 217852,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, CyberPower, OLS1500E, Мощность 1500ВА/1350Вт, OLS-серия,On-Line, Напольный, LCD/Smart/USB/RS-232/EPO, AVR: 160-300В, АКБ: 12В/9Ач*3 шт, Вых: 4xIEC C13, Чёрный"
   },
   {
@@ -310,7 +310,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 303600,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, CyberPower, OLS2000E, Мощность 2000ВА/1800Вт, OLS-серия, On-Line, Напольный, LCD/Smart/USB/RS-232/EPO, AVR: 160-300В, АКБ: 12В/7Ач*6 шт., Вых: 4xIEC C13/Клеммный блок, Чёрный"
   },
   {
@@ -322,7 +322,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 324853,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, CyberPower, OLS3000EA, Мощность 3000ВА/2700Вт, OLS-серия, Ol-Line, Напольный, LCD/Smart/USB/RS-232/EPO/Relay, AVR: 190-300В, АКБ: 12В/9Ач х 6, Вых: 6xIEC C13/1xIEC C19/Клеммный блок, Чёрный"
   },
   {
@@ -334,7 +334,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 185221,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, APC, Easy UPS SRV1KI, Онлайн, Мощность 1000ВА/800Вт, Напольный, 230В, Вых: 3x IEC C13, Intelligent Card Slot, LCD, APCRBCV203, Чёрный"
   },
   {
@@ -346,7 +346,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 811281,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, APC, Easy UPS SRV6KI, Онлайн, Мощность 6000ВА/6000Вт, Напольный, 230В, Вых: клеммная колодка, Intelligent Card Slot, LCD, 16шт * 7Ач, Чёрный"
   },
   {
@@ -358,7 +358,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 1414119,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, APC, Easy UPS SRV10KI, Онлайн, Мощность 10000ВА/10000Вт, Напольный, 230В, Вых: клеммная колодка, Intelligent Card Slot, LCD, 16шт * 9Ач, Чёрный"
   },
   {
@@ -370,7 +370,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 383906,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, APC, Easy UPS SRV1KIL, Комплект: SRVPM1KIL-1шт, SRV36BP-9A-1шт, Онлайн, Мощность 1000ВА/800Вт, Напольный, 230В, Вых: 3x IEC C13, Intelligent Card Slot, LCD, Extended runtime, Чёрный"
   },
   {
@@ -382,7 +382,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 601700,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, APC, Easy UPS SRV2KIL, Комплект: SRVPM2KIL-1шт, SRV72BP-9A-1шт, Онлайн, Мощность 2000ВА/1600Вт, Напольный, 230В, Вых: 4x IEC C13, Intelligent Card Slot, LCD, Extended runtime, Бат.блок: SRV72BP-9A, Чёрный"
   },
   {
@@ -394,7 +394,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 709046,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, APC, Easy UPS SRV3KIL, Комплект: SRVPM3KIL-1шт, SRV72BP-9A-1шт, Онлайн, Мощность 3000ВА/2400Вт, Напольный, 230В, Вых: 6x IEC C13 + 1x IEC C19, Intelligent Card Slot, LCD, Extended runtime, Чёрный"
   },
   {
@@ -406,7 +406,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 382625,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, APC, Smart-UPS SMT750IC, Линейно-интерактивный, Напольный, Мощность 750ВА/500Вт, 230В, Вых: 6 x IEC C13, RBC48, SmartConnect Port+SmartSlot, AVR, LCD, Чёрный"
   },
   {
@@ -418,7 +418,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 453462,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, APC, Smart-UPS SMT1000IC, Линейно-интерактивный, Напольный, Мощность 1000ВА/700Вт, 230В, Вых: 8 x IEC C13, RBC6, SmartConnect Port+SmartSlot, AVR, LCD, Чёрный"
   },
   {
@@ -430,7 +430,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 605844,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, APC, Smart-UPS SMT1500IC, Линейно-интерактивный, Мощность 1500ВА/1000Вт, Напольный, 230В, Вых: 8 x IEC C13, RBC7, SmartConnect Port+SmartSlot, AVR, LCD, Чёрный"
   },
   {
@@ -442,7 +442,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 1135133,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, APC, Smart-UPS SMT2200IC, Линейно-интерактивный, Мощность 2200ВА/1980Вт, Напольный, 230В, Вых: 8 x IEC C13, 1 x IEC C19, RBC55, SmartConnect Port+SmartSlot, AVR, LCD, Чёрный"
   },
   {
@@ -454,7 +454,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 797761,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, APC, Smart-UPS SMT3000IC, Линейно-интерактивный, Мощность 3000ВА/2700Вт, Напольный, 230В, Вых: 8 x IEC C13, 2 x IEC C19, RBC55, SmartConnect Port+SmartSlot, AVR, LCD, Чёрный"
   },
   {
@@ -466,7 +466,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 794349,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, APC, Smart-UPS SRT1000XLI, Онлайн, Мощность 1000ВА/1000Вт, Напольный, 230В, Вых: 6x C13, APCRBC155, Чёрный"
   },
   {
@@ -478,7 +478,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 927750,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, APC, Smart-UPS SRT1500XLI, Онлайн, Мощность 1500ВА/1500Вт, Напольный, 230В, Вых: 6x C13, APCRBC155, Чёрный"
   },
   {
@@ -490,7 +490,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 1991582,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, APC, Smart-UPS SRT5KXLI, Онлайн, Мощность 5000ВА/4500Вт, Напольный, 230В, Вых: 6x C13+4x C19 IEC, APCRBC140, Network Card+SmartSlot, Extended runtime, Чёрный"
   },
   {
@@ -502,7 +502,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 2441852,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, APC, Smart-UPS SRTG6KXLI, Онлайн, Мощность 6000ВА/6000Вт, Стоечный 4U, 230В, Вых: 2x IEC C13+1x IEC C19+клеммная колодка, APCRBC170, Network Card, W/O rail kit, Чёрный"
   },
   {
@@ -514,7 +514,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 3792275,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, APC, Smart-UPS SRTG10KXLI, Комплект: SRTG10KXLI-PM-1шт, SRTG192XLBP4-1шт, Онлайн, Мощность 10000ВА/10000Вт, Стоечный 5U, 230В, Вых: 2x IEC C13+1x IEC C19+клеммная колодка, APCRBC174, Network Card, W/O rail kit, Чёрный"
   },
   {
@@ -526,7 +526,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 6294325,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, APC, Smart-UPS SRTG15KXLI, Комплект: SRTG15KXLI-PM-1шт, SRTG192XLBP2-1шт, Онлайн, Мощность 15кВА/15кВт, 7U, клеммная колодка, Чёрный"
   },
   {
@@ -538,7 +538,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 6908621,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, APC, Smart-UPS SRTG20KXLI, Онлайн, Мощность 20кВА/20кВт, 230 В/380 В...415 В, жесткий кабель, 5 проводов (3P+N+E)+3 провода (1P+N+E), сетевая плата, без монтажного набора"
   },
   {
@@ -550,7 +550,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 1048508,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, Schneider Electric, Easy UPS SRVS10KI, Онлайн, Мощность 10000ВА/10000Вт, Напольный, 230В, Вых: клеммная колодка, Intelligent Card Slot, LCD, 16шт * 9Ач, Чёрный"
   },
   {
@@ -562,7 +562,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 318201,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, Schneider Electric, Easy UPS SRVS1KIL, Комплект:SRVSPM1KIL-1шт, SRVS36BP-9A-1шт, Онлайн, Мощность 1000ВА/800Вт, Напольный, 230В, Вых: 3x IEC C13, Intelligent Card Slot, LCD, Extended Runtime, Чёрный"
   },
   {
@@ -574,7 +574,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 503612,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, Schneider Electric, Easy UPS SRVS2KIL, Комплект: SRVSPM2KIL-1шт, SRVS72BP-9A-1шт, Онлайн, Мощность 2000ВА/1600Вт, Напольный, 230В, Вых: 4x IEC C13, Intelligent Card Slot, LCD, Extended Runtime, Бат.блок: SRVS72BP-9A, Чёрный"
   },
   {
@@ -586,7 +586,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 594006,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, Schneider Electric, Easy UPS SRVS3KIL, Комплект: SRVSPM3KIL- 1шт, SRVS72BP-9A-1шт, Онлайн, Мощность 3000ВА/2400Вт, Напольный, 230В, Вых: 6x IEC C13, 1 x IEC C19, Intelligent Card Slot, LCD, Extended Runtime, Чёрный"
   },
   {
@@ -598,7 +598,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 1223127,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, Schneider Electric, Easy UPS SRVS10KIL, Комплект: SRVSPM10KIL-1шт, SRVS240BP-9A-1шт, Онлайн, Мощность 10000ВА/10000Вт, Напольный, 230В, Вых: клеммная колодка, Intelligent Card Slot, LCD, Extended Runtime, Чёрный"
   },
   {
@@ -610,7 +610,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 1373132,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, Legrand, Keor S, Мощность 3000ВА/2400Вт, Онлайн, Напольный, ЖК/USB/RS-232/SNMP, Диапазон работы AVR:165-280В, Бат.: 12В/12Ач.*18 шт., Чёрный"
   },
   {
@@ -622,7 +622,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 2911011,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, Legrand, Keor S 6 kВA 17' 310128, Мощность 6000ВА/5400Вт, Онлайн, Напольный, ЖК/SNMP/RS-232, Диапазон работы AVR:195-280В, Бат.: 12В/12Ач.*20 шт., Чёрный"
   },
   {
@@ -634,7 +634,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 292830,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, Legrand, Keor SPE TOWER 1000ВА 311061, Мощность 1000ВА/800Вт, Линейно-интерактивный, Напольный, ЖК/USB/RS-23, Диапазон работы AVR:175-288В, Бат.: 12В/9Ач.*2 шт., Вых: 2 х 4*IEC C13 , Чёрный"
   },
   {
@@ -646,7 +646,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 184295,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, Eaton, 5SC1000i, Напольный, Мощность 1000ВА/700Вт, Диапазон работы AVR: 184-276В, Бат.: 12В/9 Ач*2шт., Чистая синусойда, 8 вых.: 8 IEC C13 (10A), Smart, USB-B, RS232, SNMP слот, LCD, ABM, Цвет Чёрный"
   },
   {
@@ -658,7 +658,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 245201,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, Eaton, 5SC1500i, Напольный, Мощность 1500ВА/1050Вт, Диапазон работы AVR: 184-276В, Бат.: 12В/9 Ач*3шт., Чистая синусойда, 8 вых.: 8 IEC C13 (10A), Smart, USB-B, RS232, SNMP слот, LCD, ABM, Цвет Чёрный"
   },
   {
@@ -670,7 +670,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 465437,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, Eaton, 9SX1000I, Онлайн, Напольный, Мощность 1000ВА/900Вт, Диапазон работы AVR: 190-276В (с возможностью регулировки до 120-276В), Бат.: 12В/9 Ач*3шт., Чистая синусойда, 6 вых.: 6 IEC C13 (10А), Smart, USB-B, RS232, SNMP слот, LCD, ABM, Цвет Чёрный"
   },
   {
@@ -682,7 +682,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 632495,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, Eaton, 9SX1500I, Онлайн, Напольный, Мощность 1500ВА/1350Вт, Диапазон работы AVR: 190-276В (с возможностью регулировки до 120-276В), Бат.: 12В/9 Ач*4шт., Чистая синусойда, 6 вых.: 6 IEC C13 (10А), Smart, USB-B, RS232, SNMP слот, LCD, ABM, Цвет Чёрный"
   },
   {
@@ -694,7 +694,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 994447,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, Eaton, 9SX3000I, Онлайн, Напольный, Мощность 3000ВА/2700Вт, Диапазон работы AVR: 200-276В (с возможностью регулировки до 140-276В), Бат.: 12В/9 Ач*8шт., Чистая синусойда, 9 вых.: 8 IEC C13 (10А) и 1 IEC C19 (16А), Smart, USB-B, RS232, SNMP слот, LCD, ABM, Цвет Чёрный"
   },
   {
@@ -706,7 +706,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 538351,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, Eaton, 9E3000I, Онлайн, Напольный, Мощность 3000ВА/2400Вт, Диапазон работы AVR: 176-300В (с возможностью регулировки до 100-300В), Бат.: 12В/9 Ач*6шт., Чистая синусойда, 7 вых.: 6 IEC C13 (10А) и 1 IEC C19 (16А), Smart, USB-B, RS232, SNMP слот, LCD, ABM, Цвет Чёрный"
   },
   {
@@ -718,7 +718,7 @@ export const НАПОЛЬНЫЕ = [
     "price": 1841595,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, Eaton, 9E10Ki, Онлайн, Напольный, Фазы: 1:1 / 3:1, Мощность 10000ВА/8000Вт, Диапазон работы AVR: 176-276В (с возможностью регулировки до 100-276В), Бат.: 12В/9 Ач*20шт., Чистая синусойда, Клемная колодка, Smart, USB-B, RS232, SNMP слот, LCD, ABM, Цвет Чёрный"
   },
   {
@@ -730,7 +730,8 @@ export const НАПОЛЬНЫЕ = [
     "price": 3797196,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, Eaton, 9E20Ki, Онлайн, Напольный, Фазы: 1:1 / 3:1, Мощность 20000ВА/16000Вт, Диапазон работы AVR: 176-276В (с возможностью регулировки до 100-276В), Бат.: 12В/9 Ач*40шт., Чистая синусойда, Клемная колодка, Smart, USB-B, RS232, SNMP слот, LCD, ABM, Цвет Чёрный"
   }
 ];
+

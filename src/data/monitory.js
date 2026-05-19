@@ -10,7 +10,7 @@ export const MONITORY = [
     "price": 39430,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, X-game, T215, 21.5\", VA, 1920x1080, 75 Гц, 16:9, 250 кд/м2, 1000:1, 5 мс, 178/178, 16.7 млн., VGA*1, HDMI*1, Аудиовход*1, VESA 75*75 мм, кабель HDMI в комплекте, Чёрный"
   },
   {
@@ -22,7 +22,7 @@ export const MONITORY = [
     "price": 44619,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, X-game, 1T238IPS, 23.8\", IPS, 1920x1080, 100 Гц, 16:9, 250 кд/м2, 1000:1, 5 мс, 178/178, 16.7 млн., DP*1, VGA*1, HDMI*1, Аудиовход*1, VESA 75*75 мм, кабель HDMI в комплекте, Чёрный"
   },
   {
@@ -34,7 +34,7 @@ export const MONITORY = [
     "price": 56773,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, X-game, OFLED27, 27\", IPS, 1920x1080, 75 Гц, 16:9, 250 кд/м2, 1000:1, 4 мс, 178/178, 16.7 млн., VGA*1, HDMI*1, Аудиовход*1, Динамики 2x2 Вт, VESA 100*100 мм, кабель HDMI в комплекте, Чёрный"
   },
   {
@@ -46,7 +46,7 @@ export const MONITORY = [
     "price": 58190,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, X-game, OFLED27+ , 27\", IPS, 1920x1080, 100 Гц, 16:9, 250 кд/м2, 1000:1, 4 мс, 178/178, 16.7 млн., VGA*1, HDMI*1, Аудиовход*1, Динамики 2x2 Вт, VESA 100*100 мм, кабель HDMI в комплекте, Чёрный"
   },
   {
@@ -58,7 +58,7 @@ export const MONITORY = [
     "price": 84283,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, XG, Crimson X 165HZ, 27\", IPS, 1920*1080, 165 Гц, 16:9, 250 кд/м2, 1000:1, 1 мс, 178/178, 16.7 млн., DP*1, HDMI*1, DVI*1, Аудиовыход*1, Динамики 2x2 Вт, VESA 100*100 мм, кабель DP в комплекте, Чёрный"
   },
   {
@@ -70,7 +70,7 @@ export const MONITORY = [
     "price": 96990,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, XG, Crimson X White 180HZ, 27\", IPS, 2560x1440, 180 Гц, 16:9, 300 кд/м2, 1000:1, 1 мс, 178/178, 16.7 млн., DP*2, HDMI*2, Аудиовыход*1, Динамики 2x2 Вт, VESA 100*100 мм, Регулировка высоты/наклона/поворота, кабель DP в комплекте, Белый"
   },
   {
@@ -82,7 +82,7 @@ export const MONITORY = [
     "price": 86330,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, XG, XG Darknet X 240HZ, 27\", VA, 1920x1080, 240 Гц, 16:9, 250 кд/м2, 3000:1, 1 мс, 178/178, 16.7 млн., DP*2, HDMI*2, Аудиовыход*1, Динамики 2x2 Вт, VESA 100*100 мм, кабель DP в комплекте, Чёрный"
   },
   {
@@ -94,7 +94,7 @@ export const MONITORY = [
     "price": 135800,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, XG, Darknet Pro 360HZ, 27\", IPS, 1920x1080, 360 Гц, 16:9, 300 кд/м2, 1000:1, 1 мс, 178/178, 16.7 млн., DP*2, HDMI*2, Аудиовыход*1, Динамики 2x2 Вт, VESA 100*100 мм, кабель DP в комплекте, Чёрный"
   },
   {
@@ -106,7 +106,7 @@ export const MONITORY = [
     "price": 358900,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, XG, OLED27, 27\", 2560x1440, OLED-матрица, 240 Гц, 16:9, 300 кд/м2, 150000:1 , 0.1 мс, 178/178, 1.07 млрд., DP*1, HDMI*2, USB 3.0*2, USB type-C*1, Аудиовыход*1, Динамики 2x2 Вт, кабели DP/USB/USB type-C в комплекте, Чёрный"
   },
   {
@@ -118,7 +118,7 @@ export const MONITORY = [
     "price": 37820,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Dahua, DHI-LM22-A211Y, 21.45\", 1920x1080, IPS, 100 Гц, 16:9, 250 кд/м2, 1000:1, 10 мс, 178/178, 16.7 млн., VGA*1, HDMI*1, VESA 75*75 мм, кабель HDMI в комплекте, Чёрный"
   },
   {
@@ -130,7 +130,7 @@ export const MONITORY = [
     "price": 43284,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Dahua, DHI-LM22-B200S, 21.45\", 1920x1080, VA, 100 Гц, 16:9, 250 кд/м2, 3000:1, 5 мс, 178/178, 16.7 млн., VGA*1, HDMI*1, VESA 75*75 мм, кабель HDMI в комплекте, Чёрный"
   },
   {
@@ -142,7 +142,7 @@ export const MONITORY = [
     "price": 57705,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Dahua, DHI-LM24-B200S, 23.8\", 1920x1080, VA, 100 Гц, 16:9, 250 кд/м2, 4000:1, 5 мс, 178/178, 16.7 млн., VGA*1, HDMI*1, Аудиовыход*1, Динамики 2x1 Вт, кабель HDMI в комплекте, Чёрный"
   },
   {
@@ -154,7 +154,7 @@ export const MONITORY = [
     "price": 97337,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Dahua, DHI-LM24-P301A, 23.8\", 2560x1440, IPS, 100 Гц, 16:9, 300 кд/м2, 1300:1, 5 мс, 178/178, 16.7 млн., DP*1, HDMI*1, USB-C*1, Аудиопорт, VESA 75*75 мм, Регулировка высоты/наклона/вращения/поворота, кабели HDMI/USB-C в комплекте, Чёрный"
   },
   {
@@ -166,7 +166,7 @@ export const MONITORY = [
     "price": 109853,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Dahua, DHI-LM27-P301A, 27\", 2560x1440, IPS, 100 Гц, 16:9, 350 кд/м2, 1000:1, 5 мс, 178/178, 16.7 млн., DP*1, HDMI*1, USB-C*1, Аудиопорт, VESA 75*75 мм, Регулировка высоты/наклона/вращения/поворота, кабели HDMI/USB-C в комплекте, Чёрный"
   },
   {
@@ -178,7 +178,7 @@ export const MONITORY = [
     "price": 61100,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Dahua, DHI-LM25-B200BS, 24.5\", 1920x1080, VA, 100 Гц, 16:9, 250 кд/м2, 3000:1, 5 мс, 178/178, 16.7 млн., VGA*1, HDMI*1, Динамики 2x1 Вт, VESA 75*75 мм, кабель HDMI в комплекте, Чёрный"
   },
   {
@@ -190,7 +190,7 @@ export const MONITORY = [
     "price": 75747,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Dahua, DHI-LM27-B200S, 27\", 1920x1080, VA, 100 Гц, 16:9, 250 кд/м2, 4000:1, 5 мс, 178/178, 16.7 млн., VGA*1, HDMI*1, Аудиовыход*1, Динамики 2x1 Вт, VESA 75*75 мм, кабель HDMI в комплекте, Чёрный"
   },
   {
@@ -202,7 +202,7 @@ export const MONITORY = [
     "price": 124053,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Dahua, DHI-LM32-F200, 31,5\", 1920x1080, IPS, 60 Гц, 16:9, 240 кд/м2, 1400:1, 8 мс, 178/178, 16.7 млн., VGA*1, HDMI*1, USB*1, Динамики 2x8 Вт, VESA 75*75 мм, кабель HDMI в комплекте, Чёрный"
   },
   {
@@ -214,7 +214,7 @@ export const MONITORY = [
     "price": 162950,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Dahua, DHI-LM43-F200, 43\", 1920x1080, IPS, 60 Гц, 16:9, 330 кд/м2, 1200:1, 8 мс, 178/178, 16.7 млн., VGA*1, HDMI*1, USB 2.0*1, Динамики 2x8 Вт, VESA 400*200 мм, кабель HDMI в комплекте, Чёрный"
   },
   {
@@ -226,7 +226,7 @@ export const MONITORY = [
     "price": 242490,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Dahua, DHI-LM43-F400, 43\", 3840x2160, IPS, 60 Гц, 16:9, 350 кд/м2, 4000:1, 9.5 мс, 178/178, 16.7 млн., VGA*1, HDMI*2, USB 2.0*1, Динамики 2x6 Вт, VESA 200*200 мм, кабель HDMI в комплекте, Чёрный"
   },
   {
@@ -238,7 +238,7 @@ export const MONITORY = [
     "price": 602360,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Dahua, DHI-LM49-S400, 49\", 3840x2160, IPS, 60 Гц, 16:9, 450 кд/м2, 1000:1, 8 мс, 178/178, 1.07 млрд., DP*1, VGA*1, HDMI*2, USB*1, Аудиовход*1, Динамики 2x5 Вт, VESA 400*400 мм, кабель HDMI в комплекте, Чёрный"
   },
   {
@@ -250,7 +250,7 @@ export const MONITORY = [
     "price": 387903,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Dahua, DHI-LM55-F400, 55\", 3840x2160, IPS, 60 Гц, 16:9, 300 кд/м2, 1200:1, 8 мс, 178/178, 16.7 млн., VGA*1, HDMI*2, USB 2.0*1, Аудиовход*1, Динамики 2x7 Вт, VESA 200*200 мм, кабель HDMI в комплекте, Чёрный"
   },
   {
@@ -262,7 +262,7 @@ export const MONITORY = [
     "price": 41700,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Xiaomi, A22i, A22FAB-RAGL, 21.45\", 1920x1080, VA, 75 Гц, 16:9, 250 кд/м2, 3000:1, 178/178, 16.7 млн., VGA*1, HDMI*1, VESA 75*75 мм, кабель HDMI в комплекте, Чёрный"
   },
   {
@@ -274,7 +274,7 @@ export const MONITORY = [
     "price": 47520,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Xiaomi, A24i, P24FBA-RAGL, 23.8\", 1920x1080, IPS, 100 Гц, 16:9, 250 кд/м2, 1000:1, 6 мс, 178/178, 16.7 млн., DP*1, HDMI*1, VESA 75*75 мм, кабель HDMI в комплекте, Чёрный"
   },
   {
@@ -286,7 +286,7 @@ export const MONITORY = [
     "price": 63040,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Xiaomi, G24i 2026, P24FDA-RGGL, 23.8\", 1920x1080, IPS, 200 Гц, 16:9, 400 кд/м2, 1000:1, 1 мс, 178/178, 16.7 млн., DP*1, HDMI*1, Аудиопорт*1, VESA 75*75 мм, Регулировка наклона, кабель HDMI в комплекте, Чёрный"
   },
   {
@@ -298,7 +298,7 @@ export const MONITORY = [
     "price": 60130,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Xiaomi, G24i, P24FCA-RGGL, 23.8\", 1920x1080, IPS, 180 Гц, 16:9, 250 кд/м2, 1000:1, 1 мс, 178/178, 16.7 млн., DP*1, HDMI*1, Аудиопорт*1, VESA 75*75 мм, кабель HDMI в комплекте, Чёрный"
   },
   {
@@ -310,7 +310,7 @@ export const MONITORY = [
     "price": 67890,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Xiaomi, G27i, P27FBB-RGGL, 27\", 1920x1080, IPS, 165 Гц, 16:9, 250 кд/м2, 1000:1, 1 мс, 178/178, 16.7 млн., DP*1, HDMI*1, Аудиопорт*1, VESA 75*75 мм, кабель HDMI в комплекте, Чёрный"
   },
   {
@@ -322,7 +322,7 @@ export const MONITORY = [
     "price": 58190,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Xiaomi, A27i, P27FBA-RAGL, 27\", 1920x1080, IPS, 100 Гц, 16:9, 250 кд/м2, 1000:1, 6 мс, 178/178, 16.7 млн., DP*1, HDMI*1, VESA 75*75 мм, кабель HDMI в комплекте, Чёрный"
   },
   {
@@ -334,7 +334,7 @@ export const MONITORY = [
     "price": 140640,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Xiaomi, A27Ui, P27UCB-RAGL, 27\", 3840x2160, IPS, 60 Гц, 16:9, 360 кд/м2, 1200:1, 6 мс, 178/178, 1.07 млрд., DP*1, HDMI*2, USB2.0*2, USB-C*1, Аудиопорт*1, VESA 75*75 мм, Регулировка высоты/наклона/вращения/поворота, кабели HDMI/USB-C в комплекте, Чёрный"
   },
   {
@@ -346,7 +346,7 @@ export const MONITORY = [
     "price": 72740,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Xiaomi, A27Qi, P27QCA-RAGL, 27\", 2560x1440, IPS, 100 Гц, 16:9, 250 кд/м2, 1000:1, 6 мс, 178/178, 16.7 млн., DP*1, HDMI*1, Аудиопорт*1, VESA 75*75 мм, кабель HDMI в комплекте, Чёрный"
   },
   {
@@ -358,7 +358,7 @@ export const MONITORY = [
     "price": 77590,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Xiaomi, G27i 2026, P27FDA-RGGL, 27\", 1920x1080, IPS, 200 Гц, 16:9, 400 кд/м2, 1000:1, 1 мс, 178/178, 16.7 млн., DP*1, HDMI*1, Аудиопорт*1, VESA 75*75 мм, Регулировка наклона, кабель HDMI в комплекте, Чёрный"
   },
   {
@@ -370,7 +370,7 @@ export const MONITORY = [
     "price": 96990,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Xiaomi, G27Qi, P27QCA-RGGL, 27\", 2560x1440, IPS, 180 Гц, 16:9, 300 кд/м2, 1000:1, 1 мс, 178/178, 16.7 млн., DP*2, HDMI*2, Аудиопорт*1, VESA 75*75 мм, кабель DP в комплекте, Чёрный"
   },
   {
@@ -382,7 +382,7 @@ export const MONITORY = [
     "price": 82440,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Xiaomi, A27Qi 2026, P27QDA-RAGL, 27\", 2560x1440, IPS, 120 Гц, 16:9, 250 кд/м2, 1000:1, 6 мс, 178/178, 16.7 млн., DP*1, HDMI*1, Аудиопорт*1, DC jack x1, VESA 75*75 мм, кабель HDMI в комплекте, Чёрный"
   },
   {
@@ -394,7 +394,7 @@ export const MONITORY = [
     "price": 184290,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Xiaomi, G Pro 27i, P27QBA-RGPGL, 27\", 2560x1440, IPS, 180 Гц, 16:9, 1000 кд/м2, 1000:1, 1 мс, 178/178, 16.7 млн., DP*2, HDMI*2, Аудиопорт*1, VESA 75*75 мм, кабель DP в комплекте, Чёрный"
   },
   {
@@ -406,7 +406,7 @@ export const MONITORY = [
     "price": 106690,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Xiaomi, G27Qi 2026, P27QDB-RGGL, 27\", 2560x1440, IPS, 200 Гц, 16:9, 300 кд/м2, 1000:1, 1 мс, 178/178, 16.7 млн., DP*2, HDMI*2, Аудиопорт*1, DC jack x 1, VESA 75*75 мм, кабель DP в комплекте, Чёрный"
   },
   {
@@ -418,7 +418,7 @@ export const MONITORY = [
     "price": 232790,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Xiaomi, 4K Monitor 27\", XMMNT27NU, 27\", 3840x2160, IPS, 60 Гц, 16:9, 400 кд/м2, 1000:1, 6 мс, 178/178, 1.07 млрд., DP*1, HDMI*2, USB*2, USB-C*1, Аудиопорт*1, VESA 75*75 мм, Регулировка наклона/поворота/высоты, Чёрный"
   },
   {
@@ -430,7 +430,7 @@ export const MONITORY = [
     "price": 160040,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Xiaomi, G34WQi, C34WQBA-RGGL, 34\", Изогнутый, 3440x1440, VA, 180 Гц, 21:9, 350 кд/м2, 4000:1, 1 мс, 178/178, 16.7 млн., DP*2, HDMI*2, Аудиопорт*1, VESA 75*75 мм, Регулировка наклона/поворота/высоты, кабель DP в комплекте, Чёрный"
   },
   {
@@ -442,7 +442,7 @@ export const MONITORY = [
     "price": 74935,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Gamemax, GMX24C144, 14100900604, 23.6\", Изогнутый, 1920x1080, TFT TN, 144 Гц, 16:9, 250 кд/м2, 3000:1, 1 мс, 178/178, 16.7 млн., DVI*1, DP*1, HDMI*1, Аудиовход*1, кабели DP/HDMI в комплекте, Чёрный"
   },
   {
@@ -454,7 +454,7 @@ export const MONITORY = [
     "price": 136097,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Gigabyte, GS27QA EU, 27\", 2560x1440, IPS, 180 Гц, 16:9, 300 кд/м2, 1000:1, 1 мс, 16.7 млн., 178/178, HDMI*2, DP*1, Аудиопорт*1, встроенный БП, VESA 100*100 мм, Регулировка наклона, кабель DP в комплекте, Чёрный"
   },
   {
@@ -466,7 +466,7 @@ export const MONITORY = [
     "price": 232790,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Gigabyte, M27Q3, 27\", 2560x1440, IPS, 300 Гц/OC 320 Гц, 16:9, 400 кд/м2, 1000:1, 1 мс, 16.7 млн., 178/178, HDMI*2, DP*1, USB 3.0*2, USB-C*1, Аудиопорт*1, VESA 100*100 мм, Регулировка наклона, кабели HDMI/DP/USB в комплекте, Чёрный"
   },
   {
@@ -478,7 +478,7 @@ export const MONITORY = [
     "price": 121561,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, ZOWIE, XL2411K, 9H.LJPLB.QBE, 24\", 1920x1080, TN, 144 Гц, 16:9, 320 кд/м2, 1000:1, 1 мс, 16.7 млн., 178/178, HDMI*3, DP*1, Аудиопорт*1, встроенный БП, VESA 100*100 мм, Регулировка высоты/наклона/вращения/поворота, S Switch (5-way), кабель DP в комплекте, Чёрный"
   },
   {
@@ -490,7 +490,7 @@ export const MONITORY = [
     "price": 168877,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, ZOWIE, XL2731K, 9H.LKCLB.QBE, 27\", 1920x1080, TN, 165 Гц, 16:9, 320 кд/м2, 1000:1, 1 мс, 16.7 млн., 178/178, HDMI*3, DP*1, Аудиопорт*1, встроенный БП, VESA 100*100 мм, Регулировка высоты/наклона/вращения/поворота, S Switch (5-way), кабель DP в комплекте, Чёрный"
   },
   {
@@ -502,7 +502,7 @@ export const MONITORY = [
     "price": 782780,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, ZOWIE, XL2586X+, 9H.LN8LB.QBE, 24.5\", 1920x1080, TN, 600 Гц, 16:9, 320 кд/м2, 1000:1, 0.5 мс, 16.7 млн., 178/178, HDMI*3, DP*1, Аудиопорт*1, встроенный БП, VESA 100*100 мм, Регулировка высоты/наклона/вращения/поворота, S Switch (5-way), кабели HDMI/DP в комплекте, Чёрный"
   },
   {
@@ -514,7 +514,7 @@ export const MONITORY = [
     "price": 484990,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, ZOWIE, XL2566X+, 9H.LMRLB.QB, 24.1\", 1920*1080, TN, 400 Гц, 16:9, 320 кд/м2, 1000:1, 1 мс, 16.7 млн., 178/178, HDMI*3, DP*1, Аудиопорт*1, встроенный БП, VESA 100*100 мм, Регулировка высоты/наклона/вращения, S Switch (5-way), кабели HDMI/DP в комплекте, Чёрный"
   },
   {
@@ -526,7 +526,7 @@ export const MONITORY = [
     "price": 249280,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, HyperX, Armada 25 FHD Gaming Monitor, 64V61AA#ABB, 24.5\", Full HD, 1920х1080, IPS матрица, 240 Гц, 2*HDMI 2.0, DisplayPort, LED, 400 nits, 1000:1, 1 мс, угол обзора 178/178, 1*DisplayPort 1.4 кабель/1*HDMI 2.0 кабель/1*Кабель питания в комплекте, Чёрный"
   },
   {
@@ -538,7 +538,7 @@ export const MONITORY = [
     "price": 51410,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Samsung, LS24D304GAIXCI, Essential S3 FHD, 24\", 1920x1080, IPS, 100 Гц, 16:9, 250 кд/м2, 1000:1, 5 мс, 178/178, 16.7 млн., VGA*1, HDMI*1, VESA 100*100 мм, Регулировка наклона, кабель HDMI в комплекте, Чёрный"
   },
   {
@@ -550,7 +550,7 @@ export const MONITORY = [
     "price": 59160,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Samsung, LS24D364GAIXCI, Essential S3 FHD, 24\", Изогнутый, 1920x1080, VA, 100 Гц, 16:9, 250 кд/м2, 3000:1, 4 мс, 178/178, 16.7 млн., VGA*1, HDMI*1, Аудиопорт*1, VESA 75*75 мм, Регулировка наклона, кабель HDMI в комплекте, Чёрный"
   },
   {
@@ -562,7 +562,7 @@ export const MONITORY = [
     "price": 72740,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Samsung, LS24D400GAIXCI, Essential S4 FHD, 24\", 1920x1080, IPS, 100 Гц, 16:9, 250 кд/м2, 1000:1, 5 мс, 178/178, 16.7 млн., DP*1, HDMI*2, DP*1, Аудиопорт*1, VESA 100*100 мм, Регулировка высоты/наклона/вращения/поворота, кабель HDMI в комплекте, Чёрный"
   },
   {
@@ -574,7 +574,7 @@ export const MONITORY = [
     "price": 75369,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Samsung, LS24DG302EIXCI, Odyssey G3 FHD, 24, 1920x1080, VA, 180 Гц, 16:9, 250 кд/м2, 3000:1, 1 мс, 178/178, 16.7 млн., DP*1, HDMI*1, Аудиопорт*1, VESA 100*100 мм, Регулировка высоты/наклона/вращения/поворота, кабель DP в комплекте, Чёрный"
   },
   {
@@ -586,7 +586,7 @@ export const MONITORY = [
     "price": 87290,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Samsung, LS24DG300EIXCI, Odyssey G3 FHD, 24, 1920x1080, VA, 180 Гц, 16:9, 250 кд/м2, 3000:1, 1 мс, 178/178, 16.7 млн., DP*1, HDMI*1, Аудиопорт*1, VESA 100*100 мм, Регулировка высоты/наклона/вращения/поворота, кабель DP в комплекте, Чёрный"
   },
   {
@@ -598,7 +598,7 @@ export const MONITORY = [
     "price": 63438,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Samsung, LS27D304GAIXCI, Essential S3 FHD, 27\", 1920x1080, IPS, 100 Гц, 16:9, 250 кд/м2, 1000:1, 5 мс, 178/178, 16.7 млн., VGA*1, HDMI*1, VESA 100*100 мм, Регулировка наклона, кабель HDMI в комплекте, Чёрный"
   },
   {
@@ -610,7 +610,7 @@ export const MONITORY = [
     "price": 72740,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Samsung, LS27D364GAIXCI, Essential S3 FHD, 27\", Изогнутый, 1920x1080, VA, 100 Гц, 16:9, 250 кд/м2, 3000:1, 4 мс, 178/178, 16.7 млн., VGA*1, HDMI*1, Аудиопорт*1, VESA 75*75 мм, кабель HDMI в комплекте, Чёрный"
   },
   {
@@ -622,7 +622,7 @@ export const MONITORY = [
     "price": 155198,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Samsung, LS27CG510EIXCI, Odyssey G5, 27\", 2560*1440, VA, 165 Гц, 16:9, 300 кд/м2, 3000:1, 1 мс, 178/178, 16.7 млн., DP*1, HDMI*2, Аудиопорт*1, VESA 100*100 мм, Регулировка высоты/наклона/вращения/поворота, кабель DP в комплекте, Чёрный"
   },
   {
@@ -634,7 +634,7 @@ export const MONITORY = [
     "price": 101850,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Samsung, LS27DG302EIXCI, Odyssey G3 FHD, 27, 1920x1080, VA, 180 Гц, 16:9, 250 кд/м2, 3000:1, 1 мс, 178/178, 16.7 млн., DP*1, HDMI*1, Аудиопорт*1, VESA 100*100 мм, Регулировка высоты/наклона/вращения/поворота, кабель DP в комплекте, Чёрный"
   },
   {
@@ -646,7 +646,7 @@ export const MONITORY = [
     "price": 130940,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Samsung, LS27FG512EIXCI, 27\", 2560x1440, VA, 180 Гц, 16:9, 300 кд/м2, 1000:1, 1 мс, 178/178, 16.7 млн., DP*1, HDMI*2, Аудиопорт*1, VESA 100*100 мм, Регулировка высоты/наклона/вращения/поворота, кабель HDMI в комплекте, Чёрный"
   },
   {
@@ -658,7 +658,7 @@ export const MONITORY = [
     "price": 121153,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Samsung, Odyssey G4 LS27BG400EIXCI, 27”, 1920x1080, IPS, 240 Гц, DP (v1.2), 2*HDMI (v2.0), 400кд/м2, 1000:1, 1мс, Регулировка высоты/ наклона/ вращения/ поворота, 178/178, 16:9, 16.7М, Черный"
   },
   {
@@ -670,7 +670,7 @@ export const MONITORY = [
     "price": 166598,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Samsung, LS27D700EAIXCI, ViewFinity S7 4K, 27\", 3840*2160, IPS, 60 Гц, 16:9, 350 кд/м2, 1000:1, 5 мс, 178/178, 1.07 млрд., DP*1, HDMI*1, Аудиопорт*1, VESA 100*100 мм, Регулировка наклона, кабель HDMI в комплекте, Чёрный"
   },
   {
@@ -682,7 +682,7 @@ export const MONITORY = [
     "price": 191080,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Samsung, LS27D604UAIXCI, ViewFinity S6 QHD, 27\", 2560x1440, IPS, 100 Гц, 16:9, 350 кд/м2, 1000:1, 5 мс, 178/178, 1.07 млрд., DP*1, HDMI*1, USB*3, USB-C*1, Аудиопорт*1, VESA 100*100 мм, Регулировка высоты/наклона/вращения/поворота, кабели HDMI/USB-C в комплекте, Чёрный"
   },
   {
@@ -694,7 +694,7 @@ export const MONITORY = [
     "price": 230850,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Samsung, LS32D804UAIXCI, ViewFinity монитор S8 4K UHD, 32”, 3840*2160, VA, 60 Гц, 16:9, 350 кд/м2, 3000:1, 5 мс, 178/178, 1.07 млрд., DP*1, HDMI*1, USB-C*1, Аудиопорт*1, VESA 100*100 мм, Регулировка высоты/наклона/вращения/поворота, кабели HDMI/USB-C в комплекте, Черный"
   },
   {
@@ -706,7 +706,7 @@ export const MONITORY = [
     "price": 175560,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Samsung, ViewFinity S5 LS34C500GAIXCI, 34\", 3440x1440, VA, 100 Гц, DP (v1.2), 2*HDMI (v2.0), 3000:1, 300 кд/м, 5 мс, Регулировка наклона, 100x100, 178/178, 21:9, 1.07 млрд, Черный"
   },
   {
@@ -718,7 +718,7 @@ export const MONITORY = [
     "price": 247340,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Samsung, LS34C650UAIXCI, ViewFinity S6, 34\", Изогнутый, 3440x1440, VA, 100 Гц, 21:9, 350 кд/м2, 3000:1, 5 мс, 178/178, 1.07 млрд., DP*1, HDMI*1, USB-C*1, Аудиопорт*1, VESA 100*100 мм, кабели HDMI/USB-C в комплекте, Чёрный"
   },
   {
@@ -730,7 +730,7 @@ export const MONITORY = [
     "price": 217474,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Samsung, Odyssey G6 Smart LS27BG650EIXCI, 27”, 2560x1440, VA, 240 Гц, DP (v1.4), 2xHDMI (v2.1), 2xUSB, 350 кд/м, 2500:1, 1мс, Регулировка высоты/ наклона/ вращения/ поворота, 178/178, 16:9, Черный"
   },
   {
@@ -742,7 +742,7 @@ export const MONITORY = [
     "price": 300690,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Samsung, ViewFinity S8 4K LS37D802UAIXCI, 37\", 3840x2160, VA, 60 Гц, DP (v1.2), 2*HDMI (v2.0), USB-C, 3000:1, 350 кд/м, 5 мс, Регулировка наклона, 100x100, 178/178, 16:9, 1.07 млрд, Черный"
   },
   {
@@ -754,7 +754,7 @@ export const MONITORY = [
     "price": 630490,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Samsung, LS49C950UAIXCI, ViewFinity S9, 49\", Изогнутый, 5120x1440, VA, 120 Гц, 32:9, 350 кд/м2, 3000:1, 5 мс, 178/178, 1.07 млрд., DP*1, HDMI*2, USB-C*1, Динамики 2x5 Вт, VESA 100*100 мм, Регулировка высоты/наклона/вращения, Черный"
   },
   {
@@ -766,7 +766,7 @@ export const MONITORY = [
     "price": 1163990,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Samsung, LS57CG952NIXCI, Odyssey Neo G9, 57\", Изогнутый, 7680*2160, VA, 240 Гц, 32:9, 420 кд/м2, 2500:1, 1 мс, 178/178, 1.07 млрд., DP*1, HDMI*3, USB*2, Аудиопорт, VESA 100*100 мм, Регулировка высоты/наклона/вращения, кабели HDMI/DP/USB в комплекте, Белый"
   },
   {
@@ -778,7 +778,7 @@ export const MONITORY = [
     "price": 208540,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Samsung, LS27D804UAIXCI, ViewFinity S8 4K, 27\", 3840x2160, IPS, 60 Гц, 16:9, 350 кд/м2, 1000:1, 5 мс, 178/178, 1.07 млрд., DP*1, HDMI*1, USB*3, USB-C*1, Аудиопорт*1, VESA 100*100 мм, Регулировка высоты/наклона/вращения/поворота, кабель HDMI/USB-C в комплекте, Чёрный"
   },
   {
@@ -790,7 +790,7 @@ export const MONITORY = [
     "price": 93710,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, LG, 24GS65F-B, 23.8\", 1920x1080, IPS, 180 Гц, HDMI, DP, 300кд/м2, 1000:1, 16.7M, 1мс, угол обзора(гор/верт) 178/178, 16:9, Чёрный"
   },
   {
@@ -802,7 +802,7 @@ export const MONITORY = [
     "price": 71842,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, LG, 27MR400 Black, 27\", 1920x1080, IPS, 100 Гц, HDMI, D-Sub, 250кд/м2, 1300:1, 16.7М, 5мс, угол обзора(гор/верт) 178/178, 16:9, анти-бликовое покрытие, чёрный"
   },
   {
@@ -814,7 +814,7 @@ export const MONITORY = [
     "price": 103003,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, LG, 27GS65F-B, 27\", 1920x1080, IPS, 180 Гц, HDMI, DP, 300кд/м2, 1000:1, 16.7М, 1мс, угол обзора(гор/верт) 178/178, 16:9, Чёрный"
   },
   {
@@ -826,7 +826,7 @@ export const MONITORY = [
     "price": 131910,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, LG, 27QN600 Black, 27\", 2560x1440, IPS, 75 Гц, HDMI*2, DP, LED, 350кд/м2, 1000:1, 16.7М, 5мс, Регулировка наклона, угол обзора(гор/верт) 178/178, 16:9, Чёрный"
   },
   {
@@ -838,7 +838,7 @@ export const MONITORY = [
     "price": 132715,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, LG, 27GS60QC-B, 27\", 2560x1440, VA, 180 Гц, HDMI*2, DP*1, Аудиовыход, 300 кд/м2, 3000:1, 16.7M., 1мс, 178/178, 16:9, Черный"
   },
   {
@@ -850,7 +850,7 @@ export const MONITORY = [
     "price": 150340,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, LG, 27US500-W, 27\", 3840 x 2160, IPS, 60Гц, HDMI*2, DP, 300 кд/м, 1000:1, 1.07B, 5мс, угол обзора(гор/верт) 178/178, 16:9, Белый"
   },
   {
@@ -862,7 +862,7 @@ export const MONITORY = [
     "price": 242490,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, LG, 27UP850K-W, 27\", 3840x2160, IPS, 60 Гц, USB Type-C™, Аудиовыход, 400 кд/м2, 1200:1, 1.07млрд, 5мс, 178/178, 16:9, Белый"
   },
   {
@@ -874,7 +874,7 @@ export const MONITORY = [
     "price": 187428,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, LG, 27GS85Q-B, 27\", 2560x1440, IPS, 200 Гц, HDMI*2, DP*1, USB*3, Аудиовыход, 400 кд/м2, 1000:1, 1.07млрд., 1мс, 178/178, 16:9, Черный"
   },
   {
@@ -886,7 +886,7 @@ export const MONITORY = [
     "price": 670601,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, LG, 38WR85QC-W, 37.5\", 3840x1600, IPS, 144 Гц, HDMI*2, DP*1, USB*2, USB-C*1, 600 кд/м2, 1000:1, 1.07млрд, 1мс, 178/178, 21:9, Белый"
   },
   {
@@ -898,7 +898,7 @@ export const MONITORY = [
     "price": 193990,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, LG, 27BA65QB Black, 27\", 2560x1440, IPS, 100 Гц, HDMI, DP, USB x4, USB-C, 350кд/м2, 1000:1, 16.7М, 5мс, 178/178, 16:9, Чёрный"
   },
   {
@@ -910,7 +910,7 @@ export const MONITORY = [
     "price": 492015,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, LG, 27GS95QE-B, 26.5\", 2560x1440, OLED, 240 Гц, HDMI*2, DP*1, USB*3, Аудиовыход, 275 кд/м2, 1500000:1, 1.07млрд., 0.03мс, 178/178, 16:9, Черный"
   },
   {
@@ -922,7 +922,7 @@ export const MONITORY = [
     "price": 186805,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, LG, 32UR500-B, 31.5\", 3840x2160, VA, 60 Гц, HDMI*2, DP, 250кд/м2, 3000:1, 1.07B, 4мс, угол обзора(гор/верт) 178/178, 16:9, Черный"
   },
   {
@@ -934,7 +934,7 @@ export const MONITORY = [
     "price": 255100,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, LG, 32UN650K White, 31,5\", 3840x2160, IPS, 60 Гц, HDMI*2, DP, Динамики, 380кд/м2, 1000:1, 5 мс, угол обзора(гор/верт) 178/178, 16:9, Белый"
   },
   {
@@ -946,7 +946,7 @@ export const MONITORY = [
     "price": 343002,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, LG, 32UN880K-B, 31.5\", 3840x2160, IPS, 60 Гц, HDMI*2, DP*1, USB*2, USB-C*1, Динамики 5W x 2, 280 кд/м2, 1000:1, 1.07млрд, 5мс, 178/178, 16:9, Черный"
   },
   {
@@ -958,7 +958,7 @@ export const MONITORY = [
     "price": 238610,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, LG, 34WR55QK-B, 34\", 3440x1440, IPS, 100 Гц, HDMI*2, DP*1, USB*2, USB-C*1, Аудиовыход, 400 кд/м2, 1200:1, 16.7млн., 5мс, 178/178, 21:9, Черный"
   },
   {
@@ -970,7 +970,7 @@ export const MONITORY = [
     "price": 127306,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, ASRock, PG27QRT1B, 27\", VA, 2560x1440, 180 Гц, 1мс, 16:9, 300 кд/м, 178/178, 5000:1, HDMIx2, DPx1, Черный"
   },
   {
@@ -982,7 +982,7 @@ export const MONITORY = [
     "price": 84415,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, iiyama, ProLite XUB2492HSU-W6, XUB2492HSU-W6, 24\", 1920 x 1080, IPS, 100ГЦ, HDMI, DP, USB (v3.2 x4), 250 кд/м2, 1300:1, 0,4мс, Регулировка наклона/поворота/вращения/высоты, 100х100,178/178, 16:9, 16.7, Белый"
   },
   {
@@ -994,7 +994,7 @@ export const MONITORY = [
     "price": 113490,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, iiyama, ProLite PL2792Q XUB2792QSU-W6, XUB2792QSU-W6, 27\", IPS-матрица, 2560 x 1440, Белый"
   },
   {
@@ -1006,7 +1006,7 @@ export const MONITORY = [
     "price": 66920,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, iiyama, ProLite PL2293H, XU2293HSU-B7, 21.5\", 1920x1080, IPS, 100 Гц, HDMI, DP, USB 2.0, 300 кд/м, 1000:1, 1мс, 178/178, 16:9, Черный"
   },
   {
@@ -1018,7 +1018,7 @@ export const MONITORY = [
     "price": 67601,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, iiyama, ProLite PL2293H, XUB2293HSU-B7, 21.5\", 1920x1080, IPS, 100 Гц, HDMI, DP, USB 2.0, 300 кд/м, 1000:1, 1мс, 178/178, 16:9, Черный"
   },
   {
@@ -1030,7 +1030,7 @@ export const MONITORY = [
     "price": 60130,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, iiyama, ProLite PL2493HS, XU2493HSU-B7 A, 23.8\", 1920x1080, IPS, 100 Гц, HDMI*1, DP*1, USB*2, 300 кд/м2, 1300:1, 1мс, Регулировка наклона, 100х100 мм,178/178, 16:9, 16.7, Черный"
   },
   {
@@ -1042,7 +1042,7 @@ export const MONITORY = [
     "price": 66920,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, iiyama, ProLite PL2493HS, XUB2493HSU-B7 A, 23.8\", 2560x1440, IPS, 75 Гц, HDMI, Mini jack, DP, Speakers, 1000:1, 400 кд/м2, 5 мс, Регулировка наклона, 178/178, 16.7М, 16:9, Черный"
   },
   {
@@ -1054,7 +1054,7 @@ export const MONITORY = [
     "price": 67890,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, iiyama, ProLite, X2497HSU-B1, 23.8\", 1920x1080, IPS, 120Гц, 16:9, 350 кд/м, 1500:1, 4 мс, 178/178, HDMI*1, DP*1, USB A*2, USB C*2 , VESA 100*100 мм, Черный"
   },
   {
@@ -1066,7 +1066,7 @@ export const MONITORY = [
     "price": 71770,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, iiyama, ProLite, XB2497HSU-B1, 23.8\", 1920x1080, IPS, 120Гц, 16:9, 350 кд/м, 1500:1, 4 мс, 178/178, HDMI*1, DP*1, USB A*2, USB C*2 , VESA 100*100 мм, Черный"
   },
   {
@@ -1078,7 +1078,7 @@ export const MONITORY = [
     "price": 79530,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, iiyama, ProLite XB2497HSU-W1, 23.8\", 1920 x 1080, IPS, 120Гц, 16:9, 350 кд/м, 1500:1, 4 мс, 178/178, HDMI*1, DP*1, USB A*2, USB C*2 , VESA 100*100 мм, Черный"
   },
   {
@@ -1090,7 +1090,7 @@ export const MONITORY = [
     "price": 142580,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, iiyama, ProLite, XUB2797QSN-B2, 27\", 1920x1080, IPS, 100 Гц, HDMI, Mini jack, DP, USB (3.2 x4), USB-C, 1300:1, 300 кд/м?, 1мс, Регулировка наклона, 178/178, 16.7М, 16:9, Черный"
   },
   {
@@ -1102,7 +1102,7 @@ export const MONITORY = [
     "price": 90200,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, iiyama, ProLite X2797QSU-B1, 27\", 2560 x 1440, IPS, 75Гц, 16:9, 350 кд/м, 1000:1, 1 мс, 178/178, HDMI*2, DP*1, USB A*2, USB C*2 , VESA 100*100 мм, Черный"
   },
   {
@@ -1114,7 +1114,7 @@ export const MONITORY = [
     "price": 97960,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, iiyama, ProLite XB2797QSU-B1, 27\", 2560 x 1440, IPS, 75Гц, 16:9, 350 кд/м, 1000:1, 1 мс, 178/178, HDMI*2, DP*1, USB A*2, USB C*2 , VESA 100*100 мм, Черный"
   },
   {
@@ -1126,7 +1126,7 @@ export const MONITORY = [
     "price": 97960,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, iiyama, ProLite XB2797QSU-W1, 27\", 2560 x 1440, IPS, 75Гц, 16:9, 350 кд/м, 1000:1, 1 мс, 178/178, HDMI*2, DP*1, USB A*2, USB C*2 , VESA 100*100 мм, Черный"
   },
   {
@@ -1138,7 +1138,7 @@ export const MONITORY = [
     "price": 0,
     "stock": 50,
     "is_available": false,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, iiyama, ProLite PL2797QP, XUB2797QSNP-B1, 27\", 2560x1440, IPS, 16:9, 100 Гц, 300 кд/м, 1 мс, 16.7М, 1300:1, 178/178, HDMI*1, DP*1, USB*4, USB-C*1, Mini jack, высота/вращение/наклон/pivot, Черный"
   },
   {
@@ -1150,7 +1150,7 @@ export const MONITORY = [
     "price": 202650,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, iiyama, ProLite XUB2797UHSNP-B1, 27\", 3840x2160, IPS, 60 ГЦ, HDMI x1, DP x1, USB (v3.2 x4), USB-C x1, 350 кд/м2, 1300:1, 4 мс, Регулировка наклона/поворота, 178/178, 16:9, Черный"
   },
   {
@@ -1162,7 +1162,7 @@ export const MONITORY = [
     "price": 299720,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, iiyama, ProGraphic HB2701UHSNP-B1, 27\", 3840x2160, IPS, 16:9, 60 Гц, 450 кд/м, 4 мс, 3000:1, 178/178, HDMI*1, DP*1, USB-C*1, Черный"
   },
   {
@@ -1174,7 +1174,7 @@ export const MONITORY = [
     "price": 283748,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, iiyama, ProLite PL3497WQP, XCB3497WQSNP-B1, 34\", Изогнутый, 3440x1440, VA, 21:9, 120 Гц, 350 кд/м, 0.4 мс, 16.7М, 3000:1, 178/178, HDMI*2, DP*1, USB*4, USB-C*1, Mini jack, вращение/наклон, Черный"
   },
   {
@@ -1186,7 +1186,7 @@ export const MONITORY = [
     "price": 219210,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, iiyama, ProLite PL3293UH,XUB3293UHSN-B5, 31.5\", 3840x2160, IPS, 60 Гц, HDMI, DP, USB (v3.2 x2), 350 кд/м2, 1000:1, 4мс, Регулировка наклона/вращения/высоты, 100х100,178/178, 16:9, 16.7, Черный"
   },
   {
@@ -1198,7 +1198,7 @@ export const MONITORY = [
     "price": 231134,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, iiyama, ProLite PL3497WQP, XCB3497WQSNPH-B1, 34\", 3440x1440, VA, 21:9, 120 Гц, 350 кд/м, 0.4 мс, 16.7М, 3000:1, 178/178, HDMI*2, DP*1, USB*4, USB-C*1, Mini jack, Регулировка наклона/высоты, Черный"
   },
   {
@@ -1210,7 +1210,7 @@ export const MONITORY = [
     "price": 248154,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, iiyama, ProLite PL3494WQ, XCB3494WQSU-B1, 34\", Изогнутый, 3440x1440, VA, 21:9, 120 Гц, 350 кд/м?, 0.4 мс, 16.7М, 3000:1, 178/178, HDMI*2, DP*1, USB*4, USB-C*2, Mini jack, высота/вращение/наклон, Черный"
   },
   {
@@ -1222,7 +1222,8 @@ export const MONITORY = [
     "price": 418060,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, iiyama, ProGraphic HB3201UHSNP-B1, 31.5\", 3840x2160, IPS, 16:9, 60 Гц, 450 кд/м, 4 мс, 3000:1, 180/180, HDMI*1, DP*1, USB-C*1, Черный"
   }
 ];
+

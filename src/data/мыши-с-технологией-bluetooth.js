@@ -10,7 +10,7 @@ export const МЫШИ_С_ТЕХНОЛОГИЕЙ_BLUETOOTH = [
     "price": 4452,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Rapoo, M160 Silent, Оптическая, 1300dpi, Беспроводной, 2.4 Ггц., Bluetooth 3.0/4.0, Эффективная дистанция 10 м., Батарейки в комплекте, 1 x AA, Черный"
   },
   {
@@ -22,7 +22,7 @@ export const МЫШИ_С_ТЕХНОЛОГИЕЙ_BLUETOOTH = [
     "price": 4656,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Rapoo, M308 Silent, Оптическая, 1200/1600/2400 dpi, Беспроводной, 2.4 Ггц., Bluetooth 5.0, Эффективная дистанция 10 м., 1*АА, Батарейки в комплекте, Серый"
   },
   {
@@ -34,7 +34,7 @@ export const МЫШИ_С_ТЕХНОЛОГИЕЙ_BLUETOOTH = [
     "price": 4656,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Rapoo, M308 Silent, Оптическая, 1200/1600/2400 dpi, Беспроводной, 2.4 Ггц., Bluetooth 5.0, Эффективная дистанция 10 м., 1*АА, Батарейки в комплекте, Голубой"
   },
   {
@@ -46,7 +46,7 @@ export const МЫШИ_С_ТЕХНОЛОГИЕЙ_BLUETOOTH = [
     "price": 4656,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Rapoo, M308 Silent, Оптическая, 1200/1600/2400 dpi, Беспроводной, 2.4 Ггц., Bluetooth 5.0, Эффективная дистанция 10 м., 1*АА, Батарейки в комплекте, Розовый"
   },
   {
@@ -58,7 +58,7 @@ export const МЫШИ_С_ТЕХНОЛОГИЕЙ_BLUETOOTH = [
     "price": 5698,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Rapoo, M100 Silent, Оптическая, 1300dpi, Беспроводной, 2.4 Ггц., Bluetooth 3.0/4.0, Эффективная дистанция 10 м., Батарейки в комплекте, Тёмно-серый"
   },
   {
@@ -70,7 +70,7 @@ export const МЫШИ_С_ТЕХНОЛОГИЕЙ_BLUETOOTH = [
     "price": 5044,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Rapoo, M200 Silent, Оптическая, 1300dpi, Беспроводной, 2.4 Ггц., Bluetooth 3.0/4.0, Эффективная дистанция 10 м., 1*АА, Батарейки в комплекте, Черный"
   },
   {
@@ -82,7 +82,7 @@ export const МЫШИ_С_ТЕХНОЛОГИЕЙ_BLUETOOTH = [
     "price": 6431,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Rapoo, M350 Silent, Оптическая, колесо прокрутки,1600dpi, Bluetooth 3.0/4.0, Беспроводной 2.4 ГГц, Эффективная дистанция 10 м., Батарейки в комплекте, До 6 месяцев на одном заряде батареек, Тёмно серый"
   },
   {
@@ -94,7 +94,7 @@ export const МЫШИ_С_ТЕХНОЛОГИЕЙ_BLUETOOTH = [
     "price": 8915,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Rapoo, M300 Silent, 1600dpi, 2.4G, Bluetooth 3.0/4.0, Multi-mode, Беспроводной 2.4 ГГц, Эффективная дистанция 10 м., Батарейки в комплекте, До 12 месяцев на одном заряде батареек, Темно-серый"
   },
   {
@@ -106,7 +106,7 @@ export const МЫШИ_С_ТЕХНОЛОГИЕЙ_BLUETOOTH = [
     "price": 8915,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Rapoo, M300, Оптическая, колесо прокрутки,1600dpi, 2.4G, Bluetooth 3.0/4.0, Multi-mode, Беспроводной 2.4 ГГц, Эффективная дистанция 10 м., Батарейки в комплекте, До 12 месяцев на одном заряде батареек, Синий"
   },
   {
@@ -118,7 +118,7 @@ export const МЫШИ_С_ТЕХНОЛОГИЕЙ_BLUETOOTH = [
     "price": 10573,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Rapoo, M700 Silent, Оптическая, 1300 dpi, Беспроводной, 2.4 Ггц., Bluetooth 3.0/ 5.0, Эффективная дистанция 10 м., Литиевая встроенная батарея, Серый"
   },
   {
@@ -130,7 +130,7 @@ export const МЫШИ_С_ТЕХНОЛОГИЕЙ_BLUETOOTH = [
     "price": 12125,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Rapoo, MT550L, 1600dpi, Bluetooth 3.0/4.0, Беспроводной 2.4 ГГц, Эффективная дистанция 10 м., Батарейки в комплекте, 2 x AA, 7 х 10 х 4 см, Черный"
   },
   {
@@ -142,7 +142,7 @@ export const МЫШИ_С_ТЕХНОЛОГИЕЙ_BLUETOOTH = [
     "price": 16005,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Rapoo, MT560, 4000dpi, Bluetooth 5.0, Беспроводной 2.4 ГГц, Эффективная дистанция 10 м., Литиевая батарея, Черный"
   },
   {
@@ -154,7 +154,7 @@ export const МЫШИ_С_ТЕХНОЛОГИЕЙ_BLUETOOTH = [
     "price": 16005,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Rapoo, MT560, 4000dpi, Bluetooth 5.0, Беспроводной 2.4 ГГц, Эффективная дистанция 10 м., Литиевая батарея, Зеленый"
   },
   {
@@ -166,7 +166,7 @@ export const МЫШИ_С_ТЕХНОЛОГИЕЙ_BLUETOOTH = [
     "price": 16005,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Rapoo, MT560, 4000dpi, Bluetooth 5.0, Беспроводной 2.4 ГГц, Эффективная дистанция 10 м., Литиевая батарея, Лазурный"
   },
   {
@@ -178,7 +178,7 @@ export const МЫШИ_С_ТЕХНОЛОГИЕЙ_BLUETOOTH = [
     "price": 16005,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Rapoo, MT560, 4000dpi, Bluetooth 5.0, Беспроводной 2.4 ГГц, Эффективная дистанция 10 м., Литиевая батарея, Бежевый"
   },
   {
@@ -190,7 +190,7 @@ export const МЫШИ_С_ТЕХНОЛОГИЕЙ_BLUETOOTH = [
     "price": 13095,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Rapoo, MT560, 4000dpi, Bluetooth 5.0, Беспроводной 2.4 ГГц, Эффективная дистанция 10 м., Литиевая батарея, Бело фиолетовый"
   },
   {
@@ -202,7 +202,7 @@ export const МЫШИ_С_ТЕХНОЛОГИЕЙ_BLUETOOTH = [
     "price": 14065,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Rapoo, EV310M, Оптическая, 800/1200/1600/2000/2400 dpi, Беспроводной, 2.4 Ггц., Bluetooth 3.0/ 5.0, Эффективная дистанция 10 м., AA*1, Серый"
   },
   {
@@ -214,7 +214,7 @@ export const МЫШИ_С_ТЕХНОЛОГИЕЙ_BLUETOOTH = [
     "price": 19294,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Rapoo, MT750S, 3200dpi, Bluetooth 3.0/4.0, Multi-mode, Беспроводной 2.4 ГГц, Эффективная дистанция 12 м., Литиевая аккумуляторная батарея 450 мАч, Черный"
   },
   {
@@ -226,7 +226,7 @@ export const МЫШИ_С_ТЕХНОЛОГИЕЙ_BLUETOOTH = [
     "price": 20564,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Rapoo, MT760L, Оптическая, колесо прокрутки, 4000dpi, Bluetooth 3.0/4.0, Беспроводной 2.4 ГГц, Эффективная дистанция 10 м.,Литиевая батарейка, До 30 дней на одном заряде батареек, Белый"
   },
   {
@@ -238,7 +238,8 @@ export const МЫШИ_С_ТЕХНОЛОГИЕЙ_BLUETOOTH = [
     "price": 21340,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Компьютерная мышь, Rapoo, MT760L, Оптическая, колесо прокрутки, 4000dpi, Bluetooth 4.0/5.0, USB Type-A, Беспроводной 2.4 ГГц, Эффективная дистанция 10 м.,Литиевая батарейка, До 30 дней на одном заряде батареек, Чёрный"
   }
 ];
+

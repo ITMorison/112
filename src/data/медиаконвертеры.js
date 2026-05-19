@@ -10,7 +10,7 @@ export const МЕДИАКОНВЕРТЕРЫ = [
     "price": 25996,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Медиаконвертер, MikroTik, RBFTC11, 1xGbit LAN, PoE-IN 802.3af/at, 1 SFP, -40°C to 70°C"
   },
   {
@@ -22,7 +22,7 @@ export const МЕДИАКОНВЕРТЕРЫ = [
     "price": 17654,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Медиаконвертер, D-Link, DMC-G01LC/C1A, 1 порт 100/1000Base-T, 1 порт 100/1000Base-X SFP"
   },
   {
@@ -34,7 +34,7 @@ export const МЕДИАКОНВЕРТЕРЫ = [
     "price": 16092,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Медиаконвертер, TP-Link, MC220L, 1 порт SFP 10/100/1000 Мбит/с, 1 порт RJ45 10/100/1000 Мбит/с"
   },
   {
@@ -46,7 +46,7 @@ export const МЕДИАКОНВЕРТЕРЫ = [
     "price": 14346,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Медиаконвертер, TP-Link, FC111A-20, WDM, с 1 портом 10/100Base-TX и 1 портом 100Base-FX с разъемом SC (ТХ: 1550 нм. RX: 1310 нм) для одномодового оптического кабеля (до 20 км)"
   },
   {
@@ -58,7 +58,7 @@ export const МЕДИАКОНВЕРТЕРЫ = [
     "price": 14346,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Медиаконвертер, TP-Link, FC111B-20, WDM, с 1 портом 10/100Base-TX и 1 портом 100Base-FX с разъемом SC (ТХ: 1310 нм. RX: 1550 нм) для одномодового оптического кабеля (до 20 км)"
   },
   {
@@ -70,7 +70,7 @@ export const МЕДИАКОНВЕРТЕРЫ = [
     "price": 19293,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Медиаконвертер, TP-Link, MC100CM, Многомодовый 2 км, 1310нм, 1 порт 100 Mбит/с SC/UPC, 1 порт 100M RJ45 порт (Auto MDI/MDIX)"
   },
   {
@@ -82,7 +82,7 @@ export const МЕДИАКОНВЕРТЕРЫ = [
     "price": 19293,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Mедиаконвертер, TP-Link, MC110CS, 10/100 Мбит/с RJ45 - 100 Мбит/с разъём SC (одномодовый оптоволоконный кабель), полнодуплексный, до 20км, переключающийся адаптер питания, возможность установки в шасси"
   },
   {
@@ -94,7 +94,7 @@ export const МЕДИАКОНВЕРТЕРЫ = [
     "price": 23173,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Медиаконвертер, TP-Link, MC111CS, WDM, с 1 портом 10/100Base-TX и 1 портом 100Base-FX с разъемом SC (ТХ: 1550 нм. RX: 1310 нм) для одномодового оптического кабеля (до 20 км)"
   },
   {
@@ -106,7 +106,7 @@ export const МЕДИАКОНВЕРТЕРЫ = [
     "price": 23173,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Медиаконвертер, TP-Link, MC112CS, WDM, с 1 портом 10/100Base-TX и 1 портом 100Base-FX с разъемом SC (ТХ: 1310 нм. RX: 1550 нм) для одномодового оптического кабеля (до 20 км)"
   },
   {
@@ -118,7 +118,7 @@ export const МЕДИАКОНВЕРТЕРЫ = [
     "price": 24143,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Медиаконвертер, TP-Link, MC200CM, 1000 Мбит/с RJ45 - 1000 Мбит/с разъём SC (многомодовый оптоволоконный кабель), полнодуплексный, до 550м, переключающийся адаптер питания, возможность установки в шасси"
   },
   {
@@ -130,7 +130,7 @@ export const МЕДИАКОНВЕРТЕРЫ = [
     "price": 30060,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Медиаконвертер, TP-Link, MC210CS, 1 порт 1000Base-T и 1 порт 1000Base-LX с разъемом SC для одномодового оптического кабеля (до 15 км)"
   },
   {
@@ -142,7 +142,7 @@ export const МЕДИАКОНВЕРТЕРЫ = [
     "price": 18517,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Медиаконвертер, TP-Link, FC311A-2, WDM, с 1 портом 10/100/1000Base-T и 1 портом 1000Base-BX с разъемом SC (ТХ: 1550 нм. RX: 1310 нм) для одномодового оптического кабеля (до 2км)"
   },
   {
@@ -154,7 +154,7 @@ export const МЕДИАКОНВЕРТЕРЫ = [
     "price": 18517,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Медиаконвертер, TP-Link, FC311B-2, WDM, с 1 портом 10/100/1000Base-T и 1 портом 1000Base-BX с разъемом SC (ТХ: 1310 нм. RX: 1550 нм) для одномодового оптического кабеля (до 2км)"
   },
   {
@@ -166,7 +166,7 @@ export const МЕДИАКОНВЕРТЕРЫ = [
     "price": 18129,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Медиаконвертер, TP-Link, FC311A-20,1 Gigabit SC Fiber Port, 1 10/100/1000 Mbps RJ45 Port (Auto MDI/MDIX), 20 km, 1550 nm TX, 1310 nm RX, SM"
   },
   {
@@ -178,7 +178,7 @@ export const МЕДИАКОНВЕРТЕРЫ = [
     "price": 18129,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Медиаконвертер, TP-Link, FC311B-20, WDM, с 1 портом 10/100/1000 Мбит/с, с разъемом SC (ТХ: 1550 нм. RX: 1310 нм) для одномодового оптического кабеля (до 20 км)"
   },
   {
@@ -190,7 +190,7 @@ export const МЕДИАКОНВЕРТЕРЫ = [
     "price": 12125,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Медиаконвертер, А-Оптик, AO-MC-GE-SFP, 100/1000Base-T в 100/1000Base-FX Media Converter c SFP портом"
   },
   {
@@ -202,7 +202,7 @@ export const МЕДИАКОНВЕРТЕРЫ = [
     "price": 16684,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Медиаконвертер, А-Оптик, AO-MC-GE-20DB, SC SM 10/100/1000-Base-T / 100/1000Base-FX Media Converter, Tx1550nm/Rx1310nm, 20km"
   },
   {
@@ -214,7 +214,8 @@ export const МЕДИАКОНВЕРТЕРЫ = [
     "price": 16684,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Медиаконвертер, А-Оптик, AO-MC-GE-20DA, SC SM 10/100/1000-Base-T / 100/1000Base-FX Media Converter, Tx1310nm/Rx1550nm, 20km"
   }
 ];
+

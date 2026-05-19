@@ -10,7 +10,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 232790,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, Chuwi, Corebook Plus, 16\", FHD, 1920x1200, IPS, Ryzen 5-7430U, 16GB LPDDR4, 512GB SSD, AMD Radeon Graphics, Win 11 Home, Серый"
   },
   {
@@ -22,7 +22,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 290990,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, Chuwi, Corebook Air, 14\", FHD, 1920x1200, IPS, Ryzen 5-6600H, 16GB LPDDR5, 512GB SSD, AMD Radeon 660M, Win 11 Pro, Серый"
   },
   {
@@ -34,7 +34,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 310390,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, Chuwi, Corebook Air Plus, 16\", FHD, 1920x1200, IPS, Ryzen 5-6600H, 16GB LPDDR5, 512GB SSD, AMD Radeon 660M, Win 11 Pro, Серебро"
   },
   {
@@ -46,7 +46,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 737190,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, Gigabyte, Gaming A16 CWHI3KZ894SD, 9RGA6I77WHFHJK0KZ000, 16\", WUXGA 1920x1200, IPS, 165Hz, i7-13620H, 16GB DDR5, 1TB SSD Gen4, NVIDIA GeForce RTX5070, 8GB GDDR7, DOS, Черный"
   },
   {
@@ -58,7 +58,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 775990,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, Gigabyte, AERO X16 1VH93KZC94AD, 9REG6AB6VH2DJK0KZ000, 16\", WQXGA, 2560x1600, IPS, 165Hz, AMD Ryzen AI 7 350, 16G*1 DDR5, 1TB SSD Gen4, NVIDIA GeForce RTX5060, 8GB GDDR7, DOS, Серый"
   },
   {
@@ -70,7 +70,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 921490,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, Gigabyte AERO X16 1VH93KZC64AD, 9REG6AB6VH2DJH0KZ000, 16\", WQXGA 2560x1600, IPS, 165Hz, Ryzen AI 7 350, 32GB DDR5, 1TB SSD, NVIDIA GeForce RTX 5060, 8GB GDDR7, DOS, Серый"
   },
   {
@@ -82,7 +82,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 960290,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, Gigabyte, AERO X16 1WH93KZC64DH, 9REG6AB7WH1DJHEKZ000, 16\", QHD+, 2560x1600, IPS, 165Hz, AMD Ryzen AI 7 350 (Krachen R7), 32GB DDR5, 1TB SSD Gen4, NVIDIA GeForce RTX5070, 8GB GDDR7, Win 11 Home, Белый"
   },
   {
@@ -94,7 +94,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 1241590,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, Gigabyte AERO X16 1WH93KZC64DH, 9REG6AB7WH1DJHEKZ000, 16\", QHD+ 2560x1600, IPS, 165Hz, Ryzen AI 7 350, 32GB DDR5, 1TB SSD, NVIDIA GeForce RTX 5070, 8GB GDDR7, Windows 11, Белый"
   },
   {
@@ -106,7 +106,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 1416190,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, ASUS, ROG Strix G18 G815JPR-S9037, 90NR0LM1-M001C0, 18\",QHD 2560x1600, IPS, 240Hz, Core i9 14900HX, 32GB DDR5, 1TB SSD Gen4, NVIDIA GeForce RTX5070, 8GB GDDR7, DOS, Серый"
   },
   {
@@ -118,7 +118,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 1348290,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, ASUS, ROG Strix G16 G614PR-RV027, 90NR0NJ7-M001J0, 16\",FHD+ 1920x1200, IPS, 165Hz, AMD Ryzen 9 8940HX, 16GB DDR5, 1TB SSD Gen4, NVIDIA GeForce RTX5070 Ti, 12GB GDDR7, DOS, Серый"
   },
   {
@@ -130,7 +130,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 2715990,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, ASUS ProArt P16 H7606WX-SE002X, 90NB17E1-M000Y0, 16\",4K 3840x2400, OLED, 120Hz, Ryzen AI 9 HX 370, 64GB LPDDR5X, 2TB SSD Gen4*2, NVIDIA GeForce RTX5090, 24GB GDDR7, Windows 11 Pro, Черный, Рюкзак"
   },
   {
@@ -142,7 +142,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 678990,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, ASUS V16 V3607VM-RP121, 90NB16K1-M009Z0, 16\", FHD+ 1920x1200, IPS, 144Hz, Core 7 240H, 16GB DDR5, 512GB SSD M.2, NVIDIA GeForce RTX 5060, 8GB GDDR7, DOS, Черный"
   },
   {
@@ -154,7 +154,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 581990,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, ASUS V16 V3607VH-RP075, 90NB16L1-M006K0, 16\", FHD+ 1920x1200, IPS, 144Hz, Core 5 210H, 16GB DDR5, 512GB SSD M.2, NVIDIA GeForce RTX 5050, 8GB GDDR7, DOS, Черный"
   },
   {
@@ -166,7 +166,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 872990,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, ASUS, V16 V3607VP-RP059, 90NB16R1-M004L0, 16\", FHD+ 1920x1200, IPS, 144Hz, Core 5 210H, 32GB DDR5, 512GB SSD M.2, NVIDIA GeForce RTX 5070, 8GB GDDR7, DOS, Черный"
   },
   {
@@ -178,7 +178,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 436490,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, ASUS Vivobook 14 M1407GA-LY030, 90NB1702-M001F0, 14\", FHD+ 1920x1200, IPS, 60Hz, AMD Ryzen AI7445, 16GB DDR5, 1TB SSD M.2, AMD Radeon Graphics, DOS, Золотой"
   },
   {
@@ -190,7 +190,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 514090,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, ASUS Vivobook S14 S3407CA-LY014W, 90NB16J1-M00640, 14\", FHD+ 1920x1200, IPS, 60Hz, Core Ultra 5 225H, 16GB DDR5, 512GB SSD M.2, Intel Graphics, Windows 11 Home, Серебряный"
   },
   {
@@ -202,7 +202,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 223090,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, ASUS Vivobook Go 15 E1504FA-BQ056, 90NB0ZR1-M03ZF0, 15,6\",FHD 1920x1080, IPS, 60Hz, AMD Ryzen 3 7320U, 8GB LPDDR5, 256GB SSD Gen4, AMD Radeon Graphics, DOS, Серебристый"
   },
   {
@@ -214,7 +214,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 358890,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, ASUS Vivobook 15 X1504VA-BQ4055, 90NB13Y1-M01PX0, 15,6\",FHD 1920x1080, IPS, 60Hz, Core 5 120U, 16GB DDR5, 512GB SSD Gen4, Intel Graphics, DOS, Синий"
   },
   {
@@ -226,7 +226,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 378290,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, ASUS Vivobook 15 M1502NAQ-BQ048, 90NB1841-M001W0, 15,6\", FHD 1920x1080, IPS, 60Hz, Ryzen 7 170, 16GB DDR5, 512GB SSD M.2, AMD Radeon Graphics, DOS, Синий"
   },
   {
@@ -238,7 +238,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 407390,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, ASUS Vivobook 15 X1504VA-BQ4163, 90NB13Y1-M024B0, 15,6\",FHD 1920x1080, IPS, 60Hz, Core 7 150U, 16GB DDR5, 512GB SSD Gen4, Intel Graphics, DOS, Синий"
   },
   {
@@ -250,7 +250,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 446190,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, ASUS Vivobook 15 M1502NAQ-BQ026W, 90NB1841-M00CU0, 15,6\", FHD 1920x1080, IPS, 60Hz, Ryzen 7 170, 16GB DDR5, 512GB SSD M.2, AMD Radeon Graphics, Windows 11 Home, Синий"
   },
   {
@@ -262,7 +262,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 397690,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, ASUS Vivobook S16 M3607HA-SH086, 90NB16F2-M005R0, 16\",FHD 1920x1200, OLED, 60Hz, AMD Ryzen 5 220, 16GB DDR5, 512GB SSD Gen4, AMD Radeon Graphics, DOS, Серебристый"
   },
   {
@@ -274,7 +274,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 407390,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, ASUS Vivobook S16 S3607VA-RP097W, 90NB1671-M00770, 16\",FHD+ 1920x1200, IPS, 144Hz, Core 5 210H, 16GB DDR5, 512GB SSD Gen4, Intel UHD Graphics, Windows 11 Home, Серебристый"
   },
   {
@@ -286,7 +286,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 387990,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, ASUS Vivobook 17 X1704VA-AU1017, 90NB13X2-M00J00, 17,3\",FHD 1920x1080, IPS, 60Hz, Core 5 120U, 16GB DDR5, 512GB SSD Gen4, Intel UHD Graphics, DOS, Синий + Проводная мышь и сумка"
   },
   {
@@ -298,7 +298,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 630490,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, ASUS Vivobook 18 M1807GA-S8007, 90NB17Y1-M000K0, 18\", FHD+ 1920x1200, IPS, 144Hz, AMD Ryzen AI7445, 32GB DDR5, 1TB SSD M.2, AMD Radeon Graphics, DOS, Синий"
   },
   {
@@ -310,7 +310,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 581990,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, ASUS Zenbook 14 UM3406GA-QD134, 90NB17R1-M006M0, 14\", FHD+ 1920x1200, OLED, 60Hz, AMD Ryzen AI7445, 16GB LPDDR5X, 1TB SSD M.2, AMD Radeon Graphics, DOS, Черный"
   },
   {
@@ -322,7 +322,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 533490,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, ASUS Zenbook 14 UM3406GA-QD049, 90NB17R1-M00210, 14\", FHD+ 1920x1200, OLED, 60Hz, AMD Ryzen AI 5 430, 16GB LPDDR5X, 512GB SSD M.2, AMD Radeon Graphics, DOS, Черный"
   },
   {
@@ -334,7 +334,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 737190,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, ASUS Zenbook 14 UX3405CA-PP157W, 90NB14W2-M00LP0, 14\", 3K 2880x1800, OLED, 120Hz, Core Ultra 9 285H, 16GB LPDDR5X, 1TB SSD M.2, Intel Arc Graphics, Windows 11, Серебряный"
   },
   {
@@ -346,7 +346,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 969990,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, ASUS Zenbook S 16 UM5606GA-SS022W, 90NB17H2-M006F0, 16\", 3K 2880x1800, OLED, 120Hz, AMD Ryzen AI7445, 32GB LPDDR5X, 1TB SSD M.2, AMD Radeon Graphics, Windows 11, Белый"
   },
   {
@@ -358,7 +358,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 678990,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, ASUS TUF Gaming F16 FX608JHR-RV144, 90NR0NA1-M007N0, 16\", FHD 1920x1200, IPS, 165Hz, Core i5-14450HX, 16GB DDR5, 512GB SSD Gen4, NVIDIA GeForce RTX5050, 8GB GDDR7, DOS, Серый"
   },
   {
@@ -370,7 +370,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 805090,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, ASUS TUF Gaming F16 FX608JMR-RV170, 90NR0NB1-M009D0, 16\", FHD 1920x1200, IPS, 165Hz, Core i5-14450HX, 16GB DDR5, 512GB SSD Gen4, NVIDIA GeForce RTX5060, 8GB GDDR7, DOS, Серый"
   },
   {
@@ -382,7 +382,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 853590,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, ASUS TUF Gaming F16 FX608JMR-RV167, 90NR0NB1-M009A0, 16\", FHD+ 1920x1200, IPS, 165Hz, Core i7-14650HX, 32GB DDR5, 1TB SSD Gen4, NVIDIA GeForce RTX5060, 8GB GDDR7, DOS, Серый"
   },
   {
@@ -394,7 +394,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 1345380,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, ASUS, ROG Zephyrus G16 GU605CM-QR104, 90NR0M21-M00590, 16\",2.5K 2560x1600, OLED, 240Hz, Core Ultra 7 255H, 32GB LPDDR5X, 1TB SSD M.2, NVIDIA GeForce RTX 5060, 8GB GDDR7, DOS, Серый + Чехол"
   },
   {
@@ -406,7 +406,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 1488940,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, ASUS, ROG Flow Z13 GZ302EA-RU045W, 90NR0JY1-M002E0, 13,4\",2.5K 2560x1600, IPS, 180Hz, Ryzen AI MAX+395, 32GB LPDDR5X, 1TB SSD M.2, AMD Radeon 8060S, Windows 11 Home, Черный + Стилус, Чехол"
   },
   {
@@ -418,7 +418,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 814790,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, MSI, Cyborg 15 B2RWEKG-1052XKZ, MS-15Q3, 9S7-15Q342-1052, 15,6\", FHD 1920x1080, IPS, 144Hz, Intel Core 7 240H, 8GB*2 DDR5, 1TB SSD Gen5, NVIDIA GeForce RTX5050, 8GB GDDR7, DOS, Черный"
   },
   {
@@ -430,7 +430,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 872990,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, MSI, Cyborg 15 B2RWFKG-1051XKZ, MS-15Q3, 9S7-15Q342-1051, 15,6\", FHD 1920x1080, IPS, 144Hz, Intel Core 7 240H, 8GB*2 DDR5, 1TB SSD Gen5, NVIDIA GeForce RTX5060, 8GB GDDR7, DOS, Черный"
   },
   {
@@ -442,7 +442,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 848740,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, MSI, Cyborg 17 B2RWEKG-294XKZ, MS-17U3, 9S7-17U332-294, 17,3\", FHD 1920x1080, IPS, 144Hz, Intel Core 7 240H, 8GB*2 DDR5, 1TB SSD Gen5, NVIDIA GeForce RTX5050, 8GB GDDR7, DOS, Черный"
   },
   {
@@ -454,7 +454,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 1008790,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, MSI, Cyborg 17 B2RWGKG-288XKZ, MS-17U3, 9S7-17U332-288, 17,3\", FHD 1920x1080, IPS, 144Hz, Intel Core 7 240H, 8GB*2 DDR5, 1TB SSD Gen5, NVIDIA GeForce RTX5070, 8GB GDDR7, DOS, Черный"
   },
   {
@@ -466,7 +466,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 601390,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, MSI, Thin 15 B2RVE-3459XKZ, MS-16R8, 9S7-16R831-3459, 15,6\", FHD 1920x1080, IPS, 144Hz, Intel Core 5 210H, 16GB DDR4, 512GB SSD Gen5, NVIDIA GeForce RTX4050, 6GB GDDR6, DOS, Серый"
   },
   {
@@ -478,7 +478,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 649890,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, MSI, Thin 15 B2RVE-3458XKZ, MS-16R8, 9S7-16R831-3458, 15,6\", FHD 1920x1080, IPS, 144Hz, Intel Core 7 240H, 16GB DDR4, 512GB SSD Gen5, NVIDIA GeForce RTX4050, 6GB GDDR6, DOS, Серый"
   },
   {
@@ -490,7 +490,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 892390,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, MSI, Katana 15 HX B14WFK-1027XKZ, MS-1587, 9S7-1587C1-1027, 15,6\", FHD 1920x1080, IPS, 144Hz, Intel Core i5-14450HX, 16GB*2 DDR5, 1TB SSD Gen5, NVIDIA GeForce RTX5060, 8GB GDDR7, DOS, Черный"
   },
   {
@@ -502,7 +502,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 1348290,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, MSI, Katana HX 15 B14WGK-1025XKZ, MS-1587, 9S7-1587C1-1025, 15,6\", QHD 2560x1440, IPS, 165Hz, Intel Core i9-14900HX, 16GB*2 DDR5, 1TB SSD Gen5, NVIDIA GeForce RTX5070, 8GB GDDR7, DOS, Черный"
   },
   {
@@ -514,7 +514,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 887540,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, MSI, Katana 17 HX B14WFK-404XKZ, MS-17L7, 9S7-17L791-404, 17,3\", FHD 1920x1080, IPS, 144Hz, Intel Core i5-14450HX, 8GB*2 DDR5, 1TB SSD Gen5, NVIDIA GeForce RTX5060, 8GB GDDR7, DOS, Черный"
   },
   {
@@ -526,7 +526,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 936040,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, MSI, Katana 17 HX B14WFK-403XKZ, MS-17L7, 9S7-17L791-403, 17,3\", FHD 1920x1080, IPS, 144Hz, Intel Core i7-14650HX, 8GB*2 DDR5, 1TB SSD Gen5, NVIDIA GeForce RTX5060, 8GB GDDR7, DOS, Черный"
   },
   {
@@ -538,7 +538,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 1197940,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, MSI, Katana 17 HX B14WGK-401XKZ, MS-17L7, 9S7-17L791-401, 17,3\", QHD 2560x1440, IPS, 240Hz, Intel Core i7-14650HX, 16GB*2 DDR5, 1TB SSD Gen5, NVIDIA GeForce RTX5070, 8GB GDDR7, DOS, Черный"
   },
   {
@@ -550,7 +550,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 1348290,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, MSI, Katana 17 HX B14WGK-402XKZ, MS-17L7, 9S7-17L791-402, 17,3\", QHD 2560x1440, IPS, 240Hz, Intel Core i9-14900HX, 16GB*2 DDR5, 1TB SSD Gen5, NVIDIA GeForce RTX5070, 8GB GDDR7, DOS, Черный"
   },
   {
@@ -562,7 +562,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 1294940,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, MSI, Vector 16 HX AI A2XWHG-811XKZ, MS-15M3, 9S7-15M352-811, 16\", FHD+ 1920x1200, IPS, 144Hz, Intel Core Ultra 7 255HX, 8GB*2 DDR5, 1TB SSD Gen5, NVIDIA GeForce RTX5070 Ti, 12GB GDDR7, DOS, Серый"
   },
   {
@@ -574,7 +574,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 2133990,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, MSI, Vector 16 A2XWIG, MS-15M3, 9S7-15M352-036, 16\", QHD 2560x1600, IPS, 240Hz, Intel Core Ultra 9 275HX, 16GB*2 DDR5, 1TB SSD Gen5, NVIDIA GeForce RTX5080, 16GB GDDR7, DOS, Серый"
   },
   {
@@ -586,7 +586,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 1881790,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, MSI, Vector 16 HX A8WIG-074XKZ, MS-15MM, 9S7-15MM72-074, 16\", QHD+ 2560x1600, IPS, 240Hz, Ryzen 9 8940HX, 16GB*2 DDR5, 1TB SSD Gen5, NVIDIA GeForce RTX5080, 16GB GDDR7, DOS, Серый"
   },
   {
@@ -598,7 +598,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 2415290,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, MSI, Vector 17 HX AI A2XWJG-249XKZ, MS-17S3, 9S7-17S372-249, 17\", QHD+ 2560x1600, IPS, 240Hz, Intel Core Ultra 9 275HX, 16GB*2 DDR5, 1TB SSD Gen5, NVIDIA GeForce RTX5090, 24GB GDDR7, DOS, Серый"
   },
   {
@@ -610,7 +610,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 1765390,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, MSI, Vector 18 HX AI A2XWHG-1029XKZ, MS-1824, 9S7-1824B4-1029, 18\", QHD+ 2560x1600, IPS, 240Hz, Intel Core Ultra 9 275HX, 16GB*2 DDR5, 1TB SSD Gen5, NVIDIA GeForce RTX5070 Ti, 12GB GDDR7, DOS, Серый"
   },
   {
@@ -622,7 +622,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 2206740,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, MSI, Vector 18 HX AI A2XWIG-1028KZ, MS-1824, 9S7-1824B4-1028, 18\", QHD+ 2560x1600, IPS, 240Hz, Intel Core Ultra 9 275HX, 16GB*2 DDR5, 2TB SSD Gen5, NVIDIA GeForce RTX5080, 16GB GDDR7, Win 11, Серый"
   },
   {
@@ -634,7 +634,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 2492890,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, MSI, Vector 18 HX AI A2XWJG-1027XKZ, MS-1824, 9S7-1824B4-1027, 18\", QHD+ 2560x1600, IPS, 240Hz, Intel Core Ultra 9 275HX, 16GB*2 DDR5, 1TB SSD Gen5, NVIDIA GeForce RTX5090, 24GB GDDR7, DOS, Серый"
   },
   {
@@ -646,7 +646,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 3249490,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, MSI, Raider 18 HX AI A2XWJG-651KZ, MS-1824, 9S7-182462-651, 18\", UHD+ 3840x2400, MiniLED, 120Hz, Intel Core Ultra 9 285HX, 32GB*2 DDR5, 2TB SSD Gen5, NVIDIA GeForce RTX5090, 24GB GDDR7, Win 11, Черный"
   },
   {
@@ -658,7 +658,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 911790,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, MSI, Prestige 14 AI+ D3MG-096KZ, MS-14T2, 9S7-14T223-096, 14\", FHD+ 1920x1200, OLED, 60Hz, Intel Core Ultra 7 355H, 32GB LPDDR5X, 1TB SSD Gen5, Intel Arc Graphics, Win 11 , Серый"
   },
   {
@@ -670,7 +670,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 1115490,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": ""
   },
   {
@@ -682,7 +682,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 9699999,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": ""
   },
   {
@@ -694,7 +694,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 290990,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": ""
   },
   {
@@ -706,7 +706,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 0,
     "stock": 50,
     "is_available": false,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": ""
   },
   {
@@ -718,7 +718,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 0,
     "stock": 50,
     "is_available": false,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": ""
   },
   {
@@ -730,7 +730,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 569380,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": ""
   },
   {
@@ -742,7 +742,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 0,
     "stock": 50,
     "is_available": false,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": ""
   },
   {
@@ -754,7 +754,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 581990,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, Tecno, MEGABOOK S14MM, S14MM (71003300551), 14\", 3K, 2800x1600, OLED, Core Ultra 9 185H, 32GB LPDDR5x, 1TB SSD, Intel Arc graphics, Win 11 Home, Серый"
   },
   {
@@ -766,7 +766,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 290990,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, Tecno, MEGABOOK K15S, K15SRA (71005000466), 15.6\", FHD, 1920x1080, IPS, i5-13420H, 8GB DDR4, 256GB SSD, UHD Graphics, Win 11 Home, Серый"
   },
   {
@@ -778,7 +778,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 320090,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, Tecno, MEGABOOK K15S, K15SRA (71005000465), 15.6\", FHD, 1920x1080, IPS, i5-13420H, 8GB DDR4, 512GB SSD, UHD Graphics, Win 11 Home, Серый"
   },
   {
@@ -790,7 +790,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 349190,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, Tecno, MEGABOOK K15S, K15SRA (71005000261), 15.6\", FHD, 1920x1080, IPS, i5-13420H, 16GB DDR4, 512GB SSD, UHD Graphics, Win 11 Home, Серый"
   },
   {
@@ -802,7 +802,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 358890,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, Tecno, MEGABOOK K15S, K15SRA (71005000260), 15.6\", FHD, 1920x1080, IPS, i5-13420H, 16GB DDR4, 1TB SSD, UHD Graphics, Win 11 Home, Серый"
   },
   {
@@ -814,7 +814,7 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 387990,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, Tecno, MEGABOOK T16Pro, T16MA (71003300450), 16\", 2.5K WQXGA, 2560x1600, IPS, Ultra 5-125H, 16GB LPDDR5, 512GB SSD, Intel Arc Graphics, Win 11 Home, Серый"
   },
   {
@@ -826,7 +826,8 @@ export const NOUTBUKI_I_AKSESSUARY = [
     "price": 358890,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Ноутбук, Tecno, MEGABOOK K16S, K16SAA (71005000396), 16\", FHD, 1920x1080, IPS, i5-13420H, 16GB DDR4, 512GB SSD, UHD Graphics, Win 11 Home, Серый"
   }
 ];
+

@@ -10,7 +10,7 @@ export const VIDEOKARTY = [
     "price": 16286,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, AFOX, GT220 1GB D3 LP Single Fan (4897033780339), AF220-1024D3L2, DDR3, 128bit, HDMI, DVI, VGA, 155*70*19 мм, Цветная коробка"
   },
   {
@@ -22,7 +22,7 @@ export const VIDEOKARTY = [
     "price": 18129,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, AFOX, GT240 1GB D3 LP Single Fan (4897033784924), AF240-1024D3L2-V2, DDR3, 128bit, HDMI, DVI, VGA, 155*70*19 мм, Цветная коробка"
   },
   {
@@ -34,7 +34,7 @@ export const VIDEOKARTY = [
     "price": 18323,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, AFOX, GT610 2GB D3 LP Single Fan (4897033780421), AF610-2048D3L7-V6, DDR3, 64bit, HDMI, DVI, VGA, 146*70*15 мм, Цветная коробка"
   },
   {
@@ -46,7 +46,7 @@ export const VIDEOKARTY = [
     "price": 21233,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, AFOX, GT610 2GB D3 LP Single Fan (4897033780438), AF610-2048D3L7-V8, DDR3, 64bit, HDMI, DVI, VGA, 146*70*15 мм, Цветная коробка"
   },
   {
@@ -58,7 +58,7 @@ export const VIDEOKARTY = [
     "price": 24531,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, AFOX, GT710 2GB D3 LP Single Fan (4897033780520), AF710-2048D3L5-V3, DDR3, 64bit, HDMI, DVI, VGA, 146*70*22 мм, Цветная коробка"
   },
   {
@@ -70,7 +70,7 @@ export const VIDEOKARTY = [
     "price": 28508,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, AFOX, GT730 2GB D3 LP Single Fan (4897033780766), AF730-2048D3L6, DDR3, 128bit, HDMI, DVI, VGA, 150*70*19 мм, Цветная коробка"
   },
   {
@@ -82,7 +82,7 @@ export const VIDEOKARTY = [
     "price": 28508,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, AFOX, GT730 2GB D3 LP Single Fan (4897033784825), AF730-2048D3L5, DDR3, 128bit, HDMI, DVI, VGA, 150*70*19 мм, Цветная коробка"
   },
   {
@@ -94,7 +94,7 @@ export const VIDEOKARTY = [
     "price": 34328,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, AFOX, GT730 4GB D3 LP Single Fan (4897033782265), AF730-4096D3L5, DDR3, 128bit, HDMI, DVI, VGA, 150*70*19 мм, Цветная коробка"
   },
   {
@@ -106,7 +106,7 @@ export const VIDEOKARTY = [
     "price": 40245,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, AFOX, GT740 4GB D3 LP Single Fan (4897033780629), AF740-4096D3L3, DDR3, 128bit, HDMI, DVI, VGA, 145*70*20 мм, Цветная коробка"
   },
   {
@@ -118,7 +118,7 @@ export const VIDEOKARTY = [
     "price": 50527,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, AFOX, GT1030 4GB D4 LP Single Fan (4897033788618), AF1030-4096D4L2, DDR4, 64bit, HDMI, DVI, 145*69*20 мм, Цветная коробка"
   },
   {
@@ -130,7 +130,7 @@ export const VIDEOKARTY = [
     "price": 75262,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, AFOX, GTX1050 4GB D5 Dual Fan (4897033787888), AF1050-4096D5H4-V2, GDDR5, 128bit, DP, HDMI, DVI, 216*112*41 мм, Цветная коробка"
   },
   {
@@ -142,7 +142,7 @@ export const VIDEOKARTY = [
     "price": 83119,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, AFOX, GTX1050Ti GAMING 4GB D5 Dual Fan (4897033788540), AF1050TI-4096D5H7-V9, GDDR5, 128bit, DP, HDMI, DVI, 220*147*56 мм, Цветная коробка"
   },
   {
@@ -154,7 +154,7 @@ export const VIDEOKARTY = [
     "price": 83119,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, AFOX, GTX1050Ti GAMING 4GB D5 Dual Fan (4897033787307), AF1050TI-4096D5H7-V8, GDDR5, 128bit, DP, HDMI, DVI, 220*147*56 мм, Цветная коробка"
   },
   {
@@ -166,7 +166,7 @@ export const VIDEOKARTY = [
     "price": 114935,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, AFOX, GTX1650 SUPER GAMING 4GB D6 Dual Fan (4897033788564), AF1650S-4096D6H7-V2, GDDR6, 128bit, DP, HDMI, DVI, 225*130*40 мм, Цветная коробка"
   },
   {
@@ -178,7 +178,7 @@ export const VIDEOKARTY = [
     "price": 114935,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, AFOX, GTX1650 SUPER GAMING 4GB D6 Dual Fan (4897033785662), AF1650S-4096D6H3-V2, GDDR6, 128bit, DP, HDMI, DVI, 225*130*40 мм, Цветная коробка"
   },
   {
@@ -190,7 +190,7 @@ export const VIDEOKARTY = [
     "price": 122210,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, AFOX, GTX1660 SUPER 6GB D6 Dual Fan (4897033786713), AF1660S-6144D6H7-V2, GDDR6, 192bit, DP, HDMI, DVI, 225*130*40 мм, Цветная коробка"
   },
   {
@@ -202,7 +202,7 @@ export const VIDEOKARTY = [
     "price": 123374,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, AFOX, GTX1660 SUPER 6GB D6 Dual Fan (4897033784986), AF1660S-6144D6H4-V2, GDDR6, 192bit, DP, HDMI, DVI, 225*130*40 мм, Цветная коробка"
   },
   {
@@ -214,7 +214,7 @@ export const VIDEOKARTY = [
     "price": 123374,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, AFOX, GTX1660 SUPER 6GB D6 Dual Fan (4897033787215), AF1660S-6144D6H1-V4, GDDR6, 192bit, DP, HDMI, DVI, 225*130*40 мм, Цветная коробка"
   },
   {
@@ -226,7 +226,7 @@ export const VIDEOKARTY = [
     "price": 119009,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, AFOX, GTX1660Ti 6GB D6 Dual Fan (4897033787239), AF1660TI-6144D6H1-V4, GDDR6, 192bit, DP, HDMI, DVI, 225*130*40 мм, Цветная коробка"
   },
   {
@@ -238,7 +238,7 @@ export const VIDEOKARTY = [
     "price": 216688,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, AFOX, RTX3060 GAMING 12GB D6 Dual Fan (4897033787536), AF3060-12GD6H4-V4, GDDR6, 192bit, 3*DP, HDMI, 235*125*49 мм, Цветная коробка"
   },
   {
@@ -250,7 +250,7 @@ export const VIDEOKARTY = [
     "price": 49848,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, AFOX, Radeon RX 550 4GB D5 LP Singlel Fan (4897033787895), AFRX550-4096D5L2, GDDR5, 128bit, DVI, HDMI, DP, 160*70*20 мм, Цветная коробка"
   },
   {
@@ -262,7 +262,7 @@ export const VIDEOKARTY = [
     "price": 98348,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, AFOX, Radeon RX 580 GAMING 8GB Dual Fan (4897033786812), AFRX580-8192D5H3-V3, GDDR5, 256bit, HDMI, 2*DP, 225*125*46 мм, Цветная коробка"
   },
   {
@@ -274,7 +274,7 @@ export const VIDEOKARTY = [
     "price": 126090,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, PALIT, RTX3050 STORMX V1 6G (4710562244625), (NE63050018JE-1072F), GDDR6, 96bit, DP, DVI, HDMI, 162*117*40 мм, Цветная коробка"
   },
   {
@@ -286,7 +286,7 @@ export const VIDEOKARTY = [
     "price": 121531,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, PALIT, RTX3050 STORMX OC V1 6G (4710562244618), (NE63050S18JE-1072F), GDDR6, 96bit, DP, DVI, HDMI, 162*117*40 мм, Цветная коробка"
   },
   {
@@ -298,7 +298,7 @@ export const VIDEOKARTY = [
     "price": 212711,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, PALIT, RTX3060 DUAL 12G (4710562242423) LHR, (NE63060019K9-190AD), GDDR6, 192bit, 3-DP, HDMI, 245*119*40 мм, Цветная коробка"
   },
   {
@@ -310,7 +310,7 @@ export const VIDEOKARTY = [
     "price": 184969,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, PALIT, RTX5050 STORMX 8G (4710562245448), (NE65050019P1-GB2070F), GDDR6, 128bit, 3-DP, HDMI, 169.9*118*39.8 мм, Цветная коробка"
   },
   {
@@ -322,7 +322,7 @@ export const VIDEOKARTY = [
     "price": 191371,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, PALIT, RTX5050 STORMX OC 8G (4710562245431), (NE65050T19P1-GB2070F), GDDR6, 128bit, 3-DP, HDMI, 169.9*118*39.8 мм, Цветная коробка"
   },
   {
@@ -334,7 +334,7 @@ export const VIDEOKARTY = [
     "price": 192933,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, PALIT, RTX5050 DUAL 8G (4710562245400), NE65050019P1-GB2070D, GDDR6, 128bit, 3-DP, HDMI, 262.1*126.3*40.1 мм, Цветная коробка"
   },
   {
@@ -346,7 +346,7 @@ export const VIDEOKARTY = [
     "price": 187491,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, PALIT, RTX5050 DUAL OC 8G (4710562245394), NE65050S19P1-GB2070D, GDDR6, 128bit, 3-DP, HDMI, 262.1*126.3*40.1 мм, Цветная коробка"
   },
   {
@@ -358,7 +358,7 @@ export const VIDEOKARTY = [
     "price": 220859,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, PALIT, RTX5060 DUAL 8G (4710562245363), NE75060019P1-GB2063D, GDDR7, 128bit, 3-DP, HDMI, 262.1*126.3*40.1 мм, Цветная коробка"
   },
   {
@@ -370,7 +370,7 @@ export const VIDEOKARTY = [
     "price": 228910,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, PALIT, RTX5060 DUAL OC 8G (4710562245356), NE75060S19P1-GB2063D, GDDR7, 128bit, 3-DP, HDMI, 262.1*126.3*40.1 мм, Цветная коробка"
   },
   {
@@ -382,7 +382,7 @@ export const VIDEOKARTY = [
     "price": 226000,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, PALIT, RTX5060 WHITE OC 8GB (4710562245677), (NE75060U19P1-GB2063M), GDDR7, 128bit, 3-DP, HDMI, 262.1*126.3*40.1 мм, Цветная коробка"
   },
   {
@@ -394,7 +394,7 @@ export const VIDEOKARTY = [
     "price": 232984,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, PALIT, RTX5060 INFINITY 2 OC 8GB (4710562245684), (NE75060V19P1-GB2063L), GDDR7, 128bit, 3-DP, HDMI, 262.1*126.3*40.1 мм, Цветная коробка"
   },
   {
@@ -406,7 +406,7 @@ export const VIDEOKARTY = [
     "price": 247825,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, PALIT, RTX5060 INFINITY 3 8GB (4710562245325), (NE75060019P1-GB2063S), GDDR7, 128bit, 3-DP, HDMI, 291.9*116.6*41.3 мм, Цветная коробка"
   },
   {
@@ -418,7 +418,7 @@ export const VIDEOKARTY = [
     "price": 255391,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, PALIT, RTX5060 INFINITY 3 OC 8GB (4710562245318), (NE75060T19P1-GB2063S), GDDR7, 128bit, 3-DP, HDMI, 291.9*116.6*41.3 мм, Цветная коробка"
   },
   {
@@ -430,7 +430,7 @@ export const VIDEOKARTY = [
     "price": 286334,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, PALIT, RTX5060Ti DUAL 8G (4710562245264), NE7506T019P1-GB2062D, GDDR7, 128bit, 3-DP, HDMI, 262.1*126.3*40.1 мм, Цветная коробка"
   },
   {
@@ -442,7 +442,7 @@ export const VIDEOKARTY = [
     "price": 294783,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, PALIT, RTX5060Ti DUAL OC 8G (4710562245257), (NE7506TT19P1-GB2062D), GDDR7, 128bit, 3-DP, HDMI, 262.1*126.3*40.1 мм, Цветная коробка"
   },
   {
@@ -454,7 +454,7 @@ export const VIDEOKARTY = [
     "price": 299429,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, PALIT, RTX5060Ti WHITE OC 8GB (4710562245660), (NE7506TU19P1-GB2062M), GDDR7, 128bit, 3-DP, HDMI, 291.9*116.6*41.3 мм, Цветная коробка"
   },
   {
@@ -466,7 +466,7 @@ export const VIDEOKARTY = [
     "price": 303697,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, PALIT, RTX5060Ti INFINITY 3 8GB (4710562245226), (NE7506T019P1-GB2062S), GDDR7, 128bit, 3-DP, HDMI, 291.9*116.6*41.3 мм, Цветная коробка"
   },
   {
@@ -478,7 +478,7 @@ export const VIDEOKARTY = [
     "price": 390415,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, PALIT, RTX5060Ti INFINITY 3 16GB (4710562245189), (NE7506T019T1-GB2061S), GDDR7, 128bit, 3-DP, HDMI, 291.9*116.6*41.3 мм, Цветная коробка"
   },
   {
@@ -490,7 +490,7 @@ export const VIDEOKARTY = [
     "price": 398563,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, PALIT, RTX5060Ti INFINITY 3 OC 16GB (4710562245172), (NE7506TS19T1-GB2061S), GDDR7, 128bit, 3-DP, HDMI, 291.9*116.6*41.3 мм, Цветная коробка"
   },
   {
@@ -502,7 +502,7 @@ export const VIDEOKARTY = [
     "price": 453853,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, PALIT, RTX5070 WHITE OC 12GB (4710562245295), (NE75070U19K9-GB2050W), GDDR7, 192bit, 3-DP, HDMI, 3xFan, 291.9*116.6*41.3 мм, Цветная коробка"
   },
   {
@@ -514,7 +514,7 @@ export const VIDEOKARTY = [
     "price": 452495,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, PALIT, RTX5070 INFINITY 3 12GB (4710562245097), (NE75070019K9-GB2050S), GDDR7, 192bit, 3-DP, HDMI, 291.9*116.6*41.3 мм, Цветная коробка"
   },
   {
@@ -526,7 +526,7 @@ export const VIDEOKARTY = [
     "price": 436684,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, PALIT, RTX5070 INFINITY 3 OC 12GB (4710562245080), (NE75070S19K9-GB2050S), GDDR7, 192bit, 3-DP, HDMI, 291.9*116.6*41.3 мм, Цветная коробка"
   },
   {
@@ -538,7 +538,7 @@ export const VIDEOKARTY = [
     "price": 444153,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, PALIT, RTX5070 GAMINGPRO-S 12GB (4710562245561), (NE75070019K9-GB2050U), GDDR7, 192bit, 3-DP, HDMI, 331.9*127.1*49.7 мм, Цветная коробка"
   },
   {
@@ -550,7 +550,7 @@ export const VIDEOKARTY = [
     "price": 467530,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, PALIT, RTX5070 GAMINGPRO-S OC 12GB (4710562245554), (NE75070T19K9-GB2050U), GDDR7, 192bit, 3-DP, HDMI, 331.9*127.1*60 мм, Цветная коробка"
   },
   {
@@ -562,7 +562,7 @@ export const VIDEOKARTY = [
     "price": 599353,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, PALIT, RTX5070Ti GAMINGPRO-S 16GB (4710562245523), (NE7507T019T2-GB2031U), GDDR7, 256bit, 3-DP, HDMI, 331.9*127.1*49.7 мм, Цветная коробка"
   },
   {
@@ -574,7 +574,7 @@ export const VIDEOKARTY = [
     "price": 654643,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, PALIT, RTX5070Ti GAMINGPRO-S OC 16GB (4710562245516), (NE7507TS19T2-GB2031U), GDDR7, 256bit, 3-DP, HDMI, 331.9*127.1*49.7 мм, Цветная коробка"
   },
   {
@@ -586,7 +586,7 @@ export const VIDEOKARTY = [
     "price": 881041,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, PALIT, RTX 5080 GAMINGPRO 16GB (4710562244939), (NE75080019T2-GB2031A), GDDR7, 256bit, 3-DP, HDMI, 3xFan, \t331.9*127.1*60 мм, Цветная коробка"
   },
   {
@@ -598,7 +598,7 @@ export const VIDEOKARTY = [
     "price": 872505,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, PALIT, RTX5080 GAMINGPRO OC 16GB (4710562244922), (NE75080S19T2-GB2031A), GDDR7, 256bit, 3-DP, HDMI, 331.9*127.1*60 мм, Цветная коробка"
   },
   {
@@ -610,7 +610,7 @@ export const VIDEOKARTY = [
     "price": 130755,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, RTX3050 WINDFORCE OC V2 6G (4719331355081), (GV-N3050WF2OCV2-6GD), GDDR6, 96bit, 2-HDMI, 2-DP, Windforce 2X Fan, 191*111*36 мм, Цветная коробка"
   },
   {
@@ -622,7 +622,7 @@ export const VIDEOKARTY = [
     "price": 148497,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, RTX3050 WINDFORCE OC 8G (GV-N3050WF2OCV2-8GD) 4719331314798, GDDR6, 128bit, 2-HDMI, 2-DP, Windforce 2X Fan, 198.1*120.6*39 мм, Цветная коробка"
   },
   {
@@ -634,7 +634,7 @@ export const VIDEOKARTY = [
     "price": 196318,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, RTX5050 WINDFORCE OC 8G (GV-N5050WF2OC-8GD) 4719331356743, GDDR6, 128bit, 2-HDMI, 2-DP, Windforce 2X Fan, 199*116*40 мм, Цветная коробка"
   },
   {
@@ -646,7 +646,7 @@ export const VIDEOKARTY = [
     "price": 195283,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, RTX5050 WINDFORCE OC V2 8G (GV-N5050WF2OCV2-8GD) 4719331356996, GDDR6, 128bit, 2-HDMI, 2-DP, Windforce 2X Fan, 201*120*41 мм, Цветная коробка"
   },
   {
@@ -658,7 +658,7 @@ export const VIDEOKARTY = [
     "price": 201168,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, RTX5050 GAMING OC 8G (GV-N5050GAMING OC-8GD) 4719331356750, GDDR6, 128bit, 2-HDMI, 2-DP, Windforce 3X Fan, 280*117*40 мм, Цветная коробка"
   },
   {
@@ -670,7 +670,7 @@ export const VIDEOKARTY = [
     "price": 222023,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, RTX5060 WINDFORCE 8G (GV-N5060WF2-8GD) 4719331356378, GDDR7, 128bit, 1-HDMI, 3-DP, Windforce 2X Fan, 199*116*40 мм, Цветная коробка"
   },
   {
@@ -682,7 +682,7 @@ export const VIDEOKARTY = [
     "price": 225321,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, RTX5060 WINDFORCE OC 8G (GV-N5060WF2OC-8GD) 4719331356323, GDDR7, 128bit, 1-HDMI, 3-DP, Windforce 2X Fan, 199*116*40 мм, Цветная коробка"
   },
   {
@@ -694,7 +694,7 @@ export const VIDEOKARTY = [
     "price": 229007,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, RTX5060 WINDFORCE MAX OC 8G (GV-N5060WF2MAX OC-8GD) 4719331356699, GDDR7, 128bit, 1-HDMI, 3-DP, Windforce 2X Fan, 199*116*40 мм, Цветная коробка"
   },
   {
@@ -706,7 +706,7 @@ export const VIDEOKARTY = [
     "price": 229395,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, RTX5060 OC Low Profile 8G (GV-N5060OC-8GL) 4719331356422, GDDR7, 128bit, 1-HDMI, 3-DP, 3X Fan, 182*69*36 мм, Цветная коробка"
   },
   {
@@ -718,7 +718,7 @@ export const VIDEOKARTY = [
     "price": 226582,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, RTX5060 EAGLE OC 8G (GV-N5060EAGLE OC-8GD) 4719331356439, GDDR7, 128bit, 1-HDMI, 3-DP, Windforce 2X Fan, 208*120*40 мм, Цветная коробка"
   },
   {
@@ -730,7 +730,7 @@ export const VIDEOKARTY = [
     "price": 231820,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, RTX5060 EAGLE OC ICE 8G (GV-N5060EAGLEOC ICE-8GD) 4719331356446, GDDR7, 128bit, 1-HDMI, 3-DP, Windforce 2X Fan, 208*120*40 мм, Цветная коробка"
   },
   {
@@ -742,7 +742,7 @@ export const VIDEOKARTY = [
     "price": 245109,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, RTX5060 EAGLE MAX OC 8G (GV-N5060EAGLEMAX OC-8GD) 4719331356644, GDDR7, 128bit, 1-HDMI, 3-DP, Windforce 3X Fan, 281*115*40 мм, Цветная коробка"
   },
   {
@@ -754,7 +754,7 @@ export const VIDEOKARTY = [
     "price": 243266,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, RTX5060 GAMING OC 8G (GV-N5060GAMING OC-8GD) 4719331356408, GDDR7, 128bit, 1-HDMI, 3-DP, Windforce 3X Fan, 281*119*40 мм, Цветная коробка"
   },
   {
@@ -766,7 +766,7 @@ export const VIDEOKARTY = [
     "price": 245497,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, RTX5060 AERO OC 8G (GV-N5060AERO OC-8GD) 4719331356415, GDDR7, 128bit, 1-HDMI, 3-DP, Windforce 3X Fan, 281*117*40 мм, Цветная коробка"
   },
   {
@@ -778,7 +778,7 @@ export const VIDEOKARTY = [
     "price": 310778,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, RTX5060Ti WINDFORCE OC 8G (GV-N506TWF2OC-8GD) 4719331356057, GDDR7, 128bit, 1-HDMI, 3-DP, Windforce 2X Fan, 208*120*40 мм, Цветная коробка"
   },
   {
@@ -790,7 +790,7 @@ export const VIDEOKARTY = [
     "price": 298750,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, RTX5060Ti WINDFORCE MAX OC 8G (GV-N506TWF2MAX OC-8GD) 4719331356682, GDDR7, 128bit, 1-HDMI, 3-DP, Windforce 2X Fan, 208*120*40 мм, Цветная коробка"
   },
   {
@@ -802,7 +802,7 @@ export const VIDEOKARTY = [
     "price": 310584,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, RTX5060Ti EAGLE OC-8G (GV-N506TEAGLE OC-8GD) 4719331356101, GDDR7, 128bit, 1-HDMI, 3-DP, Windforce 2X Fan, 215*122*40 мм, Цветная коробка"
   },
   {
@@ -814,7 +814,7 @@ export const VIDEOKARTY = [
     "price": 291475,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, RTX5060Ti EAGLE MAX OC 8G (GV-N506TEAGLEMAX OC-8GD) 4719331356637, GDDR7, 128bit, 1-HDMI, 3-DP, Windforce 3X Fan, 215*122*40 мм, Цветная коробка"
   },
   {
@@ -826,7 +826,7 @@ export const VIDEOKARTY = [
     "price": 313882,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, RTX5060Ti EAGLE OC ICE 8G (GV-N506TEAGLEOC ICE-8GD) 4719331356095, GDDR7, 128bit, 1-HDMI, 3-DP, Windforce 2X Fan, 215*122*40 мм, Цветная коробка"
   },
   {
@@ -838,7 +838,7 @@ export const VIDEOKARTY = [
     "price": 320769,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, RTX5060Ti GAMING OC 8G (GV-N506TGAMING OC-8GD) 4719331356019, GDDR7, 128bit, 1-HDMI, 3-DP, Windforce 3X Fan, 281*119*40 мм, Цветная коробка"
   },
   {
@@ -850,7 +850,7 @@ export const VIDEOKARTY = [
     "price": 324455,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, RTX5060Ti AERO OC 8G (GV-N506TAERO OC-8GD) 4719331356040, GDDR7, 128bit, 1-HDMI, 3-DP, Windforce 3X Fan, 281*119*40 мм, Цветная коробка"
   },
   {
@@ -862,7 +862,7 @@ export const VIDEOKARTY = [
     "price": 402734,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, RTX5060Ti EAGLE OC 16G (GV-N506TEAGLE OC-16GD) (4719331356071), GDDR7, 128bit, 1-HDMI, 3-DP, Windforce 2X Fan, 215*122*40 мм, Цветная коробка"
   },
   {
@@ -874,7 +874,7 @@ export const VIDEOKARTY = [
     "price": 405547,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, RTX5060Ti WINDFORCE OC 16G (GV-N506TWF2OC-16GD) (4719331356064), GDDR7, 128bit, 1-HDMI, 3-DP, Windforce 2X Fan, 208*120*40 мм, Цветная коробка"
   },
   {
@@ -886,7 +886,7 @@ export const VIDEOKARTY = [
     "price": 396429,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, RTX5060Ti GAMING OC 16G (GV-N506TGAMING OC-16GD) (4719331356026), GDDR7, 128bit, 1-HDMI, 3-DP, Windforce 3X Fan, 281*119*40 мм, Цветная коробка"
   },
   {
@@ -898,7 +898,7 @@ export const VIDEOKARTY = [
     "price": 474514,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, RTX5070 WINDFORCE OC SFF 12G (GV-N5070WF3OC-12GD) 4719331355715, GDDR7, 192bit, 1-HDMI, 3-DP, Windforce 3X Fan, 282*110*50 мм, Цветная коробка"
   },
   {
@@ -910,7 +910,7 @@ export const VIDEOKARTY = [
     "price": 490034,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, RTX5070 EAGLE OC SFF 12G (GV-N5070EAGLE OC-12GD) 4719331355760, GDDR7, 192bit, 1-HDMI, 3-DP,Windforce 3X Fan, 290*120*50 мм, Цветная коробка"
   },
   {
@@ -922,7 +922,7 @@ export const VIDEOKARTY = [
     "price": 494288,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, RTX5070 EAGLE OC ICE SFF 12G (GV-N5070EAGLEOC ICE-12GD) 4719331355777, GDDR7, 192bit, 1-HDMI, 3-DP, Windforce 3X Fan, 290*120*50 мм, Цветная коробка"
   },
   {
@@ -934,7 +934,7 @@ export const VIDEOKARTY = [
     "price": 513799,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, RTX5070 GAMING OC 12G (GV-N5070GAMING OC-12GD) 4719331355722, GDDR7, 192bit, 1-HDMI, 3-DP, Windforce 3X Fan, 327*132*56 мм, Цветная коробка"
   },
   {
@@ -946,7 +946,7 @@ export const VIDEOKARTY = [
     "price": 506524,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, RTX5070 AERO OC 12G (GV-N5070AERO OC-12GD) 4719331355852, GDDR7, 192bit, 1-HDMI, 3-DP, Windforce 3X Fan, 324*130*56 мм, Цветная коробка"
   },
   {
@@ -958,7 +958,7 @@ export const VIDEOKARTY = [
     "price": 564724,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, RTX5070 AORUS MASTER 12G (GV-N5070AORUS M-12GD) 4719331355753, GDDR7, 192bit, 1-HDMI, 3-DP, Windforce 3X Fan, 317*136*64 мм, Цветная коробка"
   },
   {
@@ -970,7 +970,7 @@ export const VIDEOKARTY = [
     "price": 666380,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, RTX5070Ti EAGLE OC SFF 16G (GV-N507TEAGLE OC-16GD) (4719331355883), GDDR7, 256bit, 1-HDMI, 3-DP, Windforce 3X Fan, 304*126*50 мм, Цветная коробка"
   },
   {
@@ -982,7 +982,7 @@ export const VIDEOKARTY = [
     "price": 644555,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, RTX5070Ti EAGLE OC ICE SFF 16G (GV-N507TEAGLEOC ICE-16GD) 4719331355869, GDDR7, 256bit, 1-HDMI, 3-DP, Windforce 3X Fan, 304*126*50 мм, Цветная коробка"
   },
   {
@@ -994,7 +994,7 @@ export const VIDEOKARTY = [
     "price": 718178,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, RTX5070Ti GAMING OC 16G (GV-N507TGAMING OC-16GD) (4719331355562), GDDR7, 256bit, 1-HDMI, 3-DP, Windforce 3X Fan, 340*140*70 мм, Цветная коробка"
   },
   {
@@ -1006,7 +1006,7 @@ export const VIDEOKARTY = [
     "price": 676565,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, RTX5070Ti AERO OC 16G (GV-N507TAERO OC-16GD) (4719331355876), GDDR7, 256bit, 1-HDMI, 3-DP,Windforce 3X Fan, 340*140*70 мм, Цветная коробка"
   },
   {
@@ -1018,7 +1018,7 @@ export const VIDEOKARTY = [
     "price": 913536,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, RTX5080 WINDFORCE OC SFF 16G (GV-N5080WF3OC-16GD) 4719331355845, GDDR7, 256bit, 1-HDMI, 3-DP, Windforce 3X Fan, 304*126*50 мм, Цветная коробка"
   },
   {
@@ -1030,7 +1030,7 @@ export const VIDEOKARTY = [
     "price": 912469,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, RTX5080 AERO OC SFF 16G (GV-N5080AERO OC-16GD) 4719331355555, GDDR7, 256bit, 1-HDMI, 3-DP, Windforce 3X Fan, 304*126*50 мм, Цветная коробка"
   },
   {
@@ -1042,7 +1042,7 @@ export const VIDEOKARTY = [
     "price": 906649,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, RTX5080 GAMING OC 16G (GV-N5080GAMING OC-16GD) 4719331355494, GDDR7, 256bit, 1-HDMI, 3-DP, Windforce 3X Fan, 340*140*70 мм, Цветная коробка"
   },
   {
@@ -1054,7 +1054,7 @@ export const VIDEOKARTY = [
     "price": 931190,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, RTX5080 AORUS MASTER 16G (GV-N5080AORUS M-16GD) (4719331355586), GDDR7, 256bit, 1-HDMI, 3-DP, Windforce 3X Fan, 360*150*75 мм, Цветная коробка"
   },
   {
@@ -1066,7 +1066,7 @@ export const VIDEOKARTY = [
     "price": 2189474,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, RTX5090 WINDFORCE OC 32G (GV-N5090WF3OC-32GD) 4719331355838, GDDR7, 512bit, 1-HDMI, 3-DP, Windforce 3X Fan, 342*150*65 мм, Цветная коробка"
   },
   {
@@ -1078,7 +1078,7 @@ export const VIDEOKARTY = [
     "price": 2334101,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, RTX5090 GAMING OC 32G (GV-N5090GAMING OC-32GD) 4719331355791, GDDR7, 512bit, 1-HDMI, 3-DP, Windforce 3X Fan, 342*152*70 мм, Цветная коробка"
   },
   {
@@ -1090,7 +1090,7 @@ export const VIDEOKARTY = [
     "price": 2511029,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, RTX5090 AORUS MASTER 32G (GV-N5090AORUS M-32GD) 4719331355807, GDDR7, 512bit, 1-HDMI, 3-DP, Windforce 3X Fan, 360*150*75 мм, Цветная коробка"
   },
   {
@@ -1102,7 +1102,7 @@ export const VIDEOKARTY = [
     "price": 2531690,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, RTX5090 AORUS MASTER ICE 32G (GV-N5090AORUSM ICE-32GD) 4719331355906, GDDR7, 512bit, 1-HDMI, 3-DP, Windforce 3X Fan, 360*150*75 мм, Цветная коробка"
   },
   {
@@ -1114,7 +1114,7 @@ export const VIDEOKARTY = [
     "price": 191371,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, Radeon RX 7600 GAMING OC 8G (GV-R76GAMING OC-8GD) 4719331313425, DDR6, 128bit, 2-HDMI, 2-DP, WINDFORCE 3X Fan, 282*115*50 мм, Цветная коробка"
   },
   {
@@ -1126,7 +1126,7 @@ export const VIDEOKARTY = [
     "price": 284200,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, Radeon RX 9060 XT GAMING OC 8G (GV-R9060XTGAMING OC-8GD) 4719331356231, GDDR6, 128bit, 2-HDMI, 2-DP, Windforce 3X Fan, 281*118*40 мм, Цветная коробка"
   },
   {
@@ -1138,7 +1138,7 @@ export const VIDEOKARTY = [
     "price": 313009,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, Radeon RX 9060 XT GAMING OC 16G (GV-R9060XTGAMING OC-16GD) 4719331356248, GDDR6, 128bit, 2-HDMI, 2-DP, Windforce 3X Fan, 281*118*40 мм, Цветная коробка"
   },
   {
@@ -1150,7 +1150,7 @@ export const VIDEOKARTY = [
     "price": 310002,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, Radeon RX 9060 XT GAMING OC ICE 16G (GV-R906XGAMINGOCICE-16GD) 4719331357047, GDDR6, 128bit, 1-HDMI, 2-DP, Windforce 3X Fan, 281*118*40 мм, Цветная коробка"
   },
   {
@@ -1162,7 +1162,7 @@ export const VIDEOKARTY = [
     "price": 501480,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, Radeon RX 9070 GAMING OC 16G (GV-R9070GAMING OC-16GD) 4719331355531, GDDR6, 256bit, 2-HDMI, 2-DP, Windforce 3X Fan, 288*132*50 мм, Цветная коробка"
   },
   {
@@ -1174,7 +1174,7 @@ export const VIDEOKARTY = [
     "price": 465202,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, Radeon RX 9070 XT GAMING 16G (GV-R9070XTGAMING-16GD) 4719331356149, GDDR6, 256bit, 2-HDMI, 2-DP, Windforce 3X Fan, 288*132*56 мм, Цветная коробка"
   },
   {
@@ -1186,7 +1186,7 @@ export const VIDEOKARTY = [
     "price": 471313,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, Radeon RX 9070 XT GAMING OC 16G (GV-R9070XTGAMING OC-16GD) 4719331355524, GDDR6, 256bit, 2-HDMI, 2-DP, Windforce 3X Fan, 288*132*56 мм, Цветная коробка"
   },
   {
@@ -1198,7 +1198,8 @@ export const VIDEOKARTY = [
     "price": 477618,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокарта, Gigabyte, Radeon RX 9070 XT GAMING OC ICE 16G (GV-R907XGAMINGOCICE-16GD) 4719331357030, GDDR6, 256bit, 2-HDMI, 2-DP, Windforce 3X Fan, 288*132*56 мм, Цветная коробка"
   }
 ];
+

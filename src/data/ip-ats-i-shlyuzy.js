@@ -10,7 +10,7 @@ export const IP_ATS_I_SHLYUZY = [
     "price": 30749,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Телефонный адаптер, Grandstream, HT801, 1xFXS, 1xLAN 10/100M, 3-х сторонняя конференц-связь, 1 SIP- профиль"
   },
   {
@@ -22,7 +22,7 @@ export const IP_ATS_I_SHLYUZY = [
     "price": 34513,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Телефонный адаптер, Grandstream, HT802, 2xFXS, 1xLAN 10/100M, 3-х сторонняя конференц-связь, 2 SIP- профиля"
   },
   {
@@ -34,7 +34,7 @@ export const IP_ATS_I_SHLYUZY = [
     "price": 59607,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Телефонный адаптер, Grandstream, HT813, 1xFXS, 1xFXO, 1xLAN 10/100M, 1xWAN 10/100M, 3-х сторонняя конференц-связь, 1 SIP- профиль, Lifeline"
   },
   {
@@ -46,7 +46,7 @@ export const IP_ATS_I_SHLYUZY = [
     "price": 40789,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Телефонный адаптер, Grandstream, HT812, 2xFXS, 1xLAN 10/100/1000M, 1xWAN 10/100/1000M, 3-х сторонняя конференц-связь, 2 SIP- профиля"
   },
   {
@@ -58,7 +58,7 @@ export const IP_ATS_I_SHLYUZY = [
     "price": 74661,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Телефонный адаптер, Grandstream, HT814, 4xFXS, 1xLAN 10/100/1000M, 1xWAN 10/100/1000M, 3-х сторонняя конференц-связь, 2 SIP- профиля"
   },
   {
@@ -70,7 +70,7 @@ export const IP_ATS_I_SHLYUZY = [
     "price": 62740,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Телефонный адаптер, Grandstream, HT814v2, 4xFXS, 1xLAN 10/100/1000M, 1xWAN 10/100/1000M, 3-х сторонняя конференц-связь, 2 SIP- профиля"
   },
   {
@@ -82,7 +82,7 @@ export const IP_ATS_I_SHLYUZY = [
     "price": 124858,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Телефонный адаптер, Grandstream, HT818, 8xFXS, 1xLAN 10/100/1000M, 1xWAN 10/100/1000M, 3-х сторонняя конференц-связь, 2 SIP- профиля"
   },
   {
@@ -94,7 +94,7 @@ export const IP_ATS_I_SHLYUZY = [
     "price": 156228,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Телефонный адаптер, Grandstream, HT881, 8 портов FXO RJ11, 1 порт FXS RJ11, 2 порта RJ45 10/100/1000 Мбит/с, 1 порт с поддержкой PoE-PD 802.3af, Трехсторонняя конференц-связь"
   },
   {
@@ -106,7 +106,7 @@ export const IP_ATS_I_SHLYUZY = [
     "price": 281707,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "VoIP Шлюз, Grandstream, GXW4216v2, 16 FXS, 16xRJ11 и 1 50-контактный разъем Telco, 1x GbE, блок питания 12 В/5 А"
   },
   {
@@ -118,7 +118,7 @@ export const IP_ATS_I_SHLYUZY = [
     "price": 373305,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "VoIP Шлюз, Grandstream, GXW4224, 24 FXS, 24xRJ11 и 1 50-контактный разъем Telco, 1x GbE, блок питания 12 В/5 А"
   },
   {
@@ -130,7 +130,7 @@ export const IP_ATS_I_SHLYUZY = [
     "price": 457374,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "VoIP Шлюз, Grandstream, GXW4232, 32 FXS, 32xRJ11 и 1 50-контактный разъем Telco, 1x GbE, блок питания 12 В/5 А"
   },
   {
@@ -142,7 +142,7 @@ export const IP_ATS_I_SHLYUZY = [
     "price": 720885,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "VoIP Шлюз, Grandstream, GXW4248, 48 FXS, 2 50-контактных разъема Telco, 1x GbE, блок питания 24 В/6.25A"
   },
   {
@@ -154,7 +154,7 @@ export const IP_ATS_I_SHLYUZY = [
     "price": 247825,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "VoIP Шлюз, Grandstream, GXW4216, 16 FXS, 16xRJ11 и 1 50-контактный разъем Telco, 1x GbE, блок питания 12 В/5 А"
   },
   {
@@ -166,7 +166,7 @@ export const IP_ATS_I_SHLYUZY = [
     "price": 74661,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Спикерфон, Grandstream, GMD1208, 8 всенаправленных микрофонов, Зона захвата до 5 метров,ANS, AGC/DRC, Технология экранирования от помех,Bluetooth 2.1+EDR"
   },
   {
@@ -178,7 +178,7 @@ export const IP_ATS_I_SHLYUZY = [
     "price": 99765,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Телефонный адаптер, Grandstream, HT818v2, 8xFXS, 1xLAN 10/100/1000M, 1xWAN 10/100/1000M, 3-х сторонняя конференц-связь, 2 SIP- профиля"
   },
   {
@@ -190,7 +190,7 @@ export const IP_ATS_I_SHLYUZY = [
     "price": 106031,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Аналоговый FXO-шлюз, Grandstream, HT841, FXO VoIP Gateway, 4x FXO, 2x GbE, DC Input: 12V/1A, БП нет в комплекте"
   },
   {
@@ -202,7 +202,7 @@ export const IP_ATS_I_SHLYUZY = [
     "price": 80937,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "DECT повторитель, Grandstream, DP760, до 5 повторителей в звезде, до 2 одновременных вызовов, 1x Ethernet 10/100 PoE, блок питания Micro-USB 5 В/1 А"
   },
   {
@@ -214,7 +214,7 @@ export const IP_ATS_I_SHLYUZY = [
     "price": 37025,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "DECT IP базовая станция, Grandstream, DP752, 10 SIP-аккаунтов, 10 линий, 1x Ethernet 10/100 PoE, блок питания Micro-USB 5 В/1 А"
   },
   {
@@ -226,7 +226,7 @@ export const IP_ATS_I_SHLYUZY = [
     "price": 37025,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "DECT IP базовая станция, Grandstream, DP750, 10 SIP-аккаунтов, 10 линий, 1x Ethernet 10/100 PoE, блок питания Micro-USB 5 В/1 А"
   },
   {
@@ -238,7 +238,7 @@ export const IP_ATS_I_SHLYUZY = [
     "price": 1063440,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP-АТС, Grandstream, UCM6308, 8 RJ11 FXS, 8 RJ11 FXO, 2x GbE PoE LAN/WAN, 1 порт горячего резервирования, 3000 пользователей SIP, 300 одновременных вызовов, UCM RC, VideoServer, блок питания 12 В/2 А"
   },
   {
@@ -250,7 +250,7 @@ export const IP_ATS_I_SHLYUZY = [
     "price": 783624,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP-АТС, Grandstream, UCM6308A, 8 RJ11 FXS, 8 RJ11 FXO, 2x GbE PoE LAN/WAN, 1 порт горячего резервирования, 1500 пользователей SIP, 200 одновременных вызовов, UCM RC, блок питания 12 В/2 А"
   },
   {
@@ -262,7 +262,7 @@ export const IP_ATS_I_SHLYUZY = [
     "price": 749742,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP-АТС, Grandstream, UCM6304, 4 RJ11 FXS, 4 RJ11 FXO, 2x GbE PoE LAN/WAN, 1 порт горячего резервирования, 2000 пользователей SIP, 200 одновременных вызовов, UCM RC, VideoServer, блок питания 12 В/2 А"
   },
   {
@@ -274,7 +274,7 @@ export const IP_ATS_I_SHLYUZY = [
     "price": 469926,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP-АТС, Grandstream, UCM6304A, 4 RJ11 FXS, 4 RJ11 FXO, 2x GbE PoE LAN/WAN, 1 порт горячего резервирования, 1000 пользователей SIP, 120 одновременных вызовов, UCM RC, блок питания 12 В/2 А"
   },
   {
@@ -286,7 +286,7 @@ export const IP_ATS_I_SHLYUZY = [
     "price": 310565,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP-АТС, Grandstream, UCM6302, 2 RJ11 FXS, 2 RJ11 FXO, 2x GbE PoE LAN/WAN, 1 порт горячего резервирования, 1000 пользователей SIP, 100 одновременных вызовов, UCM RC, VideoServer, блок питания 12 В/1.5 А"
   },
   {
@@ -298,7 +298,7 @@ export const IP_ATS_I_SHLYUZY = [
     "price": 281707,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP-АТС, Grandstream, UCM6302A, 2 порта RJ11 FXS, 2 порта RJ11 FXO, 2 порта GbE PoE LAN/WAN, 1 порт горячего резервирования, 500 пользователей SIP, 75 одновременных вызовов, UCM RC, блок питания 12 В/1.5 А"
   },
   {
@@ -310,7 +310,7 @@ export const IP_ATS_I_SHLYUZY = [
     "price": 218968,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP-АТС, Grandstream, UCM6301, 1 порт RJ11 FXS, 1 порт RJ11 FXO, 2 порта GbE PoE LAN/WAN, 1 порт горячего резервирования, 500 пользователей SIP, 75 одновременных вызовов, UCM RC, VideoServer, блок питания 12 В/1.5 А"
   },
   {
@@ -322,7 +322,7 @@ export const IP_ATS_I_SHLYUZY = [
     "price": 124858,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP-АТС, Grandstream, UCM6300A, 2x GbE PoE LAN/WAN, 1 порт горячего резервирования, 250 пользователей SIP, 50 одновременных вызовов, UCM RC, блок питания 12 В/1.5 А"
   },
   {
@@ -334,7 +334,9 @@ export const IP_ATS_I_SHLYUZY = [
     "price": 34513,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Кабель интерфейсный, Grandstream, Telco cable for GXW4248"
   }
 ];
+
+

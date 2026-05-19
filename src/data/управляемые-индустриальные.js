@@ -10,7 +10,7 @@ export const УПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 449789,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Ubiquiti, EP-S16, EdgePoint, Управляемый L2+, 16 портов 10/100/1000 Mbps RJ45, 2 порто SFP+, 1-RJ45 консоль, Passive PoE output, Passive PoE input, 54V DC, 6A input, Уличный"
   },
   {
@@ -22,7 +22,7 @@ export const УПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 79443,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Ubiquiti, USW-FLEX, Уличный всепогодный коммутатор Unifi Switch, управляемый L2, 5 портов 10/100/1000 Mbps RJ45,"
   },
   {
@@ -34,7 +34,7 @@ export const УПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 90210,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, MikroTik, CSS606-1G-2Gi-3S+OUT, GPERx6, 3 порта 10/100/1000M (Ether2-3 Passive PoE 0,6A), Ether1 Passive PoE in (Reverse), 3 порта SFP+, SwitchOS, -40°C to 70°C, outdoor case"
   },
   {
@@ -46,7 +46,7 @@ export const УПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 96515,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, MikroTik, CSS610-1Gi-7R-2S+OUT, netPower Lite 7R, 8 портов 10/100/1000M (Ether8 Passive PoE 0,6A), Ether1-7 Passive PoE in (Reverse), 2 порта SFP+, SwitchOS Lite, -40°C to 70°C, outdoor case"
   },
   {
@@ -58,7 +58,7 @@ export const УПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 128040,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, MikroTik, CSS610-8P-2S+OUT, netPower Lite 8P, 8 x Gigabit 802.3af/at PoE-out ports, 2 x SFP+, SwOS, Бюджет120W, -40°C to 70°C"
   },
   {
@@ -70,7 +70,7 @@ export const УПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 83808,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, MikroTik, CRS318-1Fi-15Fr-2S-OUT, netPower 15FR, 16 портов 10/100M (Ether8 Passive PoE 0,75A), Ether1-15 Passive PoE in (Reverse), 2 порта SFP+, RouterOS (5) / SwitchOS, -40°C to 70°C, outdoor case"
   },
   {
@@ -82,7 +82,7 @@ export const УПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 145500,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, MikroTik, CRS305-1G-4S+OUT, Cloud Router Switch, FiberBox Plus, 1 порт 10/100/1000М, 4 порта SFP+, 802.3af/at, RouterOS / SwitchOS, -40°С до 70 °C"
   },
   {
@@ -94,7 +94,7 @@ export const УПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 147440,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, MikroTik, CRS310-1G-5S-4S+IN, Cloud Router Switch, 4 x 10G SFP+ ports, 5 x 1G SFP ports, 1 x Gigabit Ethernet port (PoE-In 802.3af/at), RouterOS/ SwitchOS, -40°C to 70°C"
   },
   {
@@ -106,7 +106,7 @@ export const УПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 160050,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, MikroTik, CRS310-1G-5S-4S+OUT, netFiber 9, 4 x 10G SFP+ ports, 5 x 1G SFP ports, 1 x Gigabit Ethernet port (PoE-In 802.3af/at),RouterOS/ SwitchOS, PoE injector, -40°C to 70°C"
   },
   {
@@ -118,7 +118,7 @@ export const УПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 184300,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, MikroTik, CRS318-16P-2S+OUT, netPower 16P, 16 портов 10/100/1000M, Ether1-Ether16 PoE 802.3af/at, 2 порта SFP+, RouterOS (5) / SwitchOS, -40°C to 70°C, outdoor case"
   },
   {
@@ -130,7 +130,7 @@ export const УПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 562600,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, MikroTik, CRS504-4XQ-OUT, Cloud Router Switch, 1 порт 10/100М, 4 порта 100G QSFP28, 802.3bt, RouterOS v7, -40°С до 70 °C"
   },
   {
@@ -142,7 +142,7 @@ export const УПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 65960,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, BDCOM, IES200-L25-4T2S, Управляемый L3-lite, 4 порта 10/100/1000 RJ45, 2 порта SFP, DC 12-55В Dual RPS, вход DC12V, -40+75°C, DIN-rail"
   },
   {
@@ -154,7 +154,7 @@ export const УПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 76145,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, BDCOM, IES200-L25-8T2S, Управляемый L3-lite, 8 портов 10/100/1000 RJ45, 2 порта SFP, DC 12-55В Dual RPS, вход DC12V, -40+75°C, DIN-rail"
   },
   {
@@ -166,7 +166,7 @@ export const УПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 88270,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, BDCOM, IES200-L25-8T4S, Управляемый L3-lite, 8 портов 10/100/1000 RJ45, 4 порта SFP, DC 12-55В Dual RPS, вход DC12V, -40+75°C, DIN-rail"
   },
   {
@@ -178,7 +178,7 @@ export const УПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 74011,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, BDCOM, IES200-L25-4P2S, Управляемый L3-lite, 4 порта 10/100/1000 RJ45, PoE 802.3af/at, бюджет POE 120В (зависит от БП), 2 порта SFP, DC 48-55В Dual RPS, вход DC12V (Jack) non-PoE power input, -40+75°C, DIN-rail, без блока питания"
   },
   {
@@ -190,7 +190,7 @@ export const УПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 88755,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, BDCOM, IES200-L25-8P2S, Управляемый L3-lite, 8 портов 10/100/1000 RJ45, PoE 802.3af/at, бюджет POE 240В (зависит от БП), 2 порта SFP, DC 48-55В Dual RPS, вход DC12V (Jack) non-PoE power input, -40+75°C, DIN-rail, без блока питания"
   },
   {
@@ -202,7 +202,7 @@ export const УПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 101850,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, BDCOM, IES200-L25-8P4S, Управляемый L3-lite, 8 портов 10/100/1000 RJ45, PoE 802.3af/at, бюджет POE 240В (зависит от БП), 4 порта SFP, DC 48-55ВDual RPS, вход DC12V (Jack) non-PoE power input, -40+75°C, DIN-rail, без блока питания"
   },
   {
@@ -214,7 +214,7 @@ export const УПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 87300,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Индустриальный коммутатор, BDCOM, IES200-V25-2S4T, Управляемый L2, 4x 10/100/1000M порта, 2x 1000M SFP слота, DC 12~55V резервный двойной вход питания, -40~85°C, защита 6KV, DIN-rail, без блока питания"
   },
   {
@@ -226,7 +226,7 @@ export const УПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 94090,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Индустриальный коммутатор, BDCOM, IES200-V25-2S4P, Управляемый L2, 4x 10/100/1000M порта, PoE (802.3af/at) 120W, 2x 1000M SFP слота, DC 48~55V резервный двойной вход питания, -40~75°C, DIN-rail, без блока питания"
   },
   {
@@ -238,7 +238,7 @@ export const УПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 101850,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Индустриальный коммутатор, BDCOM, IES200-V25-2S8P, Управляемый L2, 8x 10/100/1000M портов, PoE (802.3af/at) 240W, 2x 1000M SFP слота, DC 48~55V резервный двойной вход питания, -40~75°C, DIN-rail, без блока питания"
   },
   {
@@ -250,7 +250,7 @@ export const УПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 133860,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Индустриальный коммутатор, BDCOM, IES200-V25-4S10T, Управляемый L2, 10x 10/100/1000M портов, 4x 1000M SFP слота, DC 12~55V резервный двойной вход питания, -40~85°C, защита 6KV, DIN-rail"
   },
   {
@@ -262,7 +262,7 @@ export const УПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 82246,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Dahua, DH-PFS4206-4P-96, Индустриальный, 2 порта 1000 Base-X (SFP)/1 порт 10/100/1000 Base-T(Hi-PoE/PoE+/PoE)/3 порта 10/100 Base-T (PoE+/PoE), Управляемый, Корпус металл"
   },
   {
@@ -274,7 +274,7 @@ export const УПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 71926,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Dahua, DH-HS4408-4ET-96, Управляемый L2, 4  10/100 Mbps PoE портов (port1<=90W,port3-4<=30W,total<=96W), 4  SFP 1000 Mbps, индустриальный, –30 °C to +65 °C"
   },
   {
@@ -286,7 +286,7 @@ export const УПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 72905,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Dahua, DH-CHS4106-4ET-60, Индустриальный, Управляемый L2, 1 порт 1000 Base-X (SFP)/1 порт 10/100/1000 Base-T (uplink) /4 порта 10/100 Base-T (PoE), Корпус металл"
   },
   {
@@ -298,7 +298,7 @@ export const УПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 71935,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Dahua, DH-CHS4206-4ET-90, Индустриальный, Управляемый L2, 2 порта 1000 Base-X (SFP)/1 порт 10/100/1000 Base-T(PoE+/PoE)/3 порта 10/100 Base-T (PoE+/PoE), Корпус металл"
   },
   {
@@ -310,7 +310,7 @@ export const УПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 82838,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Dahua, DH-HS4412-8ET-96, Управляемый L2, 8  10/100 Mbps PoE портов (port1-2<=90W,port3-8<=30W,total<=96W), 4  SFP 1000 Mbps, индустриальный, –30 °C to +65 °C"
   },
   {
@@ -322,7 +322,7 @@ export const УПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 131881,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Dahua, DH-CHS4212-8GT-110, Индустриальный, Управляемый L2, 8 портов 10/100/1000T PoE (802.3af/at/bt 120W), 2 порта SFP 1000M (uplink), 2 порта 10/100/1000 Mbps (uplink)"
   },
   {
@@ -334,7 +334,7 @@ export const УПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 253413,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Dahua, DH-IS4210-8GT-120, Индустриальный, Управляемый L2, 8 портов 10/100/1000T PoE (802.3af/at/bt 120W), 2 порта SFP 1000M"
   },
   {
@@ -346,7 +346,7 @@ export const УПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 195771,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Hikvision, DS-3E2510P(B), Управляемый L2, 8 x Gigabit RJ45, РоЕ 802.3af/at 125W, 2 x SFP, Настольный, Металл"
   },
   {
@@ -358,7 +358,7 @@ export const УПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 91170,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, TP-Link, IES206GPP, Управляемый L2, 1 10/100/1000 Mbps PoE++, 3 10/100/1000 Mbps PoE+, 1 Gigabit SFP/RJ45 Combo, 1 Gigabit SFP Slot, 120W Power Budget"
   },
   {
@@ -370,7 +370,8 @@ export const УПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 118330,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, TP-Link, IES210GPP, Управляемый L2, 2 порта RJ45 PoE++ 10/100/1000 Мбит/с, 6 портов RJ45 PoE+ 10/100/1000 Мбит/с, 2комбо SFP/RJ45, 802.3af/at/bt, бюджет 240 Вт"
   }
 ];
+

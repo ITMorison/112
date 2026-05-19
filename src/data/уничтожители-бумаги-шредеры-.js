@@ -10,7 +10,7 @@ export const УНИЧТОЖИТЕЛИ_БУМАГИ_ШРЕДЕРЫ_ = [
     "price": 169293,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шредер, HSM, Pure 220 (4x 25mm) 2323111, фрагмент 4x 25мм, P-4, режущая способность 6-7л, Ёмкость корзины 25л, Уничтожение кредитные карты/Скрепы, ножи из твёрдой стали, белый"
   },
   {
@@ -22,7 +22,7 @@ export const УНИЧТОЖИТЕЛИ_БУМАГИ_ШРЕДЕРЫ_ = [
     "price": 68305,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шредер, HSM, Shredstar S10 (6mm) 1042121, фрагмент 6мм, P-2, режущая способность 10л, Ёмкость корзины 18л, продольная резка, Уничтожение CD/кредитные карты/Скрепы, белый"
   },
   {
@@ -34,7 +34,7 @@ export const УНИЧТОЖИТЕЛИ_БУМАГИ_ШРЕДЕРЫ_ = [
     "price": 77787,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шредер, HSM, Shredstar X5, 1043121, фрагмент 4,5x 30мм, P-4, режущая способность 5л, Ёмкость корзины 18л, продольная резка, Уничтожение CD/кредитные карты/Скрепы, белый"
   },
   {
@@ -46,7 +46,7 @@ export const УНИЧТОЖИТЕЛИ_БУМАГИ_ШРЕДЕРЫ_ = [
     "price": 87300,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Уничтожитель бумаг, COMIX, S4210M, A4, Подача: 8 лист., Уничтожение CD/кредитных карт, Уровень секретности: 4, Скорость 2.3 м/мин, Ёмкость корзины 22 л., 65 дБ, Микро резка, Чёрный"
   },
   {
@@ -58,7 +58,7 @@ export const УНИЧТОЖИТЕЛИ_БУМАГИ_ШРЕДЕРЫ_ = [
     "price": 106045,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шредер, HSM, Shredstar X8, 1044121, фрагмент 4,5x 30мм, P-4, режущая способность 8л, Ёмкость корзины 18л, Уничтожение CD/кредитные карты/Скрепы, белый"
   },
   {
@@ -70,7 +70,7 @@ export const УНИЧТОЖИТЕЛИ_БУМАГИ_ШРЕДЕРЫ_ = [
     "price": 118677,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шредер, HSM, Shredstar X10 1045111, фрагмент 4,5x 30мм, P-4, режущая способность 10л, Ёмкость корзины 20л, Уничтожение CD/кредитные карты/Скрепы, белый"
   },
   {
@@ -82,7 +82,7 @@ export const УНИЧТОЖИТЕЛИ_БУМАГИ_ШРЕДЕРЫ_ = [
     "price": 262090,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шредер, HSM, SECURIO AF100 (4x 25mm) 2063111, фрагмент 4x 25мм, P-4, автоподача 100л, режущая способность 5-6л, Ёмкость корзины 25л, Уничтожение кредитные карты/Скрепы, ножи из твёрдой стали, белый"
   },
   {
@@ -94,7 +94,7 @@ export const УНИЧТОЖИТЕЛИ_БУМАГИ_ШРЕДЕРЫ_ = [
     "price": 508304,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шредер, HSM, SECURIO AF150 (1.9х15mm) 2082111, фрагмент 1.9х15мм, автоподача 35л, режущая способность 6-7л"
   },
   {
@@ -106,7 +106,7 @@ export const УНИЧТОЖИТЕЛИ_БУМАГИ_ШРЕДЕРЫ_ = [
     "price": 451947,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шредер, HSM, SECURIO AF300 4.5x 30mm, 2093121, фрагмент 4.5x 30мм, P-4, автоподача 300л, режущая способность 12-14л, Ёмкость корзины 35л, Уничтожение CD/кредитные карты/Скрепы, ножи из твёрдой стали, белый"
   },
   {
@@ -118,7 +118,7 @@ export const УНИЧТОЖИТЕЛИ_БУМАГИ_ШРЕДЕРЫ_ = [
     "price": 435738,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шредер, HSM, SECURIO B24 (1.9x 15mm) 1782111, фрагмент 1.9x 15мм, P-5, режущая способность 9-11л, Ёмкость корзины 35л, Уничтожение кредитные карты/Скрепы, ножи из твёрдой стали, белый"
   },
   {
@@ -130,7 +130,7 @@ export const УНИЧТОЖИТЕЛИ_БУМАГИ_ШРЕДЕРЫ_ = [
     "price": 300707,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Шредер, HSM, SECURIO C18 (3.9x 30mm) 1913121, фрагмент 3.9x 30мм, P-4, режущая способность 8-9л, Ёмкость корзины 25л, Уничтожение кредитные карты/Скрепы, ножи из твёрдой стали, белый"
   },
   {
@@ -142,7 +142,7 @@ export const УНИЧТОЖИТЕЛИ_БУМАГИ_ШРЕДЕРЫ_ = [
     "price": 44515,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Уничтожитель бумаг, COMIX, S273, A4, Подача: 10 лист., Уничтожение CD/кредитных карт, Уровень секретности - 3, Скорость - 2,5 м/мин (34 мм/сек), Ёмкость корзины 17 л., 72db, Перекрёстная резка, Чёрный"
   },
   {
@@ -154,7 +154,7 @@ export const УНИЧТОЖИТЕЛИ_БУМАГИ_ШРЕДЕРЫ_ = [
     "price": 52818,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Уничтожитель бумаг, COMIX, S2710A, A4, Подача: 10 лист., Уничтожение CD/кредитных карт, Уровень секретности - 3, Скорость - 2.5м/мин, Ёмкость корзины 21 л., 72db, Перекрёстная резка, Чёрный"
   },
   {
@@ -166,7 +166,7 @@ export const УНИЧТОЖИТЕЛИ_БУМАГИ_ШРЕДЕРЫ_ = [
     "price": 38184,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Уничтожитель бумаг, COMIX, S340, A4, Подача: 8 лист., Уничтожение CD/кредитных карт, Уровень секретности - 3, Скорость - 2,2 м/мин (34 мм/сек), Ёмкость корзины 13 л., Перекрёстная резка, Чёрный"
   },
   {
@@ -178,7 +178,7 @@ export const УНИЧТОЖИТЕЛИ_БУМАГИ_ШРЕДЕРЫ_ = [
     "price": 110538,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Уничтожитель бумаг, COMIX, S3306, A4, Подача: 6 лист., Уровень секретности: 5, Скорость 2.2 м/мин, Ёмкость корзины 15 л., 58 дБ, Микро резка 2х5 мм., Белый"
   },
   {
@@ -190,7 +190,7 @@ export const УНИЧТОЖИТЕЛИ_БУМАГИ_ШРЕДЕРЫ_ = [
     "price": 98590,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Уничтожитель бумаг, COMIX, S3508D, A4, Подача: 8 лист., Уничтожение CD/кредитных карт, Уровень секретности: 4, Скорость 2.3 м/мин, Ёмкость корзины 22 л., 65 дБ, Микро резка, Чёрный"
   },
   {
@@ -202,7 +202,7 @@ export const УНИЧТОЖИТЕЛИ_БУМАГИ_ШРЕДЕРЫ_ = [
     "price": 186407,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Уничтожитель бумаг, COMIX, S6610, A4, CD, Кредитные карты, Скрепки, Подача: 10 лист., Уровень секретности: 4, Скорость 3 м/мин, Ёмкость корзины 35 л., 58 дБ, Микро резка 2х6 мм., Черный"
   },
   {
@@ -214,7 +214,7 @@ export const УНИЧТОЖИТЕЛИ_БУМАГИ_ШРЕДЕРЫ_ = [
     "price": 530356,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Уничтожитель бумаг, COMIX, S623, A4/А3, Подача: 25/15 лист., Уничтожение CD и кредитных карт и скрепок, Уровень секретности: 3, Скорость 3.8 м/мин, Рабочий цикл: 24 ч., Ёмкость корзины 80 л., 65 дБ, Перекрестная резка 4х30 мм., Чёрный"
   },
   {
@@ -226,7 +226,7 @@ export const УНИЧТОЖИТЕЛИ_БУМАГИ_ШРЕДЕРЫ_ = [
     "price": 147384,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Уничтожитель бумаг, COMIX, S516, A4, Подача: 10 лист., Уничтожение CD/кредитных карт, Уровень секретности - 3, Скорость - 2,5 м/мин (34 мм/сек), Ёмкость корзины 17 л., 72db, Перекрёстная резка, Чёрный"
   },
   {
@@ -238,7 +238,7 @@ export const УНИЧТОЖИТЕЛИ_БУМАГИ_ШРЕДЕРЫ_ = [
     "price": 100666,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Уничтожитель бумаг, COMIX, S801, A4, Подача: 8 лист., Автоподача листов: 60л., Уничтожение CD/кредитных карт, Уровень секретности - 3, Скорость - 2м/мин (42мм/сек), Ёмкость корзины 22 л., 58db, Перекрёстная резка, Чёрный"
   },
   {
@@ -250,7 +250,8 @@ export const УНИЧТОЖИТЕЛИ_БУМАГИ_ШРЕДЕРЫ_ = [
     "price": 106763,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Уничтожитель бумаг, COMIX, S356, A4, Подача: 12 листов., Уничтожение CD/кредитных карт, Уровень секретности: 4, Скорость 2.2 м/мин, Ёмкость корзины 22 л., 55 дБ, Микро резка, Чёрный"
   }
 ];
+

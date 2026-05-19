@@ -10,7 +10,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 7362,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная кнопка, Aqara Wireless Mini Switch T1, WB-R02D, 45 х 45 х 12 мм, Zigbee, Батарея: CR2032, Беспроводная работа с центром умного дома Aqara Hub по протоколу Zigbee, Легко настроить в приложении Aqara для iOS, Android, Стикер для наклеивания — в комплекте, До двух лет на одной батарее (таблетка C2032), Белый"
   },
   {
@@ -22,7 +22,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 8429,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Датчик вибрации, Aqara, Vibration sensor DJT11LM, Белый"
   },
   {
@@ -34,7 +34,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 12891,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "USB центр управления умным домом, Aqara, Hub E1, HE1-G01, 108308 мм, Питание: 5 В. 0,5 A (USB Type A), Zigbee 3.0 IEEE 802.15.4, Wi-Fi IEEE 802.11 b/g/n 2,4 ГГц, Светодиодная индикация, Центр Умного Дома (хаб), до 128 клиентов zigbee, Wi-Fi репитер (до 2 клиентов, до 4 Мбит/с), Белый"
   },
   {
@@ -46,7 +46,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 45677,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Мотор раздвижных штор, Aqara, Curtain Driver E1 Rod Version, 140,5  96  44 мм, Zigbee 3.0 IEEE 802.15.4, Номинальное напряжение 5 В, Скорость перемещения 12 см/с, Номинальная потребляемая мощность 7.5 W, Класс защиты IP IP20, Номинальный ток 1.5 А, Литиевая батарея 6000mAh (не заменяемая), Максимальная нагрузка 12 кг, Толщина колец: >4 мм, Требуемый диаметр карниза: 25-32 мм, Белый"
   },
   {
@@ -58,7 +58,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 17353,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Настенный выключатель двухклавишный, Aqara, Smart Wall Switch H1 (With Neutral, Double Rocker), WS-EUK04, 86 х 86 х 37,55 мм, Zigbee 3.0, 100 – 250 В~, 50/60 Гц, Максимальная нагрузка: 2000 Вт, 0°С…+40°С, Для работы устройства требуется Центр умного дома (Hub) с поддержкой Zigbee 3.0, Работает с Алисой, Белый"
   },
   {
@@ -70,7 +70,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 12794,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Настенный беспроводной выключатель двухклавишный, Aqara, Wireless Remote Switch H1(Double Rocker), WRS-R02, 85,8  86  12,5 мм, Тип батареи: CR2450, Zigbee, Рабочая температура: -10°С…+50°С, Для работы устройства требуется Центр умного дома (Hub) с поддержкой zigbee 3.0, Белый"
   },
   {
@@ -82,7 +82,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 14540,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Настенный выключатель одноклавишный, Aqara, Smart Wall Switch H1 (With Neutral, Single Rocker), WS-EUK03, 86 х 86 х 37,55 мм, Zigbee 3.0, Напряжение питания: 100 – 250 В~, 50/60 Гц, Максимальная нагрузка: 2000 Вт, 0°С…+40°С, Для работы устройства требуется Центр умного дома (Hub) с поддержкой Zigbee 3.0, Работает с Алисой, Белый"
   },
   {
@@ -94,7 +94,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 22203,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умный датчик газа, Aqara, Smart Natural Gas Detector, JT-BZ-03AQ/A, Вид определяемого газа: Метан (СН4), 12,0 В0,5 А 6,0 Вт, Zigbee 3.0, Встроенная сирена до 85 дБ, Работает с Алисой, Белый"
   },
   {
@@ -106,7 +106,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 28120,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Центр умного дома, Aqara, Hub M2, 100.530.75 мм, 100.530.75 мм, Wi-Fi IEEE 802.11 b/g/n 2.4 ГГц, Zigbee 3.0 IEEE 802.15.4, BLE 5.0, Черный"
   },
   {
@@ -118,7 +118,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 6392,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Датчик движения, Mi, Smart Home YTC4041GL, Пластик, Дальность обнаружения 7м, Угол обнаружения 170, Белый"
   },
   {
@@ -130,7 +130,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 116599,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умный дверной замок, Aqara, Smart lock U200 Zigbee, EL-D02D, Черный"
   },
   {
@@ -142,7 +142,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 215233,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умный дверной замок, Aqara, Door lock D100 Zigbee, ZNMS20LM, литий-ионная аккумуляторная батарея 2480 мАч (7,2 В), вход Type-C для аварийного питания (5 В), Zigbee 3.0, Bluetooth 5.0, NFC, Рабочая температура -10°C -+55°C, Ширина двери: 40 – 80 мм, Масса нетто: 4,2кг, Размеры: 393.8*74.2*58.6 мм, Лёгкая настройка в приложении Aqara Home для iOS, Android, Совместимость с HomeKit, Способы открытия: Удалённо через приложение Aqara Home, Отпечаток пальца, NFC метки (2 шт. в комплекте), Постоянный пароль, Одноразовый пароль, Временный пароль, Механический ключ, Через HomeKit, включая новейшую функцию Apple Home Key, Черный"
   },
   {
@@ -154,7 +154,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 7362,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умная мини Wi-Fi розетка, TP-Link, Tapo P100(1-pack), IEEE 802.11b/g/n, 2,4 ГГц"
   },
   {
@@ -166,7 +166,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 16480,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Датчик движения и освещения, Aqara, Motion and Light Sensor P2, ML-S03D, Thread, Bluetooth 5.0, До 7 м (до 10 м при использовании с Aqara Home), 0–100000 люкс, До 170, Matter, Apple HomeKit, Google Home, Amazon Alexa, Samsung SmartThings, 2  CR2450 (до 2 лет автономной работы), от -10°C до +55°C, 0 — 95% относительной влажности, \t33,1х41,6 мм Белый"
   },
   {
@@ -178,7 +178,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 40730,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умный настенный выключатель с дисплеем, Aqara, Display Switch V1, EU, WS-K02D, Белый"
   },
   {
@@ -190,7 +190,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 8332,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умная мини Wi-Fi розетка, TP-Link, Tapo P110, IEEE 802.11b/g/n, 2,4 ГГц"
   },
   {
@@ -202,7 +202,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 7459,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умная мини Wi-Fi розетка, TP-Link, Tapo P110M, IEEE 802.11b/g/n, 2,4 ГГц"
   },
   {
@@ -214,7 +214,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 67890,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умный сенсорный циферблат, Aqara, Touchscreen Dial V1, EU, DS-K01D, (240 В), Белый"
   },
   {
@@ -226,7 +226,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 5325,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная кнопка, Mi, Mi Home WXKG01LM,YTC4040GL/WXKG01LM, Wi-Fi 2.4 Ггц, Белый"
   },
   {
@@ -238,7 +238,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 9690,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умная мини Wi-Fi розетка, TP-Link, Tapo P115, IEEE 802.11b/g/n, 2,4 ГГц, 3680 Вт, 16 А"
   },
   {
@@ -250,7 +250,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 6489,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Датчики открытия окна и двери, Mi, Door and Window Sensor 2, MCCGQ02HL/BHR5154GL, Mi Door and Window Sensor 2, Bluetooth 5.1 BLE, МCR2032 (в комплекте), -10°C to 50°C, Белый"
   },
   {
@@ -262,7 +262,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 6780,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умная розетка, Xiaomi, Smart Plug 2 EU, BHR6868EU/ZNCZ302KK, Номинальная мощность 3680 Вт Макс, Размер 74 x 52 x 76,6 мм, Вес устройства около 110гр., Беспроводное подключение Wi-Fi IEEE 802.11 b / g / n 2,4 ГГц, Bluetooth 5,0, Рабочая температура 0 ° C–35С, Белый"
   },
   {
@@ -274,7 +274,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 7750,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Датчик движения, Xiaomi, Motion Sensor 2S, BHR8995GL/XMPIR02SGXS, Движения до 7 м, Измеряет освещённость до 1000 лк, Питание батарея CR2450, Связь Bluetooth LE, Угол поворота: 90° вертикально / 360° горизонтально, Белый"
   },
   {
@@ -286,7 +286,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 4840,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Датчик температуры и уровня влажности , Xiaomi, Smart Temperature and Humidity Monitor 3 Mini, QBH4312GL/MJWSDOGMMC, Компактный датчик (534513 мм), Дисплей 2.1, Точность 0.1 °C / 1% RH, Bluetooth, Батарея CR2450 (в комплекте), Белый"
   },
   {
@@ -298,7 +298,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 5810,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Датчик температуры и уровня влажности, Xiaomi, Smart Temperature and Humidity Monitor 3, BHR9041GL/MJWSD05MMC, Датчик (79.670.214.5 мм), Дисплей 2.7, Точность 0.1 °C / 1% RH, Bluetooth, Батарея CR2450 (в комплекте), Белый"
   },
   {
@@ -310,7 +310,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 11630,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Часы-термогигрометр, Xiaomi, Temperature and Humidity Monitor Clock, BHR5435GL/LYWSD02MMC, Диапазон измерения температуры 0°C–60°C, Диапазон измерения влажности 0%-99% RH, Bluetooth Low Energy 5.0, Размер 110 мм x 55 мм x 10,1 мм, Батарея CR2032 (x2, приобретается отдельно), Режим отображения времени 12-часовой / 24-часовой, Рабочее напряжение DC2.5V–3V, Белый"
   },
   {
@@ -322,7 +322,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 24240,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Центральный контроллер, Xiaomi, SmartHomeHub2, BHR6765GL/ZNDMWG04LM, 959526mm, 5V-1A, NetworkPort:10/100Mbps Ethernet, Wi-FiIEEE802.11a/b/g/n2.4GHz/5GHz, Zigbee, 3.0 IEEE802.15.4, Bluetooth 5.0, Белый"
   },
   {
@@ -334,7 +334,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 46550,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умный дверной звонок, Xiaomi, Smart Doorbell 3S Черный, BHR7068GL/MJML07-FJ, IP65 защита от пыли и воды, Два режима питания литий-ионная батарея 5200 mAh или подключение к проводке (8-24 VAC, 10-40 VA), Разрешение 2K, Сверхширокий обзор 180° по диагонали (~107° по вертикали), Инфракрасная ночная съёмка с 6 IR-светодиодами 940 нм, Защита от принудительного снятия (сигнал тревоги, наклейка 3M, крепление винтом), Шифрование и привязка к учётной записи Xiaomi, Черный"
   },
   {
@@ -346,7 +346,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 28314,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умный сетевой фильтр, TP-Link, Tapo P300, IEEE 802.11b/g/n, Bluetooth 4.2, 1xUSB-C, 2xUSB-A, 3xSchuko, 268  55  40 мм, шнур 1,5 м, 2300 Вт, 10 А"
   },
   {
@@ -358,7 +358,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 63040,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умный дверной звонок, TP-Link, Tapo D230S1, WI-FI, 802.11 b/g/n, microSD"
   },
   {
@@ -370,7 +370,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 24046,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP камера, TP-LINK, Tapo TC40, Поворотная 360, 1080p Full HD 1920 x 1080 , Фокусное расстояние: 3,89 мм, ИК 30 метров, Встроенный микрофон и динамик, Wi-Fi 2,4 ГГц, Уличная IP65"
   },
   {
@@ -382,7 +382,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 25210,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP камера, TP-LINK, Tapo TC41, Поворотная 360, 2304 x 1296, Фокусное расстояние: 3,89 мм, ИК 30 метров, Встроенный микрофон и динамик, Wi-Fi 2,4 ГГц, Уличная IP65"
   },
   {
@@ -394,7 +394,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 34910,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP камера, TP-LINK, Tapo TC42, Поворотная 360, 2880 x 1620 , Фокусное расстояние: 3,2 мм, ИК 30 метров, Встроенный микрофон и динамик, Wi-Fi 2,4 ГГц, Уличная IP66"
   },
   {
@@ -406,7 +406,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 15704,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP камера, TP-LINK, Tapo TC71, Поворотная 360, 2K 3MP 2304 x 1296, Фокусное расстояние: 4 мм, F2.0, ИК 9 метров, Встроенный микрофон и динамик, Wi-Fi 2,4 ГГц, внутренняя"
   },
   {
@@ -418,7 +418,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 20942,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP камера, TP-LINK, Tapo TC72, Поворотная 360, 2K QHD 4MP 2560 x 1440, Фокусное расстояние: 4 мм, F2.0, ИК 9 метров, Встроенный микрофон и динамик, Wi-Fi 2,4 ГГц, внутренняя"
   },
   {
@@ -430,7 +430,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 23173,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP камера, TP-LINK, Tapo TC74, Поворотная 360, 3K 5MP 2880х1620, Фокусное расстояние: 4 мм, F2.0, ИК 9 метров, Встроенный микрофон и динамик, Wi-Fi 2,4 ГГц, внутренняя"
   },
   {
@@ -442,7 +442,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 13570,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP камера, TP-LINK, Tapo TC60, 1080P HD 1920 x 1080, Фокусное расстояние: 3,3 мм, F2.0, ИК 9 метров, Встроенный микрофон и динамик, Wi-Fi 2,4 ГГц, внутренняя, ё"
   },
   {
@@ -454,7 +454,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 22203,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP камера, TP-LINK, Tapo TC65, Поворотная, 2304 x 1296, Фокусное расстояние: 3,89 мм, ИК 30 метров, Встроенный микрофон и динамик, Wi-Fi 2,4 ГГц, Уличная IP66"
   },
   {
@@ -466,7 +466,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 18808,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP-камера, TP-Link, Tapo C100, CMOS-матрица 1/3.2\", ИК-подсветка - до 9 м, Функция день/ночь, 2.0 мега., Объектив: 3.3 мм, H.264, 1080p, 9,0В/0,6А."
   },
   {
@@ -478,7 +478,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 21136,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP-камера, TP-Link, Tapo C110, Матрица 1/2,8\", 3 МП (2304  1296), f/2,0, фокусное расстояние: 3,3 мм ИК-подсветка - до 9 м, WI-FI 802.11n, внутренняя"
   },
   {
@@ -490,7 +490,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 29090,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP-камера, TP-Link, Tapo C120, Матрица 1/2,9\", 4 МП (2560  1440), f/1,65, фокусное расстояние:3,17 мм ИК-подсветка - до 9 м"
   },
   {
@@ -502,7 +502,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 32000,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP-камера, TP-Link, Tapo C125, Матрица 1/2,9\", 4 МП (2560  1440), f/2,0, фокусное расстояние: 2,45 мм ИК-подсветка - до 9 м"
   },
   {
@@ -514,7 +514,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 24143,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP-камера, TP-Link, Tapo C200, CMOS-матрица 1/2.9\", ИК-подсветка - до 9 м, Функция день/ночь, 2.4 мега., Объектив: 4 мм, H.264, 1080p, 9,0В/0,6А."
   },
   {
@@ -526,7 +526,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 13861,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP-камера, TP-Link, Tapo C200C, 1920х1080, поворотно-наклонная"
   },
   {
@@ -538,7 +538,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 19293,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP-камера, TP-Link, Tapo C202, 1920х1080, поворотно-наклонная"
   },
   {
@@ -550,7 +550,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 20166,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP-камера, Tp-Link, Tapo C206, КМОП-матрица Starlight 1/3 дюйма с прогрессивной развёрткой, ИК-подсветка до 12 метров, 1920  1080 пикселей, Фокусное расстояние: 4 мм, Цветное ночное видение, H.264"
   },
   {
@@ -562,7 +562,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 26180,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP-камера, TP-Link, Tapo C210, PTZ, WiFi, 3MP, 1/2,8 дюйма, f/2,4. 3,83 мм, ИК-подсветка 9м,Двусторонняя аудиосвязь"
   },
   {
@@ -574,7 +574,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 25210,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP-камера, TP-Link, Tapo C211,"
   },
   {
@@ -586,7 +586,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 28217,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP-камера, TP-Link, Tapo C220, 2560x1440, 4MP 30fps, ИК подсветка, поворотная, 802.11 b/g/n, microSD"
   },
   {
@@ -598,7 +598,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 38790,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP-камера, TP-Link, Tapo C225, 2560x1440, 4MP, ИК подсветка, поворотная, 802.11 b/g/n, microSD"
   },
   {
@@ -610,7 +610,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 51400,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP-камера, TP-Link, Tapo C325WB,2688  1520, 802.11b/g/n, 1 порт RJ45 10/100 Мбит/с"
   },
   {
@@ -622,7 +622,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 31030,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP-камера, TP-Link, Tapo C310, Уличная, WI-FI 802.11b/g/n, 3 Мп (2304  1296), 15fps, матрица 1/2,7', объектив 3,89 мм, ИК-подсветка до 30 м"
   },
   {
@@ -634,7 +634,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 34910,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP-камера, TP-Link, C320WS, Уличная, WI-FI 802.11b/g/n, 4 Мп (2560  1440), f/1,61. объетив 3,18 мм, ИК-подсветка 850 нм до 30 м"
   },
   {
@@ -646,7 +646,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 36850,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP-камера, TP-Link, Tapo C410, WI-FI, поворотная, уличная, IP65, 802.11 b/g/n, microSD"
   },
   {
@@ -658,7 +658,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 64010,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP-камера, TP-Link, Tapo C460, IR (15 м), 4K 8MP, 15 кадров в секунду, Слот для карты MicroSD, Wi-Fi 2.4 ГГц/5 ГГц, аккумулятор на 10000 мА·ч, IP66"
   },
   {
@@ -670,7 +670,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 35880,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP-камера, TP-Link, Tapo C500, 1920x1080,WI-FI, ИК подсветка 30м, поворотная, уличная, IP65, 802.11 b/g/n, microSD"
   },
   {
@@ -682,7 +682,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 36850,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP-камера, TP-Link, Tapo C510W, 2304  1296, IEEE 802.11b/g/n, Wi-Fi (2,4 ГГц)"
   },
   {
@@ -694,7 +694,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 63040,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP-камера, TP-Link, Tapo C720, 802.11b/g/n, 2 прожектора"
   },
   {
@@ -706,7 +706,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 38790,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умный дверной звонок, Xiaomi, Smart Doorbell 3, BHR5416GL/MJML06-FJ, 5200 мАч, 128 x 60 x 23,5 мм, 5V 2A, Wi-Fi IEEE 802.11b/g/n 2,4 ГГц, RF 433 МГц, Аудиосистема для двухсторонних голосовых вызовов, Рабочая температура - от 10°C до 45°C, 940 нм инфракрасный свет, Черный"
   },
   {
@@ -718,7 +718,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 38305,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Комплект видеонаблюдения, Xiaomi, Mi Outdoor Security Camera 1080p Set, MWC13, 1080p, IP65, ширина обзора 130°, приемник в комплекте"
   },
   {
@@ -730,7 +730,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 18420,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Солнечная панель, Xiaomi, Outdoor Camera Solar Panel, MJSXJ10BY"
   },
   {
@@ -742,7 +742,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 15510,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цифровая видеокамера, Xiaomi, Outdoor Camera AW200, BHR6398GL, Разрешение 1920x1080, 2MP, Поле зрения объектива, 120°, IEEE 802.11b/g/n 2,4 ГГц, Карта памяти Micro SD, От -20 °C до 50 °C, IP65"
   },
   {
@@ -754,7 +754,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 20360,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цифровая видеокамера, Xiaomi, Outdoor Camera AW300, BHR6816EU, Разрешение 2304x1296, 3MP, Поле зрения объектива 101,7°, 802.11b/g/n 2,4 ГГц, Карта памяти Micro SD, От -30 °C до 60 °C, IP66"
   },
   {
@@ -766,7 +766,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 14540,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цифровая видеокамера, Xiaomi, Outdoor Camera Base Station, белый, Ethernet RJ-45, Wi-Fi LEEE 802.11b/g/n 2,4 ГГц,"
   },
   {
@@ -778,7 +778,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 36850,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цифровая видеокамера, Xiaomi, Outdoor Camera BW500, BHR8301GL, Разрешение 2560x1440, 4MP, Поле зрения объектива 136°, 802.11b/g/n/ax 2,4 ГГц, Карта памяти Micro SD, От -20 °C до 55 °C, IP67"
   },
   {
@@ -790,7 +790,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 26180,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цифровая видеокамера, Xiaomi, Outdoor Camera, CW100 Dual EU MJSXJ26CM, 12V 1A, Разрешение: 2304  1296"
   },
   {
@@ -802,7 +802,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 29090,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цифровая видеокамера, Xiaomi, Outdoor Camera СW400, BHR7624GL, Разрешение 2304x1296, 3MP, Поле зрения объектива 101,7°, 802.11b/g/n 2,4 ГГц, Карта памяти Micro SD, От -30 °C до 60 °C, IP66"
   },
   {
@@ -814,7 +814,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 16480,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цифровая видеокамера, Xiaomi, Smart Camera C100, MJSXJ25CM, Разрешение: 2304  1296, Питание: 5 В DC, ток 1 А"
   },
   {
@@ -826,7 +826,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 14540,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цифровая видеокамера, Xiaomi, Smart Camera C200, BHR6766GL, Разрешение 1920x1080, 2MP, Регулируемая панорама 360°, 360° по горизонтали, 106° по вертикали, 802.11 b/g/n, 2.4 ГГц, microSD card (up to 256 GB)"
   },
   {
@@ -838,7 +838,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 13085,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цифровая видеокамера, Xiaomi, Smart Camera C201, MBC27, 2 мп, Разрешение видео: 19201080 (Full HD)"
   },
   {
@@ -850,7 +850,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 18420,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цифровая видеокамера, Xiaomi, Smart Camera C300, BHR6540GL, Разрешение 2304 x 1296, 3MP, Регулируемая панорама 360°, двухосевой привод 360° по горизонтали и 108° по вертикали, 802.11b/g/n 2,4 ГГц, Карта Micro SD (объемом до 256 ГБ)"
   },
   {
@@ -862,7 +862,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 17450,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цифровая видеокамера, Xiaomi, Smart Camera C301, MBC23, Разрешение 2304 x 1296, 3MP, Регулируемая панорама 360°, двухосевой привод 360° по горизонтали и 107° по вертикали, 802.11b/g/n 2,4 ГГц, Карта Micro SD (объемом до 256 ГБ)"
   },
   {
@@ -874,7 +874,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 22300,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цифровая видеокамера, Xiaomi, Smart Camera C400, BHR6619GL, Разрешение 2560х1440, 4MP, Регулируемая панорама 360°, 360° по горизонтали, 106° по вертикали, 802.11 b/g/n, 2.4 ГГц, microSD card (up to 256 GB)"
   },
   {
@@ -886,7 +886,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 24240,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цифровая видеокамера, Xiaomi, Smart Camera C500 EU, MBC24, 6 мп, Разрешение: 3200  1800 пикселей"
   },
   {
@@ -898,7 +898,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 26180,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цифровая видеокамера, Xiaomi, Smart Camera C500 Pro, BHR8088GL, Разрешение 2960х1666, 5MP, Регулируемая панорама 360°, 360° по горизонтали, 114° по вертикали, 802.11 a/b/g/n, 2.4 ГГц, microSD card (8GB-256GB)"
   },
   {
@@ -910,7 +910,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 28120,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цифровая видеокамера, Xiaomi, Smart Camera C701 EU, MJSXJ27CM, 8 мп, Разрешение видео: 3840  2160 (4K Ultra HD)"
   },
   {
@@ -922,7 +922,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 34910,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цифровая видеокамера, Xiaomi, Smart Camera CW700S EU, MJSXJ06HL, Разрешение 2560х1440, 802.11 b/g/n, 2.4 ГГц"
   },
   {
@@ -934,7 +934,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 13570,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цифровая камера видеонаблюдения, Xiaomi, Mi Camera 2K (Magnetic Mount) BHR5255GL, Разрешение: 23041296, 20 к/с, Угол обзора: 125°, ИК-подсветка, магнитное крепление"
   },
   {
@@ -946,7 +946,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 20360,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Хаб для устройств, Яндекс, YNDX-00510, 100-240 Вт, 50-60 Гц, Ethernet - RJ-45, USB-C, Wi-Fi(2,4 ГГц), Bluetooth 5.0, Экосистема Яндекс"
   },
   {
@@ -958,7 +958,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 10660,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Датчик открытия дверей и окон, Яндекс, YNDX-00520 с Zigbee, 3 Вт, 2400 – 2483,5 МГц, CR1632, Экосистема Яндекс, белый"
   },
   {
@@ -970,7 +970,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 10660,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Датчик протечки, Яндекс, YNDX-00521 с Zigbee, 3 Вт, 2400 – 2483,5 МГц, CR2032, Экосистема Яндекс, белый"
   },
   {
@@ -982,7 +982,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 10660,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Датчик движения и освещения, Яндекс, YNDX-00522 с Zigbee, 3 Вт, 2400 – 2483,5 МГц, CR2450, Экосистема Яндекс, белый"
   },
   {
@@ -994,7 +994,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 10660,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Датчик температуры и влажности, Яндекс, YNDX-00523 с Zigbee, 3 Вт, 2400 – 2483,5 МГц, CR2032, Экосистема Яндекс, белая"
   },
   {
@@ -1006,7 +1006,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 10660,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная кнопка, Яндекс, YNDX-00524 с Zigbee, 3 Вт, 2400 – 2483,5 МГц, CR2032, Экосистема Яндекс, белая"
   },
   {
@@ -1018,7 +1018,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 12600,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умный диммер, Яндекс, YNDX-00530, Zigbee, Wi-Fi 802.11 b/g/n (2,4 ГГц), IP20, 50 Гц, Белый"
   },
   {
@@ -1030,7 +1030,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 12600,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умный выключатель, Яндекс, YNDX-00531, Zigbee, Wi-Fi(2,4 ГГц), IP20, 50 Гц, 8 А - 1800 Вт, Белый"
   },
   {
@@ -1042,7 +1042,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 13570,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умный выключатель, Яндекс, YNDX-00532, Zigbee, Wi-Fi(2,4 ГГц), IP20, 50 Гц, 8 А - 1800 Вт, Белый"
   },
   {
@@ -1054,7 +1054,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 10660,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умный беспроводной выключатель, Яндекс, YNDX-00534, Zigbee, Wi-Fi(2,4 ГГц), IP20, Белый"
   },
   {
@@ -1066,7 +1066,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 11145,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умный беспроводной выключатель, Яндекс, YNDX-00535, Zigbee, Wi-Fi(2,4 ГГц), IP20, Белый"
   },
   {
@@ -1078,7 +1078,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 8235,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умное Реле, Яндекс, YNDX-00537, 1 канал, Zigbee, Wi-Fi(2,4 ГГц), IP20, 50 Гц, Белый"
   },
   {
@@ -1090,7 +1090,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 9690,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умное Реле, Яндекс, YNDX-00538, 2 канала, Zigbee, Wi-Fi(2,4 ГГц), IP20, 50 Гц, Белый"
   },
   {
@@ -1102,7 +1102,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 8720,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умная розетка, Яндекс, YNDX-00540BLK, 220-240 Вт, 50 Гц, Wi-Fi(2,4 ГГц), Bluetooth 5.0, Экосистема Яндекс, черная"
   },
   {
@@ -1114,7 +1114,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 8720,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умная розетка, Яндекс, YNDX-00540WHT, 220-240 Вт, 50 Гц, Wi-Fi(2,4 ГГц), Bluetooth 5.0, Экосистема Яндекс, белая"
   },
   {
@@ -1126,7 +1126,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 19390,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умная светодиодная лента, Яндекс, YNDX-00544, 3м, 24 шт/м, 750 лм, 25000 ч, 80 Ra, AC 110-240 В / 50-60 Гц, 8.2 Вт, Wi-Fi(2.4 ГГц), Bluetooth 5 (LE), Экосистема Яндекс, белый"
   },
   {
@@ -1138,7 +1138,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 4840,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Удлинитель умной светодиодной ленты, Яндекс, YNDX-00547, 1м, 24 шт/м, 250 лм, 25000 ч, 80 Ra, AC 100-240 В / 50-60 Гц, 2.2 Вт, Wi-Fi(2.4 ГГц), Bluetooth 5 (LE), Экосистема Яндекс, белый"
   },
   {
@@ -1150,7 +1150,7 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 6780,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умный пульт, Яндекс, YNDX-0006, USB (5 В), Wi-Fi(2,4 ГГц), Экосистема Яндекс, черный"
   },
   {
@@ -1162,7 +1162,8 @@ export const СИСТЕМЫ_УМНЫЙ_ДОМ_ = [
     "price": 18420,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Цифровая видеокамера, Xiaomi, Smart Camera C302, MBC28, Разрешение 2304 x 1296, H.265, Регулируемая панорама 360°, Wi-Fi IEEE 802.11b/g/n/ax 2.4GHz, Bluetooth 5.0 , 802.11b/g/n 2,4 ГГц, Карта Micro SD (объемом до 256 ГБ)"
   }
 ];
+

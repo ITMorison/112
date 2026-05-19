@@ -128,3 +128,4 @@ export const MODULES = [
     "image": "https://market-telecom.kz/files/products/71325_1.170x220.jpg"
   }
 ];
+

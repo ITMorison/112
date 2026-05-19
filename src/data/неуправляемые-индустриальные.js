@@ -10,7 +10,7 @@ export const НЕУПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 24444,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, BDCOM, IES200-1006T, Неуправляемый, 6 портов 10/100M RJ45, DC 12-55В Dual RPS, -40+85° C, DIN-rail, без блока питания"
   },
   {
@@ -22,7 +22,7 @@ export const НЕУПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 35308,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, BDCOM, IES200-LSTW1108, Неуправляемый, 8 портов 10/100M RJ45, 1 порт SFP, 1 порт GE RJ45, DC 12-55В Dual RPS, -40+75°C, DIN-rail"
   },
   {
@@ -34,7 +34,7 @@ export const НЕУПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 52962,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, BDCOM, IES200-LSTW1108P, Неуправляемый, 8 портов 10/100М RJ45, PoE 802.3af/at, бюджет 240W, 1 порт SFP, 1 порт GE RJ45, DC 48-55В, -40+75°C, DIN-rail, без блока питания"
   },
   {
@@ -46,7 +46,7 @@ export const НЕУПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 22795,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, BDCOM, IES200-LSTW1140, Неуправляемый, 5 портов 10/100/1000М RJ45, 1 порт SFP, DC 12-55В Dual RPS, -40+75°C, DIN-rail, без блока питания"
   },
   {
@@ -58,7 +58,7 @@ export const НЕУПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 34920,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, BDCOM, IES200-LSTW1140P, Неуправляемый, 4 порта 10/100/1000М RJ45, PoE 802.3af/at, Бюджет 120W, 1 порт SFP, 1 порт GE RJ45, DC 48-55В Dual RPS, -40+75°C, DIN-rail, без блока питания"
   },
   {
@@ -70,7 +70,7 @@ export const НЕУПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 51895,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, BDCOM, IES200-LSTW2080, Неуправляемый, 8 портов 10/100/1000М RJ45, 2 порта SFP, DC 12-55В Dual RPS, -40+75°C, DIN-rail, без блока питания"
   },
   {
@@ -82,7 +82,7 @@ export const НЕУПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 64990,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, BDCOM, IES200-LSTW2080P, Неуправляемый, 8 портов 10/100/1000М RJ45, PoE 802.3af/at, Бюджет 120W, 2 порта SFP, DC 48-55В Dual RPS, -40+75°C, DIN-rail, без блока питания"
   },
   {
@@ -94,7 +94,7 @@ export const НЕУПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 36928,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Dahua, DH-PFS3106-4T, Неуправляемый 4*10/100 Base-T, 1 x10/100/1000Base-T, 1 xSFP"
   },
   {
@@ -106,7 +106,7 @@ export const НЕУПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 52050,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Dahua, DH-PFS3106-4ET-60, Индустриальный, 4 порта 10/100M + 1 комбо порт 10/100/1000Base-T/Base-X , Неуправляемый, PoE, Корпус металл"
   },
   {
@@ -118,7 +118,7 @@ export const НЕУПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 52050,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Dahua, DH-PFS3106-4ET-60-V2, Индустриальный, 4 порта 10/100M + 1 комбо порт 10/100/1000Base-T/Base-X , Неуправляемый, PoE, Корпус металл"
   },
   {
@@ -130,7 +130,7 @@ export const НЕУПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 71926,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Dahua, DH-PFS3206-4P-96, Индустриальный, Интерфейсы 2 порта 1000 Base-X 1 порт 10/100/1000 Base-T(Hi-PoE/PoE+/PoE) 3 порта 10/100 Base-T (PoE+/PoE)"
   },
   {
@@ -142,7 +142,7 @@ export const НЕУПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 158479,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Dahua, DH-LR2110-8ET-120, Индустриальный, Неуправляемый, 8  RJ-45, 10/100 Мбит/с, 1  RJ-45, 10/100/1000 Мбит/с, 1  SFP, 1000 Мбит/с,IEEE 802.3af. IEEE 802.3at. Hi-PoE. IEEE 802.3bt"
   },
   {
@@ -154,7 +154,7 @@ export const НЕУПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 79123,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Dahua, DH-PFS3110-8ET-96, 8-портовый РОЕ коммутатор, неуправляемый. 1*1000 Base-X 1*10/100/1000 Base-T8*10/100 Base-T (PoE порты) Мощность PoE портов: Порт 1-2  90 W, Портt 3-8  30W, Всего96 W"
   },
   {
@@ -166,7 +166,7 @@ export const НЕУПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 112743,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Dahua, DH-PFS3409-4GT-96, Неуправляемый, 4xPoE, 10/100/1000 Мбит/с, 1x10/100/1000 Мбит/с uplink, 4*SFP, 96W"
   },
   {
@@ -178,7 +178,7 @@ export const НЕУПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 177403,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Dahua, DH-PFS3211-8GT-120, Настольный, Неуправляемый, 8x10/100/1000M PoE, 2xSFP, 1x10/100/1000M, 120W"
   },
   {
@@ -190,7 +190,7 @@ export const НЕУПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 195213,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Dahua, DH-HS3220-16GT-190, Индустриальный, Неуправляемый, 16 портов 10/100/1000Мбит/с (PoE/PoE+/Hi-PoE/IEEE802.3bt до 190Вт), 2 uplink порта SFP,2 uplink порта x 10/100/1000Мбит/с, питание: 48–57 В (DC)"
   },
   {
@@ -202,7 +202,7 @@ export const НЕУПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 26659,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Hikvision, DS-3T0306HP/No Power unit, Неуправляемый, 4 x 10/100 Mbps , РоЕ 802.3af/at/bt 110W, 1 x Gigabit RJ45, 1 x SFP combo, DIN рейка, Long Range Ports 3 to 4: up to 300 m."
   },
   {
@@ -214,7 +214,7 @@ export const НЕУПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 46481,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Hikvision, DS-3T0310HP/No Power unit, Неуправляемый, 8 x 10/100 Mbps, РоЕ 802.3af/at/bt 110W, 1 x Gigabit RJ45, 1 x SFP combo, DIN рейка, Long Range Ports 7 to 8: up to 300 m."
   },
   {
@@ -226,7 +226,7 @@ export const НЕУПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 32810,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Hikvision, DS-3T0506HP/No Power unit, Неуправляемый, 4 x Gigabit RJ45, РоЕ 802.3af/at/bt 110W, 2 x SFP, DIN рейка, 90 W Hi-PoE Output for Port 1"
   },
   {
@@ -238,7 +238,7 @@ export const НЕУПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 41833,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Hikvision, DS-3T0506HP-E/HS, Неуправляемый, 4 x Gigabit , РоЕ 802.3af/at/bt 65W, 4 x SFP, DIN рейка, Long Range Ports 3 to 4: up to 300 m."
   },
   {
@@ -250,7 +250,7 @@ export const НЕУПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 58102,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Hikvision, DS-3T0510HP/No Power unit, Неуправляемый, 8 x Gigabit RJ45, РоЕ 802.3af/at/bt 110W, 2 x SFP, DIN рейка, 90 W Hi-PoE Output for Ports 1-2"
   },
   {
@@ -262,7 +262,8 @@ export const НЕУПРАВЛЯЕМЫЕ_ИНДУСТРИАЛЬНЫЕ = [
     "price": 198641,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Коммутатор, Hikvision, DS-3T0510P/No Power unit, Неуправляемый, 8 x Gigabit RJ45, РоЕ 802.3af/at 240W, 2 x SFP, Настольный, maximum PoE port is 30 W."
   }
 ];
+

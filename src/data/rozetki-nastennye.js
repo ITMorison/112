@@ -170,3 +170,4 @@ export const WALL_SOCKETS = [
     "image": "https://market-telecom.kz/files/products/01039_1.170x220.jpg"
   }
 ];
+

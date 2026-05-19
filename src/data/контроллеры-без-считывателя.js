@@ -10,7 +10,7 @@ export const КОНТРОЛЛЕРЫ_БЕЗ_СЧИТЫВАТЕЛЯ = [
     "price": 114412,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер доступа, Dahua, DHI-ASC2202C-S, Интернет-протокол: IPv4. TCP. UDP, Размеры продукта. 337 мм  272 мм  90 мм"
   },
   {
@@ -22,7 +22,7 @@ export const КОНТРОЛЛЕРЫ_БЕЗ_СЧИТЫВАТЕЛЯ = [
     "price": 48219,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер доступа, Dahua, DHI-ASC2202B-S, для 2 дверей и 1 направления, RS-485 и Wiegand, стандартный POE и 12 В"
   },
   {
@@ -34,7 +34,7 @@ export const КОНТРОЛЛЕРЫ_БЕЗ_СЧИТЫВАТЕЛЯ = [
     "price": 56115,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой контроллер, Dahua, DHI-ASC2202B-D (12В), Контроллер доступа для 2 дверей и 2 направлений"
   },
   {
@@ -46,7 +46,7 @@ export const КОНТРОЛЛЕРЫ_БЕЗ_СЧИТЫВАТЕЛЯ = [
     "price": 70150,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер доступа, Dahua, DHI-ASC2204B-S, Автономный считыватель, стандартное PoE и 12 В"
   },
   {
@@ -58,7 +58,7 @@ export const КОНТРОЛЛЕРЫ_БЕЗ_СЧИТЫВАТЕЛЯ = [
     "price": 192370,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер доступа, Dahua, DHI-ASC2204C-D (230В), Автономный считыватель"
   },
   {
@@ -70,7 +70,7 @@ export const КОНТРОЛЛЕРЫ_БЕЗ_СЧИТЫВАТЕЛЯ = [
     "price": 305166,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер доступа, Hikvision, DS-K2210, Контроллер лифта до 128 этажей, 20 000 карт 50 000 событий, 2 Wiegand или 2 RS485, TCP/IP и RS-485, от -40 °C до 70 °C, 12 VDC"
   },
   {
@@ -82,7 +82,7 @@ export const КОНТРОЛЛЕРЫ_БЕЗ_СЧИТЫВАТЕЛЯ = [
     "price": 87988,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер доступа, Hikvision, DS-K2804, контроль доступа к четырем дверям, Хранилище 10 000 карт и 50 000 событий Связь через TCP/TP Вход/выход тревоги и загрузка тревожных событий интерфейс Wiegand, от -20 °C до 65 °C, 12 VDC"
   },
   {
@@ -94,7 +94,7 @@ export const КОНТРОЛЛЕРЫ_БЕЗ_СЧИТЫВАТЕЛЯ = [
     "price": 93027,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер доступа, Hikvision, DS-K2811, контроль доступа к одной двери, Поддерживает функции: защиты от повторного прохода суперкарты суперпароля интерфейс, RS-485/ Wiegand, от -20 °C до 65 °C, 12 VDC"
   },
   {
@@ -106,7 +106,7 @@ export const КОНТРОЛЛЕРЫ_БЕЗ_СЧИТЫВАТЕЛЯ = [
     "price": 106593,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер доступа, Hikvision, DS-K2812, контроль доступа к двум дверям, Поддерживает функции: защиты от повторного прохода суперкарты суперпароля, интерфейс RS-485/ Wiegand, от -20 °C до 65 °C, 12 VDC"
   },
   {
@@ -118,7 +118,7 @@ export const КОНТРОЛЛЕРЫ_БЕЗ_СЧИТЫВАТЕЛЯ = [
     "price": 120160,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер доступа, Hikvision, DS-K2814, контроль доступа к четырем дверям, Поддерживает функции: защиты от повторного прохода суперкарты суперпароля интерфейс RS-485/ Wiegand, от -20 °C до 65 °C, 12 VDC"
   },
   {
@@ -130,7 +130,7 @@ export const КОНТРОЛЛЕРЫ_БЕЗ_СЧИТЫВАТЕЛЯ = [
     "price": 64925,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер доступа, Hikvision, DS-K2801, контроль доступа к одной двери, Хранилище 10 000 карт и 50 000 событий, Связь через TCP/TP Вход/выход тревоги и загрузка тревожных событий интерфейс Wiegand, от -20 °C до 65 °C, 12 VDC"
   },
   {
@@ -142,7 +142,7 @@ export const КОНТРОЛЛЕРЫ_БЕЗ_СЧИТЫВАТЕЛЯ = [
     "price": 81205,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер доступа, Hikvision, DS-K2802, Сетевой Интерфейс TCP/IP, Кнопка Выхода: 2"
   },
   {
@@ -154,7 +154,7 @@ export const КОНТРОЛЛЕРЫ_БЕЗ_СЧИТЫВАТЕЛЯ = [
     "price": 134307,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер доступа, Hikvision, DS-K2601T, 240V, Управление 1 замком"
   },
   {
@@ -166,7 +166,7 @@ export const КОНТРОЛЛЕРЫ_БЕЗ_СЧИТЫВАТЕЛЯ = [
     "price": 147874,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер доступа, Hikvision, DS-K2602T, Сетевой Интерфейс TCP/IP, Кнопка Выхода: 2"
   },
   {
@@ -178,7 +178,7 @@ export const КОНТРОЛЛЕРЫ_БЕЗ_СЧИТЫВАТЕЛЯ = [
     "price": 184503,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер доступа, Hikvision, DS-K2604T, Сетевой Интерфейс TCP/IP, Кнопка Выхода: 2"
   },
   {
@@ -190,7 +190,8 @@ export const КОНТРОЛЛЕРЫ_БЕЗ_СЧИТЫВАТЕЛЯ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Контроллер Hikvision DS-K3M210-B220X (12В) Контрольная плата для скоростных ворот и турникетов Linux протоколы связи: ISAPI ISUP5.0 от -40 °C до 70 °C"
   }
 ];
+

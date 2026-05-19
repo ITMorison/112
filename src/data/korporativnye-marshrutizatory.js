@@ -10,7 +10,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 1175446,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Ubiquiti, ER-8-XG, EdgeRouter, 8 портов SFP+, 1 Gigabit RJ45, 1 RJ45 консоль (serial), Стоечный"
   },
   {
@@ -22,7 +22,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 54097,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Ubiquiti, ER-X-SFP, EdgeRouter, 5 портов 10/100/1000 RJ-45, 1 порт SFP"
   },
   {
@@ -34,7 +34,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 84196,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой маршрутизатор, Ubiquiti, UCG-Ultra, Cloud Gateway, до 1Gbps, 1-2.5GbE WAN + 4-1GbE LAN RJ45"
   },
   {
@@ -46,7 +46,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 96394,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой Маршрутизатор, Ubiquiti, UXG-Lite, Next-Gen Gateway, 1хGbE RJ45 WAN, 1хGbE RJ45 LAN, USB-C 5V/3A (адаптер включён), 3.83Вт, Компактный настольный"
   },
   {
@@ -58,7 +58,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 321555,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой маршрутизатор, Ubiquiti, UDM-Pro, Dream Machine, ШлюзWAN/LAN + роутер + коммутатор + NVR (rack 1U), 8 x RJ45 1 Gbps LAN 1 x SFP+ 10 Gbps LAN 1 x RJ45 1 Gbps WAN 1 x SFP+ 10 Gbps WAN 1"
   },
   {
@@ -70,7 +70,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 461041,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой маршрутизатор, Ubiquiti, UDM-Pro-Max, Dream Machine, LAN: 8 портов GbE RJ45, 1 порт 10G SFP+, WAN: 1 порт 2.5 GbE RJ45, 1 порт 10G SFP+, Встроенный AC 100–240V, 100W. поддержка DC резервного питания, 60Вт, Стоечный"
   },
   {
@@ -82,7 +82,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 382374,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой маршрутизатор, Ubiquiti, UDM-SE, Dream Machine Special Edition, WAN: 1x2.5GbE RJ45 + 1x10GbE SFP+, LAN: 8x1GbE RJ45 (6x802.3af, 2x802.3at PoE+), 1x10GbE SFP+ LAN, 1.3\" сенсорный экран, Встроенный AC100–240V, max 50Вт без PoE. PoE output до 130Вт. поддержка USPRPS"
   },
   {
@@ -94,7 +94,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 236816,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой маршрутизатор, Ubiquiti, UniFi Dream Router 7, 802.11a/b/g/n/ac/ax/be, BE10700, 1x10G SFP+, 1x2.5 GbE RJ45, 3x2.5 GbE RJ45, 300 клиентов, настольный"
   },
   {
@@ -106,7 +106,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 139971,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой маршрутизатор, Ubiquiti, UMR-Industrial, Mobile Router, 2-GbE RJ45 (1 WAN) с PoEin/out 10Вт, SMA (2LTE, 1GPS), LTE Cat 4"
   },
   {
@@ -118,7 +118,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 80739,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Huawei, S380-L4T1T, 1 порт WAN 10/100/1000M RJ-45, 4 порта LAN 10/100/1000M RJ-45, поддержка до 150 пользователей, производительность пересылки 2 Гбит/с"
   },
   {
@@ -130,7 +130,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 130355,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Huawei, S380-S8T2T, 2 порта WAN 10/100/1000M RJ-45, 8 портов LAN 10/100/1000M RJ-45, поддержка до 250 пользователей, производительность пересылки 2 Гбит/с"
   },
   {
@@ -142,7 +142,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 447671,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Huawei, AR720, 2 порта WAN GE (RJ45/SFP Combo), 8 портов LAN GE 10/100/1000M RJ45, поддержка до 700 пользователей, пропускная способность до 4 Гбит/с"
   },
   {
@@ -154,7 +154,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 536329,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Huawei, AR730, 3 порта WAN GE (RJ45/SFP Combo), 8 портов LAN GE 10/100/1000M RJ-45, поддержка до 200 пользователей, производительность пересылки до 3 Гбит/с"
   },
   {
@@ -166,7 +166,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 1031067,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Межсетевой экран, Huawei, USG6000E-S13-AC, 2*GE RJ45 + 8*GE COMBO + 2*10GE SFP+,1 AC power,Include SSL VPN 100 Users"
   },
   {
@@ -178,7 +178,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 16296,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, MikroTik, RB941-2nD, hAP lite, 4xLAN, 802.11b/g/n, N300, 2.4 GHz, RouterOS, desktop case, -20°C to 60°C"
   },
   {
@@ -190,7 +190,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 16975,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, MikroTik, RB941-2nD-TC, hAP lite, 4xLAN, 802.11b/g/n, N300, 2.4 GHz, RouterOS, tower case, -20°C to 60°C"
   },
   {
@@ -202,7 +202,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 24250,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, MikroTik, RB911G-5HPnD, RouterBOARD, 1 порт 10/100/1000М, 5GHz, 300 Мбит/с, 802.11a/n, RouterOS, -40°С до 70 °C, плата без внешнего корпуса"
   },
   {
@@ -214,7 +214,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 28130,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, MikroTik, RB750r2, hEX lite, 5 портов 10/100M, Passive PoE in, RouterOS (4), -40°C to 70°C, plastic case"
   },
   {
@@ -226,7 +226,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 31040,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, MikroTik, RB951Ui-2nD, hAP, 5 портов 10/100M (Ether5 Passive PoE), USB, Passive PoE in, 802.11b/g/n, N300, RouterOS (4), -30°C to 70°C, desktop case"
   },
   {
@@ -238,7 +238,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 35704,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, MikroTik, L41G-2axD, hAP ax lite, 4 x Gbit LAN, RouterOS, 802.11b/g/n/ax, AX600, 2.4Ghz, -40°C to 70°C"
   },
   {
@@ -250,7 +250,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 35890,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, MikroTik, RB952Ui-5ac2nD, hAP ac lite, 5xLAN, 2 PoE-IN Passive PoE, Ether5 PoE-out Passive PoE, 802.11a/b/g/n/ac, AС750, RouterOS, desktop case, -30°C to 70°C"
   },
   {
@@ -262,7 +262,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 37345,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, MikroTik, RB952Ui-5ac2nD-TC, hAP ac lite, 5 портов 10/100M (Ether5 Passive PoE 0.5A), Passive PoE in, 802.11a/b/g/n/ac, AC750, RouterOS (4), -30°C to 70°C, desktop/tower case"
   },
   {
@@ -274,7 +274,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 38315,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, MikroTik, RB750UPr2, hEX PoE lite, 5 портов 10/100M, (Ether2-Ether5 Passive PoE, 2А), Passive PoE in, RouterOS (4), -40°C to 70°C, plastic case"
   },
   {
@@ -286,7 +286,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 40740,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, MikroTik, RB951series RB951Ui-2HnD, RouterBOARD, 5xLAN, 2 PoE-IN Passive PoE, Ether5 PoE-out Passive PoE, 802.11b/g/n, N300, 2.4 GHz, RouterOS, desktop case, -20°C to 60°C"
   },
   {
@@ -298,7 +298,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 41225,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор индустриальный, MikroTik, RB750Gr3, hEX, 5 портов 10/100/1000M, Passive PoE in, RouterOS (4), -40°C to 70°C, plastic case"
   },
   {
@@ -310,7 +310,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 41710,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, MikroTik, E50UG, hEX refresh, 5 портов 10/100/1000М, Passive PoE, RouterOS, 1 порт USB-A, -40°С до 70 °C"
   },
   {
@@ -322,7 +322,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 33950,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, MikroTik, L11UG-5HaxD, RouterBOARD, 1 порт 10/100/1000М, 5GHz, АХ2400, 1 порт USB-A, RouterOS, -40°С до 70 °C, плата без внешнего корпуса"
   },
   {
@@ -334,7 +334,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 37733,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, MikroTik, RB750P-PBr2, PowerBOX, 5 портов 10/100M, (Ether2-Ether5 Passive PoE, 2А), Passive PoE in, RouterOS (4), -40°C to 70°C, outdoor case"
   },
   {
@@ -346,7 +346,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 54320,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, MikroTik, RBD52G-5HacD2HnD-TC, hAP ac2, 5 x Gbit LAN, 2 PoE-IN Passive PoE, 802.11a/b/g/n/ac, AС1200, RouterOS, -40°C to 50°C"
   },
   {
@@ -358,7 +358,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 50440,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, MikroTik, E62iUGS-2axD5axT, hAP ax S, 5 портов 10/100/1000M (Ether1 Passive PoE), Passive PoE in, 802.11b/g/n/ac/ax, AX2400, RouterOS (7), -40°C to 50°C, desktop"
   },
   {
@@ -370,7 +370,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 49713,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, MikroTik, RB760iGS, hEX S, 5  10/100/1000 Ethernet port, 1  SFP,1  USB (тип А), 1  MicroSD"
   },
   {
@@ -382,7 +382,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 43650,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, MikroTik, L23UGSR-5HaxD2HaxD, RouterBOARD, 1 порт 10/100/1000М, 1 порт 2,5G SFP, 2.4/5GHz, АX3000, 1 slot Nano SIM, 1 slot USB-A, RouterOS, -40°С до 70 °C, плата без внешнего корпуса"
   },
   {
@@ -394,7 +394,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 63050,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, MikroTik, RB960PGS, hEX PoE, 5 портов 10/100/1000M, (Ether2-Ether5 Passive PoE, 2А), Passive PoE in, RouterOS (4), -40°C to 70°C, outdoor case"
   },
   {
@@ -406,7 +406,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 52720,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, MikroTik, L11UG-5HaxD-NB, NetBox 5 ax, 1xGigabit LAN, PoE-IN Passive PoE, 802.11a/n/ac/ax , AX2400, RouterOS, -40°C to 70°C"
   },
   {
@@ -418,7 +418,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 65475,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, MikroTik, C52iG-5HaxD2HaxD-TC, hAP ax2, 5 портов 10/100/1000M (Ether1 Passive PoE), Passive PoE in, 802.11b/g/n/ac/ax, AX1800, RouterOS (4), -40°C to 50°C, desktop/tower case"
   },
   {
@@ -430,7 +430,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 71586,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, MikroTik, RBD53iG-5HacD2HnD, hAP ac3, 5 портов 10/100/1000M (Ether1 Passive PoE 0.5A), Passive PoE in, 802.11a/b/g/n/ac, AC1200, RouterOS (4), -40°C to 70°C, desktop/tower case"
   },
   {
@@ -442,7 +442,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 81286,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, MikroTik, L009UiGS-RM, 8 x Gbit LAN, 1 x 2.5 Gbit SFP port, USB, PoE in 802.3af/at, PoE-out Ether8 Passive PoE, RouterOS, desktop/1U rackmount case, -40°C to 70°C"
   },
   {
@@ -454,7 +454,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 86330,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, MikroTik, L009UiGS-2HaxD-IN, 8 x Gbit LAN, 1 x 2.5 Gbit SFP port, 802.11b/g/n/ax, AX600, USB, PoE-out Ether8 Passive PoE, RouterOS, desktop/1U rackmount case, -40°C to 70°C"
   },
   {
@@ -466,7 +466,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 80025,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, MikroTik, RB962UiGS-5HacT2HnT, hAP ac, 5 портов 10/100/1000M (Ether1 Passive PoE 0.7A), Passive PoE in, 802.11a/b/g/n/ac, AC1750, RouterOS (4), -40°C to 70°C, desktop case"
   },
   {
@@ -478,7 +478,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 92878,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводной маршрутизатор, MikroTik, C53UiG+5HPaxD2HPaxD, hAP ax3, 802.11a/b/g/n/ac/ax, AX1800, 4 порта 10/100/1000M, 1 порт 2.5G Ethernet, 1xUSB 3.0, PoE-out порт Ether1 Passive PoE, PoE in Passive PoE, RouterOS, -40°C to 70°C"
   },
   {
@@ -490,7 +490,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 145500,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, MikroTik, RB4011iGS+RM, RouterBOARD, 10 портов 10/100/1000M, 1 порт SFP+, (Ether10 Passive PoE, 0,6А), Passive PoE in, RouterOS (5), -40°C to 70°C, стоечный 1U"
   },
   {
@@ -502,7 +502,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 171933,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Беспроводная точка доступа, MikroTik, RB4011iGS+5HacQ2HnD-IN, RouterBOARD, 10xGbit LAN, PoE-IN Passive PoE, PoE-out Ether10 Passive PoE, 1xSFP+ port, RouterOS, 802.11a/b/g/n/ac, AС2000, desktop case"
   },
   {
@@ -514,7 +514,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 176540,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, MikroTik, S53UG+5HaxD2HaxD-TC&EG18-EA, Chateau LTE18 ax, 4 порта 10/100/1000М, 1 порт 2500М, 2.4/5 GHz, АХ1800, 1 слот Micro SIM, 1 слот USB-A, RouterOS, -40°С до 70 °"
   },
   {
@@ -526,7 +526,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 143075,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, MikroTik, RB5009UG+S+IN, RouterBOARD, 7 портов 10/100/1000M, 1 порт 2.5G, 1 порт SFP+, 1*USB 3.0 type A, 802.3af/at PoE in, RouterOS (5), -40°C to 60°C, metal desktop case"
   },
   {
@@ -538,7 +538,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 195940,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, MikroTik, RB5009UPr+S+IN, RouterBORD, 1x 2.5Gbit LAN (802.3af/at PoE-out and POE-in), 7x 1Gbit LAN (802.3af/at PoE-out and POE-in), 1x SFP+ port, RouterOS, metal desktop case, -40°C to 60°C"
   },
   {
@@ -550,7 +550,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 200305,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой маршрутизатор, MikroTik, RB1100AHx4, RB1100x4, 13 портов 10/100/1000M,Passive PoE 802.3af/at, RouterOS, -40°C to 70°C, стоечный 1U"
   },
   {
@@ -562,7 +562,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 261900,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, MikroTik, RB1100AHx4 Dude Edition, RB1100Dx4, 13 портов 10/100/1000М, 802.3af/at, RouterOS, консольный порт RS232, 1 слот microSD, -40°С до 70 °C"
   },
   {
@@ -574,7 +574,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 120293,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, MikroTik, CCR2004-1G-2XS-PCIe, PCI-express card, 2x25G SFP28 cages, 1xGbit LAN, RouterOS, PCIe network interface, -20°C to 60°C"
   },
   {
@@ -586,7 +586,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 302155,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, MikroTik, CCR2004-16G-2S+PC, Cloud Core Router, 16 портов 10/100/1000M, 2 порта SFP+, RouterOS (6), -20°C to 60°C, стоечный 1U"
   },
   {
@@ -598,7 +598,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 310400,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, MikroTik, CCR2004-16G-2S+, Cloud Core Router, 16 портов 10/100/1000M, 2 порта SFP+, 1*USB 3.0 type A, RouterOS (6), -20°C to 60°C, стоечный 1U"
   },
   {
@@ -610,7 +610,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 394305,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, MikroTik, CCR2004-1G-12S+2XS, Cloud Core Router, 1x Gigabit RJ45 port, 12x 10G SFP+, 2 x 25G SFP28, RouterOS, 1U rackmount case, Dual PSU, -20°C to 60°C"
   },
   {
@@ -622,7 +622,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 641170,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, MikroTik, CCR2116-12G-4S+, Cloud Core Router, 4xSFP+, 13xGbit LAN, M.2 PCIe slot, RouterOS, 1U rackmount case, Dual PSU, -20°C to 60°C"
   },
   {
@@ -634,7 +634,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 1784800,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой маршрутизатор, MikroTik, CCR2216-1G-12XS-2XQ, Cloud Core Router, 1 порт 10/100/1000T Rj45, 12 портов 25G SFP28, 2 порта 100G QSFP28, RouterOS, -20°C to 60°C, стоечный"
   },
   {
@@ -646,7 +646,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 106700,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, H3C, RT-MSR610, 4 порта 10/100/1000М, 1 порт 10/100/1000М, 1 порт 1000M SFP, AC 100~240 В, 0°C до 40°C"
   },
   {
@@ -658,7 +658,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 815805,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Роутер, H3C, RT-MSR5620,"
   },
   {
@@ -670,7 +670,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 145721,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Межсетевой экран, H3C, NS-SecPath F100-C-A1-I, IPS-600Mbps, Threat Protection-500Mbps,Firewall Throughput(1518B)-1.2Gbps, 5 портов GE + 2 порта SFP, VPN (L2TP VPN,IPsec VPN,GRE VPN,SSL VPN)"
   },
   {
@@ -682,7 +682,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 208550,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Межсетевой экран, H3C, NS-SecPath F100-C-A2-I,IPS-600Mbps,Threat Protection-500Mbps,Firewall Throughput(1518B)-1.2Gbps, 10 портов GE + 2 порта SFP, VPN (L2TP VPN,IPsec VPN,GRE VPN,SSL VPN)"
   },
   {
@@ -694,7 +694,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 34513,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Grandstream, GWN7001, 6x GbE WAN/LAN, VPN (530 Мбит/с), DPI, SDN, USB , встроенный локальный мастер GWN"
   },
   {
@@ -706,7 +706,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 40789,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Grandstream, GWN7002, 2x SFP, 4x GbE WAN/LAN, 1x PoE-In, 2x PoE-Out, VPN (530 Мбит/с), DPI, SDN, USB , встроенный локальный мастер GWN"
   },
   {
@@ -718,7 +718,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 62119,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, Grandstream, GWN7003, 2x SFP, 9x GbE WAN/LAN, 1x PoE-In, 2x PoE-Out, VPN (530 Мбит/с), DPI, SDN, USB , встроенный локальный мастер GWN"
   },
   {
@@ -730,7 +730,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 32970,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, TL-R470T+, 1x100Mb постоянный WAN порт, 1x100Mb постоянный Ethernet LAN порт, 3x100Mb изменяемых порта Ethernet WAN/LAN"
   },
   {
@@ -742,7 +742,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 45580,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор Multi-WAN VPN, TP-Link, ER605, 1 фиксированный гигабитный порт WAN, 1 фиксированный гигабитный порт LAN, 3 переключаемых гигабитных порта WAN/LAN"
   },
   {
@@ -754,7 +754,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 52370,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, TP-Link, TL-R480T+, Lan 4x100Mb порта + 1x100Mb WAN порт + RJ-45 на RS232 (Консольный)"
   },
   {
@@ -766,7 +766,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 103780,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор VPN, TP-Link, ER7206 , SafeStream Гигабитный VPN-маршрутизатор с 1x1000Mb портом WAN + 3x1000Mb настраиваемых порта WAN/LAN + 1x1000Mb порт LAN"
   },
   {
@@ -778,7 +778,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 85350,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор VPN, TP-Link, ER706W, 1 гигабитный SFP-порт WAN/LAN, 1 гигабитный WAN-порт, 4 гигабитных LAN/WAN-порта, 1 порт USB 3.0 (поддерживает USB LTE-модем и USB-накопители), AX3000 WiFi 6, Адаптер питания 12 В постоянного тока / 2 А"
   },
   {
@@ -790,7 +790,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 139670,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор VPN, TP-Link, ER7212PC, 2 порта SFP WAN/LAN, 1 порт 10/1000/1000T WAN, 1 порт 10/1000/1000T WAN/LAN, 8 портов 10/100/1000T LAN, контроллер Omada"
   },
   {
@@ -802,7 +802,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 0,
     "stock": 50,
     "is_available": false,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор VPN, TP-Link, ER7406"
   },
   {
@@ -814,7 +814,7 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 300690,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор VPN, TP-Link, ER8411, SafeStream Гигабитный VPN-маршрутизатор с 2 портами SFP+ 10 Гбит/с, 1 гигабитный SFP-порт WAN/LAN, 8 гигабитных портов RJ45 WAN/LAN, 1 консольный порт RJ45, 2 USB-порта для создания резервного подключения WAN через USB-модем 3G/4G"
   },
   {
@@ -826,7 +826,8 @@ export const KORPORATIVNYE_MARSHRUTIZATORY = [
     "price": 126585,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Маршрутизатор, BDCOM, BSR2900-20C, 1-Port Console(RJ45), 1-Port USB2.0, 2-Port Gigabit Rj45, · 2-Port Gigabit RJ45/SFP combo"
   }
 ];
+

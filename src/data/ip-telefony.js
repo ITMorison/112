@@ -10,7 +10,7 @@ export const IP_TELEFONY = [
     "price": 24304,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP телефон, Hikvision, DS-KP6000-HE1, 4 SIP-линии, 33 физических ключа, два сетевых порта 10/100 Мбит/с, встроенный PoE"
   },
   {
@@ -22,7 +22,7 @@ export const IP_TELEFONY = [
     "price": 150687,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP-видеотелефон, Hikvision, DS-KP9301-HE1, 20 SIP-линий, точка доступа SIP, встроенная камера с разрешением 1080P, два порта Gigabit Ethernet, стандартный блок питания PoE"
   },
   {
@@ -34,7 +34,7 @@ export const IP_TELEFONY = [
     "price": 24473,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP телефон, Grandstream, GXP1610P, 2 SIP аккаунта, 2 линии, 2 порта Ethernet 10/100 PoE, ЖК-дисплей 132x48 (2,95\"), без блока питания"
   },
   {
@@ -46,7 +46,7 @@ export const IP_TELEFONY = [
     "price": 26355,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP телефон, Grandstream, GXP1620, 2 SIP- аккаунта, 2 линии, 2 порта Ethernet 10/100 без PoE, 3-х сторонняя конференц-связь, ЖК-дисплей 132x48 (2.95 дюйма) с подсветкой, блок питания 5 В/0.6 А"
   },
   {
@@ -58,7 +58,7 @@ export const IP_TELEFONY = [
     "price": 26355,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP телефон, Grandstream, GXP1615, 2 SIP- аккаунта, 2 линии, 2 порта Ethernet 10/100 PoE, 3-х сторонняя конференц-связь, ЖК-дисплей 132x48 (2.95 дюйма), блок питания 5 В/0.6 А"
   },
   {
@@ -70,7 +70,7 @@ export const IP_TELEFONY = [
     "price": 28237,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP телефон, Grandstream, GXP1625, 2 SIP- аккаунта, 2 линии, 2 порта Ethernet 10/100 PoE, 3-х сторонняя конференц-связь, ЖК-дисплей 132x48 (2.95\") с подсветкой, блок питания 5 В/0.6 А"
   },
   {
@@ -82,7 +82,7 @@ export const IP_TELEFONY = [
     "price": 24473,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP телефон, Grandstream, GXP1610, 2 SIP аккаунта, 2 линии, 2 порта Ethernet 10/100 без PoE, 3-х сторонняя конференц-связь, ЖК-дисплей 132x48 (2.95 дюйма), блок питания 5 В/0.6 А"
   },
   {
@@ -94,7 +94,7 @@ export const IP_TELEFONY = [
     "price": 68395,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP телефон, Grandstream, GXP2130, 3 SIP- аккаунта, 3 линии, 8 BLF, 2x GbE PoE, 4-х сторонняя конференц-связь, ЖК-дисплей 320x240 (с подсветкой), блок питания 12 В/0.5 А"
   },
   {
@@ -106,7 +106,7 @@ export const IP_TELEFONY = [
     "price": 93489,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP телефон, Grandstream, GXP2170, 6 SIP-аккаунтов, 12 линий, 48 виртуальных клавиш BLF, 2x GbE PoE, цветной ЖК-дисплей 480x272 (4.3 дюйма), 48 виртуальных клавиш BLF, поддержка GXP2200EXT, блок питания 12 В/1 А"
   },
   {
@@ -118,7 +118,7 @@ export const IP_TELEFONY = [
     "price": 93489,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP телефон, Grandstream, GXP2160, 6 SIP-аккаунтов, 6 линий, 2x GbE PoE, цветной ЖК-дисплей 480x272 (4.3 дюйма), 24 клавиши BLF, блок питания 12 В/1 А"
   },
   {
@@ -130,7 +130,7 @@ export const IP_TELEFONY = [
     "price": 25104,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP телефон, Grandstream, GRP2601, 2 SIP-аккаунта, 2 линии, 2 порта Ethernet 10/100 без PoE, ЖК-дисплей 132x48 (2.41 дюйма), блок питания 5 В/0.6 А"
   },
   {
@@ -142,7 +142,7 @@ export const IP_TELEFONY = [
     "price": 25104,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP телефон, Grandstream, GRP2601P, 2 SIP-аккаунта, 2 линии, 2 порта Ethernet 10/100 PoE, ЖК-дисплей 132x48 (2.41 дюйма), без блока питания"
   },
   {
@@ -154,7 +154,7 @@ export const IP_TELEFONY = [
     "price": 28237,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP телефон, Grandstream, GRP2602P, 4 SIP-аккаунта, 2 линии, 2 порта Ethernet 10/100 PoE, ЖК-дисплей 132x48 (2.41 дюйма) с подсветкой, без блока питания"
   },
   {
@@ -166,7 +166,7 @@ export const IP_TELEFONY = [
     "price": 28237,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP телефон, Grandstream, GRP2602, 4 SIP-аккаунта, 2 линии, 2 порта Ethernet 10/100 без PoE, ЖК-дисплей 132x48 (2.41 дюйма) с подсветкой, блок питания 5 В/0.6 А"
   },
   {
@@ -178,7 +178,7 @@ export const IP_TELEFONY = [
     "price": 28237,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP телефон, Grandstream, GRP2601W, 2 SIP-аккаунта, 2 линии, 2 порта Ethernet 10/100 без PoE, Wi-Fi, ЖК-дисплей 132x48 (2.41\") , блок питания 5V/0.6A"
   },
   {
@@ -190,7 +190,7 @@ export const IP_TELEFONY = [
     "price": 37646,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP телефон, Grandstream, GRP2612G, 4 SIP-аккаунта, 4 линии, 2x GbE PoE, цветной ЖК-дисплей 320x240 (2.4 дюйма), блок питания 5 В/0.6 А"
   },
   {
@@ -202,7 +202,7 @@ export const IP_TELEFONY = [
     "price": 37025,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP телефон, Grandstream, GRP2602W, 4 SIP-аккаунта, 2 линии, 2 порта Ethernet 10/100 без PoE, Wi-Fi, ЖК-дисплей 132x48 (2.41 дюйма) с подсветкой, блок питания 5 В/0.6 А"
   },
   {
@@ -214,7 +214,7 @@ export const IP_TELEFONY = [
     "price": 31370,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP телефон, Grandstream, GRP2602G, 4 SIP-аккаунта, 2 линии, 2 порта GbE PoE, ЖК-дисплей 132x48 (2.41 дюйма) с подсветкой, блок питания 5 В/0.6 А"
   },
   {
@@ -226,7 +226,7 @@ export const IP_TELEFONY = [
     "price": 37646,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP телефон, Grandstream, GRP2603, 6 SIP-аккаунтов, 3 линии, 2 порта GbE без PoE, ЖК-дисплей 132x64 (2.7 дюйма) с подсветкой, блок питания 5 В/0.6 А"
   },
   {
@@ -238,7 +238,7 @@ export const IP_TELEFONY = [
     "price": 37646,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP телефон, Grandstream, GRP2603P, 6 SIP-аккаунтов, 3 линии, 2 порта GbE PoE, ЖК-дисплей 132x64 (2.7\") с подсветкой, без блока питания"
   },
   {
@@ -250,7 +250,7 @@ export const IP_TELEFONY = [
     "price": 35143,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP телефон, Grandstream, GRP2612, 4 SIP-аккаунта, 4 линии, 2 порта Ethernet 10/100 без PoE, цветной ЖК-дисплей 320x240 (2.4 дюйма), блок питания 5 В/0.6 А"
   },
   {
@@ -262,7 +262,7 @@ export const IP_TELEFONY = [
     "price": 35143,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP телефон, Grandstream, GRP2612P, 4 SIP-аккаунта, 4 линии, 2 порта Ethernet 10/100 PoE, цветной ЖК-дисплей 320x240 (2.4 дюйма), без блока питания"
   },
   {
@@ -274,7 +274,7 @@ export const IP_TELEFONY = [
     "price": 47055,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP телефон, Grandstream, GRP2604P, 6 SIP-аккаунтов, 3 линии, 2x GbE PoE, ЖК-дисплей 132x64 (2.7\") с подсветкой, 10 клавиш BLF, без блока питания"
   },
   {
@@ -286,7 +286,7 @@ export const IP_TELEFONY = [
     "price": 47055,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP телефон, Grandstream, GRP2604, 6 SIP-аккаунтов, 3 линии, 2 порта GbE без PoE, ЖК-дисплей 132x64 (2.7 дюйма) с подсветкой, 10 клавиш BLF, блок питания 5 В/0.6 А"
   },
   {
@@ -298,7 +298,7 @@ export const IP_TELEFONY = [
     "price": 43922,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP телефон, Grandstream, GRP2612W,4 SIP аккаунта, 4 линии, цветной LCD, PoE, 16 virtualBLF, Wi-Fi, без блока питания"
   },
   {
@@ -310,7 +310,7 @@ export const IP_TELEFONY = [
     "price": 43922,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP телефон, Grandstream, GRP2613, 3 SIP-аккаунта, 6 линий, 2x GbE PoE, цветной ЖК-дисплей 320x240 (2.8\"), 24 виртуальных клавиши BLF, блок питания 5 В / 0.6 А"
   },
   {
@@ -322,7 +322,7 @@ export const IP_TELEFONY = [
     "price": 68395,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP телефон, Grandstream, GRP2624, 12 SIP аккаунтов, 8 линий, цветной LCD (2,8\"320x240), PoE, (1GbE) Gigabit Ethernet, до 4-х GBX20, USB, Wi-Fi, Bluetooth, блок питания 12 В/ 1 А"
   },
   {
@@ -334,7 +334,7 @@ export const IP_TELEFONY = [
     "price": 68870,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP телефон, Grandstream, GRP2634, 12 SIP аккаунтов, 8 линий, 2,8\"(320x240) цветной LCD, PoE, (1GbE)Gigabit Ethernet, 10 BLF, USB, Wi-Fi, Bluetooth, блок питания 12 В/ 1 А"
   },
   {
@@ -346,7 +346,7 @@ export const IP_TELEFONY = [
     "price": 100385,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP телефон, Grandstream, GRP2636, 16 SIP аккаунтов, 12 линий, 4,3\" (480272) цветной LCD, PoE, (1GbE)Gigabit Ethernet, 24 BLF, USB, Wi-Fi, Bluetooth, блок питания 12 В/1 А"
   },
   {
@@ -358,7 +358,7 @@ export const IP_TELEFONY = [
     "price": 109794,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP телефон, Grandstream, GRP2614, 12 SIP аккаунтов, 4 линии, двойной цветной LCD (2.8\" 320 x 240. 2.4\" 320 x 240), PoE, (1GbE)Gigabit Ethernet, 8 BLF, Wi-Fi, Bluetooth, блок питания 12 В/1 А"
   },
   {
@@ -370,7 +370,7 @@ export const IP_TELEFONY = [
     "price": 109794,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP телефон, Grandstream, GRP2615, 16 SIP аккаунтов, 10 линий, цветной LCD (4.3\" 480 x 272), PoE, (1GbE)Gigabit Ethernet, до 4-х GBX20, USB, Wi-Fi, Bluetooth, блок питания 12 В/1 А"
   },
   {
@@ -382,7 +382,7 @@ export const IP_TELEFONY = [
     "price": 102820,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP телефон, Grandstream, GRP2650, 16 SIP аккаунтов, 14 линий, цветной LCD (5\"1280720), PoE, (1GbE)Gigabit Ethernet, до 4-х GBX20, USB, Wi-Fi, Bluetooth, блок питания 12 В/1 А"
   },
   {
@@ -394,7 +394,7 @@ export const IP_TELEFONY = [
     "price": 118583,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP телефон, Grandstream, GRP2616, 16 SIP аккаунтов, 6 линий, двойной цветной LCD (4.3\" 480 x 272. 2.4\" 320 x 240), PoE, (1GbE)Gigabit Ethernet, 8 BLF, USB, Wi-Fi, Bluetooth, блок питания 12 В/ 1 А"
   },
   {
@@ -406,7 +406,7 @@ export const IP_TELEFONY = [
     "price": 124858,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP телефон, Grandstream, GRP2670,16 SIP аккаунтов, 12 линий, 7\" (1024600) мультитач экран, PoE, (2GbE)Gigabit Ethernet, до 4-х GBX20, USB, Wi-Fi, Bluetooth, блок питания 12 В/1 А"
   },
   {
@@ -418,7 +418,7 @@ export const IP_TELEFONY = [
     "price": 40789,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP телефон, Grandstream, GHP630, 2 учетные записи SIP, 2 линии, 1 порт Ethernet 10/100 PoE, цветной ЖК-дисплей 480x320 (3,5\"), без блока питания, компактный гостиничный"
   },
   {
@@ -430,7 +430,7 @@ export const IP_TELEFONY = [
     "price": 47055,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP телефон, Grandstream, GHP630W, 2 учетные записи SIP, 2 линии, 1 порт Ethernet 10/100 PoE, Wi-Fi, цветной ЖК-дисплей 480x320 (3,5\"), блок питания 12В/0,5А, компактный гостиничный"
   },
   {
@@ -442,7 +442,7 @@ export const IP_TELEFONY = [
     "price": 40789,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP телефон, Grandstream, GHP631, 2 учетные записи SIP, 2 линии, 1 порт Ethernet 10/100 PoE, , цветной ЖК-дисплей 480x320 (3,5\"), без блока питания, компактный гостиничный"
   },
   {
@@ -454,7 +454,7 @@ export const IP_TELEFONY = [
     "price": 47055,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP телефон, Grandstream, GHP631W, 2 учетные записи SIP, 2 линии, 1 порт Ethernet 10/100 PoE, Wi-Fi, цветной ЖК-дисплей 480x320 (3,5\"), блок питания 12В/0,5А, компактный гостиничный"
   },
   {
@@ -466,7 +466,7 @@ export const IP_TELEFONY = [
     "price": 185086,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP-видеотелефон, Grandstream, GXV3450, 16 SIP-аккаунтов, 16 линий, 2x GbE PoE, Wi-Fi, цветной сенсорный ЖК-экран 1280x720 (5.0\"), камера 2 Мп, поддержка GBX20, Android 11, блок питания 12 В/1.5 А"
   },
   {
@@ -478,7 +478,7 @@ export const IP_TELEFONY = [
     "price": 235274,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP-видеотелефон, Grandstream, GXV3470, 16 SIP-аккаунтов, 16 линий, 2x GbE PoE, Wi-Fi, цветной сенсорный ЖК-экран 1280x800 (7.0\"), камера 2 Мп"
   },
   {
@@ -490,7 +490,7 @@ export const IP_TELEFONY = [
     "price": 281707,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP-видеотелефон, Grandstream, GXV3480, 16 SIP-аккаунтов, 16 линий, 2x GbE PoE, Wi-Fi, цветной сенсорный ЖК-экран 1280x800 (8.0\"), камера 2 Мп, Android, блок питания 12 В / 1.5 А"
   },
   {
@@ -502,7 +502,7 @@ export const IP_TELEFONY = [
     "price": 298189,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP-видеотелефон, Grandstream, GXV3380, 16 SIP-аккаунтов, 16 линий, 2x GbE PoE, Wi-Fi, цветной сенсорный ЖК-экран 1280x800 (8.0\"), камера 2 Мп, Android 7, блок питания 12 В/1.5 А"
   },
   {
@@ -514,7 +514,7 @@ export const IP_TELEFONY = [
     "price": 37646,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "DECT IP телефон, Grandstream, DP725, 20 SIP-аккаунтов, 20 линий, ЖК-дисплей 128x160 (1,8\"), литий-ионный аккумулятор 1500 мАч, блок питания USB-C 5V/1A"
   },
   {
@@ -526,7 +526,7 @@ export const IP_TELEFONY = [
     "price": 38907,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "DECT IP телефон, Grandstream, DP722, 10 SIP-аккаунтов, 10 линий, ЖК-дисплей 128x160 (1.8 дюйма), 800 мАч Ni-MH AAA, блок питания Micro-USB 5 В/1 А"
   },
   {
@@ -538,7 +538,7 @@ export const IP_TELEFONY = [
     "price": 38907,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "DECT IP телефон, Grandstream, DP720, 10 SIP-аккаунтов, 10 линий, ЖК-дисплей 128x160 (1.8 дюйма), 800 мАч Ni-MH AAA, блок питания Micro-USB 5 В/1 А"
   },
   {
@@ -550,7 +550,7 @@ export const IP_TELEFONY = [
     "price": 62119,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "DECT IP телефон, Grandstream, DP730, 10 SIP-аккаунтов, 10 линий, ЖК-дисплей 240x320 (2.4 дюйма), литий-ионный аккумулятор емкостью 1500 мАч, блок питания Micro-USB 5 В/1 А"
   },
   {
@@ -562,7 +562,7 @@ export const IP_TELEFONY = [
     "price": 34513,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Базовая станция DECT VoIP, Grandstream, DP755, 20 учетных записей SIP, 20 линий, 1 порт Ethernet 10/100 PoE, 5V/1A Micro-USB PSU"
   },
   {
@@ -574,7 +574,7 @@ export const IP_TELEFONY = [
     "price": 47055,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP телефон, Grandstream, WP816, 2 SIP аккаунта, 2 линии, ЖК-дисплей 128x160 (1,77\"), литий-ионный аккумулятор 1500 мАч, блок питания USB-C 5V/1A"
   },
   {
@@ -586,7 +586,7 @@ export const IP_TELEFONY = [
     "price": 59607,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "IP телефон, Grandstream, WP826, 3 SIP аккаунта, 3 линии, ЖК-дисплей 240x320 (2,4\"), литий-ионный аккумулятор 3000 мАч, блок питания USB-C 5V/1A"
   },
   {
@@ -598,7 +598,7 @@ export const IP_TELEFONY = [
     "price": 55843,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "WI-FI IP телефон, Grandstream, WP810, 2 учетные записи SIP, 2 линии, ЖК-дисплей 128x160 (1.8 дюйма), литий-ионный аккумулятор 1500 мАч, блок питания Micro-USB 5 В/1 А"
   },
   {
@@ -610,7 +610,7 @@ export const IP_TELEFONY = [
     "price": 74661,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "WI-FI IP телефон, Grandstream, WP822, 2 учетные записи SIP, 2 линии, ЖК-дисплей 240x320 (2.4 дюйма), литий-ионный аккумулятор 2000 мАч, блок питания Micro-USB 5 В/1 А"
   },
   {
@@ -622,7 +622,7 @@ export const IP_TELEFONY = [
     "price": 90976,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "WI-FI IP телефон, Grandstream, WP820, 2 SIP-аккаунта, 2 линии, ЖК-дисплей 240x320 (2.4 дюйма), Android, литий-ионный аккумулятор 1500 мАч, блок питания Micro-USB 5 В / 1 А"
   },
   {
@@ -634,7 +634,7 @@ export const IP_TELEFONY = [
     "price": 103528,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "WI-FI IP телефон, Grandstream, WP825, 2 SIP аккаунта, 2 линии, 2,4\" (240 x 320) экран, время разговора до 8 часов, клавиша Push-To-Talk, Bluetooth, IP67"
   },
   {
@@ -646,7 +646,7 @@ export const IP_TELEFONY = [
     "price": 78425,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Модуль расширения клавиатуры, Grandstream, GXP2200EXT, ЖК-дисплей 128x384 с подсветкой, 20 двухцветных кнопок, 2 страницы, последовательное подключение до 4 модулей"
   },
   {
@@ -658,7 +658,7 @@ export const IP_TELEFONY = [
     "price": 99765,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Модуль расширения, Grandstream, GBX20, для GRP2615, GRP2624, GRP2650, GRP2670, GXV3350 и GXV3450. Цветной ЖК-дисплей 480x272, 20 двухцветных кнопок, 2 страницы, последовательное подключение до 4 модулей"
   },
   {
@@ -670,7 +670,7 @@ export const IP_TELEFONY = [
     "price": 3773,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Grandstream, 5V/600mA PSU"
   },
   {
@@ -682,7 +682,9 @@ export const IP_TELEFONY = [
     "price": 0,
     "stock": 50,
     "is_available": false,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Grandstream, RPS-70W, для коммутатора GWN7816"
   }
 ];
+
+

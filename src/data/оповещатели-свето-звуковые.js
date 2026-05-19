@@ -10,7 +10,7 @@ export const ОПОВЕЩАТЕЛИ_СВЕТО_ЗВУКОВЫЕ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Оповещатель пожарный комбинированный (световой-звуковой), Dahua, DHI-HY-C151, Простая установка, Низкая вероятность ошибок при подключении (полярность не важна), Стабильная работа, встроенный микропроцессор."
   },
   {
@@ -22,7 +22,7 @@ export const ОПОВЕЩАТЕЛИ_СВЕТО_ЗВУКОВЫЕ = [
     "price": 10144,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Оповещатель пожарный адресный комбинированный (световой-звуковой), Dahua, DHI-HY-1500, Удобная проводка: двухпроводная, Беcполярная, Надежная связь: встроенный микропроцессор, Стабильная производительность"
   },
   {
@@ -34,7 +34,8 @@ export const ОПОВЕЩАТЕЛИ_СВЕТО_ЗВУКОВЫЕ = [
     "price": 4728,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Внутренняя сирена, Dahua, DHI-ARA11, 105 дБ, 4,5 Вт (макс.)"
   }
 ];
+

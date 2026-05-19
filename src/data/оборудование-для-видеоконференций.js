@@ -10,7 +10,7 @@ export const ОБОРУДОВАНИЕ_ДЛЯ_ВИДЕОКОНФЕРЕНЦИЙ = 
     "price": 92499,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Спикерфон, Jabra, 7510-109, Jabra SPEAK 510 MS, USB 2.0 & Bluetooth, Omnidirectional microphone, USB cord ~90cm, -10°C to + 50°C"
   },
   {
@@ -22,7 +22,7 @@ export const ОБОРУДОВАНИЕ_ДЛЯ_ВИДЕОКОНФЕРЕНЦИЙ = 
     "price": 87441,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Спикерфон, Jabra, 2740-109, Jabra Speak2 40, MS Teams, Беспроводная, USB А/С, 50-мм динамик, Степень защиты IP64"
   },
   {
@@ -34,7 +34,7 @@ export const ОБОРУДОВАНИЕ_ДЛЯ_ВИДЕОКОНФЕРЕНЦИЙ = 
     "price": 97538,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Спикерфон, Jabra, 2755-109, Jabra Speak2 55, MS Teams, Беспроводная, Конференц-микрофон, динамик USB, Bluetooth 5.1, Настольный"
   },
   {
@@ -46,7 +46,7 @@ export const ОБОРУДОВАНИЕ_ДЛЯ_ВИДЕОКОНФЕРЕНЦИЙ = 
     "price": 206886,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Спикерфон, Jabra, 2775-209, Jabra Speak2 75, UC, USB А/С, Bluetooth 5.2, Цифровой MEMS, Шумоподавление , 4700 мАч"
   },
   {
@@ -58,7 +58,7 @@ export const ОБОРУДОВАНИЕ_ДЛЯ_ВИДЕОКОНФЕРЕНЦИЙ = 
     "price": 198942,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Спикерфон, Jabra, 2775-109, Jabra Speak2 75, MS Teams, Беспроводная, USB А/С, Bluetooth 5.2, Цифровой MEMS, 4700 мАч, bluetooth адаптер Link 380a отсутствует"
   },
   {
@@ -70,7 +70,7 @@ export const ОБОРУДОВАНИЕ_ДЛЯ_ВИДЕОКОНФЕРЕНЦИЙ = 
     "price": 222867,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Спикерфон, Jabra, 2775-319, Jabra Speak2 75, MS Teams, Link 380a, USB А/С, Bluetooth 5.2, Цифровой MEMS, Сверхширокополосный звук, Полнодуплексный звук"
   },
   {
@@ -82,7 +82,7 @@ export const ОБОРУДОВАНИЕ_ДЛЯ_ВИДЕОКОНФЕРЕНЦИЙ = 
     "price": 403224,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Web камера, Jabra, 8100-119, Jabra PanaCast, USB-подключение, 4K, 3 камеры, Intelligent Zoom, Plug-and-Play"
   },
   {
@@ -94,7 +94,7 @@ export const ОБОРУДОВАНИЕ_ДЛЯ_ВИДЕОКОНФЕРЕНЦИЙ = 
     "price": 138041,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Web камера, Jabra, 8300-119, Jabra PanaCast 20, для компьютера, 13 Мегапикселей, USB А/С, Вес — 136 г"
   },
   {
@@ -106,7 +106,7 @@ export const ОБОРУДОВАНИЕ_ДЛЯ_ВИДЕОКОНФЕРЕНЦИЙ = 
     "price": 787708,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокамера для конференций, Jabra, 8201-231, Jabra PanaCast 50, EMEA, Grey, 3840 x 1080 при частоте 30 кадров/с, Wi-Fi, USB-A, USB-C, Ethernet (RJ45), Intelligent Zoom, 13 мегапикселей"
   },
   {
@@ -118,7 +118,7 @@ export const ОБОРУДОВАНИЕ_ДЛЯ_ВИДЕОКОНФЕРЕНЦИЙ = 
     "price": 682773,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокамера для конференций, Jabra, 8200-231, Jabra PanaCast 50, EMEA, Black, 3840 x 1080 при частоте 30 кадров/с, Wi-Fi, USB-A, USB-C, Ethernet (RJ45), Intelligent Zoom, 13 мегапикселей"
   },
   {
@@ -130,7 +130,7 @@ export const ОБОРУДОВАНИЕ_ДЛЯ_ВИДЕОКОНФЕРЕНЦИЙ = 
     "price": 2229904,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокамера для конференций, Jabra, 8501-231, Jabra PanaCast 50 VBS, EMEA, Panoramic-4K, 180°, Intelligent Zoom, 2x RJ45, 1x HDMI, USB-C, USB-A"
   },
   {
@@ -142,7 +142,7 @@ export const ОБОРУДОВАНИЕ_ДЛЯ_ВИДЕОКОНФЕРЕНЦИЙ = 
     "price": 25823,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Крепление настенное, Jabra, 14207-57, Jabra PanaCast Wall Mount, настенное, Цвет — черный"
   },
   {
@@ -154,7 +154,7 @@ export const ОБОРУДОВАНИЕ_ДЛЯ_ВИДЕОКОНФЕРЕНЦИЙ = 
     "price": 36420,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Пульт дистанционного управления, Jabra, PanaCast 50 Remote, 8220-209, Black, Удалённое управление для PanaCast 50, Чёрный, Пластик"
   },
   {
@@ -166,7 +166,7 @@ export const ОБОРУДОВАНИЕ_ДЛЯ_ВИДЕОКОНФЕРЕНЦИЙ = 
     "price": 39510,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Подставка настольная, Jabra, 14207-56, Jabra PanaCast Table Stand, Цвет — черный, настольное крепление для веб-камеры"
   },
   {
@@ -178,7 +178,7 @@ export const ОБОРУДОВАНИЕ_ДЛЯ_ВИДЕОКОНФЕРЕНЦИЙ = 
     "price": 52414,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Подставка настольная, Jabra, 14207-75, Jabra PanaCast 50 Table Stand, Grey, Цвет — серый, вес 1 кг, для видеобара"
   },
   {
@@ -190,7 +190,7 @@ export const ОБОРУДОВАНИЕ_ДЛЯ_ВИДЕОКОНФЕРЕНЦИЙ = 
     "price": 77600,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Спикерфон, iiyama, UC SPK01L"
   },
   {
@@ -202,7 +202,7 @@ export const ОБОРУДОВАНИЕ_ДЛЯ_ВИДЕОКОНФЕРЕНЦИЙ = 
     "price": 145500,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Всенаправленный микрофон, MAXHUB, UC BM35, Bluetooth, 8 микрофонов"
   },
   {
@@ -214,7 +214,7 @@ export const ОБОРУДОВАНИЕ_ДЛЯ_ВИДЕОКОНФЕРЕНЦИЙ = 
     "price": 762420,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Камера для видеоконференций, MAXHUB, UC P30"
   },
   {
@@ -226,7 +226,7 @@ export const ОБОРУДОВАНИЕ_ДЛЯ_ВИДЕОКОНФЕРЕНЦИЙ = 
     "price": 692532,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокамера для конференций, Hikvision, iDS-UVC-X28-B, All-in-One, 4K@30fps, 118° угол обзора, 8 микрофонов до 6м, встроенный 10Вт динамик, USBC/HDMI/Wi-Fi/Bluetooth, e-PTZ 3"
   },
   {
@@ -238,7 +238,7 @@ export const ОБОРУДОВАНИЕ_ДЛЯ_ВИДЕОКОНФЕРЕНЦИЙ = 
     "price": 961852,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокамера для конференций, Hikvision, iDS-UVC-P38, Матрица: CMOS, Оптический зум: 20, Цифровой зум: 16"
   },
   {
@@ -250,7 +250,8 @@ export const ОБОРУДОВАНИЕ_ДЛЯ_ВИДЕОКОНФЕРЕНЦИЙ = 
     "price": 153896,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеокамера для конференций, Hikvision, DS-UVC-X12, Матрица: 1/2,7 CMOS, 2МП, Микрофоны: 4-канальный массив MEMS, 360° захват"
   }
 ];
+

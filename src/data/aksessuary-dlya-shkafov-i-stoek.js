@@ -842,3 +842,4 @@ export const RACK_ACCESSORIES = [
     "image": "https://market-telecom.kz/files/products/.170x220.jpg"
   }
 ];
+

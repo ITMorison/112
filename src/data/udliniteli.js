@@ -16,3 +16,4 @@ export const EXTENDERS = [
     "image": "https://market-telecom.kz/files/products/61340_1.170x220.jpg"
   }
 ];
+

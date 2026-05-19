@@ -10,7 +10,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 5698,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, XG, XH-700RGB, Микрофон поворотный, Динамики 40 мм, 32 мВт, 20-20000гц, 2*3,5 MiniJack, Регулятор громкости, Длина кабеля 2 м, Черный"
   },
   {
@@ -22,7 +22,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 14065,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Rapoo, VH300S, Тип крепления: Дуговые, Микрофон, USB, Длина кабеля 2 м, RGB LED, Игровые, 165 x 105 x 235 мм, Черный"
   },
   {
@@ -34,7 +34,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 12610,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Rapoo, VH350S, Тип крепления: Дуговые, Микрофон, USB, Длина кабеля 2 м, RGB LED, Игровые, 165 x 105 x 235 мм, Черный"
   },
   {
@@ -46,7 +46,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 12974,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Rapoo, VH500C, Тип крепления: Дуговые, Микрофон, USB, Длина кабеля 2 м, RGB, Игровые, 165 x 105 x 235 мм, Черный"
   },
   {
@@ -58,7 +58,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 25220,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Rapoo, VH850, Тип крепления: Дуговые, Микрофон, Беспроводные, Bluetooth 5.2, 2.4 GHz, RGB LED, Встроенная литиевая батарея, Время работы 17-466 часов, Игровые, Черный"
   },
   {
@@ -70,7 +70,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 27160,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Rapoo, VH800, Тип крепления: Дуговые, Микрофон, Беспроводные, Bluetooth 5.2, 2.4 GHz, RGB LED, Встроенная литиевая батарея, Время работы 17-466 часов, Игровые, Серый"
   },
   {
@@ -82,7 +82,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 38790,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Edifier, GX, Микрофон, Тип крепления: Дуговые, Два раздельных выхода для микрофона и наушников стандарта 3.5 MiniJack, USB, Серый"
   },
   {
@@ -94,7 +94,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 43650,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Наушники, Edifier, GX07, Bluetooth, Без крепления, Внутриканальные, RGB, Микрофон, Серый"
   },
   {
@@ -106,7 +106,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 23270,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Ajazz, AHM09/MAX/BGY, AHM09 Max, Беспрводные, Чёрный"
   },
   {
@@ -118,7 +118,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 23270,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Ajazz, AHM09/MAX/GW, AHM09 Max, Беспрводные, Белый"
   },
   {
@@ -130,7 +130,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 37820,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Dark Project, DPP_SONO_WIRED_BLACK, Sono, Проводные, Микрофон съемный, Динамики 53 мм, 22 Ом, 20 Гц - 20 кГц, 3.5 мм Jack, Черный"
   },
   {
@@ -142,7 +142,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 24240,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Dark Project, DPO_VEXO_WIRED_GREY, Vexo, Проводные, Микрофон откидной, Динамики 50 мм, 32 Ом, 20 Гц - 20 кГц, 3.5 мм Jack, Серый"
   },
   {
@@ -154,7 +154,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 38790,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Dark Project, DPO_VEXO_WLESS_GREY, Vexo, Беспроводные, Микрофон откидной, Динамики 50 мм, 32 Ом, 20 Гц - 20 кГц, USB-приёмник (2,4 ГГц), Bluetooth, 3,5мм Jack, Серый"
   },
   {
@@ -166,7 +166,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 32970,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Steelseries, Arctis Nova 1, 61606, Игровая гарнитура, Микрофон выдвижной гибкий, Динамики 40 мм, 36 Ом, 20–22 000 Гц, 3.5 Mini Jack, Чёрный"
   },
   {
@@ -178,7 +178,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 40730,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Steelseries, Arctis Prime 61487, Микрофон выдвижной гибкий, Динамики 40 мм, 40000 Гц, 32 Ohm, Чёрный"
   },
   {
@@ -190,7 +190,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 52370,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Steelseries, Arctis Nova 3, 61631, Игровая гарнитура, Микрофон выдвижной гибкий, Динамики 40 мм, 36 Ом, 20–22 000 Гц, 3.5 Mini Jack, Чёрный"
   },
   {
@@ -202,7 +202,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 104750,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Steelseries, Arctis Nova 7, 61553, Игровая гарнитура, Микрофон выдвижной гибкий, Динамики 40 мм, 36 Ом, 20–22 000 Гц, 3.5 Mini Jack, Беспроводная, Чёрный"
   },
   {
@@ -214,7 +214,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 25210,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, HyperX, 6H9B8AA, CloudX Stinger 2 Core, Микрофон поворотный гибкий, Динамики 40 мм, 95 дБ, 10Гц–25кГц, Чёрный"
   },
   {
@@ -226,7 +226,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 26180,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, HyperX, 683L9AA, Cloud Stinger II Core PC, Микрофон съёмный гибкий, Динамики 40 мм, 150 мВт, 15-25000гц, Блок управления звуком USB удлинитель, Чёрно-серый"
   },
   {
@@ -238,7 +238,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 25210,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, HyperX, 6H9B6AA, Cloud Stinger 2 Core PS, Микрофон поворотный гибкий, Динамики 40 мм, 95 дБ, 10Гц–25кГц, Чёрный"
   },
   {
@@ -250,7 +250,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 25210,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, HyperX, 6H9B5AA, Cloud Stinger 2 Core PS, Микрофон поворотный гибкий, Динамики 40 мм, 95 дБ, 10Гц–25кГц, Белый"
   },
   {
@@ -262,7 +262,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 32000,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, HyperX, 4P5K1AA, HX-HSCSX-BK/WW, CloudX Stinger, Проводное, Микрофон поворотный гибкий, Динамики 50 мм, 18-23000гц, 3.5 Mini Jack, Чёрный"
   },
   {
@@ -274,7 +274,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 33940,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, HyperX, 519T1AA, Cloud Stinger 2 Wired, Микрофон поворотный гибкий, Динамики 50 мм, 97,5 дБ, 10Гц–28кГц, DTS Headphone:X, Чёрный, Цветная коробка"
   },
   {
@@ -286,7 +286,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 39760,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, HyperX, AJ0T1AA, Cloud Jet Dual, Микрофон съёмный гибкий, Динамики 40 мм, 32 Ом, 20-20000 гц, Блок управления звуком USB удлинитель, Беспроводные, Чёрный"
   },
   {
@@ -298,7 +298,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 32000,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, HyperX, 4P5L7AX#ARL, HX-HSCS-BK/EE, Cloud Stinger, Микрофон поворотный гибкий, Динамики 50 мм, 30-500 мВт, 50-18000гц, 3.5 Mini Jack + удлинитель – 3,5 мм штекеры стерео и микрофона, Чёрный, Цветная коробка"
   },
   {
@@ -310,7 +310,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 25210,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, HyperX, 6H9B7AA, CloudX Stinger 2 Core, Микрофон поворотный гибкий, Динамики 40 мм, 95 дБ, 10Гц–25кГц, Белый"
   },
   {
@@ -322,7 +322,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 18420,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, HyperX, 7G8F5AA, Cloud Mini (Lavender), Микрофон съёмный гибкий, Динамики 30 мм, 114 Ом, 20-20000 гц, Блок управления звуком USB удлинитель, Сиреневый"
   },
   {
@@ -334,7 +334,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 29090,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, HyperX, 7G8F1AA, Cloud Mini - Wireless (Black), Микрофон съёмный гибкий, Динамики 30 мм, 114 Ом, 20-20000 гц, Блок управления звуком USB удлинитель, Беспроводные, Чёрный-Красный"
   },
   {
@@ -346,7 +346,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 29090,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, HyperX, 7G8F2AA, Cloud Mini - Wireless (White), Микрофон съёмный гибкий, Динамики 30 мм, 114 Ом, 20-20000 гц, Блок управления звуком USB удлинитель, Беспроводные, Белый"
   },
   {
@@ -358,7 +358,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 65950,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, HyperX, 676A2AA, Stinger 2 Wireless, Микрофон поворотный гибкий, Динамики 50 мм, 97,5 дБ, 10Гц–20.2кГц, DTS Headphone:X, Чёрный, Цветная коробка"
   },
   {
@@ -370,7 +370,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 59160,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, HyperX, 727A8AA, Cloud III - Gaming Headset (Black), Микрофон съёмный гибкий, Динамики 53 мм, 150 мВт, 15-25000 гц, Блок управления звуком USB удлинитель, Чёрный"
   },
   {
@@ -382,7 +382,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 59160,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, HyperX, 727A9AA, Cloud III - Gaming Headset (Red), Микрофон съёмный гибкий, Динамики 53 мм, 150 мВт, 15-25000 гц, Блок управления звуком USB удлинитель, Чёрный-Красный"
   },
   {
@@ -394,7 +394,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 59160,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, HyperX, BS7C1AA, Cloud III - Gaming Headset (White), Микрофон съёмный гибкий, Динамики 53 мм, 150 мВт, 15-25000 гц, Блок управления звуком USB удлинитель, Белый"
   },
   {
@@ -406,7 +406,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 111540,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, HyperX, A59YZAA, Cloud III S Wireless, Микрофон съёмный гибкий, Динамики 53 мм, 64 Ом, 20-20000 гц, Беспроводные, Чёрный"
   },
   {
@@ -418,7 +418,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 111540,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, HyperX, A59Z0AA, Cloud III S Wireless, Микрофон съёмный гибкий, Динамики 53 мм, 64 Ом, 20-20000 гц, Беспроводные, Чёрный-Красный"
   },
   {
@@ -430,7 +430,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 102810,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, HyperX, 4P5D4AA, Cloud Alpha Wireless, Микрофон поворотный гибкий, Динамики 50 мм, 30-500 мВт, 50-18000гц, 3.5 Mini Jack, Чёрный, Цветная коробка"
   },
   {
@@ -442,7 +442,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 78560,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Razer, Kaira Pro for Xbox, RZ04-03470100-R3M1, Игровая гарнитура, беспроводная, микрофон поворотный гибкий, Динамики 50 мм, 7.1 Surround Sound, Диапазон частот: 20 Гц – 20 кГц , Виртуальный объемный звук Windows Sonic, Зарядка полностью разряженной гарнитуры длится приблизительно 4 ч, Диапазон беспроводной связи: 10 м, Чувствительность при 1 кГц: –54±3 дБ, Черный"
   },
   {
@@ -454,7 +454,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 92140,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, HyperX, B5VC4AA, Cloud Flight 2 Wireless Black, Динамики 50 мм, Микрофон съёмный гибкий, RGB - подсветка, Тип подключение USB 2.4 ГГц, Bluetooth, Черный"
   },
   {
@@ -466,7 +466,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 43640,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Razer, Blackshark V2 + USB Sound Card, RZ04-03230100-R3M1, Игровая гарнитура, Диапазон частот: 12 - 28,000 Гц, 100 дБ, Сопротивление: 32 Oм на 1 кГц, Динамики: 50 мм, с неодимовыми магнитами , Микрофон однонаправленный подвижный, Проводные, 3,5 мм (mini jack), 1.3 метра, Черный"
   },
   {
@@ -478,7 +478,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 87290,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Razer, Barracuda, RZ04-03790100-R3M1, Беспроводные, Микрофон встроенный, Динамики 50 мм, 20 Гц – 20 кГц, 32 Ом (1 кГц), USB Type-C или Bluetooth 5.2, Черный"
   },
   {
@@ -490,7 +490,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 87290,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Razer, Barracuda, RZ04-03790200-R3M1, Беспроводные, Микрофон встроенный, Динамики 50 мм, 20 Гц – 20 кГц, 32 Ом (1 кГц), USB Type-C или Bluetooth 5.2, Белый"
   },
   {
@@ -502,7 +502,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 86320,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Razer, Barracuda, RZ04-03790300-R3M1, Беспроводные, Микрофон встроенный, Динамики 50 мм, 20 Гц – 20 кГц, 32 Ом (1 кГц), USB Type-C или Bluetooth 5.2, Розовый"
   },
   {
@@ -514,7 +514,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 32000,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Razer, Kaira X for Xbox, RZ04-03970600-R3M1, Игровая гарнитура, Микрофон поворотный гибкий, Динамики 50 мм, Излучатели Razer™ TriForce диаметром 50 мм для высочайшего качества звука, Диапазон частот: 20 Гц – 20 кГц , Чувствительность микрофона при 1 кГц: -42±3 дБ, 3,5 мм (mini jack), Салатовый"
   },
   {
@@ -526,7 +526,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 32000,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Razer, Kaira X for Xbox, RZ04-03970500-R3M1, Игровая гарнитура, Микрофон поворотный гибкий, Динамики 50 мм, Излучатели Razer™ TriForce диаметром 50 мм для высочайшего качества звука, Диапазон частот: 20 Гц – 20 кГц , Чувствительность микрофона при 1 кГц: -42±3 дБ, 3,5 мм (mini jack), Красный"
   },
   {
@@ -538,7 +538,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 32000,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Razer, Kaira X for Xbox, RZ04-03970400-R3M1, Игровая гарнитура, Микрофон поворотный гибкий, Динамики 50 мм, Излучатели Razer™ TriForce диаметром 50 мм для высочайшего качества звука, Диапазон частот: 20 Гц – 20 кГц , Чувствительность микрофона при 1 кГц: -42±3 дБ, 3,5 мм (mini jack), Синий"
   },
   {
@@ -550,7 +550,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 37820,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Razer, Kaira for Xbox - White, RZ04-03480200-R3M1, Игровая гарнитура, Микрофон поворотный гибкий, Динамики 50 мм, 7.1 Surround Sound, Диапазон частот: 20 Гц – 20 кГц , Чувствительность при 1 кГц: –54±3 дБ, 3,5 мм (mini jack), Белый"
   },
   {
@@ -562,7 +562,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 80500,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Razer, Kaira Pro for Xbox - HALO Infinite Edition, RZ04-03470200-R3M1, Игровая гарнитура, Микрофон поворотный гибкий, Подсветка чашек наушников с поддержкой Razer Chroma ™ RGB, Титановые 50-мм динамики, Диапазон частот: 20 Гц – 20 кГц , Чувствительность 108 дБ, Зеленый"
   },
   {
@@ -574,7 +574,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 78560,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Razer, Kaira Pro for Xbox - White, RZ04-03470300-R3M1, Игровая гарнитура, Микрофон поворотный гибкий, Динамики 50 мм, 7.1 Surround Sound, Диапазон частот: 20 Гц – 20 кГц , Чувствительность при 1 кГц: –54±3 дБ, 3,5 мм (mini jack), Белый"
   },
   {
@@ -586,7 +586,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 28120,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Razer, Opus X - Green, RZ04-03760400-R3M1, Микрофон встроенный, Беспроводные, Динамики 40 мм, 20 - 20000 Гц, Bluetooth 5.0, До 30 часов с включенным ANC (до 40 часов с выключенным ANC), Зелёный"
   },
   {
@@ -598,7 +598,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 28120,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Razer, Opus X - Mercury, RZ04-03760200-R3M1, Беспроводные, Микрофон встроенный, Диаметр динамиков: 40 мм, 20 - 20000 Гц, Зарядный кабель USB-A - USB-C длиной 0,5 м, Bluetooth 5.0, До 30 часов с включенным ANC (до 40 часов с выключенным ANC) Белый"
   },
   {
@@ -610,7 +610,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 96990,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Razer, Opus (Late 2020), RZ04-03430100-R3M1, Микрофон встроенный, 2 динамических динамика по 40 мм, 20 Гц - 20 кГц, до 25 часов работы, Bluetooth, Черный"
   },
   {
@@ -622,7 +622,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 22300,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Razer, Kraken X Lite, RZ04-02950100-R381, Игровая гарнитура, Микрофон поворотный гибкий, Динамики 50 мм, 7.1 Surround Sound, Диапазон частот: 12 Гц – 28 кГц , Чувствительность при 1 кГц: 109±3 дБ, 3,5 мм (mini jack), Черный"
   },
   {
@@ -634,7 +634,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 41700,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Razer, Kraken for Console, RZ04-02830500-R3M1, Игровая гарнитура, Микрофон поворотный гибкий, Динамики 50 мм, Диапазон частот: 12 Гц – 28 кГц , Чувствительность при 1 кГц: 109±3 дБ, 7.1 Surround Sound, 3,5 мм (mini jack), Черно-синий"
   },
   {
@@ -646,7 +646,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 93110,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Razer, Kraken Kitty Ed.V2 Pro - Black, RZ04-04510100-R3M1, Игровая гарнитура, Микрофон поворотный гибкий, Динамики: 50 мм с неодимовыми магнитами, Диапазон частот: 20 Гц – 20000 Гц , Чувствительность при 1 кГц: -42 ± 3 дБ, Подсветка, Черный"
   },
   {
@@ -658,7 +658,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 44610,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Razer, Kraken V3, RZ04-03770200-R3M1, Игровая гарнитура, Микрофон поворотный гибкий, Динамики 50 мм, Тип подключения: USB Type-A, Длина кабеля: 2,0м, Примерная масса: TBC / 250г, Диапазон частот: 20Гц– 20кГц , Чувствительность при 1 кГц: 96 дБ SPL/мВт, Чёрный"
   },
   {
@@ -670,7 +670,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 62070,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Razer, Kraken V3 HyperSense, RZ04-03770100-R3M1, Игровая гарнитура, Микрофон поворотный гибкий, Динамики 50 мм, Диапазон частот: 20Гц– 20кГц , Чувствительность при 1 кГц: 96 дБ SPL/мВт, Чёрный"
   },
   {
@@ -682,7 +682,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 72449,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Razer, Kraken V3 Pro, RZ04-03460100-R3M1, Игровая гарнитура, Микрофон поворотный гибкий, Динамики 50 мм, Диапазон частот: 20Гц– 20кГц , Чувствительность при 1 кГц: 96 дБ SPL/мВт, Чёрный"
   },
   {
@@ -694,7 +694,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 32970,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Razer, Kraken V3 X USB, RZ04-03750300-R3M1, Игровая гарнитура, Микрофон поворотный гибкий, Динамики 40 мм, Диапазон частот: 12 Гц – 28 кГц , Чувствительность при 1 кГц: 109±3 дБЧёрный"
   },
   {
@@ -706,7 +706,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 107660,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Razer, Kraken V4, RZ04-05170100-R3M1, Игровая гарнитура, Микрофон выдвижной сверхширокополосный, Динамики 40 мм, 12–28 000 Гц, 98 дБ, Беспроводные, Чёрный"
   },
   {
@@ -718,7 +718,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 223187,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Razer, Kraken V4 Pro, RZ04-05160100-R3M1, Игровая гарнитура, Динамики 40 мм, 7.1 Surround Sound, 20 – 28000 Гц, 98 дБ, 32 Ом, Микрофон однонаправленный выдвижной, 100 – 10000 Гц, –42 дБ, Беспроводные / Проводные, 2.4 ГГц / Bluetooth 5.3 / USB / 3,5 мм, Чёрный"
   },
   {
@@ -730,7 +730,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 53340,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Razer, Barracuda X 2022, RZ04-04430100-R3M1, Беспроводные, 20 – 20 000 Гц, 32 Ом при 1 кГц, 32 Ом при 1 кГц, Пассивное шумоподавление, Микрофон съемный, Динамики 40 мм, USB-C, Черный"
   },
   {
@@ -742,7 +742,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 47520,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Razer, Barracuda X 2022, RZ04-04430200-R3M1, Игровая гарнитура, Динамики 40 мм, 7.1 Surround Sound, 20 – 20000 Гц, 96 дБ, 32 Ом, Микрофон однонаправленный съёмный, 100 – 10000 Гц, –42 дБ, Беспроводные / Проводные, 2.4 ГГц/ Bluetooth 5.2 / 3,5 мм MiniJack, Белый"
   },
   {
@@ -754,7 +754,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 53340,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Razer, Barracuda X 2022, RZ04-04430300-R3M1, Беспроводные, Микрофон съемный, 20 - 20 000 Гц, Динамики 40 мм, 30 Ом, USB-C, Розовый"
   },
   {
@@ -766,7 +766,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 75262,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Razer, Barracuda X 2022 Roblox Edition,RZ04-04430400-R3M1, Беспроводные, 20 – 20 000 Гц, 32 Ом при 1 кГц, Пассивное шумоподавление, Микрофон съемный, Динамики 40 мм, USB-C, Черный"
   },
   {
@@ -778,7 +778,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 74680,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Razer, Barracuda X Chroma, RZ04-05220100-R3M1, Игровая гарнитура, Динамики 40 мм, 7.1 Surround Sound, 20 – 20000 Гц, 96 дБ, 32 Ом, Микрофон однонаправленный съёмный, 100 – 10000 Гц, –42 дБ, Беспроводные, 2.4 ГГц / Bluetooth / USB, Чёрный"
   },
   {
@@ -790,7 +790,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 77590,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Razer, Blackshark V2 HyperSpeed, RZ04-04960100-R3M1, Игровая гарнитура, Беспроводные, 7.1 Surround Sound, 12 - 28000 Гц, 100 дБ, 32 Ом, 50 мм, Микрофон однонаправленный подвижный, 100 Гц – 10000 Гц, - 42 дБ, Проводные, 3,5 мм (mini jack), 1.3 метра, Черный"
   },
   {
@@ -802,7 +802,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 88260,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Razer, Blackshark V2 Pro, RZ04-03220100-R3M1, Игровая гарнитура, Беспроводные, 7.1 Surround Sound, 12 - 28000 Гц, 100 дБ, 32 Ом, 50 мм, Микрофон однонаправленный подвижный, 100 Гц – 10000 Гц, - 42 дБ, Проводные, 3,5 мм (mini jack), 1.3 метра, Черный"
   },
   {
@@ -814,7 +814,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 102810,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Razer, Blackshark V2 Pro, RZ04-04530200-R3M1, Игровая гарнитура, Беспроводные, 7.1 Surround Sound, 12 - 28000 Гц, 100 дБ, 32 Ом, 50 мм, Микрофон однонаправленный подвижный, 100 Гц – 10000 Гц, - 42 дБ, Проводные, 3,5 мм (mini jack), Белый"
   },
   {
@@ -826,7 +826,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 26180,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Razer, Blackshark V2 X, RZ04-03240100-R3M1, Игровая гарнитура, Динамики 50 мм, 7.1 Surround Sound, 12 - 28000 Гц, 100 дБ, 32 Ом, Микрофон однонаправленный подвижный, 100 Гц – 10000 Гц, - 42 дБ, Проводные, 3,5 мм MiniJack, Черный"
   },
   {
@@ -838,7 +838,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 26180,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Razer, Blackshark V2 X, RZ04-03240600-R3M1, Игровая гарнитура, Динамики 50 мм, 7.1 Surround Sound, 12 - 28000 Гц, 100 дБ, 32 Ом, Микрофон однонаправленный подвижный, 100 Гц – 10000 Гц, - 42 дБ, Проводные, 3,5 мм MiniJack, Зеленый"
   },
   {
@@ -850,7 +850,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 35880,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Razer, Blackshark V2 X for PlayStation, RZ04-03241000-R3G1, Игровая гарнитура, 7.1 Surround Sound, 12 - 28000 Гц, 100 дБ, 32 Ом, 50 мм, Микрофон однонаправленный подвижный, 100 Гц – 10000 Гц, - 42 дБ, Проводные, 3,5 мм (mini jack), 1.3 метра, Черный"
   },
   {
@@ -862,7 +862,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 83410,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Razer, BlackShark V3, RZ04-05410100-R3M1, Игровая гарнитура, Динамики 50 мм, THX Spatial Audio, 20 – 28000 Гц, 106 дБ, 32 Ом, Микрофон съёмный однонаправленный, 60 – 16000 Гц, –42 дБ, Беспроводные / Проводные, 2.4 ГГц / Bluetooth / USB, Чёрный"
   },
   {
@@ -874,7 +874,7 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 83410,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Razer, BlackShark V3, RZ04-05410400-R3M1, Игровая гарнитура, Динамики 50 мм, THX Spatial Audio, 20 – 28000 Гц, 106 дБ, 32 Ом, Микрофон съёмный однонаправленный, 60 – 16000 Гц, –42 дБ, Беспроводные / Проводные, 2.4 ГГц / Bluetooth / USB, Белый"
   },
   {
@@ -886,7 +886,8 @@ export const IGROVYE_NAUSHNIKI = [
     "price": 62070,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Гарнитура, Razer, BlackShark V3 X HyperSpeed, RZ04-05420100-R3M1, Игровая гарнитура, 20 - 28000 Гц, 106дБ, 32 Ом, 50 мм, Беспроводные, Чёрный"
   }
 ];
+

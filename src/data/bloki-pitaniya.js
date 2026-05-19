@@ -10,7 +10,7 @@ export const BLOKI_PITANIYA = [
     "price": 7224,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, XG, Shadow 400W, 400W, ATX, 20+4pin, 4pin, 3*Sata, 2*Molex, 1*PCI-E 6pin, Вентилятор 12 см, Кабель питания"
   },
   {
@@ -22,7 +22,7 @@ export const BLOKI_PITANIYA = [
     "price": 8407,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, XG, Shadow 400W-RGB, 400W, ATX, 20+4pin, 4pin, 3*Sata, 2*Molex, 1*PCI-E 6pin, Вентилятор 12 см, RGB подсветка, Кабель питания"
   },
   {
@@ -34,7 +34,7 @@ export const BLOKI_PITANIYA = [
     "price": 12351,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Aerocool, VX PLUS Stealth 350, 350W, ATX, None-PFC, 20+4pin, 4+4pin, 2*Sata, 2*Molex, 1*FDD, Вентилятор 12 см, Кабель питания, Чёрный"
   },
   {
@@ -46,7 +46,7 @@ export const BLOKI_PITANIYA = [
     "price": 14359,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Aerocool, VX PLUS Stealth 400, 400W, ATX, None-PFC, 20+4pin, 4+4pin, 2*Sata, 2*Molex, 1*FDD, 1*PCI-E 6pin, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -58,7 +58,7 @@ export const BLOKI_PITANIYA = [
     "price": 16503,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Aerocool, VX PLUS 450 , 450W, ATX, None-PFC, 20+4pin, 4+4pin, 2*Sata, 2*Molex, 1*FDD, 1*PCI-E 6pin, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -70,7 +70,7 @@ export const BLOKI_PITANIYA = [
     "price": 16503,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Aerocool, VX PLUS Stealth 450 , 450W, ATX, None-PFC, 20+4pin, 4+4pin, 2*Sata, 2*Molex, 1*FDD, 1*PCI-E 6pin, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -82,7 +82,7 @@ export const BLOKI_PITANIYA = [
     "price": 17541,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Aerocool, VX PLUS Stealth 500, 500W, ATX, None-PFC, 20+4pin, 4+4pin, 3*Sata, 3*Molex, 1*FDD, 1*PCI-E 6+2pin. Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -94,7 +94,7 @@ export const BLOKI_PITANIYA = [
     "price": 17087,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Aerocool, VX PLUS Stealth 550, 550W, ATX, None-PFC, 20+4pin, 4+4pin, 3*Sata, 3*Molex, 1*FDD, 1*PCI-E 6+2pin, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -106,7 +106,7 @@ export const BLOKI_PITANIYA = [
     "price": 18411,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Aerocool, VX PLUS Stealth 600, 600W, ATX, None-PFC, 20+4pin, 4+4pin, 4*Sata, 3*Molex, 1*FDD, 2*PCI-E 6+2pin, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -118,7 +118,7 @@ export const BLOKI_PITANIYA = [
     "price": 23896,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Aerocool, VX PLUS Stealth 700, 700W, ATX, APFC, 20+4pin, 4+4pin, 4*Sata, 3*Molex, 1*FDD, 2*PCI-E 6+2pin, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -130,7 +130,7 @@ export const BLOKI_PITANIYA = [
     "price": 24168,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Aerocool, AERO WHITE, 550W, ATX, APFC, 20+4pin, 2*4+4pin, 6*Sata, 2*Molex, 2*PCI-E 6+2pin, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -142,7 +142,7 @@ export const BLOKI_PITANIYA = [
     "price": 27086,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Aerocool, AERO WHITE, 650W, ATX, APFC, 20+4pin, 2*4+4pin, 6*Sata, 2*Molex, 2*PCI-E 6+2pin, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -154,7 +154,7 @@ export const BLOKI_PITANIYA = [
     "price": 30170,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Aerocool, AERO WHITE, 750W, ATX, APFC, 20+4pin, 2*4+4pin, 6*Sata, 2*Molex, 3*PCI-E 6+2pin, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -166,7 +166,7 @@ export const BLOKI_PITANIYA = [
     "price": 45888,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Aerocool, SMART B1, 750W, ATX 3.1, Bronze, APFC, 20+4pin, 2*4+4pin, 8*Sata, 2*Molex, 3*PCI-E 6+2pin, 12V-2X6, Вентилятор 13,5 см, Кабель питания, Чёрный"
   },
   {
@@ -178,7 +178,7 @@ export const BLOKI_PITANIYA = [
     "price": 52170,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Aerocool, SMART B1, 850W, ATX 3.1, Bronze, APFC, 20+4pin, 2*4+4pin, 8*Sata, 2*Molex, 3*PCI-E 6+2pin, 12V-2X6, Вентилятор 13,5 см, Кабель питания, Чёрный"
   },
   {
@@ -190,7 +190,7 @@ export const BLOKI_PITANIYA = [
     "price": 52874,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Aerocool, SMART G1, 750W, ATX 3.1, Gold, APFC, 20+4pin, 2*4+4pin, 8*Sata, 2*Molex, 3*PCI-E 6+2pin, 12V-2X6, Вентилятор 13,5 см, Кабель питания, Чёрный"
   },
   {
@@ -202,7 +202,7 @@ export const BLOKI_PITANIYA = [
     "price": 59117,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Aerocool, SMART G1, 850W, ATX 3.1, Gold, APFC, 20+4pin, 2*4+4pin, 8*Sata, 2*Molex, 3*PCI-E 6+2pin, 12V-2X6, Вентилятор 13,5 см, Кабель питания, Чёрный"
   },
   {
@@ -214,7 +214,7 @@ export const BLOKI_PITANIYA = [
     "price": 68311,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Aerocool, PREMIER G1, 750W, ATX 3.1, Gold, APFC, 20+4pin, 2*4+4pin, 8*Sata, 2*Molex, 2*PCI-E 6+2pin, 12V-2X6, Модульный, Вентилятор 13,5 см, Кабель питания, Чёрный"
   },
   {
@@ -226,7 +226,7 @@ export const BLOKI_PITANIYA = [
     "price": 76997,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Aerocool, PREMIER G1, 850W, ATX 3.1, Gold, APFC, 20+4pin, 2*4+4pin, 8*Sata, 2*Molex, 3*PCI-E 6+2pin, 12V-2X6, Модульный, Вентилятор 13,5 см, Кабель питания, Чёрный"
   },
   {
@@ -238,7 +238,7 @@ export const BLOKI_PITANIYA = [
     "price": 92459,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Aerocool, PREMIER G1, 1000W, ATX 3.1, Gold, APFC, 20+4pin, 2*4+4pin, 8*Sata, 2*Molex, 3*PCI-E 6+2pin, 12V-2X6, Модульный, Вентилятор 13,5 см, Кабель питания, Чёрный"
   },
   {
@@ -250,7 +250,7 @@ export const BLOKI_PITANIYA = [
     "price": 91423,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, APNX, MAX G1, 850W, ATX 3.1, Gold, APFC, 20+4pin, 2*4+4pin, 10*Sata, 2*Molex, 3*PCI-E 6+2pin, 1*12V-2X6, Модульный, Вентилятор 13,5 см, Кабель питания, Чёрный"
   },
   {
@@ -262,7 +262,7 @@ export const BLOKI_PITANIYA = [
     "price": 115508,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, APNX, MAX G1, 1000W, ATX 3.1, Gold, APFC, 20+4pin, 2*4+4pin, 10*Sata, 2*Molex, 3*PCI-E 6+2pin, 1*12V-2X6, Модульный, Вентилятор 13,5 см, Кабель питания, Чёрный"
   },
   {
@@ -274,7 +274,7 @@ export const BLOKI_PITANIYA = [
     "price": 146667,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, APNX, MAX G1, 1200W, ATX 3.1, Gold, APFC, 20+4pin, 2*4+4pin, 10*Sata, 2*Molex, 3*PCI-E 6+2pin, 2*12V-2X6, Модульный, Вентилятор 13,5 см, Кабель питания, Чёрный"
   },
   {
@@ -286,7 +286,7 @@ export const BLOKI_PITANIYA = [
     "price": 22730,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Deepcool, PF500 R-PF500D-HA0B-WDEU, 500W, ATX, White, APFC, 20+4 pin, 4+4pin, 6*Sata, 2*Molex, 2*PCI-E 6+2 pin, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -298,7 +298,7 @@ export const BLOKI_PITANIYA = [
     "price": 23768,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Deepcool, PF550 R-PF550D-HA0B-WDEU, 550W, ATX, White, APFC, 20+4 pin, 4+4pin, 6*Sata, 2*Molex, 2*PCI-E 6+2 pin, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -310,7 +310,7 @@ export const BLOKI_PITANIYA = [
     "price": 25844,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Deepcool, PF600, 600W R-PF600D-HA0B-WDEU, ATX, White, APFC, 20+4 pin, 2*4+4pin, 6*Sata, 2*Molex, 4*PCI-E 6+2 pin, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -322,7 +322,7 @@ export const BLOKI_PITANIYA = [
     "price": 28335,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Deepcool, PF650 R-PF650D-HA0B-WDEU, 650W, ATX, White, APFC, 20+4 pin, 2*4+4pin, 6*Sata, 2*Molex, 4*PCI-E 6+2 pin, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -334,7 +334,7 @@ export const BLOKI_PITANIYA = [
     "price": 28211,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Deepcool, PF700 R-PF700D-HA0B-WDEU, 700W, ATX, White, APFC, 20+4 pin, 2*4+4pin, 6*Sata, 2*Molex, 4*PCI-E 6+2 pin, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -346,7 +346,7 @@ export const BLOKI_PITANIYA = [
     "price": 30555,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Deepcool, PF750 R-PF750D-HA0B-WDEU, 750W, ATX, White, APFC, 20+4 pin, 2*4+4pin, 6*Sata, 2*Molex, 2*PCI-E 6+2 pin, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -358,7 +358,7 @@ export const BLOKI_PITANIYA = [
     "price": 34686,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Deepcool, PL550D R-PL550D-FC0B-EU, 550W, ATX 3.0, Bronze, 20+4 pin, 4+4pin, 6*Sata, 2*Molex, 3*PCI-E 6+2 pin, 1*(16Pin)12VHPWR, Вентилятор 12 см, Кабель питания, Чёрный"
   },
   {
@@ -370,7 +370,7 @@ export const BLOKI_PITANIYA = [
     "price": 21324,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, GamerStorm, PF500X R-PF500X-HD0B-WGEU, 500W, ATX, Bronze, 20+4 pin, 2*4+4pin, 6*Sata, 2*Molex, 2*PCI-E 6+2 pin, Вентилятор 12 см, Кабель питания, Чёрный"
   },
   {
@@ -382,7 +382,7 @@ export const BLOKI_PITANIYA = [
     "price": 24981,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, GamerStorm, PF600X R-PF600X-HD0B-WGEU, 600W, ATX, Bronze, 20+4 pin, 2*4+4pin, 6*Sata, 2*Molex, 2*PCI-E 6+2 pin, Вентилятор 12 см, Кабель питания, Чёрный"
   },
   {
@@ -394,7 +394,7 @@ export const BLOKI_PITANIYA = [
     "price": 28665,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, GamerStorm, PF700X R-PF700X-HD0B-WGEU, 700W, ATX, Bronze, 20+4 pin, 2*4+4pin, 6*Sata, 2*Molex, 2*PCI-E 6+2 pin, Вентилятор 12 см, Кабель питания, Чёрный"
   },
   {
@@ -406,7 +406,7 @@ export const BLOKI_PITANIYA = [
     "price": 29371,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, GamerStorm, PF650L R-PF650L-HE0B-WGEU, 650W, ATX, APFC, 20+4 pin, 2*4+4pin, 4*Sata, 2*Molex, 2*PCI-E 6+2 pin, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -418,7 +418,7 @@ export const BLOKI_PITANIYA = [
     "price": 32436,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, GamerStorm, PF750L R-PF750L-HE0B-WGEU, 750W, ATX, APFC, 20+4 pin, 2*4+4pin, 4*Sata, 2*Molex, 2*PCI-E 6+2 pin, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -430,7 +430,7 @@ export const BLOKI_PITANIYA = [
     "price": 36223,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, GamerStorm, PK600D R-PK600D-FA0B-WGEU, 600W, ATX, Bronze, 20+4 pin, 2*4+4pin, 6*Sata, 3*Molex, 4*PCI-E 6+2 pin, Вентилятор 12 см, Кабель питания, Чёрный"
   },
   {
@@ -442,7 +442,7 @@ export const BLOKI_PITANIYA = [
     "price": 37936,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, GamerStorm, PK650D R-PK650D-FA0B-WGEU, 650W, ATX, Bronze, 20+4 pin, 4+4pin, 7*Sata, 4*Molex, 4*PCI-E 6+2 pin, Вентилятор 12 см, Кабель питания, Чёрный"
   },
   {
@@ -454,7 +454,7 @@ export const BLOKI_PITANIYA = [
     "price": 40643,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, GamerStorm, PK700D R-PK700D-FA0B-WGEU, 700W, ATX, Bronze, 20+4 pin, 2*4+4pin, 6*Sata, 2*Molex, 4*PCI-E 6+2 pin, Вентилятор 12 см, Кабель питания, Чёрный"
   },
   {
@@ -466,7 +466,7 @@ export const BLOKI_PITANIYA = [
     "price": 43785,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, GamerStorm, PK750D R-PK750D-FA0B-WGEU, 750W, ATX, Bronze, 20+4 pin, 2*4+4pin, 6*Sata, 2*Molex, 4*PCI-E 6+2 pin, Вентилятор 12 см, Кабель питания, Чёрный"
   },
   {
@@ -478,7 +478,7 @@ export const BLOKI_PITANIYA = [
     "price": 40426,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, GamerStorm, PK800D R-PK800D-FA0B-WGEU, 800W, ATX, Bronze, 20+4 pin, 2*4+4pin, 6*Sata, 2*Molex, 4*PCI-E 6+2 pin, Вентилятор 12 см, Кабель питания, Чёрный"
   },
   {
@@ -490,7 +490,7 @@ export const BLOKI_PITANIYA = [
     "price": 51910,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, GamerStorm, PK850D R-PK850D-FA0B-WGEU, 850W, ATX 3.0, Bronze, 20+4 pin, 2*4+4pin, 6*Sata, 2*Molex, 4*PCI-E 6+2 pin, Вентилятор 12 см, Кабель питания, Чёрный"
   },
   {
@@ -502,7 +502,7 @@ export const BLOKI_PITANIYA = [
     "price": 47944,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, GamerStorm, PN750D R-PN750D-FC0B-WGEU-V2, 750W, ATX 3.1, Gold, APFC, 20+4 pin, 2*4+4pin, 8*Sata, 2*Molex, 3*PCI-E 6+2 pin, 1*(16Pin)12VHPWR, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -514,7 +514,7 @@ export const BLOKI_PITANIYA = [
     "price": 54485,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, GamerStorm, PN850D R-PN850D-FC0B-WGEU-V2, 850W, ATX 3.1, Gold, APFC, 20+4 pin, 2*4+4pin, 8*Sata, 2*Molex, 3*PCI-E 6+2 pin, 1*(16Pin)12VHPWR, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -526,7 +526,7 @@ export const BLOKI_PITANIYA = [
     "price": 63783,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, GamerStorm, PN1000D R-PNA00D-FC0B-WGEU-V2, 1000W, ATX 3.1, Gold, APFC, 20+4 pin, 2*4+4pin, 8*Sata, 2*Molex, 3*PCI-E 6+2 pin, 1*(16Pin)12VHPWR, Модульный, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -538,7 +538,7 @@ export const BLOKI_PITANIYA = [
     "price": 64942,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, GamerStorml, PN750М R-PN750M-FC0B-WGEU, 750W, ATX 3.1, Gold, APFC, 20+4 pin, 2*4+4pin, 8*Sata, 2*Molex, 3*PCI-E 6+2 pin, 1*(16Pin)12VHPWR, Модульный, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -550,7 +550,7 @@ export const BLOKI_PITANIYA = [
     "price": 59446,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, GamerStorml, PN750М WH R-PN750M-FC0W-WGEU, 750W, ATX 3.1, Gold, APFC, 20+4 pin, 2*4+4pin, 8*Sata, 2*Molex, 3*PCI-E 6+2 pin, 1*(16Pin)12VHPWR, Модульный, Вентилятор 12см, Кабель питания, Белый"
   },
   {
@@ -562,7 +562,7 @@ export const BLOKI_PITANIYA = [
     "price": 63301,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, GamerStorm, PN850М R-PN850M-FC0B-WGEU, 850W, ATX 3.1, Gold, APFC, 20+4 pin, 2*4+4pin, 8*Sata, 2*Molex, 3*PCI-E 6+2 pin, 1*(16Pin)12VHPWR, Модульный, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -574,7 +574,7 @@ export const BLOKI_PITANIYA = [
     "price": 69088,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, GamerStorml, PN850М WH R-PN850M-FC0W-WGEU, 850W, ATX 3.1, Gold, APFC, 20+4 pin, 2*4+4pin, 8*Sata, 2*Molex, 3*PCI-E 6+2 pin, 1*(16Pin)12VHPWR, Модульный, Вентилятор 12см, Кабель питания, Белый"
   },
   {
@@ -586,7 +586,7 @@ export const BLOKI_PITANIYA = [
     "price": 78068,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, GamerStorm, PN1000M R-PNA00M-FC0B-WGEU, 1000W, ATX 3.1, Gold, APFC, 20+4 pin, 2*4+4pin, 8*Sata, 2*Molex, 3*PCI-E 6+2 pin, 1*(16Pin)12VHPWR, Модульный, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -598,7 +598,7 @@ export const BLOKI_PITANIYA = [
     "price": 89618,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, GamerStorm, PN1200M R-PNC00M-FC0B-WGEU, 1200W, ATX 3.1, Gold, APFC, 20+4 pin, 2*4+4pin, 8*Sata, 2*Molex, 3*PCI-E 6+2 pin, 1*(16Pin)12VHPWR, Модульный, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -610,7 +610,7 @@ export const BLOKI_PITANIYA = [
     "price": 47657,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, GamerStorm, PQ650G, 650W, ATX 3.1, Gold, APFC, 20+4 pin, 2*4+4pin, 6*Sata, 2*Molex, 3*PCI-E 6+2 pin, 1*12V-2x6, Модульный, Вентилятор 12 см, Кабель питания, Черный"
   },
   {
@@ -622,7 +622,7 @@ export const BLOKI_PITANIYA = [
     "price": 52417,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, GamerStorm, PQ750G, 750W, ATX 3.1, Gold, APFC, 20+4 pin, 2*4+4pin, 8*Sata, 4*Molex, 3*PCI-E 6+2 pin, 1*12V-2x6, Модульный, Вентилятор 13.5 см, Кабель питания, Черный"
   },
   {
@@ -634,7 +634,7 @@ export const BLOKI_PITANIYA = [
     "price": 56581,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, GamerStorm, PQ850G, 850W, ATX 3.1, Gold, APFC, 20+4 pin, 2*4+4pin, 9*Sata, 3*Molex, 4*PCI-E 6+2 pin, 1*12V-2x6, Модульный, Вентилятор 12 см, Кабель питания, Черный"
   },
   {
@@ -646,7 +646,7 @@ export const BLOKI_PITANIYA = [
     "price": 70600,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, GamerStorm, PQ1000G, 1000W, ATX 3.1, Gold, APFC, 20+4 pin, 2*4+4pin, 9*Sata, 3*Molex, 4*PCI-E 6+2 pin, 1*12V-2x6, Модульный, Вентилятор 12 см, Кабель питания, Черный"
   },
   {
@@ -658,7 +658,7 @@ export const BLOKI_PITANIYA = [
     "price": 81824,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, GamerStorm, PQ1200G, 1200W, ATX 3.1, Gold, APFC, 20+4 pin, 2*4+4pin, 9*Sata, 3*Molex, 4*PCI-E 6+2 pin, 12V-2x6, Модульный, Вентилятор 12 см, Кабель питания, Черный"
   },
   {
@@ -670,7 +670,7 @@ export const BLOKI_PITANIYA = [
     "price": 83458,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, GamerStorm, PQ1200G, 1200W, ATX 3.1, Gold, APFC, 20+4 pin, 2*4+4pin, 9*Sata, 3*Molex, 4*PCI-E 6+2 pin, 1*12V-2x6, Модульный, Вентилятор 12 см, Кабель питания, Белый"
   },
   {
@@ -682,7 +682,7 @@ export const BLOKI_PITANIYA = [
     "price": 20428,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Cougar, SC 550, 550W, ATX, APFC, 20+4pin, 4+4pin, 6*Sata, 2*Molex, 2*PCI-E 6+2pin, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -694,7 +694,7 @@ export const BLOKI_PITANIYA = [
     "price": 22194,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Cougar, SC 650, 650W, ATX, APFC, 20+4pin, 2(4+4)pin, 6*Sata, 2*Molex, 4*PCI-E 6+2pin, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -706,7 +706,7 @@ export const BLOKI_PITANIYA = [
     "price": 24123,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Cougar, STC 600, 600W, ATX, APFC, 20+4pin, 4+4pin, 6*Sata, 2*Molex, 2*PCI-E 6+2pin, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -718,7 +718,7 @@ export const BLOKI_PITANIYA = [
     "price": 35252,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Cougar, GES 750, 750W, ATX 3.1, APFC, GOLD, 20+4 pin, 2*4+4pin, 6*Sata, 2*Molex, 2*PCI-E 6+2 pin, 12V-2X6, Вентилятор 12 см, Кабель питания, Чёрный"
   },
   {
@@ -730,7 +730,7 @@ export const BLOKI_PITANIYA = [
     "price": 39659,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Cougar, GES 850, 850W, ATX 3.1, APFC, GOLD, 20+4 pin, 2*4+4pin, 6*Sata, 2*Molex, 2*PCI-E 6+2 pin, 12V-2X6, Вентилятор 12 см, Кабель питания, Чёрный"
   },
   {
@@ -742,7 +742,7 @@ export const BLOKI_PITANIYA = [
     "price": 78966,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Cougar, GLE 1000, 1000W, ATX 3.1, APFC, GOLD, 20+4 pin, 2*4+4pin, 12*Sata, 4*Molex, 6*PCI-E 6+2 pin, 12V-2X6, Вентилятор 13,5 см, Модульный, Кабель питания, Чёрный"
   },
   {
@@ -754,7 +754,7 @@ export const BLOKI_PITANIYA = [
     "price": 93016,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Cougar, GLE 1200, 1200W, ATX 3.1, APFC, GOLD, 20+4 pin, 2*4+4pin, 12*Sata, 4*Molex, 6*PCI-E 6+2 pin, 12V-2X6, Вентилятор 13,5 см, Модульный, Кабель питания, Чёрный"
   },
   {
@@ -766,7 +766,7 @@ export const BLOKI_PITANIYA = [
     "price": 64817,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Cougar, GR 1000, 1000W, ATX 3.1, APFC, GOLD, 20+4 pin, 2*4+4pin, 9*Sata, 3*Molex, 3*PCI-E 6+2 pin, 1*12V-2x6, Вентилятор 14 см, Модульный, Кабель питания, Чёрный"
   },
   {
@@ -778,7 +778,7 @@ export const BLOKI_PITANIYA = [
     "price": 23759,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Huntkey, ECO650, 650W, ATX, APFC, 20+4 pin, 2*4+4pin, 3*Sata, 3*Molex, 2*PCI-E 6+2 pin, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -790,7 +790,7 @@ export const BLOKI_PITANIYA = [
     "price": 28455,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Huntkey, ECO750, 750W, ATX, APFC, 20+4 pin, 2*4+4pin, 3*Sata, 3*Molex, 2*PCI-E 6+2 pin, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -802,7 +802,7 @@ export const BLOKI_PITANIYA = [
     "price": 31525,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Huntkey, GX 750PRO, 750W, ATX 3.0, Bronze, APFC, 20+4 pin, 2*4+4pin, 4*Sata, 2*Molex, 3*PCI-E 6+2 pin, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -814,7 +814,7 @@ export const BLOKI_PITANIYA = [
     "price": 41815,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Huntkey, GX750M, 750W, ATX 3.1, Gold, APFC, 20+4 pin, 2*4+4pin, 4*Sata, 3*Molex, 2*PCI-E 6+2 pin, 1*12V-2X6, Модульный, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -826,7 +826,7 @@ export const BLOKI_PITANIYA = [
     "price": 46607,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Huntkey, GX850M, 850W, ATX 3.1, Gold, APFC, 20+4 pin, 2*4+4pin, 4*Sata, 3*Molex, 2*PCI-E 6+2 pin, 1*12V-2X6, Модульный, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -838,7 +838,7 @@ export const BLOKI_PITANIYA = [
     "price": 32694,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Huntkey, WD650K, 650W, ATX, Gold, APFC, 20+4 pin, 2*4+4pin, 4*Sata, 2*Molex, 2*PCI-E 6+2 pin, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -850,7 +850,7 @@ export const BLOKI_PITANIYA = [
     "price": 83865,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Huntkey, MVP P1200, 1200W, ATX 3.0, Paltinum, APFC, 20+4 pin, 2*4+4pin, 7*Sata, 5*Molex, 4*PCI-E 6+2 pin, 1*(16Pin)12VHPWR, Модульный, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -862,7 +862,7 @@ export const BLOKI_PITANIYA = [
     "price": 26869,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Formula V, FX-700, 700W, ATX, APFC, 20+4 pin, 4+4pin, 7*Sata, 3*Molex, 2*PCI-E 6+2 pin, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -874,7 +874,7 @@ export const BLOKI_PITANIYA = [
     "price": 15770,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Formula V, FV-FV-550LT, 550W, ATX, APFC, 20+4 pin, 4+4pin, 4*Sata, 3*Molex, PCI-E 6+2 pin, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -886,7 +886,7 @@ export const BLOKI_PITANIYA = [
     "price": 17091,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Formula V, FV-FV-600LT, 600W, ATX, APFC, 20+4 pin, 4+4pin, 4*Sata, 2*Molex, 2*PCI-E 6+2 pin, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -898,7 +898,7 @@ export const BLOKI_PITANIYA = [
     "price": 18262,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Formula V, FV-FV-650LT, 650W, ATX, APFC, 20+4 pin, 4+4pin, 4*Sata, 2*Molex, 2*PCI-E 6+2 pin, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -910,7 +910,7 @@ export const BLOKI_PITANIYA = [
     "price": 19722,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Formula V, FV-550WD, 550W, ATX, White, APFC, 20+4 pin, 4+4pin, 6*Sata, 2*Molex, PCI-E 6+2 pin, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -922,7 +922,7 @@ export const BLOKI_PITANIYA = [
     "price": 21080,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Formula V, FV-650WD, 650W, ATX, White, APFC, 20+4 pin, 4+4pin, 6*Sata, 2*Molex, PCI-E 6+2 pin, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -934,7 +934,7 @@ export const BLOKI_PITANIYA = [
     "price": 27063,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Formula V, FV-750WD, 750W, ATX 3.1, White, APFC, 20+4 pin, 4+4pin, 6*Sata, 2*Molex, PCI-E 6+2 pin, 1*(16Pin)12VHPWR, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -946,7 +946,7 @@ export const BLOKI_PITANIYA = [
     "price": 20758,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Formula V, AP-550MM, 550W, ATX, APFC, 20+4 pin, 4+4pin, 6*Sata, 2*Molex, 1*PCI-E 6+2 pin, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -958,7 +958,7 @@ export const BLOKI_PITANIYA = [
     "price": 27239,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Formula V, AP-650MM, 650W, ATX, APFC, 20+4 pin, 4+4pin, 6*Sata, 2*Molex, 2*PCI-E 6+2 pin, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -970,7 +970,7 @@ export const BLOKI_PITANIYA = [
     "price": 31436,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Formula V, AP-750MM, 750W, ATX, APFC, 20+4 pin, 4+4pin, 6*Sata, 2*Molex, 2*PCI-E 6+2 pin, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -982,7 +982,7 @@ export const BLOKI_PITANIYA = [
     "price": 27063,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Formula V, FV-650BD, 650W, ATX 3.1, Bronze, APFC, 20+4 pin, 4+4pin, 5*Sata, 3*Molex, 1*PCI-E 6+2 pin, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -994,7 +994,7 @@ export const BLOKI_PITANIYA = [
     "price": 29520,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Formula V, FV-750BD, 750W, ATX 3.1, Bronze, APFC, 20+4 pin, 2*4+4pin, 5*Sata, 3*Molex, PCI-E 6+2 pin, 1*(16Pin)12VHPWR, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -1006,7 +1006,7 @@ export const BLOKI_PITANIYA = [
     "price": 33505,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Formula V, FV-850BD, 850W, ATX 3.1, Bronze, APFC, 20+4 pin, 4+4pin, 5*Sata, 3*Molex, PCI-E 6+2 pin, 1*(16Pin)12VHPWR, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -1018,7 +1018,7 @@ export const BLOKI_PITANIYA = [
     "price": 42117,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Formula V, FV-750GM, 750W, ATX 3.1, Gold, APFC, 20+4 pin, 2*4+4pin, 8*Sata, 3*Molex, 3*PCI-E 6+2 pin, 1*(16Pin)12VHPWR, Модульный, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -1030,7 +1030,7 @@ export const BLOKI_PITANIYA = [
     "price": 47805,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Formula V, FV-850GM, 850W, ATX 3.1, Gold, APFC, 20+4 pin, 2*4+4pin, 8*Sata, 3*Molex, 3*PCI-E 6+2 pin, 1*(16Pin)12VHPWR, Модульный, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -1042,7 +1042,7 @@ export const BLOKI_PITANIYA = [
     "price": 53466,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Formula V, FV-1000GM, 1000W, ATX 3.1, Gold, APFC, 20+4 pin, 2*4+4pin, 8*Sata, 3*Molex, 3*PCI-E 6+2 pin, 1*(16Pin)12VHPWR, Модульный, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -1054,7 +1054,7 @@ export const BLOKI_PITANIYA = [
     "price": 61512,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Formula V, FV-1200GM, 1200W, ATX 3.1, Gold, APFC, 20+4 pin, 2*4+4pin, 8*Sata, 3*Molex, 3*PCI-E 6+2 pin, 1*(16Pin)12VHPWR, Модульный, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -1066,7 +1066,7 @@ export const BLOKI_PITANIYA = [
     "price": 63158,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Formula V, FV-1000PM, 1000W, ATX3.1, Platinum, APFC, 20+4 pin, 2*4+4pin, 8*Sata, 3*Molex, 3*PCI-E 6+2 pin, 1*(16Pin)12VHPWR, Модульный, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -1078,7 +1078,7 @@ export const BLOKI_PITANIYA = [
     "price": 75786,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Formula V, FV-1200PM, 1200W, ATX3.1, Platinum, APFC, 20+4 pin, 2*4+4pin, 8*Sata, 3*Molex, 3*PCI-E 6+2 pin, 1*(16Pin)12VHPWR, Модульный, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -1090,7 +1090,7 @@ export const BLOKI_PITANIYA = [
     "price": 29973,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, VP 600S, 2124-0600R0003, 600W, Standard, APFC, 20+4 pin, 1*4+4pin, 2*Sata, 1*Molex, 1*PCI-E 6+2 pin, 1*PCI-E 12+4pin, Вентилятор 12см, 150*140*86 см, Черный"
   },
   {
@@ -1102,7 +1102,7 @@ export const BLOKI_PITANIYA = [
     "price": 33853,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, VP 700S, 2124-0700R0054, 700W, Standard, APFC, 20+4 pin, 1*4+4pin, 2*Sata, 1*Molex, 1*PCI-E 6+2 pin, 1*PCI-E 12+4pin, Вентилятор 12см, 150*140*86 см, Черный"
   },
   {
@@ -1114,7 +1114,7 @@ export const BLOKI_PITANIYA = [
     "price": 31913,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, GP 450B, 2124-0450R0039, 450W, ATX, Вентилятор 14см, 20+4 pin, 1*PCI-E 6+2 pin, 4*SATA, 2*Molex, 16*4+4 pin, 150x160x86 мм, Чёрный"
   },
   {
@@ -1126,7 +1126,7 @@ export const BLOKI_PITANIYA = [
     "price": 33853,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, GP 550B, 2124-0550R0041, 550W, ATX, Вентилятор 14см, 20+4 pin, 2*PCI-E 6+2 pin, 5*SATA, 3*Molex, 16*4+4 pin, 150x160x86 мм, Чёрный"
   },
   {
@@ -1138,7 +1138,7 @@ export const BLOKI_PITANIYA = [
     "price": 40643,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, GP 650B, 2124-0650R0065, 650W, Bronze+, APFC, 20+4 pin, 1*4+4pin, 5*Sata, 3*Molex, 2*PCI-E 6+2 pin, Modular, Вентилятор 14см, 160*150*85 см, Черный"
   },
   {
@@ -1150,7 +1150,7 @@ export const BLOKI_PITANIYA = [
     "price": 44523,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, GP 750B, 2126-0750R0022, 750W, ATX, ATX, Вентилятор 14см, 20+4 pin, 4*PCI-E 6+2 pin, 7*SATA, 3*Molex, 16*4+4 pin, 150*160*86mm мм, Черный"
   },
   {
@@ -1162,7 +1162,7 @@ export const BLOKI_PITANIYA = [
     "price": 44523,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, GP 750B WH, 2126-0750R0024, 750W, ATX, ATX, Вентилятор 14см, 20+4 pin, 4*PCI-E 6+2 pin, 7*SATA, 3*Molex, 16*4+4 pin, 150*160*86mm мм, Белый"
   },
   {
@@ -1174,7 +1174,7 @@ export const BLOKI_PITANIYA = [
     "price": 47433,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, GP 850B, 2126-0850R0009, 850W, ATX, ATX, Вентилятор 14см, 20+4 pin, 4*PCI-E 6+2 pin, 7*SATA, 3*Molex, 16*4+4 pin, 150*160*86mm мм, Черный"
   },
   {
@@ -1186,7 +1186,7 @@ export const BLOKI_PITANIYA = [
     "price": 47433,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, GP 850B, 2126-0850R0011, 850W, ATX, ATX, Вентилятор 14см, 20+4 pin, 4*PCI-E 6+2 pin, 7*SATA, 3*Molex, 16*4+4 pin, 150*160*86mm мм, Белый"
   },
   {
@@ -1198,7 +1198,7 @@ export const BLOKI_PITANIYA = [
     "price": 44523,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, GM 600B, 2139-0600B0007, 600W, Bronze+, APFC, 20+4 pin, 1*4+4pin, 3*Sata, 2*Molex, 2*PCI-E 6+2 pin, Modular, Вентилятор 14см, 160*150*85 см, Черный"
   },
   {
@@ -1210,7 +1210,7 @@ export const BLOKI_PITANIYA = [
     "price": 47433,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, GM 700B, 2140-0700B0007, 700W, ATX, ATX, Вентилятор 14см, 20+4 pin, 4*PCI-E 6+2 pin, 7*SATA, 2*Molex, 16*4+4 pin, 150x160x86 мм, Чёрный"
   },
   {
@@ -1222,7 +1222,7 @@ export const BLOKI_PITANIYA = [
     "price": 54223,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, GM 800B, 2140-0800B0007, 800W, Bronze+, APFC, 20+4 pin, 1*4+4pin, 6*Sata, 2*Molex, 4*PCI-E 6+2 pin, Modular, Вентилятор 14см, 160*150*85 см, Черный"
   },
   {
@@ -1234,7 +1234,7 @@ export const BLOKI_PITANIYA = [
     "price": 58103,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, GX 750GF, 2132-0750B0022, 750W, ATX, ATX, Вентилятор 14см, 20+4 pin, 4*PCI-E 6+2 pin, 6*SATA, 3*Molex, 16*4+4 pin, 140*150*86mm мм, Черный"
   },
   {
@@ -1246,7 +1246,7 @@ export const BLOKI_PITANIYA = [
     "price": 61983,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, GX 800, 2132-0800B0008, 800W, ATX, ATX, Вентилятор 14см, 20+4 pin, 4*PCI-E 6+2 pin, 6*SATA, 3*Molex, 16*4+4 pin, 150*160*86mm мм, Черный"
   },
   {
@@ -1258,7 +1258,7 @@ export const BLOKI_PITANIYA = [
     "price": 64893,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, GX 800GF, 2132-0850B0019, 800W, ATX, ATX, Вентилятор 14см, 20+4 pin, 4*PCI-E 6+2 pin, 6*SATA, 3*Molex, 16*4+4 pin, 140*150*86mm мм, Черный"
   },
   {
@@ -1270,7 +1270,7 @@ export const BLOKI_PITANIYA = [
     "price": 75563,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, GX PRO 850G Gold, 2121-0850B0036, 850W, ATX 3.1, ATX, Вентилятор 14см, 20+4 pin, 4*PCI-E 6+2 pin, 6*SATA, 3*Molex, 16*4+4 pin, 150*160*86mm мм, Черный"
   },
   {
@@ -1282,7 +1282,7 @@ export const BLOKI_PITANIYA = [
     "price": 93993,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, GX PRO 1050G, 2121-1050B0031, 1050W, ATX, ATX, Вентилятор 14см, 20+4 pin, 4*PCI-E 6+2 pin, 10*SATA, 3*Molex, 16*4+4 pin, 150*160*86mm мм, Черный"
   },
   {
@@ -1294,7 +1294,7 @@ export const BLOKI_PITANIYA = [
     "price": 93993,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, GX PRO 1050G Gold White, 2121-1050B0030, 1050W, ATX, ATX, Вентилятор 14см, 20+4 pin, 4*PCI-E 6+2 pin, 10*SATA, 3*Molex, 16*4+4 pin, 150*160*86mm мм, Белый"
   },
   {
@@ -1306,7 +1306,7 @@ export const BLOKI_PITANIYA = [
     "price": 98843,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, GX PRO 1250G, 2121-1250B0027, 1250W, Gold, ATX3.1, APFC, 20+4 pin, 1*4+4pin, 5*Sata, 3*Molex, 2*PCI-E 6+2 pin, 1*PCI-E 12+4pin, Modular, Вентилятор 13,5см, 160*150*85 см, Черный"
   },
   {
@@ -1318,7 +1318,7 @@ export const BLOKI_PITANIYA = [
     "price": 98843,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, GX PRO 1250G WH, 2121-1250B0026, 1250W, Gold, ATX3.1, APFC, 20+4 pin, 1*4+4pin, 5*Sata, 3*Molex, 2*PCI-E 6+2 pin, 1*PCI-E 12+4pin, Modular, Вентилятор 13,5см, 160*150*85 см, Белый"
   },
   {
@@ -1330,7 +1330,7 @@ export const BLOKI_PITANIYA = [
     "price": 54223,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, GZ 750G Gold, 2121-0750B0030, 750W, ATX 3.1, ATX, Вентилятор 14см, 20+4 pin, 4*PCI-E 6+2 pin, 6*SATA, 3*Molex, 16*4+4 pin, 150*160*86mm мм, Черный"
   },
   {
@@ -1342,7 +1342,7 @@ export const BLOKI_PITANIYA = [
     "price": 61013,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, GZ 850G Gold, 2121-0850B0051, 850W, ATX 3.1, ATX, Вентилятор 14см, 20+4 pin, 4*PCI-E 6+2 pin, 6*SATA, 3*Molex, 16*4+4 pin, 150*160*86mm мм, Черный"
   },
   {
@@ -1354,7 +1354,7 @@ export const BLOKI_PITANIYA = [
     "price": 61013,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, GZ 850G WH, 2121-0850B0053, 850W, ATX 3.1, ATX, Вентилятор 14см, 20+4 pin, 4*PCI-E 6+2 pin, 6*SATA, 3*Molex, 16*4+4 pin, 150*160*86mm мм, Белый"
   },
   {
@@ -1366,7 +1366,7 @@ export const BLOKI_PITANIYA = [
     "price": 75563,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, GZ 1000G, 2121-1000B0002, 1000W, ATX 3.1, ATX, Вентилятор 14см, 20+4 pin, 4*PCI-E 6+2 pin, 10*SATA, 3*Molex, 16*4+4 pin, 150*160*86mm мм, Черный"
   },
   {
@@ -1378,7 +1378,7 @@ export const BLOKI_PITANIYA = [
     "price": 75563,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, GZ 1000G, 2121-1000B0004, 1000W, ATX 3.1, ATX, Вентилятор 14см, 20+4 pin, 4*PCI-E 6+2 pin, 10*SATA, 3*Molex, 16*4+4 pin, 150*160*86mm мм, Белый"
   },
   {
@@ -1390,7 +1390,7 @@ export const BLOKI_PITANIYA = [
     "price": 85263,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, GZ 1200G Gold, 2121-1200B0006, 1200W, ATX 3.1, ATX, Вентилятор 14см, 20+4 pin, 4*PCI-E 6+2 pin, 10*SATA, 3*Molex, 16*4+4 pin, 150*160*86mm мм, Черный"
   },
   {
@@ -1402,7 +1402,7 @@ export const BLOKI_PITANIYA = [
     "price": 85263,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, GZ 1200G Gold White, 2121-1200B0008, 1200W, ATX 3.1, ATX, Вентилятор 14см, 20+4 pin, 4*PCI-E 6+2 pin, 10*SATA, 3*Molex, 16*4+4 pin, 150*160*86mm мм, Белый"
   },
   {
@@ -1414,7 +1414,7 @@ export const BLOKI_PITANIYA = [
     "price": 41613,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, VP 600W RGB M, 2124-0550R0060, 213105500020, 600W, ATX, Bronze, APFC, 20+4 pin, 4+4pin, 5*Sata, 3*Molex, 2*PCI-E 6+2 pin, Semi-Modular, Вентилятор 12 см, Подсветка RGB, Чёрный"
   },
   {
@@ -1426,7 +1426,7 @@ export const BLOKI_PITANIYA = [
     "price": 54223,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, RGB 750G, 2141-0750B0016, 750W, Gold, APFC, 20+4 pin, 2*4+4pin, 8*Sata, 3*Molex, 3*PCI-E 6+2 pin, Вентилятор 14см, 165*150*86 см, Черный"
   },
   {
@@ -1438,7 +1438,7 @@ export const BLOKI_PITANIYA = [
     "price": 54223,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, RGB 750G WH, 2141-0750B0012, 750W, Gold, APFC, 20+4 pin, 2*4+4pin, 8*Sata, 3*Molex, 3*PCI-E 6+2 pin, Вентилятор 14см, 165*150*86 см, Белый"
   },
   {
@@ -1450,7 +1450,7 @@ export const BLOKI_PITANIYA = [
     "price": 60043,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, RGB 850G, 2141-0850B0017, 850W, Gold, APFC, 20+4 pin, 2*4+4pin, 8*Sata, 3*Molex, 3*PCI-E 6+2 pin, Modular, Вентилятор 14см, 165*150*86 см, Черный"
   },
   {
@@ -1462,7 +1462,7 @@ export const BLOKI_PITANIYA = [
     "price": 60043,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, RGB 850G WH, 2141-0850B0021, 850W, Gold, APFC, 20+4 pin, 2*4+4pin, 8*Sata, 3*Molex, 3*PCI-E 6+2 pin, Modular, Вентилятор 14см, 165*150*86 см, Белый"
   },
   {
@@ -1474,7 +1474,7 @@ export const BLOKI_PITANIYA = [
     "price": 74593,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, RGB 1050G Gold, 2109-1050B0043, 1050W, ATX, ATX, Вентилятор 14см, 20+4 pin, 4*PCI-E 6+2 pin, 10*SATA, 3*Molex, 16*4+4 pin, 150*165*86mm мм, Черный"
   },
   {
@@ -1486,7 +1486,7 @@ export const BLOKI_PITANIYA = [
     "price": 74593,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, RGB 1050G Gold White, 2109-1050B0045, 1050W, ATX, ATX, Вентилятор 14см, 20+4 pin, 4*PCI-E 6+2 pin, 10*SATA, 3*Molex, 16*4+4 pin, 150*165*86mm мм, Белый"
   },
   {
@@ -1498,7 +1498,7 @@ export const BLOKI_PITANIYA = [
     "price": 58103,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, RGB PRO 750G Gold, 2141-0750B0018, 750 Вт, ATX 3.1, ATX, 20+4 pin, 4*PCI-E 6+2 pin, 1*PCI-E 12+4 pin, 8*SATA, 3*Molex, 150x165x86 мм, Черный"
   },
   {
@@ -1510,7 +1510,7 @@ export const BLOKI_PITANIYA = [
     "price": 62953,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, RGB PRO 850G, 2141-0850B0019, 850W, Gold, ATX3.1, APFC, 20+4 pin, 2*4+4pin, 8*Sata, 3*Molex, 3*PCI-E 6+2 pin, 1*PCI-E 12+4pin, Modular, Вентилятор 14см, 165*150*86 см, Черный"
   },
   {
@@ -1522,7 +1522,7 @@ export const BLOKI_PITANIYA = [
     "price": 79443,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, RGB PRO 1050G, 2109-1050B0049, 1050W, Gold, ATX3.1, APFC, 20+4 pin, 2*4+4pin, 10*Sata, 3*Molex, 4*PCI-E 6+2 pin, 1*PCI-E 12+4pin, Modular, Вентилятор 14см, 165*150*86 см, Черный"
   },
   {
@@ -1534,7 +1534,7 @@ export const BLOKI_PITANIYA = [
     "price": 79443,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, RGB PRO 1050G WH, 2109-1050B0047, 1050W, Gold, ATX3.1, APFC, 20+4 pin, 2*4+4pin, 10*Sata, 3*Molex, 4*PCI-E 6+2 pin, 1*PCI-E 12+4pin, Modular, Вентилятор 14см, 165*150*86 см, Белый"
   },
   {
@@ -1546,7 +1546,7 @@ export const BLOKI_PITANIYA = [
     "price": 104663,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, RGB PRO 1300P, 2110-1300B0028, 1300W, Platinum, ATX3.1, APFC, 20+4 pin, 2*4+4pin, 10*Sata, 3*Molex, 4*PCI-E 6+2 pin, 1*PCI-E 12+4pin, Modular, Вентилятор 14см, 165*150*86 см, Черный"
   },
   {
@@ -1558,7 +1558,7 @@ export const BLOKI_PITANIYA = [
     "price": 104663,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, RGB PRO 1300P WH, 2110-1300B0026, 1300W, Platinum, ATX3.1, APFC, 20+4 pin, 2*4+4pin, 10*Sata, 3*Molex, 4*PCI-E 6+2 pin, 1*PCI-E 12+4pin, Modular, Вентилятор 14см, 165*150*86 см, Белый"
   },
   {
@@ -1570,7 +1570,7 @@ export const BLOKI_PITANIYA = [
     "price": 49373,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, RGB-Smart 750 PRO, 2141-0750B0026, 750W, Gold, ATX3.1, APFC, 20+4 pin, 2*4+4pin, 8*Sata, 3*Molex, 3*PCI-E 6+2 pin, 1*PCI-E 12+4pin, Modular, Вентилятор 14см, 165*150*86 см, Черный"
   },
   {
@@ -1582,7 +1582,7 @@ export const BLOKI_PITANIYA = [
     "price": 111453,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, LION CORE 1200P, 2155-1200R0002, 1200W, Platinum, ATX3.1, APFC, 20+4 pin, 2*4+4pin, 8*Sata, 3*Molex, 4*PCI-E 6+2 pin, 1*PCI-E 12+4pin, Modular, Вентилятор 13,5см, 160*150*85 см, Черный"
   },
   {
@@ -1594,7 +1594,7 @@ export const BLOKI_PITANIYA = [
     "price": 42389,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, RGB750 PRO Gold, 213610500002, 750W, ATX, Gold, APFC, 20+4 pin, 2*4+4pin, 8*Sata, 3*Molex, 1*FDD, 3*PCI-E 6+2 pin, Modular, Вентилятор 14 см, Подсветка RGB, Чёрный"
   },
   {
@@ -1606,7 +1606,7 @@ export const BLOKI_PITANIYA = [
     "price": 19303,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, 1STPLAYER, PS-500FK, 500W, ATX, APFC, 20+4 pin, 4+4pin, 4*Sata, 2*Molex, 2*PCI-E 6+2pin, Вентилятор 12см, 140x150x86 мм, Черный"
   },
   {
@@ -1618,7 +1618,7 @@ export const BLOKI_PITANIYA = [
     "price": 21243,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, 1STPLAYER, PS-600FK, 600W, ATX, APFC, 20+4 pin, 4+4pin, 6*Sata, 2*Molex, 2*PCI-E 6+2pin, Вентилятор 12см, 140x150x86 мм, Черный"
   },
   {
@@ -1630,7 +1630,7 @@ export const BLOKI_PITANIYA = [
     "price": 28033,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, 1STPLAYER, PS-700FK, 700W, ATX, APFC, 20+4 pin, 4+4pin, 6*Sata, 2*Molex, 2*PCI-E 6+2pin, Вентилятор 12см, 140x150x86 мм, Черный"
   },
   {
@@ -1642,7 +1642,7 @@ export const BLOKI_PITANIYA = [
     "price": 22213,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, 1STPLAYER, DK PREMIUM PS-500AX, 500W, ATX, APFC, BRONZE, 20+4pin, 4+4pin, 6*Sata, 2*Molex, 2*PCI-E 6+2pin, Вентилятор 12см, 140x150x86 мм, Черный"
   },
   {
@@ -1654,7 +1654,7 @@ export const BLOKI_PITANIYA = [
     "price": 24153,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, 1STPLAYER, DK PREMIUM PS-600AX, 600W, ATX, APFC, BRONZE, 20+4pin, 4+4pin, 6*Sata, 2*Molex, 2*PCI-E 6+2pin, Вентилятор 12см, 14015086 мм, Черный"
   },
   {
@@ -1666,7 +1666,7 @@ export const BLOKI_PITANIYA = [
     "price": 29003,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, 1STPLAYER, DK PREMIUM PS-700AX, 700W, ATX, APFC, BRONZE, 20+4pin, 2*4+4pin, 6*Sata, 3*Molex, 4*PCI-E 6+2pin, Вентилятор 12см, 14015086 мм, Черный"
   },
   {
@@ -1678,7 +1678,7 @@ export const BLOKI_PITANIYA = [
     "price": 33465,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, 1STPLAYER, DK PREMIUM PS-800AX, 800W, ATX, APFC, BRONZE, 20+4pin, 2*4+4pin, 6*Sata, 3*Molex, 4*PCI-E 6+2pin, Вентилятор 12см, 140x150x86 мм, Черный"
   },
   {
@@ -1690,7 +1690,7 @@ export const BLOKI_PITANIYA = [
     "price": 22213,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, 1STPLAYER, HA 550W BK, 550W, ATX, 80+, APFC, 20+4pin, 4+4pin, 4*Sata, 2*Molex, 1*PCI-E 6+2-pin, Non-modular, Вентиялтор 14см, 145х150х86мм, Черный"
   },
   {
@@ -1702,7 +1702,7 @@ export const BLOKI_PITANIYA = [
     "price": 25123,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, 1STPLAYER, HA 650W BK, 650W, ATX, 80+, APFC, 20+4pin, 4+4pin, 4*Sata, 2*Molex, 2*PCI-E 6+2-pin, Non-modular, Вентиялтор 14см, 145х150х86мм, Черный"
   },
   {
@@ -1714,7 +1714,7 @@ export const BLOKI_PITANIYA = [
     "price": 32883,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, 1STPLAYER, ACK Bronze 650W, HA-650W-AA2-BK, 650W, ATX, 80 PLUS® Bronze, 20+4 pin, 4+4pin, 2*Sata, 2*Molex, 1*PCI-E 6+2 pin, Вентилятор 14см, 150х145х86мм, Черный"
   },
   {
@@ -1726,7 +1726,7 @@ export const BLOKI_PITANIYA = [
     "price": 29973,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, 1STPLAYER, HA 750W BK, 750W, ATX, 80+, APFC, 20+4pin, 2*4+4pin, 4*Sata, 2*Molex, 2*PCI-E 6+2-pin, Non-modular, Вентиялтор 14см, 145х150х86мм, Черный"
   },
   {
@@ -1738,7 +1738,7 @@ export const BLOKI_PITANIYA = [
     "price": 41613,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, 1STPLAYER, ACK Bronze 750W, HA-750W-AA2-BK, 750W, ATX, 80 PLUS® Bronze, 20+4 pin, 4+4pin, 2*Sata, 2*Molex, 1*PCI-E 6+2 pin, 1*PCI-E 12+4 pin, Вентилятор 14см, 145х150х86мм, Черный"
   },
   {
@@ -1750,7 +1750,7 @@ export const BLOKI_PITANIYA = [
     "price": 45493,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, 1STPLAYER, ACK Silver 750W, HA-750W-BA7-BK, 750W, ATX, 80 PLUS® Silver, 20+4 pin, 4+4pin, 2*Sata, 2*Molex, 1*PCI-E 6+2 pin, 1*PCI-E 12+4 pin, Вентилятор 14см, 145х150х86мм, Черный"
   },
   {
@@ -1762,7 +1762,7 @@ export const BLOKI_PITANIYA = [
     "price": 62953,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, 1STPLAYER, ACK Standard 750W, HA-750W-BA2-BK, 750W, ATX, Standard (80+), 20+4 pin, 4+4pin, 2*Sata, 2*Molex, 1*PCI-E 6+2 pin, 1*PCI-E 12+4 pin, Вентилятор 14см 145х150х86мм, Черный"
   },
   {
@@ -1774,7 +1774,7 @@ export const BLOKI_PITANIYA = [
     "price": 45493,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, 1STPLAYER, ACK Bronze 850W, HA-850W-AA2-BK, 850W, ATX, 80 PLUS® Bronze, 20+4 pin, 4+4pin, 2*Sata, 2*Molex, 1*PCI-E 6+2 pin, 1*PCI-E 12+4 pin, Вентилятор 14см, 145х150х86мм, Черный"
   },
   {
@@ -1786,7 +1786,7 @@ export const BLOKI_PITANIYA = [
     "price": 53253,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, 1STPLAYER, ACK Silver 850W, HA-850W-BA7-BK, 850W, ATX, 80 PLUS® Silver, 20+4 pin, 4+4pin, 2*Sata, 2*PCI-E 6+2 pin, Вентилятор 14см, 145х150х86мм, Черный"
   },
   {
@@ -1798,7 +1798,7 @@ export const BLOKI_PITANIYA = [
     "price": 68773,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, 1STPLAYER, ACK Gold 850W, HA-850W-BA2-BK, 850W, ATX, 80 PLUS® Gold, 20+4 pin, 4+4pin, 2*Sata, 3*PCI-E 6+2 pin, 1*PCI-E 12+4 pin, Вентилятор 14см, 145х150х86мм, Черный"
   },
   {
@@ -1810,7 +1810,7 @@ export const BLOKI_PITANIYA = [
     "price": 72653,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, 1STPLAYER, NGDP HA-1000BA4, 1000W, ATX 3.1, APFC, GOLD, 20+4pin, 2*4+4pin, 2*Sata, 3*PCI-E 6+2pin, 2*(16pin)12VHPWR, Modular, Вентилятор 12см, 140x150x86 мм, Чёрный"
   },
   {
@@ -1822,7 +1822,7 @@ export const BLOKI_PITANIYA = [
     "price": 86233,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, 1STPLAYER, NGDP HA-1000BA3-BK, 1000W, ATX 3.0, APFC, PLATINUM, 20+4pin, 2*4+4pin, 12*Sata, 4*Molex, 4*PCI-E 6+2pin, 1*(16pin)12VHPWR, Modular, Вентилятор 12см, 140x150x86 мм, Черный"
   },
   {
@@ -1834,7 +1834,7 @@ export const BLOKI_PITANIYA = [
     "price": 88173,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, 1STPLAYER, NGDP HA-1000BA3-WH, 1000W, ATX 3.0, APFC, PLATINUM, 20+4pin, 2*4+4pin, 12*Sata, 4*Molex, 4*PCI-E 6+2pin, 1*(16pin)12VHPWR, Modular, Вентилятор 12см, 140х150х86 мм, Белый"
   },
   {
@@ -1846,7 +1846,7 @@ export const BLOKI_PITANIYA = [
     "price": 109125,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, 1STPLAYER, NGDP HA-1300BA3-BK, 1300W, ATX 3.0, APFC, PLATINUM, 20+4pin, 2*4+4pin, 12*Sata, 4*Molex, 4*PCI-E 6+2pin, 1*(16pin)12VHPWR, Modular, Вентилятор 12см, 140х150х86 мм, Черный"
   },
   {
@@ -1858,7 +1858,7 @@ export const BLOKI_PITANIYA = [
     "price": 113005,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, 1STPLAYER, NGDP HA-1300BA3-WH, 1300W, ATX 3.0, APFC, PLATINUM, 20+4pin, 2*4+4pin, 12*Sata, 4*Molex, 4*PCI-E 6+2pin, 1*(16pin)12VHPWR, Modular, Вентилятор 12см, 140х150х86 мм, Белый"
   },
   {
@@ -1870,7 +1870,7 @@ export const BLOKI_PITANIYA = [
     "price": 26093,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, 1STPLAYER, PS-600BS, SR-600W STANDARD 600W, ATX, APFC, STANDARD, 20+4 pin, 4+4pin, 5*Sata, 3*Molex, 2*PCI-E 6+2pin, Вентилятор 12см, 14015086 мм,Черный"
   },
   {
@@ -1882,7 +1882,7 @@ export const BLOKI_PITANIYA = [
     "price": 63535,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, 1STPLAYER, PS-750SFX-BK, 750W, SFX, APFC, PLATINUM, 20+4 pin, 2*4+4pin, 8*Sata, 4*Molex, 3*PCI-E 6+2pin, Modular, Вентилятор 8см, 100х125х63.5мм, Черный"
   },
   {
@@ -1894,7 +1894,7 @@ export const BLOKI_PITANIYA = [
     "price": 67803,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, 1STPLAYER, PS-750SFX-WH, 750W, SFX, APFC, PLATINUM, 20+4 pin, 4+4pin, 8*Sata, 4*Molex, 2*PCI-E 6+2pin, Modular, Вентилятор 8см, 100х125х63.5мм, Белый"
   },
   {
@@ -1906,7 +1906,7 @@ export const BLOKI_PITANIYA = [
     "price": 63535,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, 1STPLAYER, SFX, PS-850SFX-BK, 850W, SFX, APFC, GOLD, 20+4pin, 4+4pin, 8*Sata, 4*Molex, 2*PCI-E 6+2pin, 1*(16pin)12VHPWR, Modular, Вентилятор 8см, 100х125х63.5мм, Черный"
   },
   {
@@ -1918,7 +1918,7 @@ export const BLOKI_PITANIYA = [
     "price": 85263,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, 1STPLAYER, SFX, PS-850SFX WHITE, 850W, SFX, APFC, GOLD, 20+4pin, 4+4pin, 8*Sata, 4*Molex, 2*PCI-E 6+2pin, 1*(16pin)12VHPWR, Modular, Вентилятор 8см, 100х125х63.5мм, Белый"
   },
   {
@@ -1930,7 +1930,7 @@ export const BLOKI_PITANIYA = [
     "price": 34823,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Zalman, ZM600-TXII(V2), 600W, ATX, Standard, APFC, 20+4pin, 4pin, 8pin, 2*PCI-E 6+2 pin, 6*SATA, 3*Molex, FDD, Вентилятор 12см, Черный"
   },
   {
@@ -1942,7 +1942,7 @@ export const BLOKI_PITANIYA = [
     "price": 34823,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Zalman, ZM700-TXII(V2), 700W, ATX, Standard, APFC, 20+4pin, 4+4pin, 8pin, 6*Sata, 4*Molex, 4*PCI-E 6+2 pin, FDD, Вентилятор 12см, Черный"
   },
   {
@@ -1954,7 +1954,7 @@ export const BLOKI_PITANIYA = [
     "price": 33853,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Zalman, ZM700-TXII, 700W, ATX, Standard, APFC, 20+4pin, 4+4pin, 8pin, 4*PCI-E 6+2 pin, 6*SATA, 4*Molex, FDD, Вентилятор 12см, Черный"
   },
   {
@@ -1966,7 +1966,7 @@ export const BLOKI_PITANIYA = [
     "price": 33292,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Zalman, ZM650-GV, 650W, ATX, Bronze, APFC, 20+4pin, 4+4pin 5*Sata, 3*Molex, 2*PCI-E 6+2 pin, FDD, Вентилятор 12см, Черный"
   },
   {
@@ -1978,7 +1978,7 @@ export const BLOKI_PITANIYA = [
     "price": 45493,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Zalman, ZM750-GV3, 750W, Bronze, ATX3.1, APFC, 20+4 pin, 2*4+4pin, 6*Sata, 3*Molex, 4*PCI-E 6+2 pin, 1*PCI-E 12+4pin, Вентилятор 12см, 150*140*86 мм, Черный"
   },
   {
@@ -1990,7 +1990,7 @@ export const BLOKI_PITANIYA = [
     "price": 31913,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Zalman, Wattbit II 600W, ZM600-XEII, 600W, ATX, APFC, 20+4pin, 4+4pin, 4*SATA, 3*Molex, 2*PCI-E 6+2 pin, Вентилятор 12см, Черный"
   },
   {
@@ -2002,7 +2002,7 @@ export const BLOKI_PITANIYA = [
     "price": 27063,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Zalman, ZM600-LX3, ZM600-LX3, 600W, ATX, Standard, 20+4 pin, 4+4pin, 5*Sata, 3*molex, 2*PCI-E 6+2 pin, Modular, Вентилятор 12см, 150х140х86мм, Черный"
   },
   {
@@ -2014,7 +2014,7 @@ export const BLOKI_PITANIYA = [
     "price": 122123,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Zalman, ZM1200-ARX2, ZM1200-ARX2, 1200W, ATX, Platinum, 20+4 pin, 4+4pin, 16*Sata, 8*Molex, 8*PCI-E 6+2 pin, Modular, Вентилятор 12см, 180х150х86мм, Черный"
   },
   {
@@ -2026,7 +2026,7 @@ export const BLOKI_PITANIYA = [
     "price": 63923,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Bequiet!, Pure Power 12 650W, BP002EU, 650W, Gold, ATX3.1, APFC, 20+4pin, 1*4+4pin, 1*4pin, 5*SATA, 1*Molex, 2*PCI-E 6+2 pin, 1*PCI-E 12+4pin, Вентилятор 12см, 160*86*150 см, Черный"
   },
   {
@@ -2038,7 +2038,7 @@ export const BLOKI_PITANIYA = [
     "price": 78473,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Bequiet!, Pure Power 13M 650W, BP025EU, 850W, Gold, ATX 3.1, APFC, 1*20+4pin, 1*4+4pin, 5*SATA, 2*PCI-E 6+2 pin, Вентилятор 12см, 160*86*150 см, Черный"
   },
   {
@@ -2050,7 +2050,7 @@ export const BLOKI_PITANIYA = [
     "price": 37733,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Thermaltake, Litepower RGB 650W, PS-LTP-0650NHSANE-1, 650W, ATX, APFC, 20+4 pin, 4+4pin, 5*Sata, 6*Molex, 2*PCI-E 6+2-pin, FDD, Non-modular, Вентилятор RGB 12 см, 150х86х140мм, Чёрный"
   },
   {
@@ -2062,7 +2062,7 @@ export const BLOKI_PITANIYA = [
     "price": 53350,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Thermaltake, Smart RGB 600W, PS-SPR-0600NHSAWE-1, 600W, ATX, Standard, APFC, 20+4 pin, 4+4pin, 6*Sata, 4*Molex, 2*PCI-E 6+2 pin, FDD, Non-modular, Вентилятор 12 см, 150х86х140мм, Чёрный"
   },
   {
@@ -2074,7 +2074,7 @@ export const BLOKI_PITANIYA = [
     "price": 84293,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Thermaltake, Toughpower SFX 650W, PS-STP-0650FNFAGE-1, 650W, SFX, Gold, APFC, 20+4 pin, 4+4pin, 3*Sata, 2*Molex, 2*PCI-E 6+2 pin, FDD, Modular, Вентилятор 9 см, 100х125х63,5мм, Чёрный"
   },
   {
@@ -2086,7 +2086,7 @@ export const BLOKI_PITANIYA = [
     "price": 80025,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Thermaltake, Toughpower SFX 750W, PS-STP-0750FNFAGE-1, 750W, SFX, Gold, APFC, 20+4 pin, 2*4+4pin, 8*Sata, 4*Molex, 4*PCI-E 6+2 pin, 1*(16pin) 12VHPWR, FDD, Modular, Вентилятор 9.2 см, 100х125х63,5мм, Чёрный"
   },
   {
@@ -2098,7 +2098,7 @@ export const BLOKI_PITANIYA = [
     "price": 107573,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Thermaltake, Toughpower PF1 ARGB 850W, PS-TPD-0850F3FAPE-1, 850W, ATX, Platinum, APFC, 20+4 pin, 2*4+4pin, 12*Sata, 4*Molex, 6*PCI-E 6+2 pin, FDD, Modular, Вентилятор 14 см, 150х86х180мм, Чёрный"
   },
   {
@@ -2110,7 +2110,7 @@ export const BLOKI_PITANIYA = [
     "price": 50721,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Chieftec, A-80 CTG-550C, 550W, ATX, APFC, Semi Modular, 20+4pin, 4+4pin, 6*Sata, 4*Molex, 2*PCIe 6+2-pin, Вентилятор 12см, Черный"
   },
   {
@@ -2122,7 +2122,7 @@ export const BLOKI_PITANIYA = [
     "price": 68491,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, X-Game, TTM Multi-rail, 1600W, ATX, APFC, 20+4P, P4+P4*1, (PCI 6+2P to 6+2P)*6PCS, SATA*8+IDE*6, кабель питания, черный"
   },
   {
@@ -2134,7 +2134,7 @@ export const BLOKI_PITANIYA = [
     "price": 45493,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, VP 800W RGB M, 2124-0700R0047, 212907000011, 800W, ATX, Bronze, APFC, 20+4 pin, 4+4pin, 6*Sata, 3*Molex, 2*PCI-E 6+2 pin, Semi-Modular, Вентилятор 12 см, Подсветка RGB, Чёрный"
   },
   {
@@ -2146,7 +2146,7 @@ export const BLOKI_PITANIYA = [
     "price": 55193,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Bequiet!, System Power 9 700W CM, BN303, 700W, 80 PLUS Bronze, ATX, 20+4-pin, P4+4, 4xPCI-E 6+2-pin, 2xPATA 4-pin, 10xSATA 15-pin, FDD, кабель питания, черный"
   },
   {
@@ -2158,7 +2158,7 @@ export const BLOKI_PITANIYA = [
     "price": 249193,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Bequiet!, Dark Power Pro 13, BN331, 1300W, ATX 3.0, Titanium, APFC, 20+4 pin, 4+4pin, 8pin, 16*SATA, 5*Molex, 6*PCI-E 6+2-pin, 2*12VHPWR, Modular, Вентилятор 13.5см, 200х150х86мм, Черный"
   },
   {
@@ -2170,7 +2170,7 @@ export const BLOKI_PITANIYA = [
     "price": 47530,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, RGB850 PRO WH Gold, 214008500017, 850W, ATX, Gold, APFC, 20+4 pin, 2*4+4pin, 8*Sata, 3*Molex, 12VHPWR, 1*FDD, 3*PCI-E 6+2 pin, Modular, Вентилятор 14 см, Подсветка ARGB, Белый"
   },
   {
@@ -2182,7 +2182,7 @@ export const BLOKI_PITANIYA = [
     "price": 42292,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Chieftec, Proton BDF-400S, 400W, ATX, APFC, Bronze, non-Modular, 20+4pin, 4+4pin, 3*Sata, 3*Molex, PCI-E 6+2 pin, Вентилятор 12см, Черный"
   },
   {
@@ -2194,7 +2194,7 @@ export const BLOKI_PITANIYA = [
     "price": 59645,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Chieftec, Silicon SLC-850C, 850W, ATX, APFC, Bronze, Modular, 20+4pin, 4+4pin, 9*Sata, 3*Molex, 6*PCI-E 6+2-pin, Вентилятор 14см, Черный"
   },
   {
@@ -2206,7 +2206,7 @@ export const BLOKI_PITANIYA = [
     "price": 46187,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, GamerStorm, PN650М R-PN650M-FC0B-WGEU, 650W, ATX 3.0, Gold, APFC, 20+4 pin, 2*4+4pin, 8*Sata, 2*Molex, 3*PCI-E 6+2 pin, 1*(16Pin)12VHPWR, Модульный, Вентилятор 12см, Кабель питания, Чёрный"
   },
   {
@@ -2218,7 +2218,7 @@ export const BLOKI_PITANIYA = [
     "price": 94963,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, GX-1050 BK PCIE 5.0 ATX 3.0, 2121-1050B0037, 214610500022, ATX 3.0, Platinum, APFC, 20+4 pin, 2*4+4 pin, 10*Sata, 3*Molex, 4*PCI-E 6+2 pin, 12VHPWR, FDD, Модульный, Вентилятор 13,5см, Черный"
   },
   {
@@ -2230,7 +2230,7 @@ export const BLOKI_PITANIYA = [
     "price": 109610,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Bequiet!, POWER ZONE 2 850W, BP007EU, 850W, ATX 3.1, Platinum, APFC, 20+4 pin, 2*4+4pin, 7*Sata, 1*Molex, 3*PCI-E 6+2 pin, 1*12VHPWR, Modular, Вентилятор 14мм, 160*150*86 см, Чёрный"
   },
   {
@@ -2242,7 +2242,7 @@ export const BLOKI_PITANIYA = [
     "price": 56163,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Gamemax, RGB-Smart 850 PRO, 2141-0850B0031, 850W, Gold, ATX3.1, APFC, 20+4 pin, 2*4+4pin, 8*Sata, 3*Molex, 3*PCI-E 6+2 pin, 1*PCI-E 12+4pin, Modular, Вентилятор 14см, 165*150*86 см, Черный"
   },
   {
@@ -2254,7 +2254,7 @@ export const BLOKI_PITANIYA = [
     "price": 77503,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, 1STPLAYER, HA-850BA4 WHITE, 850W, ATX 3.1, APFC, GOLD, 20+4pin, 2*4+4pin, 8*Sata, 4*Molex, 3*PCI-E 6+2pin, 1*(16pin)12VHPWR, Modular, Вентилятор 12см, 140х150х86мм, Белый"
   },
   {
@@ -2266,7 +2266,7 @@ export const BLOKI_PITANIYA = [
     "price": 50592,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Cougar, GR 850, 850W, ATX 3.1, APFC, GOLD, 20+4 pin, 2*4+4pin, 6*Sata, 2*Molex, 3*PCI-E 6+2 pin, 1*12V-2x6, Вентилятор 12 см, Модульный, Кабель питания, Чёрный"
   },
   {
@@ -2278,7 +2278,7 @@ export const BLOKI_PITANIYA = [
     "price": 45547,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, Cougar, GR 750, 750W, ATX 3.1, APFC, GOLD, 20+4 pin, 2*4+4pin, 6*Sata, 2*Molex, 2*PCI-E 6+2 pin, 1*12V-2x6, Вентилятор 12 см, Модульный, Кабель питания, Чёрный"
   },
   {
@@ -2290,7 +2290,8 @@ export const BLOKI_PITANIYA = [
     "price": 0,
     "stock": 50,
     "is_available": false,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Блок питания, GamerStorm, PS1000P, 1000W, SFX12V V4.1 & ATX12V V3.1, Platinum, APFC, 20+4 pin, 2*4+4pin, 3*Sata, 2*Molex, 3*PCI-E 6+2 pin, 1*12V-2x6, Модульный, Вентилятор 12 см, Кабель питания, Черный"
   }
 ];
+

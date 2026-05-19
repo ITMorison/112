@@ -30,3 +30,4 @@ export const CABLE_PRODUCTS = [
     "image": "https://market-telecom.kz/files/products/44269_1.170x220.jpg"
   }
 ];
+

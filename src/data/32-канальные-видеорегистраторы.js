@@ -10,7 +10,7 @@ export const 32_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 163261,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Dahua, DHI-NVR4232-4KS3, 32 канала (200 Мб/с), Квадруплекс, Разрешение записи:12MP/8MP/6MP/4MP/3MP, 1080P/1.3MP/720P, Выходы видео: 1 x VGA, 1 x HDMI, Поддержка мобильных платформ: IOS, Android"
   },
   {
@@ -22,7 +22,7 @@ export const 32_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 181380,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Dahua, DHI-NVR4232-EI, Канал доступа 32, видео Смарт H.265+, H.265, Смарт H.264+, H.264, MJPEG, 2 HDD"
   },
   {
@@ -34,7 +34,7 @@ export const 32_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 217523,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Dahua, DHI-NVR4432-EI, Канал доступа 32, видео Смарт H.265+, H.265, Смарт H.264+, H.264, MJPEG, 4 HDD"
   },
   {
@@ -46,7 +46,7 @@ export const 32_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 345320,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Dahua, DHI-NVR4832-EI, Канал доступа 32, видео Смарт H.265+, H.265, Смарт H.264+, H.264, MJPEG, 8HDD"
   },
   {
@@ -58,7 +58,7 @@ export const 32_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 310730,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Dahua, DHI-NVR5232-EI2, 32 канала, 1U, 2HDD, WizSense"
   },
   {
@@ -70,7 +70,7 @@ export const 32_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 493158,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Dahua, DHI-NVR5432-EI2, 32 канала, 2 HDMI, 2 VGA, 4 порта SATA III, емкость до 20 ТБ"
   },
   {
@@ -82,7 +82,7 @@ export const 32_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 249079,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Hikvision, DS-7732NXI-K4(D), 32 канала, H.265+/H.265/H.264+/H.264, AcuSense, Разрешение записи: 4K, Full HD, D1, CIF, 256 Мбит/с, Интеллектуальная аналитика, Обнаружение движения 2.0, 4 SATA HDD 16 ТБ,"
   },
   {
@@ -94,7 +94,7 @@ export const 32_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 156983,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Hikvision, DS-7632NXI-K2(E), 32 канала, H.265+/H.265/H.264+/H.264, AcuSense, Разрешение записи: 4K, Full HD, D1, CIF, 256 Мбит/с, Интеллектуальная аналитика, Обнаружение движения 2.0, 2 SATA HDD 10 ТБ,"
   },
   {
@@ -106,7 +106,7 @@ export const 32_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 533742,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Hikvision, DS-8632NXI-K8, 32 канала, H.265+/H.265/H.264+/H.264, AcuSense, Разрешение записи: 4K, Full HD, D1, CIF, 256 Мбит/с, Интеллектуальная аналитика, Обнаружение движения 2.0, 1 eSATA, 8 HDD 10 ТБ, 2U"
   },
   {
@@ -118,7 +118,7 @@ export const 32_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеорегистратор, Hikvision,DS-9632NI-M8,32 канала, H.265+/H.265/H.264+/H.264, Разрешение записи: 8K, 4K, Full HD, D1, CIF, 320 Мбит/с, RAID 0, 1, 5, 6, 10, 1 eSATA, 8 HDD 16 ТБ, 2U"
   },
   {
@@ -130,7 +130,7 @@ export const 32_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 414434,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Hikvision, DS-7732NXI-I4/S(E), 32 канала, H.265+/H.265/H.264+/H.264, AcuSense, Разрешение записи: 4K, Full HD, D1, CIF, 256 Мбит/с, Интеллектуальная аналитика, Обнаружение движения 2.0, 4 SATA HDD 14 ТБ,"
   },
   {
@@ -142,7 +142,7 @@ export const 32_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 141567,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, HiLook, NVR-232MH-K"
   },
   {
@@ -154,7 +154,7 @@ export const 32_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 261533,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Hikvision, DS-7732NXI-K4(E), 32 канала, Форматы сжатия видео: H.265+, H.265, H.264+, H.264"
   },
   {
@@ -166,7 +166,7 @@ export const 32_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 426373,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Hikvision, DS-7732NI-M4, 32 канала, H.265+/H.265/H.264+/H.264, Разрешение записи: 4K, Full HD, D1, CIF, 256 Мбит/с, 4 SATA HDD 10 ТБ, 1.5U"
   },
   {
@@ -178,7 +178,8 @@ export const 32_КАНАЛЬНЫЕ_ВИДЕОРЕГИСТРАТОРЫ = [
     "price": 534905,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Сетевой видеорегистратор, Hikvision, DS-7732NXI-I4/VPro, 32 канала, H.265+, H.265, H.264+, H.264"
   }
 ];
+

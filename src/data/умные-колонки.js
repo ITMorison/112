@@ -10,7 +10,7 @@ export const УМНЫЕ_КОЛОНКИ = [
     "price": 28120,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умная колонка, Яндекс, YNDX-00028GRY, Яндекс Станция Лайт 2 с Алисой без часов, 6Вт, 2 микрофона, 120-16 000 Гц, Wi-Fi (2,4–5 ГГц), Bluetooth 5.0, Графит"
   },
   {
@@ -22,7 +22,7 @@ export const УМНЫЕ_КОЛОНКИ = [
     "price": 28120,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умная колонка, Яндекс, YNDX-00028BLU, Яндекс Станция Лайт 2 с Алисой без часов, 6Вт, 2 микрофона, 120-16 000 Гц, Wi-Fi (2,4–5 ГГц), Bluetooth 5.0, Синий"
   },
   {
@@ -34,7 +34,7 @@ export const УМНЫЕ_КОЛОНКИ = [
     "price": 28120,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умная колонка, Яндекс, YNDX-00028PNK, Яндекс Станция Лайт 2 с Алисой без часов, 6Вт, 2 микрофона, 120-16 000 Гц, Wi-Fi (2,4–5 ГГц), Bluetooth 5.0, Розовый"
   },
   {
@@ -46,7 +46,7 @@ export const УМНЫЕ_КОЛОНКИ = [
     "price": 28120,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умная колонка, Яндекс, YNDX-00028GRN, Яндекс Станция Лайт 2 с Алисой без часов, 6Вт, 2 микрофона, 120-16 000 Гц, Wi-Fi (2,4–5 ГГц), Bluetooth 5.0, Зелёный"
   },
   {
@@ -58,7 +58,7 @@ export const УМНЫЕ_КОЛОНКИ = [
     "price": 28120,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умная колонка, Яндекс, YNDX-00028VIO, Яндекс Станция Лайт 2 с Алисой без часов, 6Вт, 2 микрофона, 120-16 000 Гц, Wi-Fi (2,4–5 ГГц), Bluetooth 5.0, Фиолетовый"
   },
   {
@@ -70,7 +70,7 @@ export const УМНЫЕ_КОЛОНКИ = [
     "price": 28120,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умная колонка, Яндекс, YNDX-00028ORG, Яндекс Станция Лайт 2 с Алисой без часов, 6Вт, 2 микрофона, 120-16 000 Гц, Wi-Fi (2,4–5 ГГц), Bluetooth 5.0, Коралловый"
   },
   {
@@ -82,7 +82,7 @@ export const УМНЫЕ_КОЛОНКИ = [
     "price": 32970,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умная колонка, Яндекс, YNDX-00026BLU, Яндекс Станция Лайт Второе поколение, YaGPT, 6Вт, 2 микрофона, USB TYPE-C, Синий"
   },
   {
@@ -94,7 +94,7 @@ export const УМНЫЕ_КОЛОНКИ = [
     "price": 32970,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умная колонка, Яндекс, YNDX-00026GRY, Яндекс Станция Лайт Второе поколение, YaGPT, 6Вт, 2 микрофона, USB TYPE-C, Графит"
   },
   {
@@ -106,7 +106,7 @@ export const УМНЫЕ_КОЛОНКИ = [
     "price": 32970,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умная колонка, Яндекс, YNDX-00026GRN, Яндекс Станция Лайт Второе поколение, YaGPT, 6Вт, 2 микрофона, USB TYPE-C, Зеленый"
   },
   {
@@ -118,7 +118,7 @@ export const УМНЫЕ_КОЛОНКИ = [
     "price": 32970,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умная колонка, Яндекс, YNDX-00026ORG, Яндекс Станция Лайт Второе поколение, YaGPT, 6Вт, 2 микрофона, USB TYPE-C, Коралловый"
   },
   {
@@ -130,7 +130,7 @@ export const УМНЫЕ_КОЛОНКИ = [
     "price": 32970,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умная колонка, Яндекс, YNDX-00026PNK, Яндекс Станция Лайт Второе поколение, YaGPT, 6Вт, 2 микрофона, USB TYPE-C, Розовый"
   },
   {
@@ -142,7 +142,7 @@ export const УМНЫЕ_КОЛОНКИ = [
     "price": 32970,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умная колонка, Яндекс, YNDX-00026VIO, Яндекс Станция Лайт Второе поколение, YaGPT, 6Вт, 2 микрофона, USB TYPE-C, Фиолетовый"
   },
   {
@@ -154,7 +154,7 @@ export const УМНЫЕ_КОЛОНКИ = [
     "price": 48490,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умная колонка, Яндекс, YNDX-00027BLK, Яндекс Станция Мини 3 с Алисой, YaGPT, 12Вт, 1 динамик, 3 микрофона, 110-16 000 Гц, Wi-Fi (2,4–5 ГГц), Bluetooth 5.0, Черный"
   },
   {
@@ -166,7 +166,7 @@ export const УМНЫЕ_КОЛОНКИ = [
     "price": 48490,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умная колонка, Яндекс, YNDX-00027GRY, Яндекс Станция Мини 3 с Алисой, YaGPT, 12Вт, 1 динамик, 3 микрофона, 110-16 000 Гц, Wi-Fi (2,4–5 ГГц), Bluetooth 5.0, Серый"
   },
   {
@@ -178,7 +178,7 @@ export const УМНЫЕ_КОЛОНКИ = [
     "price": 48490,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умная колонка, Яндекс, YNDX-00027LIL, Яндекс Станция Мини 3 с Алисой, YaGPT, 12Вт, 1 динамик, 3 микрофона, 110-16 000 Гц, Wi-Fi (2,4–5 ГГц), Bluetooth 5.0, Лиловый"
   },
   {
@@ -190,7 +190,7 @@ export const УМНЫЕ_КОЛОНКИ = [
     "price": 48490,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умная колонка, Яндекс, YNDX-00027TRQ, Яндекс Станция Мини 3 с Алисой, YaGPT, 12Вт, 1 динамик, 3 микрофона, 110-16 000 Гц, Wi-Fi (2,4–5 ГГц), Bluetooth 5.0, Бирюзовый"
   },
   {
@@ -202,7 +202,7 @@ export const УМНЫЕ_КОЛОНКИ = [
     "price": 80500,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умная колонка, Яндекс, YNDX-00059GRY, Яндекс Станция Мини 3 Про, 18Вт, 3 микрофона, 90 - 16 000 Гц, Wi-Fi (2,4–5 ГГц), Серый"
   },
   {
@@ -214,7 +214,7 @@ export const УМНЫЕ_КОЛОНКИ = [
     "price": 80500,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умная колонка, Яндекс, YNDX-00059BLK, Яндекс Станция Мини 3 Про, 18Вт, 3 микрофона, 90 - 16 000 Гц, Wi-Fi (2,4–5 ГГц), Черный"
   },
   {
@@ -226,7 +226,7 @@ export const УМНЫЕ_КОЛОНКИ = [
     "price": 80500,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умная колонка, Яндекс, YNDX-00059BLU, Яндекс Станция Мини 3 Про, 18Вт, 3 микрофона, 90 - 16 000 Гц, Wi-Fi (2,4–5 ГГц), Синий"
   },
   {
@@ -238,7 +238,7 @@ export const УМНЫЕ_КОЛОНКИ = [
     "price": 80500,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умная колонка, Яндекс, YNDX-00059GRN, Яндекс Станция Мини 3 Про, 18Вт, 3 микрофона, 90 - 16 000 Гц, Wi-Fi (2,4–5 ГГц), Зеленый"
   },
   {
@@ -250,7 +250,7 @@ export const УМНЫЕ_КОЛОНКИ = [
     "price": 79530,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умная колонка, Яндекс, YNDX-00054BLK, Яндекс Станция Миди, 24Вт, (1х 63, 2х20мм), 4 микрофона, 70–20 000 Гц, Wi-Fi (2,4–5 ГГц), Bluetooth 5.0, Черный"
   },
   {
@@ -262,7 +262,7 @@ export const УМНЫЕ_КОЛОНКИ = [
     "price": 79530,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умная колонка, Яндекс, YNDX-00054EMD, Яндекс Станция Миди, 24Вт, (1х 63, 2х20мм), 4 микрофона, 70–20 000 Гц, Wi-Fi (2,4–5 ГГц), Bluetooth 5.0, Изумруд"
   },
   {
@@ -274,7 +274,7 @@ export const УМНЫЕ_КОЛОНКИ = [
     "price": 79530,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умная колонка, Яндекс, YNDX-00054GRY, Яндекс Станция Миди, 24Вт, (1х 63, 2х20мм), 4 микрофона, 70–20 000 Гц, Wi-Fi (2,4–5 ГГц), Bluetooth 5.0, Серый"
   },
   {
@@ -286,7 +286,7 @@ export const УМНЫЕ_КОЛОНКИ = [
     "price": 79530,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умная колонка, Яндекс, YNDX-00054ORG, Яндекс Станция Миди, 24Вт, (1х 63, 2х20мм), 4 микрофона, 70–20 000 Гц, Wi-Fi (2,4–5 ГГц), Bluetooth 5.0, Оранжевый"
   },
   {
@@ -298,7 +298,7 @@ export const УМНЫЕ_КОЛОНКИ = [
     "price": 79530,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умная колонка, Яндекс, YNDX-00054PNK, Яндекс Станция Миди, 24Вт, (1х 63, 2х20мм), 4 микрофона, 70–20 000 Гц, Wi-Fi (2,4–5 ГГц), Bluetooth 5.0, малиновый"
   },
   {
@@ -310,7 +310,7 @@ export const УМНЫЕ_КОЛОНКИ = [
     "price": 67890,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Портативная умная колонка, Яндекс, YNDX-00030GRN, Яндекс Станция Стрит с Алисой, 30 Вт, 3 микрофона, 80 - 20 000 Гц, Wi-Fi (2,4–5 ГГц), Bluetooth 5.0, Зеленый"
   },
   {
@@ -322,7 +322,7 @@ export const УМНЫЕ_КОЛОНКИ = [
     "price": 67890,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Портативная умная колонка, Яндекс, YNDX-00030BLK, Яндекс Станция Стрит с Алисой, 30 Вт, 3 микрофона, 80 - 20 000 Гц, Wi-Fi (2,4–5 ГГц), Bluetooth 5.0, Черный"
   },
   {
@@ -334,7 +334,7 @@ export const УМНЫЕ_КОЛОНКИ = [
     "price": 67890,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Портативная умная колонка, Яндекс, YNDX-00030GRY, Яндекс Станция Стрит с Алисой, 30 Вт, 3 микрофона, 80 - 20 000 Гц, Wi-Fi (2,4–5 ГГц), Bluetooth 5.0, Серый"
   },
   {
@@ -346,7 +346,7 @@ export const УМНЫЕ_КОЛОНКИ = [
     "price": 67890,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Портативная умная колонка, Яндекс, YNDX-00030VIO, Яндекс Станция Стрит с Алисой, 30 Вт, 3 микрофона, 80 - 20 000 Гц, Wi-Fi (2,4–5 ГГц), Bluetooth 5.0, Фиолетовый"
   },
   {
@@ -358,7 +358,7 @@ export const УМНЫЕ_КОЛОНКИ = [
     "price": 67890,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Портативная умная колонка, Яндекс, YNDX-00030ORG, Яндекс Станция Стрит с Алисой, 30 Вт, 3 микрофона, 80 - 20 000 Гц, Wi-Fi (2,4–5 ГГц), Bluetooth 5.0, Оранжевый"
   },
   {
@@ -370,7 +370,7 @@ export const УМНЫЕ_КОЛОНКИ = [
     "price": 211450,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умная колонка, Яндекс, YNDX-00053K, Яндекс Станция Макс с Zigbee, 65Вт, (2х15Вт 20мм, 2х10Вт 38мм, 1х40Вт 88мм), 7 микрофонов (+1 в пульте), 45–20 000 Гц, Wi-Fi (2,4–5 ГГц), Bluetooth 5.0, AUX OUT, HDMI 2.0, Черный"
   },
   {
@@ -382,7 +382,7 @@ export const УМНЫЕ_КОЛОНКИ = [
     "price": 211450,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умная колонка, Яндекс, YNDX-00053Z, Яндекс Станция Макс с Zigbee, 65Вт, (2х15Вт 20мм, 2х10Вт 38мм, 1х40Вт 88мм), 7 микрофонов (+1 в пульте), 45–20 000 Гц, Wi-Fi (2,4–5 ГГц), Bluetooth 5.0, AUX OUT, HDMI 2.0, Зеленый"
   },
   {
@@ -394,7 +394,7 @@ export const УМНЫЕ_КОЛОНКИ = [
     "price": 211450,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умная колонка, Яндекс, YNDX-00053E, Яндекс Станция Макс с Zigbee, 65Вт, (2х15Вт 20мм, 2х10Вт 38мм, 1х40Вт 88мм), 7 микрофонов (+1 в пульте), 45–20 000 Гц, Wi-Fi (2,4–5 ГГц), Bluetooth 5.0, AUX OUT, HDMI 2.0, Бежевый"
   },
   {
@@ -406,7 +406,7 @@ export const УМНЫЕ_КОЛОНКИ = [
     "price": 211450,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умная колонка, Яндекс, YNDX-00053TRQ, Яндекс Станция Макс с Zigbee, 65Вт, (2х15Вт 20мм, 2х10Вт 38мм, 1х40Вт 88мм), 7 микрофонов (+1 в пульте), 45–20 000 Гц, Wi-Fi (2,4–5 ГГц), Bluetooth 5.0, AUX OUT, HDMI 2.0, Бирюзовый"
   },
   {
@@ -418,7 +418,7 @@ export const УМНЫЕ_КОЛОНКИ = [
     "price": 272560,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умная колонка, Яндекс, YNDX-00055BLK, Яндекс Станция Дуо Макс с Zigbee, 60Вт, (1х 63, 2х20мм), 8 микрофонов, 60–20 000 Гц, Wi-Fi (2,4–5 ГГц), Bluetooth 5.2, 10,5”(1920  1200), LED, Черный"
   },
   {
@@ -430,7 +430,7 @@ export const УМНЫЕ_КОЛОНКИ = [
     "price": 272560,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умная колонка, Яндекс, YNDX-00055GRN, Яндекс Станция Дуо Макс с Zigbee, 60Вт, (1х 63, 2х20мм), 8 микрофонов, 60–20 000 Гц, Wi-Fi (2,4–5 ГГц), Bluetooth 5.2, 10,5”(1920  1200), LED, Зеленый"
   },
   {
@@ -442,7 +442,7 @@ export const УМНЫЕ_КОЛОНКИ = [
     "price": 272560,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умная колонка, Яндекс, YNDX-00055RED, Яндекс Станция Дуо Макс с Zigbee, 60Вт, (1х 63, 2х20мм), 8 микрофонов, 60–20 000 Гц, Wi-Fi (2,4–5 ГГц), Bluetooth 5.2, 10,5”(1920  1200), LED, Красный"
   },
   {
@@ -454,7 +454,8 @@ export const УМНЫЕ_КОЛОНКИ = [
     "price": 272560,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Умная колонка, Яндекс, YNDX-00055BIE, Яндекс Станция Дуо Макс с Zigbee, 60Вт, (1х 63, 2х20мм), 8 микрофонов, 60–20 000 Гц, Wi-Fi (2,4–5 ГГц), Bluetooth 5.2, 10,5”(1920  1200), LED, Бежевый"
   }
 ];
+

@@ -10,7 +10,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 19875,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, V-600-L, Мощность 600ВА/360Вт, Диапазон работы AVR: 165-275В, AVR в режиме Booster: 138-292В, Бат.: 12В/7.5 Ач*1шт., 3 вых.: 2 Shuko CEE7+1 IEC C13 (Bypass), Чёрный"
   },
   {
@@ -22,7 +22,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 21330,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, V-650-L, Мощность 650ВА/390Вт, Диапазон работы AVR: 165-275В, AVR в режиме Booster: 138-292В, Бат.: 12В/7.5 Ач*1шт., 3 вых.: 2 Shuko CEE7+1 IEC C13 (Bypass), Чёрный"
   },
   {
@@ -34,7 +34,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 23270,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, V-800-L, Мощность 800ВА/480Вт, Диапазон работы AVR: 165-275В, AVR в режиме Booster: 138-292В, Бат.: 12В/9 Ач*1шт., 3 вых.: 2 Shuko CEE7+1 IEC C13 (Bypass), Чёрный"
   },
   {
@@ -46,7 +46,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 41671,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, V-1200-L, Мощность 1200ВА/720Вт, Диапазон работы AVR: 165-275В, Бат.: 12В/7 Ач*2шт., 3 вых.: Shuko CEE7, Чёрный"
   },
   {
@@ -58,7 +58,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 51449,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, V-1500-L, Мощность 1500ВА/900Вт, Диапазон работы AVR: 165-275В, Бат.: 12В/9 Ач*2шт., 3 вых.: Shuko CEE7, Чёрный"
   },
   {
@@ -70,7 +70,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 61343,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, V-2000-L, Мощность 2000ВА/1200Вт, Диапазон работы AVR: 175-275В, Бат.: 12В/9Ач*2шт., 2 вых.: Shuko CEE7, Чёрный"
   },
   {
@@ -82,7 +82,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 21790,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, V-500-L-LCD, Мощность 500ВА/300Вт, Диапазон работы AVR: 165-275В, AVR в режиме Booster: 138-292В, Бат.: 12В/4.5 Ач*1шт., 3 вых.: 2 Shuko CEE7+1 IEC C13 (Bypass), Чёрный"
   },
   {
@@ -94,7 +94,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 23270,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, V-600-L-LCD, Мощность 600ВА/360Вт, Диапазон работы AVR: 165-275В, AVR в режиме Booster: 138-292В, Бат.: 12В/7.5 Ач*1шт., 3 вых.: 2 Shuko CEE7+1 IEC C13 (Bypass), Чёрный"
   },
   {
@@ -106,7 +106,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 24304,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, V-650-L-LCD, Мощность 650ВА/390Вт, Диапазон работы AVR: 165-275В, AVR в режиме Booster: 138-292В, Бат.: 12В/7,5 Ач*1шт., 3 вых.: 2 Shuko CEE7+1 IEC C13 (Bypass), Чёрный"
   },
   {
@@ -118,7 +118,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 27150,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, V-800-L-LCD, Мощность 800ВА/480Вт, Диапазон работы AVR: 165-275В, AVR в режиме Booster: 138-292В, Бат.: 12В/9 Ач*1шт., 3 вых.: 2 Shuko CEE7+1 IEC C13 (Bypass), Чёрный"
   },
   {
@@ -130,7 +130,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 42253,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, V-1200-L-LCD, Мощность 1200ВА/720Вт, Диапазон работы AVR: 165-275В, Бат.: 12В/7 Ач*2шт., 3 вых.: Shuko CEE7., Чёрный"
   },
   {
@@ -142,7 +142,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 58190,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, V-1500-L-LCD, Мощность: 1500ВА/900Вт, Диапазон работы AVR: 165-275В, Бат.: 12В/9 Ач*2шт., 3 вых.: Shuko CEE7, Чёрный"
   },
   {
@@ -154,7 +154,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 22153,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, V-500-F, Мощность 500ВА/300Вт, Диапазон работы AVR: 165-275В, Бат.: 12В/4.5 Ач*1шт., 3 вых.: 2 Shuko CEE7+1 IEC C13 (Bypass), Чёрный"
   },
   {
@@ -166,7 +166,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 24328,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, V-600-F, Мощность 600ВА/360Вт, Диапазон работы AVR: 165-275В, Бат.: 12В/7.5 Ач*1шт., 3 вых.: 2 Shuko CEE7+1 IEC C13 (Bypass), Чёрный"
   },
   {
@@ -178,7 +178,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 26180,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, V-650-F, Мощность 650ВА/390Вт, Диапазон работы AVR: 165-275В, Бат.: 12В/9 Ач*1шт., 3 вых.: 2 Shuko CEE7+1 IEC C13 (Bypass), Чёрный"
   },
   {
@@ -190,7 +190,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 33455,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, V-800-F, Мощность 800ВА/480Вт, Диапазон работы AVR: 165-275В, Бат.: 12В/9 Ач*1шт., 3 вых.: 2 Shuko CEE7+1 IEC C13 (Bypass), Защита тел. линии, Чёрный"
   },
   {
@@ -202,7 +202,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 45580,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, V-1000-F, Smart, USB, Мощность 1000ВА/600Вт, Диапазон работы AVR: 165-275В, Бат.: 12В/7 Ач*2шт., 3 вых.: Shuko CEE7, Защита тел. линии, Чёрный"
   },
   {
@@ -214,7 +214,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 47520,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, V-1200-F, Smart, USB, Мощность 1200ВА/720Вт, Диапазон работы AVR: 165-275В, Бат.: 12В/7.5 Ач*2шт., 3 вых.: Shuko CEE7, Защита тел. линии, Чёрный"
   },
   {
@@ -226,7 +226,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 60130,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, V-1500-F, Smart, USB, Мощность 1500ВА/900Вт, Диапазон работы AVR: 165-275В, Бат.: 12В/9 Ач*2шт., 3 вых: Shuko CEE7, Защита тел. линии, Чёрный"
   },
   {
@@ -238,7 +238,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 29652,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, V-650-F-LCD, Smart, USB, Мощность 650ВА/400Вт, Диапазон работы AVR: 165-275В, Бат.: 12В/9 Ач*1шт., 3 вых.: 2 Shuko CEE7+1 IEC C13 (Bypass), Защита тел. линии, Чёрный"
   },
   {
@@ -250,7 +250,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 36850,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, V-800-F-LCD, Smart, USB, Мощность 800ВА/480Вт, Диапазон работы AVR: 165-275В, Бат.: 12В/9 Ач*1шт., 3 вых.: 2 Shuko CEE7+1 IEC C13 (Bypass), Защита тел. линии, Чёрный"
   },
   {
@@ -262,7 +262,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 60326,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, V-1200-F-LCD, Smart, USB, Мощность 1200ВА/720Вт, Диапазон работы AVR: 165-275В, Бат.: 12В/7.5 Ач*2шт., 3 вых.: Shuko CEE7., Защита тел. линии, Чёрный"
   },
   {
@@ -274,7 +274,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 61100,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, V-1500-F-LCD, Smart, USB, Мощность 1500ВА/900Вт, Диапазон работы AVR: 165-275В, Бат.: 12В/9 Ач*2шт., 3 вых.: Shuko CEE7, Защита тел. линии, Чёрный"
   },
   {
@@ -286,7 +286,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 83226,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, V-2000-F-LCD, Smart, USB, Мощность 2000ВА/1200Вт, Диапазон работы AVR: 175-275В, Бат.: 12В/9 Ач*2шт., 4 вых.: Shuko CEE7 , Чёрный"
   },
   {
@@ -298,7 +298,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 103130,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, V-3000-F-LCD, Smart, USB, Мощность 3000ВА/1800Вт, Диапазон работы AVR: 175-275В, Бат.: 12В/7,5 Ач*4шт., 4 вых: Shuko CEE7, Чёрный"
   },
   {
@@ -310,7 +310,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 31030,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, U-650-L, USB, Мощность 650ВА/390Вт, Диапазон работы AVR: 145-290В, Бат.: 12В/7 Ач х 1 шт.., 6 вых.: Shuko CEE7(3 с работой от батареи, 3 сетевой фильтр), USB 5В/2А*2 шт., Чёрный"
   },
   {
@@ -322,7 +322,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 36850,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, U-850-L, USB, Мощность 850ВА/510Вт, Диапазон работы AVR: 145-290В, Бат.: 12В/8Ач., 6 вых.: Shuko CEE7(3 с работой от батареи, 3 сетевой фильтр), USB 5В/2А*2 шт., Чёрный"
   },
   {
@@ -334,7 +334,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 37820,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, U-600, USB, Мощность 600ВА/360Вт, Диапазон работы AVR: 165-275В, AVR в режиме Booster: 138-292В, Бат.: 12В/7,5 Ач., 8 вых.: Shuko CEE7(4 с работой от батареи,4 сетевой фильтр), 2 вых.: IEC C13, Защита тел. линии, USB 5В/2А*2 шт., Чёрно-синий"
   },
   {
@@ -346,7 +346,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 48175,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, U-1000, Smart, USB, Мощность 1000ВА/600Вт, Диапазон работы AVR: 165-275В, Бат.: 12В/9 Ач., 8 вых.: Shuko CEE7(4 с работой от батареи,4 сетевой фильтр), 2 вых.: IEC C13, Защита тел. линии, USB 5В/2А*2 шт., Чёрно-синий"
   },
   {
@@ -358,7 +358,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 20360,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, CyberPower, UTC650E, Мощность 650ВА/360Вт, UTC-серия, Линейно-интерактивный, Напольный, LED, AVR: 165-290В, АКБ 12В/5Ач*1 шт., Вых: 2xSchuko, Чёрный"
   },
   {
@@ -370,7 +370,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 20360,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, CyberPower, UTC650EI, Мощность 650ВА/360Вт, UTC-серия, Линейно-интерактивный, Напольный, LED, AVR: 165-290В, АКБ 12В/5Ач*1 шт., Вых: 4xIEC C13, Чёрный"
   },
   {
@@ -382,7 +382,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 26665,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, CyberPower, UT650EG, Мощность 650ВА/390Вт, UTG-серия, Линейно-интерактивный, Напольный, LED/RJ11/RJ45e/USB, AVR: 165-290В, АКБ 12В/7Ач*1шт., Вых: 3xSchuko, Чёрный"
   },
   {
@@ -394,7 +394,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 21136,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, CyberPower, UTI675E, Мощность 675ВА/360Вт, UTI-серия, Линейно-интерактивный, Напольный, LED, AVR: 165-290В, АКБ 12В/5Ач*1 шт., Вых: 2xSchuko, Чёрный"
   },
   {
@@ -406,7 +406,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 25210,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, CyberPower, UTI875E, Мощность 875ВА/425Вт, UTI-серия, Линейно-интерактивный, Напольный, LED, AVR: 165-290В, АКБ 12В/5,5Ач*1 шт., Вых: 2xSchuko, Чёрный"
   },
   {
@@ -418,7 +418,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 27063,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, CyberPower, UTC850E, Мощность 850ВА/425Вт, UTC-серия, Линейно-интерактивный, Напольный, LED, AVR: 165-290В, АКБ 12В/5,5Ач*1 шт., Вых: 2xSchuko, Чёрный"
   },
   {
@@ -430,7 +430,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 65950,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, CyberPower, UT1100EG, Мощность 1100ВА/660Вт, UTG-серия, Линейно-интерактивный, Напольный, LED/RJ11/RJ45/USB, AVR: 165-290В, АКБ 12В/5Ач*2 шт., Вых: 4xSchuko, Чёрный"
   },
   {
@@ -442,7 +442,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 70800,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, CyberPower, UT1200EG, Мощность 1200ВА/700Вт, UTG-серия, Линейно-интерактивный, Напольный, LED/Rj11/RJ45 1Gb/USB/сухие контакты, AVR: 165-290В, АКБ 12В/5Ач*2 шт., Вых: 4xSchuko, Чёрный"
   },
   {
@@ -454,7 +454,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 28993,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, CyberPower, BU725E, Мощность 725ВА/390Вт, BU-серия, Линейно-интерактивный, Напольный, LED, AVR: 165-280В, АКБ 12В/5Ач*1 шт., Вых: 3xSchuko, Чёрный"
   },
   {
@@ -466,7 +466,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 68472,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, CyberPower BS850E, Мощность 850ВА/480Вт, BS-серия, Линейно-интерактивный, Напольный, LED/USB, AVR: 165-290В, АКБ: 12В/5,5Ач*1 шт., Вых: 8xSchuko, Чёрный"
   },
   {
@@ -478,7 +478,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 25598,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, CyberPower, BU600E, Мощность 600ВА/360Вт, BU-серия, Линейно-интерактивный, Напольный, LED, AVR: 165-280В, АКБ 12В/5Ач*1 шт., Вых: 3xSchuko, Чёрный"
   },
   {
@@ -490,7 +490,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 34231,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, CyberPower, UT850EG, Мощность 850ВА/480Вт, UTG-серия, Линейно-интерактивный, Напольный, LED/RJ11/RJ45e/USB, AVR: 165-290В, АКБ 12В/7Ач*1шт., Вых: 3xSchuko, Чёрный"
   },
   {
@@ -502,7 +502,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 38790,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, CyberPower, BU850E, Мощность 850ВА/425Вт, BU-серия, Линейно-интерактивный, Напольный, LED, AVR: 165-275В, АКБ 12В/7,2Ач*1 шт., Вых: 4xSchuko, Чёрный"
   },
   {
@@ -514,7 +514,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 48781,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, CyberPower, BU1000E, Мощность 1000ВА/600Вт, BU-серия, Линейно-интерактивный, Напольный, LED, AVR: 165-280В, АКБ 12В/5Ач*2 шт., Вых: 4xSchuko, Чёрный"
   },
   {
@@ -526,7 +526,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 97000,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, CyberPower, BR700ELCD, Мощность 700ВА/420Вт, BR-серия, Линейно-интерактивный, Напольный, LCD/USB-A,B,С/RJ11/RJ45, AVR: 165-290В, АКБ 12В/7,2Ач*1 шт., Вых: 8xSchuko, Чёрный"
   },
   {
@@ -538,7 +538,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 88260,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, CyberPower BR1000ELCD, Мощность 1000ВА/600Вт, BR-серия, Линейно-интерактивный, Напольный, LCD/USB-A,B,С/RJ11/RJ45, AVR: 165-290В, АКБ 12В/9Ач*1 шт., Вых: 8*Schuko, Чёрный"
   },
   {
@@ -550,7 +550,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 50430,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, CyberPower, BS650E, Мощность 650ВА/390Вт, BS-серия, Линейно-интерактивный, Напольный, LED/USB, AVR: 165-290В, АКБ: 12В/5Ач*1 шт., Вых: 8xSchuko, Чёрный"
   },
   {
@@ -562,7 +562,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 111540,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, CyberPower, BR1200ELCD, Мощность 1200ВА/720Вт, BR-серия, Линейно-интерактивный, Напольный, LCD/USB-A,B,С/RJ11/RJ45, AVR: 165-290В, АКБ 12В/5,5Ач*2 шт., Вых: 8xSchuko, Чёрный"
   },
   {
@@ -574,7 +574,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 85738,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, CyberPower, UT2200EG, Мощность 2200ВА/1320Вт, UTG-серия, Линейно-интерактивный, Напольный, LED/RJ11/RJ45e/USB, AVR: 165-290В, АКБ 12В/9Ач*2шт., Вых: 4xSchuko, Чёрный"
   },
   {
@@ -586,7 +586,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 112122,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, CyberPower, VP1200ELCD, Мощность 1200ВА/720Вт, VP-серия, Линейно-интерактивный, Напольный, LCD/USB/RJ11/RJ45/RS-232, AVR: 167-295В, АКБ 12В/7Ач*2 шт., Вых: 5xSchuko, Чёрный"
   },
   {
@@ -598,7 +598,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 72934,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, CyberPower, UT1500EG, Мощность 1500ВА/900Вт, UTG-серия, Линейно-интерактивный, Напольный, LED/RJ11/RJ45e/USB, AVR: 165-290В, АКБ 12В/7,5 Ач*2шт., Вых: 4xSchuko, Чёрный"
   },
   {
@@ -610,7 +610,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 20360,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, Dahua, DH-PFM3350-600, Мощность 600ВА/360Вт, Диапазон работы AVR: 170-280В, Бат.: 12В/7 Ач*1шт., 2 вых.: 2 Shuko CEE7, Чёрный"
   },
   {
@@ -622,7 +622,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 38790,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, Dahua, DH-PFM3350-1000, Мощность 1000ВА/600Вт, Диапазон работы AVR: 170-280В, Бат.: 12В/9 Ач*1шт., 2 вых.: 2 Shuko CEE7, Чёрный"
   },
   {
@@ -634,7 +634,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 74195,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, Dahua, DH-PFM3350-2000L, Мощность 2000ВА/1200Вт, Диапазон работы AVR: 170-280В, Бат.: 12В/9 Ач*2шт., 4 вых.: 4 Shuko CEE7, Чёрный"
   },
   {
@@ -646,7 +646,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 126177,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, APC, Back-UPS BK500EI, Линейно-интерактивный, Мощность 500ВА/300Вт, Напольный, 230В, Вых: 3 x IEC 13, RBC2, Чёрный"
   },
   {
@@ -658,7 +658,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 33688,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, APC, Easy UPS BV650I-GR, Линейно-интерактивный, Мощность 650ВА/375Вт, Напольный, 230В, Вых: 4x Schuko, APCRBCV210, Чёрный"
   },
   {
@@ -670,7 +670,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 45135,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, APC, Easy UPS BV800I-GR, Линейно-интерактивный, Мощность 800ВА/450Вт, Напольный, 230В, Вых: 4x Schuko, APCRBC110, Чёрный"
   },
   {
@@ -682,7 +682,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 53216,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, APC, Easy UPS BV1000I-GR, Линейно-интерактивный, Мощность 1000ВА/600Вт, Напольный, 230В, Вых: 4x Schuko, 12В/9Ач, Чёрный"
   },
   {
@@ -694,7 +694,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 60188,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, APC, Easy UPS BVX700LI-GR, Линейно-интерактивный, Мощность 700ВА/360Вт, Напольный, 230В, Вых: 2x Schuko, APCRBC110, Чёрный"
   },
   {
@@ -706,7 +706,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 63708,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, APC, Easy UPS BVX900LI-GR, Линейно-интерактивный, Мощность 900ВА/480Вт, Напольный, 230В, Вых: 2x Schuko, АКБ: 12В х 9Ач, Чёрный"
   },
   {
@@ -718,7 +718,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 123820,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, APC, Easy UPS BVX1600LI-GR, Линейно-интерактивный, Мощность 1600ВА/900Вт, Напольный, 230В, Вых: 4x Schuko, APCRBC176, Чёрный"
   },
   {
@@ -730,7 +730,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 44137,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, APC, Easy UPS BVG700I-GR, Линейно-интерактивный, Мощность 700ВА/360Вт, Напольный, 230В, Вых: 2x Schuko, APCRBC210, Чёрный"
   },
   {
@@ -742,7 +742,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 71344,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, APC, Easy UPS BVG1200I-GR, Линейно-интерактивный, Мощность 1200ВА/650Вт, Напольный, 230В, Вых: 4x Schuko, Чёрный"
   },
   {
@@ -754,7 +754,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 118947,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, APC, Easy UPS BVG2200I-GR, Линейно-интерактивный, Мощность 2200ВА/1200Вт, Напольный, 230В, Вых: 4x Schuko, APCRBC177, Чёрный"
   },
   {
@@ -766,7 +766,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 80673,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, APC, Back-UPS BX750MI-GR, Линейно-интерактивный, Мощность 750ВА/410Вт, Напольный, 230В, Вых: 4x Schuko, 12В/9Ач, Чёрный"
   },
   {
@@ -778,7 +778,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 104510,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, APC, Back-UPS BX950MI-GR, Линейно-интерактивный, Мощность 950ВА/520Вт, Напольный, 230В, 12В/9Ач, Вых: 4x Schuko, Чёрный"
   },
   {
@@ -790,7 +790,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 120406,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, APC, Back-UPS BX1200MI-GR, Линейно-интерактивный, Мощность 1200ВА/650Вт, Напольный, 230В, APCRBC175, Вых: 4x Schuko, Чёрный"
   },
   {
@@ -802,7 +802,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 152746,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, APC, Back-UPS BX1600MI-GR, Линейно-интерактивный, Мощность 1600ВА/900Вт, Напольный, 230В, Вых: 4x Schuko, APCRBC176, Чёрный"
   },
   {
@@ -814,7 +814,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 181501,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, APC, Back-UPS BX2200MI-GR, Линейно-интерактивный, Мощность 2200ВА/1200Вт, Напольный, 230В, Вых: 4x Schuko, APCRBC177, Чёрный"
   },
   {
@@ -826,7 +826,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 117640,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, APC, Back-UPS BE650G2-GR, Линейно-интерактивный, Мощность 650ВА/400Вт, Напольный, 230В, Вых: 8x Schuko, APCRBC110, Чёрный"
   },
   {
@@ -838,7 +838,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 111550,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, APC, Back-UPS BE850G2-GR, Линейно-интерактивный, Мощность 850ВА/520Вт, Напольный, 230В, Вых: 8x Schuko, USB Type A+C, RBC17, Чёрный"
   },
   {
@@ -850,7 +850,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 230253,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, APC, Back-UPS Pro BR1500G-GR, Линейно-интерактивный, Мощность 1500ВА/865Вт, Напольный, 230В, Вых: 6x Schuko, AVR, LCD, User Replaceable Battery, APCRBC124, Чёрный"
   },
   {
@@ -862,7 +862,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 237805,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, APC, Back-UPS BGM2200-GR, Линейно-интерактивный, Мощность 2200ВА/1320Вт, Напольный, 230В, Вых: 4x Schuko+2x IEC C13, APCRBC216, Белый"
   },
   {
@@ -874,7 +874,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 237805,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, APC, Back-UPS BGM2200B-GR, Линейно-интерактивный, Мощность 2200ВА/1320Вт, Напольный, 230В, Вых: 4x Schuko+2x IEC C13, APCRBC216, Чёрный"
   },
   {
@@ -886,7 +886,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 319845,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания на DIN-рейку, APC, SUA500PDRI, Линейно-интерактивный, Мощность 500ВА/325Вт, 230В, Вых: Неразъемное трехпроводное (H N + E) 1, Без встреоенных АКБ, Чёрный"
   },
   {
@@ -898,7 +898,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 86859,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания на DIN-рейку, Schneider Electric, BVS240XDPDR, Мощность 240Вт, 24В постоянный ток, Максимальный входной ток: 10А, Серый металлический"
   },
   {
@@ -910,7 +910,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 92810,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания на DIN-рейку, Schneider Electric, BVS480XDPDR, Мощность 480Вт, 24В постоянный ток, Максимальный входной ток: 20А, Серый металлический"
   },
   {
@@ -922,7 +922,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 51544,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, Legrand, Keor SPX 600 ВА 310300, Мощность 600ВА/360Вт, Линейно-интерактивный, Напольный, LED индикаторы, Диапазон работы AVR:160-290В, Бат.: 12В/7Ач., Вых: 2 x Мультистандартные , Чёрный"
   },
   {
@@ -934,7 +934,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 74522,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, Legrand, Keor SPX 800 ВА 310301, Мощность 800ВА/480Вт, Линейно-интерактивный, Напольный, LED индикаторы, Диапазон работы AVR:160-290В, Бат.: 12В/9Ач., Вых: 2 x Мультистандартные , Чёрный"
   },
   {
@@ -946,7 +946,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 92635,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, Legrand, Keor SPX 1000 ВА 310302, Мощность 1000ВА/600Вт, Линейно-интерактивный, Напольный, LED индикаторы/USB, Диапазон работы AVR:160-290В, Бат.: 12В/7Ач.*2 шт., Вых: 4 x Мультистандартные, Чёрный"
   },
   {
@@ -958,7 +958,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 134117,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, Legrand, Keor SPX 1500 ВА 310303, Мощность 1500ВА/900Вт, Линейно-интерактивный, Напольный, LED индикаторы/USB, Диапазон работы AVR:160-290В, Бат.: 12В/9Ач.*2 шт., Вых: 4xМультистандартные, Чёрный"
   },
   {
@@ -970,7 +970,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 189643,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, Legrand, Keor SPX 2000 ВА 310304, Мощность 2000ВА/1200Вт, Линейно-интерактивный, Напольный, LED индикаторы/USB, Диапазон работы AVR:160-290В, Бат.: 12В/9Ач.*2 шт., Вых: 4xМультистандартные, Чёрный"
   },
   {
@@ -982,7 +982,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 74732,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, Legrand, Keor Multiplug 600 ВА 310081, Мощность 600ВА/360Вт, Линейно-интерактивный, Напольный, LED индикаторы/USB, Диапазон работы AVR:170-290В, Бат.: 12В/7Ач., Вых: 6xSchuko, Чёрно-белый"
   },
   {
@@ -994,7 +994,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 80845,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, Legrand, Keor Multiplug 800 ВА 310082, Мощность 800ВА/480Вт, Линейно-интерактивный, Напольный, LED индикаторы/USB, Диапазон работы AVR:170-290В, Бат.: 12В/7Ач., Вых: 6xSchuko, Чёрно-белый"
   },
   {
@@ -1006,7 +1006,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 69732,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, Legrand, Keor SP 600 ВА 310181, Мощность 600ВА/360Вт, Линейно-интерактивный, Напольный, LED индикаторы, Диапазон работы AVR:170-290В, Бат.: 12В/7Ач., Вых: 1 x Schuko, 1 х IEC C13, Чёрно-белый"
   },
   {
@@ -1018,7 +1018,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 84132,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, Legrand, Keor SP 800 ВА 310184, Мощность 800ВА/480Вт, Линейно-интерактивный, Напольный, LED индикаторы/USB, Диапазон работы AVR:170-290В, Бат.:12В/9Ач., Вых: 1 x Schuko, 1 х IEC C13, Чёрно-белый"
   },
   {
@@ -1030,7 +1030,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 118366,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, Legrand, Keor SP 1000 ВА 310187, Мощность 1000ВА/600Вт, Линейно-интерактивный, Напольный, LED индикаторы/USB/RS-232, Диапазон работы AVR:170-290В, Бат.: 12В/7Ач.*2 шт., Вых: 2 x Schuko, 2 х IEC C13, Чёрно-белый"
   },
   {
@@ -1042,7 +1042,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 152462,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, Legrand, Keor SP 1500 ВА 310190, Мощность 1500ВА/900Вт, Линейно-интерактивный, Напольный, LED индикаторы/USB/RS-232, Диапазон работы AVR:170-290В, Бат.: 12В/9Ач.*2 шт., Вых: 2 x Schuko, 2 х IEC C13, Чёрно-белый"
   },
   {
@@ -1054,7 +1054,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 175011,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, Legrand, Keor SP 2000 ВА 310193, Мощность 2000ВА/1200Вт, Линейно-интерактивный, Напольный, LED индикаторы/USB/RS-232, Диапазон работы AVR:170-290В, Бат.: 12В/9Ач.*2 шт., Вых: 2 x Schuko, 2 х IEC C13, Чёрно-белый"
   },
   {
@@ -1066,7 +1066,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 90718,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, Eaton, 3S850D, Мощность 850ВА/510Вт, Диапазон работы AVR: 184-264В (с возможностью регулировки до 161-284В), Бат.: 12В/9 Ач*1шт., 8 вых.: 8 розеток Schuko (из них с питанием от батареи - 4), 2 USB порта с током до 2A, RJ-11/RJ-45, Smart, USB-B, LED, Цвет Чёрно-Белый"
   },
   {
@@ -1078,7 +1078,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 38762,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, Eaton, 3SM36, Мощность 36Вт, Диапазон работы AVR: 100-240В, Бат.: Li-Ion 3,7 V/2200 mAhx2, 1 вых.: один кабель с 4 переходниками в комплекте: 9V(3A), 12V(3A), 15V(2.4A), 19V(1.89A), Цвет Чёрно-Белый"
   },
   {
@@ -1090,7 +1090,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 42334,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, Eaton, 5E700UD, Мощность 700ВА/360Вт, Диапазон работы AVR: 140-300В, Бат.: 12В/7 Ач*1шт., Аппроксимированная синусоида, 2 вых.: 2 розетки Schuko, 1 USB порт, Цвет Чёрный"
   },
   {
@@ -1102,7 +1102,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 67733,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, Eaton, 5E900UD, Мощность 900ВА/480Вт, Диапазон работы AVR: 140-300В, Бат.: 12В/9 Ач*1шт., Аппроксимированная синусоида, 2 вых.: 2 розетки Schuko, 1 USB порт, Цвет Чёрный"
   },
   {
@@ -1114,7 +1114,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 59295,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, Eaton, 3S700D, Мощность 700ВА/420Вт, Диапазон работы AVR: 184-264В (с возможностью регулировки до 161-284В), Бат.: 12В/7 Ач*1шт., 8 вых.: 8 розеток Schuko (из них с питанием от батареи - 4), 2 USB порта с током до 2A, RJ-11/RJ-45, Smart, USB-B, LED, Цвет Чёрно-Белый"
   },
   {
@@ -1126,7 +1126,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 108966,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, Eaton, 5E1200UD, Мощность 1200ВА/660Вт, Диапазон работы AVR: 140-300В, Бат.: 12В/7 Ач*2шт., Аппроксимированная синусоида, 4 вых.: 4 розетки Schuko, 1 USB порт, Цвет Чёрный"
   },
   {
@@ -1138,7 +1138,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 132752,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, Eaton, 5E1600UD, Мощность 1600ВА/900Вт, Диапазон работы AVR: 140-300В, Бат.: 12В/7 Ач*2шт., Аппроксимированная синусоида, 4 вых.: 4 розетки Schuko, 1 USB порт, Цвет Чёрный"
   },
   {
@@ -1150,7 +1150,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 50440,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, GS-1100, Мощность 1100ВА/600Вт, Диапазон работы AVR: 145-275В, Аккумулятором емкостью 276 Втч LiFePO4, Интерфейс USB, совместим с системой NAS"
   },
   {
@@ -1162,7 +1162,7 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 18420,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, SVC, V-500-L, Мощность 500ВА/300Вт, Диапазон работы AVR: 165-275В, AVR в режиме Booster: 138-292В, Бат.: 12В/4.5 Ач*1шт., 3 вых.: 2 Shuko CEE7+1 IEC C13 (Bypass), Чёрный"
   },
   {
@@ -1174,7 +1174,8 @@ export const ЛИНЕЙНО_ИНТЕРАКТИВНЫЕ = [
     "price": 124150,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Источник бесперебойного питания, CyberPower, VP1600ELCD, Мощность 1600ВА/960Вт, VP-серия, Линейно-интерактивный, Напольный, LCD/USB/RJ11/RJ45/RS-232, AVR: 167-295В, АКБ 12В/9Ач*2 шт., Вых: 5xSchuko, Чёрный"
   }
 ];
+

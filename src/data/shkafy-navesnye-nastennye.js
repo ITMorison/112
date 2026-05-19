@@ -464,3 +464,4 @@ export const WALL_CABINETS = [
     "image": "https://market-telecom.kz/files/products/60895_2.170x220.jpg"
   }
 ];
+

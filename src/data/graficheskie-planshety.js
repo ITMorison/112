@@ -10,7 +10,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 17875,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Huion, H420X, Цифровая ручка:PW100, Технология пера:Пассивный электромагнитный резонанс (перо без батареи), Разрешение пера:5080 LPI, Чувствительность к давлению:8192уровня, Поддержка наклона:-, Чувствительная высота:10mm, Report Rate:300PPS, Точность:±0.3mm, черный"
   },
   {
@@ -22,7 +22,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 47002,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, XP-Pen, Deco Mini 7W, Разрешение 5080 lpi, Чувствительность к нажатию 8192, Беспроводной интерфейс, Рабочая область 177.8 x 111.1 мм, Чёрный"
   },
   {
@@ -34,7 +34,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 121296,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, XP-Pen, Deco Pro LW (Gen 2) MT1172B_ACK05, Разрешение 5080 lpi, Чувствительность к нажатию 8192, Интерфейс Bluetooth, Рабочая область 10\"х6\", Чёрный"
   },
   {
@@ -46,7 +46,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 112578,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, XP-Pen, Deco Pro MW (Gen 2) MT0962B_ACK05, Разрешение 5080 lpi, Чувствительность к нажатию 16384, Интерфейс USB-C, Рабочая область 9 x 6 мм.,Черный+серый"
   },
   {
@@ -58,7 +58,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 19871,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Huion, RTE-100, Цифровая ручка:PW400, Технология пера:Пассивный электромагнитный резонанс (перо без батареи), Разрешение пера:5080 LPI, Чувствительность к давлению:8192уровня, Поддержка наклона:-, Чувствительная высота:10mm, Report Rate:300PPS, Точность:±0.3mm, Клавиш:4, Черный"
   },
   {
@@ -70,7 +70,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 234089,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, XP-Pen, Artist 13.3 Pro V2 MD130FH-AD41, DPI 1920x1080, Чувствительность к нажатию 16384, Рабочая область 293,76х165,24 мм., Чёрный"
   },
   {
@@ -82,7 +82,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 266184,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, XP-Pen, Artist 15.6 Pro V2 MD160FH-AD41, DPI 1920x1080, Чувствительность к нажатию 16384, Рабочая область 344.16*193.59 мм., Чёрный"
   },
   {
@@ -94,7 +94,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 229041,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, XP-Pen, Magic Note Pad CDM1101U-BEU, Разрешение 5080 lpi, Чувствительность к нажатию 16384, Рабочая область 148x236 мм, серебристо-белый"
   },
   {
@@ -106,7 +106,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 26004,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Huion, H640P, Разрешение 5080 lpi, Чувствительность к нажатию 8192, Интерфейс USB, Рабочая область 160*100 мм. (6,3\"х 3,9\"), Чёрный"
   },
   {
@@ -118,7 +118,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 620776,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, XP-Pen, Artist Pro 24 (Gen 2) 4K MD240UH-EU, DPI 3840x2160, Чувствительность к нажатию 5080, Рабочая область 526 x 296 мм., Чёрный"
   },
   {
@@ -130,7 +130,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 347145,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, XP-Pen, Artist 22 plus MD220FH_EU, DPI 1920x1080, Чувствительность к нажатию 16384, Рабочая область 476*268 мм., Чёрный"
   },
   {
@@ -142,7 +142,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 32875,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Huion, H641P-P, Перо: PW110, Технология: Электромагнитный резонанс, Разрешение: 5080 LPI, Нажим: 8192 уровня, Наклон пера: -, Максимальная высота работы пера: 10 мм, Скорость отклика:260PPS, Точность: ±0.3mm, Экспресс клавиши: 6, розовый"
   },
   {
@@ -154,7 +154,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 373402,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, XP-Pen, Magic Drawing Pad MDP1221-EU , Разрешение 2540 lpi, Чувствительность к нажатию 16384, Интерфейс USB Type-C, Рабочая область 148x210 мм, Cерый"
   },
   {
@@ -166,7 +166,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 316442,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, XP-Pen, Artist Pro 16 gen 2 MD160QH_AD41 , Разрешение 5080 lpi, Чувствительность к нажатию 16384, Интерфейс USB Type-C , Рабочая область 15.4\" 2560 x 1600, Чёрный"
   },
   {
@@ -178,7 +178,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 33016,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет Huion Inspiroy 2 S BLACK (H641P-K), Перо: PW110, Технология: Электромагнитный резонанс, Разрешение: 5080 LPI, Нажим: 8192 уровня, Наклон пера: -, Максимальная высота работы пера: 10 мм, Скорость отклика:260PPS, Точность: ±0.3mm, Экспресс клавиши: 6, черный"
   },
   {
@@ -190,7 +190,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 27084,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Huion, HS64, Разрешение 5080 lpi, Чувствительность к нажатию 8192, Интерфейс USB, Рабочая область 160 x 102 мм. (6.3\"х 4\"), Чёрный"
   },
   {
@@ -202,7 +202,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 51715,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Huion, H1060P, Разрешение 5080 lpi, Чувствительность к нажатию 8192, Интерфейс USB, Рабочая область 254x158.8 мм. (11\"х 6.875\"), Чёрный"
   },
   {
@@ -214,7 +214,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 30570,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Huion, RTS-300, Цифровая ручка:PW400, Технология пера:Пассивный электромагнитный резонанс (перо без батареи), Разрешение пера:5080 LPI, Чувствительность к давлению:8192уровня, Поддержка наклона:±60°, Чувствительная высота:10mm, Report Rate:300PPS, Точность:±0.3mm, Клавиш:6, Черный"
   },
   {
@@ -226,7 +226,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 34278,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Huion, H580X, Цифровая ручка:PW100, Технология пера:Пассивный электромагнитный резонанс (перо без батареи), Разрешение пера:5080 LPI, Чувствительность к давлению:8192уровня, Поддержка наклона:±60°, Чувствительная высота:10mm, Report Rate:220PPS, Точность:±0.3mm, Клавиш:8, Черный"
   },
   {
@@ -238,7 +238,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 42600,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Huion, H951P, Цифровая ручка:PW110, Технология пера:EMR без батареек, Разрешение пера:5080 LPI, Чувствительность к давлению:8192 уровней, Поддержка наклона:±60°, Чувствительная высота:10 мм, Report Rate:>260PPS, Точность:±0,3 мм, Клавиш:8, чёрный"
   },
   {
@@ -250,7 +250,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 39028,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Huion, H950P, Разрешение 5080 lpi, Чувствительность к нажатию 8192, Интерфейс USB, Рабочая область 221*138 мм. (8,7\"х5,4\"), Чёрный"
   },
   {
@@ -262,7 +262,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 43380,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Huion, RTM-500, Цифровая ручка:PW400, Технология пера:Пассивный электромагнитный резонанс (перо без батареи), Разрешение пера:5080 LPI, Чувствительность к давлению:8192уровня, Поддержка наклона:±60°, Чувствительная высота:10mm, Report Rate:300PPS, Точность:±0.3mm, Клавиш:4, Черный"
   },
   {
@@ -274,7 +274,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 45146,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Huion, H610X, Цифровая ручка:PW100, Технология пера:Пассивный электромагнитный резонанс (перо без батареи), Разрешение пера:5080 LPI, Чувствительность к давлению:8192уровня, Поддержка наклона:±60°, Чувствительная высота:10mm, Report Rate:220PPS, Точность:±0.3mm, Клавиш:8, Черный"
   },
   {
@@ -286,7 +286,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 45190,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Huion, HS611, Разрешение 5080 lpi, Чувствительность к нажатию 8192, Интерфейс USB-С, Рабочая область 258,4*161,5 мм. (10,1\"x6,35\"), Серый"
   },
   {
@@ -298,7 +298,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 47669,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Huion, H1161, Разрешение 5080 lpi, Чувствительность к нажатию 8192, Интерфейс USB и USB-C, Рабочая область 279.4*174.6 мм. (11\"х 6.875\"), Чёрный"
   },
   {
@@ -310,7 +310,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 54244,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Huion, RTP-700, Цифровая ручка:PW400, Технология пера:Пассивный электромагнитный резонанс (перо без батареи), Разрешение пера:5080 LPI, Чувствительность к давлению:8192уровня, Поддержка наклона:±60°, Чувствительная высота:10mm, Report Rate:300PPS, Точность:±0.3mm, Клавиш:6, Черный"
   },
   {
@@ -322,7 +322,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 50222,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Huion, HS610, Разрешение 5080 lpi, Чувствительность к нажатию 8192, Интерфейс USB, Рабочая область 254*158,8 мм. (10\"x6,25\"), Чёрный"
   },
   {
@@ -334,7 +334,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 59677,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Huion, Q620M, Разрешение 5080 lpi, Чувствительность к нажатию 8192, Интерфейс беспроводной, Рабочая область 266,7*166,7 мм. (10,5\"х6,56\"), Чёрный"
   },
   {
@@ -346,7 +346,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 97715,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Huion, Q630M"
   },
   {
@@ -358,7 +358,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 98391,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Huion, KD200, Перо: PW517, Технология: Электромагнитный резонанс, Нажим: 8192 уровня, Разрешение: 5080 LPI, Наклон пера: ±60°, Максимальная высота работы пера: 10 мм, Скорость отклика: 220PPS, Точность: ±0,3 м, Клавиш: 28, Серый металлик"
   },
   {
@@ -370,7 +370,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 83323,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Huion, WH1409 V2, Разрешение 5080 lpi, Чувствительность к нажатию 8192, Интерфейс беспроводной, Рабочая область 350*238 мм. (13.8\"х8.6\"), Чёрный"
   },
   {
@@ -382,7 +382,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 120670,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Huion, G930L, Цифровая ручка:PW517, Технология пера:Пассивный электромагнитный резонанс, Разрешение пера:5080 LPI, Чувствительность к давлению:8192уровня, Поддержка наклона:±60°, Чувствительная высота:10mm, Report Rate:>300PPS,Точность:±0.3mm, Клавиш:6, Емкость батареи:2500mAh, Черный"
   },
   {
@@ -394,7 +394,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 148386,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Huion, Kamvas 13 Gen 3 (GS1333), Цифровая ручка:PW517, Технология пера:Пассивный электромагнитный резонанс (перо без батареи), Разрешение пера:5080 LPI, Чувствительность к давлению:8192уровня, Поддержка наклона:±60°, Чувствительная высота:10mm, Report Rate:266PPS, Точность:±0.5mmCenter ±3mmCorner, Клавиши:8 , черный"
   },
   {
@@ -406,7 +406,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 158095,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет/монитор, Huion, Kamvas 12 GS116, 11.6\", Разрешение 1920х1080, Яркость 200cd/m2, Матрица IPS, 5080 lpi, Чувствительность к нажатию 8192, Интерфейс USB-C, Рабочая область 256,32*144,18 мм., Чёрный"
   },
   {
@@ -418,7 +418,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 161895,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет/монитор, Huion, Kamvas 13 GS1331, 13.3\", Разрешение 1920х1080, Яркость 220cd/m2, Матрица IPS, 5080 lpi, Чувствительность к нажатию 8192, Интерфейс USB-C, Рабочая область 293,76*165,24 мм., Чёрный"
   },
   {
@@ -430,7 +430,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 192217,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет/монитор, Huion, Kamvas Pro 12 (GT-116), Цифровая ручка:PW507, Технология пера:Пассивный электромагнитный резонанс (перо без батареи), Разрешение пера:5080 LPI, Чувствительность к давлению:8192 уровня, Поддержка наклона:±60°, Чувствительная высота:10mm, Report Rate:266PPS, Точность:±0.5mmЦентр ±3mmУгол, Клавиши:4, черный"
   },
   {
@@ -442,7 +442,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 232785,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет/монитор, Huion, Kamvas Pro 13 (GT133), 13.3\", Разрешение 1920х1080, Яркость 220cd/m2, Матрица IPS, 5080 lpi, Чувствительность к нажатию 8192, Интерфейс USB, Рабочая область 293,76*165,24 мм., Чёрный"
   },
   {
@@ -454,7 +454,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 276569,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет/монитор, Huion, Kamvas Pro 13 (2.5K) (GT1302), 13.3\", Разрешение 2560х1600, Яркость 220cd/m2, Матрица IPS, 5080 lpi, Чувствительность к нажатию 8192, Интерфейс USB, Рабочая область 293,76*165,24 мм., Чёрный"
   },
   {
@@ -466,7 +466,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 261266,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет/монитор, Huion, Kamvas 16 (GS1562), 15.6\", Разрешение 1920х1080, Яркость 220cd/m2, Матрица IPS, 5080 lpi, Чувствительность к нажатию 8192, Интерфейс USB-C, Рабочая область 344,16*193,59 мм., Чёрный"
   },
   {
@@ -478,7 +478,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 279675,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет/монитор, Huion, Kamvas Pro 16 (GT-156), Разрешение 1920х1080, Яркость 220cd/m2, Матрица IPS, 5080 lpi, Чувствительность к нажатию 8192, Интерфейс USB, Рабочая область 293,76*165,24 мм., Чёрный"
   },
   {
@@ -490,7 +490,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 308746,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет/монитор, Huion, Kamvas 22 (GS2201), 21.5\", Разрешение 1920х1080, Яркость 220cd/m2, Матрица IPS, 5080 lpi, Чувствительность к нажатию 8192, Интерфейс USB, Рабочая область 476,64*268,11 мм., Чёрный"
   },
   {
@@ -502,7 +502,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 277569,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Huion, Kamvas 16 Gen 3 (GS1563), Цифровая ручка:PW517, Технология пера:Пассивный электромагнитный резонанс (перо без батареи), Разрешение пера:5080 LPI, Чувствительность к давлению:8192уровня, Поддержка наклона:±60°, Чувствительная высота:10mm, Report Rate:-, Точность:±0.3mmЦентр ±2mmУгол, Клавиши:10, черный"
   },
   {
@@ -514,7 +514,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 18009,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Huion, H430P, Разрешение 5080 lpi, Чувствительность к нажатию 4096, Интерфейс USB, Рабочая область 121,9*76,2 мм. (4,8\"х3\"), Чёрный"
   },
   {
@@ -526,7 +526,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 464166,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет/монитор, Huion, Kamvas Pro 19 (GT1902), Цифровая ручка:PW600/PW600S, Технология пера:PenTech 4.0, Разрешение пера:5080 LPI, Чувствительность к давлению:16384уровня, Поддержка наклона:±60°, Чувствительная высота:10mm, Report Rate:260PPS, Точность:±0.3mmЦентр ±1mmУгол, серый"
   },
   {
@@ -538,7 +538,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 640337,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет/монитор, Huion, Kamvas Pro 24 GT-240, Разрешение 1920х1080, Яркость 250cd/m2, Матрица IPS, 5080 lpi, Чувствительность к нажатию 8192, Интерфейс HDMI, DP, GA, Рабочая область 476,64*268,11 мм., Чёрный"
   },
   {
@@ -550,7 +550,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 946861,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет/монитор, Huion, Kamvas Pro 27 (GT2701), Цифровая ручка:PW600/PW600S, Технология пера:PenTech 4.0, Разрешение пера:5080LPI, Чувствительность к давлению:16384 уровня, Поддержка наклона:±60°, Чувствительная высота:8 ммцентр, Report Rate:260PPS, Точность:±0.3 ммЦентр ±1ммугол, черный"
   },
   {
@@ -562,7 +562,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 636310,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет/монитор, Huion, Kamvas Pro 24 (4K) GT2401, 24\", Разрешение 3840х2160, Яркость 220cd/m2, Матрица IPS, 5080 lpi, Чувствительность к нажатию 8192, Интерфейс HDMI, DP, GA, Рабочая область 527*296 мм., Чёрный"
   },
   {
@@ -574,7 +574,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 17720,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, XP-Pen, Star G430S, Разрешение 5080 lpi, Чувствительность к нажатию 8192, Интерфейс USB, Рабочая область 4\"х3\", Чёрный"
   },
   {
@@ -586,7 +586,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 301464,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, XP-Pen, Artist Pro 16 gen 2 JPMD160QH , Разрешение 5080 lpi, Чувствительность к нажатию 16384, Интерфейс USB Type-C , Рабочая область 15.4\" 2560 x 1600, Чёрный"
   },
   {
@@ -598,7 +598,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 22664,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, XP-Pen, Star G640, Разрешение 5080 lpi, Чувствительность к нажатию 8192, Интерфейс USB, Рабочая область 6\"х4\", Чёрный"
   },
   {
@@ -610,7 +610,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 23756,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, XP-Pen, Deco Fun S BK, Разрешение 5080 lpi, Чувствительность к нажатию 8192, Интерфейс USB-C, Рабочая область 6.3\"х4\", Чёрный"
   },
   {
@@ -622,7 +622,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 33986,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, XP-Pen, Star 03 (V2), Разрешение 5080 lpi, Чувствительность к нажатию 8192, Интерфейс USB, Рабочая область 10\"х6\", Чёрный"
   },
   {
@@ -634,7 +634,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 30695,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, XP-Pen, Star G960S, Разрешение 5080 lpi, Чувствительность к нажатию 8192, Интерфейс USB, Рабочая область 9\"х6\" (228,8 x 152,6 мм), Перо Безбатарейный стилус PH3, Чёрный"
   },
   {
@@ -646,7 +646,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 28130,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, XP-Pen, Deco Fun L BK, Разрешение 5080 lpi, Чувствительность к нажатию 8192, Интерфейс USB-C, Рабочая область 10\"х6.27\", Чёрный"
   },
   {
@@ -658,7 +658,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 35745,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, XP-Pen, Star G960S PLUS, Разрешение 5080 lpi, Чувствительность к нажатию 8192, Интерфейс USB, Рабочая область 9\"х6\" (228,8 x 152,6 мм), Перо Безбатарейный стилус PH2 (с цифровым ластиком), Чёрный"
   },
   {
@@ -670,7 +670,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 57230,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, XP-Pen, Deco 03, Разрешение 5080 lpi, Чувствительность к нажатию 8192, Беспроводной интерфейс, Рабочая область 10\"х6,25\", Чёрный"
   },
   {
@@ -682,7 +682,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 59170,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, XP-Pen, Deco Pro Small, Разрешение 5080 lpi, Чувствительность к нажатию 8192, Интерфейс USB, Рабочая область 230*130 мм., Серый"
   },
   {
@@ -694,7 +694,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 52380,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, XP-Pen, Deco LW BK (IT1060B_BK), Разрешение 5080 lpi, Чувствительность к нажатию 8192, Интерфейс USB-C, Рабочая область 10\"х6\", Чёрный"
   },
   {
@@ -706,7 +706,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 67890,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, XP-Pen, Deco Pro Medium, Разрешение 5080 lpi, Чувствительность к нажатию 8192, Интерфейс USB Type-C, Рабочая область 279*157 мм., Серый"
   },
   {
@@ -718,7 +718,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 184363,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, XP-Pen, Artist 12 Pro, DPI 1920x1080, Чувствительность к нажатию 8192, Рабочая область 256*144 мм., Чёрный"
   },
   {
@@ -730,7 +730,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 42854,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, XP-Pen, Deco 01 (V3), Разрешение 5080 lpi, Чувствительность к нажатию 8192, Интерфейс USB, Рабочая область 10\"х6,25\", Чёрный"
   },
   {
@@ -742,7 +742,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 290806,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, XP-Pen, Magic Drawing Pad 9494G_EU , Разрешение 2540 lpi, Чувствительность к нажатию 16384, Интерфейс USB Type-C, Рабочая область 148x210 мм, Cерый"
   },
   {
@@ -754,7 +754,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 493730,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, XP-Pen, Artist 24 Pro, DPI 2560x1440, Чувствительность к нажатию 8192, Рабочая область 526.85 x 296.35 мм., Чёрный"
   },
   {
@@ -766,7 +766,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 0,
     "stock": 50,
     "is_available": false,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": ""
   },
   {
@@ -778,7 +778,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 0,
     "stock": 50,
     "is_available": false,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": ""
   },
   {
@@ -790,7 +790,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 35890,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Wacom, One Medium (CTL-672-S), Разрешение 2540 lpi, Чувствительность к нажатию 2048, Интерфейс USB, Размер 277*189*8,7 мм, Чёрный"
   },
   {
@@ -802,7 +802,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 59160,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Wacom, One pen tablet small - N (CTC4110WLW1B), Разрешение 2540 lpi, Чувствительность к нажатию 2048, Интерфейс USB, Размер 210*146*7,5 мм, Чёрный"
   },
   {
@@ -814,7 +814,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 89230,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Wacom, One pen tablet medium - N (CTC6110WLW1B), Разрешение 2540 lpi, Чувствительность к нажатию 2048, Интерфейс USB, Размер 210*146*7,5 мм, Чёрный"
   },
   {
@@ -826,7 +826,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 208540,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Wacom, One pen display 14.0\", DTC141W0, Белый"
   },
   {
@@ -838,7 +838,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 194970,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Wacom, Intuos Pro Medium N, (PTH-660-N), Разрешение 5080 lpi, Чувствительность к нажатию 2048, 6 программируемых клавиш, Размер 338x219x8 мм, Чёрный"
   },
   {
@@ -850,7 +850,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 277410,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Wacom, One 13 Touch pen display (DTH134W0B), Разрешение 1920 x 1080, Чувствительность к нажатию 4096, Интерфейс USB-С, Размер 310*200*8,5 мм, Чёрный"
   },
   {
@@ -862,7 +862,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 329790,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Wacom, Cintiq 16 (DTK1660K0B), Разрешение 5080 линий на дюйм, Размер рабочей области 293,8*165,2 мм, USB, HDMI, Размер 375*248*14 мм, Чёрный"
   },
   {
@@ -874,7 +874,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 757560,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Wacom, Cintiq 22 (DTK2260K0A), Разрешение 1920*1080, Размер рабочей области 476*268 мм, USB, HDMI, Размер 570*359*40 мм, Чёрный"
   },
   {
@@ -886,7 +886,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 823530,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Wacom, Cintiq Pro 16 (2021) (DTH167K0B), Разрешение 3840 x 2160, Чувствительность к нажатию 8192, Интерфейс USB-С и HDMI, Размер 410*266*22 мм, Чёрный"
   },
   {
@@ -898,7 +898,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 1299790,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Wacom, Cintiq Pro 24 (DTK-2420), Разрешение 3840 x 2160 (4K UHD), Чувствительность к нажатию 8192, Интерфейс USB-С и HDMI, Размер 677*394*47 мм, Чёрный"
   },
   {
@@ -910,7 +910,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 1804190,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Wacom, Cintiq Pro 24 touch (DTH-2420), Разрешение 3840 x 2160 (4K UHD), Чувствительность к нажатию 8192, Интерфейс USB-С и HDMI, Размер 677*394*47 мм, Чёрный"
   },
   {
@@ -922,7 +922,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 1716890,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Wacom, Cintiq Pro 17 (DTH172K0B), Разрешение 3840 x 2160 (4K UHD), Чувствительность к нажатию 8192, Интерфейс USB-С и HDMI, Размер 410*266*22 мм, Чёрный"
   },
   {
@@ -934,7 +934,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 45580,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Wacom, Intuos S CTL-4100K-N (CTL-4100/K0-BX), Разрешение 2540 lpi, Чувствительность к нажатию 4096, 4 программируемые клавиши, 2 клавиши на пере, Размер планшета 200*160*8,8 мм, Чёрный"
   },
   {
@@ -946,7 +946,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 52370,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Wacom, Intuos M CTL-6100K-B (CTL-6100/K0-BX), Разрешение 2540 lpi, Чувствительность к нажатию 4096, 4 программируемые клавиши, 2 клавиши на пере, Размер планшета 264*200*8,8 мм, Чёрный"
   },
   {
@@ -958,7 +958,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 486064,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Wacom, Intuos Pro Large Paper Edition R/N (PTH-860P-N), Разрешение 5080 lpi, Чувствительность к нажатию 8192, ExpressKeys: 8 программируемых клавиш, Размер 430x287x8 мм, Чёрный"
   },
   {
@@ -970,7 +970,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 3431132,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Wacom, Cintiq Pro 22 (DTH227K0B), Разрешение 3840 x 2160 (4K UHD), Чувствительность к нажатию 8192, Интерфейс USB-С и HDMI, Размер 610*366*22 мм, Чёрный"
   },
   {
@@ -982,7 +982,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 38790,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Wacom, Intuos Small Bluetooth (CTL-4100WLK-N), Разрешение 2540 lpi, Чувствительность к нажатию 4096, 4 программируемые клавиши, 2 клавиши на пере, Размер планшета 200*160*8,8 мм, Чёрный"
   },
   {
@@ -994,7 +994,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 220180,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Планшет для цифровой подписи, Wacom, STU-540-CH2, Разрешение 800 х 480, Разрешение датчика 2540 lpi, Размер 161*174*11 мм, Серый"
   },
   {
@@ -1006,7 +1006,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 187200,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Планшет для цифровой подписи, Wacom, STU-430-CH2, Разрешение 320 х 200, Разрешение датчика 2540 lpi, Размер 161*174*11 мм, Серый"
   },
   {
@@ -1018,7 +1018,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 533490,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Wacom, Movink 13 pen touch One (DTH135K0B), Разрешение 1920 x 1080, Чувствительность к нажатию 8192, Интерфейс USB-С, Размер 319,5 x 205,2 x 4~6,6 мм, Чёрный"
   },
   {
@@ -1030,7 +1030,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 366650,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Wacom, Intuos Pro pen tablet large (PTK870K0B), Разрешение 5080 lpi, Чувствительность к нажатию 8192, 6 программируемых клавиш, Размер 377 x 253 x 4-7 мм, Чёрный"
   },
   {
@@ -1042,7 +1042,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 237640,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Wacom, Intuos Pro pen tablet medium (PTK670K0B), Разрешение 5080 lpi, Чувствительность к нажатию 8192, 6 программируемых клавиш, Размер 291 x 206 x 4-7 мм, Чёрный"
   },
   {
@@ -1054,7 +1054,7 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 164890,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Wacom, Intuos Pro pen tablet small (PTK470K0B), Разрешение 5080 lpi, Чувствительность к нажатию 8192, 6 программируемых клавиш, Размер 215 x 163 x 4-7 мм, Чёрный"
   },
   {
@@ -1066,7 +1066,8 @@ export const GRAFICHESKIE_PLANSHETY = [
     "price": 12125,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Графический планшет, Huion, H420, Разрешение 4000 lpi, Чувствительность к нажатию 2048, Интерфейс USB, Рабочая область 106*64,6 мм. (4,17\"х2,23\"), Чёрный"
   }
 ];
+

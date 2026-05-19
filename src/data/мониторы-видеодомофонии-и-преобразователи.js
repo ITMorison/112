@@ -10,7 +10,7 @@ export const МОНИТОРЫ_ВИДЕОДОМОФОНИИ_И_ПРЕОБРАЗО
     "price": 80025,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Dahua, DHI-VTH2621GW-WP (7\"), монитор видеодомофона IP 7 дюймовый, ёмкостной сенсорный экран."
   },
   {
@@ -22,7 +22,7 @@ export const МОНИТОРЫ_ВИДЕОДОМОФОНИИ_И_ПРЕОБРАЗО
     "price": 105973,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Домофонная система, Dahua, DHI-VTH5321GW-W, белый, 7\"сенсорный LCD монитор, Android"
   },
   {
@@ -34,7 +34,7 @@ export const МОНИТОРЫ_ВИДЕОДОМОФОНИИ_И_ПРЕОБРАЗО
     "price": 558720,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Мастер-станция, Dahua, DHI-VTS8A40B-CG, Встроенная ОС Андроид 11, Сетевые протоколы IPv4.SIP. RTSP. RTP. TCP. UDP, Кодирование аудиосигнала G.711a. G.711u. PCM, Питание DC 12В/2A"
   },
   {
@@ -46,7 +46,7 @@ export const МОНИТОРЫ_ВИДЕОДОМОФОНИИ_И_ПРЕОБРАЗО
     "price": 151708,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор, Dahua, DHI-VTH5341G-W (10\"), Android 10-дюймовый цифровой внутренний монитор"
   },
   {
@@ -58,7 +58,7 @@ export const МОНИТОРЫ_ВИДЕОДОМОФОНИИ_И_ПРЕОБРАЗО
     "price": 198821,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Видеодомофон, Dahua, DHI-VTH8641KMS-WP (10\"), 10-дюймовый TFT LCD, Linux, 1024  600"
   },
   {
@@ -70,7 +70,7 @@ export const МОНИТОРЫ_ВИДЕОДОМОФОНИИ_И_ПРЕОБРАЗО
     "price": 53408,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Оборудование видеодомофонии, Dahua, DHI-VTNC130AC, Конвертер аналоговых линий, может быть подключен к 200 аналоговым видеодомофонам"
   },
   {
@@ -82,7 +82,7 @@ export const МОНИТОРЫ_ВИДЕОДОМОФОНИИ_И_ПРЕОБРАЗО
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор домофона, Hikvision, DS-KH9510-WTE1(B)(Black), 10.1-дюймовый сенсорный экран, Android, встроеный микрофон и динамик, шумоподавление, от -10 °C до 50 °C, Wi-Fi 2.4 GHz, 12V DC, PoE"
   },
   {
@@ -94,7 +94,7 @@ export const МОНИТОРЫ_ВИДЕОДОМОФОНИИ_И_ПРЕОБРАЗО
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор домофона, Hikvision, DS-KH9310-WTE1(B) 7\", 7-дюймовый сенсорный экран, Android, встроеный микрофон и динамик, шумоподавление, от -10 °C до 50 °C, Wi-Fi 2.4 GHz, 12V DC, PoE"
   },
   {
@@ -106,7 +106,7 @@ export const МОНИТОРЫ_ВИДЕОДОМОФОНИИ_И_ПРЕОБРАЗО
     "price": 147511,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор домофонаб, Hikvision, DS-KH8520-WTE1 (Black), 10,1-дюймовый сенсорный TFT-экран, Wi-Fi 802.11b/g/n, встроеный микрофон и динамик, шумоподавление, от -10 °C до 50 °C, 12V DC, PoE"
   },
   {
@@ -118,7 +118,7 @@ export const МОНИТОРЫ_ВИДЕОДОМОФОНИИ_И_ПРЕОБРАЗО
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Мастер-станция, Hikvision, DS-KM9503,"
   },
   {
@@ -130,7 +130,7 @@ export const МОНИТОРЫ_ВИДЕОДОМОФОНИИ_И_ПРЕОБРАЗО
     "price": 57754,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор домофона, Hikvision, DS-KH6110-WE1, 4.3-дюймовый экран с сенсорными кнопоками, Linux, встроеный микрофон и динамик, шумоподавление, от -10 °C до 50 °C, Wi-Fi 2.4 GHz, 12V DC, PoE"
   },
   {
@@ -142,7 +142,7 @@ export const МОНИТОРЫ_ВИДЕОДОМОФОНИИ_И_ПРЕОБРАЗО
     "price": 44575,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор домофона, Hikvision, DS-KH6100-E1, 4,3-дюймовый экран с сенсорными кнопоками, Linux, встроеный микрофон и динамик, шумоподавление, от -10 °C до 50 °C, 12V DC, PoE"
   },
   {
@@ -154,7 +154,7 @@ export const МОНИТОРЫ_ВИДЕОДОМОФОНИИ_И_ПРЕОБРАЗО
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор домофона, Hikvision, DS-KH6350-WTE1 7\", 7-дюймовый сенсорный TFT-экран с разрешением 1024  600, Linux, Wi-Fi 2,4 ГГц, -10 °C до 50 °C"
   },
   {
@@ -166,7 +166,7 @@ export const МОНИТОРЫ_ВИДЕОДОМОФОНИИ_И_ПРЕОБРАЗО
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор домофона, Hikvision, DS-KH6320-LE1(B), 7-дюймовый сенсорный TFT-экран, Linux, поддержка карт TF до 128 Гб, встроеный микрофон, -10 °C до 55 °C, POE"
   },
   {
@@ -178,7 +178,7 @@ export const МОНИТОРЫ_ВИДЕОДОМОФОНИИ_И_ПРЕОБРАЗО
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор домофона, Hikvision, DS-KH6320-WTE1, 7-дюймовый сенсорный TFT-экран, Linux, поддержка карт TF до 128 Гб, встроеный микрофон, -10 °C до 55 °C, Wi-Fi, POE"
   },
   {
@@ -190,7 +190,7 @@ export const МОНИТОРЫ_ВИДЕОДОМОФОНИИ_И_ПРЕОБРАЗО
     "price": 89344,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор домофона, Hikvision, DS-KH6320-WTDE1, 7-дюймовый сенсорный TFT-экран, Linux, поддержка карт TF до 128 Гб, встроеный микрофон, -10 °C до 55 °C, Wi-Fi, POE"
   },
   {
@@ -202,7 +202,7 @@ export const МОНИТОРЫ_ВИДЕОДОМОФОНИИ_И_ПРЕОБРАЗО
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор домофона, Hikvision, DS-KH6350-TE1 7\", 7-дюймовый сенсорный TFT-экран с разрешением 1024  600, Linux, 10 °C до 50 °C,"
   },
   {
@@ -214,7 +214,7 @@ export const МОНИТОРЫ_ВИДЕОДОМОФОНИИ_И_ПРЕОБРАЗО
     "price": 0,
     "stock": 50,
     "is_available": false,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Монитор домофона, Hikvision, DS-KH6351-WTE1 7\", 7-дюймовый сенсорный TFT-экран с разрешением 1024  600, Linux, Wi-Fi 2,4 ГГц, -10 °C до 50 °C"
   },
   {
@@ -226,7 +226,7 @@ export const МОНИТОРЫ_ВИДЕОДОМОФОНИИ_И_ПРЕОБРАЗО
     "price": 31009,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Аудиодомофон, Hikvision, DS-KH6000-E1,"
   },
   {
@@ -238,7 +238,8 @@ export const МОНИТОРЫ_ВИДЕОДОМОФОНИИ_И_ПРЕОБРАЗО
     "price": 1,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
     "description": "Адресный коммутатор, Hikvision, DS-KAD40, SIP Управляемый коммутатор, Подключение: 1Вызывная панель (KD9203-M) координатно-матричный на 200 Абонентов, 2RJ45 10M/100Mbps / 20Единицы / 20Десятки / 1Питание / 1BNC Выход / 2-bit DIP переключатель от -35°C до 55°C DC 12V"
   }
 ];
+
