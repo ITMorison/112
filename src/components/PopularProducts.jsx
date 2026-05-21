@@ -14,6 +14,8 @@ export default function PopularProducts({
    const [showMobileFilters, setShowMobileFilters] = useState(false);
   const [selectedBrands, setSelectedBrands] = useState([]);
   const [poeOnly, setPoeOnly] = useState(false);
+  const [availableOnly, setAvailableOnly] = useState(false);
+  const [priceRange, setPriceRange] = useState([0, 1000000]);
 
   // Filter state - resolve menu slug to actual product category/subcategory
   const resolvedCategoryFilters = useMemo(() => {
@@ -48,8 +50,10 @@ export default function PopularProducts({
       const noSubcategory = !activeSubcategory || activeSubcategory === 'all';
       const noBrands = selectedBrands.length === 0;
       const noPoe = !poeOnly;
+      const noAvailable = !availableOnly;
+      const noPrice = priceRange[0] <= 0 && priceRange[1] >= 1000000;
 
-      if (noCategoryOrSearch && noSubcategory && noBrands && noPoe) {
+      if (noCategoryOrSearch && noSubcategory && noBrands && noPoe && noAvailable && noPrice) {
         return PRODUCTS;
       }
 
@@ -83,7 +87,15 @@ export default function PopularProducts({
         result = result.filter((p) => selectedBrands.includes(p.brand));
       }
 
-      // 5. PoE фильтр
+      // 5. Фильтр по цене
+      if (!(priceRange[0] <= 0 && priceRange[1] >= 1000000)) {
+        result = result.filter((p) => {
+          const price = p.price || 0;
+          return price >= priceRange[0] && price <= priceRange[1];
+        });
+      }
+
+      // 6. PoE фильтр
       if (poeOnly) {
         result = result.filter((p) => {
           if (p.specs?.poe === 'Да' || p.specs?.poeOut === 'Да' || p.specs?.poe === true) return true;
@@ -91,8 +103,13 @@ export default function PopularProducts({
         });
       }
 
+      // 7. Фильтр доступности
+      if (availableOnly) {
+        result = result.filter((p) => p.is_available === true);
+      }
+
       return result;
-    }, [searchQuery, selectedCategories, resolvedSubcategory, selectedBrands, poeOnly, activeCategory, resolvedCategoryFilters]);
+    }, [searchQuery, selectedCategories, resolvedSubcategory, selectedBrands, poeOnly, availableOnly, priceRange, activeCategory, resolvedCategoryFilters]);
 
   // Heading logic
   const getHeading = () => {
@@ -119,7 +136,7 @@ export default function PopularProducts({
         </button>
       </div>
 
-      {/* Мобильные фильтры (без изменений) */}
+      {/* Мобильные фильтры */}
       {showMobileFilters && (
         <div className="fixed inset-0 z-50 lg:hidden">
           <div className="absolute inset-0 bg-slate-900/50 backdrop-blur-sm" onClick={() => setShowMobileFilters(false)} />
@@ -136,8 +153,14 @@ export default function PopularProducts({
                 onCategoryChange={setSelectedCategories}
                 selectedBrands={selectedBrands}
                 onBrandChange={setSelectedBrands}
+                minPrice={0}
+                maxPrice={1000000}
+                priceRange={priceRange}
+                onPriceChange={(min, max) => setPriceRange([min, max])}
                 poeOnly={poeOnly}
                 onPoeChange={setPoeOnly}
+                availableOnly={availableOnly}
+                onAvailableChange={setAvailableOnly}
                 products={PRODUCTS}
                 categories={CATEGORIES}
               />
@@ -153,9 +176,16 @@ export default function PopularProducts({
             onCategoryChange={setSelectedCategories}
             selectedBrands={selectedBrands}
             onBrandChange={setSelectedBrands}
+            minPrice={0}
+            maxPrice={1000000}
+            priceRange={priceRange}
+            onPriceChange={(min, max) => setPriceRange([min, max])}
             poeOnly={poeOnly}
             onPoeChange={setPoeOnly}
+            availableOnly={availableOnly}
+            onAvailableChange={setAvailableOnly}
             products={PRODUCTS}
+            categories={CATEGORIES}
           />
         </aside>
 
@@ -167,7 +197,9 @@ export default function PopularProducts({
                 onClick={() => {
                   setSelectedCategories([]);
                   setSelectedBrands([]);
+                  setPriceRange([0, 1000000]);
                   setPoeOnly(false);
+                  setAvailableOnly(false);
                 }}
                 className="text-[14px] text-indigo-600 hover:underline cursor-pointer font-medium"
               >
