@@ -1,5 +1,6 @@
 import { X, ChevronDown, ChevronUp } from 'lucide-react';
 import { useState, useMemo } from 'react';
+import { Analytics } from "@vercel/analytics/next";
 
 function FilterSection({ title, children, defaultOpen = false }) {
   const [isOpen, setIsOpen] = useState(defaultOpen);
