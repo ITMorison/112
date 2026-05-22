@@ -4,12 +4,14 @@ import { useState, useMemo } from 'react';
 function FilterSection({ title, children, defaultOpen = false }) {
   const [isOpen, setIsOpen] = useState(defaultOpen);
   return (
-    <div className="border-b border-slate-100 pb-2">
-      <button onClick={() => setIsOpen(!isOpen)} className="flex items-center justify-between w-full py-3 text-left">
-        <span className="text-[13px] font-bold text-slate-900 uppercase">{title}</span>
-        {isOpen ? <ChevronUp size={14} /> : <ChevronDown size={14} />}
+    <div className="border-b border-slate-100 pb-2 transition-all duration-200 hover:border-slate-200">
+      <button onClick={() => setIsOpen(!isOpen)} className="flex items-center justify-between w-full py-3 text-left transition-all duration-200 hover:bg-slate-50">
+        <div className="flex items-center gap-2">
+          <span className="text-[13px] font-bold text-slate-900 uppercase">{title}</span>
+        </div>
+        {isOpen ? <ChevronUp size={14} className="transition-transform duration-200" /> : <ChevronDown size={14} className="transition-transform duration-200" />}
       </button>
-      {isOpen && <div className="pb-3 space-y-2.5">{children}</div>}
+      {isOpen && <div className="pb-3 space-y-2.5 mt-2">{children}</div>}
     </div>
   );
 }
@@ -89,15 +91,15 @@ export default function SidebarFilter({
   }, [products]);
 
   const hasActiveFilters = selectedCategories.length > 0 || selectedBrands.length > 0 || 
-                          poeOnly || availableOnly || priceRange[0] > minPrice || priceRange[1] < maxPrice;
+                           poeOnly || availableOnly || priceRange[0] > minPrice || priceRange[1] < maxPrice;
 
   return (
-    <div className="bg-white rounded-2xl p-5 sticky top-4 shadow-sm border border-slate-50">
+    <div className="bg-white rounded-2xl p-5 sticky top-4 shadow-sm border border-slate-50 transition-all duration-200 hover:shadow-md">
       <div className="flex items-center justify-between mb-4 pb-2 border-b">
-        <h2 className="text-[15px] font-bold">Фильтры</h2>
+        <h2 className="text-[15px] font-bold text-slate-900">Фильтры</h2>
         {hasActiveFilters && (
-          <button onClick={handleResetFilters} className="text-[11px] text-indigo-500 font-bold hover:text-indigo-600">
-            <X size={12} className="inline mr-1" /> Сбросить
+          <button onClick={handleResetFilters} className="flex items-center gap-1 text-[11px] text-indigo-500 font-bold hover:text-indigo-600 transition-colors duration-200">
+            <X size={12} className="opacity-80" /> Сбросить фильтры
           </button>
         )}
       </div>
@@ -114,7 +116,7 @@ export default function SidebarFilter({
                 value={priceRange[0]}
                 onChange={(e) => handlePriceChange(e, false)}
                 placeholder="От"
-                className="w-1/2 px-2 py-1.5 border border-slate-200 rounded text-[12px]"
+                className="w-1/2 px-2 py-1.5 border border-slate-200 rounded text-[12px] focus:outline-none focus:ring-2 focus:ring-indigo-500"
               />
               <input
                 type="number"
@@ -123,25 +125,27 @@ export default function SidebarFilter({
                 value={priceRange[1]}
                 onChange={(e) => handlePriceChange(e, true)}
                 placeholder="До"
-                className="w-1/2 px-2 py-1.5 border border-slate-200 rounded text-[12px]"
+                className="w-1/2 px-2 py-1.5 border border-slate-200 rounded text-[12px] focus:outline-none focus:ring-2 focus:ring-indigo-500"
               />
             </div>
-            <input
-              type="range"
-              min={priceStats.min}
-              max={priceStats.max}
-              value={priceRange[0]}
-              onChange={(e) => handlePriceChange(e, false)}
-              className="w-full"
-            />
-            <input
-              type="range"
-              min={priceStats.min}
-              max={priceStats.max}
-              value={priceRange[1]}
-              onChange={(e) => handlePriceChange(e, true)}
-              className="w-full"
-            />
+            <div className="flex gap-2">
+              <input
+                type="range"
+                min={priceStats.min}
+                max={priceStats.max}
+                value={priceRange[0]}
+                onChange={(e) => handlePriceChange(e, false)}
+                className="w-1/2"
+              />
+              <input
+                type="range"
+                min={priceStats.min}
+                max={priceStats.max}
+                value={priceRange[1]}
+                onChange={(e) => handlePriceChange(e, true)}
+                className="w-1/2"
+              />
+            </div>
             <p className="text-[11px] text-slate-500 text-center">
               {priceRange[0].toLocaleString()} — {priceRange[1].toLocaleString()} ₸
             </p>
@@ -154,15 +158,15 @@ export default function SidebarFilter({
         <FilterSection title="Бренд" defaultOpen={false}>
           <div className="space-y-2">
             {uniqueBrands.map((brand) => (
-              <label key={brand} className="flex items-center gap-2 cursor-pointer py-1">
+              <label key={brand} className="flex items-center gap-2 cursor-pointer py-1 transition-colors duration-200 hover:bg-slate-50 rounded">
                 <input
                   type="checkbox"
                   checked={selectedBrands.includes(brand)}
                   onChange={() => toggleBrand(brand)}
-                  className="rounded text-indigo-600"
+                  className="rounded text-indigo-600 focus:ring-indigo-500"
                 />
-                <span className="text-[12px] text-slate-600">{brand}</span>
-                <span className="ml-auto text-[10px] text-slate-400">
+                <span className="text-[12px] text-slate-600 flex-1">{brand}</span>
+                <span className="text-[10px] text-slate-400">
                   ({products.filter(p => p.brand === brand).length})
                 </span>
               </label>
@@ -174,15 +178,15 @@ export default function SidebarFilter({
       {/* Фильтр PoE */}
       {poeCount > 0 && (
         <FilterSection title="PoE" defaultOpen={false}>
-          <label className="flex items-center gap-2 cursor-pointer py-1">
+          <label className="flex items-center gap-2 cursor-pointer py-1 transition-colors duration-200 hover:bg-slate-50 rounded">
             <input
               type="checkbox"
               checked={poeOnly}
               onChange={() => onPoeChange?.(!poeOnly)}
-              className="rounded text-indigo-600"
+              className="rounded text-indigo-600 focus:ring-indigo-500"
             />
-            <span className="text-[12px] text-slate-600">Только с PoE</span>
-            <span className="ml-auto text-[10px] text-slate-400">
+            <span className="text-[12px] text-slate-600 flex-1">Только с PoE</span>
+            <span className="text-[10px] text-slate-400">
               ({poeCount})
             </span>
           </label>
@@ -191,15 +195,15 @@ export default function SidebarFilter({
 
       {/* Фильтр доступности */}
       <FilterSection title="Доступность" defaultOpen={false}>
-        <label className="flex items-center gap-2 cursor-pointer py-1">
+        <label className="flex items-center gap-2 cursor-pointer py-1 transition-colors duration-200 hover:bg-slate-50 rounded">
           <input
             type="checkbox"
             checked={availableOnly}
             onChange={() => onAvailableChange?.(!availableOnly)}
-            className="rounded text-indigo-600"
+            className="rounded text-indigo-600 focus:ring-indigo-500"
           />
-          <span className="text-[12px] text-slate-600">В наличии</span>
-          <span className="ml-auto text-[10px] text-slate-400">
+          <span className="text-[12px] text-slate-600 flex-1">В наличии</span>
+          <span className="text-[10px] text-slate-400">
             ({products.filter(p => p.is_available).length})
           </span>
         </label>
@@ -211,25 +215,25 @@ export default function SidebarFilter({
           <div className="space-y-2">
             {categories.map((cat) => (
               <div key={cat.id}>
-                <label className="flex items-center gap-2 cursor-pointer py-1">
+                <label className="flex items-center gap-2 cursor-pointer py-1 transition-colors duration-200 hover:bg-slate-50 rounded">
                   <input
                     type="checkbox"
                     checked={selectedCategories.includes(cat.slug)}
                     onChange={() => toggleCategory(cat.slug)}
-                    className="rounded text-indigo-600"
+                    className="rounded text-indigo-600 focus:ring-indigo-500"
                   />
-                  <span className="text-[12px] font-medium text-slate-700">{cat.title}</span>
+                  <span className="text-[12px] font-medium text-slate-700 flex-1">{cat.title}</span>
                 </label>
                 {cat.subcategories && cat.subcategories.map((sub) => (
-                  <label key={sub.slug} className="flex items-center gap-2 cursor-pointer py-1 ml-5">
+                  <label key={sub.slug} className="flex items-center gap-2 cursor-pointer py-1 ml-5 transition-colors duration-200 hover:bg-slate-50 rounded">
                     <input
                       type="checkbox"
                       checked={selectedCategories.includes(sub.slug)}
                       onChange={() => toggleCategory(sub.slug)}
-                      className="rounded text-indigo-600"
+                      className="rounded text-indigo-600 focus:ring-indigo-500"
                     />
-                    <span className="text-[12px] text-slate-600">— {sub.name}</span>
-                    <span className="ml-auto text-[10px] text-slate-400">
+                    <span className="text-[12px] text-slate-600 flex-1">— {sub.name}</span>
+                    <span className="text-[10px] text-slate-400">
                       ({products.filter(p => p.subcategory === sub.slug).length})
                     </span>
                   </label>
