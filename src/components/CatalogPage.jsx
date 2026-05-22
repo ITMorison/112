@@ -1,7 +1,7 @@
 import { ShoppingCart } from 'lucide-react';
 import PopularProducts from './PopularProducts';
 import { useState, useMemo, useEffect } from 'react';
-import { MEGA_MENU_DATA } from '../data';
+import { MEGA_MENU_DATA, PRODUCTS } from '../data';
 
 export default function CatalogPage({
   searchQuery,
@@ -49,6 +49,30 @@ export default function CatalogPage({
 
   // Get subcategories from parent category (from MEGA_MENU_DATA)
   const currentSubcategories = categoryContext.parentCategory ? categoryContext.parentCategory.subcategories : [];
+
+  const categoriesForFilters = categoryContext.parentCategory ? [categoryContext.parentCategory] : categories || [];
+
+  const categoryProducts = useMemo(() => {
+    if (!activeCategory) {
+      return PRODUCTS;
+    }
+
+    if (categoryContext.effectiveSubcategory && categoryContext.effectiveSubcategory !== 'all') {
+      return PRODUCTS.filter((p) => p.subcategory === categoryContext.effectiveSubcategory);
+    }
+
+    if (categoryContext.parentCategory) {
+      const subcategorySlugs = categoryContext.parentCategory.subcategories?.map((s) => s.slug) || [];
+      return PRODUCTS.filter((p) =>
+        p.category === categoryContext.parentCategory.slug ||
+        subcategorySlugs.includes(p.subcategory)
+      );
+    }
+
+    return PRODUCTS;
+  }, [activeCategory, categoryContext]);
+
+  const currentProducts = products.length > 0 ? products : categoryProducts;
 
   // Loading state
   if (productsLoading) {
@@ -120,8 +144,8 @@ export default function CatalogPage({
         activeSubcategory={activeSubcategory}
         onCategoryFilter={onCategoryFilter}
         showFilters={true}
-        products={products}
-        categories={categories}
+        products={currentProducts}
+        categories={categoriesForFilters}
       />
 
       {/* Cart button */}

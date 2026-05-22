@@ -10,12 +10,27 @@ export default function PopularProducts({
   activeCategory = null,
   activeSubcategory = 'all',
   onCategoryFilter,
+  products = [],
+  categories = []
 }) {
    const [showMobileFilters, setShowMobileFilters] = useState(false);
   const [selectedBrands, setSelectedBrands] = useState([]);
   const [poeOnly, setPoeOnly] = useState(false);
   const [availableOnly, setAvailableOnly] = useState(false);
   const [priceRange, setPriceRange] = useState([0, 1000000]);
+
+  const allProducts = products.length > 0 ? products : PRODUCTS;
+
+  const hasPoeProducts = useMemo(() => {
+    return allProducts.some((p) => p.specs?.poe === 'Да' || p.specs?.poeOut === 'Да' || p.specs?.poe === true);
+  }, [allProducts]);
+
+  // Reset PoE filter when current category/subcategory has no PoE items
+  useEffect(() => {
+    if (!hasPoeProducts && poeOnly) {
+      setPoeOnly(false);
+    }
+  }, [hasPoeProducts, poeOnly]);
 
   // Filter state - resolve menu slug to actual product category/subcategory
   const resolvedCategoryFilters = useMemo(() => {
@@ -54,10 +69,10 @@ export default function PopularProducts({
       const noPrice = priceRange[0] <= 0 && priceRange[1] >= 1000000;
 
       if (noCategoryOrSearch && noSubcategory && noBrands && noPoe && noAvailable && noPrice) {
-        return PRODUCTS;
+        return allProducts;
       }
 
-      let result = PRODUCTS;
+      let result = allProducts;
 
       // 1. Поиск по названию
       if (searchQuery.trim()) {
@@ -116,11 +131,20 @@ export default function PopularProducts({
     if (searchQuery.trim()) {
       return `Результаты поиска: «${searchQuery}»`;
     }
-    // Если выбрана категория и подкатегория, можно уточнить заголовок
+
     if (selectedCategories.length === 1) {
-      const cat = CATEGORIES.find((c) => c.slug === selectedCategories[0]);
-      return cat ? cat.title : 'Каталог';
+      const slug = selectedCategories[0];
+      const category = categories.find((c) => c.slug === slug);
+      if (category) return category.title;
+
+      for (const cat of categories) {
+        const sub = cat.subcategories?.find((s) => s.slug === slug);
+        if (sub) return sub.name || sub.title || 'Каталог';
+      }
+
+      return 'Каталог';
     }
+
     return 'Каталог товаров';
   };
 
@@ -161,8 +185,8 @@ export default function PopularProducts({
                 onPoeChange={setPoeOnly}
                 availableOnly={availableOnly}
                 onAvailableChange={setAvailableOnly}
-                products={PRODUCTS}
-                categories={CATEGORIES}
+                products={allProducts}
+                categories={categories}
               />
             </div>
           </div>
@@ -184,8 +208,8 @@ export default function PopularProducts({
             onPoeChange={setPoeOnly}
             availableOnly={availableOnly}
             onAvailableChange={setAvailableOnly}
-            products={PRODUCTS}
-            categories={CATEGORIES}
+            products={allProducts}
+            categories={categories}
           />
         </aside>
 

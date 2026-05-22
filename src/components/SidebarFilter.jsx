@@ -1,6 +1,5 @@
 import { X, ChevronDown, ChevronUp } from 'lucide-react';
 import { useState, useMemo } from 'react';
-import { Analytics } from "@vercel/analytics/next";
 
 function FilterSection({ title, children, defaultOpen = false }) {
   const [isOpen, setIsOpen] = useState(defaultOpen);
@@ -83,6 +82,10 @@ export default function SidebarFilter({
       min: Math.min(...prices),
       max: Math.max(...prices)
     };
+  }, [products]);
+
+  const poeCount = useMemo(() => {
+    return products.filter(p => p.specs?.poe === 'Да' || p.specs?.poeOut === 'Да' || p.specs?.poe === true).length;
   }, [products]);
 
   const hasActiveFilters = selectedCategories.length > 0 || selectedBrands.length > 0 || 
@@ -169,20 +172,22 @@ export default function SidebarFilter({
       )}
 
       {/* Фильтр PoE */}
-      <FilterSection title="PoE" defaultOpen={false}>
-        <label className="flex items-center gap-2 cursor-pointer py-1">
-          <input
-            type="checkbox"
-            checked={poeOnly}
-            onChange={() => onPoeChange?.(!poeOnly)}
-            className="rounded text-indigo-600"
-          />
-          <span className="text-[12px] text-slate-600">Только с PoE</span>
-          <span className="ml-auto text-[10px] text-slate-400">
-            ({products.filter(p => p.specs?.poe === 'Да' || p.specs?.poeOut === 'Да' || p.specs?.poe === true).length})
-          </span>
-        </label>
-      </FilterSection>
+      {poeCount > 0 && (
+        <FilterSection title="PoE" defaultOpen={false}>
+          <label className="flex items-center gap-2 cursor-pointer py-1">
+            <input
+              type="checkbox"
+              checked={poeOnly}
+              onChange={() => onPoeChange?.(!poeOnly)}
+              className="rounded text-indigo-600"
+            />
+            <span className="text-[12px] text-slate-600">Только с PoE</span>
+            <span className="ml-auto text-[10px] text-slate-400">
+              ({poeCount})
+            </span>
+          </label>
+        </FilterSection>
+      )}
 
       {/* Фильтр доступности */}
       <FilterSection title="Доступность" defaultOpen={false}>
