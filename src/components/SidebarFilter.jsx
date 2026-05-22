@@ -21,6 +21,8 @@ export default function SidebarFilter({
   onCategoryChange, 
   selectedBrands = [], 
   onBrandChange,
+  selectedResolutions = [],
+  onResolutionChange,
   minPrice = 0,
   maxPrice = 1000000,
   onPriceChange,
@@ -29,7 +31,8 @@ export default function SidebarFilter({
   availableOnly = false,
   onAvailableChange,
   products = [], 
-  categories = [] 
+  categories = [],
+  category = '' 
 }) {
   const [priceRange, setPriceRange] = useState([minPrice, maxPrice]);
 
@@ -62,6 +65,7 @@ export default function SidebarFilter({
   const handleResetFilters = () => {
     onCategoryChange([]);
     onBrandChange([]);
+    onResolutionChange([]);
     setPriceRange([minPrice, maxPrice]);
     onPriceChange?.(minPrice, maxPrice);
     onPoeChange?.(false);
@@ -90,7 +94,24 @@ export default function SidebarFilter({
     return products.filter(p => p.specs?.poe === 'Да' || p.specs?.poeOut === 'Да' || p.specs?.poe === true).length;
   }, [products]);
 
+  const availableResolutions = useMemo(() => {
+    if (category !== 'videonablyudenie') return [];
+    const set = new Set();
+    products.forEach(p => {
+      const match = p.title.match(/(\d+)МП/);
+      if (match) {
+        set.add(match[1] + 'МП');
+      }
+    });
+    return Array.from(set).sort((a, b) => {
+      const numA = parseInt(a);
+      const numB = parseInt(b);
+      return numA - numB;
+    });
+  }, [category, products]);
+
   const hasActiveFilters = selectedCategories.length > 0 || selectedBrands.length > 0 || 
+                           selectedResolutions.length > 0 ||
                            poeOnly || availableOnly || priceRange[0] > minPrice || priceRange[1] < maxPrice;
 
   return (
@@ -168,6 +189,35 @@ export default function SidebarFilter({
                 <span className="text-[12px] text-slate-600 flex-1">{brand}</span>
                 <span className="text-[10px] text-slate-400">
                   ({products.filter(p => p.brand === brand).length})
+                </span>
+              </label>
+            ))}
+          </div>
+        </FilterSection>
+      )}
+
+      {/* Фильтр по разрешению (только для видеонаблюдения) */}
+      {category === 'videonablyudenie' && availableResolutions.length > 0 && (
+        <FilterSection title="Разрешение" defaultOpen={false}>
+          <div className="space-y-2">
+            {availableResolutions.map((resolution) => (
+              <label key={resolution} className="flex items-center gap-2 cursor-pointer py-1 transition-colors duration-200 hover:bg-slate-50 rounded">
+                <input
+                  type="checkbox"
+                  checked={selectedResolutions.includes(resolution)}
+                  onChange={() => onResolutionChange(prev => 
+                    prev.includes(resolution) 
+                      ? prev.filter(r => r !== resolution) 
+                      : [...prev, resolution]
+                  )}
+                  className="rounded text-indigo-600 focus:ring-indigo-500"
+                />
+                <span className="text-[12px] text-slate-600 flex-1">{resolution}</span>
+                <span className="text-[10px] text-slate-400">
+                  ({products.filter(p => {
+                    const match = p.title.match(/(\d+)МП/);
+                    return match && match[1] + 'МП' === resolution;
+                  }).length})
                 </span>
               </label>
             ))}

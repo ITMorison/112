@@ -14,117 +14,153 @@ export default function PopularProducts({
   categories = []
 }) {
    const [showMobileFilters, setShowMobileFilters] = useState(false);
-  const [selectedBrands, setSelectedBrands] = useState([]);
-  const [poeOnly, setPoeOnly] = useState(false);
-  const [availableOnly, setAvailableOnly] = useState(false);
-  const [priceRange, setPriceRange] = useState([0, 1000000]);
+   const [selectedBrands, setSelectedBrands] = useState([]);
+   const [poeOnly, setPoeOnly] = useState(false);
+   const [availableOnly, setAvailableOnly] = useState(false);
+   const [priceRange, setPriceRange] = useState([0, 1000000]);
+   // Resolution filter for video surveillance
+   const [selectedResolutions, setSelectedResolutions] = useState([]);
 
-  const allProducts = products.length > 0 ? products : PRODUCTS;
+   const allProducts = products.length > 0 ? products : PRODUCTS;
 
-  const hasPoeProducts = useMemo(() => {
-    return allProducts.some((p) => p.specs?.poe === 'Да' || p.specs?.poeOut === 'Да' || p.specs?.poe === true);
-  }, [allProducts]);
+   const hasPoeProducts = useMemo(() => {
+     return allProducts.some((p) => p.specs?.poe === 'Да' || p.specs?.poeOut === 'Да' || p.specs?.poe === true);
+   }, [allProducts]);
 
-  // Reset PoE filter when current category/subcategory has no PoE items
-  useEffect(() => {
-    if (!hasPoeProducts && poeOnly) {
-      setPoeOnly(false);
-    }
-  }, [hasPoeProducts, poeOnly]);
+   // Reset PoE filter when current category/subcategory has no PoE items
+   useEffect(() => {
+     if (!hasPoeProducts && poeOnly) {
+       setPoeOnly(false);
+     }
+   }, [hasPoeProducts, poeOnly]);
 
-  // Filter state - resolve menu slug to actual product category/subcategory
-  const resolvedCategoryFilters = useMemo(() => {
-    if (!activeCategory) return [];
-    const map = MENU_SLUG_TO_PRODUCT_MAP[activeCategory];
-    if (map) {
-      const vals = [map.category, map.subcategory].filter(Boolean);
-      return [...new Set(vals)];
-    }
-    return [activeCategory];
-  }, [activeCategory]);
+   // Reset resolution filter when active category changes to non-video
+   useEffect(() => {
+     if (activeCategory !== 'videonablyudenie') {
+       setSelectedResolutions([]);
+     }
+   }, [activeCategory]);
 
-  const resolvedSubcategory = useMemo(() => {
-    if (!activeSubcategory || activeSubcategory === 'all') return 'all';
-    const map = MENU_SLUG_TO_PRODUCT_MAP[activeSubcategory];
-    return map?.subcategory || activeSubcategory;
-  }, [activeSubcategory]);
+   // Filter state - resolve menu slug to actual product category/subcategory
+   const resolvedCategoryFilters = useMemo(() => {
+     if (!activeCategory) return [];
+     const map = MENU_SLUG_TO_PRODUCT_MAP[activeCategory];
+     if (map) {
+       const vals = [map.category, map.subcategory].filter(Boolean);
+       return [...new Set(vals)];
+     }
+     return [activeCategory];
+   }, [activeCategory]);
 
-  const [selectedCategories, setSelectedCategories] = useState(() => 
-    resolvedCategoryFilters
-  );
+   const resolvedSubcategory = useMemo(() => {
+     if (!activeSubcategory || activeSubcategory === 'all') return 'all';
+     const map = MENU_SLUG_TO_PRODUCT_MAP[activeSubcategory];
+     return map?.subcategory || activeSubcategory;
+   }, [activeSubcategory]);
 
-  // Sync with activeCategory from header
-  useEffect(() => {
-    setSelectedCategories(resolvedCategoryFilters);
-  }, [resolvedCategoryFilters]);
+   const [selectedCategories, setSelectedCategories] = useState(() => 
+     resolvedCategoryFilters
+   );
 
-    // Основная логика фильтрации
-    const filtered = useMemo(() => {
-      // Если нет активных фильтров и нет поиска, показываем все товары
-      const noCategoryOrSearch = !activeCategory && !searchQuery.trim();
-      const noSubcategory = !activeSubcategory || activeSubcategory === 'all';
-      const noBrands = selectedBrands.length === 0;
-      const noPoe = !poeOnly;
-      const noAvailable = !availableOnly;
-      const noPrice = priceRange[0] <= 0 && priceRange[1] >= 1000000;
+   // Sync with activeCategory from header
+   useEffect(() => {
+     setSelectedCategories(resolvedCategoryFilters);
+   }, [resolvedCategoryFilters]);
 
-      if (noCategoryOrSearch && noSubcategory && noBrands && noPoe && noAvailable && noPrice) {
-        return allProducts;
-      }
+   // Available resolutions for video surveillance category
+   const availableResolutions = useMemo(() => {
+     const set = new Set();
+     allProducts.forEach(p => {
+       // Extract resolution from title: look for XXМП where XX is digits
+       const match = p.title.match(/(\d+)МП/);
+       if (match) {
+         set.add(match[1] + 'МП');
+       }
+     });
+     return Array.from(set).sort((a, b) => {
+       // Sort by numeric value
+       const numA = parseInt(a);
+       const numB = parseInt(b);
+       return numA - numB;
+     });
+   }, [allProducts]);
 
-      let result = allProducts;
+     // Основная логика фильтрации
+     const filtered = useMemo(() => {
+       // Если нет активных фильтров и нет поиска, показываем все товары
+       const noCategoryOrSearch = !activeCategory && !searchQuery.trim();
+       const noSubcategory = !activeSubcategory || activeSubcategory === 'all';
+       const noBrands = selectedBrands.length === 0;
+       const noPoe = !poeOnly;
+       const noAvailable = !availableOnly;
+       const noPrice = priceRange[0] <= 0 && priceRange[1] >= 1000000;
+       const noResolutions = selectedResolutions.length === 0;
 
-      // 1. Поиск по названию
-      if (searchQuery.trim()) {
-        result = result.filter((p) =>
-          p.title.toLowerCase().includes(searchQuery.toLowerCase())
-        );
-      }
+       if (noCategoryOrSearch && noSubcategory && noBrands && noPoe && noAvailable && noPrice && noResolutions) {
+         return allProducts;
+       }
 
-      // 2. Фильтр по основным категориям (Видам) и подкатегориям (через selectedCategories)
-      // Если selectedCategories пуст, но activeCategory установлен, используем resolvedCategoryFilters
-      const categoriesToFilter = selectedCategories.length > 0 ? selectedCategories : resolvedCategoryFilters;
-      if (categoriesToFilter.length > 0) {
-        result = result.filter((p) => 
-          categoriesToFilter.includes(p.category) || 
-          categoriesToFilter.includes(p.subcategory)
-        );
-      }
+       let result = allProducts;
 
-      // 3. Фильтр по подкатегориям (Подразделам)
-      // Если выбрана конкретная подкатегория (не 'all'), фильтруем по полю subcategory в товаре
-      if (resolvedSubcategory && resolvedSubcategory !== 'all') {
-        result = result.filter((p) => p.subcategory === resolvedSubcategory);
-      }
+       // 1. Поиск по названию
+       if (searchQuery.trim()) {
+         result = result.filter((p) =>
+           p.title.toLowerCase().includes(searchQuery.toLowerCase())
+         );
+       }
 
-      // 4. Фильтр по брендам
-      if (selectedBrands.length > 0) {
-        result = result.filter((p) => selectedBrands.includes(p.brand));
-      }
+       // 2. Фильтр по основным категориям (Видам) и подкатегориям (через selectedCategories)
+       // Если selectedCategories пуст, но activeCategory установлен, используем resolvedCategoryFilters
+       const categoriesToFilter = selectedCategories.length > 0 ? selectedCategories : resolvedCategoryFilters;
+       if (categoriesToFilter.length > 0) {
+         result = result.filter((p) => 
+           categoriesToFilter.includes(p.category) || 
+           categoriesToFilter.includes(p.subcategory)
+         );
+       }
 
-      // 5. Фильтр по цене
-      if (!(priceRange[0] <= 0 && priceRange[1] >= 1000000)) {
-        result = result.filter((p) => {
-          const price = p.price || 0;
-          return price >= priceRange[0] && price <= priceRange[1];
-        });
-      }
+       // 3. Фильтр по подкатегориям (Подразделам)
+       // Если выбрана конкретная подкатегория (не 'all'), фильтруем по полю subcategory в товаре
+       if (resolvedSubcategory && resolvedSubcategory !== 'all') {
+         result = result.filter((p) => p.subcategory === resolvedSubcategory);
+       }
 
-      // 6. PoE фильтр
-      if (poeOnly) {
-        result = result.filter((p) => {
-          if (p.specs?.poe === 'Да' || p.specs?.poeOut === 'Да' || p.specs?.poe === true) return true;
-          return false;
-        });
-      }
+       // 4. Фильтр по брендам
+       if (selectedBrands.length > 0) {
+         result = result.filter((p) => selectedBrands.includes(p.brand));
+       }
 
-      // 7. Фильтр доступности
-      if (availableOnly) {
-        result = result.filter((p) => p.is_available === true);
-      }
+       // 5. Фильтр по цене
+       if (!(priceRange[0] <= 0 && priceRange[1] >= 1000000)) {
+         result = result.filter((p) => {
+           const price = p.price || 0;
+           return price >= priceRange[0] && price <= priceRange[1];
+         });
+       }
 
-      return result;
-    }, [searchQuery, selectedCategories, resolvedSubcategory, selectedBrands, poeOnly, availableOnly, priceRange, activeCategory, resolvedCategoryFilters]);
+       // 6. PoE фильтр
+       if (poeOnly) {
+         result = result.filter((p) => {
+           if (p.specs?.poe === 'Да' || p.specs?.poeOut === 'Да' || p.specs?.poe === true) return true;
+           return false;
+         });
+       }
+
+       // 7. Фильтр доступности
+       if (availableOnly) {
+         result = result.filter((p) => p.is_available === true);
+       }
+
+       // 8. Фильтр по разрешению (только для видеонаблюдения)
+       if (selectedResolutions.length > 0 && activeCategory === 'videonablyudenie') {
+         result = result.filter((p) => {
+           const match = p.title.match(/(\d+)МП/);
+           return match && selectedResolutions.includes(match[1] + 'МП');
+         });
+       }
+
+       return result;
+     }, [searchQuery, selectedCategories, resolvedSubcategory, selectedBrands, poeOnly, availableOnly, priceRange, activeCategory, resolvedCategoryFilters, selectedResolutions]);
 
   // Heading logic
   const getHeading = () => {
@@ -160,38 +196,41 @@ export default function PopularProducts({
         </button>
       </div>
 
-      {/* Мобильные фильтры */}
-      {showMobileFilters && (
-        <div className="fixed inset-0 z-50 lg:hidden">
-          <div className="absolute inset-0 bg-slate-900/50 backdrop-blur-sm" onClick={() => setShowMobileFilters(false)} />
-          <div className="absolute right-0 top-0 bottom-0 w-[85%] sm:w-80 max-w-full bg-white overflow-y-auto shadow-2xl">
-            <div className="p-5">
-              <div className="flex items-center justify-between mb-5">
-                <h3 className="text-[18px] font-bold text-slate-900">Фильтры</h3>
-                <button onClick={() => setShowMobileFilters(false)} className="p-2 min-w-[44px] min-h-[44px] flex items-center justify-center">
-                  <X size={20} />
-                </button>
-              </div>
-              <SidebarFilter
-                selectedCategories={selectedCategories}
-                onCategoryChange={setSelectedCategories}
-                selectedBrands={selectedBrands}
-                onBrandChange={setSelectedBrands}
-                minPrice={0}
-                maxPrice={1000000}
-                priceRange={priceRange}
-                onPriceChange={(min, max) => setPriceRange([min, max])}
-                poeOnly={poeOnly}
-                onPoeChange={setPoeOnly}
-                availableOnly={availableOnly}
-                onAvailableChange={setAvailableOnly}
-                products={allProducts}
-                categories={categories}
-              />
-            </div>
-          </div>
-        </div>
-      )}
+       {/* Мобильные фильтры */}
+       {showMobileFilters && (
+         <div className="fixed inset-0 z-50 lg:hidden">
+           <div className="absolute inset-0 bg-slate-900/50 backdrop-blur-sm" onClick={() => setShowMobileFilters(false)} />
+           <div className="absolute right-0 top-0 bottom-0 w-[85%] sm:w-80 max-w-full bg-white overflow-y-auto shadow-2xl">
+             <div className="p-5">
+               <div className="flex items-center justify-between mb-5">
+                 <h3 className="text-[18px] font-bold text-slate-900">Фильтры</h3>
+                 <button onClick={() => setShowMobileFilters(false)} className="p-2 min-w-[44px] min-h-[44px] flex items-center justify-center">
+                   <X size={20} />
+                 </button>
+               </div>
+               <SidebarFilter
+                 selectedCategories={selectedCategories}
+                 onCategoryChange={setSelectedCategories}
+                 selectedBrands={selectedBrands}
+                 onBrandChange={setSelectedBrands}
+                 selectedResolutions={selectedResolutions}
+                 onResolutionChange={setSelectedResolutions}
+                 minPrice={0}
+                 maxPrice={1000000}
+                 priceRange={priceRange}
+                 onPriceChange={(min, max) => setPriceRange([min, max])}
+                 poeOnly={poeOnly}
+                 onPoeChange={setPoeOnly}
+                 availableOnly={availableOnly}
+                 onAvailableChange={setAvailableOnly}
+                 products={allProducts}
+                 categories={categories}
+                 category={activeCategory}
+               />
+             </div>
+           </div>
+         </div>
+       )}
 
       <div className="flex gap-8">
         <aside className="hidden lg:block w-64 flex-shrink-0">
