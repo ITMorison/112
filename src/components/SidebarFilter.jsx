@@ -1,297 +1,200 @@
 import { X, ChevronDown, ChevronUp } from 'lucide-react';
-import { useState, useMemo } from 'react';
+import { useMemo, useState } from 'react';
 
 function FilterSection({ title, children, defaultOpen = false }) {
   const [isOpen, setIsOpen] = useState(defaultOpen);
+
   return (
     <div className="border-b border-slate-100 pb-2 transition-all duration-200 hover:border-slate-200">
-      <button onClick={() => setIsOpen(!isOpen)} className="flex items-center justify-between w-full py-3 text-left transition-all duration-200 hover:bg-slate-50">
+      <button
+        onClick={() => setIsOpen(!isOpen)}
+        className="flex items-center justify-between w-full py-3 text-left transition-all duration-200 hover:bg-slate-50"
+      >
         <div className="flex items-center gap-2">
-          <span className="text-[13px] font-bold text-slate-900 uppercase">{title}</span>
+          <span className="text-[13px] font-bold text-slate-900 uppercase tracking-tight">{title}</span>
         </div>
-        {isOpen ? <ChevronUp size={14} className="transition-transform duration-200" /> : <ChevronDown size={14} className="transition-transform duration-200" />}
+        {isOpen ? <ChevronUp size={14} className="text-slate-400" /> : <ChevronDown size={14} className="text-slate-400" />}
       </button>
-      {isOpen && <div className="pb-3 space-y-2.5 mt-2">{children}</div>}
+      {isOpen && <div className="pb-3 space-y-2 mt-1 animate-in fade-in slide-in-from-top-1 duration-200">{children}</div>}
     </div>
   );
 }
 
-export default function SidebarFilter({ 
-  selectedCategories, 
-  onCategoryChange, 
-  selectedBrands = [], 
-  onBrandChange,
-  selectedResolutions = [],
-  onResolutionChange,
-  minPrice = 0,
-  maxPrice = 1000000,
-  onPriceChange,
-  poeOnly = false,
-  onPoeChange,
-  availableOnly = false,
-  onAvailableChange,
-  products = [], 
+function parseBrandFromTitle(title = '') {
+  const brands = [
+    'Hikvision', 'HiWatch', 'HiLook', 'Dahua', 'Imou', 'Tiandy',
+    'Grandstream', 'Yealink', 'Fanvil', 'Cisco', 'Polycom', 'Snom',
+    'Jabra', 'Plantronics', 'Sennheiser'
+  ];
+
+  const found = brands.find((brand) => title.toLowerCase().includes(brand.toLowerCase()));
+  return found || 'Другие';
+}
+
+export default function SidebarFilter({
+  products = [],
   categories = [],
-  category = '' 
+  category = '',
+  selectedCategories = [],
+  onCategoryChange,
+  selectedBrands = [],
+  onBrandChange,
+  selectedChannels = [],
+  toggleChannel,
+  onClose
 }) {
-  const [priceRange, setPriceRange] = useState([minPrice, maxPrice]);
+  const channelOptions = ['4', '8', '16', '32', '64'];
+
+  const availableBrands = useMemo(() => {
+    const brandCounts = {};
+
+    products.forEach((product) => {
+      const brand = parseBrandFromTitle(product.title);
+      brandCounts[brand] = (brandCounts[brand] || 0) + 1;
+    });
+
+    return Object.entries(brandCounts).sort((a, b) => b[1] - a[1]);
+  }, [products]);
+
+  const channelOptionsWithCounts = useMemo(() => {
+    return channelOptions.map((num) => {
+      const count = products.filter((product) => {
+        const hasInSpecs = product.specs?.channels && String(product.specs.channels).includes(num);
+        const hasInTitle = new RegExp(`(\\s|\\b)${num}(\\s?)(кана|CH|port)`, 'i').test(String(product.title || ''));
+        return hasInSpecs || hasInTitle;
+      }).length;
+
+      return { num, count };
+    }).filter((item) => item.count > 0);
+  }, [products]);
+
+  const showChannelFilter = category === 'videonablyudenie' && channelOptionsWithCounts.length > 0;
 
   const toggleCategory = (slug) => {
-    const newSelected = selectedCategories.includes(slug)
-      ? selectedCategories.filter(c => c !== slug)
-      : [...selectedCategories, slug];
-    onCategoryChange(newSelected);
+    if (!onCategoryChange) return;
+
+    onCategoryChange((current = []) =>
+      current.includes(slug)
+        ? current.filter((item) => item !== slug)
+        : [...current, slug]
+    );
   };
 
   const toggleBrand = (brand) => {
-    const newSelected = selectedBrands.includes(brand)
-      ? selectedBrands.filter(b => b !== brand)
-      : [...selectedBrands, brand];
-    onBrandChange(newSelected);
+    if (!onBrandChange) return;
+
+    onBrandChange((current = []) =>
+      current.includes(brand)
+        ? current.filter((item) => item !== brand)
+        : [...current, brand]
+    );
   };
-
-  const handlePriceChange = (e, isMax = false) => {
-    const val = parseFloat(e.target.value);
-    let newRange;
-    if (isMax) {
-      newRange = [priceRange[0], val];
-    } else {
-      newRange = [val, priceRange[1]];
-    }
-    setPriceRange(newRange);
-    onPriceChange?.(newRange[0], newRange[1]);
-  };
-
-  const handleResetFilters = () => {
-    onCategoryChange([]);
-    onBrandChange([]);
-    onResolutionChange([]);
-    setPriceRange([minPrice, maxPrice]);
-    onPriceChange?.(minPrice, maxPrice);
-    onPoeChange?.(false);
-    onAvailableChange?.(false);
-  };
-
-  const uniqueBrands = useMemo(() => {
-    const brands = new Set();
-    products.forEach(p => {
-      if (p.brand) brands.add(p.brand);
-    });
-    return Array.from(brands).filter(b => b && b.trim()).sort();
-  }, [products]);
-
-  const priceStats = useMemo(() => {
-    if (products.length === 0) return { min: 0, max: 1000000 };
-    const prices = products.map(p => p.price || 0).filter(p => p > 0);
-    if (prices.length === 0) return { min: 0, max: 1000000 };
-    return {
-      min: Math.min(...prices),
-      max: Math.max(...prices)
-    };
-  }, [products]);
-
-  const poeCount = useMemo(() => {
-    return products.filter(p => p.specs?.poe === 'Да' || p.specs?.poeOut === 'Да' || p.specs?.poe === true).length;
-  }, [products]);
-
-  const availableResolutions = useMemo(() => {
-    if (category !== 'videonablyudenie') return [];
-    const set = new Set();
-    products.forEach(p => {
-      const match = p.title.match(/(\d+)МП/);
-      if (match) {
-        set.add(match[1] + 'МП');
-      }
-    });
-    return Array.from(set).sort((a, b) => {
-      const numA = parseInt(a);
-      const numB = parseInt(b);
-      return numA - numB;
-    });
-  }, [category, products]);
-
-  const hasActiveFilters = selectedCategories.length > 0 || selectedBrands.length > 0 || 
-                           selectedResolutions.length > 0 ||
-                           poeOnly || availableOnly || priceRange[0] > minPrice || priceRange[1] < maxPrice;
 
   return (
-    <div className="bg-white rounded-2xl p-5 sticky top-4 shadow-sm border border-slate-50 transition-all duration-200 hover:shadow-md">
-      <div className="flex items-center justify-between mb-4 pb-2 border-b">
-        <h2 className="text-[15px] font-bold text-slate-900">Фильтры</h2>
-        {hasActiveFilters && (
-          <button onClick={handleResetFilters} className="flex items-center gap-1 text-[11px] text-indigo-500 font-bold hover:text-indigo-600 transition-colors duration-200">
-            <X size={12} className="opacity-80" /> Сбросить фильтры
+    <div className="bg-white h-full flex flex-col">
+      {onClose && (
+        <div className="flex items-center justify-between p-4 border-b border-slate-100 md:hidden">
+          <span className="font-bold text-slate-900">Фильтры</span>
+          <button onClick={onClose} className="p-2 hover:bg-slate-50 rounded-full">
+            <X size={20} />
           </button>
+        </div>
+      )}
+
+      <div className="flex-1 overflow-y-auto p-4 md:p-0 custom-scrollbar">
+        {categories.length > 0 && (
+          <FilterSection title="Категории" defaultOpen={true}>
+            <div className="space-y-1">
+              {categories.map((cat) => (
+                <div key={cat.slug} className="space-y-1">
+                  <label className="flex items-center gap-2 cursor-pointer py-1.5 px-2 hover:bg-indigo-50 rounded-lg transition-colors group">
+                    <input
+                      type="checkbox"
+                      checked={selectedCategories.includes(cat.slug)}
+                      onChange={() => toggleCategory(cat.slug)}
+                      className="w-4 h-4 rounded border-slate-300 text-indigo-600 focus:ring-indigo-500"
+                    />
+                    <span className="text-[13px] font-medium text-slate-700 group-hover:text-indigo-600 transition-colors flex-1">
+                      {cat.title}
+                    </span>
+                  </label>
+
+                  {cat.subcategories?.map((sub) => (
+                    <label key={sub.slug} className="flex items-center gap-2 cursor-pointer py-1 ml-6 px-2 hover:bg-slate-50 rounded-lg transition-colors group">
+                      <input
+                        type="checkbox"
+                        checked={selectedCategories.includes(sub.slug)}
+                        onChange={() => toggleCategory(sub.slug)}
+                        className="w-3.5 h-3.5 rounded border-slate-300 text-indigo-600"
+                      />
+                      <span className="text-[12px] text-slate-500 group-hover:text-slate-900 flex-1">
+                        — {sub.name || sub.title}
+                      </span>
+                      <span className="text-[10px] text-slate-400 bg-slate-100 px-1.5 py-0.5 rounded-full">
+                        {products.filter((product) => product.subcategory === sub.slug).length}
+                      </span>
+                    </label>
+                  ))}
+                </div>
+              ))}
+            </div>
+          </FilterSection>
+        )}
+
+        {showChannelFilter && (
+          <FilterSection title="Количество каналов" defaultOpen={true}>
+            <div className="space-y-1">
+              {channelOptionsWithCounts.map(({ num, count }) => (
+                <label key={num} className="flex items-center gap-2 cursor-pointer py-1.5 px-2 hover:bg-slate-50 rounded-lg transition-colors group">
+                  <input
+                    type="checkbox"
+                    className="w-4 h-4 rounded border-slate-300 text-indigo-600"
+                    checked={selectedChannels.includes(num)}
+                    onChange={() => toggleChannel?.(num)}
+                  />
+                  <span className="text-[13px] text-slate-600 group-hover:text-slate-900 flex-1">
+                    {num} {num === '4' ? 'канала' : 'каналов'}
+                  </span>
+                  <span className="text-[10px] text-slate-400 bg-slate-50 px-1.5 py-0.5 rounded">
+                    {count}
+                  </span>
+                </label>
+              ))}
+            </div>
+          </FilterSection>
+        )}
+
+        {availableBrands.length > 0 && (
+          <FilterSection title="Бренды" defaultOpen={false}>
+            <div className="space-y-1">
+              {availableBrands.map(([brand, count]) => (
+                <label key={brand} className="flex items-center gap-2 cursor-pointer py-1.5 px-2 hover:bg-slate-50 rounded-lg transition-colors group">
+                  <input
+                    type="checkbox"
+                    checked={selectedBrands.includes(brand)}
+                    onChange={() => toggleBrand(brand)}
+                    className="w-4 h-4 rounded border-slate-300 text-indigo-600"
+                  />
+                  <span className="text-[13px] text-slate-600 group-hover:text-slate-900 flex-1">{brand}</span>
+                  <span className="text-[10px] text-slate-400 bg-slate-50 px-1.5 py-0.5 rounded">
+                    {count}
+                  </span>
+                </label>
+              ))}
+            </div>
+          </FilterSection>
         )}
       </div>
 
-      {/* Фильтр по цене */}
-      {products.length > 0 && (
-        <FilterSection title="Цена" defaultOpen={true}>
-          <div className="space-y-3">
-            <div className="flex gap-2">
-              <input
-                type="number"
-                min={priceStats.min}
-                max={priceStats.max}
-                value={priceRange[0]}
-                onChange={(e) => handlePriceChange(e, false)}
-                placeholder="От"
-                className="w-1/2 px-2 py-1.5 border border-slate-200 rounded text-[12px] focus:outline-none focus:ring-2 focus:ring-indigo-500"
-              />
-              <input
-                type="number"
-                min={priceStats.min}
-                max={priceStats.max}
-                value={priceRange[1]}
-                onChange={(e) => handlePriceChange(e, true)}
-                placeholder="До"
-                className="w-1/2 px-2 py-1.5 border border-slate-200 rounded text-[12px] focus:outline-none focus:ring-2 focus:ring-indigo-500"
-              />
-            </div>
-            <div className="flex gap-2">
-              <input
-                type="range"
-                min={priceStats.min}
-                max={priceStats.max}
-                value={priceRange[0]}
-                onChange={(e) => handlePriceChange(e, false)}
-                className="w-1/2"
-              />
-              <input
-                type="range"
-                min={priceStats.min}
-                max={priceStats.max}
-                value={priceRange[1]}
-                onChange={(e) => handlePriceChange(e, true)}
-                className="w-1/2"
-              />
-            </div>
-            <p className="text-[11px] text-slate-500 text-center">
-              {priceRange[0].toLocaleString()} — {priceRange[1].toLocaleString()} ₸
-            </p>
-          </div>
-        </FilterSection>
-      )}
-
-      {/* Фильтр по брендам */}
-      {uniqueBrands.length > 0 && (
-        <FilterSection title="Бренд" defaultOpen={false}>
-          <div className="space-y-2">
-            {uniqueBrands.map((brand) => (
-              <label key={brand} className="flex items-center gap-2 cursor-pointer py-1 transition-colors duration-200 hover:bg-slate-50 rounded">
-                <input
-                  type="checkbox"
-                  checked={selectedBrands.includes(brand)}
-                  onChange={() => toggleBrand(brand)}
-                  className="rounded text-indigo-600 focus:ring-indigo-500"
-                />
-                <span className="text-[12px] text-slate-600 flex-1">{brand}</span>
-                <span className="text-[10px] text-slate-400">
-                  ({products.filter(p => p.brand === brand).length})
-                </span>
-              </label>
-            ))}
-          </div>
-        </FilterSection>
-      )}
-
-      {/* Фильтр по разрешению (только для видеонаблюдения) */}
-      {category === 'videonablyudenie' && availableResolutions.length > 0 && (
-        <FilterSection title="Разрешение" defaultOpen={false}>
-          <div className="space-y-2">
-            {availableResolutions.map((resolution) => (
-              <label key={resolution} className="flex items-center gap-2 cursor-pointer py-1 transition-colors duration-200 hover:bg-slate-50 rounded">
-                <input
-                  type="checkbox"
-                  checked={selectedResolutions.includes(resolution)}
-                  onChange={() => onResolutionChange(prev => 
-                    prev.includes(resolution) 
-                      ? prev.filter(r => r !== resolution) 
-                      : [...prev, resolution]
-                  )}
-                  className="rounded text-indigo-600 focus:ring-indigo-500"
-                />
-                <span className="text-[12px] text-slate-600 flex-1">{resolution}</span>
-                <span className="text-[10px] text-slate-400">
-                  ({products.filter(p => {
-                    const match = p.title.match(/(\d+)МП/);
-                    return match && match[1] + 'МП' === resolution;
-                  }).length})
-                </span>
-              </label>
-            ))}
-          </div>
-        </FilterSection>
-      )}
-
-      {/* Фильтр PoE */}
-      {poeCount > 0 && (
-        <FilterSection title="PoE" defaultOpen={false}>
-          <label className="flex items-center gap-2 cursor-pointer py-1 transition-colors duration-200 hover:bg-slate-50 rounded">
-            <input
-              type="checkbox"
-              checked={poeOnly}
-              onChange={() => onPoeChange?.(!poeOnly)}
-              className="rounded text-indigo-600 focus:ring-indigo-500"
-            />
-            <span className="text-[12px] text-slate-600 flex-1">Только с PoE</span>
-            <span className="text-[10px] text-slate-400">
-              ({poeCount})
-            </span>
-          </label>
-        </FilterSection>
-      )}
-
-      {/* Фильтр доступности */}
-      <FilterSection title="Доступность" defaultOpen={false}>
-        <label className="flex items-center gap-2 cursor-pointer py-1 transition-colors duration-200 hover:bg-slate-50 rounded">
-          <input
-            type="checkbox"
-            checked={availableOnly}
-            onChange={() => onAvailableChange?.(!availableOnly)}
-            className="rounded text-indigo-600 focus:ring-indigo-500"
-          />
-          <span className="text-[12px] text-slate-600 flex-1">В наличии</span>
-          <span className="text-[10px] text-slate-400">
-            ({products.filter(p => p.is_available).length})
-          </span>
-        </label>
-      </FilterSection>
-
-      {/* Категории */}
-      {categories.length > 0 && (
-        <FilterSection title="Категории" defaultOpen={false}>
-          <div className="space-y-2">
-            {categories.map((cat) => (
-              <div key={cat.id}>
-                <label className="flex items-center gap-2 cursor-pointer py-1 transition-colors duration-200 hover:bg-slate-50 rounded">
-                  <input
-                    type="checkbox"
-                    checked={selectedCategories.includes(cat.slug)}
-                    onChange={() => toggleCategory(cat.slug)}
-                    className="rounded text-indigo-600 focus:ring-indigo-500"
-                  />
-                  <span className="text-[12px] font-medium text-slate-700 flex-1">{cat.title}</span>
-                </label>
-                {cat.subcategories && cat.subcategories.map((sub) => (
-                  <label key={sub.slug} className="flex items-center gap-2 cursor-pointer py-1 ml-5 transition-colors duration-200 hover:bg-slate-50 rounded">
-                    <input
-                      type="checkbox"
-                      checked={selectedCategories.includes(sub.slug)}
-                      onChange={() => toggleCategory(sub.slug)}
-                      className="rounded text-indigo-600 focus:ring-indigo-500"
-                    />
-                    <span className="text-[12px] text-slate-600 flex-1">— {sub.name}</span>
-                    <span className="text-[10px] text-slate-400">
-                      ({products.filter(p => p.subcategory === sub.slug).length})
-                    </span>
-                  </label>
-                ))}
-              </div>
-            ))}
-          </div>
-        </FilterSection>
+      {onClose && (
+        <div className="p-4 border-t border-slate-100 md:hidden">
+          <button
+            onClick={onClose}
+            className="w-full bg-indigo-600 text-white py-3 rounded-xl font-bold active:scale-95 transition-all"
+          >
+            Применить
+          </button>
+        </div>
       )}
     </div>
   );

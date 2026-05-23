@@ -202,6 +202,11 @@ const categoryMap = {
   "8 канальные видеорегистраторы": { category: "videonablyudenie", subcategory: "ip-videoregistratory" },
   "16 канальные видеорегистраторы": { category: "videonablyudenie", subcategory: "ip-videoregistratory" },
   "32 канальные видеорегистраторы": { category: "videonablyudenie", subcategory: "ip-videoregistratory" },
+  "4 канальные HD видеорегистраторы": { category: "videonablyudenie", subcategory: "gibridnye-videoregistratory" },
+  "8 канальные HD видеорегистраторы": { category: "videonablyudenie", subcategory: "gibridnye-videoregistratory" },
+  "16 канальные HD видеорегистраторы": { category: "videonablyudenie", subcategory: "gibridnye-videoregistratory" },
+  "32 канальные HD видеорегистраторы": { category: "videonablyudenie", subcategory: "gibridnye-videoregistratory" },
+  "Многоканальные видеорегистраторы": { category: "videonablyudenie", subcategory: "ip-videoregistratory" },
   
   // Intercom
   "Комплекты": { category: "domofoniya", subcategory: "komplekty" },
@@ -472,13 +477,26 @@ export const PRODUCTS = RAW_PRODUCTS.map((p, index) => {
   // Heuristic: map products by keywords in name/fullName/category_raw
   if (!mapping) {
     const txt = (String(p.name || '') + ' ' + String(p.fullName || '') + ' ' + String(p.category_raw || '')).toLowerCase();
-    // match camera-specific words only (avoid matching "видеокарты")
-    const hasVideo = /видеокам|видеокамера|видеорегистрат|видеодомофон|видеодомоф/i.test(txt);
-    const hasAnalog = /аналог|cvbs|hdcvi|tvi|ahd|cvbs/i.test(txt);
+    const hasAnalog = /аналог|cvbs|hdcvi|tvi|ahd/i.test(txt);
     const hasIp = /ip\b|ip\s|ip-/i.test(txt);
     const hasHybrid = /гибрид|hybrid/i.test(txt);
+    const isRecorder = /видеорегистрат|регистратор|\bNVR\b|\bDVR\b|\bXVR\b|\bHVR\b|\bканальн/i.test(txt);
 
-    if (hasVideo) {
+    // Check registrators FIRST — before generic "hasVideo" check,
+    // because "видеорегистрат" also matches the camera regex and was
+    // incorrectly mapped to ip-videokamery (bug fix).
+    if (isRecorder) {
+      if (hasHybrid || hasAnalog || /\bhd\b|\bHD\b/.test(txt) && !hasIp) {
+        mapping = { category: 'videonablyudenie', subcategory: 'gibridnye-videoregistratory' };
+      } else {
+        mapping = { category: 'videonablyudenie', subcategory: 'ip-videoregistratory' };
+      }
+    }
+
+    // match camera-specific words only (avoid matching "видеокарты" and registrators)
+    const hasCamera = /видеокам|видеокамера|видеодомофон|видеодомоф/i.test(txt);
+
+    if (!mapping && hasCamera) {
       if (hasAnalog || hasHybrid) {
         mapping = { category: 'videonablyudenie', subcategory: 'analogovye-videokamery' };
       } else if (hasIp) {
@@ -487,12 +505,6 @@ export const PRODUCTS = RAW_PRODUCTS.map((p, index) => {
         // default to IP video if unclear
         mapping = { category: 'videonablyudenie', subcategory: 'ip-videokamery' };
       }
-    }
-
-    // If product is a recorder mention, map to registrators
-    if (!mapping && /видеорегистрат|регистратор/i.test(txt)) {
-      if (hasHybrid || hasAnalog) mapping = { category: 'videonablyudenie', subcategory: 'gibridnye-videoregistratory' };
-      else mapping = { category: 'videonablyudenie', subcategory: 'ip-videoregistratory' };
     }
   }
   if (!mapping) mapping = normalizedCategoryMap[normalizeKey(rawKey)];

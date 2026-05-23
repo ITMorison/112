@@ -16,20 +16,33 @@ export default function CatalogPage({
   loadedChunks = 0
 }) {
   const [activeSubcategory, setActiveSubcategory] = useState('all');
+  
+  // --- НОВОЕ: Состояние для каналов ---
+  const [selectedChannels, setSelectedChannels] = useState([]);
 
-  // Determine parent category and effective subcategory from activeCategory
+  // Функция переключения каналов
+  const toggleChannel = (num) => {
+    setSelectedChannels(prev =>
+      prev.includes(num) ? prev.filter(c => c !== num) : [...prev, num]
+    );
+  };
+
+  // Сброс фильтров при смене основной категории
+  useEffect(() => {
+    setActiveSubcategory('all');
+    setSelectedChannels([]); // Сбрасываем каналы при переходе в другой раздел
+  }, [activeCategory]);
+
   const categoryContext = useMemo(() => {
     if (!MEGA_MENU_DATA || activeCategory === 'all' || !activeCategory) {
       return { parentCategory: null, effectiveSubcategory: 'all' };
     }
 
-    // Check if activeCategory is a top-level category slug in MEGA_MENU_DATA
     const topCat = MEGA_MENU_DATA.find(c => c.slug === activeCategory);
     if (topCat) {
       return { parentCategory: topCat, effectiveSubcategory: 'all' };
     }
 
-    // Check if activeCategory is a subcategory slug - find its parent
     for (const cat of MEGA_MENU_DATA) {
       if (cat.subcategories) {
         const sub = cat.subcategories.find(s => s.slug === activeCategory);
@@ -38,94 +51,75 @@ export default function CatalogPage({
         }
       }
     }
-
     return { parentCategory: null, effectiveSubcategory: 'all' };
   }, [activeCategory]);
 
-  // Sync activeSubcategory when categoryContext changes
-  useEffect(() => {
-    setActiveSubcategory(categoryContext.effectiveSubcategory);
-  }, [categoryContext.effectiveSubcategory]);
+  // --- ГЛАВНАЯ ЛОГИКА ФИЛЬТРАЦИИ ---
+  const isVideoCategory = activeCategory === 'videonablyudenie' || categoryContext.parentCategory?.slug === 'videonablyudenie';
 
-  // Get subcategories from parent category (from MEGA_MENU_DATA)
-  const currentSubcategories = categoryContext.parentCategory ? categoryContext.parentCategory.subcategories : [];
+  const currentProducts = useMemo(() => {
+    let filtered = [...PRODUCTS];
 
-  const categoriesForFilters = categoryContext.parentCategory ? [categoryContext.parentCategory] : categories || [];
-
-  const categoryProducts = useMemo(() => {
-    if (!activeCategory) {
-      return PRODUCTS;
-    }
-
-    if (categoryContext.effectiveSubcategory && categoryContext.effectiveSubcategory !== 'all') {
-      return PRODUCTS.filter((p) => p.subcategory === categoryContext.effectiveSubcategory);
-    }
-
-    if (categoryContext.parentCategory) {
-      const subcategorySlugs = categoryContext.parentCategory.subcategories?.map((s) => s.slug) || [];
-      return PRODUCTS.filter((p) =>
-        p.category === categoryContext.parentCategory.slug ||
-        subcategorySlugs.includes(p.subcategory)
+    // 1. Фильтр по поисковому запросу
+    if (searchQuery) {
+      const q = searchQuery.toLowerCase();
+      filtered = filtered.filter(p => 
+        p.title.toLowerCase().includes(q) || 
+        (p.articul && String(p.articul).toLowerCase().includes(q))
       );
     }
 
-    return PRODUCTS;
-  }, [activeCategory, categoryContext]);
+    // 2. Фильтр по категориям и подкатегориям
+    if (activeCategory !== 'all') {
+      if (categoryContext.parentCategory && activeSubcategory === 'all' && categoryContext.effectiveSubcategory === 'all') {
+        const subSlugs = categoryContext.parentCategory.subcategories.map(s => s.slug);
+        filtered = filtered.filter(p => subSlugs.includes(p.subcategory) || p.category === activeCategory);
+      } else {
+        const targetSub = activeSubcategory !== 'all' ? activeSubcategory : categoryContext.effectiveSubcategory;
+        if (targetSub !== 'all') {
+          filtered = filtered.filter(p => p.subcategory === targetSub);
+        }
+      }
+    }
 
-  const currentProducts = products.length > 0 ? products : categoryProducts;
+    // 3. Фильтр по количеству каналов только в разделе видеонаблюдения
+    if (isVideoCategory && selectedChannels.length > 0) {
+      filtered = filtered.filter(p => {
+        return selectedChannels.some(num => {
+          const hasInSpecs = p.specs?.channels && String(p.specs.channels).includes(num);
+          const hasInTitle = new RegExp(`(\\s|\\b)${num}(\\s?)(кана|CH|port)`, 'i').test(p.title);
+          return hasInSpecs || hasInTitle;
+        });
+      });
+    }
 
-  // Loading state
-  if (productsLoading) {
-    return (
-      <main className="max-w-[1240px] mx-auto px-4 py-6 md:py-8 pb-24">
-        <div className="mb-6 md:mb-8">
-          <h1 className="text-[22px] md:text-[26px] font-bold text-gray-900">
-            Каталог товаров
-          </h1>
-          <p className="text-[13px] md:text-[14px] text-gray-500 mt-1">
-            Загрузка склада... {loadedChunks > 0 && `(загружено ${(loadedChunks * 2000).toLocaleString()} товаров)`}
-          </p>
-        </div>
-        <div className="flex items-center justify-center py-20">
-          <div className="text-center">
-            <div className="inline-block animate-spin rounded-full h-12 w-12 border-4 border-indigo-600 border-t-transparent mb-4"></div>
-            <p className="text-slate-500 text-[15px]">Загрузка товаров...</p>
-          </div>
-        </div>
-      </main>
-    );
-  }
+    return filtered;
+  }, [searchQuery, activeCategory, activeSubcategory, categoryContext, isVideoCategory, selectedChannels]);
 
-  // Subcategory panel (shown when category is selected)
+  const categoriesForFilters = useMemo(() => {
+    return categoryContext.parentCategory ? [categoryContext.parentCategory] : MEGA_MENU_DATA;
+  }, [categoryContext.parentCategory]);
+
   return (
-    <main className="max-w-[1240px] mx-auto px-4 py-6 md:py-8 pb-24">
-      <div className="mb-6 md:mb-8">
-        <h1 className="text-[22px] md:text-[26px] font-bold text-gray-900">
-          Каталог товаров
-        </h1>
-        <p className="text-[13px] md:text-[14px] text-gray-500 mt-1">
-          {categories?.length || 0} разделов оборудования
-        </p>
-      </div>
-
-      {/* Subcategory filters */}
-      {currentSubcategories.length > 0 && (
-        <div className="flex flex-wrap gap-2 mb-6 animate-in fade-in slide-in-from-top-2 duration-300">
+    <div className="min-h-screen bg-white">
+      {/* Subcategories Navigation */}
+      {categoryContext.parentCategory && categoryContext.parentCategory.subcategories && (
+        <div className="max-w-7xl mx-auto px-4 py-4 flex flex-wrap gap-2 border-b border-slate-50">
           <button
             onClick={() => setActiveSubcategory('all')}
-            className={`px-4 py-1.5 rounded-full text-[13px] font-medium transition-all ${
+            className={`px-4 py-2 rounded-full text-[13px] font-medium transition-all ${
               activeSubcategory === 'all'
                 ? 'bg-indigo-600 text-white shadow-md'
-                : 'bg-white text-slate-600 hover:bg-slate-50 border border-slate-200'
+                : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
             }`}
           >
-            Все
+            Все товары
           </button>
-          {currentSubcategories.map((sub) => (
+          {categoryContext.parentCategory.subcategories.map((sub) => (
             <button
               key={sub.slug}
               onClick={() => setActiveSubcategory(sub.slug)}
-              className={`px-4 py-1.5 rounded-full text-[13px] font-medium transition-all ${
+              className={`px-4 py-2 rounded-full text-[13px] font-medium transition-all ${
                 activeSubcategory === sub.slug
                   ? 'bg-indigo-600 text-white shadow-md'
                   : 'bg-white text-slate-600 hover:bg-slate-50 border border-slate-200'
@@ -137,6 +131,7 @@ export default function CatalogPage({
         </div>
       )}
 
+      {/* Main Content Area */}
       <PopularProducts
         onAddToCart={onAddToCart}
         searchQuery={searchQuery}
@@ -144,11 +139,14 @@ export default function CatalogPage({
         activeSubcategory={activeSubcategory}
         onCategoryFilter={onCategoryFilter}
         showFilters={true}
-        products={currentProducts}
+        products={currentProducts} // Отправляем уже отфильтрованные товары
         categories={categoriesForFilters}
+        // Передаем новые пропсы для SidebarFilter
+        selectedChannels={selectedChannels}
+        toggleChannel={toggleChannel}
       />
 
-      {/* Cart button */}
+      {/* Floating Cart Button */}
       <button
         onClick={onCartClick}
         className="fixed bottom-4 right-4 z-40 bg-indigo-600 hover:bg-indigo-700 text-white p-3 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 flex items-center gap-2 group md:bottom-6 md:right-6 md:p-4"
@@ -159,10 +157,10 @@ export default function CatalogPage({
             {cartCount}
           </span>
         )}
-        <span className="hidden lg:inline text-sm font-medium group-hover:translate-x-1 transition-transform">
+        <span className="max-w-0 overflow-hidden group-hover:max-w-xs transition-all duration-500 ease-in-out whitespace-nowrap text-sm font-bold">
           Корзина
         </span>
       </button>
-    </main>
+    </div>
   );
 }
