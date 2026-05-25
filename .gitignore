@@ -29,6 +29,7 @@ migrate_catalog
 migrate_with_images
 smart_fix_images
 *.py
+.kilo/
 
 # Настройки редактора
 .vscode/
