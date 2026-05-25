@@ -12,7 +12,7 @@ import { FLOOR_CABINETS } from './data/shkafy-napolnye-servernye.js';
 
 export const CONTACT_INFO = {
   phone1: "+7 (776)630-00-44",
-  phone2: "+7 (705)443-50-65",
+  phone2: "", // Убран дублирующий номер по просьбе Александра
   email: "info@servernet.kz",
   address: "Казахстан, г. Петропавловск, ул. Чкалова, 48"
 };

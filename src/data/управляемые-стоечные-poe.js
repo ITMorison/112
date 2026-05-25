@@ -10,7 +10,7 @@ export const УПРАВЛЯЕМЫЕ_СТОЕЧНЫЕ_POE = [
     "price": 232994,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='300'><rect fill='%23f1f5f9' width='400' height='300'/><text x='200' y='150' text-anchor='middle' dominant-baseline='middle' fill='%2364748b' font-family='system-ui,sans-serif' font-size='16'>Фото скоро будет</text></svg>",
     "description": "Коммутатор, Ubiquiti, USW-16-POE, Unifi Switch, Управляемый L2, 8 портов 10/100/1000 Mbps RJ45 PoE, 802.3af/at, бюджет 42W, 8 портов 10/100/1000 Мбит/с RJ45, 2 порта SFP, Стоечный"
   },
   {
@@ -22,7 +22,7 @@ export const УПРАВЛЯЕМЫЕ_СТОЕЧНЫЕ_POE = [
     "price": 292455,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='300'><rect fill='%23f1f5f9' width='400' height='300'/><text x='200' y='150' text-anchor='middle' dominant-baseline='middle' fill='%2364748b' font-family='system-ui,sans-serif' font-size='16'>Фото скоро будет</text></svg>",
     "description": "Коммутатор, Ubiquiti, USW-24-POE, Unifi Switch, управляемый L2, 16 портов 10/100/1000 Mbps RJ45 PoE, 802.3af/at, бюджет 95W, 8 портов 10/100/1000 Мбит/с RJ45, 2 порта SFP, Стоечный"
   },
   {
@@ -34,7 +34,7 @@ export const УПРАВЛЯЕМЫЕ_СТОЕЧНЫЕ_POE = [
     "price": 316026,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='300'><rect fill='%23f1f5f9' width='400' height='300'/><text x='200' y='150' text-anchor='middle' dominant-baseline='middle' fill='%2364748b' font-family='system-ui,sans-serif' font-size='16'>Фото скоро будет</text></svg>",
     "description": "Сетевой коммутатор, Ubiquiti, UISP-S-Pro, UISP Switch, управляемый L2, 24 порта 100/100/1000 Mbps RJ-45 (LAN1–16 с пассивным PoE 27В), uplink/downlink, сенсорный ЖК-дисплей, Passive PoE, бюджет 220Вт, 4 порта SFP+ , Стоечный"
   },
   {
@@ -46,7 +46,7 @@ export const УПРАВЛЯЕМЫЕ_СТОЕЧНЫЕ_POE = [
     "price": 312534,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='300'><rect fill='%23f1f5f9' width='400' height='300'/><text x='200' y='150' text-anchor='middle' dominant-baseline='middle' fill='%2364748b' font-family='system-ui,sans-serif' font-size='16'>Фото скоро будет</text></svg>",
     "description": "Коммутатор, Ubiquiti, ES-24-250W, EdgeSwitch, Управляемый L2+, 24 порта 10/100/1000 Mbps RJ45 PoE, 802.3af/at, бюджет 250W, 2 порта Ethernet SFP, Стоечный"
   },
   {
@@ -58,7 +58,7 @@ export const УПРАВЛЯЕМЫЕ_СТОЕЧНЫЕ_POE = [
     "price": 520502,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='300'><rect fill='%23f1f5f9' width='400' height='300'/><text x='200' y='150' text-anchor='middle' dominant-baseline='middle' fill='%2364748b' font-family='system-ui,sans-serif' font-size='16'>Фото скоро будет</text></svg>",
     "description": "Коммутатор, Ubiquiti, USW-Pro-24-POE, Switch, Управляемый L3, 24GbE RJ45 (16PoE+, 8PoE++), 210Gbps SFP+, 802.3af/at/bt, бюджет 400W, 2 порта SFP+, 1.3 сенсорный LCM-дисплей, RJ45-консоль, Стоечный"
   },
   {
@@ -70,7 +70,7 @@ export const УПРАВЛЯЕМЫЕ_СТОЕЧНЫЕ_POE = [
     "price": 800735,
     "stock": 50,
     "is_available": true,
-    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='300'><rect fill='%23f1f5f9' width='400' height='300'/><text x='200' y='150' text-anchor='middle' dominant-baseline='middle' fill='%2364748b' font-family='system-ui,sans-serif' font-size='16'>Фото скоро будет</text></svg>",
     "description": "Коммутатор, Ubiquiti, USW-Pro-HD-24-PoE, Управляемый L3, 22 порта 10/100/1000/2500 Mbps RJ45 PoE++, 2 порта 1/2.5/5/10 Gbps RJ45 PoE++, 802.3af/at/bt, бюджет 600W, 4 порта SFP+, 1.3 сенсорныйLCM, Стоечный"
   },
   {
@@ -1478,4 +1478,3 @@ export const УПРАВЛЯЕМЫЕ_СТОЕЧНЫЕ_POE = [
     "description": "Коммутатор, Hikvision, DS-3E1552P-SI, Управляемый L2, 48 x Gigabit RJ45, РоЕ 802.3af/at 470W, 2 x Gigabit, 2 x SFP, Стоечный, Long Range Ports 1 to 48: up to 300 m."
   }
 ];
-

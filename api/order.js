@@ -4,7 +4,6 @@
 // Настройка в Vercel → Settings → Environment Variables:
 //   RESEND_API_KEY = re_xxxxxxxxxxxxxxxx  (получить на resend.com)
 //   NOTIFY_EMAIL   = info@servernet.kz
-   (куда слать заказы)
 //   FROM_EMAIL     = orders@resend.dev    (от кого — используй resend.dev пока не подтвердишь домен)
 
 export default async function handler(req, res) {
