@@ -1,7 +1,7 @@
 import { X, ChevronDown, ChevronUp } from 'lucide-react';
 import { useMemo, useState } from 'react';
 import { catalogStructure, categoryLabelMap } from '../../types';
-import { getProductResolution, matchesCameraType } from './filterUtils';
+import { getProductResolution, hasChannelCount, matchesCameraType } from './filterUtils';
 
 function FilterSection({ title, children, defaultOpen = false }) {
   const [isOpen, setIsOpen] = useState(defaultOpen);
@@ -31,19 +31,6 @@ function parseBrandFromTitle(title = '') {
 
   const found = brands.find((brand) => title.toLowerCase().includes(brand.toLowerCase()));
   return found || 'Другие';
-}
-
-function hasChannelInTitle(title = '', channel = '') {
-  const normalizedTitle = String(title || '').toLowerCase();
-  if (!normalizedTitle) {
-    return false;
-  }
-
-  if (normalizedTitle.includes(channel.toLowerCase())) {
-    return true;
-  }
-
-  return false;
 }
 
 export default function SidebarFilter({
@@ -143,7 +130,7 @@ export default function SidebarFilter({
     return channelOptions.map((num) => {
       const count = products.filter((product) => {
         const hasInSpecs = product.specs?.channels && String(product.specs.channels).includes(num);
-        const hasInTitle = hasChannelInTitle(product.title, num);
+        const hasInTitle = hasChannelCount(product.title, num);
         return hasInSpecs || hasInTitle;
       }).length;
 

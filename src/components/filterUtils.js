@@ -84,3 +84,50 @@ export function matchesCameraType(product = {}, cameraType = '') {
       return false;
   }
 }
+
+export function extractChannelFromTitle(title = '') {
+  const normalizedTitle = String(title || '').toLowerCase();
+  if (!normalizedTitle) {
+    return null;
+  }
+
+  const channelCandidates = [
+    /ds[-\s]*(\d{4})/i,
+    /nvr[-\s]*(\d{3,4})/i,
+    /dhi[-\s]*nvr(\d{4})/i,
+    /(\d{2})(?:кана|канал|channel)s?/i
+  ];
+
+  for (const pattern of channelCandidates) {
+    const match = normalizedTitle.match(pattern);
+    if (!match) {
+      continue;
+    }
+
+    const code = String(match[1] || '').replace(/\D/g, '');
+    if (!code) {
+      continue;
+    }
+
+    const tail = code.slice(-2);
+    if (['04', '08', '16', '32', '64'].includes(tail)) {
+      return tail.startsWith('0') ? tail.slice(1) : tail;
+    }
+
+    const raw = code.replace(/^0+/, '');
+    if (['4', '8', '16', '32', '64'].includes(raw)) {
+      return raw;
+    }
+  }
+
+  return null;
+}
+
+export function hasChannelCount(title = '', channel = '') {
+  const extracted = extractChannelFromTitle(title);
+  if (extracted) {
+    return extracted === String(channel);
+  }
+
+  return String(title || '').toLowerCase().includes(String(channel).toLowerCase());
+}

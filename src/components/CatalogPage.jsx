@@ -2,6 +2,7 @@ import { ShoppingCart } from 'lucide-react';
 import PopularProducts from './PopularProducts';
 import { useState, useMemo, useEffect } from 'react';
 import { MEGA_MENU_DATA, PRODUCTS } from '../data';
+import { hasChannelCount } from './filterUtils';
 
 export default function CatalogPage({
   searchQuery,
@@ -87,7 +88,7 @@ export default function CatalogPage({
       filtered = filtered.filter(p => {
         return selectedChannels.some(num => {
           const hasInSpecs = p.specs?.channels && String(p.specs.channels).includes(num);
-          const hasInTitle = new RegExp(`(\\s|\\b)${num}(\\s?)(кана|CH|port)`, 'i').test(p.title);
+          const hasInTitle = hasChannelCount(p.title, num);
           return hasInSpecs || hasInTitle;
         });
       });

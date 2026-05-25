@@ -248,6 +248,8 @@ export default function PopularProducts({
             products={allProducts}
             categories={categories}
             category={activeCategory}
+            selectedChannels={selectedChannels}
+            toggleChannel={toggleChannel}
           />
         </aside>
 
