@@ -1,5 +1,7 @@
 import { X, ChevronDown, ChevronUp } from 'lucide-react';
 import { useMemo, useState } from 'react';
+import { catalogStructure, categoryLabelMap } from '../../types';
+import { getProductResolution, matchesCameraType } from './filterUtils';
 
 function FilterSection({ title, children, defaultOpen = false }) {
   const [isOpen, setIsOpen] = useState(defaultOpen);
@@ -31,6 +33,19 @@ function parseBrandFromTitle(title = '') {
   return found || 'Другие';
 }
 
+function hasChannelInTitle(title = '', channel = '') {
+  const normalizedTitle = String(title || '').toLowerCase();
+  if (!normalizedTitle) {
+    return false;
+  }
+
+  if (normalizedTitle.includes(channel.toLowerCase())) {
+    return true;
+  }
+
+  return false;
+}
+
 export default function SidebarFilter({
   products = [],
   categories = [],
@@ -41,9 +56,77 @@ export default function SidebarFilter({
   onBrandChange,
   selectedChannels = [],
   toggleChannel,
+  selectedResolutions = [],
+  onResolutionChange,
+  selectedCameraTypes = [],
+  onCameraTypeChange,
   onClose
 }) {
   const channelOptions = ['4', '8', '16', '32', '64'];
+  const resolutionOptions = ['2МП', '3МП', '4МП', '5МП', '6МП', '8МП'];
+  const cameraTypeOptions = ['Купольная', 'Цилиндрическая', 'Поворотная (PTZ)', 'Wi-Fi'];
+
+  const categoryContext = useMemo(() => {
+    if (!Array.isArray(categories) || categories.length === 0) {
+      return {
+        type: 'unknown',
+        title: categoryLabelMap[category] || category || 'Категория',
+        topCategory: null,
+        subcategory: null
+      };
+    }
+
+    const topCategory = categories.find((item) => item.slug === category);
+    if (topCategory) {
+      return {
+        type: 'category',
+        title: topCategory.title,
+        topCategory,
+        subcategory: null
+      };
+    }
+
+    for (const top of categories) {
+      const subcategory = top.subcategories?.find((item) => item.slug === category);
+      if (subcategory) {
+        return {
+          type: 'subcategory',
+          title: subcategory.name || subcategory.title,
+          topCategory: top,
+          subcategory
+        };
+      }
+    }
+
+    return {
+      type: 'unknown',
+      title: categoryLabelMap[category] || category || 'Категория',
+      topCategory: null,
+      subcategory: null
+    };
+  }, [categories, category]);
+
+  const currentFilterGroups = useMemo(() => {
+    const uniqueFilters = new Set();
+
+    if (categoryContext.type === 'subcategory' && categoryContext.topCategory) {
+      const matchedCategory = catalogStructure.find((item) => item.category === categoryContext.topCategory.title);
+      const matchedSubcategory = matchedCategory?.subcategories.find((sub) => sub.slug === categoryContext.subcategory?.slug);
+
+      if (matchedSubcategory?.filters?.length) {
+        matchedSubcategory.filters.forEach((filter) => uniqueFilters.add(filter));
+      }
+    }
+
+    if (uniqueFilters.size === 0) {
+      const matchedCategory = catalogStructure.find((item) => item.category === categoryContext.title);
+      matchedCategory?.subcategories.forEach((sub) => {
+        sub.filters.forEach((filter) => uniqueFilters.add(filter));
+      });
+    }
+
+    return [...uniqueFilters];
+  }, [categoryContext]);
 
   const availableBrands = useMemo(() => {
     const brandCounts = {};
@@ -60,7 +143,7 @@ export default function SidebarFilter({
     return channelOptions.map((num) => {
       const count = products.filter((product) => {
         const hasInSpecs = product.specs?.channels && String(product.specs.channels).includes(num);
-        const hasInTitle = new RegExp(`(\\s|\\b)${num}(\\s?)(кана|CH|port)`, 'i').test(String(product.title || ''));
+        const hasInTitle = hasChannelInTitle(product.title, num);
         return hasInSpecs || hasInTitle;
       }).length;
 
@@ -68,7 +151,23 @@ export default function SidebarFilter({
     }).filter((item) => item.count > 0);
   }, [products]);
 
-  const showChannelFilter = category === 'videonablyudenie' && channelOptionsWithCounts.length > 0;
+  const resolutionOptionsWithCounts = useMemo(() => {
+    return resolutionOptions
+      .map((value) => ({
+        value,
+        count: products.filter((product) => getProductResolution(product) === value).length
+      }))
+      .filter((item) => item.count > 0);
+  }, [products]);
+
+  const cameraTypeOptionsWithCounts = useMemo(() => {
+    return cameraTypeOptions
+      .map((value) => ({
+        value,
+        count: products.filter((product) => matchesCameraType(product, value)).length
+      }))
+      .filter((item) => item.count > 0);
+  }, [products]);
 
   const toggleCategory = (slug) => {
     if (!onCategoryChange) return;
@@ -89,6 +188,72 @@ export default function SidebarFilter({
         : [...current, brand]
     );
   };
+
+  const toggleResolution = (value) => {
+    if (!onResolutionChange) return;
+
+    onResolutionChange((current = []) =>
+      current.includes(value)
+        ? current.filter((item) => item !== value)
+        : [...current, value]
+    );
+  };
+
+  const toggleCameraType = (value) => {
+    if (!onCameraTypeChange) return;
+
+    onCameraTypeChange((current = []) =>
+      current.includes(value)
+        ? current.filter((item) => item !== value)
+        : [...current, value]
+    );
+  };
+
+  const dynamicFilterGroups = useMemo(() => {
+    const groups = [];
+
+    currentFilterGroups.forEach((label) => {
+      if (label === 'Бренд') {
+        const options = availableBrands.map(([brand, count]) => ({ label: brand, value: brand, count }));
+        if (options.length > 0) {
+          groups.push({
+            title: 'Бренды',
+            options
+          });
+        }
+        return;
+      }
+
+      if (label === 'Разрешение') {
+        if (resolutionOptionsWithCounts.length > 0) {
+          groups.push({
+            title: 'Разрешение',
+            options: resolutionOptionsWithCounts
+          });
+        }
+        return;
+      }
+
+      if (label === 'Тип камеры') {
+        if (cameraTypeOptionsWithCounts.length > 0) {
+          groups.push({
+            title: 'Тип камеры',
+            options: cameraTypeOptionsWithCounts
+          });
+        }
+        return;
+      }
+
+      if (label === 'Количество каналов' && channelOptionsWithCounts.length > 0) {
+        groups.push({
+          title: 'Количество каналов',
+          options: channelOptionsWithCounts
+        });
+      }
+    });
+
+    return groups;
+  }, [availableBrands, cameraTypeOptionsWithCounts, channelOptionsWithCounts, currentFilterGroups, resolutionOptionsWithCounts]);
 
   return (
     <div className="bg-white h-full flex flex-col">
@@ -141,49 +306,54 @@ export default function SidebarFilter({
           </FilterSection>
         )}
 
-        {showChannelFilter && (
-          <FilterSection title="Количество каналов" defaultOpen={true}>
+        {dynamicFilterGroups.map((group) => (
+          <FilterSection key={group.title} title={group.title} defaultOpen={group.title === 'Количество каналов'}>
             <div className="space-y-1">
-              {channelOptionsWithCounts.map(({ num, count }) => (
-                <label key={num} className="flex items-center gap-2 cursor-pointer py-1.5 px-2 hover:bg-slate-50 rounded-lg transition-colors group">
-                  <input
-                    type="checkbox"
-                    className="w-4 h-4 rounded border-slate-300 text-indigo-600"
-                    checked={selectedChannels.includes(num)}
-                    onChange={() => toggleChannel?.(num)}
-                  />
-                  <span className="text-[13px] text-slate-600 group-hover:text-slate-900 flex-1">
-                    {num} {num === '4' ? 'канала' : 'каналов'}
-                  </span>
-                  <span className="text-[10px] text-slate-400 bg-slate-50 px-1.5 py-0.5 rounded">
-                    {count}
-                  </span>
-                </label>
-              ))}
-            </div>
-          </FilterSection>
-        )}
+              {group.options.map((option) => {
+                const optionLabel = option.label ?? option.value ?? option.num;
+                const checked =
+                  group.title === 'Бренды'
+                    ? selectedBrands.includes(optionLabel)
+                    : group.title === 'Разрешение'
+                      ? selectedResolutions.includes(optionLabel)
+                      : group.title === 'Тип камеры'
+                        ? selectedCameraTypes.includes(optionLabel)
+                        : selectedChannels.includes(optionLabel);
 
-        {availableBrands.length > 0 && (
-          <FilterSection title="Бренды" defaultOpen={false}>
-            <div className="space-y-1">
-              {availableBrands.map(([brand, count]) => (
-                <label key={brand} className="flex items-center gap-2 cursor-pointer py-1.5 px-2 hover:bg-slate-50 rounded-lg transition-colors group">
-                  <input
-                    type="checkbox"
-                    checked={selectedBrands.includes(brand)}
-                    onChange={() => toggleBrand(brand)}
-                    className="w-4 h-4 rounded border-slate-300 text-indigo-600"
-                  />
-                  <span className="text-[13px] text-slate-600 group-hover:text-slate-900 flex-1">{brand}</span>
-                  <span className="text-[10px] text-slate-400 bg-slate-50 px-1.5 py-0.5 rounded">
-                    {count}
-                  </span>
-                </label>
-              ))}
+                const onToggle =
+                  group.title === 'Бренды'
+                    ? () => toggleBrand(optionLabel)
+                    : group.title === 'Разрешение'
+                      ? () => toggleResolution(optionLabel)
+                      : group.title === 'Тип камеры'
+                        ? () => toggleCameraType(optionLabel)
+                        : () => toggleChannel?.(optionLabel);
+
+                return (
+                  <label
+                    key={optionLabel}
+                    className="flex items-center gap-2 cursor-pointer py-1.5 px-2 hover:bg-slate-50 rounded-lg transition-colors group"
+                  >
+                    <input
+                      type="checkbox"
+                      checked={checked}
+                      onChange={onToggle}
+                      className="w-4 h-4 rounded border-slate-300 text-indigo-600"
+                    />
+                    <span className="text-[13px] text-slate-600 group-hover:text-slate-900 flex-1">
+                      {group.title === 'Количество каналов' ? `${optionLabel} ${optionLabel === '4' ? 'канала' : 'каналов'}` : optionLabel}
+                    </span>
+                    {typeof option.count === 'number' && (
+                      <span className="text-[10px] text-slate-400 bg-slate-50 px-1.5 py-0.5 rounded">
+                        {option.count}
+                      </span>
+                    )}
+                  </label>
+                );
+              })}
             </div>
           </FilterSection>
-        )}
+        ))}
       </div>
 
       {onClose && (
