@@ -5,19 +5,19 @@ import { CONTACT_INFO } from '../data';
 
 const Payment = () => {
   return (
-    <div className="bg-white min-h-screen py-20 px-6 font-sans">
+    <div className="bg-white min-h-screen py-12 md:py-20 px-4 sm:px-6 font-sans">
       <div className="max-w-4xl mx-auto">
         {/* Заголовок */}
-        <div className="mb-16">
-          <h1 className="text-4xl font-light tracking-widest text-gray-900 uppercase mb-4">
+        <div className="mb-10 md:mb-16">
+          <h1 className="text-3xl md:text-4xl font-light tracking-widest text-gray-900 uppercase mb-4">
             Оплата
           </h1>
           <div className="w-12 h-0.5 bg-blue-600"></div>
         </div>
 
-        <div className="space-y-12">
+        <div className="space-y-8 md:space-y-12">
           {/* Внимание */}
-          <div className="bg-amber-50 p-6 rounded-sm flex items-start gap-4">
+          <div className="bg-amber-50 p-5 sm:p-6 rounded-sm flex items-start gap-4">
             <AlertCircle size={24} className="text-amber-600 flex-shrink-0" />
             <div>
               <p className="font-semibold text-gray-900 mb-1">Способы оплаты уточняйте у менеджера</p>
@@ -68,7 +68,7 @@ const Payment = () => {
            {/* Связь */}
            <div className="text-center text-gray-600">
              <p className="mb-2">Для уточнения деталей и выбора удобного способа свяжитесь с нами:</p>
-             <div className="flex justify-center gap-6 text-blue-600 font-semibold">
+             <div className="flex flex-col sm:flex-row justify-center gap-2 sm:gap-6 text-blue-600 font-semibold break-words">
                <a href={`tel:${CONTACT_INFO.phone1}`} className="hover:underline">{CONTACT_INFO.phone1}</a>
                <a href={`mailto:${CONTACT_INFO.email}`} className="hover:underline">{CONTACT_INFO.email}</a>
              </div>

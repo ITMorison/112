@@ -38,7 +38,7 @@ export default function ProductDetails({ onAddToCart }) {
   const specs = product.specs || {};
 
   return (
-    <div className="max-w-[1240px] mx-auto px-4 md:px-6 py-8 md:py-10">
+    <div className="max-w-[1240px] mx-auto px-3 sm:px-4 md:px-6 py-6 md:py-10">
       <button
         onClick={() => navigate('/catalog')}
         className="flex items-center gap-2 text-slate-600 hover:text-indigo-600 mb-6 md:mb-8 cursor-pointer transition-colors"
@@ -47,9 +47,9 @@ export default function ProductDetails({ onAddToCart }) {
         <span className="font-medium text-[14px]">Назад в каталог</span>
       </button>
 
-      <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12">
+      <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 lg:gap-12">
         <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-slate-100">
-<div className="aspect-square flex items-center justify-center bg-slate-50 p-8">
+<div className="aspect-square flex items-center justify-center bg-slate-50 p-5 sm:p-8">
             <img
               src={product.image}
               alt={product.title}
@@ -66,7 +66,7 @@ export default function ProductDetails({ onAddToCart }) {
             </span>
           </div>
 
-          <h1 className="text-[22px] md:text-[26px] font-bold text-slate-900 leading-tight mb-4">
+          <h1 className="text-[20px] sm:text-[22px] md:text-[26px] font-bold text-slate-900 leading-tight mb-4 break-words">
             {product.title}
           </h1>
 
@@ -84,7 +84,7 @@ export default function ProductDetails({ onAddToCart }) {
             )}
           </div>
 
-          <div className="text-[32px] md:text-[38px] font-bold text-slate-900 mb-6 tracking-tight">
+          <div className="text-[28px] sm:text-[32px] md:text-[38px] font-bold text-slate-900 mb-6 tracking-tight">
             {formatPrice(product.price)} ₸
           </div>
 
@@ -109,7 +109,7 @@ export default function ProductDetails({ onAddToCart }) {
               </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-y-3 gap-x-4">
                 {Object.entries(specs).map(([key, value]) => (
-                  <div key={key} className="flex justify-between py-2 border-b border-slate-100">
+                  <div key={key} className="flex justify-between gap-4 py-2 border-b border-slate-100 min-w-0">
                     <span className="text-[13px] text-slate-500 font-medium">
                       {key === 'accounts' ? 'Аккаунты' :
                        key === 'poe' ? 'PoE' :
@@ -128,7 +128,7 @@ export default function ProductDetails({ onAddToCart }) {
                        key === 'type' ? 'Тип' :
                        key}
                     </span>
-                    <span className="text-[13px] text-slate-800 font-semibold">{value}</span>
+                    <span className="text-[13px] text-slate-800 font-semibold text-right break-words min-w-0">{value}</span>
                   </div>
                 ))}
               </div>

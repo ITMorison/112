@@ -186,12 +186,12 @@ export default function PopularProducts({
   };
 
   return (
-    <section className="max-w-[1240px] mx-auto px-4 md:px-6 mt-8 md:mt-10 mb-10 md:mb-16">
-      <div className="flex items-center justify-between mb-5 md:mb-6">
-        <h2 className="text-[22px] md:text-[26px] font-bold text-slate-900 tracking-tight">{getHeading()}</h2>
+    <section className="max-w-[1240px] mx-auto px-3 sm:px-4 md:px-6 mt-6 md:mt-10 mb-10 md:mb-16">
+      <div className="flex items-center justify-between gap-3 mb-5 md:mb-6">
+        <h2 className="text-[20px] md:text-[26px] font-bold text-slate-900 tracking-tight min-w-0 break-words">{getHeading()}</h2>
         <button
           onClick={() => setShowMobileFilters(true)}
-          className="lg:hidden flex items-center gap-2 text-[14px] text-indigo-600 hover:text-indigo-700 cursor-pointer min-h-[44px] px-4 font-medium"
+          className="lg:hidden flex-shrink-0 flex items-center gap-2 text-[14px] text-indigo-600 hover:text-indigo-700 cursor-pointer min-h-[44px] px-3 sm:px-4 font-medium"
         >
           <SlidersHorizontal size={16} /> Фильтры
         </button>
@@ -201,7 +201,7 @@ export default function PopularProducts({
        {showMobileFilters && (
          <div className="fixed inset-0 z-50 lg:hidden">
            <div className="absolute inset-0 bg-slate-900/50 backdrop-blur-sm" onClick={() => setShowMobileFilters(false)} />
-           <div className="absolute right-0 top-0 bottom-0 w-[85%] sm:w-80 max-w-full bg-white overflow-y-auto shadow-2xl">
+           <div className="absolute right-0 top-0 bottom-0 w-[92%] sm:w-80 max-w-full bg-white overflow-y-auto shadow-2xl">
              <div className="p-5">
                <div className="flex items-center justify-between mb-5">
                  <h3 className="text-[18px] font-bold text-slate-900">Фильтры</h3>
@@ -233,7 +233,7 @@ export default function PopularProducts({
          </div>
        )}
 
-      <div className="flex gap-8">
+      <div className="flex gap-8 min-w-0">
         <aside className="hidden lg:block w-64 flex-shrink-0">
           <SidebarFilter
             selectedCategories={selectedCategories}
@@ -255,7 +255,7 @@ export default function PopularProducts({
           />
         </aside>
 
-        <div className="flex-1">
+        <div className="flex-1 min-w-0">
           {filtered.length === 0 ? (
             <div className="py-20 text-center">
               <p className="text-slate-500 text-[15px] mb-4">Товары не найдены.</p>
@@ -277,7 +277,7 @@ export default function PopularProducts({
               <p className="text-[13px] text-slate-400 mb-5 font-medium">
                 Найдено товаров: {filtered.length}
               </p>
-              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5 md:gap-6">
+              <div className="grid grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-3 sm:gap-5 md:gap-6">
                 {filtered.map((product, idx) => (
                   <ProductCard
                     key={`${product.id}-${idx}`}

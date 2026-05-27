@@ -40,16 +40,16 @@ export default function HeroSection({ onCatalogClick, onCategoryClick, onCategor
       <div className="w-full flex flex-col gap-5 md:gap-6">
         
         {/* Main Hero Banner - Static */}
-        <div className="relative rounded-2xl overflow-hidden h-60 md:h-80 cursor-pointer shadow-lg">
-          <div className={`h-full ${slide.bgColor} relative flex flex-col justify-end p-8 md:p-12`}>
+        <div className="relative rounded-2xl overflow-hidden min-h-60 md:h-80 cursor-pointer shadow-lg">
+          <div className={`min-h-60 h-full ${slide.bgColor} relative flex flex-col justify-end p-5 sm:p-7 md:p-12`}>
             
             {/* Decorative elements */}
-            <div className="absolute top-0 right-0 w-72 h-72 rounded-full bg-white/5 -translate-y-1/3 translate-x-1/3" />
-            <div className="absolute top-12 right-40 w-40 h-40 rounded-full bg-white/5" />
-            <div className="absolute bottom-0 left-0 w-48 h-48 rounded-full bg-white/3 translate-y-1/3 -translate-x-1/4" />
+            <div className="absolute top-0 right-0 w-48 h-48 md:w-72 md:h-72 rounded-full bg-white/5 -translate-y-1/3 translate-x-1/3" />
+            <div className="absolute top-12 right-20 md:right-40 w-28 h-28 md:w-40 md:h-40 rounded-full bg-white/5" />
+            <div className="absolute bottom-0 left-0 w-36 h-36 md:w-48 md:h-48 rounded-full bg-white/3 translate-y-1/3 -translate-x-1/4" />
             
             {slide.badge && (
-              <span className="absolute top-6 left-6 bg-indigo-500 text-white text-[11px] font-bold px-3 py-1.5 rounded-full tracking-wide">
+              <span className="absolute top-4 left-4 md:top-6 md:left-6 bg-indigo-500 text-white text-[11px] font-bold px-3 py-1.5 rounded-full tracking-wide">
                 {slide.badge}
               </span>
             )}
@@ -63,7 +63,7 @@ export default function HeroSection({ onCatalogClick, onCategoryClick, onCategor
               </p>
               <button 
                 onClick={handleCatalogClick} 
-                className="mt-6 md:mt-8 bg-white text-slate-900 font-semibold text-[13px] md:text-[14px] px-8 py-3 rounded-full hover:bg-white/90 transition-all duration-200 hover:scale-105"
+                className="mt-5 md:mt-8 bg-white text-slate-900 font-semibold text-[13px] md:text-[14px] px-6 sm:px-8 py-3 rounded-full hover:bg-white/90 transition-all duration-200 hover:scale-105"
               >
                 Перейти в каталог →
               </button>

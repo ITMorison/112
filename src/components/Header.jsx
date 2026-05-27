@@ -76,15 +76,15 @@ export default function Header({
 
       {/* ── Main Nav ── */}
       <div className="bg-white shadow-sm">
-        <div className="max-w-[1240px] mx-auto px-4 md:px-6 flex items-center gap-2 md:gap-4 h-16 md:h-[72px]">
+        <div className="max-w-[1240px] mx-auto px-3 sm:px-4 md:px-6 flex items-center gap-2 md:gap-4 min-h-16 md:h-[72px] py-2 md:py-0">
           {/* Logo */}
           <Link
             to="/"
             onClick={() => { onCategoryFilter && onCategoryFilter(null); onSearchChange && onSearchChange(''); }}
-            className="flex-shrink-0 flex items-center gap-1 mr-2 md:mr-4 cursor-pointer"
+            className="flex-shrink-0 flex items-center gap-1 md:mr-4 cursor-pointer"
           >
-            <span className="text-base md:text-2xl font-bold text-slate-900 tracking-tight">Server</span>
-            <span className="text-base md:text-2xl font-bold text-indigo-600">Net</span>
+            <span className="text-[15px] sm:text-base md:text-2xl font-bold text-slate-900 tracking-tight">Server</span>
+            <span className="text-[15px] sm:text-base md:text-2xl font-bold text-indigo-600">Net</span>
           </Link>
 
           {/* Navigation Links */}
@@ -121,7 +121,7 @@ export default function Header({
           {/* Mobile: Hamburger menu */}
           <button
             onClick={() => setCatalogOpen((prev) => !prev)}
-            className="md:hidden flex-shrink-0 flex items-center justify-center w-10 h-10 rounded-xl bg-slate-100 hover:bg-slate-200 transition-colors cursor-pointer"
+            className="md:hidden flex-shrink-0 flex items-center justify-center w-10 h-10 p-0 rounded-xl bg-slate-100 hover:bg-slate-200 transition-colors cursor-pointer"
           >
             <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
               <line x1="3" y1="12" x2="21" y2="12"/>
@@ -131,14 +131,14 @@ export default function Header({
           </button>
 
           {/* Search */}
-          <div className="flex-1 flex">
-            <div className="relative flex-1">
+          <div className="flex-1 flex min-w-0">
+            <div className="relative flex-1 min-w-0">
                <input
                  type="text"
                  value={searchQuery}
                  onChange={handleSearchChange}
                  placeholder="Поиск товаров..."
-                 className="w-full border border-slate-200 rounded-l-xl px-3 py-2 pr-9 text-[13px] focus:outline-none focus:border-indigo-500 focus:ring-2 focus:ring-indigo-100 transition-all md:px-4 md:py-2.5 md:pr-10 md:text-[14px]"
+                 className="w-full min-w-0 border border-slate-200 rounded-l-xl px-3 py-2 pr-8 text-[13px] focus:outline-none focus:border-indigo-500 focus:ring-2 focus:ring-indigo-100 transition-all md:px-4 md:py-2.5 md:pr-10 md:text-[14px]"
                />
               {searchQuery && (
                 <button
@@ -157,7 +157,7 @@ export default function Header({
           {/* Cart */}
           <button
             onClick={onCartClick}
-            className="flex-shrink-0 flex flex-col items-center text-slate-600 hover:text-indigo-600 transition-colors ml-2 cursor-pointer group"
+            className="flex-shrink-0 flex flex-col items-center text-slate-600 hover:text-indigo-600 transition-colors cursor-pointer group p-0 sm:p-1"
           >
              <div className="relative">
                <ShoppingCart size={18} className="group-hover:scale-110 transition-transform duration-200 md:size-8" />
@@ -180,8 +180,8 @@ export default function Header({
 
         {/* ── Service navigation ── */}
         <div className="bg-white border-t border-slate-100">
-          <div className="max-w-[1240px] mx-auto px-4">
-            <nav className="flex items-center">
+          <div className="max-w-[1240px] mx-auto px-3 sm:px-4 overflow-x-auto category-nav">
+            <nav className="flex items-center min-w-max md:min-w-0">
               {[ 
                 { label: 'Видеонаблюдение', slug: 'sistemy-videonablyudeniya' },
                 { label: 'Контроль доступа', slug: 'sistemy-kontrolya-dostupa' },
@@ -195,7 +195,7 @@ export default function Header({
                     onCategoryFilter && onCategoryFilter(slug); 
                     onSearchChange && onSearchChange(''); 
                   }}
-                  className="flex-1 text-center text-[14px] md:text-[15px] font-bold text-slate-800 hover:text-indigo-600 transition-colors py-3"
+                  className="shrink-0 md:flex-1 text-center text-[12px] sm:text-[13px] md:text-[15px] font-bold text-slate-800 hover:text-indigo-600 transition-colors py-3 px-3 md:px-0 whitespace-nowrap"
                 >
                   {label}
                 </Link>

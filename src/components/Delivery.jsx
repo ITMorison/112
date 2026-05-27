@@ -4,17 +4,17 @@ import { Link } from 'react-router-dom';
 
 const Delivery = () => {
   return (
-    <div className="bg-white min-h-screen py-20 px-6 font-sans">
+    <div className="bg-white min-h-screen py-12 md:py-20 px-4 sm:px-6 font-sans">
       <div className="max-w-4xl mx-auto">
         {/* Заголовок */}
-        <div className="mb-16">
-          <h1 className="text-4xl font-light tracking-widest text-gray-900 uppercase mb-4">
+        <div className="mb-10 md:mb-16">
+          <h1 className="text-3xl md:text-4xl font-light tracking-widest text-gray-900 uppercase mb-4">
             Доставка
           </h1>
           <div className="w-12 h-0.5 bg-blue-600"></div>
         </div>
 
-        <div className="space-y-12">
+        <div className="space-y-8 md:space-y-12">
           {/* Описание */}
           <p className="text-[16px] text-gray-600 leading-relaxed">
             Мы сотрудничаем с проверенными транспортными компаниями, чтобы обеспечить быструю и надёжную доставку товаров по всей Казахстану. Стоимость и сроки рассчитываются индивидуально в зависимости от вашего местоположения и объёма заказа.
@@ -22,7 +22,7 @@ const Delivery = () => {
 
           {/* Компании */}
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-            <div className="bg-gray-50 p-8 rounded-sm">
+            <div className="bg-gray-50 p-5 sm:p-8 rounded-sm">
               <div className="flex items-center gap-4 mb-4">
                 <Truck size={32} className="text-blue-600" />
                 <h2 className="text-2xl font-bold text-gray-900">Avis</h2>
@@ -32,7 +32,7 @@ const Delivery = () => {
               </p>
             </div>
 
-            <div className="bg-gray-50 p-8 rounded-sm">
+            <div className="bg-gray-50 p-5 sm:p-8 rounded-sm">
               <div className="flex items-center gap-4 mb-4">
                 <Truck size={32} className="text-blue-600" />
                 <h2 className="text-2xl font-bold text-gray-900">Jet Logistic</h2>
@@ -72,7 +72,7 @@ const Delivery = () => {
           </div>
 
 {/* Контакты для уточнения */}
-            <div className="bg-blue-50 p-6 rounded-sm flex items-start gap-4">
+            <div className="bg-blue-50 p-5 sm:p-6 rounded-sm flex items-start gap-4">
               <Clock size={24} className="text-blue-600 flex-shrink-0 mt-1" />
               <div>
                 <p className="font-semibold text-gray-900 mb-1">Уточните детали у менеджера</p>

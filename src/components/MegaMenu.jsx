@@ -33,15 +33,15 @@ export default function MegaMenu({ isOpen, onClose, onCategoryFilter }) {
       {/* Mega Menu panel */}
       <div
         ref={menuRef}
-        className={`absolute left-0 right-0 bg-white z-50 shadow-2xl border-t border-slate-100
+        className={`absolute left-0 right-0 bg-white z-50 shadow-2xl border-t border-slate-100 max-h-[calc(100vh-64px)] overflow-y-auto
           transition-all duration-300 origin-top
           ${isOpen
             ? 'opacity-100 translate-y-0 pointer-events-auto'
             : 'opacity-0 -translate-y-3 pointer-events-none'}`}
       >
-        <div className="max-w-[1240px] mx-auto px-8 py-8">
+        <div className="max-w-[1240px] mx-auto px-4 sm:px-6 lg:px-8 py-5 md:py-8">
           {/* Grid: 5 columns for categories */}
-          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-x-10 gap-y-8">
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-x-6 lg:gap-x-10 gap-y-5 md:gap-y-8">
             {MEGA_MENU_DATA.map((category) => (
             <div key={category.id} className="min-w-0">
 {/* Category header - bold */}
@@ -88,7 +88,7 @@ export default function MegaMenu({ isOpen, onClose, onCategoryFilter }) {
           </div>
 
           {/* Bottom promo strip */}
-          <div className="mt-8 pt-6 border-t border-slate-100 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
+          <div className="mt-6 md:mt-8 pt-5 md:pt-6 border-t border-slate-100 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-3 md:gap-4">
             <div className="flex items-center gap-3 bg-indigo-50 rounded-xl px-4 py-3 cursor-pointer hover:bg-indigo-100 transition-colors group"
               onClick={onClose}>
               <span className="text-2xl">🚀</span>

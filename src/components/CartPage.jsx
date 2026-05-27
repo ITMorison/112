@@ -202,22 +202,22 @@ export default function CartPage({ cartItems, onUpdateQty, onRemove, onClear, on
         </div>
       </div>
 
-      <div className="max-w-5xl mx-auto px-4 py-6 md:py-10">
-        <div className="grid grid-cols-1 lg:grid-cols-12 gap-8">
+      <div className="max-w-5xl mx-auto px-3 sm:px-4 py-5 md:py-10">
+        <div className="grid grid-cols-1 lg:grid-cols-12 gap-5 lg:gap-8">
           
           {/* Main Content */}
           <div className="lg:col-span-8 space-y-6">
             {step === 'cart' ? (
               <div className="bg-white rounded-2xl shadow-sm overflow-hidden border border-slate-100">
                 {cartItems.map((item) => (
-                  <div key={item.id} className="p-4 md:p-6 border-b border-slate-50 last:border-0 flex gap-4 md:gap-6">
-                    <div className="w-20 h-20 md:w-28 md:h-28 bg-slate-50 rounded-xl overflow-hidden flex-shrink-0 border border-slate-100">
+                  <div key={item.id} className="p-3 sm:p-4 md:p-6 border-b border-slate-50 last:border-0 flex gap-3 md:gap-6 min-w-0">
+                    <div className="w-[72px] h-[72px] sm:w-20 sm:h-20 md:w-28 md:h-28 bg-slate-50 rounded-xl overflow-hidden flex-shrink-0 border border-slate-100">
                       <img src={getCartItemImage(item)} alt={item.title} className="w-full h-full object-contain p-2" />
                     </div>
-                    <div className="flex-1 flex flex-col">
-                      <h3 className="text-[14px] md:text-[16px] font-semibold text-slate-900 line-clamp-2 mb-1">{item.title}</h3>
-                      <p className="text-[12px] text-slate-400 mb-3">Арт. {item.articul}</p>
-                      <div className="mt-auto flex items-center justify-between">
+                    <div className="flex-1 flex flex-col min-w-0">
+                      <h3 className="text-[13px] md:text-[16px] font-semibold text-slate-900 line-clamp-3 sm:line-clamp-2 mb-1 break-words">{item.title}</h3>
+                      <p className="text-[11px] sm:text-[12px] text-slate-400 mb-3 truncate">Арт. {item.articul}</p>
+                      <div className="mt-auto flex flex-col sm:flex-row sm:items-center justify-between gap-3">
                         <div className="flex items-center gap-1 bg-slate-50 rounded-lg p-1 border border-slate-100">
                           <button onClick={() => onUpdateQty(item.id, item.qty - 1)} className="p-1.5 hover:bg-white hover:shadow-sm rounded-md transition-all text-slate-600 disabled:opacity-30" disabled={item.qty <= 1}>
                             <Minus size={14} />
@@ -228,7 +228,7 @@ export default function CartPage({ cartItems, onUpdateQty, onRemove, onClear, on
                           </button>
                         </div>
                         <div className="text-right">
-                          <p className="text-[16px] font-bold text-slate-900">{formatPrice(item.price * item.qty)}</p>
+                          <p className="text-[15px] sm:text-[16px] font-bold text-slate-900">{formatPrice(item.price * item.qty)}</p>
                           <button onClick={() => onRemove(item.id)} className="text-[12px] text-red-400 hover:text-red-500 font-medium mt-1">Удалить</button>
                         </div>
                       </div>
@@ -289,7 +289,7 @@ export default function CartPage({ cartItems, onUpdateQty, onRemove, onClear, on
 
           {/* Sidebar - Summary */}
           <div className="lg:col-span-4">
-            <div className="bg-white rounded-2xl p-6 shadow-sm border border-slate-100 sticky top-24">
+            <div className="bg-white rounded-2xl p-5 sm:p-6 shadow-sm border border-slate-100 lg:sticky lg:top-24">
               <h2 className="text-[18px] font-bold text-slate-900 mb-6">Ваш заказ</h2>
               <div className="space-y-3 mb-6">
                 <div className="flex justify-between text-[14px]">
@@ -303,9 +303,9 @@ export default function CartPage({ cartItems, onUpdateQty, onRemove, onClear, on
                   </span>
                 </div>
               </div>
-              <div className="border-t border-slate-100 pt-4 flex justify-between items-center mb-8">
+              <div className="border-t border-slate-100 pt-4 flex justify-between items-center gap-3 mb-8">
                 <span className="text-[16px] font-bold text-slate-900">Итого</span>
-                <span className="text-[24px] font-bold text-indigo-600">{formatPrice(total)}</span>
+                <span className="text-[22px] sm:text-[24px] font-bold text-indigo-600 text-right">{formatPrice(total)}</span>
               </div>
 
               {step === 'cart' ? (
