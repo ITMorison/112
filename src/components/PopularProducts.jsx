@@ -1,9 +1,9 @@
-import { useState, useMemo, useEffect } from 'react';
+import { useState, useMemo, useEffect, useCallback } from 'react';
 import ProductCard from './ProductCard';
 import SidebarFilter from './SidebarFilter';
 import { PRODUCTS, MENU_SLUG_TO_PRODUCT_MAP } from '../data';
 import { SlidersHorizontal, X } from 'lucide-react';
-import { getProductBrand, getProductResolution, matchesCameraType } from './filterUtils';
+import { productMatchesFilter } from './filterUtils';
 
 export default function PopularProducts({
   onAddToCart,
@@ -11,19 +11,13 @@ export default function PopularProducts({
   activeCategory = null,
   activeSubcategory = 'all',
   products = [],
-  selectedChannels, // <--- Добавь это
-  toggleChannel,       // <--- Добавь это
   categories = []
 }) {
     const [showMobileFilters, setShowMobileFilters] = useState(false);
-    const [selectedBrands, setSelectedBrands] = useState([]);
     const [poeOnly, setPoeOnly] = useState(false);
     const [availableOnly, setAvailableOnly] = useState(false);
     const [priceRange, setPriceRange] = useState([0, 1000000]);
-    // Resolution filter for video surveillance
-    const [selectedResolutions, setSelectedResolutions] = useState([]);
-    // Camera type filter for video surveillance
-    const [selectedCameraTypes, setSelectedCameraTypes] = useState([]);
+    const [selectedFilters, setSelectedFilters] = useState({});
 
    const allProducts = products.length > 0 ? products : PRODUCTS;
 
@@ -38,13 +32,9 @@ export default function PopularProducts({
      }
    }, [hasPoeProducts, poeOnly]);
 
-   // Reset video-specific filters when active category changes to non-video
    useEffect(() => {
-     if (activeCategory !== 'videonablyudenie') {
-       setSelectedResolutions([]);
-       setSelectedCameraTypes([]);
-     }
-   }, [activeCategory]);
+     setSelectedFilters({});
+   }, [activeCategory, activeSubcategory]);
 
    // Filter state - resolve menu slug to actual product category/subcategory
    const resolvedCategoryFilters = useMemo(() => {
@@ -72,18 +62,51 @@ export default function PopularProducts({
      setSelectedCategories(resolvedCategoryFilters);
    }, [resolvedCategoryFilters]);
 
+   const handleFilterToggle = (key, value) => {
+     setSelectedFilters((current) => {
+       const values = current[key] || [];
+       const nextValues = values.includes(value)
+         ? values.filter((item) => item !== value)
+         : [...values, value];
+
+       const next = { ...current };
+       if (nextValues.length > 0) {
+         next[key] = nextValues;
+       } else {
+         delete next[key];
+       }
+       return next;
+     });
+   };
+
+   const getEffectiveCategoryFilters = useCallback((filters) => {
+     const selected = new Set(filters);
+     const childSlugs = new Set();
+     const parentSlugs = new Set();
+
+     categories.forEach((cat) => {
+       const selectedChildren = cat.subcategories?.filter((sub) => selected.has(sub.slug)) || [];
+       if (selectedChildren.length > 0) {
+         parentSlugs.add(cat.slug);
+         selectedChildren.forEach((sub) => childSlugs.add(sub.slug));
+       }
+     });
+
+     if (childSlugs.size === 0) return filters;
+     return filters.filter((slug) => !parentSlugs.has(slug));
+   }, [categories]);
+
      // Основная логика фильтрации
      const filtered = useMemo(() => {
        // Если нет активных фильтров и нет поиска, показываем все товары
        const noCategoryOrSearch = !activeCategory && !searchQuery.trim();
        const noSubcategory = !activeSubcategory || activeSubcategory === 'all';
-       const noBrands = selectedBrands.length === 0;
        const noPoe = !poeOnly;
        const noAvailable = !availableOnly;
        const noPrice = priceRange[0] <= 0 && priceRange[1] >= 1000000;
-       const noResolutions = selectedResolutions.length === 0;
+       const noDynamicFilters = Object.keys(selectedFilters).length === 0;
 
-       if (noCategoryOrSearch && noSubcategory && noBrands && noPoe && noAvailable && noPrice && noResolutions) {
+       if (noCategoryOrSearch && noSubcategory && noPoe && noAvailable && noPrice && noDynamicFilters) {
          return allProducts;
        }
 
@@ -98,7 +121,7 @@ export default function PopularProducts({
 
        // 2. Фильтр по основным категориям (Видам) и подкатегориям (через selectedCategories)
        // Если selectedCategories пуст, но activeCategory установлен, используем resolvedCategoryFilters
-       const categoriesToFilter = selectedCategories.length > 0 ? selectedCategories : resolvedCategoryFilters;
+       const categoriesToFilter = getEffectiveCategoryFilters(selectedCategories.length > 0 ? selectedCategories : resolvedCategoryFilters);
        if (categoriesToFilter.length > 0) {
          result = result.filter((p) => 
            categoriesToFilter.includes(p.category) || 
@@ -112,12 +135,7 @@ export default function PopularProducts({
          result = result.filter((p) => p.subcategory === resolvedSubcategory);
        }
 
-       // 4. Фильтр по брендам
-       if (selectedBrands.length > 0) {
-         result = result.filter((p) => selectedBrands.includes(getProductBrand(p)));
-       }
-
-       // 5. Фильтр по цене
+       // 4. Фильтр по цене
        if (!(priceRange[0] <= 0 && priceRange[1] >= 1000000)) {
          result = result.filter((p) => {
            const price = p.price || 0;
@@ -125,7 +143,7 @@ export default function PopularProducts({
          });
        }
 
-       // 6. PoE фильтр
+       // 5. PoE фильтр
        if (poeOnly) {
          result = result.filter((p) => {
            if (p.specs?.poe === 'Да' || p.specs?.poeOut === 'Да' || p.specs?.poe === true) return true;
@@ -133,23 +151,17 @@ export default function PopularProducts({
          });
        }
 
-       // 7. Фильтр доступности
+       // 6. Фильтр доступности
        if (availableOnly) {
          result = result.filter((p) => p.is_available === true);
        }
 
-        // 8. Фильтр по разрешению (только для видеонаблюдения)
-        if (selectedResolutions.length > 0 && activeCategory === 'videonablyudenie') {
-          result = result.filter((p) => selectedResolutions.includes(getProductResolution(p)));
-        }
-
-        // 9. Фильтр по типу камеры (только для видеонаблюдения)
-        if (selectedCameraTypes.length > 0 && activeCategory === 'videonablyudenie') {
-          result = result.filter((p) => selectedCameraTypes.some(type => matchesCameraType(p, type)));
-        }
+        Object.entries(selectedFilters).forEach(([key, values]) => {
+          result = result.filter((p) => productMatchesFilter(p, key, values));
+        });
 
         return result;
-     }, [allProducts, searchQuery, selectedCategories, resolvedSubcategory, selectedBrands, poeOnly, availableOnly, priceRange, activeCategory, resolvedCategoryFilters, selectedResolutions, selectedCameraTypes, activeSubcategory]);
+     }, [allProducts, searchQuery, selectedCategories, resolvedSubcategory, poeOnly, availableOnly, priceRange, selectedFilters, resolvedCategoryFilters, activeCategory, activeSubcategory, getEffectiveCategoryFilters]);
 
   // Heading logic
   const getHeading = () => {
@@ -200,12 +212,8 @@ export default function PopularProducts({
                <SidebarFilter
                  selectedCategories={selectedCategories}
                  onCategoryChange={setSelectedCategories}
-                 selectedBrands={selectedBrands}
-                 onBrandChange={setSelectedBrands}
-                 selectedResolutions={selectedResolutions}
-                 onResolutionChange={setSelectedResolutions}
-                 selectedCameraTypes={selectedCameraTypes}
-                 onCameraTypeChange={setSelectedCameraTypes}
+                 selectedFilters={selectedFilters}
+                 onFilterToggle={handleFilterToggle}
                  minPrice={0}
                  maxPrice={1000000}
                  priceRange={priceRange}
@@ -217,8 +225,7 @@ export default function PopularProducts({
                  products={allProducts}
                  categories={categories}
                  category={activeCategory}
-                 selectedChannels={selectedChannels}
-                 toggleChannel={toggleChannel}
+                 activeSubcategory={activeSubcategory}
                  onClose={() => setShowMobileFilters(false)}
                />
              </div>
@@ -231,12 +238,8 @@ export default function PopularProducts({
           <SidebarFilter
             selectedCategories={selectedCategories}
             onCategoryChange={setSelectedCategories}
-            selectedBrands={selectedBrands}
-            onBrandChange={setSelectedBrands}
-            selectedResolutions={selectedResolutions}
-            onResolutionChange={setSelectedResolutions}
-            selectedCameraTypes={selectedCameraTypes}
-            onCameraTypeChange={setSelectedCameraTypes}
+            selectedFilters={selectedFilters}
+            onFilterToggle={handleFilterToggle}
             minPrice={0}
             maxPrice={1000000}
             priceRange={priceRange}
@@ -248,8 +251,7 @@ export default function PopularProducts({
             products={allProducts}
             categories={categories}
             category={activeCategory}
-            selectedChannels={selectedChannels}
-            toggleChannel={toggleChannel}
+            activeSubcategory={activeSubcategory}
           />
         </aside>
 
@@ -260,9 +262,7 @@ export default function PopularProducts({
               <button
                 onClick={() => {
                   setSelectedCategories([]);
-                  setSelectedBrands([]);
-                  setSelectedResolutions([]);
-                  setSelectedCameraTypes([]);
+                  setSelectedFilters({});
                   setPriceRange([0, 1000000]);
                   setPoeOnly(false);
                   setAvailableOnly(false);
