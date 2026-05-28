@@ -749,6 +749,8 @@ export const MENU_SLUG_TO_PRODUCT_MAP = {
   "sistemy-kontrolya-dostupa": { category: "sistemy-kontrolya-dostupa" },
   "ip-telefony": { category: "ip-telefony" },
   "pozharnaya-signalizaciya": { category: "pozharnaya-signalizaciya" },
+  "sistemy-videonablyudeniya": { category: "videonablyudenie" },
+  "ohrannye-i-pozharnye-sistemy": { category: "pozharnaya-signalizaciya" },
   "setevoe-oborudovanie": { category: "setevoe-oborudovanie" },
   "passivnoe-setevoe": { category: "passivnoe-setevoe" },
   "istochniki-besperebojnogo-pitaniya": { category: "istochniki-besperebojnogo-pitaniya" },

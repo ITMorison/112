@@ -183,10 +183,10 @@ export default function Header({
           <div className="max-w-[1240px] mx-auto px-3 sm:px-4 overflow-x-auto category-nav">
             <nav className="flex items-center min-w-max md:min-w-0">
               {[ 
-                { label: 'Видеонаблюдение', slug: 'sistemy-videonablyudeniya' },
+                { label: 'Видеонаблюдение', slug: 'videonablyudenie' },
                 { label: 'Контроль доступа', slug: 'sistemy-kontrolya-dostupa' },
                 { label: 'АТС и телефония', slug: 'ip-telefony' },
-                { label: 'Пожарная сигнализация', slug: 'ohrannye-i-pozharnye-sistemy' }
+                { label: 'Пожарная сигнализация', slug: 'pozharnaya-signalizaciya' }
               ].map(({ label, slug }) => (
                 <Link
                   to="/catalog"
