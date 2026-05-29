@@ -1,5 +1,6 @@
 import React from 'react';
-import { Phone, Mail, MapPin, MessageCircle, Instagram } from 'lucide-react';
+import { Link } from 'react-router-dom';
+import { MapPin, MessageCircle, Instagram } from 'lucide-react';
 import { CONTACT_INFO } from '../data';
 
 const formatTel = (phone) => phone?.replace(/[^0-9+]/g, '');
@@ -45,12 +46,12 @@ const Contacts = ({ contactInfo }) => {
              <div className="mb-8">
                <p className="text-xs tracking-widest text-gray-400 uppercase mb-4">Навигация</p>
                <div className="space-y-2">
-                 <a href="/delivery" className="block text-gray-600 hover:text-blue-600 transition-colors">
+                 <Link to="/delivery" className="block text-gray-600 hover:text-blue-600 transition-colors">
                    Доставка
-                 </a>
-                 <a href="/payment" className="block text-gray-600 hover:text-blue-600 transition-colors">
+                 </Link>
+                 <Link to="/payment" className="block text-gray-600 hover:text-blue-600 transition-colors">
                    Оплата
-                 </a>
+                 </Link>
                </div>
              </div>
 

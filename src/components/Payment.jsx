@@ -3,6 +3,8 @@ import { CreditCard, AlertCircle, Phone, Mail } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { CONTACT_INFO } from '../data';
 
+const formatTel = (phone) => phone?.replace(/[^0-9+]/g, '');
+
 const Payment = ({ contactInfo }) => {
   const info = contactInfo || CONTACT_INFO;
 
@@ -71,9 +73,9 @@ const Payment = ({ contactInfo }) => {
            <div className="text-center text-gray-600">
              <p className="mb-2">Для уточнения деталей и выбора удобного способа свяжитесь с нами:</p>
              <div className="flex flex-col sm:flex-row justify-center gap-2 sm:gap-6 text-blue-600 font-semibold break-words">
-               <a href={`tel:${info.phone1}`} className="hover:underline">{info.phone1}</a>
+               <a href={`tel:${formatTel(info.phone1)}`} className="hover:underline">{info.phone1}</a>
                {info.phone2 && (
-                 <a href={`tel:${info.phone2}`} className="hover:underline">{info.phone2}</a>
+                 <a href={`tel:${formatTel(info.phone2)}`} className="hover:underline">{info.phone2}</a>
                )}
                <a href={`mailto:${info.email}`} className="hover:underline">{info.email}</a>
              </div>

@@ -24,11 +24,19 @@ export default function App() {
   const [activeCategory, setActiveCategory] = useState(null);
   const [cartOpen, setCartOpen] = useState(false);
    const [contactInfo, setContactInfo] = useState(() => {
-     const initialInfo = { ...DEFAULT_CONTACT_INFO, phone2: '+7 (705) 443-50-65' };
+     const defaultPhone2 = '+7 (705) 443-50-65';
+     const initialInfo = { ...DEFAULT_CONTACT_INFO, phone2: defaultPhone2 };
      const saved = localStorage.getItem('contact_info');
      if (saved) {
        try {
-         return { ...initialInfo, ...JSON.parse(saved) };
+         const parsed = JSON.parse(saved);
+         // Если в сохраненных данных нет второго номера или он пустой, 
+         // принудительно берем номер из настроек по умолчанию
+         return { 
+           ...initialInfo, 
+           ...parsed, 
+           phone2: parsed.phone2 || defaultPhone2 
+         };
        } catch (e) {
          console.error('Failed to parse saved contact info', e);
          return initialInfo;
@@ -36,7 +44,6 @@ export default function App() {
      }
      return initialInfo;
    });
-   const [isRoutesReady, setIsRoutesReady] = useState(false);
 
     const navigate = useNavigate();
     const location = useLocation();
@@ -51,11 +58,6 @@ export default function App() {
           console.error('Failed to parse cart from localStorage', e);
         }
       }
-    }, []);
-
-    // Mark routes as ready after initial load
-    useEffect(() => {
-      setIsRoutesReady(true);
     }, []);
 
     // Auto-save cart to localStorage on changes

@@ -1,18 +1,13 @@
 import { Link } from 'react-router-dom';
-import { MapPin, Phone, Mail, Clock, X } from 'lucide-react';
-import { PRODUCTS } from '../data';
+import { MapPin, Phone, Mail, Clock } from 'lucide-react';
 
 export default function Footer({ categories = [], contactInfo = {}, onCategoryFilter, activeCategory }) {
+  const formatTel = (phone) => phone?.replace(/[^0-9+]/g, '');
+
   const handleCatalogClick = (slug) => {
     if (onCategoryFilter) {
       onCategoryFilter(slug);
     }
-  };
-
-  // Count products per top-level category (excluding radio-equipment)
-  const getCount = (slug) => {
-    if (slug === 'radio-equipment') return 0;
-    return PRODUCTS.filter(p => p.category === slug).length;
   };
 
   return (
@@ -61,14 +56,14 @@ export default function Footer({ categories = [], contactInfo = {}, onCategoryFi
             </p>
             <p className="flex items-center gap-2 text-[12px] md:text-[13px] text-slate-400">
               <Phone size={14} className="flex-shrink-0 text-indigo-400" />
-              <a href={`tel:${contactInfo.phone1}`} className="hover:underline text-[12px] md:text-[13px] text-slate-400">
+              <a href={`tel:${formatTel(contactInfo.phone1)}`} className="hover:underline text-[12px] md:text-[13px] text-slate-400">
                 {contactInfo.phone1}
               </a>
             </p>
             {contactInfo.phone2 && (
               <p className="flex items-center gap-2 text-[12px] md:text-[13px] text-slate-400">
                 <Phone size={14} className="flex-shrink-0 text-indigo-400" />
-                <a href={`tel:${contactInfo.phone2}`} className="hover:underline text-[12px] md:text-[13px] text-slate-400">
+                <a href={`tel:${formatTel(contactInfo.phone2)}`} className="hover:underline text-[12px] md:text-[13px] text-slate-400">
                   {contactInfo.phone2}
                 </a>
               </p>
