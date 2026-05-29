@@ -30,6 +30,15 @@ export default function HeroSection({ onCatalogClick, onCategoryClick, onCategor
   const handleCategoryClick = (slug) => {
     if (onCategoryClick) {
       onCategoryClick(slug);
+      return;
+    }
+
+    if (onCategoryFilter) {
+      onCategoryFilter(slug);
+    }
+
+    if (onCatalogClick) {
+      onCatalogClick();
     }
   };
 

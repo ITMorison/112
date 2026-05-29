@@ -3,7 +3,9 @@ import { CreditCard, AlertCircle, Phone, Mail } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { CONTACT_INFO } from '../data';
 
-const Payment = () => {
+const Payment = ({ contactInfo }) => {
+  const info = contactInfo || CONTACT_INFO;
+
   return (
     <div className="bg-white min-h-screen py-12 md:py-20 px-4 sm:px-6 font-sans">
       <div className="max-w-4xl mx-auto">
@@ -69,8 +71,11 @@ const Payment = () => {
            <div className="text-center text-gray-600">
              <p className="mb-2">Для уточнения деталей и выбора удобного способа свяжитесь с нами:</p>
              <div className="flex flex-col sm:flex-row justify-center gap-2 sm:gap-6 text-blue-600 font-semibold break-words">
-               <a href={`tel:${CONTACT_INFO.phone1}`} className="hover:underline">{CONTACT_INFO.phone1}</a>
-               <a href={`mailto:${CONTACT_INFO.email}`} className="hover:underline">{CONTACT_INFO.email}</a>
+               <a href={`tel:${info.phone1}`} className="hover:underline">{info.phone1}</a>
+               {info.phone2 && (
+                 <a href={`tel:${info.phone2}`} className="hover:underline">{info.phone2}</a>
+               )}
+               <a href={`mailto:${info.email}`} className="hover:underline">{info.email}</a>
              </div>
            </div>
            

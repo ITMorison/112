@@ -2,7 +2,11 @@ import React from 'react';
 import { Phone, Mail, MapPin, MessageCircle, Instagram } from 'lucide-react';
 import { CONTACT_INFO } from '../data';
 
-const Contacts = () => {
+const formatTel = (phone) => phone?.replace(/[^0-9+]/g, '');
+
+const Contacts = ({ contactInfo }) => {
+  const info = contactInfo || CONTACT_INFO;
+
   return (
     <div className="bg-white min-h-screen py-12 md:py-20 px-4 sm:px-6 font-sans">
       <div className="max-w-6xl mx-auto">
@@ -20,16 +24,21 @@ const Contacts = () => {
             <div>
               <p className="text-xs tracking-widest text-gray-400 uppercase mb-6">Телефоны</p>
               <div className="space-y-4">
-<a href="tel:+77766300044" className="block text-2xl sm:text-3xl font-normal text-gray-800 hover:text-blue-600 transition-colors break-words">
-                   +7 (776) 630-00-44
-                 </a>
+                <a href={`tel:${formatTel(info.phone1)}`} className="block text-2xl sm:text-3xl font-normal text-gray-800 hover:text-blue-600 transition-colors">
+                  {info.phone1}
+                </a>
+                {info.phone2 && (
+                  <a href={`tel:${formatTel(info.phone2)}`} className="block text-2xl sm:text-3xl font-normal text-gray-800 hover:text-blue-600 transition-colors">
+                    {info.phone2}
+                  </a>
+                )}
               </div>
             </div>
 
             <div>
                <p className="text-xs tracking-widest text-gray-400 uppercase mb-4">Электронная почта</p>
-               <a href={`mailto:${CONTACT_INFO.email}`} className="text-lg sm:text-xl text-gray-600 hover:border-b border-gray-400 break-all">
-                 {CONTACT_INFO.email}
+               <a href={`mailto:${info.email}`} className="text-lg sm:text-xl text-gray-600 hover:border-b border-gray-400 break-all">
+                 {info.email}
                </a>
              </div>
              
@@ -47,9 +56,9 @@ const Contacts = () => {
 
             <div>
               <p className="text-xs tracking-widest text-gray-400 uppercase mb-4">Адрес</p>
-              <p className="text-lg sm:text-xl text-gray-600 flex items-start gap-2">
+              <p className="text-lg sm:text-xl text-gray-600 flex items-start gap-2 whitespace-nowrap">
                 <MapPin size={20} className="text-gray-400" />
-                {CONTACT_INFO.address}
+                {info.address}
               </p>
             </div>
 

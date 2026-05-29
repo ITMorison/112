@@ -3,7 +3,6 @@ import { Routes, Route, useNavigate, useLocation } from 'react-router-dom';
 import { Analytics } from '@vercel/analytics/react';
 import Header from './components/Header';
 import Footer from './components/Footer';
-import AdminLogin from './components/AdminLogin';
 import { CONTACT_INFO as DEFAULT_CONTACT_INFO, CATEGORIES, HEADER_CATEGORIES } from './data';
 
 // Lazy-loaded pages (code splitting)
@@ -14,7 +13,6 @@ const ProductDetails = lazy(() => import('./components/ProductDetails'));
 const Contacts = lazy(() => import('./components/Contacts'));
 const Delivery = lazy(() => import('./components/Delivery'));
 const Payment = lazy(() => import('./components/Payment'));
-const AdminDashboard = lazy(() => import('./components/AdminDashboard'));
 
 export default function App() {
   const [cartItems, setCartItems] = useState(() => {
@@ -25,10 +23,18 @@ export default function App() {
   const [searchQuery, setSearchQuery] = useState('');
   const [activeCategory, setActiveCategory] = useState(null);
   const [cartOpen, setCartOpen] = useState(false);
-  const [isAdminAuthenticated, setIsAdminAuthenticated] = useState(false);
    const [contactInfo, setContactInfo] = useState(() => {
+     const initialInfo = { ...DEFAULT_CONTACT_INFO, phone2: '+7 (705) 443-50-65' };
      const saved = localStorage.getItem('contact_info');
-     return saved ? JSON.parse(saved) : DEFAULT_CONTACT_INFO;
+     if (saved) {
+       try {
+         return { ...initialInfo, ...JSON.parse(saved) };
+       } catch (e) {
+         console.error('Failed to parse saved contact info', e);
+         return initialInfo;
+       }
+     }
+     return initialInfo;
    });
    const [isRoutesReady, setIsRoutesReady] = useState(false);
 
@@ -44,11 +50,6 @@ export default function App() {
         } catch (e) {
           console.error('Failed to parse cart from localStorage', e);
         }
-      }
-
-      const auth = localStorage.getItem('admin_auth');
-      if (auth === 'true') {
-        setIsAdminAuthenticated(true);
       }
     }, []);
 
@@ -66,17 +67,6 @@ export default function App() {
     useEffect(() => {
       localStorage.setItem('contact_info', JSON.stringify(contactInfo));
     }, [contactInfo]);
-
-   const handleAdminLogin = () => {
-     localStorage.setItem('admin_auth', 'true');
-     setIsAdminAuthenticated(true);
-   };
-
-   const handleAdminLogout = () => {
-     localStorage.removeItem('admin_auth');
-     setIsAdminAuthenticated(false);
-     navigate('/admin-login');
-   };
 
   const cartCount = cartItems.reduce((s, i) => s + i.qty, 0);
 
@@ -130,23 +120,6 @@ export default function App() {
   const closeCart = () => {
     setCartOpen(false);
   };
-
-  if (location.pathname === '/admin-login' || location.pathname === '/admin') {
-    return (
-      <Suspense fallback={<div className="min-h-screen flex items-center justify-center">Загрузка...</div>}>
-        <Routes>
-          <Route 
-            path="/admin-login" 
-            element={<AdminLogin onLogin={handleAdminLogin} />} 
-          />
-          <Route 
-            path="/admin" 
-            element={isAdminAuthenticated ? <AdminDashboard onLogout={handleAdminLogout} /> : <AdminLogin onLogin={handleAdminLogin} />} 
-          />
-        </Routes>
-      </Suspense>
-    );
-  }
 
   return (
     <div className="min-h-screen bg-gray-50 flex flex-col">
@@ -217,7 +190,7 @@ export default function App() {
             />
             <Route
               path="/contacts"
-              element={<Contacts />}
+              element={<Contacts contactInfo={contactInfo} />}
             />
             <Route
               path="/delivery"
@@ -225,7 +198,7 @@ export default function App() {
             />
             <Route
               path="/payment"
-              element={<Payment />}
+              element={<Payment contactInfo={contactInfo} />}
             />
           </Routes>
         </Suspense>

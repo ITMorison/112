@@ -55,9 +55,9 @@ export default function Footer({ categories = [], contactInfo = {}, onCategoryFi
         <div>
           <h3 className="font-bold text-[13px] md:text-[14px] mb-4 text-white">Контакты</h3>
           <div className="space-y-2">
-            <p className="flex items-start gap-2 text-[12px] md:text-[13px] text-slate-400 min-w-0">
+            <p className="flex items-start gap-2 text-[12px] md:text-[13px] text-slate-400">
               <MapPin size={14} className="flex-shrink-0 mt-0.5 text-indigo-400" />
-              <span className="break-words">{contactInfo.address}</span>
+              <span className="whitespace-nowrap">{contactInfo.address}</span>
             </p>
             <p className="flex items-center gap-2 text-[12px] md:text-[13px] text-slate-400">
               <Phone size={14} className="flex-shrink-0 text-indigo-400" />
@@ -65,12 +65,14 @@ export default function Footer({ categories = [], contactInfo = {}, onCategoryFi
                 {contactInfo.phone1}
               </a>
             </p>
-            <p className="flex items-center gap-2 text-[12px] md:text-[13px] text-slate-400">
-              <Phone size={14} className="flex-shrink-0 text-indigo-400" />
-              <a href={`tel:${contactInfo.phone2}`} className="hover:underline text-[12px] md:text-[13px] text-slate-400">
-                {contactInfo.phone2}
-              </a>
-            </p>
+            {contactInfo.phone2 && (
+              <p className="flex items-center gap-2 text-[12px] md:text-[13px] text-slate-400">
+                <Phone size={14} className="flex-shrink-0 text-indigo-400" />
+                <a href={`tel:${contactInfo.phone2}`} className="hover:underline text-[12px] md:text-[13px] text-slate-400">
+                  {contactInfo.phone2}
+                </a>
+              </p>
+            )}
             <p className="flex items-center gap-2 text-[12px] md:text-[13px] text-slate-400">
               <Mail size={14} className="flex-shrink-0 text-indigo-400" />
               <a href={`mailto:${contactInfo.email}`} className="hover:underline text-[12px] md:text-[13px] text-slate-400">
@@ -93,7 +95,7 @@ export default function Footer({ categories = [], contactInfo = {}, onCategoryFi
       <div className="border-t border-slate-800">
         <div className="max-w-[1240px] mx-auto px-4 py-4 flex flex-col sm:flex-row items-center justify-between gap-2">
           <p className="text-[11px] md:text-[12px] text-slate-500 text-center sm:text-left">© 2026 ServerNet. Все права защищены.</p>
-          <p className="text-[11px] md:text-[12px] text-slate-500 text-center sm:text-right break-words">{contactInfo.address}</p>
+          <p className="text-[11px] md:text-[12px] text-slate-500 text-center sm:text-right whitespace-nowrap">{contactInfo.address}</p>
         </div>
       </div>
     </footer>
