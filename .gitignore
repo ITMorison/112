@@ -37,3 +37,12 @@ smart_fix_images
 
 # Локальные тестовые скрипты
 test_*.js
+check_*.cjs
+fix_*.cjs
+list_*.cjs
+lines_*.cjs
+mesh_*.cjs
+raw_*.cjs
+show_*.cjs 
+trace_*.cjs
+verify_*.cjs
