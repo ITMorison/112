@@ -5341,16 +5341,6 @@
   },
   {
     "category_raw": "Без категории",
-    "code": 76480,
-    "article": "76480",
-    "name": "Ноутбук Gigabyte AORUS Master 16 QHD 240Hz OLED Ultra9-275HX 32GB 1TB RTX5080 Win11",
-    "fullName": "Ноутбук Gigabyte AORUS Master 16 QHD 240Hz OLED Ultra9-275HX 32GB 1TB RTX5080 Win11",
-    "price": 1804990.5,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
     "code": 88111,
     "article": "88111",
     "name": "Ноутбук ASUS Vivobook S14 S3407CA-LY094 14\"\" FHD+ 60Hz Core Ultra 225H 16GB 512GB DOS",
@@ -5611,16 +5601,6 @@
   },
   {
     "category_raw": "Без категории",
-    "code": 88117,
-    "article": "88117",
-    "name": "Ноутбук ASUS ProArt P16 H7606WM-SR118X 16\"\" 3K 120Hz Ryzen AI 9 HX 370 32GB 2TB RTX5060 Win 11",
-    "fullName": "Ноутбук ASUS ProArt P16 H7606WM-SR118X 16\"\" 3K 120Hz Ryzen AI 9 HX 370 32GB 2TB RTX5060 Win 11",
-    "price": 1562740.5,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
     "code": 85093,
     "article": "85093",
     "name": "Ноутбук ASUS ProArt P16 H7606WX-SE002X 16\"\" 4K 120Hz Ryzen AI 9 HX 370 64GB 4TB RTX5090 Win 11 Pro",
@@ -5716,26 +5696,6 @@
     "name": "Ноутбук ASUS ROG Flow Z13 GZ302EA-RU045W 13,4\"\" 2.5K 180Hz Ryzen AI MAX+395 32GB 1TB Radeon 8060S Win",
     "fullName": "Ноутбук ASUS ROG Flow Z13 GZ302EA-RU045W 13,4\"\" 2.5K 180Hz Ryzen AI MAX+395 32GB 1TB Radeon 8060S Win",
     "price": 1458240.5,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
-    "code": 68813,
-    "article": "68813",
-    "name": "Ноутбук MSI Cyborg 15 A13VE 15.6\"\" FHD 144Hz i5-13420H 16GB 512GB RTX4050 DOS",
-    "fullName": "Ноутбук MSI Cyborg 15 A13VE 15.6\"\" FHD 144Hz i5-13420H 16GB 512GB RTX4050 DOS",
-    "price": 474990.5,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
-    "code": 82674,
-    "article": "82674",
-    "name": "Ноутбук MSI Cyborg 15 B2RWEKG-643XKZ 15,6\"\" FHD 144Hz Core 5 210H 16GB 512GB RTX5050 DOS",
-    "fullName": "Ноутбук MSI Cyborg 15 B2RWEKG-643XKZ 15,6\"\" FHD 144Hz Core 5 210H 16GB 512GB RTX5050 DOS",
-    "price": 560490.5,
     "category": "other",
     "subcategory": "other"
   },
@@ -6411,41 +6371,11 @@
   },
   {
     "category_raw": "Без категории",
-    "code": 60489,
-    "article": "60489",
-    "name": "Монитор 27'' XG Crimson X White 180HZ",
-    "fullName": "Монитор 27'' XG Crimson X White 180HZ",
-    "price": 94990.5,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
     "code": 51286,
     "article": "51286",
     "name": "Монитор 27'' XG Darknet X 240HZ",
     "fullName": "Монитор 27'' XG Darknet X 240HZ",
     "price": 84550,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
-    "code": 60488,
-    "article": "60488",
-    "name": "Монитор 27'' XG Darknet Pro 360HZ",
-    "fullName": "Монитор 27'' XG Darknet Pro 360HZ",
-    "price": 133000,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
-    "code": 64503,
-    "article": "64503",
-    "name": "Монитор 27'' XG OLED27",
-    "fullName": "Монитор 27'' XG OLED27",
-    "price": 351500,
     "category": "other",
     "subcategory": "other"
   },
@@ -6561,16 +6491,6 @@
   },
   {
     "category_raw": "Без категории",
-    "code": 53675,
-    "article": "53675",
-    "name": "Монитор 49\"\" Dahua DHI-LM49-S400",
-    "fullName": "Монитор 49\"\" Dahua DHI-LM49-S400",
-    "price": 589940.5,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
     "code": 54833,
     "article": "54833",
     "name": "Монитор 55\"\" Dahua DHI-LM55-F400",
@@ -6641,16 +6561,6 @@
   },
   {
     "category_raw": "Без категории",
-    "code": 89494,
-    "article": "89494",
-    "name": "Монитор Xiaomi A27i EU 2026 27\"\"",
-    "fullName": "Монитор Xiaomi A27i EU 2026 27\"\"",
-    "price": 61740.5,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
     "code": 82455,
     "article": "82455",
     "name": "Монитор Xiaomi Gaming Monitor G27i 2026 27\"\"",
@@ -6671,31 +6581,11 @@
   },
   {
     "category_raw": "Без категории",
-    "code": 64785,
-    "article": "64785",
-    "name": "Монитор Xiaomi G Pro 27i P27QBA-RGPGL 27\"\"",
-    "fullName": "Монитор Xiaomi G Pro 27i P27QBA-RGPGL 27\"\"",
-    "price": 180490.5,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
     "code": 87795,
     "article": "87795",
     "name": "Монитор Xiaomi 2K Gaming Monitor G27Qi 2026 27\"\"",
     "fullName": "Монитор Xiaomi 2K Gaming Monitor G27Qi 2026 27\"\"",
     "price": 104490.5,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
-    "code": 49527,
-    "article": "49527",
-    "name": "Монитор Xiaomi 4K Monitor 27\"\"",
-    "fullName": "Монитор Xiaomi 4K Monitor 27\"\"",
-    "price": 227990.5,
     "category": "other",
     "subcategory": "other"
   },
@@ -6776,16 +6666,6 @@
     "name": "Монитор 32\"\" Gigabyte MO32U2 EK",
     "fullName": "Монитор 32\"\" Gigabyte MO32U2 EK",
     "price": 502540.5,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
-    "code": 42738,
-    "article": "42738",
-    "name": "Монитор 24\"\" ZOWIE XL2411K Dark Grey",
-    "fullName": "Монитор 24\"\" ZOWIE XL2411K Dark Grey",
-    "price": 119054.95,
     "category": "other",
     "subcategory": "other"
   },
@@ -6901,16 +6781,6 @@
   },
   {
     "category_raw": "Без категории",
-    "code": 70255,
-    "article": "70255",
-    "name": "Монитор Samsung 27\"\" Odyssey G5 LS27CG510EIXCI",
-    "fullName": "Монитор Samsung 27\"\" Odyssey G5 LS27CG510EIXCI",
-    "price": 128240.5,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
     "code": 67220,
     "article": "67220",
     "name": "Монитор Samsung 27″ Odyssey G3 LS27DG302EIXCI",
@@ -6946,16 +6816,6 @@
     "name": "Монитор Samsung 27\"\" ViewFinity S7 LS27D700EAIXCI",
     "fullName": "Монитор Samsung 27\"\" ViewFinity S7 LS27D700EAIXCI",
     "price": 161490.5,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
-    "code": 70250,
-    "article": "70250",
-    "name": "Монитор Samsung 27\"\" ViewFinity S6 LS27D604UAIXCI",
-    "fullName": "Монитор Samsung 27\"\" ViewFinity S6 LS27D604UAIXCI",
-    "price": 187140.5,
     "category": "other",
     "subcategory": "other"
   },
@@ -7011,16 +6871,6 @@
   },
   {
     "category_raw": "Без категории",
-    "code": 61667,
-    "article": "61667",
-    "name": "Монитор Samsung 49\"\" QLED LS49C950UAIXCI",
-    "fullName": "Монитор Samsung 49\"\" QLED LS49C950UAIXCI",
-    "price": 617490.5,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
     "code": 70252,
     "article": "70252",
     "name": "Монитор Samsung 27\"\" ViewFinity S8 LS27D804UAIXCI",
@@ -7071,41 +6921,11 @@
   },
   {
     "category_raw": "Без категории",
-    "code": 88033,
-    "article": "88033",
-    "name": "Монитор Hikvision DS-D5032F3-1V0S 32\"\"",
-    "fullName": "Монитор Hikvision DS-D5032F3-1V0S 32\"\"",
-    "price": 123181.75,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
-    "code": 73504,
-    "article": "73504",
-    "name": "Монитор 24\"\" LG 24GS65F-B",
-    "fullName": "Монитор 24\"\" LG 24GS65F-B",
-    "price": 91777.59999999999,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
     "code": 74068,
     "article": "74068",
     "name": "Монитор 27\"\" LG 27MR400 Black",
     "fullName": "Монитор 27\"\" LG 27MR400 Black",
     "price": 70360.8,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
-    "code": 73503,
-    "article": "73503",
-    "name": "Монитор 27\"\" LG 27GS65F-B",
-    "fullName": "Монитор 27\"\" LG 27GS65F-B",
-    "price": 100879.54999999999,
     "category": "other",
     "subcategory": "other"
   },
@@ -7171,31 +6991,11 @@
   },
   {
     "category_raw": "Без категории",
-    "code": 75759,
-    "article": "75759",
-    "name": "Монитор 27\"\" LG 27BA65QB Black",
-    "fullName": "Монитор 27\"\" LG 27BA65QB Black",
-    "price": 189990.5,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
     "code": 79260,
     "article": "79260",
     "name": "Монитор 27\"\" LG 27GS95QE-B",
     "fullName": "Монитор 27\"\" LG 27GS95QE-B",
     "price": 481870.39999999997,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
-    "code": 87250,
-    "article": "87250",
-    "name": "Монитор 31,5\"\" LG 32UN650K White",
-    "fullName": "Монитор 31,5\"\" LG 32UN650K White",
-    "price": 249840.5,
     "category": "other",
     "subcategory": "other"
   },
@@ -7336,16 +7136,6 @@
     "name": "Монитор iiyama ProLite XB2797QSU-W1 27\"\"",
     "fullName": "Монитор iiyama ProLite XB2797QSU-W1 27\"\"",
     "price": 95940.5,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
-    "code": 73669,
-    "article": "73669",
-    "name": "Монитор iiyama ProLite XUB2797UHSNP-B1 27\"\"",
-    "fullName": "Монитор iiyama ProLite XUB2797UHSNP-B1 27\"\"",
-    "price": 198472.09999999998,
     "category": "other",
     "subcategory": "other"
   },
@@ -7521,16 +7311,6 @@
   },
   {
     "category_raw": "Без категории",
-    "code": 65832,
-    "article": "65832",
-    "name": "Умная колонка Яндекс Станция Лайт с Алисой Второе поколение Фиолетовый",
-    "fullName": "Умная колонка Яндекс Станция Лайт с Алисой Второе поколение Фиолетовый",
-    "price": 32290.5,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
     "code": 35726,
     "article": "35726",
     "name": "Колонка Xiaomi Mi Smart Speaker",
@@ -7625,16 +7405,6 @@
     "article": "77420",
     "name": "Портативная умная колонка Яндекс Станция Стрит с Алисой, 30 Вт, Зеленый",
     "fullName": "Портативная умная колонка Яндекс Станция Стрит с Алисой, 30 Вт, Зеленый",
-    "price": 66490.5,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
-    "code": 77421,
-    "article": "77421",
-    "name": "Портативная умная колонка Яндекс Станция Стрит с Алисой, 30 Вт, Черный",
-    "fullName": "Портативная умная колонка Яндекс Станция Стрит с Алисой, 30 Вт, Черный",
     "price": 66490.5,
     "category": "other",
     "subcategory": "other"
@@ -7846,16 +7616,6 @@
     "name": "Источник бесперебойного питания SVC V-650-L",
     "fullName": "Источник бесперебойного питания SVC V-650-L",
     "price": 20890.5,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
-    "code": 14466,
-    "article": "14466",
-    "name": "Источник бесперебойного питания SVC V-800-L",
-    "fullName": "Источник бесперебойного питания SVC V-800-L",
-    "price": 22790.5,
     "category": "other",
     "subcategory": "other"
   },
@@ -8131,41 +7891,11 @@
   },
   {
     "category_raw": "Без категории",
-    "code": 42550,
-    "article": "42550",
-    "name": "Источник бесперебойного питания CyberPower UTC650EI",
-    "fullName": "Источник бесперебойного питания CyberPower UTC650EI",
-    "price": 20700.5,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
-    "code": 42530,
-    "article": "42530",
-    "name": "Источник бесперебойного питания CyberPower UT650EG",
-    "fullName": "Источник бесперебойного питания CyberPower UT650EG",
-    "price": 31150.5,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
     "code": 42554,
     "article": "42554",
     "name": "Источник бесперебойного питания CyberPower UTI675E",
     "fullName": "Источник бесперебойного питания CyberPower UTI675E",
     "price": 21555.5,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
-    "code": 42555,
-    "article": "42555",
-    "name": "Источник бесперебойного питания CyberPower UTI875E",
-    "fullName": "Источник бесперебойного питания CyberPower UTI875E",
-    "price": 26115.5,
     "category": "other",
     "subcategory": "other"
   },
@@ -8306,16 +8036,6 @@
     "name": "Источник бесперебойного питания CyberPower UT2200EG",
     "fullName": "Источник бесперебойного питания CyberPower UT2200EG",
     "price": 102590.5,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
-    "code": 42574,
-    "article": "42574",
-    "name": "Источник бесперебойного питания CyberPower VP1200ELCD",
-    "fullName": "Источник бесперебойного питания CyberPower VP1200ELCD",
-    "price": 109810.5,
     "category": "other",
     "subcategory": "other"
   },
@@ -8521,26 +8241,6 @@
   },
   {
     "category_raw": "Без категории",
-    "code": 61375,
-    "article": "61375",
-    "name": "Источник бесперебойного питания APC Back-UPS BE650G2-GR",
-    "fullName": "Источник бесперебойного питания APC Back-UPS BE650G2-GR",
-    "price": 115214.09999999999,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
-    "code": 63678,
-    "article": "63678",
-    "name": "Источник бесперебойного питания APC Back-UPS BE850G2-GR",
-    "fullName": "Источник бесперебойного питания APC Back-UPS BE850G2-GR",
-    "price": 109250,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
     "code": 68415,
     "article": "68415",
     "name": "Источник бесперебойного питания APC Back-UPS Pro BR1500G-GR",
@@ -8741,16 +8441,6 @@
   },
   {
     "category_raw": "Без категории",
-    "code": 62598,
-    "article": "62598",
-    "name": "Источник бесперебойного питания Eaton 5E900UD",
-    "fullName": "Источник бесперебойного питания Eaton 5E900UD",
-    "price": 66336.59999999999,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
     "code": 62594,
     "article": "62594",
     "name": "Источник бесперебойного питания Eaton 3S700D",
@@ -8781,16 +8471,6 @@
   },
   {
     "category_raw": "Без категории",
-    "code": 83786,
-    "article": "83786",
-    "name": "Источник бесперебойного питания SVC GS-1100",
-    "fullName": "Источник бесперебойного питания SVC GS-1100",
-    "price": 49400,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
     "code": 18925,
     "article": "18925",
     "name": "Источник бесперебойного питания SVC V-500-L",
@@ -8806,16 +8486,6 @@
     "name": "Источник бесперебойного питания SVC PTL-2K-LCD",
     "fullName": "Источник бесперебойного питания SVC PTL-2K-LCD",
     "price": 128483.7,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
-    "code": 14650,
-    "article": "14650",
-    "name": "Источник бесперебойного питания SVC PTL-3K-LCD",
-    "fullName": "Источник бесперебойного питания SVC PTL-3K-LCD",
-    "price": 147324.1,
     "category": "other",
     "subcategory": "other"
   },
@@ -8896,16 +8566,6 @@
     "name": "Источник бесперебойного питания SVC PTS-1KLN-LCD",
     "fullName": "Источник бесперебойного питания SVC PTS-1KLN-LCD",
     "price": 114000,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
-    "code": 77432,
-    "article": "77432",
-    "name": "Источник бесперебойного питания SVC PTS-2KLN-LCD",
-    "fullName": "Источник бесперебойного питания SVC PTS-2KLN-LCD",
-    "price": 193800,
     "category": "other",
     "subcategory": "other"
   },
@@ -9371,26 +9031,6 @@
   },
   {
     "category_raw": "Без категории",
-    "code": 62611,
-    "article": "62611",
-    "name": "Источник бесперебойного питания Eaton 9SX1000I",
-    "fullName": "Источник бесперебойного питания Eaton 9SX1000I",
-    "price": 455840.39999999997,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
-    "code": 62612,
-    "article": "62612",
-    "name": "Источник бесперебойного питания Eaton 9SX1500I",
-    "fullName": "Источник бесперебойного питания Eaton 9SX1500I",
-    "price": 599143.15,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
     "code": 62613,
     "article": "62613",
     "name": "Источник бесперебойного питания Eaton 9SX3000I",
@@ -9436,16 +9076,6 @@
     "name": "Источник бесперебойного питания SVC RTO-1.5K-LCD",
     "fullName": "Источник бесперебойного питания SVC RTO-1.5K-LCD",
     "price": 92140.5,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
-    "code": 36288,
-    "article": "36288",
-    "name": "Источник бесперебойного питания SVC RTL-800-LCD",
-    "fullName": "Источник бесперебойного питания SVC RTL-800-LCD",
-    "price": 78365.5,
     "category": "other",
     "subcategory": "other"
   },
@@ -9586,16 +9216,6 @@
     "name": "Источник бесперебойного питания SVC RT-6KL-LCD",
     "fullName": "Источник бесперебойного питания SVC RT-6KL-LCD",
     "price": 536673.0499999999,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
-    "code": 8590,
-    "article": "8590",
-    "name": "Источник бесперебойного питания SVC RT-10KL-LCD",
-    "fullName": "Источник бесперебойного питания SVC RT-10KL-LCD",
-    "price": 661916.2999999999,
     "category": "other",
     "subcategory": "other"
   },
@@ -10701,16 +10321,6 @@
   },
   {
     "category_raw": "Без категории",
-    "code": 21169,
-    "article": "21169",
-    "name": "Батарейный блок для ИБП PTS-10KL-LCD",
-    "fullName": "Батарейный блок для ИБП PTS-10KL-LCD",
-    "price": 465490.5,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
     "code": 42059,
     "article": "42059",
     "name": "Батарейный блок CyberPower BPE144VL2U01",
@@ -10926,16 +10536,6 @@
     "name": "Батарейный блок Legrand для ИБП Keor DK 10кВА",
     "fullName": "Батарейный блок Legrand для ИБП Keor DK 10кВА",
     "price": 1576019.5999999999,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
-    "code": 62610,
-    "article": "62610",
-    "name": "Батарейный блок Eaton 5PXEBM72RT3UG2",
-    "fullName": "Батарейный блок Eaton 5PXEBM72RT3UG2",
-    "price": 625253.9,
     "category": "other",
     "subcategory": "other"
   },
@@ -11551,31 +11151,11 @@
   },
   {
     "category_raw": "Без категории",
-    "code": 36812,
-    "article": "36812",
-    "name": "Стабилизатор SVC R-1500",
-    "fullName": "Стабилизатор SVC R-1500",
-    "price": 21840.5,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
     "code": 4575,
     "article": "4575",
     "name": "Стабилизатор SVC R-2000",
     "fullName": "Стабилизатор SVC R-2000",
     "price": 25640.5,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
-    "code": 4576,
-    "article": "4576",
-    "name": "Стабилизатор SVC R-3000",
-    "fullName": "Стабилизатор SVC R-3000",
-    "price": 37040.5,
     "category": "other",
     "subcategory": "other"
   },
@@ -12656,16 +12236,6 @@
     "name": "Система хранения данных (сервер) Synology RS822+",
     "fullName": "Система хранения данных (сервер) Synology RS822+",
     "price": 797349.25,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
-    "code": 63826,
-    "article": "63826",
-    "name": "Система хранения данных (сервер) Synology RS1221+",
-    "fullName": "Система хранения данных (сервер) Synology RS1221+",
-    "price": 922885.1,
     "category": "other",
     "subcategory": "other"
   },
@@ -18491,16 +18061,6 @@
   },
   {
     "category_raw": "Без категории",
-    "code": 77507,
-    "article": "77507",
-    "name": "Сетевой маршрутизатор со встроенной беспроводной точкой доступа ASUS TUF-BE6500",
-    "fullName": "Сетевой маршрутизатор со встроенной беспроводной точкой доступа ASUS TUF-BE6500",
-    "price": 110105,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Без категории",
     "code": 87502,
     "article": "87502",
     "name": "Сетевой маршрутизатор со встроенной беспроводной точкой доступа ASUS TUF-BE9400",
@@ -19316,16 +18876,6 @@
     "name": "Маршрутизатор Mercusys MR90X",
     "fullName": "Маршрутизатор Mercusys MR90X",
     "price": 56990.5,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  порт LAN 2,5 Гбит/с,",
-    "code": 30219,
-    "article": "30219",
-    "name": "Маршрутизатор Mercusys AC12",
-    "fullName": "Маршрутизатор Mercusys AC12",
-    "price": 15380.5,
     "category": "other",
     "subcategory": "other"
   },
@@ -20211,16 +19761,6 @@
   },
   {
     "category_raw": "1  порт LAN 2,5 Гбит/с,",
-    "code": 37908,
-    "article": "37908",
-    "name": "Маршрутизатор 3G/4G Мобильный TP-Link M7000",
-    "fullName": "Маршрутизатор 3G/4G Мобильный TP-Link M7000",
-    "price": 28490.5,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  порт LAN 2,5 Гбит/с,",
     "code": 37907,
     "article": "37907",
     "name": "Маршрутизатор 3G/4G Мобильный TP-Link M7200",
@@ -20801,16 +20341,6 @@
   },
   {
     "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 37362,
-    "article": "37362",
-    "name": "Маршрутизатор TP-Link Deco M9 Plus(2-pack)",
-    "fullName": "Маршрутизатор TP-Link Deco M9 Plus(2-pack)",
-    "price": 140590.5,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
     "code": 71945,
     "article": "71945",
     "name": "Маршрутизатор TP-Link Deco M9 Plus(3-pack)",
@@ -20856,16 +20386,6 @@
     "name": "Беспроводная MESH-система Wi-Fi TP-Link Deco X10(2-pack)",
     "fullName": "Беспроводная MESH-система Wi-Fi TP-Link Deco X10(2-pack)",
     "price": 69340.5,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 58674,
-    "article": "58674",
-    "name": "Беспроводная MESH-система Wi-Fi TP-Link Deco X10(3-pack)",
-    "fullName": "Беспроводная MESH-система Wi-Fi TP-Link Deco X10(3-pack)",
-    "price": 103540.5,
     "category": "other",
     "subcategory": "other"
   },
@@ -22821,16 +22341,6 @@
   },
   {
     "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 85363,
-    "article": "85363",
-    "name": "Точка доступа MikroTik LHG-5axD-XL",
-    "fullName": "Точка доступа MikroTik LHG-5axD-XL",
-    "price": 76760,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
     "code": 50247,
     "article": "50247",
     "name": "Точка доступа MikroTik RBSXTG-5HPacD-SA",
@@ -22886,16 +22396,6 @@
     "name": "Беспроводной маршрутизатор MikroTik RBwAPG-60ad-A",
     "fullName": "Беспроводной маршрутизатор MikroTik RBwAPG-60ad-A",
     "price": 94050,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 50249,
-    "article": "50249",
-    "name": "Точка доступа MikroTik RBSXTsq2nD",
-    "fullName": "Точка доступа MikroTik RBSXTsq2nD",
-    "price": 26125,
     "category": "other",
     "subcategory": "other"
   },
@@ -24681,41 +24181,11 @@
   },
   {
     "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 53155,
-    "article": "53155",
-    "name": "Сетевой маршрутизатор со встроенной беспроводной точкой доступа ASUS DSL-AX82U",
-    "fullName": "Сетевой маршрутизатор со встроенной беспроводной точкой доступа ASUS DSL-AX82U",
-    "price": 117610,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 53154,
-    "article": "53154",
-    "name": "Сетевой маршрутизатор со встроенной беспроводной точкой доступа ASUS DSL-AC88U",
-    "fullName": "Сетевой маршрутизатор со встроенной беспроводной точкой доступа ASUS DSL-AC88U",
-    "price": 118655,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
     "code": 22082,
     "article": "22082",
     "name": "ADSL Сплиттер D-Link DSL-30CF/RS",
     "fullName": "ADSL Сплиттер D-Link DSL-30CF/RS",
     "price": 1805,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 32304,
-    "article": "32304",
-    "name": "Маршрутизатор Mercusys MW300D",
-    "fullName": "Маршрутизатор Mercusys MW300D",
-    "price": 13575.5,
     "category": "other",
     "subcategory": "other"
   },
@@ -24746,16 +24216,6 @@
     "name": "Абонентский терминал ONU BDCOM GP1705-2G v1",
     "fullName": "Абонентский терминал ONU BDCOM GP1705-2G v1",
     "price": 19000,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 44222,
-    "article": "44222",
-    "name": "Станционный терминал OLT BDCOM GP3600-08B-2AC",
-    "fullName": "Станционный терминал OLT BDCOM GP3600-08B-2AC",
-    "price": 760000,
     "category": "other",
     "subcategory": "other"
   },
@@ -24896,16 +24356,6 @@
     "name": "Трансивер MikroTik S-31DLC20D",
     "fullName": "Трансивер MikroTik S-31DLC20D",
     "price": 18050,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 50266,
-    "article": "50266",
-    "name": "Комплект трансиверов MikroTik S-3553LC20D",
-    "fullName": "Комплект трансиверов MikroTik S-3553LC20D",
-    "price": 46550,
     "category": "other",
     "subcategory": "other"
   },
@@ -26836,16 +26286,6 @@
     "name": "Шкаф коммуникационный SHIP H.8042.56.100 19\"\" 42U 800*1000*2000 мм чёрный",
     "fullName": "Шкаф коммуникационный SHIP H.8042.56.100 19\"\" 42U 800*1000*2000 мм чёрный",
     "price": 471770.94999999995,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 21916,
-    "article": "21916",
-    "name": "Шкаф коммуникационный Ship, VE.8042.56.100 19\"\" 42U 800*1000*2000mm чёрный",
-    "fullName": "Шкаф коммуникационный Ship, VE.8042.56.100 19\"\" 42U 800*1000*2000mm чёрный",
-    "price": 502817.89999999997,
     "category": "other",
     "subcategory": "other"
   },
@@ -30051,16 +29491,6 @@
   },
   {
     "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 12059,
-    "article": "12059",
-    "name": "Модуль для 110 кросса на 4 пары SHIP T346-4",
-    "fullName": "Модуль для 110 кросса на 4 пары SHIP T346-4",
-    "price": 42.75,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
     "code": 811,
     "article": "811",
     "name": "Розетка Настенная телекоммуникационная Под 1 Модуль SHIP A166-1B Белая",
@@ -30191,16 +29621,6 @@
   },
   {
     "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 58394,
-    "article": "58394",
-    "name": "Кабель оптоволоконный ОКБ-0,22-4П-8кН",
-    "fullName": "Кабель оптоволоконный ОКБ-0,22-4П-8кН",
-    "price": 456,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
     "code": 38327,
     "article": "38327",
     "name": "Кабель оптоволоконный ИКБ-М4П-А4-8,0 кН",
@@ -30276,16 +29696,6 @@
     "name": "Кабель оптоволоконный ИКБ-Т-А8-8,0 кН",
     "fullName": "Кабель оптоволоконный ИКБ-Т-А8-8,0 кН",
     "price": 0.95,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 25376,
-    "article": "25376",
-    "name": "Кабель оптоволоконный ОКБ-0,22-8П-7кН",
-    "fullName": "Кабель оптоволоконный ОКБ-0,22-8П-7кН",
-    "price": 456,
     "category": "other",
     "subcategory": "other"
   },
@@ -30406,16 +29816,6 @@
     "name": "Кабель оптоволоконный ИКБ-М4П-М12-8,0 кН",
     "fullName": "Кабель оптоволоконный ИКБ-М4П-М12-8,0 кН",
     "price": 2137.5,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 33816,
-    "article": "33816",
-    "name": "Кабель оптоволоконный ИКБ-Т-А16-2.7 кН",
-    "fullName": "Кабель оптоволоконный ИКБ-Т-А16-2.7 кН",
-    "price": 498.75,
     "category": "other",
     "subcategory": "other"
   },
@@ -30771,61 +30171,11 @@
   },
   {
     "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 63967,
-    "article": "63967",
-    "name": "Кабель оптоволоконный ОКЛ-8(G.652.D)-Т/С 2,7 кН",
-    "fullName": "Кабель оптоволоконный ОКЛ-8(G.652.D)-Т/С 2,7 кН",
-    "price": 0.95,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 33720,
-    "article": "33720",
-    "name": "Кабель оптоволоконный ИКСЛ-Т-А8-2,7 кН",
-    "fullName": "Кабель оптоволоконный ИКСЛ-Т-А8-2,7 кН",
-    "price": 270.75,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 36384,
-    "article": "36384",
-    "name": "Кабель оптоволоконный ИКСЛ-М4П-А8-2,7 кН",
-    "fullName": "Кабель оптоволоконный ИКСЛ-М4П-А8-2,7 кН",
-    "price": 342,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
     "code": 25357,
     "article": "25357",
     "name": "Кабель оптоволоконный ОКЛм-0,22-8П-2,7 кН",
     "fullName": "Кабель оптоволоконный ОКЛм-0,22-8П-2,7 кН",
     "price": 475,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 33721,
-    "article": "33721",
-    "name": "Кабель оптоволоконный ИКСЛ-Т-А12-2,7 кН",
-    "fullName": "Кабель оптоволоконный ИКСЛ-Т-А12-2,7 кН",
-    "price": 0.95,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 36383,
-    "article": "36383",
-    "name": "Кабель оптоволоконный ИКСЛ-М4П-А12-2,7 кН",
-    "fullName": "Кабель оптоволоконный ИКСЛ-М4П-А12-2,7 кН",
-    "price": 370.5,
     "category": "other",
     "subcategory": "other"
   },
@@ -30866,16 +30216,6 @@
     "name": "Кабель оптоволоконный ОКЛм-0,22-16П-2,7 кН",
     "fullName": "Кабель оптоволоконный ОКЛм-0,22-16П-2,7 кН",
     "price": 0.95,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 33723,
-    "article": "33723",
-    "name": "Кабель оптоволоконный ИКСЛ-Т-А24-2,7 кН",
-    "fullName": "Кабель оптоволоконный ИКСЛ-Т-А24-2,7 кН",
-    "price": 691.6,
     "category": "other",
     "subcategory": "other"
   },
@@ -30936,26 +30276,6 @@
     "name": "Кабель оптоволоконный ИКСЛ-М4П-А36-2,7 кН",
     "fullName": "Кабель оптоволоконный ИКСЛ-М4П-А36-2,7 кН",
     "price": 484.5,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 33730,
-    "article": "33730",
-    "name": "Кабель оптоволоконный ИКСЛ-М4П-А48П-2,7 кН",
-    "fullName": "Кабель оптоволоконный ИКСЛ-М4П-А48П-2,7 кН",
-    "price": 541.5,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 25363,
-    "article": "25363",
-    "name": "Кабель оптоволоконный ОКЛм-0,22-48П-2,7 кН",
-    "fullName": "Кабель оптоволоконный ОКЛм-0,22-48П-2,7 кН",
-    "price": 0.95,
     "category": "other",
     "subcategory": "other"
   },
@@ -31081,16 +30401,6 @@
   },
   {
     "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 25367,
-    "article": "25367",
-    "name": "Кабель оптоволоконный ОКГ-0,22-8П-2,7 кН",
-    "fullName": "Кабель оптоволоконный ОКГ-0,22-8П-2,7 кН",
-    "price": 285,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
     "code": 63969,
     "article": "63969",
     "name": "Кабель оптоволоконный ОКГ-0,22-8П 3,1 кН",
@@ -31101,31 +30411,11 @@
   },
   {
     "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 31207,
-    "article": "31207",
-    "name": "Кабель оптоволоконный ОКГ-0,22-12П-2,7 кН",
-    "fullName": "Кабель оптоволоконный ОКГ-0,22-12П-2,7 кН",
-    "price": 0.95,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
     "code": 49146,
     "article": "49146",
     "name": "Кабель оптоволоконный ИК-М5П-А12-2.7кН",
     "fullName": "Кабель оптоволоконный ИК-М5П-А12-2.7кН",
     "price": 349.59999999999997,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 25371,
-    "article": "25371",
-    "name": "Кабель оптоволоконный ОКГ-0,22-16П-2,7 кН",
-    "fullName": "Кабель оптоволоконный ОКГ-0,22-16П-2,7 кН",
-    "price": 327.75,
     "category": "other",
     "subcategory": "other"
   },
@@ -31246,16 +30536,6 @@
     "name": "Кабель оптоволоконный ОКГ-0,22-48П 3,1 кН",
     "fullName": "Кабель оптоволоконный ОКГ-0,22-48П 3,1 кН",
     "price": 520.6,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 43388,
-    "article": "43388",
-    "name": "Кабель оптоволоконный ИК-М5П-А4-2.7кН",
-    "fullName": "Кабель оптоволоконный ИК-М5П-А4-2.7кН",
-    "price": 299.25,
     "category": "other",
     "subcategory": "other"
   },
@@ -31415,16 +30695,6 @@
     "article": "74033",
     "name": "Кабель оптоволоконный ИКАЛс-М6П-А24-7 кН",
     "fullName": "Кабель оптоволоконный ИКАЛс-М6П-А24-7 кН",
-    "price": 0.95,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 28939,
-    "article": "28939",
-    "name": "Кабель оптоволоконный ОККМC-0,22(G.652.D)-24-6кН",
-    "fullName": "Кабель оптоволоконный ОККМC-0,22(G.652.D)-24-6кН",
     "price": 0.95,
     "category": "other",
     "subcategory": "other"
@@ -31671,16 +30941,6 @@
   },
   {
     "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 25382,
-    "article": "25382",
-    "name": "Кабель оптоволоконный ОКТ-4(G.652.D)-Т/СТ 9кН",
-    "fullName": "Кабель оптоволоконный ОКТ-4(G.652.D)-Т/СТ 9кН",
-    "price": 0.95,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
     "code": 39918,
     "article": "39918",
     "name": "Кабель оптоволоконный ОКТ-4(G.652.D)-Т/СТ 4кН",
@@ -31711,51 +30971,11 @@
   },
   {
     "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 34972,
-    "article": "34972",
-    "name": "Кабель оптоволоконный ИК/Т-М4П-А8-8.0 кН",
-    "fullName": "Кабель оптоволоконный ИК/Т-М4П-А8-8.0 кН",
-    "price": 0.95,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
     "code": 58396,
     "article": "58396",
     "name": "Кабель оптоволоконный ОКТ-8(G.652.D)-Т/С 2,5кН",
     "fullName": "Кабель оптоволоконный ОКТ-8(G.652.D)-Т/С 2,5кН",
     "price": 256.5,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 47266,
-    "article": "47266",
-    "name": "Кабель оптоволоконный ИК/Т-Т-А8-2.5 кН",
-    "fullName": "Кабель оптоволоконный ИК/Т-Т-А8-2.5 кН",
-    "price": 176.7,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 25389,
-    "article": "25389",
-    "name": "Кабель оптоволоконный ОКТ-8(G.652.D)-Т/СТ 6кН",
-    "fullName": "Кабель оптоволоконный ОКТ-8(G.652.D)-Т/СТ 6кН",
-    "price": 0.95,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 25383,
-    "article": "25383",
-    "name": "Кабель оптоволоконный ОКТ-8(G.652.D)-Т/СТ 9кН",
-    "fullName": "Кабель оптоволоконный ОКТ-8(G.652.D)-Т/СТ 9кН",
-    "price": 0.95,
     "category": "other",
     "subcategory": "other"
   },
@@ -31791,26 +31011,6 @@
   },
   {
     "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 47267,
-    "article": "47267",
-    "name": "Кабель оптоволоконный ИК/Т-Т-А12-2,5 кН",
-    "fullName": "Кабель оптоволоконный ИК/Т-Т-А12-2,5 кН",
-    "price": 237.5,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 36342,
-    "article": "36342",
-    "name": "Кабель оптоволоконный ИК/Т-Т-А12-6.0 кН",
-    "fullName": "Кабель оптоволоконный ИК/Т-Т-А12-6.0 кН",
-    "price": 427.5,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
     "code": 54869,
     "article": "54869",
     "name": "Кабель оптоволоконный ИК/Т-М4П-А12-8.0 кН",
@@ -31826,16 +31026,6 @@
     "name": "Кабель оптоволоконный ИК/Т-Т-А16-2,5 кН",
     "fullName": "Кабель оптоволоконный ИК/Т-Т-А16-2,5 кН",
     "price": 270.75,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 32840,
-    "article": "32840",
-    "name": "Кабель оптоволоконный ОКТ-16(G.652.D)-Т/СТ 3кН",
-    "fullName": "Кабель оптоволоконный ОКТ-16(G.652.D)-Т/СТ 3кН",
-    "price": 0.95,
     "category": "other",
     "subcategory": "other"
   },
@@ -31926,16 +31116,6 @@
     "name": "Кабель оптоволоконный ОКТ-24(G.652.D)-Т/СТ 9кН",
     "fullName": "Кабель оптоволоконный ОКТ-24(G.652.D)-Т/СТ 9кН",
     "price": 498.75,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 61761,
-    "article": "61761",
-    "name": "Кабель оптоволоконный ИК/Т-М4П-А24-6.0 кН",
-    "fullName": "Кабель оптоволоконный ИК/Т-М4П-А24-6.0 кН",
-    "price": 421.79999999999995,
     "category": "other",
     "subcategory": "other"
   },
@@ -32051,16 +31231,6 @@
   },
   {
     "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 38941,
-    "article": "38941",
-    "name": "Кабель оптоволоконный ИК/Д2-Т-А1-1.1 кН (плоский)",
-    "fullName": "Кабель оптоволоконный ИК/Д2-Т-А1-1.1 кН (плоский)",
-    "price": 0.95,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
     "code": 28930,
     "article": "28930",
     "name": "Кабель оптоволоконный ИК-Т-А2-1.0 кН( круглый)",
@@ -32071,41 +31241,11 @@
   },
   {
     "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 56476,
-    "article": "56476",
-    "name": "Кабель оптоволоконный ИК/Д2-Т-А2-1.2 кН",
-    "fullName": "Кабель оптоволоконный ИК/Д2-Т-А2-1.2 кН",
-    "price": 93.1,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 25390,
-    "article": "25390",
-    "name": "Кабель оптоволоконный ОКПК-0,22-2(G.652D) 1,2кН",
-    "fullName": "Кабель оптоволоконный ОКПК-0,22-2(G.652D) 1,2кН",
-    "price": 0.95,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
     "code": 27800,
     "article": "27800",
     "name": "Кабель оптоволоконный ОКПК-0,22-4(G.652D) 1,2кН",
     "fullName": "Кабель оптоволоконный ОКПК-0,22-4(G.652D) 1,2кН",
     "price": 142.5,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 28919,
-    "article": "28919",
-    "name": "Кабель оптоволоконный ИК-Т-А4-1.0 кН (круглый)",
-    "fullName": "Кабель оптоволоконный ИК-Т-А4-1.0 кН (круглый)",
-    "price": 171,
     "category": "other",
     "subcategory": "other"
   },
@@ -32191,16 +31331,6 @@
   },
   {
     "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 55173,
-    "article": "55173",
-    "name": "Кабель оптоволоконный ИК/Д-М4П-А8-4.0 кН",
-    "fullName": "Кабель оптоволоконный ИК/Д-М4П-А8-4.0 кН",
-    "price": 0.95,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
     "code": 26997,
     "article": "26997",
     "name": "Кабель оптоволоконный ОКПК-0,22-12(G.652D) 1,2кН",
@@ -32246,16 +31376,6 @@
     "name": "Кабель оптоволоконный ОКПК-0,22-16(G.652D) 1,2кН",
     "fullName": "Кабель оптоволоконный ОКПК-0,22-16(G.652D) 1,2кН",
     "price": 0.95,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 38479,
-    "article": "38479",
-    "name": "Кабель оптоволоконный ИК/Д2-Т-А16-1.9 кН (плоский)",
-    "fullName": "Кабель оптоволоконный ИК/Д2-Т-А16-1.9 кН (плоский)",
-    "price": 285,
     "category": "other",
     "subcategory": "other"
   },
@@ -32341,16 +31461,6 @@
   },
   {
     "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 56475,
-    "article": "56475",
-    "name": "Кабель оптоволоконный ИК/Д2-Т-А1-1.2 кН",
-    "fullName": "Кабель оптоволоконный ИК/Д2-Т-А1-1.2 кН",
-    "price": 0.95,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
     "code": 61764,
     "article": "61764",
     "name": "Оптоволоконный дроп-кабель ИКД2Тнг(А)-HF-O-А2-1.0 кН",
@@ -32366,26 +31476,6 @@
     "name": "Кабель оптоволоконный ОК-FTTx-Fr8-1,0FRP- 2х0,5FRP 9/125 1хG657A1 LSZH",
     "fullName": "Кабель оптоволоконный ОК-FTTx-Fr8-1,0FRP- 2х0,5FRP 9/125 1хG657A1 LSZH",
     "price": 36.1,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 36265,
-    "article": "36265",
-    "name": "Оптоволоконный дроп-кабель ИКД2Тнг(А)-HF-O-А2-1.0 кН (FTTH)",
-    "fullName": "Оптоволоконный дроп-кабель ИКД2Тнг(А)-HF-O-А2-1.0 кН (FTTH)",
-    "price": 57,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 64279,
-    "article": "64279",
-    "name": "Оптический абонентский кабель типа FTTН, Интегра, ИКТ2нг(A)-HF-О-А1-0.3 кН",
-    "fullName": "Оптический абонентский кабель типа FTTН, Интегра, ИКТ2нг(A)-HF-О-А1-0.3 кН",
-    "price": 0.95,
     "category": "other",
     "subcategory": "other"
   },
@@ -32436,16 +31526,6 @@
     "name": "Кабель оптоволоконный ОКГнг(А)-HF-ОМ3(50)-8П-0,7кН",
     "fullName": "Кабель оптоволоконный ОКГнг(А)-HF-ОМ3(50)-8П-0,7кН",
     "price": 2444.35,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 33821,
-    "article": "33821",
-    "name": "Кабель оптоволоконный ИКнг(А)-HF-М4П-А12-0.4 кН",
-    "fullName": "Кабель оптоволоконный ИКнг(А)-HF-М4П-А12-0.4 кН",
-    "price": 427.5,
     "category": "other",
     "subcategory": "other"
   },
@@ -32626,16 +31706,6 @@
     "name": "Рефлектометр VIEW300",
     "fullName": "Рефлектометр VIEW300",
     "price": 712500,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 42821,
-    "article": "42821",
-    "name": "Рефлектометр оптический INNO Instrument VIEW500",
-    "fullName": "Рефлектометр оптический INNO Instrument VIEW500",
-    "price": 2729065.9499999997,
     "category": "other",
     "subcategory": "other"
   },
@@ -33036,16 +32106,6 @@
     "name": "Оптический кросс укомплектованный OWB24",
     "fullName": "Оптический кросс укомплектованный OWB24",
     "price": 20900,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 16477,
-    "article": "16477",
-    "name": "Оптический кросс А-Оптик AO-9001",
-    "fullName": "Оптический кросс А-Оптик AO-9001",
-    "price": 11685,
     "category": "other",
     "subcategory": "other"
   },
@@ -40661,16 +39721,6 @@
   },
   {
     "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 75722,
-    "article": "75722",
-    "name": "Вызывная панель Hikvision DS-KB2411T-IM",
-    "fullName": "Вызывная панель Hikvision DS-KB2411T-IM",
-    "price": 29989.6,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
     "code": 75721,
     "article": "75721",
     "name": "Вызывная панель Hikvision DS-KB2421T-IM",
@@ -43031,16 +42081,6 @@
   },
   {
     "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 67117,
-    "article": "67117",
-    "name": "Интерактивная панель XG 86BCDB138128",
-    "fullName": "Интерактивная панель XG 86BCDB138128",
-    "price": 916750,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
     "code": 68268,
     "article": "68268",
     "name": "Интерактивная доска (панель) Dahua 65\"\" DHI-LPH65-SC410-S2",
@@ -43056,16 +42096,6 @@
     "name": "Интерактивная доска (панель) Dahua 75\"\" DHI-LPH75-MC480-U",
     "fullName": "Интерактивная доска (панель) Dahua 75\"\" DHI-LPH75-MC480-U",
     "price": 983250,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 68269,
-    "article": "68269",
-    "name": "Интерактивная доска (панель) Dahua 75\"\" DHI-LPH75-SC410-S2",
-    "fullName": "Интерактивная доска (панель) Dahua 75\"\" DHI-LPH75-SC410-S2",
-    "price": 841225,
     "category": "other",
     "subcategory": "other"
   },
@@ -43171,16 +42201,6 @@
   },
   {
     "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 56624,
-    "article": "56624",
-    "name": "Интерактивная панель iiyama TE7514MIS-B1AG",
-    "fullName": "Интерактивная панель iiyama TE7514MIS-B1AG",
-    "price": 846687.5,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
     "code": 75566,
     "article": "75566",
     "name": "Интерактивный стол XG 43TSVSTO14432",
@@ -43231,36 +42251,6 @@
   },
   {
     "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 75972,
-    "article": "75972",
-    "name": "Интерактивная панель XG 75TSDBLC1316256",
-    "fullName": "Интерактивная панель XG 75TSDBLC1316256",
-    "price": 802987.5,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 65438,
-    "article": "65438",
-    "name": "Интерактивная панель XG 75TLSM148128",
-    "fullName": "Интерактивная панель XG 75TLSM148128",
-    "price": 684000,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 80848,
-    "article": "80848",
-    "name": "Интерактивная панель XG 65TDS148128",
-    "fullName": "Интерактивная панель XG 65TDS148128",
-    "price": 589950,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
     "code": 80850,
     "article": "80850",
     "name": "Интерактивная панель XG 75TDS148128",
@@ -43286,16 +42276,6 @@
     "name": "Интерактивная панель XG 86TDFMAX148128",
     "fullName": "Интерактивная панель XG 86TDFMAX148128",
     "price": 997500,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 80852,
-    "article": "80852",
-    "name": "Интерактивная панель XG 75TDFMAX21316256",
-    "fullName": "Интерактивная панель XG 75TDFMAX21316256",
-    "price": 955937.5,
     "category": "other",
     "subcategory": "other"
   },
@@ -43961,16 +42941,6 @@
   },
   {
     "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 68113,
-    "article": "68113",
-    "name": "Профессиональный дисплей Hikvision DS-D6055UN-B 55\"\"",
-    "fullName": "Профессиональный дисплей Hikvision DS-D6055UN-B 55\"\"",
-    "price": 0.95,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
     "code": 83758,
     "article": "83758",
     "name": "Профессиональный дисплей Hikvision DS-D6065UN-DL 65\"\"",
@@ -44121,16 +43091,6 @@
   },
   {
     "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 70193,
-    "article": "70193",
-    "name": "Видеостенный дисплей Samsung VM55C-E 55\"\"",
-    "fullName": "Видеостенный дисплей Samsung VM55C-E 55\"\"",
-    "price": 0.95,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
     "code": 58146,
     "article": "58146",
     "name": "Видеостенный дисплей Dahua DHI-LS550UCM-BF 55\"\"",
@@ -44155,16 +43115,6 @@
     "article": "58145",
     "name": "Видеостенный дисплей Dahua DHI-LS550UDM-EF 55\"\"",
     "fullName": "Видеостенный дисплей Dahua DHI-LS550UDM-EF 55\"\"",
-    "price": 0.95,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 61030,
-    "article": "61030",
-    "name": "Видеостенный дисплей Dahua DHI-LS550UDM-UF 55\"\"",
-    "fullName": "Видеостенный дисплей Dahua DHI-LS550UDM-UF 55\"\"",
     "price": 0.95,
     "category": "other",
     "subcategory": "other"
@@ -44386,16 +43336,6 @@
     "name": "Монитор iiyama ProLite PLT2755Q T2755QSC-B1 27\"\"",
     "fullName": "Монитор iiyama ProLite PLT2755Q T2755QSC-B1 27\"\"",
     "price": 215640.5,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 78647,
-    "article": "78647",
-    "name": "Монитор iiyama ProLite PLT2752M T2752MSC-W1 27\"\"",
-    "fullName": "Монитор iiyama ProLite PLT2752M T2752MSC-W1 27\"\"",
-    "price": 265525,
     "category": "other",
     "subcategory": "other"
   },
@@ -44881,16 +43821,6 @@
   },
   {
     "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 85079,
-    "article": "85079",
-    "name": "Кондиционер кассетный TCL TCC-UM36HCTFW без соединительной инсталляции Белый",
-    "fullName": "Кондиционер кассетный TCL TCC-UM36HCTFW без соединительной инсталляции Белый",
-    "price": 598500,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
     "code": 85078,
     "article": "85078",
     "name": "Кондиционер кассетный TCL TCC-UM24HCTFW без соединительной инсталляции Белый",
@@ -45006,16 +43936,6 @@
     "name": "Мульти-сплит система Настенный TCL-12 TACM-TP12INV/R (Внутренний блок)",
     "fullName": "Мульти-сплит система Настенный TCL-12 TACM-TP12INV/R (Внутренний блок)",
     "price": 71250,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "1  слот для нано-SIM-карты,",
-    "code": 73183,
-    "article": "73183",
-    "name": "Мульти-сплит система Настенный TCL-09 TACM-TP09INV/R (Внутренний блок)",
-    "fullName": "Мульти-сплит система Настенный TCL-09 TACM-TP09INV/R (Внутренний блок)",
-    "price": 57000,
     "category": "other",
     "subcategory": "other"
   },
@@ -45366,136 +44286,6 @@
     "name": "Термостат iPower KTS 011 (NO) 250V AC 10A 0-60C",
     "fullName": "Термостат iPower KTS 011 (NO) 250V AC 10A 0-60C",
     "price": 1485.8,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "5 Повреждение упаковки, потертости, потеря емкости АКБ.",
-    "code": 8590,
-    "article": "8590y",
-    "name": "Источник бесперебойного питания SVC RT-10KL-LCD",
-    "fullName": "Источник бесперебойного питания SVC RT-10KL-LCD",
-    "price": 580628,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "5 Повреждение упаковки, потертости, потеря емкости АКБ.",
-    "code": 4576,
-    "article": "4576y",
-    "name": "Стабилизатор SVC R-3000",
-    "fullName": "Стабилизатор SVC R-3000",
-    "price": 38990,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "5 Повреждение упаковки, потертости, потеря емкости АКБ.",
-    "code": 8620,
-    "article": "8620y",
-    "name": "Батарейка CAMELION Lithium P7 FR03-BP4 4 шт. в блистере",
-    "fullName": "Батарейка CAMELION Lithium P7 FR03-BP4 4 шт. в блистере",
-    "price": 2500,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Wi-Fi радио мосты",
-    "code": 3243,
-    "article": "3243y",
-    "name": "Сетевая карта TP-Link TG-3468 PCIe",
-    "fullName": "Сетевая карта TP-Link TG-3468 PCIe",
-    "price": 6962,
-    "category": "setevoe-i-servernoe-oborudovanie",
-    "subcategory": "aktivnoe-setevoe"
-  },
-  {
-    "category_raw": "Оптические модули 1G SFP",
-    "code": 9098,
-    "article": "9098y",
-    "name": "IP модуль SHIP KI-3101",
-    "fullName": "IP модуль SHIP KI-3101",
-    "price": 103527,
-    "category": "kabelnye-sistemy",
-    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
-  },
-  {
-    "category_raw": "Оптические модули 1G SFP",
-    "code": 9099,
-    "article": "9099y",
-    "name": "KVM удлинитель SHIP KL-150",
-    "fullName": "KVM удлинитель SHIP KL-150",
-    "price": 72964,
-    "category": "kabelnye-sistemy",
-    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
-  },
-  {
-    "category_raw": "Панели",
-    "code": 1556,
-    "article": "1556y",
-    "name": "Интерфейсный кабель HDMI-HDMI SHIP SH6016-5B 30В Блистер",
-    "fullName": "Интерфейсный кабель HDMI-HDMI SHIP SH6016-5B 30В Блистер",
-    "price": 4148,
-    "category": "kabelnye-sistemy",
-    "subcategory": "passivnoe-setevoe"
-  },
-  {
-    "category_raw": "Панели",
-    "code": 1994,
-    "article": "1994y",
-    "name": "Интерфейсный кабель HDMI-HDMI SHIP SH6031-15P 30В Пол. пакет",
-    "fullName": "Интерфейсный кабель HDMI-HDMI SHIP SH6031-15P 30В Пол. пакет",
-    "price": 16764,
-    "category": "kabelnye-sistemy",
-    "subcategory": "passivnoe-setevoe"
-  },
-  {
-    "category_raw": "Панели",
-    "code": 3904,
-    "article": "3904y",
-    "name": "Удлинитель VGA 15Male/15Female SHIP VG004M/F-3.0P Пол. пакет",
-    "fullName": "Удлинитель VGA 15Male/15Female SHIP VG004M/F-3.0P Пол. пакет",
-    "price": 380,
-    "category": "kabelnye-sistemy",
-    "subcategory": "passivnoe-setevoe"
-  },
-  {
-    "category_raw": "Панели",
-    "code": 535,
-    "article": "535y",
-    "name": "Сетевой фильтр Trip-lite GR16-1379T 3 м. 220 в.",
-    "fullName": "Сетевой фильтр Trip-lite GR16-1379T 3 м. 220 в.",
-    "price": 1925,
-    "category": "kabelnye-sistemy",
-    "subcategory": "passivnoe-setevoe"
-  },
-  {
-    "category_raw": "Радиоуправляемые машинки и роботы",
-    "code": 9490,
-    "article": "9490y",
-    "name": "Радиоуправляемая машина RASTAR 31700W",
-    "fullName": "Радиоуправляемая машина RASTAR 31700W",
-    "price": 5999,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Радиоуправляемые машинки и роботы",
-    "code": 957,
-    "article": "957y",
-    "name": "Каркасный бассейн Bestway 56706",
-    "fullName": "Каркасный бассейн Bestway 56706",
-    "price": 42934,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
-    "category_raw": "Радиоуправляемые машинки и роботы",
-    "code": 7041,
-    "article": "7041y",
-    "name": "Картридж Europrint EPC-CE390A",
-    "fullName": "Картридж Europrint EPC-CE390A",
-    "price": 6825,
     "category": "other",
     "subcategory": "other"
   },

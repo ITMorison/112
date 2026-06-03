@@ -2011,16 +2011,6 @@
   },
   {
     "category_raw": "Антенны",
-    "code": 50201,
-    "article": "PRICE1-50202",
-    "name": "Антенна для Climbmax ЕМ-9735 400-470МГц",
-    "fullName": "Антенна для Climbmax ЕМ-9735 400-470МГц",
-    "price": 4415,
-    "category": "radio-equipment",
-    "subcategory": "antennas"
-  },
-  {
-    "category_raw": "Антенны",
     "code": 50202,
     "article": "PRICE1-50203",
     "name": "Антенна для Quansheng TG-A8 400-480МГц",
@@ -2490,16 +2480,6 @@
     "subcategory": "other"
   },
   {
-    "category_raw": "Прочие",
-    "code": 50249,
-    "article": "PRICE1-50250",
-    "name": "AC-5890 кабельная сборка 50 Ом PL259-PL259 90 см",
-    "fullName": "AC-5890 кабельная сборка 50 Ом PL259-PL259 90 см",
-    "price": 4415,
-    "category": "other",
-    "subcategory": "other"
-  },
-  {
     "category_raw": "Кабели",
     "code": 50250,
     "article": "PRICE1-50251",
@@ -2661,16 +2641,6 @@
   },
   {
     "category_raw": "Репитеры",
-    "code": 50266,
-    "article": "PRICE1-50267",
-    "name": "AnyTone AT-800 Репитер GSM900 покрытие до 1200 кв.м",
-    "fullName": "AnyTone AT-800 Репитер GSM900 покрытие до 1200 кв.м",
-    "price": 249288,
-    "category": "radio-equipment",
-    "subcategory": "repeaters"
-  },
-  {
-    "category_raw": "Репитеры",
     "code": 50267,
     "article": "PRICE1-50268",
     "name": "AnyTone AT-4100GW Репитер GSM900+3G покрытие до 100 кв. м",
@@ -2696,16 +2666,6 @@
     "name": "AnyTone AT-6000GW Репитер GSM900+3G покрытие до 300 кв. м",
     "fullName": "AnyTone AT-6000GW Репитер GSM900+3G покрытие до 300 кв. м",
     "price": 247926,
-    "category": "radio-equipment",
-    "subcategory": "repeaters"
-  },
-  {
-    "category_raw": "Репитеры",
-    "code": 50270,
-    "article": "PRICE1-50271",
-    "name": "AnyTone AT-6100GW Репитер GSM900+3G покрытие до 500 кв. м",
-    "fullName": "AnyTone AT-6100GW Репитер GSM900+3G покрытие до 500 кв. м",
-    "price": 353598,
     "category": "radio-equipment",
     "subcategory": "repeaters"
   },

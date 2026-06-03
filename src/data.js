@@ -9,6 +9,8 @@ import { NEUPRAVLYAEMYE_SOHO_POE } from './data/neupravlyaemye-soho-poe.js';
 import { UPRAVLYAEMYE_SOHO_POE } from './data/upravlyaemye-soho-poe.js';
 import { PATCH_CORDS } from './data/setevye-patch-kordy.js';
 import { FLOOR_CABINETS } from './data/shkafy-napolnye-servernye.js';
+import { МОНИТОРЫ_ВИДЕОДОМОФОНИИ as INTERCOM_MONITORS } from './data/мониторы-видеодомофонии.js';
+import { МОНИТОРЫ_ВИДЕОДОМОФОНИИ_И_ПРЕОБРАЗОВАТЕЛИ as INTERCOM_MONITORS_AND_CONVERTERS } from './data/мониторы-видеодомофонии-и-преобразователи.js';
 
 export const CONTACT_INFO = {
   phone1: "+7 (776)630-00-44",
@@ -212,6 +214,8 @@ const categoryMap = {
   "Комплекты": { category: "domofoniya", subcategory: "komplekty" },
   "Вызывные панели": { category: "domofoniya", subcategory: "vyzyvnye-paneli" },
   "Мониторы": { category: "domofoniya", subcategory: "monitory" },
+  "Мониторы видеодомофонии": { category: "domofoniya", subcategory: "monitory" },
+  "Мониторы видеодомофонии и преобразователи": { category: "domofoniya", subcategory: "monitory" },
   "Замки и доводчики": { category: "domofoniya", subcategory: "zamki-i-dovodnye" },
   "Клавиши и переходы": { category: "domofoniya", subcategory: "klavishi-i-perekhody" },
   
@@ -433,6 +437,8 @@ const RAW_PRODUCTS = [
   ...UPRAVLYAEMYE_SOHO_POE.map(p => ({ ...p, category_raw: 'Управляемые SOHO PoE' })),
   ...PATCH_CORDS.map(p => ({ ...p, category_raw: 'Сетевые патч корды' })),
   ...FLOOR_CABINETS.map(p => ({ ...p, category_raw: 'Шкафы напольные, серверные' })),
+  ...INTERCOM_MONITORS.map(p => ({ ...p, category_raw: 'Мониторы видеодомофонии' })),
+  ...INTERCOM_MONITORS_AND_CONVERTERS.map(p => ({ ...p, category_raw: 'Мониторы видеодомофонии и преобразователи' })),
 ];
 
 const BLANK_PHOTO = 'data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect fill="%23f1f5f9" width="400" height="300"/><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" fill="%2364748b" font-family="system-ui,sans-serif" font-size="16">Фото скоро будет</text></svg>';
@@ -581,7 +587,29 @@ return {
   description: p.fullName || p.name || "",
   subcategory: subcat || 'other'
 };
-});
+}).filter(isCatalogProduct);
+
+function isCatalogProduct(product) {
+  const text = [
+    product.title,
+    product.description,
+    product.name,
+    product.fullName,
+    product.category_raw,
+    product.category,
+    product.subcategory
+  ].filter(Boolean).join(' ').toLowerCase();
+
+  if (product.category === 'domofoniya') {
+    return product.subcategory === 'monitory' && !/^мониторы$/i.test(String(product.category_raw || '').trim());
+  }
+
+  if (product.subcategory === 'monitory-i-aksessuary' || /^мониторы$/i.test(String(product.category_raw || '').trim())) {
+    return false;
+  }
+
+  return !/(клавиатур|мыш|keyboard|mouse|igrovye-klaviatury|igrovye-myshi|provodnye-klaviatury|provodnye-myshi|besprovodnye-klaviatury|besprovodnye-myshi|ustroystva-vvoda-i-aksessuary)/i.test(text);
+}
 
 export const BRANDS = [];
 

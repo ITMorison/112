@@ -1391,16 +1391,6 @@
   },
   {
     "category_raw": "Процессоры (CPU)",
-    "code": 34264,
-    "article": "YD3400C5M4MFH",
-    "name": "Процессор (CPU) AMD Ryzen 5 3400G 65W AM4",
-    "fullName": "Процессор, AMD, AM4 Ryzen 5 3400G, оем, 4M L3 + 2М L2, 3.7 GHz, 4/8 Core, 65 Вт, Radeon Vega 11 Graphics",
-    "price": 44804,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "komplektuyushchie-dlya-pk"
-  },
-  {
-    "category_raw": "Процессоры (CPU)",
     "code": 47353,
     "article": "100-000000644",
     "name": "Процессор (CPU) AMD Ryzen 5 4500 65W AM4",
@@ -1486,16 +1476,6 @@
     "name": "Процессор (CPU) AMD Ryzen 5 7500F 65W AM5",
     "fullName": "Процессор, AMD, AM5 Ryzen 5 7500F, oem, 6M L2 + 32M L3, 3.7 GHz, 6/12 Core, 65 Вт, без встроенного видео",
     "price": 89909,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "komplektuyushchie-dlya-pk"
-  },
-  {
-    "category_raw": "Процессоры (CPU)",
-    "code": 47517,
-    "article": "100-000000593",
-    "name": "Процессор (CPU) AMD Ryzen 5 7600X 65W AM5",
-    "fullName": "Процессор, AMD, AM5 Ryzen 5 7600X, oem, 6M L2 + 32M L3, 4.7 GHz, 6/12 Core, 105 Вт, AMD Radeon Graphic",
-    "price": 117845,
     "category": "kompyutery-i-komplektuyushchie",
     "subcategory": "komplektuyushchie-dlya-pk"
   },
@@ -3981,16 +3961,6 @@
   },
   {
     "category_raw": "DDR5",
-    "code": 81786,
-    "article": "FL.32G2C.PKH",
-    "name": "Модуль памяти Apacer FL.32G2C.PKH 32GB DDR5 5600MHz",
-    "fullName": "Модуль памяти, Apacer, FL.32G2C.PKH, DDR5, 32GB, DIMM, <PC5-44800/5600MHz>",
-    "price": 303174,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "komplektuyushchie-dlya-pk"
-  },
-  {
-    "category_raw": "DDR5",
     "code": 80575,
     "article": "KVR56U46BS8-16",
     "name": "Модуль памяти Kingston KVR56U46BS8-16 DDR5 16GB",
@@ -4646,16 +4616,6 @@
     "name": "Жесткий диск Seagate Exos X20 ST20000NM007D 20TB SATA",
     "fullName": "Жесткий диск, Seagate, Exos X20, ST20000NM007D, 20TB, SATA 6Gb/s, 3.5\", 7200RPM",
     "price": 327758,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "komplektuyushchie-dlya-pk"
-  },
-  {
-    "category_raw": "Жёсткие диски (HDD)",
-    "code": 60912,
-    "article": "WD101PURP",
-    "name": "Жесткий диск Western Digital WD101PURP HDD 10Tb",
-    "fullName": "Жесткий диск, Western Digital, WD101PURP, HDD 10Tb, SATA 6Gb/s, 3.5\", 256MB, 7200 RPM",
-    "price": 200927,
     "category": "kompyutery-i-komplektuyushchie",
     "subcategory": "komplektuyushchie-dlya-pk"
   },
@@ -5321,31 +5281,11 @@
   },
   {
     "category_raw": "Портативные диски",
-    "code": 74423,
-    "article": 47444,
-    "name": "Внешний SSD диск Verbatim VX500 47444 1TB Серый",
-    "fullName": "Внешний SSD диск, Verbatim, VX500, 47444, 1TB, Type-C и Type-A, Серый",
-    "price": 111017,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "komplektuyushchie-dlya-pk"
-  },
-  {
-    "category_raw": "Портативные диски",
     "code": 74424,
     "article": 47454,
     "name": "Внешний SSD диск Verbatim VX500 47454 2TB Серый",
     "fullName": "Внешний SSD диск, Verbatim, VX500, 47454, 2TB, Type-C и Type-A, Серый",
     "price": 93121,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "komplektuyushchie-dlya-pk"
-  },
-  {
-    "category_raw": "Портативные диски",
-    "code": 82067,
-    "article": 32190,
-    "name": "Внешний SSD диск Verbatim Pocket SSD 32190 1TB Чёрный",
-    "fullName": "Внешний SSD диск, Verbatim, Pocket SSD, 32190, 1TB, Type-C, Чёрный",
-    "price": 125130,
     "category": "kompyutery-i-komplektuyushchie",
     "subcategory": "komplektuyushchie-dlya-pk"
   },
@@ -5376,16 +5316,6 @@
     "name": "Внешний SSD диск Verbatim TurboMetal 32021 1TB",
     "fullName": "Внешний SSD диск, Verbatim, TurboMetal, 32021, 1TB",
     "price": 173582,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "komplektuyushchie-dlya-pk"
-  },
-  {
-    "category_raw": "Портативные диски",
-    "code": 82071,
-    "article": 32022,
-    "name": "Внешний SSD диск Verbatim TurboMetal 32022 2TB",
-    "fullName": "Внешний SSD диск, Verbatim, TurboMetal, 32022, 2TB",
-    "price": 265780,
     "category": "kompyutery-i-komplektuyushchie",
     "subcategory": "komplektuyushchie-dlya-pk"
   },
@@ -5646,16 +5576,6 @@
     "name": "Внешний жёсткий диск Apacer 1TB 2.5\" AC630 Оранжевый",
     "fullName": "Внешний жёсткий диск, Apacer, AC630, AP1TBAC630T-1, 1TB, 2.5\", USB 3.1, Оранжевый",
     "price": 55436,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "komplektuyushchie-dlya-pk"
-  },
-  {
-    "category_raw": "Портативные диски",
-    "code": 34205,
-    "article": "AP2TBAC630T-1",
-    "name": "Внешний жёсткий диск Apacer 2TB 2.5\" AC630 Оранжевый",
-    "fullName": "Внешний жёсткий диск, Apacer, AC630, AP2TBAC630T-1, 2TB, 2.5\", USB 3.1, Оранжевый",
-    "price": 71974,
     "category": "kompyutery-i-komplektuyushchie",
     "subcategory": "komplektuyushchie-dlya-pk"
   },
@@ -6531,16 +6451,6 @@
   },
   {
     "category_raw": "Корпуса",
-    "code": 50609,
-    "article": "GS450C ",
-    "name": "Компьютерный корпус Huntkey GS450C без Б/П",
-    "fullName": "Компьютерный корпус, Huntkey, GS450C, ATX/Micro ATX, USB 1*3.0/2*2.0, HD-Audio+Mic, Кулер 3*12см FRGB, Высота процессорного кулера до 160 мм, Длина VGA до 320мм, 2*3.5\"/2*2.5\", Слот 7, Толщина 0,5мм, 360x200x450мм, Без Б/П, Чёрный",
-    "price": 19463,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "komplektuyushchie-dlya-pk"
-  },
-  {
-    "category_raw": "Корпуса",
     "code": 50627,
     "article": "GS450S",
     "name": "Компьютерный корпус Huntkey GS450S без Б/П",
@@ -7141,16 +7051,6 @@
   },
   {
     "category_raw": "Корпуса",
-    "code": 77493,
-    "article": "APCM-VI01003.11",
-    "name": "Компьютерный корпус Aerocool APNX V1 без Б/П",
-    "fullName": "Компьютерный корпус, Aerocool, APNX V1 (V1-BK-v1), ATX/Micro ATX, USB 1*Type C/2*3.2, HD-Audio+Mic, Высота процессорного кулера до 170 мм, Длина VGA до 395мм, 2*3.5\"/6*2.5\", Толщина 0,8мм, 485.5x290x500мм, Без Б/П, Чёрный",
-    "price": 71940,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "komplektuyushchie-dlya-pk"
-  },
-  {
-    "category_raw": "Корпуса",
     "code": 77497,
     "article": "APCM-VI01003.M1",
     "name": "Компьютерный корпус Aerocool APNX V1 BW без Б/П",
@@ -7221,26 +7121,6 @@
   },
   {
     "category_raw": "Корпуса",
-    "code": 77537,
-    "article": "HVN-CA-HS420-06",
-    "name": "Компьютерный корпус HAVN HS 420 BK без Б/П",
-    "fullName": "Компьютерный корпус, HAVN, HS 420 BK (HVN-CA-HS420-06), E-ATX/ATX/Micro ATX, USB 1*Type C/2*3.2, HD-Audio, Высота процессорного кулера до 185 мм, Длина VGA до 480мм, 5*3.5\"/5*2.5\", Толщина 0,8мм, 541x259,5x547мм, Без Б/П, Чёрный",
-    "price": 110842,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "komplektuyushchie-dlya-pk"
-  },
-  {
-    "category_raw": "Корпуса",
-    "code": 77532,
-    "article": "HVN-CA-HS420-05",
-    "name": "Компьютерный корпус HAVN HS 420 WH без Б/П",
-    "fullName": "Компьютерный корпус, HAVN, HS 420 WH (HVN-CA-HS420-05), E-ATX/ATX/Micro ATX, USB 1*Type C/2*3.2, HD-Audio, Высота процессорного кулера до 185 мм, Длина VGA до 480мм, 5*3.5\"/5*2.5\", Толщина 0,8мм, 541x259,5x547мм, Без Б/П, Белый",
-    "price": 110842,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "komplektuyushchie-dlya-pk"
-  },
-  {
-    "category_raw": "Корпуса",
     "code": 77540,
     "article": "HVN-CA-HS420-08",
     "name": "Компьютерный корпус HAVN HS 420 VGPU BK без Б/П",
@@ -7276,16 +7156,6 @@
     "name": "Компьютерный корпус Cougar MX220 RGB без Б/П",
     "fullName": "Компьютерный корпус, Cougar, MX220 RGB, ATX/Micro ATX/Mini ITX, USB 1*Type C/2*3.0, 4 Pole Headset Audio Jack, RGB Button, Кулер 4*12см ARGB, Высота процессорного кулера до 160 мм, Длина VGA до 340мм, 2*3.5\"/2+2*2.5\", Толщина 0,6мм, 485x205x393мм, Без Б/П, Чёрный",
     "price": 34380,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "komplektuyushchie-dlya-pk"
-  },
-  {
-    "category_raw": "Корпуса",
-    "code": 67923,
-    "article": "CGR-2AC8W-RGB",
-    "name": "Компьютерный корпус Cougar MX220 RGB (White) без Б/П",
-    "fullName": "Компьютерный корпус, Cougar, MX220 RGB (White), ATX/Micro ATX/Mini ITX, USB 1*Type C/2*3.0, 4 Pole Headset Audio Jack, RGB Button, Кулер 4*12см ARGB, Высота процессорного кулера до 160 мм, Длина VGA до 340мм, 2*3.5\"/2+2*2.5\", Толщина 0,6мм, 485x205x393мм, Без Б/П, Белый",
-    "price": 36661,
     "category": "kompyutery-i-komplektuyushchie",
     "subcategory": "komplektuyushchie-dlya-pk"
   },
@@ -7356,16 +7226,6 @@
     "name": "Компьютерный корпус Cougar Airface ECO RGB без Б/П",
     "fullName": "Компьютерный корпус, Cougar, Airface ECO RGB, E-ATX/CEB/ATX/Micro ATX/Mini ITX, USB Type-C/2*3.0, HD-Audio+Mic, Кулер 2*18см/1*12см ARGB, Высота процессорного кулера до 190 мм, Длина VGA до 390мм, 2*3.5\"/2*2.5\", Толщина 0,6мм, 509x240x480мм, Без Б/П, Чёрный",
     "price": 58174,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "komplektuyushchie-dlya-pk"
-  },
-  {
-    "category_raw": "Корпуса",
-    "code": 80397,
-    "article": "CGR-5YA2W-RGB",
-    "name": "Компьютерный корпус Cougar Airface ECO RGB White без Б/П",
-    "fullName": "Компьютерный корпус, Cougar, Airface ECO RGB White, E-ATX/CEB/ATX/Micro ATX/Mini ITX, USB Type-C/2*3.0, HD-Audio+Mic, Кулер 2*18см/1*12см ARGB, Высота процессорного кулера до 190 мм, Длина VGA до 390мм, 2*3.5\"/2*2.5\", Толщина 0,6мм, 509x240x480мм, Без Б/П, Белый",
-    "price": 58499,
     "category": "kompyutery-i-komplektuyushchie",
     "subcategory": "komplektuyushchie-dlya-pk"
   },
@@ -8921,16 +8781,6 @@
   },
   {
     "category_raw": "Корпуса",
-    "code": 79430,
-    "article": "D400 Black",
-    "name": "Компьютерный корпус Jonsbo D400 Black без Б/П",
-    "fullName": "Компьютерный корпус, Jonsbo, D400 Black, Mid-Tower, ATX/M-ATX/m-ITX, Type-C*1/USB3.0*2, Audio+Mic, Высота процессорного кулера до 169 мм, Длина VGA до 450 мм, 1*2.5\"/1*3,5\", Сталь, Пластик, Закаленное стекло, 488*239*514, Без Б/П, Черный",
-    "price": 48403,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "komplektuyushchie-dlya-pk"
-  },
-  {
-    "category_raw": "Корпуса",
     "code": 79431,
     "article": "D400 White",
     "name": "Компьютерный корпус Jonsbo D400 White без Б/П",
@@ -9066,16 +8916,6 @@
     "name": "Компьютерный корпус Jonsbo UMX6-G Silver без Б/П",
     "fullName": "Компьютерный корпус, Jonsbo, UMX6-G Silver, Mid-Tower, EATX/ATX/Micro-ATX/ITX, USB 3.0*2/USB2.0*2/Type-C*1, Audio+Mic*1, Высота процессорного кулера до 169 мм, Длина VGA до 330 мм, 2*2.5''+2*3.5''/4*2.5, Сталь, Алюминий, Закаленное стекло, 224*482*501мм, Без Б/П, Серебряный",
     "price": 91083,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "komplektuyushchie-dlya-pk"
-  },
-  {
-    "category_raw": "Корпуса",
-    "code": 47310,
-    "article": "MOD-3 White",
-    "name": "Компьютерный корпус Jonsbo MOD-3 White без Б/П",
-    "fullName": "Компьютерный корпус, Jonsbo, MOD-3 White, Mid-Tower, EATX/ATX/M-ATX/ITX, USB 3.0*2, Audio+Mic, Высота процессорного кулера до 170 мм, Длина VGA до 400 мм, 2*2.5''+1*3.5''/3*2.5'', Сталь, Пластик, Закаленное стекло, 232*647*620мм, Без Б/П, Белый",
-    "price": 117564,
     "category": "kompyutery-i-komplektuyushchie",
     "subcategory": "komplektuyushchie-dlya-pk"
   },
@@ -9256,16 +9096,6 @@
     "name": "Компьютерный корпус Bequiet! Light Base 500 LX White Без Б/П",
     "fullName": "Компьютерный корпус, Bequiet!, Light Base 500 LX White, BGW86, ATX / M-ATX / Mini-ITX, 1*3.5\"/2*2.5\", 1 / 2, Вентилятор 4*120см, Высота кулера до 185 мм, Длина VGA до 400 мм, 432х305х436 мм, Без Б/П, Белый",
     "price": 96903,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "komplektuyushchie-dlya-pk"
-  },
-  {
-    "category_raw": "Корпуса",
-    "code": 76380,
-    "article": "BGW65",
-    "name": "Компьютерный корпус Bequiet! LIGHT BASE 600 DX Black",
-    "fullName": "Компьютерный корпус, Bequiet!, LIGHT BASE 600 DX Black, BGW65, Без Б/П, ATX PS/2, E-ATX/ ATX/ M-ATX/ Mini-ITX, 2xUSB 3.0, USB 3.1 Gen 2 Type C, Mic+Audio, Midi Tower, Чёрный",
-    "price": 83323,
     "category": "kompyutery-i-komplektuyushchie",
     "subcategory": "komplektuyushchie-dlya-pk"
   },
@@ -12031,16 +11861,6 @@
   },
   {
     "category_raw": "Блоки питания",
-    "code": 37999,
-    "article": "TTM Multi-rail 1600W",
-    "name": "Блок питания X-Game TTM Multi-rail 1600W",
-    "fullName": "Блок питания, X-Game, TTM Multi-rail, 1600W, ATX, APFC, 20+4P, P4+P4*1, (PCI 6+2P to 6+2P)*6PCS, SATA*8+IDE*6, кабель питания, черный",
-    "price": 68491,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "komplektuyushchie-dlya-pk"
-  },
-  {
-    "category_raw": "Блоки питания",
     "code": 43631,
     "article": "2124-0700R0047",
     "name": "Блок питания Gamemax VP 800W RGB M (Bronze)",
@@ -12291,41 +12111,11 @@
   },
   {
     "category_raw": "Мониторы",
-    "code": 60489,
-    "article": "Crimson X White 180HZ",
-    "name": "Монитор 27'' XG Crimson X White 180HZ",
-    "fullName": "Монитор, XG, Crimson X White 180HZ, 27\", IPS, 2560x1440, 180 Гц, 16:9, 300 кд/м2, 1000:1, 1 мс, 178/178, 16.7 млн., DP*2, HDMI*2, Аудиовыход*1, Динамики 2x2 Вт, VESA 100*100 мм, Регулировка высоты/наклона/поворота, кабель DP в комплекте, Белый",
-    "price": 96990,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "monitory-i-aksessuary"
-  },
-  {
-    "category_raw": "Мониторы",
     "code": 51286,
     "article": "XG Darknet X 240HZ",
     "name": "Монитор 27'' XG Darknet X 240HZ",
     "fullName": "Монитор, XG, XG Darknet X 240HZ, 27\", VA, 1920x1080, 240 Гц, 16:9, 250 кд/м2, 3000:1, 1 мс, 178/178, 16.7 млн., DP*2, HDMI*2, Аудиовыход*1, Динамики 2x2 Вт, VESA 100*100 мм, кабель DP в комплекте, Чёрный",
     "price": 86330,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "monitory-i-aksessuary"
-  },
-  {
-    "category_raw": "Мониторы",
-    "code": 60488,
-    "article": "Darknet Pro 360HZ",
-    "name": "Монитор 27'' XG Darknet Pro 360HZ",
-    "fullName": "Монитор, XG, Darknet Pro 360HZ, 27\", IPS, 1920x1080, 360 Гц, 16:9, 300 кд/м2, 1000:1, 1 мс, 178/178, 16.7 млн., DP*2, HDMI*2, Аудиовыход*1, Динамики 2x2 Вт, VESA 100*100 мм, кабель DP в комплекте, Чёрный",
-    "price": 135800,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "monitory-i-aksessuary"
-  },
-  {
-    "category_raw": "Мониторы",
-    "code": 64503,
-    "article": "OLED27",
-    "name": "Монитор 27'' XG OLED27",
-    "fullName": "Монитор, XG, OLED27, 27\", 2560x1440, OLED-матрица, 240 Гц, 16:9, 300 кд/м2, 150000:1 , 0.1 мс, 178/178, 1.07 млрд., DP*1, HDMI*2, USB 3.0*2, USB type-C*1, Аудиовыход*1, Динамики 2x2 Вт, кабели DP/USB/USB type-C в комплекте, Чёрный",
-    "price": 358900,
     "category": "kompyutery-i-komplektuyushchie",
     "subcategory": "monitory-i-aksessuary"
   },
@@ -12426,16 +12216,6 @@
     "name": "Монитор 43\" Dahua DHI-LM43-F400",
     "fullName": "Монитор, Dahua, DHI-LM43-F400, 43\", 3840x2160, IPS, 60 Гц, 16:9, 350 кд/м2, 4000:1, 9.5 мс, 178/178, 16.7 млн., VGA*1, HDMI*2, USB 2.0*1, Динамики 2x6 Вт, VESA 200*200 мм, кабель HDMI в комплекте, Чёрный",
     "price": 242490,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "monitory-i-aksessuary"
-  },
-  {
-    "category_raw": "Мониторы",
-    "code": 53675,
-    "article": "DHI-LM49-S400",
-    "name": "Монитор 49\" Dahua DHI-LM49-S400",
-    "fullName": "Монитор, Dahua, DHI-LM49-S400, 49\", 3840x2160, IPS, 60 Гц, 16:9, 450 кд/м2, 1000:1, 8 мс, 178/178, 1.07 млрд., DP*1, VGA*1, HDMI*2, USB*1, Аудиовход*1, Динамики 2x5 Вт, VESA 400*400 мм, кабель HDMI в комплекте, Чёрный",
-    "price": 602360,
     "category": "kompyutery-i-komplektuyushchie",
     "subcategory": "monitory-i-aksessuary"
   },
@@ -12561,31 +12341,11 @@
   },
   {
     "category_raw": "Мониторы",
-    "code": 64785,
-    "article": "P27QBA-RGPGL",
-    "name": "Монитор Xiaomi G Pro 27i P27QBA-RGPGL 27\"",
-    "fullName": "Монитор, Xiaomi, G Pro 27i, P27QBA-RGPGL, 27\", 2560x1440, IPS, 180 Гц, 16:9, 1000 кд/м2, 1000:1, 1 мс, 178/178, 16.7 млн., DP*2, HDMI*2, Аудиопорт*1, VESA 75*75 мм, кабель DP в комплекте, Чёрный",
-    "price": 184290,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "monitory-i-aksessuary"
-  },
-  {
-    "category_raw": "Мониторы",
     "code": 87795,
     "article": "P27QDB-RGGL",
     "name": "Монитор Xiaomi 2K Gaming Monitor G27Qi 2026 27\"",
     "fullName": "Монитор, Xiaomi, G27Qi 2026, P27QDB-RGGL, 27\", 2560x1440, IPS, 200 Гц, 16:9, 300 кд/м2, 1000:1, 1 мс, 178/178, 16.7 млн., DP*2, HDMI*2, Аудиопорт*1, DC jack x 1, VESA 75*75 мм, кабель DP в комплекте, Чёрный",
     "price": 106690,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "monitory-i-aksessuary"
-  },
-  {
-    "category_raw": "Мониторы",
-    "code": 49527,
-    "article": "XMMNT27NU",
-    "name": "Монитор Xiaomi 4K Monitor 27\"",
-    "fullName": "Монитор, Xiaomi, 4K Monitor 27\", XMMNT27NU, 27\", 3840x2160, IPS, 60 Гц, 16:9, 400 кд/м2, 1000:1, 6 мс, 178/178, 1.07 млрд., DP*1, HDMI*2, USB*2, USB-C*1, Аудиопорт*1, VESA 75*75 мм, Регулировка наклона/поворота/высоты, Чёрный",
-    "price": 232790,
     "category": "kompyutery-i-komplektuyushchie",
     "subcategory": "monitory-i-aksessuary"
   },
@@ -12626,16 +12386,6 @@
     "name": "Монитор 27\" Gigabyte M27Q3 EK",
     "fullName": "Монитор, Gigabyte, M27Q3, 27\", 2560x1440, IPS, 300 Гц/OC 320 Гц, 16:9, 400 кд/м2, 1000:1, 1 мс, 16.7 млн., 178/178, HDMI*2, DP*1, USB 3.0*2, USB-C*1, Аудиопорт*1, VESA 100*100 мм, Регулировка наклона, кабели HDMI/DP/USB в комплекте, Чёрный",
     "price": 232790,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "monitory-i-aksessuary"
-  },
-  {
-    "category_raw": "Мониторы",
-    "code": 42738,
-    "article": "9H.LJPLB.QBE",
-    "name": "Монитор 24\" ZOWIE XL2411K Dark Grey",
-    "fullName": "Монитор, ZOWIE, XL2411K, 9H.LJPLB.QBE, 24\", 1920x1080, TN, 144 Гц, 16:9, 320 кд/м2, 1000:1, 1 мс, 16.7 млн., 178/178, HDMI*3, DP*1, Аудиопорт*1, встроенный БП, VESA 100*100 мм, Регулировка высоты/наклона/вращения/поворота, S Switch (5-way), кабель DP в комплекте, Чёрный",
-    "price": 121561,
     "category": "kompyutery-i-komplektuyushchie",
     "subcategory": "monitory-i-aksessuary"
   },
@@ -12751,16 +12501,6 @@
   },
   {
     "category_raw": "Мониторы",
-    "code": 70255,
-    "article": "LS27CG510EIXCI",
-    "name": "Монитор Samsung 27\" Odyssey G5 LS27CG510EIXCI",
-    "fullName": "Монитор, Samsung, LS27CG510EIXCI, Odyssey G5, 27\", 2560*1440, VA, 165 Гц, 16:9, 300 кд/м2, 3000:1, 1 мс, 178/178, 16.7 млн., DP*1, HDMI*2, Аудиопорт*1, VESA 100*100 мм, Регулировка высоты/наклона/вращения/поворота, кабель DP в комплекте, Чёрный",
-    "price": 155198,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "monitory-i-aksessuary"
-  },
-  {
-    "category_raw": "Мониторы",
     "code": 67220,
     "article": "LS27DG302EIXCI",
     "name": "Монитор Samsung 27″ Odyssey G3 LS27DG302EIXCI",
@@ -12796,16 +12536,6 @@
     "name": "Монитор Samsung 27\" ViewFinity S7 LS27D700EAIXCI",
     "fullName": "Монитор, Samsung, LS27D700EAIXCI, ViewFinity S7 4K, 27\", 3840*2160, IPS, 60 Гц, 16:9, 350 кд/м2, 1000:1, 5 мс, 178/178, 1.07 млрд., DP*1, HDMI*1, Аудиопорт*1, VESA 100*100 мм, Регулировка наклона, кабель HDMI в комплекте, Чёрный",
     "price": 166598,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "monitory-i-aksessuary"
-  },
-  {
-    "category_raw": "Мониторы",
-    "code": 70250,
-    "article": "LS27D604UAIXCI",
-    "name": "Монитор Samsung 27\" ViewFinity S6 LS27D604UAIXCI",
-    "fullName": "Монитор, Samsung, LS27D604UAIXCI, ViewFinity S6 QHD, 27\", 2560x1440, IPS, 100 Гц, 16:9, 350 кд/м2, 1000:1, 5 мс, 178/178, 1.07 млрд., DP*1, HDMI*1, USB*3, USB-C*1, Аудиопорт*1, VESA 100*100 мм, Регулировка высоты/наклона/вращения/поворота, кабели HDMI/USB-C в комплекте, Чёрный",
-    "price": 191080,
     "category": "kompyutery-i-komplektuyushchie",
     "subcategory": "monitory-i-aksessuary"
   },
@@ -12861,16 +12591,6 @@
   },
   {
     "category_raw": "Мониторы",
-    "code": 61667,
-    "article": "LS49C950UAIXCI",
-    "name": "Монитор Samsung 49\" QLED LS49C950UAIXCI",
-    "fullName": "Монитор, Samsung, LS49C950UAIXCI, ViewFinity S9, 49\", Изогнутый, 5120x1440, VA, 120 Гц, 32:9, 350 кд/м2, 3000:1, 5 мс, 178/178, 1.07 млрд., DP*1, HDMI*2, USB-C*1, Динамики 2x5 Вт, VESA 100*100 мм, Регулировка высоты/наклона/вращения, Черный",
-    "price": 630490,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "monitory-i-aksessuary"
-  },
-  {
-    "category_raw": "Мониторы",
     "code": 81707,
     "article": "LS57CG952NIXCI",
     "name": "Монитор Samsung 57\" LS57CG952NIXCI",
@@ -12891,31 +12611,11 @@
   },
   {
     "category_raw": "Мониторы",
-    "code": 73504,
-    "article": "24GS65F-B",
-    "name": "Монитор 24\" LG 24GS65F-B",
-    "fullName": "Монитор, LG, 24GS65F-B, 23.8\", 1920x1080, IPS, 180 Гц, HDMI, DP, 300кд/м2, 1000:1, 16.7M, 1мс, угол обзора(гор/верт) 178/178, 16:9, Чёрный",
-    "price": 93710,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "monitory-i-aksessuary"
-  },
-  {
-    "category_raw": "Мониторы",
     "code": 74068,
     "article": "27MR400-B",
     "name": "Монитор 27\" LG 27MR400 Black",
     "fullName": "Монитор, LG, 27MR400 Black, 27\", 1920x1080, IPS, 100 Гц, HDMI, D-Sub, 250кд/м2, 1300:1, 16.7М, 5мс, угол обзора(гор/верт) 178/178, 16:9, анти-бликовое покрытие, чёрный",
     "price": 71842,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "monitory-i-aksessuary"
-  },
-  {
-    "category_raw": "Мониторы",
-    "code": 73503,
-    "article": "27GS65F-B",
-    "name": "Монитор 27\" LG 27GS65F-B",
-    "fullName": "Монитор, LG, 27GS65F-B, 27\", 1920x1080, IPS, 180 Гц, HDMI, DP, 300кд/м2, 1000:1, 16.7М, 1мс, угол обзора(гор/верт) 178/178, 16:9, Чёрный",
-    "price": 103003,
     "category": "kompyutery-i-komplektuyushchie",
     "subcategory": "monitory-i-aksessuary"
   },
@@ -12981,16 +12681,6 @@
   },
   {
     "category_raw": "Мониторы",
-    "code": 75759,
-    "article": "27BA65QB-B",
-    "name": "Монитор 27\" LG 27BA65QB Black",
-    "fullName": "Монитор, LG, 27BA65QB Black, 27\", 2560x1440, IPS, 100 Гц, HDMI, DP, USB x4, USB-C, 350кд/м2, 1000:1, 16.7М, 5мс, 178/178, 16:9, Чёрный",
-    "price": 193990,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "monitory-i-aksessuary"
-  },
-  {
-    "category_raw": "Мониторы",
     "code": 79260,
     "article": "27GS95QE-B",
     "name": "Монитор 27\" LG 27GS95QE-B",
@@ -13006,16 +12696,6 @@
     "name": "Монитор 32\" LG 32UR500-B Black",
     "fullName": "Монитор, LG, 32UR500-B, 31.5\", 3840x2160, VA, 60 Гц, HDMI*2, DP, 250кд/м2, 3000:1, 1.07B, 4мс, угол обзора(гор/верт) 178/178, 16:9, Черный",
     "price": 186805,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "monitory-i-aksessuary"
-  },
-  {
-    "category_raw": "Мониторы",
-    "code": 87250,
-    "article": "32UN650K-W",
-    "name": "Монитор 31,5\" LG 32UN650K White",
-    "fullName": "Монитор, LG, 32UN650K White, 31,5\", 3840x2160, IPS, 60 Гц, HDMI*2, DP, Динамики, 380кд/м2, 1000:1, 5 мс, угол обзора(гор/верт) 178/178, 16:9, Белый",
-    "price": 255100,
     "category": "kompyutery-i-komplektuyushchie",
     "subcategory": "monitory-i-aksessuary"
   },
@@ -13186,16 +12866,6 @@
     "name": "Монитор iiyama ProLite PL2797QP XUB2797QSNP-B1 27\"",
     "fullName": "Монитор, iiyama, ProLite PL2797QP, XUB2797QSNP-B1, 27\", 2560x1440, IPS, 16:9, 100 Гц, 300 кд/м, 1 мс, 16.7М, 1300:1, 178/178, HDMI*1, DP*1, USB*4, USB-C*1, Mini jack, высота/вращение/наклон/pivot, Черный",
     "price": 0,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "monitory-i-aksessuary"
-  },
-  {
-    "category_raw": "Мониторы",
-    "code": 73669,
-    "article": "XUB2797UHSNP-B1",
-    "name": "Монитор iiyama ProLite XUB2797UHSNP-B1 27\"",
-    "fullName": "Монитор, iiyama, ProLite XUB2797UHSNP-B1, 27\", 3840x2160, IPS, 60 ГЦ, HDMI x1, DP x1, USB (v3.2 x4), USB-C x1, 350 кд/м2, 1300:1, 4 мс, Регулировка наклона/поворота, 178/178, 16:9, Черный",
-    "price": 202650,
     "category": "kompyutery-i-komplektuyushchie",
     "subcategory": "monitory-i-aksessuary"
   },
@@ -13656,16 +13326,6 @@
     "name": "Компьютерная мышь Rapoo N500 Белый",
     "fullName": "Компьютерная мышь, Rapoo, N500, Оптическая, 1200/1800/2400/3600 dpi, USB, Длина кабеля 1,5 метра, Белый",
     "price": 3425,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Проводные комплекты клавиатура+мышь",
-    "code": 12477,
-    "article": "XD-1100OUB",
-    "name": "Комплект Клавиатура + Мышь XG XD-1100OUB",
-    "fullName": "Комплект Клавиатура + Мышь, XG, XD-1100OUB, Оптическая Мышь, USB, Кол-во стандартных клавиш 104, Анг/Рус/Каз, Длина кабеля 1,35 м, Чёрный",
-    "price": 2377,
     "category": "kompyutery-i-komplektuyushchie",
     "subcategory": "ustroystva-vvoda-i-aksessuary"
   },
@@ -14341,26 +14001,6 @@
   },
   {
     "category_raw": "Беспроводные мыши",
-    "code": 71927,
-    "article": "XMWXSB04YM",
-    "name": "Мышь Xiaomi Wireless Mouse Comfort Edition White",
-    "fullName": "Мышь, Xiaomi, Wireless Mouse Comfort Edition White, XMWXSB04YM/BHR9354GL, Размер 111.2 x 74.5 x 40.6 мм, 2.4GHz беспроводное соединение, Входящие параметры 1.5V 50mA, Нетто 62 гр (без батареи), Windows 10, macOS 10.13 и более младшие версии, Белый",
-    "price": 6780,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Беспроводные мыши",
-    "code": 71928,
-    "article": "XMWXSB04YM",
-    "name": "Мышь Xiaomi Wireless Mouse Comfort Edition Black",
-    "fullName": "Мышь, Xiaomi, Wireless Mouse Comfort Edition Black, XMWXSB04YM/BHR9359GL, Размер 111.2 x 74.5 x 40.6 мм, 1200 dpi, 2.4GHz беспроводное соединение, Входящие параметры 1.5V 50mA, Нетто 62 гр (без батареи), Windows 10, macOS 10.13 и более младшие версии, Черный",
-    "price": 6780,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Беспроводные мыши",
     "code": 73244,
     "article": "XMSMSB01YM",
     "name": "Мышь Xiaomi Dual-mode Wireless Mouse 2 White",
@@ -14921,31 +14561,11 @@
   },
   {
     "category_raw": "Игровые мыши",
-    "code": 76217,
-    "article": "AJ179/PRO/White",
-    "name": "Компьютерная мышь Ajazz AJ179 PRO White",
-    "fullName": "Компьютерная мышь, Ajazz, AJ179/PRO/White, AJ179 PRO, Оптическая, Сенсор PixArt PAW3395, до 26000 DPI, Беспроводная, USB, 2,4 ГГц, Bluetooth, Белый",
-    "price": 20360,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Игровые мыши",
     "code": 76213,
     "article": "AJ159/NLP/White",
     "name": "Компьютерная мышь Ajazz AJ159 NL P White",
     "fullName": "Компьютерная мышь, Ajazz, AJ159/NLP/White, AJ159 NL P, Оптическая, Сенсор Ajazz-T PAW3395, до 26000 DPI, 650 IPS, 6 кнопок, Беспроводная, USB, Bluetooth, NearLink, Ускорение 50G, Белый",
     "price": 18032,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Игровые мыши",
-    "code": 76216,
-    "article": "AJ179/PRO/Black",
-    "name": "Компьютерная мышь Ajazz AJ179 PRO Black",
-    "fullName": "Компьютерная мышь, Ajazz, AJ179/PRO/Black, AJ179 PRO, Оптическая, Сенсор PixArt PAW3395, до 26000 DPI, Беспроводная, USB, 2,4 ГГц, Bluetooth, Чёрный",
-    "price": 20360,
     "category": "kompyutery-i-komplektuyushchie",
     "subcategory": "ustroystva-vvoda-i-aksessuary"
   },
@@ -15221,30 +14841,10 @@
   },
   {
     "category_raw": "Игровые мыши",
-    "code": 47823,
-    "article": "GLO-MS-OW-BL-FORGE",
-    "name": "Компьютерная мышь Glorious Model O Pro Blue Lynx (GLO-MS-OW-BL-FORGE)",
-    "fullName": "Компьютерная мышь, Glorious, Model O Pro, GLO-MS-OW-BL-FORGE, Игровая, Оптическая, Беспроводная, Glorious BAMF Sensor, 19000 DPI, 400 IPS, 50G, 1000 Hz, 6 кнопок, Длина провода 2м, Синий/белый",
-    "price": 40439,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Игровые мыши",
     "code": 52138,
     "article": "6N0A8AA",
     "name": "Компьютерная мышь HyperX Pulsefire Haste 2 (White) 6N0A8AA",
     "fullName": "Компьютерная мышь, HyperX, 6N0A8AA, Pulsefire Haste 2, Игровая, Оптическая 32000dpi, 650 IPS, 6 кнопок, Проводная, USB, Белая",
-    "price": 39760,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Игровые мыши",
-    "code": 52051,
-    "article": "6N0A7AA",
-    "name": "Компьютерная мышь HyperX Pulsefire Haste 2 (Black) 6N0A7AA",
-    "fullName": "Компьютерная мышь, HyperX, 6N0A7AA, Pulsefire Haste 2, Игровая, Оптическая 32000dpi, 650 IPS, 6 кнопок, Проводная, USB, Чёрный",
     "price": 39760,
     "category": "kompyutery-i-komplektuyushchie",
     "subcategory": "ustroystva-vvoda-i-aksessuary"
@@ -15256,16 +14856,6 @@
     "name": "Компьютерная мышь HyperX Pulsefire Fuse (Black) A1KY6AA",
     "fullName": "Компьютерная мышь, HyperX, A1KY6AA, Pulsefire Fuse, Игровая, Оптическая 12000dpi, 300 IPS, 6 кнопок, Беспроводная, Чёрный",
     "price": 38790,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Игровые мыши",
-    "code": 74171,
-    "article": "8R2E6AA",
-    "name": "Компьютерная мышь HyperX Pulsefire Haste 2 Core Wireless (Black) 8R2E6AA",
-    "fullName": "Компьютерная мышь, HyperX, 8R2E6AA, Pulsefire Haste 2 Core Wireless, Игровая, Оптическая 32000dpi, 300 IPS, 6 кнопок, Беспроводная, Чёрный",
-    "price": 33940,
     "category": "kompyutery-i-komplektuyushchie",
     "subcategory": "ustroystva-vvoda-i-aksessuary"
   },
@@ -15396,16 +14986,6 @@
     "name": "Компьютерная мышь Razer DeathAdder V3 Pro - White",
     "fullName": "Компьютерная мышь, Razer ,DeathAdder V3 Pro - White, RZ01-04630200-R3G1, Игровая, Оптическая, до 20 000dpi, 8 кнопок, Razer Chroma™ RGB подсветка с реальными 16,8 млн настраиваемыми цветами, беспроводная, USB, 82 г Белая",
     "price": 65562,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Игровые мыши",
-    "code": 44358,
-    "article": "RZ01-03730100-R3G1",
-    "name": "Компьютерная мышь Razer Orochi V2",
-    "fullName": "Компьютерная мышь, Razer, Orochi V2, RZ01-03730100-R3G1, Игровая, Оптическая, 18000 DPI, 450 IPS, 6 Кнопок, Беспроводная, 2.4 ГГц / Bluetooth, 60 г, Чёрный",
-    "price": 32970,
     "category": "kompyutery-i-komplektuyushchie",
     "subcategory": "ustroystva-vvoda-i-aksessuary"
   },
@@ -15601,16 +15181,6 @@
   },
   {
     "category_raw": "Игровые мыши",
-    "code": 49520,
-    "article": "9H.N3CBA.A2E",
-    "name": "Компьютерная мышь ZOWIE FK1+-C",
-    "fullName": "Компьютерная мышь, ZOWIE, FK1+-C, 9H.N3CBA.A2E, оптический, 3200 DPI, 1000 Гц, кнопок 5, 77 гр, 129х65х39 мм (size-XL), кабель 2 м, Проводная, Чёрный",
-    "price": 41700,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Игровые мыши",
     "code": 62947,
     "article": "9H.N4KBE.A2E",
     "name": "Компьютерная мышь ZOWIE U2",
@@ -15631,26 +15201,6 @@
   },
   {
     "category_raw": "Игровые мыши",
-    "code": 37933,
-    "article": 62593,
-    "name": "Компьютерная мышь Steelseries Prime Wireless",
-    "fullName": "Компьютерная мышь, Steelseries, Prime Wireless, 62593, Игровая, Съемное соединение, Оптическая True Move Air, 18000 CPI, 400 IPS, 40 G, 5 кнопок, RGB, Беспроводная, Чёрная",
-    "price": 73710,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Игровые мыши",
-    "code": 40150,
-    "article": 62611,
-    "name": "Компьютерная мышь Steelseries Aerox 3 (2022) Onyx",
-    "fullName": "Компьютерная мышь, Steelseries, Aerox 3 (2022) Onyx, 62611, Игровая, Оптическая, 8500 CPI, 6 кнопок, Подсветка RGB, Проводная 1.8 м, USB, Чёрная",
-    "price": 32970,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Игровые мыши",
     "code": 40152,
     "article": 62608,
     "name": "Компьютерная мышь Steelseries Aerox 3 Wireless (2022) Snow",
@@ -15661,31 +15211,11 @@
   },
   {
     "category_raw": "Игровые мыши",
-    "code": 40153,
-    "article": 62612,
-    "name": "Компьютерная мышь Steelseries Aerox 3 Wireless (2022) Onyx",
-    "fullName": "Компьютерная мышь, Steelseries, Aerox 3 Wireless (2022) Onyx, 62612, Игровая, Оптическая, 18000 CPI, 6 кнопок, Подсветка RGB, Беcпроводная, 2.4 ГГц / Bluetooth 5,0, Чёрная",
-    "price": 52370,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Игровые мыши",
     "code": 43003,
     "article": 62401,
     "name": "Компьютерная мышь Steelseries Aerox 5",
     "fullName": "Компьютерная мышь, Steelseries, Aerox 5, 62401, Игровая, Оптическая, 8500 CPI, 6 кнопок, Подсветка RGB, Проводная 1.8 м, USB, Чёрная",
     "price": 44610,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Игровые мыши",
-    "code": 40151,
-    "article": 62610,
-    "name": "Компьютерная мышь Steelseries Aerox 3 Wireless (2022) Ghost",
-    "fullName": "Компьютерная мышь, Steelseries, Aerox 3 Wireless (2022) Ghost, 62610, Игровая, Оптическая, 18000 CPI, 6 кнопок, Подсветка RGB, Беcпроводная, 2.4 ГГц / Bluetooth 5,0, Серая",
-    "price": 52370,
     "category": "kompyutery-i-komplektuyushchie",
     "subcategory": "ustroystva-vvoda-i-aksessuary"
   },
@@ -16321,16 +15851,6 @@
   },
   {
     "category_raw": "Игровые клавиатуры",
-    "code": 86066,
-    "article": "NKL61/Low/White",
-    "name": "Клавиатура Ajazz NKL61 Low profile Switch White",
-    "fullName": "Клавиатура, Ajazz, NKL61/Low/White, NKL61, Игровая, Механическая, 60%, Low Profile Switch, Проводная, USB, Анг/Рус, Белый",
-    "price": 11630,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Игровые клавиатуры",
     "code": 81512,
     "article": "308i/Cat/Green",
     "name": "Клавиатура Ajazz 308i Cat Gradient Green",
@@ -16351,31 +15871,11 @@
   },
   {
     "category_raw": "Игровые клавиатуры",
-    "code": 76184,
-    "article": "AK820/Red/GW",
-    "name": "Клавиатура Ajazz AK820-AS Red Switch Белый",
-    "fullName": "Клавиатура, Ajazz, AK820/Red/GW, AK820, Игровая, Механическая, 75%, AS Red Switches, USB, Подсветка голубая/белая, Анг/Рус, Белый",
-    "price": 20360,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Игровые клавиатуры",
     "code": 76204,
     "article": "AK820/Moon/GWY",
     "name": "Клавиатура Ajazz AK820 Moon Switch Grey",
     "fullName": "Клавиатура, Ajazz, AK820/Moon/GWY, AK820, Игровая, Механическая, 75%, Moon Switches, USB, Подсветка RGB, Анг/Рус, Серый",
     "price": 26180,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Игровые клавиатуры",
-    "code": 76209,
-    "article": "AK820/MAX/Magnetic/PWB",
-    "name": "Клавиатура Ajazz AK820 MAX Magnetic Switch Белый",
-    "fullName": "Клавиатура, Ajazz, AK820/MAX/Magnetic/PWB, AK820 MAX, Игровая, Механическая, 75%, Magnetic Switches, USB, Подсветка RGB, Размер: 333 x 143 x 20,5 мм., Анг/Рус, Белый",
-    "price": 27732,
     "category": "kompyutery-i-komplektuyushchie",
     "subcategory": "ustroystva-vvoda-i-aksessuary"
   },
@@ -16426,16 +15926,6 @@
     "name": "Клавиатура Ajazz AK820 Max Magnetic Switch Gradient Grey",
     "fullName": "Клавиатура, Ajazz, AK820/MAX/Magnetic/Grey, AK820 Max, Игровая, Механическая, 75%, Magnetic Switches, Проводная, USB, Подсветка RGB, Анг/Рус, Серый",
     "price": 37820,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Игровые клавиатуры",
-    "code": 81515,
-    "article": "AK870/PLUS/Avocado/Black",
-    "name": "Клавиатура Ajazz AK870 Plus Avocado Switch Black",
-    "fullName": "Клавиатура, Ajazz, AK870/PLUS/Avocado/Black, AK870 Plus, Игровая, Механическая, TKL, Avocado Switches, Бесроводная, USB, 2,4 ГГц, Bluetooth, Подсветка RGB, Анг/Рус, Чёрный",
-    "price": 41700,
     "category": "kompyutery-i-komplektuyushchie",
     "subcategory": "ustroystva-vvoda-i-aksessuary"
   },
@@ -16531,16 +16021,6 @@
   },
   {
     "category_raw": "Игровые клавиатуры",
-    "code": 62301,
-    "article": "DPP83_GSH_NAVY_ANSI_UA",
-    "name": "Клавиатура Dark Project KD83A Navy Blue",
-    "fullName": "Клавиатура, Dark Project, KD83A Navy Blue, DPP83_GSH_NAVY_ANSI_UA, TKL, Switch G3MS Sapphire, Игровая, Механическая, Подсветка RGB, Раскладка ENG/RU/UA, Синий",
-    "price": 53253,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Игровые клавиатуры",
     "code": 53300,
     "article": 64831,
     "name": "Клавиатура Steelseries Apex 3 TKL US",
@@ -16581,16 +16061,6 @@
   },
   {
     "category_raw": "Игровые клавиатуры",
-    "code": 30538,
-    "article": 64646,
-    "name": "Клавиатура Steelseries Apex 7 TKL (Red Switch) US",
-    "fullName": "Клавиатура, Steelseries, Apex 7 TKL (Red Switch) US, 64646 Игровая, Механические клавиши QX2, USB, Подсветка RGB, Размер: 160*370*35 мм., Анг/Рус, Чёрный",
-    "price": 95050,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Игровые клавиатуры",
     "code": 66792,
     "article": "A88A111H0A5A06A074",
     "name": "Клавиатура Varmilo Aurora Muse 65 Gateron Varmilo Magnet White switch",
@@ -16616,16 +16086,6 @@
     "name": "Клавиатура Varmilo Aurora VEA108 Cherry MX Brown",
     "fullName": "Клавиатура, Varmilo, Aurora VEA108, A26A060D3A3A06A048, Cherry MX Brown, 108 клавиш, Механическая, Подсветка - Белая, Hot Swap - Нет, Проводная, Type C, 358*134*35мм, Англ/Рус, Черный",
     "price": 74680,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Игровые клавиатуры",
-    "code": 51313,
-    "article": "A26A060D4A3A06A048",
-    "name": "Клавиатура Varmilo Aurora VEA108 Cherry MX Red",
-    "fullName": "Клавиатура, Varmilo, Aurora VEA108, A26A060D4A3A06A048, Cherry MX Red, 108 клавиш, Механическая, Подсветка - Белая, Hot Swap - Нет, Проводная, Type-C, 505*215*65мм, Англ/Рус, Черный",
-    "price": 76620,
     "category": "kompyutery-i-komplektuyushchie",
     "subcategory": "ustroystva-vvoda-i-aksessuary"
   },
@@ -17080,16 +16540,6 @@
     "subcategory": "ustroystva-vvoda-i-aksessuary"
   },
   {
-    "category_raw": "Игровые клавиатуры",
-    "code": 42325,
-    "article": "4P5D6AX#ACB",
-    "name": "Клавиатура HyperX Alloy Origins 65 4P5D6AX#ACB",
-    "fullName": "Клавиатура, HyperX, 4P5D6AX#ACB, Alloy Origins 65, Игровая, Механическая, HyperX Red switch, USB, Подсветка RGB, Размер: 315*106*37 мм., Анг/Рус, Черный",
-    "price": 52370,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
     "category_raw": "Коврики с тканевой поверхностью",
     "code": 32052,
     "article": "Shadow (Small)",
@@ -17391,26 +16841,6 @@
   },
   {
     "category_raw": "Игровые наушники и гарнитуры",
-    "code": 42946,
-    "article": 61631,
-    "name": "Гарнитура Steelseries Arctis Nova 3",
-    "fullName": "Гарнитура, Steelseries, Arctis Nova 3, 61631, Игровая гарнитура, Микрофон выдвижной гибкий, Динамики 40 мм, 36 Ом, 20–22 000 Гц, 3.5 Mini Jack, Чёрный",
-    "price": 52370,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Игровые наушники и гарнитуры",
-    "code": 53299,
-    "article": 61553,
-    "name": "Гарнитура Steelseries Arctis Nova 7",
-    "fullName": "Гарнитура, Steelseries, Arctis Nova 7, 61553, Игровая гарнитура, Микрофон выдвижной гибкий, Динамики 40 мм, 36 Ом, 20–22 000 Гц, 3.5 Mini Jack, Беспроводная, Чёрный",
-    "price": 104750,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Игровые наушники и гарнитуры",
     "code": 52056,
     "article": "6H9B8AA",
     "name": "Гарнитура HyperX CloudX Stinger 2 Core (Black) 6H9B8AA",
@@ -17591,41 +17021,11 @@
   },
   {
     "category_raw": "Игровые наушники и гарнитуры",
-    "code": 42327,
-    "article": "4P5D4AA",
-    "name": "Гарнитура HyperX Cloud Alpha Wireless 4P5D4AA",
-    "fullName": "Гарнитура, HyperX, 4P5D4AA, Cloud Alpha Wireless, Микрофон поворотный гибкий, Динамики 50 мм, 30-500 мВт, 50-18000гц, 3.5 Mini Jack, Чёрный, Цветная коробка",
-    "price": 102810,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Игровые наушники и гарнитуры",
-    "code": 44454,
-    "article": "RZ04-03470100-R3M1",
-    "name": "Гарнитура Razer Kaira Pro for Xbox",
-    "fullName": "Гарнитура, Razer, Kaira Pro for Xbox, RZ04-03470100-R3M1, Игровая гарнитура, беспроводная, микрофон поворотный гибкий, Динамики 50 мм, 7.1 Surround Sound, Диапазон частот: 20 Гц – 20 кГц , Виртуальный объемный звук Windows Sonic, Зарядка полностью разряженной гарнитуры длится приблизительно 4 ч, Диапазон беспроводной связи: 10 м, Чувствительность при 1 кГц: –54±3 дБ, Черный",
-    "price": 78560,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Игровые наушники и гарнитуры",
     "code": 85759,
     "article": "B5VC4AA",
     "name": "Гарнитура HyperX Cloud Flight 2 Wireless Black B5VC4AA",
     "fullName": "Гарнитура, HyperX, B5VC4AA, Cloud Flight 2 Wireless Black, Динамики 50 мм, Микрофон съёмный гибкий, RGB - подсветка, Тип подключение USB 2.4 ГГц, Bluetooth, Черный",
     "price": 92140,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Игровые наушники и гарнитуры",
-    "code": 35308,
-    "article": "RZ04-03230100-R3M1",
-    "name": "Гарнитура Razer Blackshark V2 + USB Sound Card",
-    "fullName": "Гарнитура, Razer, Blackshark V2 + USB Sound Card, RZ04-03230100-R3M1, Игровая гарнитура, Диапазон частот: 12 - 28,000 Гц, 100 дБ, Сопротивление: 32 Oм на 1 кГц, Динамики: 50 мм, с неодимовыми магнитами , Микрофон однонаправленный подвижный, Проводные, 3,5 мм (mini jack), 1.3 метра, Черный",
-    "price": 43640,
     "category": "kompyutery-i-komplektuyushchie",
     "subcategory": "ustroystva-vvoda-i-aksessuary"
   },
@@ -17686,16 +17086,6 @@
     "name": "Гарнитура Razer Kaira X for Xbox - Shock Blue",
     "fullName": "Гарнитура, Razer, Kaira X for Xbox, RZ04-03970400-R3M1, Игровая гарнитура, Микрофон поворотный гибкий, Динамики 50 мм, Излучатели Razer™ TriForce диаметром 50 мм для высочайшего качества звука, Диапазон частот: 20 Гц – 20 кГц , Чувствительность микрофона при 1 кГц: -42±3 дБ, 3,5 мм (mini jack), Синий",
     "price": 32000,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Игровые наушники и гарнитуры",
-    "code": 38832,
-    "article": "RZ04-03480200-R3M1",
-    "name": "Гарнитура Razer Kaira for Xbox - White",
-    "fullName": "Гарнитура, Razer, Kaira for Xbox - White, RZ04-03480200-R3M1, Игровая гарнитура, Микрофон поворотный гибкий, Динамики 50 мм, 7.1 Surround Sound, Диапазон частот: 20 Гц – 20 кГц , Чувствительность при 1 кГц: –54±3 дБ, 3,5 мм (mini jack), Белый",
-    "price": 37820,
     "category": "kompyutery-i-komplektuyushchie",
     "subcategory": "ustroystva-vvoda-i-aksessuary"
   },
@@ -17861,16 +17251,6 @@
   },
   {
     "category_raw": "Игровые наушники и гарнитуры",
-    "code": 44464,
-    "article": "RZ04-04430300-R3M1",
-    "name": "Гарнитура Razer Barracuda X 2022 - Quartz Pink",
-    "fullName": "Гарнитура, Razer, Barracuda X 2022, RZ04-04430300-R3M1, Беспроводные, Микрофон съемный, 20 - 20 000 Гц, Динамики 40 мм, 30 Ом, USB-C, Розовый",
-    "price": 53340,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Игровые наушники и гарнитуры",
     "code": 52105,
     "article": "RZ04-04430400-R3M1",
     "name": "Гарнитура Razer Barracuda X 2022 Roblox Edition",
@@ -17925,16 +17305,6 @@
     "article": "RZ04-03240100-R3M1",
     "name": "Гарнитура Razer Blackshark V2 X",
     "fullName": "Гарнитура, Razer, Blackshark V2 X, RZ04-03240100-R3M1, Игровая гарнитура, Динамики 50 мм, 7.1 Surround Sound, 12 - 28000 Гц, 100 дБ, 32 Ом, Микрофон однонаправленный подвижный, 100 Гц – 10000 Гц, - 42 дБ, Проводные, 3,5 мм MiniJack, Черный",
-    "price": 26180,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Игровые наушники и гарнитуры",
-    "code": 41026,
-    "article": "RZ04-03240600-R3M1",
-    "name": "Гарнитура Razer Blackshark V2 X - Green",
-    "fullName": "Гарнитура, Razer, Blackshark V2 X, RZ04-03240600-R3M1, Игровая гарнитура, Динамики 50 мм, 7.1 Surround Sound, 12 - 28000 Гц, 100 дБ, 32 Ом, Микрофон однонаправленный подвижный, 100 Гц – 10000 Гц, - 42 дБ, Проводные, 3,5 мм MiniJack, Зеленый",
     "price": 26180,
     "category": "kompyutery-i-komplektuyushchie",
     "subcategory": "ustroystva-vvoda-i-aksessuary"
@@ -18341,31 +17711,11 @@
   },
   {
     "category_raw": "Офисные наушники и гарнитуры",
-    "code": 53547,
-    "article": "4099-410-299",
-    "name": "Гарнитура Jabra Engage 40 - USB-C UC Stereo",
-    "fullName": "Гарнитура, Jabra, 4099-410-299, Jabra Engage 40 - USB-C UC Stereo, Проводная, Шумоподавление, 2 x MEMS, -10°C to + 50°C, Размер динамика: 20 мм",
-    "price": 90933,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Офисные наушники и гарнитуры",
     "code": 53545,
     "article": "4093-413-279",
     "name": "Гарнитура Jabra Engage 40 - (Inline Link) USB-A MS Mono",
     "fullName": "Гарнитура, Jabra, 4093-413-279, Jabra Engage 40 - (Inline Link) USB-A MS Mono, Проводная, Шумоподавление, 2 x MEMS, -10°C to + 50°C",
     "price": 103138,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Офисные наушники и гарнитуры",
-    "code": 53548,
-    "article": "4099-413-279",
-    "name": "Гарнитура Jabra Engage 40 - (Inline Link) USB-A MS Stereo",
-    "fullName": "Гарнитура, Jabra, 4099-413-279, Jabra Engage 40 - (Inline Link) USB-A MS Stereo, Проводная, Защита слуха PeakStop, Размер динамика: 20 мм, -10°C to + 50°C, 2 x MEMS",
-    "price": 115344,
     "category": "kompyutery-i-komplektuyushchie",
     "subcategory": "ustroystva-vvoda-i-aksessuary"
   },
@@ -18531,16 +17881,6 @@
   },
   {
     "category_raw": "Офисные наушники и гарнитуры",
-    "code": 64267,
-    "article": "26699-999-899",
-    "name": "Гарнитура Jabra Evolve2 65 Flex Link380c MS Stereo",
-    "fullName": "Гарнитура, Jabra, 26699-999-899, Evolve2 65 Flex Link380c MS Stereo",
-    "price": 175468,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Офисные наушники и гарнитуры",
     "code": 64268,
     "article": "26699-999-889",
     "name": "Гарнитура Jabra Evolve2 65 Flex Link380c MS Stereo WLC",
@@ -18636,16 +17976,6 @@
     "name": "Гарнитура Jabra Engage 75 Stereo EMEA",
     "fullName": "Гарнитура, Jabra, 9559-583-111, Jabra Engage 75 Stereo, EMEA, Беспроводная, Защита слуха PeakStop, мягкая экокожа, -10°C to + 50°C, Накладные",
     "price": 294767,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Офисные наушники и гарнитуры",
-    "code": 53543,
-    "article": "28599-999-999",
-    "name": "Гарнитура Jabra Evolve2 85 Link380a MS Stereo Black",
-    "fullName": "Гарнитура, Jabra, 28599-999-999, Jabra Evolve2 85, Link380a MS Stereo Black, Беспроводная, Шумоподавление, Cтерео, USB-A, -10°C to + 50°C",
-    "price": 316738,
     "category": "kompyutery-i-komplektuyushchie",
     "subcategory": "ustroystva-vvoda-i-aksessuary"
   },
@@ -18771,16 +18101,6 @@
   },
   {
     "category_raw": "Офисные наушники и гарнитуры",
-    "code": 74587,
-    "article": "H101",
-    "name": "Гарнитура Rapoo H101",
-    "fullName": "Гарнитура, Rapoo, H101, Тип крепления: Дуговые, Выходная мощность 50мВт, 3.5MiniJack, Длина кабеля 2.2м",
-    "price": 3589,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Офисные наушники и гарнитуры",
     "code": 29092,
     "article": "H100",
     "name": "Гарнитура Rapoo H100",
@@ -18896,26 +18216,6 @@
     "name": "Наушники Xiaomi Type-C Earphones White",
     "fullName": "Наушники, Xiaomi, Type-C Earphones White, M2413E1/BHR8931GL, 12.4 мм драйвер, Type-C, Длина кабеля 1250 мм, Громкость и многофункциональная клавиша, Белый",
     "price": 3288,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Офисные наушники и гарнитуры",
-    "code": 19403,
-    "article": "HSEJ03JY ",
-    "name": "Наушники Xiaomi Mi Earphones Basic Чёрный",
-    "fullName": "Наушники, Xiaomi, Mi Earphones Basic HSEJ03JY/ZBW4354TY/ZBW4441GL , Универсальная функция Hands Free, кнопка для управления, Чёрный",
-    "price": 2900,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Офисные наушники и гарнитуры",
-    "code": 19404,
-    "article": "HSEJ03JY",
-    "name": "Наушники Xiaomi Mi Earphones Basic Серебристый",
-    "fullName": "Наушники, Xiaomi, Mi Earphones Basic, HSEJ03JY/ZBW4355TY , Универсальная функция Hands Free, кнопка для управления, Серебристый",
-    "price": 2900,
     "category": "kompyutery-i-komplektuyushchie",
     "subcategory": "ustroystva-vvoda-i-aksessuary"
   },
@@ -19111,16 +18411,6 @@
   },
   {
     "category_raw": "Умные колонки",
-    "code": 65832,
-    "article": "YNDX-00026VIO",
-    "name": "Умная колонка Яндекс Станция Лайт с Алисой Второе поколение Фиолетовый",
-    "fullName": "Умная колонка, Яндекс, YNDX-00026VIO, Яндекс Станция Лайт Второе поколение, YaGPT, 6Вт, 2 микрофона, USB TYPE-C, Фиолетовый",
-    "price": 32970,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Умные колонки",
     "code": 69762,
     "article": "YNDX-00027BLK",
     "name": "Умная колонка Яндекс Станция Мини 3 Черный",
@@ -19261,16 +18551,6 @@
   },
   {
     "category_raw": "Умные колонки",
-    "code": 77421,
-    "article": "YNDX-00030BLK",
-    "name": "Портативная умная колонка Яндекс Станция Стрит с Алисой, 30 Вт, Черный",
-    "fullName": "Портативная умная колонка, Яндекс, YNDX-00030BLK, Яндекс Станция Стрит с Алисой, 30 Вт, 3 микрофона, 80 - 20 000 Гц, Wi-Fi (2,4–5 ГГц), Bluetooth 5.0, Черный",
-    "price": 67890,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Умные колонки",
     "code": 80511,
     "article": "YNDX-00030GRY",
     "name": "Портативная умная колонка Яндекс Станция Стрит с Алисой, 30 Вт, Серый",
@@ -19391,36 +18671,6 @@
   },
   {
     "category_raw": "Телевизоры",
-    "code": 72011,
-    "article": "YNDX-00075",
-    "name": "ТВ Станция Бейсик Яндекс YNDX-00075 с Алисой на YaGPT 50\"",
-    "fullName": "ТВ Станция Бейсик, Яндекс, YNDX-00075, с Алисой на YaGPT 50\", KSF LED, 4K Ultra HD, 60 Гц, 320 нит, 30 Вт, 2 динамика, YaOS X, RAM 2 GB, Flash 32 GB, 178/178, Wi-Fi, USB 2х2.0, Bluetooth 5.1, HDMI 3х2.1, черный",
-    "price": 210965,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "monitory-i-aksessuary"
-  },
-  {
-    "category_raw": "Телевизоры",
-    "code": 72012,
-    "article": "YNDX-00076",
-    "name": "ТВ Станция Бейсик Яндекс YNDX-00076 с Алисой на YaGPT 55\"",
-    "fullName": "ТВ Станция Бейсик, Яндекс, YNDX-00076, с Алисой на YaGPT 55\", KSF LED, 4K Ultra HD, 60 Гц, 320 нит, 30 Вт, 2 динамика, YaOS X, RAM 2 GB, Flash 32 GB, 178/178, Wi-Fi, USB 2х2.0, Bluetooth 5.1, HDMI 3х2.1, черный",
-    "price": 241035,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "monitory-i-aksessuary"
-  },
-  {
-    "category_raw": "Телевизоры",
-    "code": 72013,
-    "article": "YNDX-00077",
-    "name": "ТВ Станция Бейсик Яндекс YNDX-00077 с Алисой на YaGPT 65\"",
-    "fullName": "ТВ Станция Бейсик, Яндекс, YNDX-00077, с Алисой на YaGPT 65\", KSF LED, 4K Ultra HD, 60 Гц, 400 нит, 30 Вт, 2 динамика, YaOS X, RAM 2 GB, Flash 32 GB, 178/178, Wi-Fi, USB 2х2.0, Bluetooth 5.1, HDMI 3х2.1, черный",
-    "price": 361800,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "monitory-i-aksessuary"
-  },
-  {
-    "category_raw": "Телевизоры",
     "code": 80498,
     "article": "YNDX-00078",
     "name": "ТВ Станция Яндекс Бейсик QLED 43\"",
@@ -19481,46 +18731,6 @@
   },
   {
     "category_raw": "Телевизоры",
-    "code": 80510,
-    "article": "YNDX-00105",
-    "name": "ТВ Станция Яндекс Про MiniLED 75\"",
-    "fullName": "ТВ Станция, Яндекс, Про MiniLED 75\",YNDX-00105, Ultra HD 4K, 38402160, 144 Гц, 550 (nits), звук 50 Вт, число динамиков - 22 + 1 , YaOS X, RAM 4 GB, Flash 32 GB, Wi-Fi, Bluetooth 5.1 + BLE, 3HDMI 2.1, 166896979",
-    "price": 944770,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "monitory-i-aksessuary"
-  },
-  {
-    "category_raw": "Телевизоры",
-    "code": 73608,
-    "article": "YNDX-00094",
-    "name": "Телевизор Яндекс ТВ Станция с Алисой на YandexGPT QLED 4K UHD 50\"",
-    "fullName": "Телевизор Яндекс, ТВ Станция с Алисой на YandexGPT, YNDX-00094, QLED 50\", 38402160 4K UHD, 60 Гц, 450 (nits), звук 34 Вт , 4 динамика, YaOS X, RAM 3 GB, Flash 32 GB, Wi-Fi, 2  USB 2.0 + 1USB 3.0, Bluetooth 5.1 + BLE, 3HDMI 2.2, черный",
-    "price": 311360,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "monitory-i-aksessuary"
-  },
-  {
-    "category_raw": "Телевизоры",
-    "code": 73609,
-    "article": "YNDX-00095",
-    "name": "Телевизор Яндекс ТВ Станция с Алисой на YandexGPT QLED 4K UHD 55\"",
-    "fullName": "Телевизор Яндекс, ТВ Станция с Алисой на YandexGPT, YNDX-00095, QLED 55\", 38402160 4K UHD, 60 Гц, 450 (nits), звук 34 Вт , 4 динамика, YaOS X, RAM 3 GB, Flash 32 GB, Wi-Fi, 3  USB 2.0 + 1USB 3.0, Bluetooth 5.1 + BLE, 3HDMI 2.3, черный",
-    "price": 351615,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "monitory-i-aksessuary"
-  },
-  {
-    "category_raw": "Телевизоры",
-    "code": 73610,
-    "article": "YNDX-00096",
-    "name": "Телевизор Яндекс ТВ Станция с Алисой на YandexGPT QLED 4K UHD 65\"",
-    "fullName": "Телевизор Яндекс, ТВ Станция с Алисой на YandexGPT, YNDX-00096, QLED 65\", 38402160 4K UHD, 60 Гц, 450 (nits), звук 34 Вт , 4 динамика, YaOS X, RAM 3 GB, Flash 32 GB, Wi-Fi, 4  USB 2.0 + 1USB 3.0, Bluetooth 5.1 + BLE, 3HDMI 2.4, черный",
-    "price": 447160,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "monitory-i-aksessuary"
-  },
-  {
-    "category_raw": "Телевизоры",
     "code": 63598,
     "article": "YNDX-00101",
     "name": "ТВ Станция Про Яндекс YNDX-00101 с Алисой 55\"",
@@ -19531,61 +18741,11 @@
   },
   {
     "category_raw": "Телевизоры",
-    "code": 61212,
-    "article": "L32M8-A2RU",
-    "name": "Смарт телевизор Xiaomi A 2025 32\" (L32M8-A2RU)",
-    "fullName": "Смарт телевизор, Xiaomi, A 2025 32\", L32M8-A2RU, HD (1366*768), 60 Гц, Android, Quad A55, Mali G31 MP2, 1.5GB/8GB, 178/178, динамики 2x5 В, Bluetooth, Wi-Fi, HDMIx2, USB, AV, LAN,VESA 100*100, металическая рамка, черный",
-    "price": 77590,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "monitory-i-aksessuary"
-  },
-  {
-    "category_raw": "Телевизоры",
-    "code": 61211,
-    "article": "L43MA-AURU",
-    "name": "Смарт телевизор Xiaomi A 2025 43\" (L43MA-AURU)",
-    "fullName": "Смарт телевизор, Xiaomi, A 2025 43\", L43MA-AURU, UHD (3840x2160), 60 Гц, Android, Quad A55, Mali G52 MC1, 2GB/8GB, 178/178, динамики 2x8 В, Bluetooth, Wi-Fi, HDMIx3, USB, AV, LAN, VESA 200*100, металическая рамка, черный",
-    "price": 135790,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "monitory-i-aksessuary"
-  },
-  {
-    "category_raw": "Телевизоры",
-    "code": 61213,
-    "article": "L50MA-ARU",
-    "name": "Смарт телевизор Xiaomi A 2025 50\" (L50MA-ARU)",
-    "fullName": "Смарт телевизор, Xiaomi, A 2025 50\", L50MA-ARU, UHD (3840x2160), 60 Гц, Android, Quad A55, Mali G52 MC1, 2GB/8GB, 178/178, динамики 2x10 В, Bluetooth, Wi-Fi, HDMIx3, USB, AV, LAN, VESA 200*200, металическая рамка, черный",
-    "price": 164890,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "monitory-i-aksessuary"
-  },
-  {
-    "category_raw": "Телевизоры",
     "code": 61215,
     "article": "L65MA-ARU",
     "name": "Смарт телевизор Xiaomi A 2025 65\" (L65MA-ARU)",
     "fullName": "Смарт телевизор, Xiaomi, A 2025 65\", L65MA-ARU, UHD (3840x2160), 60 Гц, Android, Quad A55, Mali G52 MC1, 2GB/8GB, 178/178, динамики 2x10 В, Bluetooth, Wi-Fi, HDMIx3, USBx2, AV, LAN, VESA 400*300, металическая рамка, черный",
     "price": 271590,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "monitory-i-aksessuary"
-  },
-  {
-    "category_raw": "Телевизоры",
-    "code": 61183,
-    "article": "L43MA-SRU",
-    "name": "Смарт телевизор Xiaomi A Pro 2025 43\" (L43MA-SRU)",
-    "fullName": "Смарт телевизор, Xiaomi, A Pro 2025 43\", L43MA-SRU, QLED, UHD (3840x2160), 60 Гц, Android, Quad A55, Mali G52 MC1, 2GB/8GB, 178/178, динамики 2x8 В, Bluetooth, Wi-Fi, HDMIx3, USB, AV, LAN, VESA 100*200, металлическая рамка, черный",
-    "price": 145490,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "monitory-i-aksessuary"
-  },
-  {
-    "category_raw": "Телевизоры",
-    "code": 61207,
-    "article": "L55MA-SRU",
-    "name": "Смарт телевизор Xiaomi A Pro 2025 55\" (L55MA-SRU)",
-    "fullName": "Смарт телевизор, Xiaomi, A Pro 2025 55\", L55MA-SRU, QLED, UHD (3840x2160), 60 Гц, Android, Quad A55, Mali G52 MC1, 2GB/8GB, 178/178, динамики 2x10 В, Bluetooth, Wi-Fi, HDMIx3, USB, AV, LAN, VESA 200*200, металическая рамка, черный",
-    "price": 213390,
     "category": "kompyutery-i-komplektuyushchie",
     "subcategory": "monitory-i-aksessuary"
   },
@@ -19605,26 +18765,6 @@
     "article": "L75MA-SRU",
     "name": "Смарт телевизор Xiaomi A Pro 2025 75\" (L75MA-SRU)",
     "fullName": "Смарт телевизор, Xiaomi, A Pro 2025 75\", L75MA-SRU, QLED, UHD (3840x2160), 60 Гц, Android, Quad A55, Mali G52 MC1, 2GB/8GB, 178/178, динамики 2x10 В, Bluetooth, Wi-Fi, HDMIx3, USBx2, AV, LAN, VESA 400*400, металическая рамка, черный",
-    "price": 407390,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "monitory-i-aksessuary"
-  },
-  {
-    "category_raw": "Телевизоры",
-    "code": 74186,
-    "article": "L55MA-SPLRU",
-    "name": "Смарт телевизор Xiaomi 2025 S MiniLED 55\" (L55MA-SPLRU)",
-    "fullName": "Смарт телевизор, Xiaomi, 2025 S MiniLED 55\", L55MA-SPLRU, MiniLED, 4K(3840x2160),144 Гц, Android, Quad cortex A73, Mali-G52 (2EE) MC1, 3GB/32GB, 178/178, динамики 2x12.5 В, Bluetooth, Wi-Fi, HDMI2.1x3, USB(2.0)x1 USB(3.0)x1, AV, LAN, VESA 300*300, пластиковая рамка,темно-серый",
-    "price": 281290,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "monitory-i-aksessuary"
-  },
-  {
-    "category_raw": "Телевизоры",
-    "code": 74191,
-    "article": "L65MA-SPLRU",
-    "name": "Смарт телевизор Xiaomi 2025 S MiniLED 65\" (L65MA-SPLRU)",
-    "fullName": "Смарт телевизор, Xiaomi, 2025 S MiniLED 65\", L65MA-SPLRU, MiniLED, 4K(3840x2160),144 Гц, Android, Quad cortex A73, Mali-G52 (2EE) MC1, 3GB/32GB, 178/178, динамики 2x12.5 В, Bluetooth, Wi-Fi, HDMI2.1x3, USB(2.0)x1 USB(3.0)x1, AV, LAN, VESA 300*300, пластиковая рамка,темно-серый",
     "price": 407390,
     "category": "kompyutery-i-komplektuyushchie",
     "subcategory": "monitory-i-aksessuary"
@@ -19661,36 +18801,6 @@
   },
   {
     "category_raw": "Телевизоры",
-    "code": 82762,
-    "article": "L43MB-AURU",
-    "name": "Смарт телевизор Xiaomi A 2026 43” (L43MB-AURU)",
-    "fullName": "Смарт телевизор, Xiaomi, A 2026 43”, L43MB-AURU, 4K UHD (38402160), 60Гц, Android, QuadA55, MaliG52MC1, 2GB/8GB, 178°/178°, Dolby Audio/DTS-X/DTS, динамики 210Вт, Bluetooth, WiFi, HDMIx3, USB, AV, LAN, Optical Out, CI+ Slot, VESA 100200мм, металлическая рамка, черный",
-    "price": 126090,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "monitory-i-aksessuary"
-  },
-  {
-    "category_raw": "Телевизоры",
-    "code": 82763,
-    "article": "L50MB-ARU",
-    "name": "Смарт телевизор Xiaomi A 2026 50” (L50MB-ARU)",
-    "fullName": "Смарт телевизор, Xiaomi, A 2026 50”, L50MB-ARU, 4K UHD (38402160), 60Гц, Android, QuadA55, MaliG52MC1, 2GB/8GB, 178°/178°, Dolby Audio/DTS-X/DTS, динамики 210Вт, Bluetooth, WiFi, HDMIx3, USB, AV, LAN, Optical Out, CI+ Slot, VESA 100200мм, металлическая рамка, черный",
-    "price": 155190,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "monitory-i-aksessuary"
-  },
-  {
-    "category_raw": "Телевизоры",
-    "code": 83505,
-    "article": "L55MB-ARU",
-    "name": "Смарт телевизор Xiaomi A 2026 55” (L55MB-ARU)",
-    "fullName": "Смарт телевизор, Xiaomi, A 2026 55”, L55MB-ARU, 4K UHD (38402160), 60Гц, Android, QuadA55, MaliG52MC1, 2GB/8GB, 178°/178°, Dolby Audio/DTS-X/DTS, динамики 210Вт, Bluetooth, WiFi, HDMIx3, USB, AV, LAN, Optical Out, CI+ Slot, VESA 200300мм, металлическая рамка, черный",
-    "price": 193990,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "monitory-i-aksessuary"
-  },
-  {
-    "category_raw": "Телевизоры",
     "code": 82764,
     "article": "L65MB-ARU",
     "name": "Смарт телевизор Xiaomi A 2026 65” (L65MB-ARU)",
@@ -19706,26 +18816,6 @@
     "name": "Смарт телевизор Xiaomi A Pro 2026 43” (L43MB-APRU)",
     "fullName": "Смарт телевизор, Xiaomi, A Pro 2026 43”, L43MB-APRU, QLED, 4K UHD (38402160), 60Гц, Android, QuadA55, MaliG52MC1, 2GB/8GB, 178°/178°, Dolby Audio/DTS-X/DTS, динамики 210Вт, Bluetooth, WiFi, HDMIx3, USB, AV, LAN, Optical Out, CI+ Slot, VESA 100200мм, металлическая рамка, черный",
     "price": 155190,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "monitory-i-aksessuary"
-  },
-  {
-    "category_raw": "Телевизоры",
-    "code": 82765,
-    "article": "L50MB-APRU",
-    "name": "Смарт телевизор Xiaomi A Pro 2026 50” (L50MB-APRU)",
-    "fullName": "Смарт телевизор, Xiaomi, A Pro 2026 50”, L50MB-APRU, QLED, 4K UHD (38402160), 60Гц, Android, QuadA55, MaliG52MC1, 2GB/8GB, 178°/178°, Dolby Audio/DTS-X/DTS, динамики 210Вт, Bluetooth, WiFi, HDMIx3, USB, AV, LAN, Optical Out, CI+ Slot, VESA 100x200мм, металлическая рамка, черный",
-    "price": 184290,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "monitory-i-aksessuary"
-  },
-  {
-    "category_raw": "Телевизоры",
-    "code": 82766,
-    "article": "L55MB-APRU",
-    "name": "Смарт телевизор Xiaomi A Pro 2026 55” (L55MB-APRU)",
-    "fullName": "Смарт телевизор, Xiaomi, A Pro 2026 55”, L55MB-APRU, QLED, 4K UHD (38402160), 60Гц, Android, QuadA55, MaliG52MC1, 2GB/8GB, 178°/178°, Dolby Audio/DTS-X/DTS, динамики 210Вт, Bluetooth, WiFi, HDMIx3, USB, AV, LAN, Optical Out, CI+ Slot, VESA 200300мм, металлическая рамка, темно-серый",
-    "price": 223090,
     "category": "kompyutery-i-komplektuyushchie",
     "subcategory": "monitory-i-aksessuary"
   },
@@ -19801,31 +18891,11 @@
   },
   {
     "category_raw": "Телевизоры",
-    "code": 82396,
-    "article": "DHI-LTV43-SD200",
-    "name": "Смарт телевизор Dahua DHI-LTV43-SD200 43\" FHD",
-    "fullName": "Смарт телевизор, Dahua, DHI-LTV43-SD200, 43\", FHD (1920*1080), 60 Гц, Android 11, 1GB/8GB, 178/178, динамики 2x8 В, HDMI*2,USB 2.0*2,mini AV In*1,RJ-45*1,Tuner*2,CI*1, VESA 200*200, черный",
-    "price": 131910,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "monitory-i-aksessuary"
-  },
-  {
-    "category_raw": "Телевизоры",
     "code": 66126,
     "article": "DHI-LTV43-SD400 ",
     "name": "Смарт телевизор Dahua DHI-LTV43-SD400 43\" Ultra HD",
     "fullName": "Смарт телевизор, Dahua, DHI-LTV43-SD400, 43\", Ultra HD (38402160), 60 Гц, Android 11, 2GB/8GB, 178/178, динамики 2x8 В, HDMI*2,USB 2.0*2,mini AV In*1,RJ-45*1, VESA 200*200, черный",
     "price": 145295,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "monitory-i-aksessuary"
-  },
-  {
-    "category_raw": "Телевизоры",
-    "code": 82400,
-    "article": "DHI-LTV43-QSD400",
-    "name": "Смарт телевизор Dahua DHI-LTV43-QSD400 43\" QLED",
-    "fullName": "Смарт телевизор, Dahua, DHI-LTV43-QSD400, 43\", QLED, 3840*2160, 60 Гц, Android 11, 2GB/8GB, 178/178, динамики 2x8 В, HDMI 2.1*2, HDMI-eARC, mini AV-In*1, USB 2.0*2, RJ-45*1, Tuner*2, CI*1, VESA 300*300, черный",
-    "price": 174590,
     "category": "kompyutery-i-komplektuyushchie",
     "subcategory": "monitory-i-aksessuary"
   },
@@ -20161,16 +19231,6 @@
   },
   {
     "category_raw": "Линейно-интерактивные",
-    "code": 14466,
-    "article": "V-800-L",
-    "name": "Источник бесперебойного питания SVC V-800-L",
-    "fullName": "Источник бесперебойного питания, SVC, V-800-L, Мощность 800ВА/480Вт, Диапазон работы AVR: 165-275В, AVR в режиме Booster: 138-292В, Бат.: 12В/9 Ач*1шт., 3 вых.: 2 Shuko CEE7+1 IEC C13 (Bypass), Чёрный",
-    "price": 23270,
-    "category": "setevoe-i-servernoe-oborudovanie",
-    "subcategory": "aktivnoe-setevoe"
-  },
-  {
-    "category_raw": "Линейно-интерактивные",
     "code": 25231,
     "article": "V-1200-L",
     "name": "Источник бесперебойного питания SVC V-1200-L",
@@ -20441,41 +19501,11 @@
   },
   {
     "category_raw": "Линейно-интерактивные",
-    "code": 42550,
-    "article": "UTC650EI",
-    "name": "Источник бесперебойного питания CyberPower UTC650EI",
-    "fullName": "Источник бесперебойного питания, CyberPower, UTC650EI, Мощность 650ВА/360Вт, UTC-серия, Линейно-интерактивный, Напольный, LED, AVR: 165-290В, АКБ 12В/5Ач*1 шт., Вых: 4xIEC C13, Чёрный",
-    "price": 20360,
-    "category": "setevoe-i-servernoe-oborudovanie",
-    "subcategory": "aktivnoe-setevoe"
-  },
-  {
-    "category_raw": "Линейно-интерактивные",
-    "code": 42530,
-    "article": "UT650EG",
-    "name": "Источник бесперебойного питания CyberPower UT650EG",
-    "fullName": "Источник бесперебойного питания, CyberPower, UT650EG, Мощность 650ВА/390Вт, UTG-серия, Линейно-интерактивный, Напольный, LED/RJ11/RJ45e/USB, AVR: 165-290В, АКБ 12В/7Ач*1шт., Вых: 3xSchuko, Чёрный",
-    "price": 26665,
-    "category": "setevoe-i-servernoe-oborudovanie",
-    "subcategory": "aktivnoe-setevoe"
-  },
-  {
-    "category_raw": "Линейно-интерактивные",
     "code": 42554,
     "article": "UTI675E",
     "name": "Источник бесперебойного питания CyberPower UTI675E",
     "fullName": "Источник бесперебойного питания, CyberPower, UTI675E, Мощность 675ВА/360Вт, UTI-серия, Линейно-интерактивный, Напольный, LED, AVR: 165-290В, АКБ 12В/5Ач*1 шт., Вых: 2xSchuko, Чёрный",
     "price": 21136,
-    "category": "setevoe-i-servernoe-oborudovanie",
-    "subcategory": "aktivnoe-setevoe"
-  },
-  {
-    "category_raw": "Линейно-интерактивные",
-    "code": 42555,
-    "article": "UTI875E",
-    "name": "Источник бесперебойного питания CyberPower UTI875E",
-    "fullName": "Источник бесперебойного питания, CyberPower, UTI875E, Мощность 875ВА/425Вт, UTI-серия, Линейно-интерактивный, Напольный, LED, AVR: 165-290В, АКБ 12В/5,5Ач*1 шт., Вых: 2xSchuko, Чёрный",
-    "price": 25210,
     "category": "setevoe-i-servernoe-oborudovanie",
     "subcategory": "aktivnoe-setevoe"
   },
@@ -20616,16 +19646,6 @@
     "name": "Источник бесперебойного питания CyberPower UT2200EG",
     "fullName": "Источник бесперебойного питания, CyberPower, UT2200EG, Мощность 2200ВА/1320Вт, UTG-серия, Линейно-интерактивный, Напольный, LED/RJ11/RJ45e/USB, AVR: 165-290В, АКБ 12В/9Ач*2шт., Вых: 4xSchuko, Чёрный",
     "price": 85738,
-    "category": "setevoe-i-servernoe-oborudovanie",
-    "subcategory": "aktivnoe-setevoe"
-  },
-  {
-    "category_raw": "Линейно-интерактивные",
-    "code": 42574,
-    "article": "VP1200ELCD",
-    "name": "Источник бесперебойного питания CyberPower VP1200ELCD",
-    "fullName": "Источник бесперебойного питания, CyberPower, VP1200ELCD, Мощность 1200ВА/720Вт, VP-серия, Линейно-интерактивный, Напольный, LCD/USB/RJ11/RJ45/RS-232, AVR: 167-295В, АКБ 12В/7Ач*2 шт., Вых: 5xSchuko, Чёрный",
-    "price": 112122,
     "category": "setevoe-i-servernoe-oborudovanie",
     "subcategory": "aktivnoe-setevoe"
   },
@@ -20816,26 +19836,6 @@
     "name": "Источник бесперебойного питания APC Back-UPS BX2200MI-GR",
     "fullName": "Источник бесперебойного питания, APC, Back-UPS BX2200MI-GR, Линейно-интерактивный, Мощность 2200ВА/1200Вт, Напольный, 230В, Вых: 4x Schuko, APCRBC177, Чёрный",
     "price": 181501,
-    "category": "setevoe-i-servernoe-oborudovanie",
-    "subcategory": "aktivnoe-setevoe"
-  },
-  {
-    "category_raw": "Линейно-интерактивные",
-    "code": 61375,
-    "article": "BE650G2-GR",
-    "name": "Источник бесперебойного питания APC Back-UPS BE650G2-GR",
-    "fullName": "Источник бесперебойного питания, APC, Back-UPS BE650G2-GR, Линейно-интерактивный, Мощность 650ВА/400Вт, Напольный, 230В, Вых: 8x Schuko, APCRBC110, Чёрный",
-    "price": 117640,
-    "category": "setevoe-i-servernoe-oborudovanie",
-    "subcategory": "aktivnoe-setevoe"
-  },
-  {
-    "category_raw": "Линейно-интерактивные",
-    "code": 63678,
-    "article": "BE850G2-GR",
-    "name": "Источник бесперебойного питания APC Back-UPS BE850G2-GR",
-    "fullName": "Источник бесперебойного питания, APC, Back-UPS BE850G2-GR, Линейно-интерактивный, Мощность 850ВА/520Вт, Напольный, 230В, Вых: 8x Schuko, USB Type A+C, RBC17, Чёрный",
-    "price": 111550,
     "category": "setevoe-i-servernoe-oborudovanie",
     "subcategory": "aktivnoe-setevoe"
   },
@@ -21051,16 +20051,6 @@
   },
   {
     "category_raw": "Линейно-интерактивные",
-    "code": 62598,
-    "article": "5E900UD",
-    "name": "Источник бесперебойного питания Eaton 5E900UD",
-    "fullName": "Источник бесперебойного питания, Eaton, 5E900UD, Мощность 900ВА/480Вт, Диапазон работы AVR: 140-300В, Бат.: 12В/9 Ач*1шт., Аппроксимированная синусоида, 2 вых.: 2 розетки Schuko, 1 USB порт, Цвет Чёрный",
-    "price": 67733,
-    "category": "setevoe-i-servernoe-oborudovanie",
-    "subcategory": "aktivnoe-setevoe"
-  },
-  {
-    "category_raw": "Линейно-интерактивные",
     "code": 62594,
     "article": "3S700D",
     "name": "Источник бесперебойного питания Eaton 3S700D",
@@ -21091,16 +20081,6 @@
   },
   {
     "category_raw": "Линейно-интерактивные",
-    "code": 83786,
-    "article": "GS-1100",
-    "name": "Источник бесперебойного питания SVC GS-1100",
-    "fullName": "Источник бесперебойного питания, SVC, GS-1100, Мощность 1100ВА/600Вт, Диапазон работы AVR: 145-275В, Аккумулятором емкостью 276 Втч LiFePO4, Интерфейс USB, совместим с системой NAS",
-    "price": 50440,
-    "category": "setevoe-i-servernoe-oborudovanie",
-    "subcategory": "aktivnoe-setevoe"
-  },
-  {
-    "category_raw": "Линейно-интерактивные",
     "code": 18925,
     "article": "V-500-L",
     "name": "Источник бесперебойного питания SVC V-500-L",
@@ -21126,16 +20106,6 @@
     "name": "Источник бесперебойного питания SVC PTL-2K-LCD",
     "fullName": "Источник бесперебойного питания, SVC, PTL-2K-LCD, Мощность 2000ВА/1400Вт,, PTL-серия, LCD\\Tel.line\\USB(Smart), Диапазон работы AVR: 145-275В, Бат.: 12В/7.5Ah*4шт., Вентилятор: 8см*1шт., 3 вых., Чёрный",
     "price": 131189,
-    "category": "setevoe-i-servernoe-oborudovanie",
-    "subcategory": "aktivnoe-setevoe"
-  },
-  {
-    "category_raw": "Напольные",
-    "code": 14650,
-    "article": "PTL-3K-LCD",
-    "name": "Источник бесперебойного питания SVC PTL-3K-LCD",
-    "fullName": "Источник бесперебойного питания, SVC, PTL-3K-LCD, Мощность 3000ВА/2100Вт, PTL-серия, LCD\\Tel.line\\USB(Smart), Диапазон работы AVR: 145-275В, Бат.: 12В/9Ah*4шт., Вентилятор: 8см*1шт., 3 вых., Чёрный",
-    "price": 150426,
     "category": "setevoe-i-servernoe-oborudovanie",
     "subcategory": "aktivnoe-setevoe"
   },
@@ -21216,16 +20186,6 @@
     "name": "Источник бесперебойного питания SVC PTS-1KLN-LCD",
     "fullName": "Источник бесперебойного питания, SVC, PTS-1KLN-LCD, Мощность 1000ВА/1000Вт, PTS-серия, On-Line, LCD\\Интелектуальный слот\\RS-232, USB порт, Диапазон работы AVR: 110-300В, Бат.: 12В/9Ah*3шт., Вентилятор: 8см*1шт., 2вых. Schuko CEE7, Чёрный, замена модели PTS-1KL-LCD",
     "price": 116400,
-    "category": "setevoe-i-servernoe-oborudovanie",
-    "subcategory": "aktivnoe-setevoe"
-  },
-  {
-    "category_raw": "Напольные",
-    "code": 77432,
-    "article": "PTS-2KLN-LCD",
-    "name": "Источник бесперебойного питания SVC PTS-2KLN-LCD",
-    "fullName": "Источник бесперебойного питания, SVC, PTS-2KLN-LCD, Мощность 2000ВА/2000Вт, PTS-серия, On-Line, LCD\\Интелектуальный слот\\RS-232, USB порт, Диапазон работы AVR: 110-300В, Бат.: 12В/9Ah*6шт., Вентилятор: 8см*1шт., 2вых. Schuko CEE7, Чёрный, замена модели PTS-2KL-LCD",
-    "price": 197880,
     "category": "setevoe-i-servernoe-oborudovanie",
     "subcategory": "aktivnoe-setevoe"
   },
@@ -21741,16 +20701,6 @@
   },
   {
     "category_raw": "Стоечные 19\"",
-    "code": 36288,
-    "article": "RTL-800-LCD",
-    "name": "Источник бесперебойного питания SVC RTL-800-LCD",
-    "fullName": "Источник бесперебойного питания, SVC, RTL-800-LCD, Мощность 800ВА/500Вт, RTL-серия, Стоечный 1U, LCD-дисплей, USB (технология Smart), Диапазон работы AVR:160-260В, Бат.:12.8В/5Ah*3шт., Вых: 2 IEC + клеммная колодка, Чёрный",
-    "price": 80015,
-    "category": "setevoe-i-servernoe-oborudovanie",
-    "subcategory": "telekommunikacionnye-shkafy"
-  },
-  {
-    "category_raw": "Стоечные 19\"",
     "code": 14653,
     "article": "RTL-1K-LCD",
     "name": "Источник бесперебойного питания SVC RTL-1K-LCD",
@@ -21896,16 +20846,6 @@
     "name": "Источник бесперебойного питания SVC RT-6KL-LCD",
     "fullName": "Источник бесперебойного питания, SVC, RT-6KL-LCD, Мощность 6кВА/6кВт, Стоечный 19'' 4U, RT-серия, On-Line, LED-LСD\\RS-232, SMART USB, Диапазон работы AVR: 110-288В, Бат.: 12В/7Aч*16шт., Вентилятор: 8cм*2шт., Клеммное подключение, Чёрный",
     "price": 547971,
-    "category": "setevoe-i-servernoe-oborudovanie",
-    "subcategory": "telekommunikacionnye-shkafy"
-  },
-  {
-    "category_raw": "Стоечные 19\"",
-    "code": 8590,
-    "article": "RT-10KL-LCD",
-    "name": "Источник бесперебойного питания SVC RT-10KL-LCD",
-    "fullName": "Источник бесперебойного питания, SVC, RT-10KL-LCD, Мощность 10кВА/10кВт, Стоечный 19'' 4U, RT-серия, On-Line, LED-LCD/RS-232, SMART, Диапазон работы AVR: 110-288В, Бат.: 12В/9Ач*16шт., Вентилятор: 8см*2шт., Клеммное подключение, Чёрный",
-    "price": 675851,
     "category": "setevoe-i-servernoe-oborudovanie",
     "subcategory": "telekommunikacionnye-shkafy"
   },
@@ -23061,16 +22001,6 @@
   },
   {
     "category_raw": "Батарейные блоки",
-    "code": 21169,
-    "article": "BP-PTS-10KL-LCD",
-    "name": "Батарейный блок для ИБП PTS-10KL-LCD",
-    "fullName": "Батарейный блок, SVC, для ИБП PTS-10KL-LCD, Напольный, 12В/9Ah*16шт., Подключения через кабель с коннектором Anderson (в комплекте), Чёрный",
-    "price": 475290,
-    "category": "setevoe-i-servernoe-oborudovanie",
-    "subcategory": "aktivnoe-setevoe"
-  },
-  {
-    "category_raw": "Батарейные блоки",
     "code": 42059,
     "article": "BPE144VL2U01",
     "name": "Батарейный блок CyberPower BPE144VL2U01",
@@ -23891,31 +22821,11 @@
   },
   {
     "category_raw": "Однофазные",
-    "code": 36812,
-    "article": "R-1500",
-    "name": "Стабилизатор SVC R-1500",
-    "fullName": "Стабилизатор (AVR), SVC, R-1500, 1500ВА/1500Вт, Диапазон работы AVR: 140-260В, Выходное напряжение: 220В +/-7%, Задержка включения, выход 2 шт Shсuko, LCD-дисплей, Защита: от перегрузки, короткого замыкания, повышенной температуры, Чёрно-красный",
-    "price": 22300,
-    "category": "setevoe-i-servernoe-oborudovanie",
-    "subcategory": "aktivnoe-setevoe"
-  },
-  {
-    "category_raw": "Однофазные",
     "code": 4575,
     "article": "R-2000",
     "name": "Стабилизатор SVC R-2000",
     "fullName": "Стабилизатор (AVR), SVC, R-2000, 2000ВА/2000Вт, Диапазон работы AVR: 140-260В, Выходное напряжение: 220В +/-7%, Задержка включения, выход 2 шт Shсuko, LCD-дисплей, Защита: от перегрузки, короткого замыкания, повышенной температуры, Чёрно-красный",
     "price": 26180,
-    "category": "setevoe-i-servernoe-oborudovanie",
-    "subcategory": "aktivnoe-setevoe"
-  },
-  {
-    "category_raw": "Однофазные",
-    "code": 4576,
-    "article": "R-3000",
-    "name": "Стабилизатор SVC R-3000",
-    "fullName": "Стабилизатор (AVR), SVC, R-3000, 3000ВА/3000Вт, Диапазон работы AVR: 140-260В, Выходное напряжение: 220В +/-7%, Задержка включения, Клеммная колодка, LCD-дисплей, Защита: от перегрузки, короткого замыкания, повышенной температуры, Чёрно-красный",
-    "price": 37820,
     "category": "setevoe-i-servernoe-oborudovanie",
     "subcategory": "aktivnoe-setevoe"
   },
@@ -24351,16 +23261,6 @@
   },
   {
     "category_raw": "Из 12В,24В,48В в 220В",
-    "code": 39131,
-    "article": "SI-1000",
-    "name": "Инвертор SVC SI-1000",
-    "fullName": "Инвертор, SVC, SI-1000, Мощность 1000ВА/1000Вт, Вход 12В/Выход 210-240В, 1 вых.: Shuko CEE7, USB-порт 2А, Защита от перегрева, перегрузки, короткого замыкания, Чёрный",
-    "price": 29090,
-    "category": "setevoe-i-servernoe-oborudovanie",
-    "subcategory": "aktivnoe-setevoe"
-  },
-  {
-    "category_raw": "Из 12В,24В,48В в 220В",
     "code": 39132,
     "article": "SI-1500",
     "name": "Инвертор SVC SI-1500",
@@ -24501,41 +23401,11 @@
   },
   {
     "category_raw": "Из 12В,24В,48В в 220В",
-    "code": 69721,
-    "article": "AC GB/T - 7кВт",
-    "name": "Автомобильное зарядное устройство SVC AC GB/T - 7кВт",
-    "fullName": "Автомобильная зарядное устройство, SVC, AC GB/T - 7кВт , Мощность: 7000Вт, Выходное напряжение: 400В, Максимальный ток: 32А, Тип разъема для зарядки: GB/T кабель, Длина кабеля: 3 м, LED- индикаторы, Защита от перегрева, перегрузки, короткого замыкания, Габариты Ш*В*Г: 75*200*190,50 (мм)",
-    "price": 47534,
-    "category": "setevoe-i-servernoe-oborudovanie",
-    "subcategory": "aktivnoe-setevoe"
-  },
-  {
-    "category_raw": "Из 12В,24В,48В в 220В",
-    "code": 69720,
-    "article": "AC GB/T - 11кВт ",
-    "name": "Автомобильная зарядная станция SVC AC GB/T - 11кВт",
-    "fullName": "Автомобильная зарядная станция, SVC, AC GB/T - 11кВт , Мощность: 11кВт, Выходное напряжение: 400В, Максимальный ток: 16А, Тип разъема для зарядки: GB/T , Длина кабеля: 5 м, LED- индикаторы, Дисплей 4.3\" для контроля параметров в реальном времени, Защита от перегрева, перегрузки, короткого замыкания, Габариты Ш*В*Г: 270*400*190,51(мм), Настенное крепление/крепление на столбе",
-    "price": 175345,
-    "category": "setevoe-i-servernoe-oborudovanie",
-    "subcategory": "aktivnoe-setevoe"
-  },
-  {
-    "category_raw": "Из 12В,24В,48В в 220В",
     "code": 69719,
     "article": "AC GB/T - 22кВт",
     "name": "Автомобильная зарядная станция SVC AC GB/T - 22кВт",
     "fullName": "Автомобильная зарядная станция, SVC, AC GB/T - 22кВт, Мощность: 22000Вт, Выходное напряжение: 400В, Максимальный ток: 32А, Тип разъема для зарядки: GB/T кабель, Длина кабеля: 5 м, Дисплей 4.3\" для контроля параметров в реальном времени, Защита от перегрева, перегрузки, короткого замыкания, Габариты Ш*В*Г: 270*400*190,51(мм), Настенное крепление",
     "price": 195818,
-    "category": "setevoe-i-servernoe-oborudovanie",
-    "subcategory": "aktivnoe-setevoe"
-  },
-  {
-    "category_raw": "Из 12В,24В,48В в 220В",
-    "code": 47612,
-    "article": " AC Type 2 - 22кВт",
-    "name": "Автомобильная зарядная станция SVC AC Type 2 - 22кВт",
-    "fullName": "Автомобильная зарядная станция, SVC, AC Type 2 - 22кВт, Мощность: 22000Вт, Выходное напряжение: 400В, Максимальный ток: 32А, Тип разъема для зарядки: Type 2 кабель, Длина кабеля: 5 м, LED- индикаторы, Защита от перегрева, перегрузки, короткого замыкания, Настенное крепление/крепление на столбе",
-    "price": 342507,
     "category": "setevoe-i-servernoe-oborudovanie",
     "subcategory": "aktivnoe-setevoe"
   },
@@ -25501,16 +24371,6 @@
   },
   {
     "category_raw": "Графические планшеты",
-    "code": 29073,
-    "article": "H640P",
-    "name": "Графический планшет Huion H640P",
-    "fullName": "Графический планшет, Huion, H640P, Разрешение 5080 lpi, Чувствительность к нажатию 8192, Интерфейс USB, Рабочая область 160*100 мм. (6,3\"х 3,9\"), Чёрный",
-    "price": 26004,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Графические планшеты",
     "code": 81420,
     "article": "MD240UH-EU",
     "name": "Графический планшет XP-Pen Artist Pro 24 (Gen 2) 4K MD240UH-EU",
@@ -25911,16 +24771,6 @@
   },
   {
     "category_raw": "Графические планшеты",
-    "code": 29414,
-    "article": "Star G640",
-    "name": "Графический планшет XP-Pen Star G640",
-    "fullName": "Графический планшет, XP-Pen, Star G640, Разрешение 5080 lpi, Чувствительность к нажатию 8192, Интерфейс USB, Рабочая область 6\"х4\", Чёрный",
-    "price": 22664,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Графические планшеты",
     "code": 43496,
     "article": "Deco Fun S BK",
     "name": "Графический планшет XP-Pen Deco Fun S BK",
@@ -26001,41 +24851,11 @@
   },
   {
     "category_raw": "Графические планшеты",
-    "code": 29989,
-    "article": "Deco Pro Medium",
-    "name": "Графический планшет XP-Pen Deco Pro Medium",
-    "fullName": "Графический планшет, XP-Pen, Deco Pro Medium, Разрешение 5080 lpi, Чувствительность к нажатию 8192, Интерфейс USB Type-C, Рабочая область 279*157 мм., Серый",
-    "price": 67890,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Графические планшеты",
-    "code": 29418,
-    "article": "Artist 12 Pro",
-    "name": "Графический планшет XP-Pen Artist 12 Pro",
-    "fullName": "Графический планшет, XP-Pen, Artist 12 Pro, DPI 1920x1080, Чувствительность к нажатию 8192, Рабочая область 256*144 мм., Чёрный",
-    "price": 184363,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Графические планшеты",
     "code": 72067,
     "article": "Deco 01 (V3)",
     "name": "Графический планшет XP-Pen Deco 01 (V3)",
     "fullName": "Графический планшет, XP-Pen, Deco 01 (V3), Разрешение 5080 lpi, Чувствительность к нажатию 8192, Интерфейс USB, Рабочая область 10\"х6,25\", Чёрный",
     "price": 42854,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Графические планшеты",
-    "code": 74640,
-    "article": "9494G_EU",
-    "name": "Графический планшет XP-Pen Magic Drawing Pad 9494G_EU",
-    "fullName": "Графический планшет, XP-Pen, Magic Drawing Pad 9494G_EU , Разрешение 2540 lpi, Чувствительность к нажатию 16384, Интерфейс USB Type-C, Рабочая область 148x210 мм, Cерый",
-    "price": 290806,
     "category": "kompyutery-i-komplektuyushchie",
     "subcategory": "ustroystva-vvoda-i-aksessuary"
   },
@@ -26151,16 +24971,6 @@
   },
   {
     "category_raw": "Графические планшеты",
-    "code": 68231,
-    "article": "DTH-2420",
-    "name": "Графический планшет Wacom Cintiq Pro 24 touch (DTH-2420) Чёрный",
-    "fullName": "Графический планшет, Wacom, Cintiq Pro 24 touch (DTH-2420), Разрешение 3840 x 2160 (4K UHD), Чувствительность к нажатию 8192, Интерфейс USB-С и HDMI, Размер 677*394*47 мм, Чёрный",
-    "price": 1804190,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Графические планшеты",
     "code": 68223,
     "article": "DTH172K0B",
     "name": "Графический планшет Wacom Cintiq Pro 17 (DTH172K0B) Чёрный",
@@ -26186,16 +24996,6 @@
     "name": "Графический планшет Wacom Intuos M (CTL-6100K-B) Чёрный",
     "fullName": "Графический планшет, Wacom, Intuos M CTL-6100K-B (CTL-6100/K0-BX), Разрешение 2540 lpi, Чувствительность к нажатию 4096, 4 программируемые клавиши, 2 клавиши на пере, Размер планшета 264*200*8,8 мм, Чёрный",
     "price": 52370,
-    "category": "kompyutery-i-komplektuyushchie",
-    "subcategory": "ustroystva-vvoda-i-aksessuary"
-  },
-  {
-    "category_raw": "Графические планшеты",
-    "code": 22405,
-    "article": "PTH-860P-N",
-    "name": "Графический планшет Wacom Intuos Pro Large Paper Edition R/N (PTH-860P-N) Чёрный",
-    "fullName": "Графический планшет, Wacom, Intuos Pro Large Paper Edition R/N (PTH-860P-N), Разрешение 5080 lpi, Чувствительность к нажатию 8192, ExpressKeys: 8 программируемых клавиш, Размер 430x287x8 мм, Чёрный",
-    "price": 486064,
     "category": "kompyutery-i-komplektuyushchie",
     "subcategory": "ustroystva-vvoda-i-aksessuary"
   },
@@ -26996,16 +25796,6 @@
     "name": "Платформа рабочей станции SUPERMICRO SYS-551A-T",
     "fullName": "Платформа рабочей станции, SUPERMICRO, SYS-551A-T, LGA4677, Intel® W790, PCI-E, VGA, SATA, 4xNHS NVMe/SATA, 2xGbLAN, 16 DDR5, 2000W HS",
     "price": 1537566,
-    "category": "setevoe-i-servernoe-oborudovanie",
-    "subcategory": "servery"
-  },
-  {
-    "category_raw": "Серверные платформы",
-    "code": 50810,
-    "article": "Antminer-S19J Pro+",
-    "name": "Сервер Bitmain Antminer-S19J Pro+",
-    "fullName": "Сервер, Bitmain, Antminer-S19J Pro+, 27.5J/T, 3355Вт, белый",
-    "price": 1275439,
     "category": "setevoe-i-servernoe-oborudovanie",
     "subcategory": "servery"
   },
@@ -33351,16 +32141,6 @@
   },
   {
     "category_raw": "SOHO маршрутизаторы",
-    "code": 77507,
-    "article": "TUF-BE6500",
-    "name": "Сетевой маршрутизатор со встроенной беспроводной точкой доступа ASUS TUF-BE6500",
-    "fullName": "Сетевой маршрутизатор со встроенной беспроводной точкой доступа, ASUS, TUF-BE6500, WiFi 7, 802.11be, BE6500, 1x2.5G-WAN, 3x2.5-LAN, 1xUSB 3.0",
-    "price": 118340,
-    "category": "setevoe-i-servernoe-oborudovanie",
-    "subcategory": "aktivnoe-setevoe"
-  },
-  {
-    "category_raw": "SOHO маршрутизаторы",
     "code": 45042,
     "article": "GS-AX5400",
     "name": "Сетевой маршрутизатор со встроенной беспроводной точкой доступа ASUS GS-AX5400",
@@ -34241,16 +33021,6 @@
   },
   {
     "category_raw": "SOHO маршрутизаторы",
-    "code": 30219,
-    "article": "AC12",
-    "name": "Маршрутизатор Mercusys AC12",
-    "fullName": "Маршрутизатор, Mercusys, AC12, 1200 мбит/с, 3 порта LAN 10/100 Мбит/с, 1 порт WAN 10/100 Мбит/с",
-    "price": 15704,
-    "category": "setevoe-i-servernoe-oborudovanie",
-    "subcategory": "aktivnoe-setevoe"
-  },
-  {
-    "category_raw": "SOHO маршрутизаторы",
     "code": 40753,
     "article": "MR30G",
     "name": "Маршрутизатор Mercusys MR30G",
@@ -35081,16 +33851,6 @@
   },
   {
     "category_raw": "GSM LTE Модемы Роутеры",
-    "code": 37908,
-    "article": "M7000",
-    "name": "Маршрутизатор 3G/4G Мобильный TP-Link M7000",
-    "fullName": "Маршрутизатор 3G/4G Мобильный , TP-Link, M7000, Слот для SIM-карты, 1 порт micro USB для зарядки. LED-дисплей, 2000 мАч, 802.11b/g/n",
-    "price": 29090,
-    "category": "setevoe-i-servernoe-oborudovanie",
-    "subcategory": "aktivnoe-setevoe"
-  },
-  {
-    "category_raw": "GSM LTE Модемы Роутеры",
     "code": 37907,
     "article": "M7200",
     "name": "Маршрутизатор 3G/4G Мобильный TP-Link M7200",
@@ -35551,16 +34311,6 @@
   },
   {
     "category_raw": "Mesh системы",
-    "code": 37362,
-    "article": "Deco M9 Plus(2-pack)",
-    "name": "Маршрутизатор TP-Link Deco M9 Plus(2-pack)",
-    "fullName": "Маршрутизатор, TP-Link, Deco M9 Plus(2-pack), Wi-Fi 5, 2,4 ГГц/5 ГГц, 2 порта 10/100/1000M WAN/LAN, AC2200 Mesh Wi-Fi система для умного дома, IEEE 802.11a/b/g/n/ac, 44 MU-MIMO, 2 модуля",
-    "price": 143550,
-    "category": "setevoe-i-servernoe-oborudovanie",
-    "subcategory": "aktivnoe-setevoe"
-  },
-  {
-    "category_raw": "Mesh системы",
     "code": 71945,
     "article": "Deco M9 Plus(3-pack)",
     "name": "Маршрутизатор TP-Link Deco M9 Plus(3-pack)",
@@ -35606,16 +34356,6 @@
     "name": "Беспроводная MESH-система Wi-Fi TP-Link Deco X10(2-pack)",
     "fullName": "Беспроводная MESH-система Wi-Fi, TP-Link, Deco X10(2-pack), Wi-Fi 6, 2,4 ГГц/5 ГГц, 802.11a/b/g/n/ac/ax, AX1500, 2 гигабитных порта WAN или LAN (на каждом устройстве), 2 модуля",
     "price": 70800,
-    "category": "setevoe-i-servernoe-oborudovanie",
-    "subcategory": "aktivnoe-setevoe"
-  },
-  {
-    "category_raw": "Mesh системы",
-    "code": 58674,
-    "article": "Deco X10(3-pack)",
-    "name": "Беспроводная MESH-система Wi-Fi TP-Link Deco X10(3-pack)",
-    "fullName": "Беспроводная MESH-система Wi-Fi, TP-Link, Deco X10(3-pack), Wi-Fi 6, 802.11a/b/g/n/ac/ax, 2,4 ГГц/5 ГГц, AX1500, 2 гигабитных порта WAN или LAN (на каждом устройстве), 3 модуля",
-    "price": 105720,
     "category": "setevoe-i-servernoe-oborudovanie",
     "subcategory": "aktivnoe-setevoe"
   },
@@ -37551,16 +36291,6 @@
   },
   {
     "category_raw": "Wi-Fi радио мосты",
-    "code": 85363,
-    "article": "LHG-5axD-XL",
-    "name": "Точка доступа MikroTik LHG-5axD-XL",
-    "fullName": "Точка доступа, MikroTik, LHG-5axD-XL, LHG XL 5 ax, 1xGbit LAN, PoE-IN - Passive PoE, 5 GHz, RouterOS, -40°C to 70°C",
-    "price": 78376,
-    "category": "setevoe-i-servernoe-oborudovanie",
-    "subcategory": "aktivnoe-setevoe"
-  },
-  {
-    "category_raw": "Wi-Fi радио мосты",
     "code": 50247,
     "article": "RBSXTG-5HPacD-SA",
     "name": "Точка доступа MikroTik RBSXTG-5HPacD-SA",
@@ -37616,16 +36346,6 @@
     "name": "Беспроводной маршрутизатор MikroTik RBwAPG-60ad-A",
     "fullName": "Беспроводной маршрутизатор, MikroTik, RBwAPG-60ad-A, wAP 60G AP, 802.11 a/b/g/n/ac, RouterOS, 1  Ethernet 10/100/1000 Мбит/сек",
     "price": 96030,
-    "category": "setevoe-i-servernoe-oborudovanie",
-    "subcategory": "aktivnoe-setevoe"
-  },
-  {
-    "category_raw": "Wi-Fi радио мосты",
-    "code": 50249,
-    "article": "RBSXTsq2nD",
-    "name": "Точка доступа MikroTik RBSXTsq2nD",
-    "fullName": "Точка доступа, MikroTik, RBSXTsq2nD, SXTsq Lite2, 802.11b/g/n, 2.4GHz, 10dBi, 1 порт 10/100M, Passive PoE in, RouterOS (3), -40°C to 70°C, IP54",
-    "price": 26675,
     "category": "setevoe-i-servernoe-oborudovanie",
     "subcategory": "aktivnoe-setevoe"
   },
@@ -39071,41 +37791,11 @@
   },
   {
     "category_raw": "Модемы",
-    "code": 53155,
-    "article": "DSL-AX82U",
-    "name": "Сетевой маршрутизатор со встроенной беспроводной точкой доступа ASUS DSL-AX82U",
-    "fullName": "Сетевой маршрутизатор со встроенной беспроводной точкой доступа, ASUS, DSL-AX82U, 802.11/n/ac/ax, AX5400, 1 порт 10/100/1000M WAN , 4 порта 10/100/1000M LAN, 1 порт RJ11 (xDSL), 1 порт USB3.2",
-    "price": 154958,
-    "category": "setevoe-i-servernoe-oborudovanie",
-    "subcategory": "aktivnoe-setevoe"
-  },
-  {
-    "category_raw": "Модемы",
-    "code": 53154,
-    "article": "DSL-AC88U",
-    "name": "Сетевой маршрутизатор со встроенной беспроводной точкой доступа ASUS DSL-AC88U",
-    "fullName": "Сетевой маршрутизатор со встроенной беспроводной точкой доступа, ASUS, DSL-AC88U, 802.11/n/ac, AX3100, 1 порт 10/100/1000M WAN , 4 порта 10/100/1000M LAN, 1 порт RJ11 (xDSL)",
-    "price": 156308,
-    "category": "setevoe-i-servernoe-oborudovanie",
-    "subcategory": "aktivnoe-setevoe"
-  },
-  {
-    "category_raw": "Модемы",
     "code": 22082,
     "article": "DSL-30CF/RS",
     "name": "ADSL Сплиттер D-Link DSL-30CF/RS",
     "fullName": "ADSL Сплиттер, D-Link, DSL-30CF/RS, 1 разъем RJ-11 для подключения к телефонной линии,, 1 разъем RJ-11 для подключения телефона (или мини-АТС), 1 разъем RJ-11 для подключения ADSL-модема",
     "price": 1843,
-    "category": "setevoe-i-servernoe-oborudovanie",
-    "subcategory": "aktivnoe-setevoe"
-  },
-  {
-    "category_raw": "Модемы",
-    "code": 32304,
-    "article": "MW300D",
-    "name": "Маршрутизатор Mercusys MW300D",
-    "fullName": "Маршрутизатор, Mercusys, MW300D, Wi-Fi роутер 802.11b/g/n с ADSL2+ модемом, 3 порта LAN 10/100 Мбит/с 1 порт RJ11",
-    "price": 13861,
     "category": "setevoe-i-servernoe-oborudovanie",
     "subcategory": "aktivnoe-setevoe"
   },
@@ -39226,16 +37916,6 @@
     "name": "Инжектор Dahua DH-PFT1200",
     "fullName": "Инжектор, Dahua, DH-PFT1200, Hi-PoE 60 Вт, 802.3af/at/bt",
     "price": 29517,
-    "category": "setevoe-i-servernoe-oborudovanie",
-    "subcategory": "aktivnoe-setevoe"
-  },
-  {
-    "category_raw": "PoE адаптеры",
-    "code": 41019,
-    "article": "DPE-301GI/A1B",
-    "name": "Гигабитный PoE-инжектор D-Link DPE-301GI/A1B",
-    "fullName": "Гигабитный PoE-инжектор, D-Link, DPE-301GI/A1B, Порт 10/100/1000BASE-T, PoE 802.3af/at, 30 Вт",
-    "price": 18352,
     "category": "setevoe-i-servernoe-oborudovanie",
     "subcategory": "aktivnoe-setevoe"
   },
@@ -39456,16 +38136,6 @@
     "name": "Сетевой адаптер ASUS USB-BT500",
     "fullName": "USB-адаптер беспроводного интерфейса Bluetooth, ASUS, USB-BT500, 2.4 ГГц, 3 Мбит/с, Bluetooth 5.0, USB 2.0",
     "price": 8878,
-    "category": "setevoe-i-servernoe-oborudovanie",
-    "subcategory": "aktivnoe-setevoe"
-  },
-  {
-    "category_raw": "USB",
-    "code": 27013,
-    "article": "USB-N10 NANO",
-    "name": "Сетевой адаптер ASUS USB-N10 NANO",
-    "fullName": "Сетевой адаптер, ASUS, USB-N10 NANO, 2.4 ГГц, 150 Мбит/с, 15.5 dBm, USB 2.0",
-    "price": 7951,
     "category": "setevoe-i-servernoe-oborudovanie",
     "subcategory": "aktivnoe-setevoe"
   },
@@ -40031,16 +38701,6 @@
   },
   {
     "category_raw": "Оборудование xPON",
-    "code": 44222,
-    "article": "GP3600-08B-2AC",
-    "name": "Станционный терминал OLT BDCOM GP3600-08B-2AC",
-    "fullName": "Станционный терминал OLT, BDCOM, GP3600-08B-2AC, 8 PON портов, 4 GE SFP портов, 4 GE SFP/RJ45 комбо порта, 4 10GE SFP+ портов, 2xAC 100-240V, 19-inch standard rack-mounted",
-    "price": 776000,
-    "category": "kabelnye-sistemy",
-    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
-  },
-  {
-    "category_raw": "Оборудование xPON",
     "code": 44223,
     "article": "GP3600-16B-2AC",
     "name": "Станционный терминал OLT BDCOM GP3600-16B-2AC",
@@ -40176,16 +38836,6 @@
     "name": "Трансивер MikroTik S-31DLC20D",
     "fullName": "Трансивер, MikroTik, S-31DLC20D, SFP, 1.25G, SM, 1310nm, 20km, Dual LC-connector",
     "price": 18430,
-    "category": "kabelnye-sistemy",
-    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
-  },
-  {
-    "category_raw": "Оптические модули 1G SFP",
-    "code": 50266,
-    "article": "S-3553LC20D",
-    "name": "Комплект трансиверов MikroTik S-3553LC20D",
-    "fullName": "Комплект трансиверов, MikroTik, S-3553LC20D, SFP, 1.25G, SM, T1550nm/R1310nm, 20km, Single LC-connector",
-    "price": 47530,
     "category": "kabelnye-sistemy",
     "subcategory": "komponenty-dlya-optovolokonnoj-seti"
   },
@@ -42131,16 +40781,6 @@
   },
   {
     "category_raw": "Шкафы напольные, серверные",
-    "code": 21916,
-    "article": "VE.8042.56.100",
-    "name": "Шкаф коммуникационный Ship, VE.8042.56.100 19\" 42U 800*1000*2000mm чёрный",
-    "fullName": "Шкаф коммуникационный, Ship, VE.8042.56.100, 19\" 42U, 800*1000*2000mm, чёрный, (Состоит из 4 частей)",
-    "price": 513404,
-    "category": "kabelnye-sistemy",
-    "subcategory": "passivnoe-setevoe"
-  },
-  {
-    "category_raw": "Шкафы напольные, серверные",
     "code": 65606,
     "article": "ER6202FP1",
     "name": "Стойка коммуникационная APC ER6202FP1 600/42U/1000",
@@ -43376,16 +42016,6 @@
     "name": "Кабель сетевой SHIP D106-VS Cat.5e UTP 30В PE",
     "fullName": "Кабель сетевой, SHIP, D106-VS, Cat.5e, UTP, 30В, 4x2x1/0.455мм, PE, 305 м/б (Влагостойкий, Для наружных работ)",
     "price": 56981,
-    "category": "kabelnye-sistemy",
-    "subcategory": "passivnoe-setevoe"
-  },
-  {
-    "category_raw": "Кабели витая пара",
-    "code": 1298,
-    "article": "D106",
-    "name": "Кабель сетевой SHIP D106 Cat.5e UTP 30В PE",
-    "fullName": "Кабель сетевой, SHIP, D106, Cat.5e, UTP, 30В, 4x2x1/0.5мм, PE, 305 м/б (Влагостойкий, Для наружных работ)",
-    "price": 68252,
     "category": "kabelnye-sistemy",
     "subcategory": "passivnoe-setevoe"
   },
@@ -45501,16 +44131,6 @@
   },
   {
     "category_raw": "В грунт",
-    "code": 58394,
-    "article": "ОКБ-0,22-4П 8кН",
-    "name": "Кабель оптоволоконный ОКБ-0,22-4П-8кН",
-    "fullName": "Кабель оптоволоконный, СКО, ОКБ-0.22-4П-8кН, предназначен для прокладки в грунт на основе модульной конструкции.",
-    "price": 466,
-    "category": "kabelnye-sistemy",
-    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
-  },
-  {
-    "category_raw": "В грунт",
     "code": 38327,
     "article": "QB-1765",
     "name": "Кабель оптоволоконный ИКБ-М4П-А4-8,0 кН",
@@ -45586,16 +44206,6 @@
     "name": "Кабель оптоволоконный ИКБ-Т-А8-8,0 кН",
     "fullName": "Кабель оптоволоконный, Интегра, ИКБ-Т-А8-8,0 кН, предназначен для прокладки в грунт на основе центральной трубки.",
     "price": 1,
-    "category": "kabelnye-sistemy",
-    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
-  },
-  {
-    "category_raw": "В грунт",
-    "code": 25376,
-    "article": "ОКБ-0,22-8П-7кН",
-    "name": "Кабель оптоволоконный ОКБ-0,22-8П-7кН",
-    "fullName": "Кабель оптоволоконный, СКО, ОКБ-0.22-8П-7кН, предназначен для прокладки в грунт на основе модульной конструкции.",
-    "price": 466,
     "category": "kabelnye-sistemy",
     "subcategory": "komponenty-dlya-optovolokonnoj-seti"
   },
@@ -45716,16 +44326,6 @@
     "name": "Кабель оптоволоконный ИКБ-М4П-М12-8,0 кН",
     "fullName": "Кабель оптоволоконный, Интегра, ИКБ-М4П-М12-8,0 кН, предназначен для прокладки в грунт в модульной констукций, многомодовый",
     "price": 0,
-    "category": "kabelnye-sistemy",
-    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
-  },
-  {
-    "category_raw": "В грунт",
-    "code": 33816,
-    "article": "QBT-1655",
-    "name": "Кабель оптоволоконный ИКБ-Т-А16-2.7 кН",
-    "fullName": "Кабель оптоволоконный, Интегра, ИКБ-Т-А16-2.7кН, предназначен для прокладки в грунт на основе центральной трубки.",
-    "price": 509,
     "category": "kabelnye-sistemy",
     "subcategory": "komponenty-dlya-optovolokonnoj-seti"
   },
@@ -46091,61 +44691,11 @@
   },
   {
     "category_raw": "В кабельную канализацию",
-    "code": 63967,
-    "article": "ОКЛ-8(G.652.D)-Т/С 2,7 кН",
-    "name": "Кабель оптоволоконный ОКЛ-8(G.652.D)-Т/С 2,7 кН",
-    "fullName": "Кабель оптоволоконный, СКО, ОКЛ-8(G.652.D)-Т/С 2.7 кН, броня из стальной гофрированной ленты без промежуточной оболочки для прокладки в кабельную канализацию в центральной трубке",
-    "price": 1,
-    "category": "kabelnye-sistemy",
-    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
-  },
-  {
-    "category_raw": "В кабельную канализацию",
-    "code": 33720,
-    "article": "QST-8253",
-    "name": "Кабель оптоволоконный ИКСЛ-Т-А8-2,7 кН",
-    "fullName": "Кабель оптоволоконный, Интегра, ИКСЛ-Т-А8-2.7 кН, в центральной трубке ,прокладки в грунтах 1-3 групп, в том числе, зараженных грызунами, а также в кабельной канализации, трубах, по мостам и эстакадам, а также для прокладки в асфальтовом или бетонном покрытии дорог",
-    "price": 276,
-    "category": "kabelnye-sistemy",
-    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
-  },
-  {
-    "category_raw": "В кабельную канализацию",
-    "code": 36384,
-    "article": "QS-8311",
-    "name": "Кабель оптоволоконный ИКСЛ-М4П-А8-2,7 кН",
-    "fullName": "Кабель оптоволоконный, Интегра, ИКСЛ-М4П-А8-2.7 кН, бронированный стальной гофрированной ламинированной лентой, для прокладки в кабельную канализацию в модульной конструкции",
-    "price": 349,
-    "category": "kabelnye-sistemy",
-    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
-  },
-  {
-    "category_raw": "В кабельную канализацию",
     "code": 25357,
     "article": "ОКЛ-0,22-8П 2,7кН (2х4)",
     "name": "Кабель оптоволоконный ОКЛм-0,22-8П-2,7 кН",
     "fullName": "Кабель оптоволоконный, СКО, ОКЛм-0.22-8П-2.7 кН, броня из стальной гофрированной ленты для прокладки в кабельную канализацию в модульной констркуции.",
     "price": 485,
-    "category": "kabelnye-sistemy",
-    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
-  },
-  {
-    "category_raw": "В кабельную канализацию",
-    "code": 33721,
-    "article": "QST-8254",
-    "name": "Кабель оптоволоконный ИКСЛ-Т-А12-2,7 кН",
-    "fullName": "Кабель оптоволоконный, Интегра, ИКСЛ-Т-А12-2.7 кН, в центральной трубке ,применяется для прокладки в грунтах 1-3 групп, в том числе, зараженных грызунами, а также в кабельной канализации, трубах, по мостам и эстакадам, а также для прокладки в асфальтовом или бетонном покрытии дорог",
-    "price": 1,
-    "category": "kabelnye-sistemy",
-    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
-  },
-  {
-    "category_raw": "В кабельную канализацию",
-    "code": 36383,
-    "article": "QS-8313",
-    "name": "Кабель оптоволоконный ИКСЛ-М4П-А12-2,7 кН",
-    "fullName": "Кабель оптоволоконный, Интегра, ИКСЛ-М4П-А12-2.7 кН, в модульной конструкции ,применяется для прокладки в грунтах 1-3 групп, в том числе, зараженных грызунами, а также в кабельной канализации, трубах, по мостам и эстакадам, а также для прокладки в асфальтовом или бетонном покрытии дорог",
-    "price": 378,
     "category": "kabelnye-sistemy",
     "subcategory": "komponenty-dlya-optovolokonnoj-seti"
   },
@@ -46186,16 +44736,6 @@
     "name": "Кабель оптоволоконный ОКЛм-0,22-16П-2,7 кН",
     "fullName": "Кабель оптоволоконный, СКО, ОКЛм-0,22-16П-2.7 кН, броня из стальной гофрированной ленты для прокладки в кабельную канализацию в модульной констркуции.",
     "price": 1,
-    "category": "kabelnye-sistemy",
-    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
-  },
-  {
-    "category_raw": "В кабельную канализацию",
-    "code": 33723,
-    "article": "QST-8256",
-    "name": "Кабель оптоволоконный ИКСЛ-Т-А24-2,7 кН",
-    "fullName": "Кабель оптоволоконный, Интегра, ИКСЛ-Т-А24-2.7 кН, в центральной трубке , применяется для прокладки в грунтах 1-3 групп, в том числе, зараженных грызунами, а также в кабельной канализации, трубах, по мостам и эстакадам, а также для прокладки в асфальтовом или бетонном покрытии дорог",
-    "price": 706,
     "category": "kabelnye-sistemy",
     "subcategory": "komponenty-dlya-optovolokonnoj-seti"
   },
@@ -46256,26 +44796,6 @@
     "name": "Кабель оптоволоконный ИКСЛ-М4П-А36-2,7 кН",
     "fullName": "Кабель оптоволоконный, Интегра, ИКСЛ-М4П-А36-2.7 кН, бронированный стальной гофрированной ламинированной лентой, для прокладки в кабельную канализацию в модульной конструкции",
     "price": 495,
-    "category": "kabelnye-sistemy",
-    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
-  },
-  {
-    "category_raw": "В кабельную канализацию",
-    "code": 33730,
-    "article": "QS-8323 ",
-    "name": "Кабель оптоволоконный ИКСЛ-М4П-А48П-2,7 кН",
-    "fullName": "Кабель оптоволоконный, Интегра, ИКСЛ-М4П-А48-2.7 кН, бронированный стальной гофрированной ламинированной лентой, для прокладки в кабельную канализацию в модульной конструкции",
-    "price": 553,
-    "category": "kabelnye-sistemy",
-    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
-  },
-  {
-    "category_raw": "В кабельную канализацию",
-    "code": 25363,
-    "article": "ОКЛм-0,22-48П-2,7 кН",
-    "name": "Кабель оптоволоконный ОКЛм-0,22-48П-2,7 кН",
-    "fullName": "Кабель оптоволоконный, СКО, ОКЛм-0.22-48П-2.7 кН, броня из стальной гофрированной ленты для прокладки в кабельную канализацию в модульной констркуции.",
-    "price": 1,
     "category": "kabelnye-sistemy",
     "subcategory": "komponenty-dlya-optovolokonnoj-seti"
   },
@@ -46371,16 +44891,6 @@
   },
   {
     "category_raw": "В трубы",
-    "code": 43388,
-    "article": "QS-5491",
-    "name": "Кабель оптоволоконный ИК-М5П-А4-2.7кН",
-    "fullName": "Кабель оптоволоконный, Интегра, ИК-М5П-А4-2.7кН, модульной конструкции, для прокладки в защитных пластмассовых трубах (ЗПТ), в том числе методом пневмопрокладки",
-    "price": 306,
-    "category": "kabelnye-sistemy",
-    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
-  },
-  {
-    "category_raw": "В трубы",
     "code": 25364,
     "article": "ОКГ-0,22-4П-2,7 кН",
     "name": "Кабель оптоволоконный ОКГ-0,22-4П-2,7 кН",
@@ -46401,16 +44911,6 @@
   },
   {
     "category_raw": "В трубы",
-    "code": 25367,
-    "article": "ОКГ-0,22-8П-2,7 кН",
-    "name": "Кабель оптоволоконный ОКГ-0,22-8П-2,7 кН",
-    "fullName": "Кабель оптоволоконный, СКО, ОКГ-0.22-8П-2.7 кН, предназначен для прокладки в защитных пластмассовых трубах на основе модульной конструкции.",
-    "price": 291,
-    "category": "kabelnye-sistemy",
-    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
-  },
-  {
-    "category_raw": "В трубы",
     "code": 63969,
     "article": "ОКГ-0,22-8П 3,1 кН ",
     "name": "Кабель оптоволоконный ОКГ-0,22-8П 3,1 кН",
@@ -46421,31 +44921,11 @@
   },
   {
     "category_raw": "В трубы",
-    "code": 31207,
-    "article": "ОКГ-0,22-12П-2,7 кН",
-    "name": "Кабель оптоволоконный ОКГ-0,22-12П-2,7 кН",
-    "fullName": "Кабель оптоволоконный, СКО, ОКГ-0.22-12П-2.7 кН, предназначен для прокладки в защитных пластмассовых трубах на основе модульной конструкции.",
-    "price": 1,
-    "category": "kabelnye-sistemy",
-    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
-  },
-  {
-    "category_raw": "В трубы",
     "code": 49146,
     "article": "QS-5493",
     "name": "Кабель оптоволоконный ИК-М5П-А12-2.7кН",
     "fullName": "Кабель оптоволоконный, Интегра, ИК-М5П-А12-2.7кН, модульной конструкции, для прокладки в защитных пластмассовых трубах (ЗПТ), в том числе методом пневмопрокладки",
     "price": 357,
-    "category": "kabelnye-sistemy",
-    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
-  },
-  {
-    "category_raw": "В трубы",
-    "code": 25371,
-    "article": "ОКГ-0,22-16П-2,7 кН",
-    "name": "Кабель оптоволоконный ОКГ-0,22-16П-2,7 кН",
-    "fullName": "Кабель оптоволоконный, СКО, ОКГ-0.22-16П-2.7 кН, предназначен для прокладки в защитных пластмассовых трубах на основе модульной конструкции.",
-    "price": 335,
     "category": "kabelnye-sistemy",
     "subcategory": "komponenty-dlya-optovolokonnoj-seti"
   },
@@ -46711,16 +45191,6 @@
   },
   {
     "category_raw": "Подвесные самонесущие",
-    "code": 28939,
-    "article": "ОККМC-0,22(G.652.D)-24-6кН",
-    "name": "Кабель оптоволоконный ОККМC-0,22(G.652.D)-24-6кН",
-    "fullName": "Кабель оптоволоконный, СКО, ОККМC-0,22(G.652.D)-24-6кН, предназначен для воздушной прокладки-на опорах линий связи, контактной сети железных дорог, опорах линий электропередач в точках с максимальной величиной потенциала электрического поля до 12 кВ, между зданиями и сооружениями.",
-    "price": 1,
-    "category": "kabelnye-sistemy",
-    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
-  },
-  {
-    "category_raw": "Подвесные самонесущие",
     "code": 40224,
     "article": "ОККМ-0,22-24 7кН",
     "name": "Кабель оптоволоконный ОККМ-0,22-24 7кН",
@@ -46961,16 +45431,6 @@
   },
   {
     "category_raw": "Городские подвесные с вынесенным металлическим элементом",
-    "code": 25382,
-    "article": "ОКТ-4(G.652.D)-Т/СТ 9кН",
-    "name": "Кабель оптоволоконный ОКТ-4(G.652.D)-Т/СТ 9кН",
-    "fullName": "Кабель оптоволоконный, СКО, ОКТ-4(G.652.D)-Т/СТ 9кН, предназначен для подвески на опорах воздушных линий связи, столбах городского освещения и между зданиями.",
-    "price": 1,
-    "category": "kabelnye-sistemy",
-    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
-  },
-  {
-    "category_raw": "Городские подвесные с вынесенным металлическим элементом",
     "code": 39918,
     "article": "ОКТ-4(G.652.D)-Т/СТ 4кН",
     "name": "Кабель оптоволоконный ОКТ-4(G.652.D)-Т/СТ 4кН",
@@ -47001,51 +45461,11 @@
   },
   {
     "category_raw": "Городские подвесные с вынесенным металлическим элементом",
-    "code": 34972,
-    "article": "QSC-8775",
-    "name": "Кабель оптоволоконный ИК/Т-М4П-А8-8.0 кН",
-    "fullName": "Кабель оптоволоконный, Интегра, ИК/Т-М4П-А8-8.0 кН, подвесной с внешним несущим элементом (стальной трос) в модульной конструкции",
-    "price": 1,
-    "category": "kabelnye-sistemy",
-    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
-  },
-  {
-    "category_raw": "Городские подвесные с вынесенным металлическим элементом",
     "code": 58396,
     "article": "ОКТ-8(G.652.D)-Т/С 2, 5кН",
     "name": "Кабель оптоволоконный ОКТ-8(G.652.D)-Т/С 2,5кН",
     "fullName": "Кабель оптоволоконный, СКО, ОКТ-8(G.652.D)-Т/С 2,5кН, предназначен для подвески на опорах воздушных линий связи, столбах городского освещения и между зданиями",
     "price": 262,
-    "category": "kabelnye-sistemy",
-    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
-  },
-  {
-    "category_raw": "Городские подвесные с вынесенным металлическим элементом",
-    "code": 47266,
-    "article": "QSTC-8726",
-    "name": "Кабель оптоволоконный ИК/Т-Т-А8-2.5 кН",
-    "fullName": "Кабель оптоволоконный, Интегра, ИК/Т-Т-А8-2.5 кН, подвесной с внешним несущим элементом (стальная проволока)",
-    "price": 180,
-    "category": "kabelnye-sistemy",
-    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
-  },
-  {
-    "category_raw": "Городские подвесные с вынесенным металлическим элементом",
-    "code": 25389,
-    "article": "ОКТ-8(G.652.D)-Т/СТ 6кН",
-    "name": "Кабель оптоволоконный ОКТ-8(G.652.D)-Т/СТ 6кН",
-    "fullName": "Кабель оптоволоконный, СКО, ОКТ-8(G.652.D)-Т/СТ 6кН, предназначен для подвески на опорах воздушных линий связи, столбах городского освещения и между зданиями",
-    "price": 1,
-    "category": "kabelnye-sistemy",
-    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
-  },
-  {
-    "category_raw": "Городские подвесные с вынесенным металлическим элементом",
-    "code": 25383,
-    "article": "ОКТ-8(G.652.D)-Т/СТ 9кН",
-    "name": "Кабель оптоволоконный ОКТ-8(G.652.D)-Т/СТ 9кН",
-    "fullName": "Кабель оптоволоконный, СКО, ОКТ-8(G.652.D)-Т/СТ 9кН, предназначен для подвески на опорах воздушных линий связи, столбах городского освещения и между зданиями.",
-    "price": 1,
     "category": "kabelnye-sistemy",
     "subcategory": "komponenty-dlya-optovolokonnoj-seti"
   },
@@ -47081,26 +45501,6 @@
   },
   {
     "category_raw": "Городские подвесные с вынесенным металлическим элементом",
-    "code": 47267,
-    "article": "QSTC-8727",
-    "name": "Кабель оптоволоконный ИК/Т-Т-А12-2,5 кН",
-    "fullName": "Кабель оптоволоконный, Интегра, ИК/Т-Т-А12-2,5 кН, подвесной с внешним несущим элементом (стальная проволока)",
-    "price": 243,
-    "category": "kabelnye-sistemy",
-    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
-  },
-  {
-    "category_raw": "Городские подвесные с вынесенным металлическим элементом",
-    "code": 36342,
-    "article": "QSTC-8747",
-    "name": "Кабель оптоволоконный ИК/Т-Т-А12-6.0 кН",
-    "fullName": "Кабель оптоволоконный, Интегра, ИК/Т-Т-А12-6.0 кН, подвесной с внешним несущим элементом (стальной трос) в центральной трубке",
-    "price": 437,
-    "category": "kabelnye-sistemy",
-    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
-  },
-  {
-    "category_raw": "Городские подвесные с вынесенным металлическим элементом",
     "code": 54869,
     "article": "QSC-8776",
     "name": "Кабель оптоволоконный ИК/Т-М4П-А12-8.0 кН",
@@ -47116,16 +45516,6 @@
     "name": "Кабель оптоволоконный ИК/Т-Т-А16-2,5 кН",
     "fullName": "Кабель оптоволоконный, Интегра, ИК/Т-Т-А16-2,5 кН, подвесной с внешним несущим элементом (стальная проволока)",
     "price": 276,
-    "category": "kabelnye-sistemy",
-    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
-  },
-  {
-    "category_raw": "Городские подвесные с вынесенным металлическим элементом",
-    "code": 32840,
-    "article": "ОКТ-16(G.652.D)-Т/СТ 3кН",
-    "name": "Кабель оптоволоконный ОКТ-16(G.652.D)-Т/СТ 3кН",
-    "fullName": "Кабель оптоволоконный,СКО, ОКТ-16(G.652.D)-Т/СТ 3кН, предназначен для подвески на опорах воздушных линий связи, столбах городского освещения и между зданиями.",
-    "price": 1,
     "category": "kabelnye-sistemy",
     "subcategory": "komponenty-dlya-optovolokonnoj-seti"
   },
@@ -47216,16 +45606,6 @@
     "name": "Кабель оптоволоконный ОКТ-24(G.652.D)-Т/СТ 9кН",
     "fullName": "Кабель оптоволоконный,СКО, ОКТ-24(G.652.D)-Т/СТ 9кН, предназначен для подвески на опорах воздушных линий связи, столбах городского освещения и между зданиями.",
     "price": 509,
-    "category": "kabelnye-sistemy",
-    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
-  },
-  {
-    "category_raw": "Городские подвесные с вынесенным металлическим элементом",
-    "code": 61761,
-    "article": "QSC-8764",
-    "name": "Кабель оптоволоконный ИК/Т-М4П-А24-6.0 кН",
-    "fullName": "Кабель оптоволоконный, Интегра, ИК/Т-М4П-А24-6.0 кН, подвесной с внешним несущим элементом (стальной трос) в модульной конструкции",
-    "price": 431,
     "category": "kabelnye-sistemy",
     "subcategory": "komponenty-dlya-optovolokonnoj-seti"
   },
@@ -47361,16 +45741,6 @@
   },
   {
     "category_raw": "Подвесные диэлектрические  ",
-    "code": 38941,
-    "article": "QSTC-8844",
-    "name": "Кабель оптоволоконный ИК/Д2-Т-А1-1.1 кН (плоский)",
-    "fullName": "Кабель оптоволоконный, Интегра,ИК/Д2-Т-А1-1.1 кН (плоский), предназначены для подвеса на опорах линий связи, между зданиями и сооружениями.",
-    "price": 1,
-    "category": "kabelnye-sistemy",
-    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
-  },
-  {
-    "category_raw": "Подвесные диэлектрические  ",
     "code": 28930,
     "article": "QSTC-8831",
     "name": "Кабель оптоволоконный ИК-Т-А2-1.0 кН( круглый)",
@@ -47381,41 +45751,11 @@
   },
   {
     "category_raw": "Подвесные диэлектрические  ",
-    "code": 56476,
-    "article": "QSTC-8848",
-    "name": "Кабель оптоволоконный ИК/Д2-Т-А2-1.2 кН",
-    "fullName": "Кабель оптоволоконный, Интегра,ИК/Д2-Т-А2-1.2 кН ,плоский, пруток 1,7 мм, предназначены для подвеса на опорах линий связи, между зданиями и сооружениями.",
-    "price": 95,
-    "category": "kabelnye-sistemy",
-    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
-  },
-  {
-    "category_raw": "Подвесные диэлектрические  ",
-    "code": 25390,
-    "article": "ОКПК-0,22-2(G.652D) 1,2кН",
-    "name": "Кабель оптоволоконный ОКПК-0,22-2(G.652D) 1,2кН",
-    "fullName": "Кабель оптоволоконный, СКО, ОКПК-0,22-2(G.652D) 1,2кН,(flat drop) предназначены для подвеса на опорах линий связи, между зданиями и сооружениями.",
-    "price": 116,
-    "category": "kabelnye-sistemy",
-    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
-  },
-  {
-    "category_raw": "Подвесные диэлектрические  ",
     "code": 27800,
     "article": "ОКПК-0,22-4(G.652D) 1,2кН",
     "name": "Кабель оптоволоконный ОКПК-0,22-4(G.652D) 1,2кН",
     "fullName": "Кабель оптоволоконный, СКО, ОКПК-0,22-4(G.652D) 1,2кН, (flat drop) предназначены для подвеса на опорах линий связи, между зданиями и сооружениями.",
     "price": 146,
-    "category": "kabelnye-sistemy",
-    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
-  },
-  {
-    "category_raw": "Подвесные диэлектрические  ",
-    "code": 28919,
-    "article": "QSTC-8832",
-    "name": "Кабель оптоволоконный ИК-Т-А4-1.0 кН (круглый)",
-    "fullName": "Кабель оптоволоконный, Интегра, ИК-Т-А4-1.0 кН, подвесной круглый с двумя периферийными силовыми элементами",
-    "price": 1,
     "category": "kabelnye-sistemy",
     "subcategory": "komponenty-dlya-optovolokonnoj-seti"
   },
@@ -47501,16 +45841,6 @@
   },
   {
     "category_raw": "Подвесные диэлектрические  ",
-    "code": 55173,
-    "article": "QSC-8876 ",
-    "name": "Кабель оптоволоконный ИК/Д-М4П-А8-4.0 кН",
-    "fullName": "Кабель оптоволоконный, Интегра, ИК/Д-М4П-А8-4.0 кН, подвесной кабель с внешним несущим элементом (стеклопластиковый пруток)",
-    "price": 1,
-    "category": "kabelnye-sistemy",
-    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
-  },
-  {
-    "category_raw": "Подвесные диэлектрические  ",
     "code": 34829,
     "article": "QSTC-11534",
     "name": "Кабель оптоволоконный ИК/Д2-Т-А8-1.2 кН (плоский)",
@@ -47576,16 +45906,6 @@
     "name": "Кабель оптоволоконный ОКПК-0,22-16(G.652D) 1,2кН",
     "fullName": "Кабель оптоволоконный, СКО, ОКПК-0,22-16(G.652D) 1.2кН, (flat drop) предназначены для подвеса на опорах линий связи, между зданиями и сооружениями.",
     "price": 1,
-    "category": "kabelnye-sistemy",
-    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
-  },
-  {
-    "category_raw": "Подвесные диэлектрические  ",
-    "code": 38479,
-    "article": "ИК/Д2-Т-А16-1.9 кН (плоский)",
-    "name": "Кабель оптоволоконный ИК/Д2-Т-А16-1.9 кН (плоский)",
-    "fullName": "Кабель оптоволоконный,Интегра, ИК/Д2-Т-А16-1.9 кН (плоский), предназначены для подвеса на опорах линий связи, между зданиями и сооружениями.",
-    "price": 247,
     "category": "kabelnye-sistemy",
     "subcategory": "komponenty-dlya-optovolokonnoj-seti"
   },
@@ -47670,16 +45990,6 @@
     "subcategory": "komponenty-dlya-optovolokonnoj-seti"
   },
   {
-    "category_raw": "Подвесные диэлектрические  ",
-    "code": 56475,
-    "article": "QSTC-8847",
-    "name": "Кабель оптоволоконный ИК/Д2-Т-А1-1.2 кН",
-    "fullName": "Кабель оптоволоконный, Интегра,ИК/Д2-Т-А1-1.2 кН, плоский, пруток 1,7 мм, предназначены для подвеса на опорах линий связи, между зданиями и сооружениями.",
-    "price": 1,
-    "category": "kabelnye-sistemy",
-    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
-  },
-  {
     "category_raw": "Подвесные FTTH",
     "code": 61764,
     "article": "ИКД3-0А1-1.0",
@@ -47696,26 +46006,6 @@
     "name": "Кабель оптоволоконный ОК-FTTx-Fr8-1,0FRP- 2х0,5FRP 9/125 1хG657A1 LSZH",
     "fullName": "Кабель оптоволоконный, А-Оптик, АО-ОК-FTTx-Fr8-1.0FRP- 2х0.5FRP 9/125 1хG657A1 LSZH, с дополнительным несущим элементом на 1 волокно",
     "price": 37,
-    "category": "kabelnye-sistemy",
-    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
-  },
-  {
-    "category_raw": "Подвесные FTTH",
-    "code": 36265,
-    "article": "ИКД2Тнг(A)-HF-О-А2-1.0",
-    "name": "Оптоволоконный дроп-кабель ИКД2Тнг(А)-HF-O-А2-1.0 кН (FTTH)",
-    "fullName": "Оптоволоконный дроп-кабель, Интегра,ИКД2Тнг(А)-HF-O-А2-1.0 кН (FTTH) , кабель со стальной проволокой в качестве несущего силового элемента и усиливающими элементами из стеклопластиковых прутков",
-    "price": 58,
-    "category": "kabelnye-sistemy",
-    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
-  },
-  {
-    "category_raw": "Подвесные FTTH",
-    "code": 64279,
-    "article": "ИКТ2нг(А)-HF-О-А1-0.3",
-    "name": "Оптический абонентский кабель типа FTTН, Интегра, ИКТ2нг(A)-HF-О-А1-0.3 кН",
-    "fullName": "Оптический абонентский кабель типа FTTН, Интегра, ИКТ2нг(A)-HF-О-А1-0.3(G.657 А1 ) ,LSZH, со стеклопластиковыми прутками в качестве усиливающих элементов, белый",
-    "price": 1,
     "category": "kabelnye-sistemy",
     "subcategory": "komponenty-dlya-optovolokonnoj-seti"
   },
@@ -47951,16 +46241,6 @@
   },
   {
     "category_raw": "Локальные",
-    "code": 33821,
-    "article": "OS-20062",
-    "name": "Кабель оптоволоконный ИКнг(А)-HF-М4П-А12-0.4 кН",
-    "fullName": "Кабель оптоволоконный, Интегра,ИКнг(А)-HF-М4П-А12-0.4 кН, в негорючей оболочке применяется внутри помещений, зданий и сооружений, а также для прокладки внутри шахт",
-    "price": 335,
-    "category": "kabelnye-sistemy",
-    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
-  },
-  {
-    "category_raw": "Локальные",
     "code": 28013,
     "article": "ОКВнг(А)-HF-Р-12(G.657.A)",
     "name": "Кабель оптоволоконный ОКВнг(А)-HF-Р-12(G.657.A)",
@@ -48055,16 +46335,6 @@
     "article": "ОКГнг(А)-HF-0,7(50)-12П ОМ3",
     "name": "Кабель оптоволоконный ОКГнг(А)-HF-ОМ3(50)-12П-0,7кН",
     "fullName": "Кабель оптоволоконный, СКО,ОКГнг(А)-HF-ОМ3(50)-12П-0,7кН, многомодовый, в негорючей оболочке применяется внутри помещений, зданий и сооружений, а также для прокладки внутри шахт",
-    "price": 1,
-    "category": "kabelnye-sistemy",
-    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
-  },
-  {
-    "category_raw": "Локальные",
-    "code": 86089,
-    "article": "OS-20062",
-    "name": "Кабель оптоволоконный ИКнг(А)-НF-М4П-А16-0.4 кН",
-    "fullName": "Кабель оптоволоконный, Интегра, ИКнг(А)-НF-М4П-А16-0.4 кН, модульной конструкции, в негорючей оболочке применяется внутри помещений, зданий и сооружений, а также для прокладки внутри шахт",
     "price": 1,
     "category": "kabelnye-sistemy",
     "subcategory": "komponenty-dlya-optovolokonnoj-seti"
@@ -48561,16 +46831,6 @@
   },
   {
     "category_raw": "Сварочные аппараты и рефлектометры для оптоволокна",
-    "code": 42821,
-    "article": "Рефлектометр оптический V",
-    "name": "Рефлектометр оптический INNO Instrument VIEW500",
-    "fullName": "Рефлектометр оптический INNO Instrument, VIEW 500 , для измерений волоконно-оптических линий",
-    "price": 2786520,
-    "category": "kabelnye-sistemy",
-    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
-  },
-  {
-    "category_raw": "Сварочные аппараты и рефлектометры для оптоволокна",
     "code": 61717,
     "article": "VIEW600 M4 (OS, PM, PMC1, LS3)",
     "name": "Рефлектометр модульный VIEW600 с модулем M4",
@@ -49056,16 +47316,6 @@
     "name": "Оптический кросс укомплектованный OWB24",
     "fullName": "Оптический кросс укомплектованный,АЗОП, OWB24, 24 порта SC/UPC Simplex, Настенный, Металл, Серый",
     "price": 21340,
-    "category": "kabelnye-sistemy",
-    "subcategory": "komponenty-dlya-optovolokonnoj-seti"
-  },
-  {
-    "category_raw": "Оптические полки и кроссы",
-    "code": 16477,
-    "article": "АО-9001",
-    "name": "Оптический кросс А-Оптик AO-9001",
-    "fullName": "Оптический кросс, А-Оптик, AO-9001, 19\" (2U), 12/24 Порта, Simplex, SC/FC/LC, Неукомплектованный, Серый",
-    "price": 11931,
     "category": "kabelnye-sistemy",
     "subcategory": "komponenty-dlya-optovolokonnoj-seti"
   },
@@ -54371,16 +52621,6 @@
   },
   {
     "category_raw": "Вызывные панели",
-    "code": 75722,
-    "article": "DS-KB2411T-IM",
-    "name": "Вызывная панель Hikvision DS-KB2411T-IM",
-    "fullName": "Вызывная панель, Hikvision, DS-KB2411T-IM, 4-проводная аналоговая дверная станция, 2МП, цинковый сплав, подавление шума и эха, от -10° C до + 55°, IP65",
-    "price": 29071,
-    "category": "sistemy-bezopasnosti",
-    "subcategory": "sistemy-kontrolya-dostupa"
-  },
-  {
-    "category_raw": "Вызывные панели",
     "code": 75721,
     "article": "DS-KB2421T-IM",
     "name": "Вызывная панель Hikvision DS-KB2421T-IM",
@@ -57801,36 +56041,6 @@
   },
   {
     "category_raw": "Фотопринтеры и бумага",
-    "code": 82380,
-    "article": "KDXZRSHHT20S",
-    "name": "Фотобумага Xiaomi Portable Dye-Sublimation Photo Paper 20 Sheets",
-    "fullName": "Фотобумага, Xiaomi, Portable Dye-Sublimation Photo Paper (20 Sheets), BHR082NGL/KDXZRSHHT20S, Для фотопринтера Xiaomi Portable Photo Printer Pro, Размеры фотобумаги 2 x 3 дюйма 50 x 76 мм, 20 листов, Глянцевая",
-    "price": 4840,
-    "category": "kommercheskaya-vizualizaciya",
-    "subcategory": "aksessuary-vizualizaciya"
-  },
-  {
-    "category_raw": "Фотопринтеры и бумага",
-    "code": 82387,
-    "article": "KDXZRSHHT20S",
-    "name": "Фотобумага Xiaomi Portable Dye-Sublimation Photo Paper 50 Sheets",
-    "fullName": "Фотобумага, Xiaomi, Portable Dye-Sublimation Photo Paper (50 Sheets), BHR082PGL/KDXZRSHHT20S, Для фотопринтера Xiaomi Portable Photo Printer Pro, Размеры фотобумаги 2 x 3 дюйма 50 x 76 мм, 50 листов, Глянцевая",
-    "price": 9690,
-    "category": "kommercheskaya-vizualizaciya",
-    "subcategory": "aksessuary-vizualizaciya"
-  },
-  {
-    "category_raw": "Фотопринтеры и бумага",
-    "code": 82386,
-    "article": "KDXZRSHHT20S",
-    "name": "Фотобумага Xiaomi Portable Dye-Sublimation Photo Paper Stickers 50 Sheets",
-    "fullName": "Фотобумага, Xiaomi, Portable Dye-Sublimation Photo Paper Stickers (50 Sheets), BHR082OGL/KDXZRSHHT20S, Для фотопринтера Xiaomi Portable Photo Printer Pro, Размеры фотобумаги 2 x 3 дюйма 50 x 76 мм, 50 листов, Глянцевая",
-    "price": 13570,
-    "category": "kommercheskaya-vizualizaciya",
-    "subcategory": "aksessuary-vizualizaciya"
-  },
-  {
-    "category_raw": "Фотопринтеры и бумага",
     "code": 36086,
     "article": "XMBXXZ01HT",
     "name": "Бумага Xiaomi Mi Portable Photo Printer Paper для портативного фотопринтера",
@@ -57846,16 +56056,6 @@
     "name": "Фотобумага Xiaomi Instant Photo Paper 6\" (40 Sheets)",
     "fullName": "Фотобумага, Xiaomi, Instant Photo Paper 6\" (40 Sheets), BHR6757GL/SD20, Для фотопринтера Xiaomi Instant Photoprinter 1S, Размер 6\", 40 листов, Картридж в комплекте, Глянцева",
     "price": 7750,
-    "category": "kommercheskaya-vizualizaciya",
-    "subcategory": "aksessuary-vizualizaciya"
-  },
-  {
-    "category_raw": "Фотопринтеры и бумага",
-    "code": 55581,
-    "article": "SD30",
-    "name": "Фотобумага Xiaomi Instant Photo Paper 3\" (40 Sheets)",
-    "fullName": "Фотобумага, Xiaomi, Instant Photo Paper 3\" (40 Sheets), BHR6756GL/SD30, Для фотопринтера Xiaomi Instant Photoprinter 1S, Размер 3\", 40 листов, Картридж в комплекте, Глянцева",
-    "price": 13473,
     "category": "kommercheskaya-vizualizaciya",
     "subcategory": "aksessuary-vizualizaciya"
   },
@@ -58231,16 +56431,6 @@
   },
   {
     "category_raw": "Аксессуары для экшн-камер",
-    "code": 10358,
-    "article": "DLGP-22",
-    "name": "Ремень с липучкой для пульта Remote Control GoPro Hero 4/3+/3 Deluxe DLGP-22",
-    "fullName": "Ремень с липучкой для ДУ GoPro, Deluxe, DLGP-22, Hero 4/3+/3, Полиэстер, Подходит для GoPro и Xiaomi, Ширина 2.5 см, Чёрный",
-    "price": 421,
-    "category": "kommercheskaya-vizualizaciya",
-    "subcategory": "aksessuary-vizualizaciya"
-  },
-  {
-    "category_raw": "Аксессуары для экшн-камер",
     "code": 13263,
     "article": "DLGP-401",
     "name": "Зарядка для GoPro Hero 4 от 12V и 220V Deluxe DLGP-401",
@@ -58481,16 +56671,6 @@
   },
   {
     "category_raw": "Вспышки и освещение",
-    "code": 76249,
-    "article": "AD100PRO",
-    "name": "Вспышка Godox AD100PRO",
-    "fullName": "Вспышка, Godox, AD100PRO, TTL, Аккумулятор 2600 мАч, до 360 импульсов, перезардяка 0.01-1.5с, 1\\8000 с",
-    "price": 125120,
-    "category": "kommercheskaya-vizualizaciya",
-    "subcategory": "aksessuary-vizualizaciya"
-  },
-  {
-    "category_raw": "Вспышки и освещение",
     "code": 76250,
     "article": "V1PROC",
     "name": "Вспышка Godox V1 PRO-C",
@@ -58606,16 +56786,6 @@
     "name": "Осветитель светодиодный Godox SL100BI",
     "fullName": "Осветитель светодиодный, Godox, SL100BI, 2800K~6500K, 11 режимов",
     "price": 111540,
-    "category": "kommercheskaya-vizualizaciya",
-    "subcategory": "aksessuary-vizualizaciya"
-  },
-  {
-    "category_raw": "Вспышки и освещение",
-    "code": 76264,
-    "article": "SL60IID",
-    "name": "Осветитель светодиодный Godox SL60IID",
-    "fullName": "Осветитель светодиодный, Godox, SL60IID, 5600±200K, 8 режимов",
-    "price": 67890,
     "category": "kommercheskaya-vizualizaciya",
     "subcategory": "aksessuary-vizualizaciya"
   },
@@ -58861,41 +57031,11 @@
   },
   {
     "category_raw": "Софтбоксы",
-    "code": 76233,
-    "article": "SB-FW95",
-    "name": "Софтбокс Godox SB-FW95",
-    "fullName": "Софтбокс, Godox, SB-FW95, октобокс с сотами, диаметр 95 см, Байонет: Bowens",
-    "price": 24240,
-    "category": "kommercheskaya-vizualizaciya",
-    "subcategory": "aksessuary-vizualizaciya"
-  },
-  {
-    "category_raw": "Софтбоксы",
     "code": 76234,
     "article": "SB-FW120",
     "name": "Софтбокс Godox SB-FW120",
     "fullName": "Софтбокс, Godox, SB-FW120, октобокс с сотами, диаметр 120 см, Байонет: Bowens",
     "price": 42670,
-    "category": "kommercheskaya-vizualizaciya",
-    "subcategory": "aksessuary-vizualizaciya"
-  },
-  {
-    "category_raw": "Софтбоксы",
-    "code": 76235,
-    "article": "SB-GUE80",
-    "name": "Софтбокс Godox SB-GUE80",
-    "fullName": "Софтбокс, Godox, SB-GUE80, октобокс быстроскладной с сотами, диаметр 80см, Байонет: Bowens",
-    "price": 29090,
-    "category": "kommercheskaya-vizualizaciya",
-    "subcategory": "aksessuary-vizualizaciya"
-  },
-  {
-    "category_raw": "Софтбоксы",
-    "code": 76236,
-    "article": "SB-GUE95",
-    "name": "Софтбокс Godox SB-GUE95",
-    "fullName": "Софтбокс, Godox, SB-GUE95, октобокс быстроскладной с сотами, диаметр 95см, Байонет: Bowens",
-    "price": 26180,
     "category": "kommercheskaya-vizualizaciya",
     "subcategory": "aksessuary-vizualizaciya"
   },
@@ -59031,16 +57171,6 @@
   },
   {
     "category_raw": "Штативы для фото и видео техники",
-    "code": 76227,
-    "article": "260T",
-    "name": "Стойка-тренога Godox 260T",
-    "fullName": "Стойка-тренога, Godox, 260T, мин., высота 100см, макс высота 260см., нагрузка 6кг, чёрный",
-    "price": 24240,
-    "category": "kommercheskaya-vizualizaciya",
-    "subcategory": "aksessuary-vizualizaciya"
-  },
-  {
-    "category_raw": "Штативы для фото и видео техники",
     "code": 76228,
     "article": "300F",
     "name": "Стойка-тренога Godox 300F",
@@ -59051,31 +57181,11 @@
   },
   {
     "category_raw": "Штативы для фото и видео техники",
-    "code": 76229,
-    "article": "270CS",
-    "name": "Стойка-тренога Godox 270CS C-Stand",
-    "fullName": "Стойка-тренога, Godox, 270CS, тип C-Stand, мин. Высота 120см, макс. Высота 270см, макс. Нагрузка 10кг, серебрянный",
-    "price": 88260,
-    "category": "kommercheskaya-vizualizaciya",
-    "subcategory": "aksessuary-vizualizaciya"
-  },
-  {
-    "category_raw": "Штативы для фото и видео техники",
     "code": 76230,
     "article": "240CS",
     "name": "Стойка-тренога Godox 240CS C-Stand",
     "fullName": "Стойка-тренога, Godox, 240CS, тип C-Stand, мин. Высота 130см, макс. Высота 240см, нагрузка до 10кг, серебрянный",
     "price": 86320,
-    "category": "kommercheskaya-vizualizaciya",
-    "subcategory": "aksessuary-vizualizaciya"
-  },
-  {
-    "category_raw": "Штативы для фото и видео техники",
-    "code": 76231,
-    "article": "SA5015",
-    "name": "Стойка на колёсах Godox SA5015",
-    "fullName": "Стойка на колёсах, Godox, SA5015, мин. Высота 92см, макс. Высота 168см, нагрузка до 40кг, серый",
-    "price": 110570,
     "category": "kommercheskaya-vizualizaciya",
     "subcategory": "aksessuary-vizualizaciya"
   },
@@ -59101,16 +57211,6 @@
   },
   {
     "category_raw": "Интерактивные панели",
-    "code": 67117,
-    "article": "86BCDB138128   ",
-    "name": "Интерактивная панель XG 86BCDB138128",
-    "fullName": "Интерактивная панель, XG, 86BCDB138128, 86\", Android 13, A55-8core, 311D2-B, ОЗУ 8 гб, ПЗУ 128 гб, чёрный",
-    "price": 936050,
-    "category": "kommercheskaya-vizualizaciya",
-    "subcategory": "interaktivnye-paneli"
-  },
-  {
-    "category_raw": "Интерактивные панели",
     "code": 68268,
     "article": "DHI-LPH65-SC410-S2",
     "name": "Интерактивная доска (панель) Dahua 65\" DHI-LPH65-SC410-S2",
@@ -59126,16 +57226,6 @@
     "name": "Интерактивная доска (панель) Dahua 75\" DHI-LPH75-MC480-U",
     "fullName": "Интерактивная доска (панель), Dahua, DHI-LPH75-MC480-U, 75\", 4K, Android 13.0, 8+128GB",
     "price": 1003950,
-    "category": "kommercheskaya-vizualizaciya",
-    "subcategory": "interaktivnye-paneli"
-  },
-  {
-    "category_raw": "Интерактивные панели",
-    "code": 68269,
-    "article": "DHI-LPH75-SC410-S2",
-    "name": "Интерактивная доска (панель) Dahua 75\" DHI-LPH75-SC410-S2",
-    "fullName": "Интерактивная панель, Dahua, DHI-LPH75-SC410-S2, 75\", 4K (3840  2160)",
-    "price": 858935,
     "category": "kommercheskaya-vizualizaciya",
     "subcategory": "interaktivnye-paneli"
   },
@@ -59271,16 +57361,6 @@
   },
   {
     "category_raw": "Интерактивные панели",
-    "code": 56624,
-    "article": "TE7514MIS-B1AG",
-    "name": "Интерактивная панель iiyama TE7514MIS-B1AG",
-    "fullName": "Интерактивная панель, iiyama, TE7514MIS-B1AG, 75\", 4K, Android 13, V100, Quad core A76+A55, ОЗУ 8гб, ПЗУ 64гб, чёрный",
-    "price": 864513,
-    "category": "kommercheskaya-vizualizaciya",
-    "subcategory": "interaktivnye-paneli"
-  },
-  {
-    "category_raw": "Интерактивные панели",
     "code": 76101,
     "article": "75AIVTBTM1416256",
     "name": "Интерактивная панель XG 75AIVTBTM1416256",
@@ -59341,36 +57421,6 @@
   },
   {
     "category_raw": "Интерактивные панели",
-    "code": 75972,
-    "article": "75TSDBLC1316256",
-    "name": "Интерактивная панель XG 75TSDBLC1316256",
-    "fullName": "Интерактивная панель, XG, 75TSDBLC1316256, Android 13, ОЗУ 16гб, ПЗУ 256гб",
-    "price": 819893,
-    "category": "kommercheskaya-vizualizaciya",
-    "subcategory": "interaktivnye-paneli"
-  },
-  {
-    "category_raw": "Интерактивные панели",
-    "code": 65438,
-    "article": "75TLSM148128",
-    "name": "Интерактивная панель XG 75TLSM148128",
-    "fullName": "Интерактивная панель, XG, 75TLSM148128, Android 14, ОЗУ 8гб, ПЗУ 128гб",
-    "price": 698400,
-    "category": "kommercheskaya-vizualizaciya",
-    "subcategory": "interaktivnye-paneli"
-  },
-  {
-    "category_raw": "Интерактивные панели",
-    "code": 80848,
-    "article": "65TDS148128",
-    "name": "Интерактивная панель XG 65TDS148128",
-    "fullName": "Интерактивная панель, XG, 65TDS148128, Android 14, ОЗУ 8гб, ПЗУ 128гб",
-    "price": 602370,
-    "category": "kommercheskaya-vizualizaciya",
-    "subcategory": "interaktivnye-paneli"
-  },
-  {
-    "category_raw": "Интерактивные панели",
     "code": 80850,
     "article": "75TDS148128",
     "name": "Интерактивная панель XG 75TDS148128",
@@ -59396,16 +57446,6 @@
     "name": "Интерактивная панель XG 86TDFMAX148128",
     "fullName": "Интерактивная панель, XG, 86TDFMAX148128, Android 14, ОЗУ 8гб, ПЗУ 128гб",
     "price": 1018500,
-    "category": "kommercheskaya-vizualizaciya",
-    "subcategory": "interaktivnye-paneli"
-  },
-  {
-    "category_raw": "Интерактивные панели",
-    "code": 80852,
-    "article": "75TDFMAX21316256",
-    "name": "Интерактивная панель XG 75TDFMAX21316256",
-    "fullName": "Интерактивная панель, XG, 75TDFMAX21316256, 75\", Android 13, ОЗУ 16гб, ПЗУ 256гб",
-    "price": 976063,
     "category": "kommercheskaya-vizualizaciya",
     "subcategory": "interaktivnye-paneli"
   },
@@ -59546,16 +57586,6 @@
     "name": "Монитор iiyama ProLite PLT2755Q T2755QSC-B1 27\"",
     "fullName": "Монитор, iiyama, ProLite PLT2755Q, T2755QSC-B1, 27\", 2560x1440, IPS, 16:9, 75 Гц, 400 кд/м?, 5 мс, 16.7М, 1000:1, 178/178, HDMI*1, DP*1, USB*2, Mini jack, Регулировка наклона, Черный",
     "price": 220180,
-    "category": "kommercheskaya-vizualizaciya",
-    "subcategory": "interaktivnye-paneli"
-  },
-  {
-    "category_raw": "Интерактивные панели",
-    "code": 78647,
-    "article": "T2752MSC-W1",
-    "name": "Монитор iiyama ProLite PLT2752M T2752MSC-W1 27\"",
-    "fullName": "Монитор, iiyama, ProLite PLT2752M, T2752MSC-W1, 27\", 1920x1080, IPS, 16:9, 60 Гц, 400 кд/м?, 5 мс, 16.7М, 1000:1, 178/178, HDMI*1, DP*1, USB*2, Mini jack, Регулировка наклона, Белый",
-    "price": 271115,
     "category": "kommercheskaya-vizualizaciya",
     "subcategory": "interaktivnye-paneli"
   },
@@ -59811,16 +57841,6 @@
   },
   {
     "category_raw": "Проекторы",
-    "code": 39089,
-    "article": "XMTYY02FMGL",
-    "name": "Проектор Mi Smart Projector 2",
-    "fullName": "Проектор,Mi, Smart Projector 2, BHR5211GL/XMTYY02FMGL, 1,3 кг, Номинальная Мощность < 65 Вт. Резервная мощность < 0,5 Вт, Светодиодный источник света с технологией DLP, 19201080P, Размер Экрана от 60\" до 120\" , Автофокус, Встроенная память 2 ГБ DDR3 / 16 ГБ eMMC, Bluetooth 5.0/BLE, Wi-Fi IEEE 802.11 a/b/g/n/ac 2,4 ГГц/5 ГГц, Dolby Audio + DTS HD, Уровень Шума  28 дБ, Динамик 2 x 5 Вт, Белый",
-    "price": 242490,
-    "category": "kommercheskaya-vizualizaciya",
-    "subcategory": "interaktivnye-paneli"
-  },
-  {
-    "category_raw": "Проекторы",
     "code": 43203,
     "article": "K25",
     "name": "Проектор BYINTEK K25 Smart",
@@ -59916,16 +57936,6 @@
     "name": "Проектор портативный Wanbo Vali 1",
     "fullName": "Проектор портативный, Wanbo, Vali 1, Android 11.0, 1+8G, белый",
     "price": 130940,
-    "category": "kommercheskaya-vizualizaciya",
-    "subcategory": "interaktivnye-paneli"
-  },
-  {
-    "category_raw": "Проекторы",
-    "code": 57590,
-    "article": "Mozart 1",
-    "name": "Проектор портативный Wanbo Mozart 1",
-    "fullName": "Проектор портативный, Wanbo, Mozart 1, LCD, 1080p, 900 ANSI lm, 3000:1, Android 9.0, Auto Focus, 20000 часов, 2+32G, Wi-Fi 6, Bluetooth 5.0, HDMI*1, USB*2, 3.5mm, DC*1, 8W*2, белый",
-    "price": 212420,
     "category": "kommercheskaya-vizualizaciya",
     "subcategory": "interaktivnye-paneli"
   },
@@ -62101,16 +60111,6 @@
   },
   {
     "category_raw": "Уничтожители бумаги (Шредеры)",
-    "code": 52144,
-    "article": 2093121,
-    "name": "Шредер HSM SECURIO AF300 (4.5x 30mm)",
-    "fullName": "Шредер, HSM, SECURIO AF300 4.5x 30mm, 2093121, фрагмент 4.5x 30мм, P-4, автоподача 300л, режущая способность 12-14л, Ёмкость корзины 35л, Уничтожение CD/кредитные карты/Скрепы, ножи из твёрдой стали, белый",
-    "price": 451947,
-    "category": "ofisnoe-oborudovanie",
-    "subcategory": "ofisnoe-oborudovanie"
-  },
-  {
-    "category_raw": "Уничтожители бумаги (Шредеры)",
     "code": 52140,
     "article": 1782111,
     "name": "Шредер HSM SECURIO B24 (1.9x 15mm)",
@@ -62126,16 +60126,6 @@
     "name": "Шредер HSM SECURIO C18 (3.9x 30mm)",
     "fullName": "Шредер, HSM, SECURIO C18 (3.9x 30mm) 1913121, фрагмент 3.9x 30мм, P-4, режущая способность 8-9л, Ёмкость корзины 25л, Уничтожение кредитные карты/Скрепы, ножи из твёрдой стали, белый",
     "price": 300707,
-    "category": "ofisnoe-oborudovanie",
-    "subcategory": "ofisnoe-oborudovanie"
-  },
-  {
-    "category_raw": "Уничтожители бумаги (Шредеры)",
-    "code": 21396,
-    "article": "S273",
-    "name": "Уничтожитель бумаг (Шредер) COMIX S273",
-    "fullName": "Уничтожитель бумаг, COMIX, S273, A4, Подача: 10 лист., Уничтожение CD/кредитных карт, Уровень секретности - 3, Скорость - 2,5 м/мин (34 мм/сек), Ёмкость корзины 17 л., 72db, Перекрёстная резка, Чёрный",
-    "price": 44515,
     "category": "ofisnoe-oborudovanie",
     "subcategory": "ofisnoe-oborudovanie"
   },
@@ -62291,36 +60281,6 @@
   },
   {
     "category_raw": "Системы \"Умный дом\"",
-    "code": 47384,
-    "article": "WS-EUK03",
-    "name": "Настенный выключатель одноклавишный Aqara Smart Wall Switch H1 (With Neutral, Single Rocker)",
-    "fullName": "Настенный выключатель одноклавишный, Aqara, Smart Wall Switch H1 (With Neutral, Single Rocker), WS-EUK03, 86 х 86 х 37,55 мм, Zigbee 3.0, Напряжение питания: 100 – 250 В~, 50/60 Гц, Максимальная нагрузка: 2000 Вт, 0°С…+40°С, Для работы устройства требуется Центр умного дома (Hub) с поддержкой Zigbee 3.0, Работает с Алисой, Белый",
-    "price": 14540,
-    "category": "sistemy-bezopasnosti",
-    "subcategory": "sistemy-videonablyudeniya"
-  },
-  {
-    "category_raw": "Системы \"Умный дом\"",
-    "code": 47370,
-    "article": "JT-BZ-03AQ/A",
-    "name": "Умный датчик газа Aqara Smart Natural Gas Detector",
-    "fullName": "Умный датчик газа, Aqara, Smart Natural Gas Detector, JT-BZ-03AQ/A, Вид определяемого газа: Метан (СН4), 12,0 В0,5 А 6,0 Вт, Zigbee 3.0, Встроенная сирена до 85 дБ, Работает с Алисой, Белый",
-    "price": 22203,
-    "category": "sistemy-bezopasnosti",
-    "subcategory": "sistemy-videonablyudeniya"
-  },
-  {
-    "category_raw": "Системы \"Умный дом\"",
-    "code": 37308,
-    "article": "HM2-G01",
-    "name": "Центр умного дома Aqara Hub M2",
-    "fullName": "Центр умного дома, Aqara, Hub M2, 100.530.75 мм, 100.530.75 мм, Wi-Fi IEEE 802.11 b/g/n 2.4 ГГц, Zigbee 3.0 IEEE 802.15.4, BLE 5.0, Черный",
-    "price": 28120,
-    "category": "sistemy-bezopasnosti",
-    "subcategory": "sistemy-videonablyudeniya"
-  },
-  {
-    "category_raw": "Системы \"Умный дом\"",
     "code": 19904,
     "article": "RTCGQ01LM",
     "name": "Датчик движения Mi Smart Home Белый",
@@ -62426,16 +60386,6 @@
     "name": "Умная мини Wi-Fi розетка TP-Link Tapo P115",
     "fullName": "Умная мини Wi-Fi розетка, TP-Link, Tapo P115, IEEE 802.11b/g/n, 2,4 ГГц, 3680 Вт, 16 А",
     "price": 9690,
-    "category": "sistemy-bezopasnosti",
-    "subcategory": "sistemy-videonablyudeniya"
-  },
-  {
-    "category_raw": "Системы \"Умный дом\"",
-    "code": 39909,
-    "article": "MCCGQ02HL",
-    "name": "Датчики открытия окна и двери Mi Door and Window Sensor 2 Белый",
-    "fullName": "Датчики открытия окна и двери, Mi, Door and Window Sensor 2, MCCGQ02HL/BHR5154GL, Mi Door and Window Sensor 2, Bluetooth 5.1 BLE, МCR2032 (в комплекте), -10°C to 50°C, Белый",
-    "price": 6489,
     "category": "sistemy-bezopasnosti",
     "subcategory": "sistemy-videonablyudeniya"
   },
@@ -62841,16 +60791,6 @@
   },
   {
     "category_raw": "Системы \"Умный дом\"",
-    "code": 52404,
-    "article": "BHR6398GL",
-    "name": "Цифровая видеокамера Xiaomi Outdoor Camera AW200 BHR6398GL",
-    "fullName": "Цифровая видеокамера, Xiaomi, Outdoor Camera AW200, BHR6398GL, Разрешение 1920x1080, 2MP, Поле зрения объектива, 120°, IEEE 802.11b/g/n 2,4 ГГц, Карта памяти Micro SD, От -20 °C до 50 °C, IP65",
-    "price": 15510,
-    "category": "sistemy-bezopasnosti",
-    "subcategory": "sistemy-videonablyudeniya"
-  },
-  {
-    "category_raw": "Системы \"Умный дом\"",
     "code": 52405,
     "article": "BHR6816EU",
     "name": "Цифровая видеокамера Xiaomi Outdoor Camera AW300 BHR6816EU",
@@ -62906,16 +60846,6 @@
     "name": "Цифровая видеокамера Xiaomi Smart Camera C100 BHR07VOGL",
     "fullName": "Цифровая видеокамера, Xiaomi, Smart Camera C100, MJSXJ25CM, Разрешение: 2304  1296, Питание: 5 В DC, ток 1 А",
     "price": 16480,
-    "category": "sistemy-bezopasnosti",
-    "subcategory": "sistemy-videonablyudeniya"
-  },
-  {
-    "category_raw": "Системы \"Умный дом\"",
-    "code": 52406,
-    "article": "BHR6766GL",
-    "name": "Цифровая видеокамера Xiaomi Smart Camera C200 BHR6766GL",
-    "fullName": "Цифровая видеокамера, Xiaomi, Smart Camera C200, BHR6766GL, Разрешение 1920x1080, 2MP, Регулируемая панорама 360°, 360° по горизонтали, 106° по вертикали, 802.11 b/g/n, 2.4 ГГц, microSD card (up to 256 GB)",
-    "price": 14540,
     "category": "sistemy-bezopasnosti",
     "subcategory": "sistemy-videonablyudeniya"
   },
@@ -63331,16 +61261,6 @@
   },
   {
     "category_raw": "Мульти-сплит-системы TCL",
-    "code": 73183,
-    "article": "TACM-TP09INV/R",
-    "name": "Мульти-сплит система Настенный TCL-09 TACM-TP09INV/R (Внутренний блок)",
-    "fullName": "Внутренний блок Мульти-сплит система Настенный, TCL, TACM-TP09INV/R, Комплект из 1-й коробки, Белый",
-    "price": 58200,
-    "category": "demonstracionnoe-oborudovanie",
-    "subcategory": "demonstracionnoe-oborudovanie"
-  },
-  {
-    "category_raw": "Мульти-сплит-системы TCL",
     "code": 74077,
     "article": "TACO-5FM42INV/R",
     "name": "Мульти-сплит система TACO-5FM42INV/R - R32, 5 выходов (Наружный блок)",
@@ -63531,16 +61451,6 @@
   },
   {
     "category_raw": "Напольные вентиляторы",
-    "code": 36216,
-    "article": "AFF-1640",
-    "name": "Вентилятор SVC AFF-1640",
-    "fullName": "Вентилятор, SVC, AFF-1640, Напольный, Площадь обдува: 20м2, Мощность: 40Вт, Диаметр: 16\", Количество скоростей: 3, Автоповорот, Регулировка наклона и высоты, Количество лопастей: 5, Белый",
-    "price": 10660,
-    "category": "demonstracionnoe-oborudovanie",
-    "subcategory": "demonstracionnoe-oborudovanie"
-  },
-  {
-    "category_raw": "Напольные вентиляторы",
     "code": 40264,
     "article": "AFN-1640/FS40",
     "name": "Вентилятор SVC AFN-1640",
@@ -63566,16 +61476,6 @@
     "name": "Вентилятор напольный Mi Smart Standing Fan 2 (BPLDS02DM) Белый",
     "fullName": "Вентилятор напольный, Xiaomi, Smart Standing Fan 2, BPLDS02DM / BHR4828GL, Потребляемая мощность 13,1 Вт, Макс. скорость воздушного потока 3.56 м/сек, Таймер, Уровень шума 58 дБ, Управление механическое, через приложение, голосовой помощник, Белый",
     "price": 37820,
-    "category": "demonstracionnoe-oborudovanie",
-    "subcategory": "demonstracionnoe-oborudovanie"
-  },
-  {
-    "category_raw": "Напольные вентиляторы",
-    "code": 42864,
-    "article": "BPLDS03DM",
-    "name": "Вентилятор напольный Xiaomi Smart Standing Fan 2 Pro Белый",
-    "fullName": "Вентилятор напольный, Xiaomi, Smart Standing Fan 2 Pro (BPLDS03DM/BHR5856EU), Потребляемая мощность 12.7 Вт, Макс. скорость воздушного потока 3.47 м/сек, Уровень шума 58 дБ, Таймер, Защита от детей, Управление механическое, через приложение, голосовой помощник, 2.4 G Wi-Fi, Белый",
-    "price": 51400,
     "category": "demonstracionnoe-oborudovanie",
     "subcategory": "demonstracionnoe-oborudovanie"
   },
@@ -63671,26 +61571,6 @@
   },
   {
     "category_raw": "Настольные вентиляторы",
-    "code": 36214,
-    "article": "AFP-620/CF-25",
-    "name": "Вентилятор SVC AFP-620",
-    "fullName": "Вентилятор, SVC, AFP-620, Настольный, Площадь обдува: 10м2, Мощность: 20Вт, Диаметр: 6\", Количество скоростей: 2, Регулировка наклона, Белый",
-    "price": 3385,
-    "category": "demonstracionnoe-oborudovanie",
-    "subcategory": "demonstracionnoe-oborudovanie"
-  },
-  {
-    "category_raw": "Настольные вентиляторы",
-    "code": 36215,
-    "article": "AFD-925/CF-30",
-    "name": "Вентилятор SVC AFD-925",
-    "fullName": "Вентилятор, SVC, AFD-925, Настольный, Площадь обдува: 15м2, Мощность: 25Вт, Диаметр: 9\", Количество скоростей: 2, Автоповорот, Регулировка наклона, Белый",
-    "price": 6780,
-    "category": "demonstracionnoe-oborudovanie",
-    "subcategory": "demonstracionnoe-oborudovanie"
-  },
-  {
-    "category_raw": "Настольные вентиляторы",
     "code": 63224,
     "article": "REF-001-CB",
     "name": "Перезаряжаемый мини-вентилятор CAMELION REF-001-CB (24S25086)",
@@ -63711,41 +61591,11 @@
   },
   {
     "category_raw": "Конвекторные обогреватели",
-    "code": 66168,
-    "article": "ZMNFJ01YMEU",
-    "name": "Настольный обогреватель Xiaomi Desktop Heater Белый",
-    "fullName": "Настольный обогреватель, Xiaomi, Desktop Heater / ZMNFJ01YMEU / BHR8940EU, 600 Вт, Угол поворота 45 градусов, Белый",
-    "price": 17450,
-    "category": "demonstracionnoe-oborudovanie",
-    "subcategory": "demonstracionnoe-oborudovanie"
-  },
-  {
-    "category_raw": "Конвекторные обогреватели",
     "code": 66169,
     "article": "LSNFJ03ZMEU",
     "name": "Обогреватель Xiaomi Fan Heater Белый",
     "fullName": "Обогреватель, Xiaomi, Fan Heater / LSNFJ03ZMEU / BHR8228EU, 2000 Вт, Угол поворота 70 градусов, Белый",
     "price": 35880,
-    "category": "demonstracionnoe-oborudovanie",
-    "subcategory": "demonstracionnoe-oborudovanie"
-  },
-  {
-    "category_raw": "Конвекторные обогреватели",
-    "code": 34441,
-    "article": "KRDNQ03ZM",
-    "name": "Обогреватель конвекторный Mi Smart Space Heater S Белый",
-    "fullName": "Обогреватель конвекторный, Xiaomi, Smart Space Heater S, KRDNQ03ZM/ BHR4037GL, Мощность 2200Вт, 6 уровней нагрева, Защита IPX4, Нагрев до 28 градусов Цельсия, Таймер 1-3-5-12 часов, Управление через MI Home, Белый",
-    "price": 56250,
-    "category": "demonstracionnoe-oborudovanie",
-    "subcategory": "demonstracionnoe-oborudovanie"
-  },
-  {
-    "category_raw": "Конвекторные обогреватели",
-    "code": 81655,
-    "article": "LSNFJ04ZMEU",
-    "name": "Умный обогреватель Xiaomi Smart Graphene Heater",
-    "fullName": "Умный обогреватель, Xiaomi, Smart Graphene Heater / LSNFJ04ZMEU / BHR084SEU, 2000 Вт, 3 секунды разогрев, Белый",
-    "price": 42670,
     "category": "demonstracionnoe-oborudovanie",
     "subcategory": "demonstracionnoe-oborudovanie"
   },
@@ -63776,26 +61626,6 @@
     "name": "Масляный обогреватель SVC OH-1500-7",
     "fullName": "Масляный обогреватель, SVC, OH-1500-7, Мощность 1500Вт, Площадь обогрева: до 15м2, 7 секций, 3 режима работы, Регулировка температуры, Отключение при перегреве, Колеса для перемещения, Серый",
     "price": 17450,
-    "category": "demonstracionnoe-oborudovanie",
-    "subcategory": "demonstracionnoe-oborudovanie"
-  },
-  {
-    "category_raw": "Масляные обогреватели",
-    "code": 32834,
-    "article": "SVC OH-2000-9",
-    "name": "Масляный обогреватель SVC OH-2000-9",
-    "fullName": "Масляный обогреватель, SVC, OH-2000-9, Мощность 2000Вт, Площадь обогрева: до 20м2, 9 секций, 3 режима работы, Регулировка температуры, Отключение при перегреве, Колеса для перемещения, Серый",
-    "price": 20360,
-    "category": "demonstracionnoe-oborudovanie",
-    "subcategory": "demonstracionnoe-oborudovanie"
-  },
-  {
-    "category_raw": "Масляные обогреватели",
-    "code": 32835,
-    "article": "SVC OH-2500-11",
-    "name": "Масляный обогреватель SVC OH-2500-11",
-    "fullName": "Масляный обогреватель, SVC, OH-2500-11, Мощность 2500Вт, Площадь обогрева: до 25м2, 11 секций, 3 режима работы, Регулировка температуры, Отключение при перегреве, Колеса для перемещения, Серый",
-    "price": 23270,
     "category": "demonstracionnoe-oborudovanie",
     "subcategory": "demonstracionnoe-oborudovanie"
   },
@@ -63911,16 +61741,6 @@
   },
   {
     "category_raw": "Увлажнители воздуха",
-    "code": 59894,
-    "article": "DEM-CS50MW",
-    "name": "Мини осушитель воздуха Deerma DEM-CS50MW Белый",
-    "fullName": "Мини осушитель воздуха, Deerma, DEM-CS50MW, 20 Вт, 75*75*206 мм, Белый",
-    "price": 8332,
-    "category": "demonstracionnoe-oborudovanie",
-    "subcategory": "demonstracionnoe-oborudovanie"
-  },
-  {
-    "category_raw": "Увлажнители воздуха",
     "code": 84400,
     "article": "CJSJSQ06ZMZUE",
     "name": "Увлажнитель воздуха Mijia Smart Evaporative Humidifier Pro EU",
@@ -63946,16 +61766,6 @@
     "name": "Увлажнитель воздуха Kitfort КТ-2805",
     "fullName": "Увлажнитель воздуха, Kitfort, КТ-2805,Тип увлажнителя ультразвуковой, Рекомендуемая площадь 20 м, Установка настольная, Максимальное время непрерывной работы 10 ч, Белый",
     "price": 24046,
-    "category": "demonstracionnoe-oborudovanie",
-    "subcategory": "demonstracionnoe-oborudovanie"
-  },
-  {
-    "category_raw": "Увлажнители воздуха",
-    "code": 48348,
-    "article": "SC-AH986M17",
-    "name": "Увлажнитель Scarlett SC-AH986M17",
-    "fullName": "Увлажнитель, Scarlett, SC-AH986M17, Объем 2.3 л, Управление механическое, Площадь 30 м, Расход воды максимальный 300 мл/ч, Автоматическое отключение, Белый",
-    "price": 9690,
     "category": "demonstracionnoe-oborudovanie",
     "subcategory": "demonstracionnoe-oborudovanie"
   },
@@ -64031,31 +61841,11 @@
   },
   {
     "category_raw": "Очистители воздуха",
-    "code": 40265,
-    "article": "AC-M15-SC",
-    "name": "Очиститель воздуха Xiaomi Smart Air Purifier 4 Pro (AC-M15-SC) Белый",
-    "fullName": "Очиститель воздуха, Xiaomi, Smart Air Purifier 4 Pro, AC-M15-SC / BHR5056EU, Трехслойная очистка, Датчик качества воздуха, Белый",
-    "price": 130940,
-    "category": "demonstracionnoe-oborudovanie",
-    "subcategory": "demonstracionnoe-oborudovanie"
-  },
-  {
-    "category_raw": "Очистители воздуха",
     "code": 50206,
     "article": "ZMKQJHQE11",
     "name": "Очиститель воздуха Smartmi Air Purifier E1 Серый/Белый",
     "fullName": "Очиститель воздуха, Smartmi, Air Purifier E1 (ZMKQJHQE11/AP5080DGEU), Обслуживаемая площадь 18 м, Скорость подачи чистого воздуха 150 м/ч, Уровень шума 49 дБА, Серый/Белый",
     "price": 44610,
-    "category": "demonstracionnoe-oborudovanie",
-    "subcategory": "demonstracionnoe-oborudovanie"
-  },
-  {
-    "category_raw": "Очистители воздуха",
-    "code": 36975,
-    "article": "ZMKQJHQP12",
-    "name": "Очиститель воздуха Smartmi Air Purifier P1 Серебристый",
-    "fullName": "Очиститель воздуха, Smartmi, Air Purifier P1 (ZMKQJHQP12), Трехслойная очистка, Дисплей, Обслуживаемая площадь 48 м, Мощность очистки 220 м/ч, Уровень шума 50 дБа, Серебристый",
-    "price": 63040,
     "category": "demonstracionnoe-oborudovanie",
     "subcategory": "demonstracionnoe-oborudovanie"
   },
@@ -64161,51 +61951,11 @@
   },
   {
     "category_raw": "Кулеры для воды",
-    "code": 79698,
-    "article": "98ESA Black",
-    "name": "Кулер для воды напольный SVC Aqua series 98ESA Black",
-    "fullName": "Кулер для воды, SVC, Aqua series 98ESA, напольный, электрический, погрузка бутыля сверху, напряжение 220В-240В, нагрев 85-95, охлаждение 10-15, черный",
-    "price": 33026,
-    "category": "demonstracionnoe-oborudovanie",
-    "subcategory": "demonstracionnoe-oborudovanie"
-  },
-  {
-    "category_raw": "Кулеры для воды",
     "code": 79696,
     "article": "97ALA black",
     "name": "Кулер для воды напольный SVC Aqua series 97ALA Black",
     "fullName": "Кулер для воды, SVC Aqua series, 97ALA, напольный, электрический, погрузка бутыля сверху, напряжение 220В-240В, нагрев 85-95, охлаждение 10-15, черный",
     "price": 33327,
-    "category": "demonstracionnoe-oborudovanie",
-    "subcategory": "demonstracionnoe-oborudovanie"
-  },
-  {
-    "category_raw": "Кулеры для воды",
-    "code": 82310,
-    "article": "8TA",
-    "name": "Кулер для воды настольный SVC Aqua series 8TA",
-    "fullName": "Кулер для воды, SVC, Aqua series 8TA, настольный, электрический, погрузка бутыля сверху, напряжение 220В-240В, нагрев 85-95, охлаждение 10-15, белый",
-    "price": 17945,
-    "category": "demonstracionnoe-oborudovanie",
-    "subcategory": "demonstracionnoe-oborudovanie"
-  },
-  {
-    "category_raw": "Кулеры для воды",
-    "code": 82334,
-    "article": "9NA",
-    "name": "Кулер для воды напольный SVC Aqua series 9NA",
-    "fullName": "Кулер для воды напольный, SVC, Aqua series 9NA, Электрический, Нагрев: 85-95, без охлаждения, белый",
-    "price": 22882,
-    "category": "demonstracionnoe-oborudovanie",
-    "subcategory": "demonstracionnoe-oborudovanie"
-  },
-  {
-    "category_raw": "Кулеры для воды",
-    "code": 58093,
-    "article": "13JL-E",
-    "name": "Кулер для воды Aqua 13JL-E",
-    "fullName": "Кулер для воды, Aqua, 13JL-E, напольный, электрический, погрузка бутыля сверху, напряжение 220В-240В, нагрев 85-95, охлаждение 8-15, белый",
-    "price": 33098,
     "category": "demonstracionnoe-oborudovanie",
     "subcategory": "demonstracionnoe-oborudovanie"
   },
@@ -64236,16 +61986,6 @@
     "name": "Кулер для воды напольный SVC Aqua series 22LA",
     "fullName": "Кулер для воды напольный, SVC, Aqua series 22LA, Электрический, Нагрев: 85-95, Охлаждение:10-15, белый",
     "price": 28761,
-    "category": "demonstracionnoe-oborudovanie",
-    "subcategory": "demonstracionnoe-oborudovanie"
-  },
-  {
-    "category_raw": "Кулеры для воды",
-    "code": 82496,
-    "article": "13JL-E",
-    "name": "Кулер для воды SVC Aqua series 13JL-E",
-    "fullName": "Кулер для воды, SVC, Aqua series 13JL-E, напольный, электрический, погрузка бутыля сверху, напряжение 220В-240В, нагрев 85-95, охлаждение 8-15, белый",
-    "price": 28817,
     "category": "demonstracionnoe-oborudovanie",
     "subcategory": "demonstracionnoe-oborudovanie"
   },
@@ -64541,61 +62281,11 @@
   },
   {
     "category_raw": "Сетевые фильтры",
-    "code": 9251,
-    "article": "GR16-1379T",
-    "name": "Сетевой фильтр Trip-lite GR16-1379T 1.5 м. 220 в.",
-    "fullName": "Сетевой фильтр, Trip-lite, GR16-1379T, 6 розеток, 1.5 метров, 220-240В, 13A, картонная коробка, чёрный",
-    "price": 4400,
-    "category": "setevoe-i-servernoe-oborudovanie",
-    "subcategory": "aktivnoe-setevoe"
-  },
-  {
-    "category_raw": "Сетевые фильтры",
-    "code": 535,
-    "article": "GR16-1379T",
-    "name": "Сетевой фильтр Trip-lite GR16-1379T 3 м. 220 в.",
-    "fullName": "Сетевой фильтр, Trip-lite, GR16-1379T, 6 розеток, 3 метра, 220-240В, 13A, картонная коробка, чёрный",
-    "price": 4753,
-    "category": "setevoe-i-servernoe-oborudovanie",
-    "subcategory": "aktivnoe-setevoe"
-  },
-  {
-    "category_raw": "Сетевые фильтры",
-    "code": 534,
-    "article": "GR16-1379T",
-    "name": "Сетевой фильтр Trip-lite GR16-1379T 5 м. 220 в.",
-    "fullName": "Сетевой фильтр, Trip-lite, GR16-1379T, 6 розеток, 5 метров, 220-240В, 13A, картонная коробка, чёрный",
-    "price": 5416,
-    "category": "setevoe-i-servernoe-oborudovanie",
-    "subcategory": "aktivnoe-setevoe"
-  },
-  {
-    "category_raw": "Сетевые фильтры",
-    "code": 35886,
-    "article": "ZP4S-18M",
-    "name": "Сетевой фильтр SVC ZP4S-18M 1.8 м. 220 в.",
-    "fullName": "Сетевой фильтр, SVC, ZP4S-18M, 4 розетки, 1,8 метров, 220-250В, 10A, Полиэтиленовая упаковка, Белый",
-    "price": 2347,
-    "category": "setevoe-i-servernoe-oborudovanie",
-    "subcategory": "aktivnoe-setevoe"
-  },
-  {
-    "category_raw": "Сетевые фильтры",
     "code": 35887,
     "article": "ZP4S-30M",
     "name": "Сетевой фильтр SVC ZP4S-30M 3 м. 220 в.",
     "fullName": "Сетевой фильтр, SVC, ZP4S-30M, 4 розетки, 3 метра, 220-250В, 10A, полиэтиленовая упаковка, белый",
     "price": 2522,
-    "category": "setevoe-i-servernoe-oborudovanie",
-    "subcategory": "aktivnoe-setevoe"
-  },
-  {
-    "category_raw": "Сетевые фильтры",
-    "code": 35888,
-    "article": "ZP4S-50M",
-    "name": "Сетевой фильтр SVC ZP4S-50M 5 м.220 в.",
-    "fullName": "Сетевой фильтр, SVC, ZP4S-50M, 4 розетки, 5 метров, 220-250В, 10A, полиэтиленовая упаковка, белый",
-    "price": 2931,
     "category": "setevoe-i-servernoe-oborudovanie",
     "subcategory": "aktivnoe-setevoe"
   },
